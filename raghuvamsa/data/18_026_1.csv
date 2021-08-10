@@ -1,0 +1,17 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	AjAnu-vilambi-bAhuM	6	rAjAnamAjAnuvilambibAhuM	AjAnu-vilambi-bAhu{puM;2;eka}	ajAnu-vilambi-bAhu{puM;2;eka}	viSeRaNam,2	AjAnu-vilambi-BujA	-	-	-	-	-
+2	waM	2	piwQNAmanqNaswamanwe	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	karma,4	vaha	-	-	-	-	-
+3	rAjAnaM	6	rAjAnamAjAnuvilambibAhuM	rAjan{puM;2;eka}	rAjan{puM;2;eka}	aBexaH,2	rAjA	-	-	-	-	-
+4	kqwvA	7	kqwvA	kq2{avya;kwvA;kqF;:svAxiH}/kq3{avya;kwvA;dukqF;:wanAxiH}/kq1{avya;kwvA;kqF;:BvAxiH}	kq1{avya;kwvA;kqF;:BvAxiH}	pUrvakAlaH,15	karake	-	-	-	-	-
+5	ananwAni	3	vayasyananwAni	ananwa{napuM;1;bahu}/ananwa{napuM;2;bahu}/ananwa{napuM;8;bahu}	ananwa{napuM;2;bahu}	viSeRaNam,6	ananwa	-	-	-	-	-
+6	suKAni	4	suKAni	suKa{napuM;1;bahu}/suKa{napuM;2;bahu}/suKa{napuM;8;bahu}	suKa{napuM;2;bahu}	karmasamAnAXikaraNam,7	suKa_ko	-	-	-	-	-
+7	lipsuH	5	lipsuH	lipsu{puM;1;eka}	lipsu{puM;1;eka}	aBexaH,8	lipsu	-	-	-	-	-
+8	piwA	1	piwA	piwq{puM;1;eka}/piwA{swrI;1;eka}	piwq{puM;1;eka}	karwA,15	piwA	-	-	-	-	-
+9	piwQNAM	2	piwQNAmanqNaswamanwe	piwq{puM;6;bahu}	piwq{puM;6;bahu}	RaRTIsambanXaH,10	piwA_kA	-	-	-	-	-
+10	an-qNaH	2	piwQNAmanqNaswamanwe	an-qNa{puM;1;eka}	an-qNa{puM;1;eka}	viSeRaNam,11	an-qNa	-	-	-	-	-
+11	kqwI	8	kqwI	kqwi{swrI;1;xvi}/kqwi{swrI;2;xvi}/kqwin{puM;1;eka}/kqwi{swrI;8;xvi}	kqwin{puM;1;eka}	aBexaH,8	kqwi	-	-	-	-	-
+12	anwe	2	piwQNAmanqNaswamanwe	anwa{napuM;1;xvi}/anwa{napuM;2;xvi}/anwA{swrI;1;xvi}/anwA{swrI;2;xvi}/anwa{napuM;8;xvi}/anwi{swrI;8;eka}/anwa{puM;7;eka}/anwa{napuM;7;eka}	anwa{napuM;7;eka}	viSeRaNam,13	anwa	-	-	-	-	-
+13	vayasi	3	vayasyananwAni	ve1{karwari;lat;ma;eka;parasmEpaxI;veF;:BvAxiH}/vayas{napuM;7;eka}	vayas{napuM;7;eka}	aXikaraNam,6	Ayu_meM	-	-	-	-	-
+14	valkalavAn	9	valkalavAnbaBUva	valkala{mawup;puM;1;eka}	valkala{mawup;puM;1;eka}	karwqsamAnAXikaraNam,15	-	-	-	-	-	-
+15	baBUva	9	valkalavAnbaBUva	BU1{karwari;lit;u;eka;parasmEpaxI;BU;:BvAxiH}/BU1{karwari;lit;ma;bahu;parasmEpaxI;BU;:BvAxiH}/BU1{karwari;lit;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;lit;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,8;sakarmaka	huA	-	-	-	-	-

@@ -1,0 +1,14 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	vayaH-rUpa-viBUwInAm	1	vayorUpaviBUwInAmekEkaM	vayaH-rUpaH-viBUwi{swrI;6;bahu}/viBUwi{puM;6;bahu}/viBUwi{napuM;6;bahu}	vayaH-rUpaH-viBUwi{napuM;6;bahu}	RaRTIsambanXaH,2	vayaH-rUpaH-viBUwiyoM_kA	-	-	-	-	-
+2	ekEkaM	-	-	ekEka{puM;2;eka}/ekEka{napuM;1;eka}/ekEka{napuM;2;eka}	ekEka{napuM;1;eka}	karwA,11	eka_eka	-	-	-	-	-
+3	maxa-kAraNam	2	maxakAraNam	maxa-kAraNa{puM;2;eka}/kAraNa{napuM;1;eka}/kAraNa{napuM;2;eka}	maxa-kAraNa{napuM;2;eka}	karma,11	kaswUrI-kAraNa	-	-	-	-	-
+4	wAni	3	wAni	wax{sarvanAma;napuM;1;bahu}/wax{sarvanAma;napuM;2;bahu}	wax{sarvanAma;napuM;1;bahu}	karwA,12	-	-	-	-	vayaH-rUpa-viBUwI	-
+5	wasmin	4	wasminsamaswAni	wax{sarvanAma;napuM;7;eka}/wax{sarvanAma;puM;7;eka}	wax{sarvanAma;puM;7;eka}	aXikaraNam,12	usameM	-	-	-	awiWiH	-
+6	samaswAni	-	-	samaswa{napuM;1;bahu}/samaswa{napuM;2;bahu}/}/samaswa{napuM;8;bahu}	samaswa{napuM;1;bahu}	karwqsamAnAXikaraNam,12	samaswa	-	-	-	-	-
+7	na	5	na	na{avya}	na{avya}	prawiReXaH,9	nahIM	-	-	-	-	-
+8	wasya	6	wasyowsiRice	wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,10	usake	-	-	-	awiWiH	-
+9	uw-siRice	-	-	uw-Ric1{karwari;lit;pra;eka;AwmanepaxI;Ricaz;:wuxAxiH}/Ric1{karwari;lit;u;eka;AwmanepaxI;Ricaz;:wuxAxiH}	uw-Ric1{karwari;lit;pra;eka;AwmanepaxI;Ricaz;:wuxAxiH}	aBihiwa_karma,10	Ric1_ap_skyA	-	-	-	-	-
+10	manaH	7	manaH	manas{napuM;1;eka}/manas{napuM;2;eka}/manas{napuM;8;eka}	manas{napuM;2;eka}	karma,9	mana_ne	-	-	-	-	-
+11	(aswi)	-	(-)	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	prawiyogI,12	hE	-	-	-	-	-
+12	(sanwi)	-	(-)	as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;:axAxiH}	anuyogI,8	hE	-	-	-	-	-

@@ -1,0 +1,13 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	api	2	ayamapi	api{avya}	api{avya}	sambanXaH,11	BI	-	-	-	-	-
+2	ca	3	ca	ca{avya}	ca{avya}	sambanXaH,1	BI	-	-	-	-	-
+3	ayam	1	-	ixam{sarvanAma;puM;1;eka}/aya{puM;2;eka}	ixam{sarvanAma;puM;1;eka}	viSeRaNam,7	yaha	-	-	-	-	-
+4	maFju-vAk	10	maFjuvAkpaFjarasWaH	maFju-vAc{puM;1;eka}/maFju-vAc{swrI;1;eka}/vAc{swrI;8;eka}	maFju-vAc{puM;1;eka}	viSeRaNam,7	priya-vANI	-	-	-	-	-
+5	paFjara-sWaH	11	maFjuvAkpaFjarasWaH	paFjara-as2{karwari;lat;ma;xvi;parasmEpaxI;asaz;:axAxiH}/sWa{puM;1;eka}	paFjara-sWa{puM;1;eka}	viSeRaNam,7	piMjadA-sWiwa	-	-	-	-	-
+6	we	9	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,7	wumhArA	-	-	-	-	-
+7	SukaH	8	SukaH	Suka{puM;1;eka}	Suka{puM;1;eka}	karwA,11	wowA	-	-	-	-	-
+8	wvaxboXa-prayukwAM	6	-	wvaxboXa-prayuj{wal;swrI;2;eka}/wvaxboXa-prayukwA{swrI;2;eka(yuC1;kwa;yuCaz;:BvAxiH)}	wvaxboXa-prayukwA{swrI;2;eka(wvaxboXa-yuC1;kwa;yuCaz;:BvAxiH)}	viSeRaNam,10	wvaxboXa-prayukwa	-	-	-	-	-
+9	naH	5	-	asmax{sarvanAma;2;bahu}/asmax{sarvanAma;4;bahu}/asmax{sarvanAma;6;bahu}/nq{puM;8;eka}	asmax{sarvanAma;6;bahu}	RaRTIsambanXaH,10	hamArI	-	-	-	-	-
+10	giram	4	giraM	gir{swrI;2;eka}	gir{swrI;2;eka}	karma,11	BARaNa_ko	-	-	-	-	-
+11	anuvaxawi	7	anuvaxawi	anu_vax1{karwari;lat;pra;eka;parasmEpaxI;vaxaz;:BvAxiH}	anu_vax1{karwari;lat;pra;eka;parasmEpaxI;vaxaz;:BvAxiH}	aBihiwa_karwA,7	pICe_se_bolawA_hE	-	-	-	-	-

@@ -1,0 +1,12 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	nUnaM	1	nUnaM	nUnam{avya}	nUnam{avya}	kriyAviSeRaNam,10	avaSya	-	-	-	-	-
+2	mawwaH	2	mawwaH	asmax{avya;wasil}	asmax{avya;wasil}	apAxAnam,10	asmax_se	-	-	-	-	-
+3	paraM	3	paraM	param{avya}/para{puM;2;eka}/para{napuM;1;eka}/para{napuM;2;eka}/para{sarvanAma;puM;2;eka}/para{sarvanAma;napuM;1;eka}/para{sarvanAma;napuM;2;eka}	param{avya}	kAlAXikaraNam,10	para_ko	-	-	-	-	-
+4	vaMSyAH	4	vaMSyAH	vaMSI{swrI;5;eka}/vaMSI{swrI;6;eka}/vaMSya{puM;1;bahu}/vaMSyA{swrI;1;bahu}/vaMSyA{swrI;2;bahu}/vaMSya{puM;8;bahu}	vaMSya{puM;1;bahu}	karwA,10	pUrvaja	-	-	-	-	-
+5	piNda-vi-Cexa-xarSinaH	5	piNdavicCexaxarSinaH 	piNda-vi-Cexa-xarSin{puM;5;eka}/xarSin{puM;6;eka}	piNda-vi-Cexa-xarSin{puM;1;bahu}	viSeRaNam,4	piNda-vi-Cexa	-	-	-	-	-
+6	svaXA-saMgraha-wawparAH	9	svaXAsaMgrahawawparAH	svaXA-safgraha{puM-wawpara;puM;1;bahu(svaXA-grah1;GaF;grahaz;:kryAxiH)}/wawparA{swrI;1;bahu}/wawparA{swrI;2;bahu}	svaXA-safgraha-wawpara{puM;1;bahu}	viSeRaNam,4	svaXA-wawpareM	-	-	-	-	@forefathers
+7	SrAxXe	8	SrAxXe	SrAxXa{napuM;1;xvi}/SrAxXa{napuM;2;xvi}/SrAxXa{napuM;8;xvi}/SrAxXa{puM;7;eka}/SrAxXa{napuM;7;eka}	SrAxXa{napuM;7;eka}	viRayAXikaraNam,10	SrAxXa_meM	-	-	-	-	-
+8	prakAma-BujaH	7	prakAmaBujaH	prakAma-Buj{puM;1;bahu}/prakAmaBuj{puM;2;bahu}/prakAmaBuj{puM;5;eka}/prakAmaBuj{puM;6;eka}/prakAmaBuj{napuM;5;eka}/prakAmaBuj{napuM;6;eka}	prakAma-Buj{puM;1;bahu}	karwqsamAnAXikaraNam,10	-	-	-	-	-	-
+9	na	6	na	na{avya}	na{avya}	prawiReXaH,10	nahIM	-	-	-	-	-
+10	(sanwi)	-	(-)	as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;:axAxiH}/saw{napuM;8;bahu}/saw{napuM;1;bahu(as2;Sawq_lat;asaz;:axAxiH)}/saw{napuM;2;bahu(as2;Sawq_lat;asaz;:axAxiH)}	as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,4	hEM	-	-	-	-	-

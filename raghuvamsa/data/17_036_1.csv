@@ -1,0 +1,10 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	praSaswa-Ayawana-arciwAH	2	praSaswAyawanArciwAH	praSaswa-yaw1{lyut;yawIz;:BvAxiH-arci;wal;swrI;1;bahu}/arci{wal;swrI;2;bahu}/praSaswa-arciwa{puM;1;bahu(arc2;kwa;arcaz;:curAxiH)}/praSaswa-arciwA{swrI;1;bahu(arc2;kwa;arcaz;:curAxiH)}/praSaswa-arciwA{swrI;2;bahu(arc2;kwa;arcaz;:curAxiH)}/praSaswa-arciwa{puM;1;bahu(arc1;kwa;arcaz;:BvAxiH)}/praSaswa-arciwA{swrI;1;bahu(arc1;kwa;arcaz;:BvAxiH)}/praSaswa-arciwA{swrI;2;bahu(arc1;kwa;arcaz;:BvAxiH)}	praSaswa-Af_yaw1{lyut;yawIz;:BvAxiH-arci;wal;swrI;1;bahu}	viSeRaNam,2	-	-	-	-	-	-
+2	ayoXyA-xevawAH	1	ayoXyAxevawAH	ayoXyA-xevawA{swrI;1;bahu}/xevawA{swrI;2;bahu}/xevawA{swrI;8;bahu}	ayoXyA-xevawA{swrI;1;bahu}	karwA,8	xevawAoM_ne	-	-	-	-	-
+3	ca	1	ca	ca{avya}	ca{avya}	sambanXaH,2	Ora	-	-	-	-	-
+4	enam	1	enam	ixam{sarvanAma;puM;2;eka}	ixam{sarvanAma;puM;2;eka}	karma,8	isa	-	-	-	-	-
+5	anu-Xyeyam	3	anuXyeyam	anu-Xyeya{puM;2;eka(anu-XyE1;yaw;XyE;:BvAxiH)}/anu-Xyeya{napuM;1;eka(XyE1;yaw;XyE;:BvAxiH)}/anu-Xyeya{napuM;2;eka(XyE1;yaw;XyE;:BvAxiH)}	anu-Xyeya{puM;2;eka(anu-XyE1;yaw;XyE;:BvAxiH)}	viSeRaNam,4	anu-	-	-	-	-	-
+6	sAnniXyEH	4	sAnniXyEH	sAnniXya{napuM;3;bahu}	sAnniXya{napuM;3;bahu}	karaNam,8	pad@ZosoM_se	-	-	-	-	-
+7	prawimA-gawEH	5	prawimAgawEH	prawimA-gawa{puM;3;bahu(prawimA-gam1;kwa;gamLz;:BvAxiH)}/prawimA-gawa{napuM;3;bahu(gam1;kwa;gamLz;:BvAxiH)}	prawimA-gawa{napuM;3;bahu(prawimA-gam1;kwa;gamLz;:BvAxiH)}	viSeRaNam,6	prawimA-gaye_hue	-	-	-	-	-
+8	anuxaXyuH	3	anuxaXyuH	anu_XyE1{karwari;lit;pra;bahu;parasmEpaxI;XyE;:BvAxiH}	anu_XyE1{karwari;lit;pra;bahu;parasmEpaxI;XyE;:BvAxiH}	aBihiwa_karwA,2;sakarmaka	anu_XyE1_pp_skyA	-	-	-	-	-

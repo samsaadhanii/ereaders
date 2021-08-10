@@ -1,0 +1,14 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	sOhArxa-niXiH	5	sOhArxaniXiH	sOhArxa-niXi{puM;1;eka}	sOhArxa-niXi{puM;1;eka}	viSeRaNam,2	sOhArxaM-niXi	-	-	-	-	-
+2	rAmaH	2	rAmaH	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	karwA,12	rAma_ne	-	-	-	-	@Person-rAmaH
+3	suhqxByaH	6	suhqxByaH	suhqx{puM;4;bahu}/suhqx{puM;5;bahu}/suhqx{swrI;4;bahu}/suhqx{swrI;5;bahu}	suhqx{pu;4;bahu}	sampraxAnam,4	miwroM_se	-	-	-	-	-
+4	paribarhavanwi	3	paribarhavanwi	paribarha{mawup;napuM;2;bahu}	paribarha{mawup;napuM;2;bahu}	viSeRaNam,5	-	-	-	-	-	-
+5	veSmAni	1	veSmAni	veSman{napuM;1;bahu}/veSman{napuM;2;bahu}/veSman{napuM;8;bahu}	veSman{napuM;2;bahu}	karma,6	Gara	-	-	-	-	-
+6	viSrANya	4	viSrANya	vi_SraN{avya;lyap;{XAwuH SraNEY};Nic;curAxiH;kqxanwa}	vi_SraN{avya;lyap;{XAwuH SraNEY};Nic;curAxiH;kqxanwa}	pUrvakAlaH,12	-	-	-	-	-	-
+7	AleKya-SeRasya	-	-	AleKya-SeRa{napuM;6;eka}/SeRa{puM;6;eka}	AleKya-SeRa{puM;6;eka}	viSeRaNam,8	ciwra-SeRa_ke	-	-	-	-	-
+8	piwuH	9	piwurviveSa	piwq{puM;5;eka}/piwq{puM;6;eka}	piwq{puM;6;eka}	RaRTIsambanXaH,10	piwA_ke	-	-	-	-	-
+9	balimaw	8	balimannikewamAleKyaSeRasya	balimaw{puM;2;eka}/balimaw{napuM;1;eka}/balimaw{napuM;2;eka}	balimaw{napuM;2;eka}	viSeRaNam,10	bAlimaw	-	-	-	-	-
+10	nikewaM	-	-	nikewa{puM;2;eka}/nikewa{napuM;1;eka}/nikewa{napuM;2;eka}	nikewa{napuM;2;eka}	karma,12	nikewa_ko	-	-	-	-	-
+11	bARpAyamANaH	7	bARpAyamANo	bARpa{SAnac_lat,puM;1;eka;kqxanwa}	bARpa{SAnac_lat,puM;1;eka;kqxanwa}	karwqsamAnAXikaraNam,2	-	-	-	-	-	-
+12	viveSa	-	-	viS1{karwari;lit;pra;eka;parasmEpaxI;viSaz;:wuxAxiH}/viS1{karwari;lit;u;eka;parasmEpaxI;viSaz;:wuxAxiH}	viS1{karwari;lit;pra;eka;parasmEpaxI;viSaz;:wuxAxiH}	aBihiwa_karwA,2;sakarmaka	anxara_praveSa_kiyA	-	-	-	-	-

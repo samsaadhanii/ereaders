@@ -1,0 +1,21 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	kuSa-agra-buxXe	2	kuSAgrabuxXe	kuSa-agra-buxXi{swrI;8;eka}/buxXa{puM;7;eka}/buxXa{napuM;8;xvi}/buxXa{napuM;1;xvi}/buxXa{napuM;2;xvi}/buxXa{napuM;7;eka}/buxXi{puM;8;eka}/buxXi{napuM;8;eka}/buxXi{napuM;1;eka}/buxXi{napuM;2;eka}/buxXA{swrI;8;eka}/buxXA{swrI;8;xvi}/buxXA{swrI;1;xvi}/buxXA{swrI;2;xvi}	kuSa-agra-buxXi{puM;8;eka}	samboXanasUcakam,17	kuSa-Age-buxXi	-	-	-	-	-
+2	manwra-kqwAM	-	-	manwra-kqw{puM;6;bahu}/manwra-kqwA{swrI;2;eka(kq3;kwa;dukqF;:wanAxiH)}/manwra-kqwA{swrI;2;eka(kq2;kwa;kqF;:svAxiH)}/manwra-kqwA{swrI;2;eka(kq1;kwa;kqF;:BvAxiH)}	manwra-kqw{puM;6;bahu}	viSeRaNam,4	manwra-kqwoM_kA	-	-	-	-	-
+3	qRINAM	-	-	qRi{puM;6;bahu}	qRi{puM;6;bahu}	RaRTIsambanXaH,4	qRiyoM_kA	-	-	-	-	-
+4	agraNIH	-	-	agraNI{puM;1;eka}/agraNI{swrI;2;bahu}	agraNI{puM;1;eka}	viSeRaNam,6	agraNI	-	-	-	-	-
+5	we	-	-	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{yuRmaxsarvanAma;6;eka}	RaRTIsambanXaH,6	ve	-	-	-	-	-
+6	guruH	4	guruswe	guru{puM;1;eka}	guru{puM;1;eka}	karwA,19	guru	-	-	-	-	-
+7	kuSalI	3	kuSalI	kuSalin{puM;1;eka}	kuSalin{puM;1;eka}	karwqsamAnAXikaraNam,19	prasanna	-	-	-	-	-
+8	api	1	apyagraNIrmanwrakqwAmqRINAM	api{avya}	api{avya}	sambanXaH,7	BI	-	-	-	-	-
+9	yawaH	5	yawaswvayA	yawaH{avya}/yawa{puM;1;eka}/yaw{puM;2;bahu}/yaw{puM;5;eka}/yaw{puM;6;eka}/yaw{napuM;5;eka}/yaw{napuM;6;eka}	yawaH{yawpuM;5;eka}	apAxAnam,17	-	-	-	-	-	-
+10	wvayA	-	-	yuRmax{sarvanAma;3;eka}	yuRmax{sarvanAma;3;eka}	karwA,17	wumase	-	-	-	-	-
+11	aSeRaM	-	-	aSeRa{puM;2;eka}/SiR1{karwari;laf;u;eka;parasmEpaxI;SiRaz;:BvAxiH}	aSeRa{napuM;2;eka}	viSeRaNam,12	aSeRa_ko	-	-	-	-	-
+12	jFAnaM	6	jFAnamaSeRamApwaM	jFAna{napuM;1;eka}/jFAna{napuM;2;eka}	jFAna{napuM;2;eka}	karma,17	jFAna	-	-	-	-	-
+13	lokena	7	lokena	loka{puM;3;eka}	loka{puM;3;eka}	karwA,18	loka_se	-	-	-	-	-
+14	uRNa-raSmeH	-	-	uRNa-raSmi{puM;5;eka}/raSmi{puM;6;eka}	uRNa-raSmi{puM;6;eka}	RaRTIsambanXaH,15	garma-raSmi_se	-	-	-	-	-
+15	cEwanyam	8	cEwanyamivoRNaraSmeH	cEwanyam-iva{avya}	cEwanyam{napuM;2;eka}	karma,18	cEwanyam-jEse	-	-	-	-	-
+16	iva	-	-	Apwa{puM;2;eka}/Apwa{puM;2;eka(Ap1;kwa;ApLz;:svAxiH)}/Apwa{napuM;1;eka(Ap1;kwa;ApLz;:svAxiH)}/Apwa{napuM;2;eka(Ap1;kwa;ApLz;:svAxiH)}	iva{avya}	upamAnaxyowakaH,17	prApwa_ko	-	-	-	-	-
+17	Apwam	-	-	-	Apwa{Ap1;kwa;ApLz;:svAxiH}	aBihiwa_karma,12;sakarmaka	-	-	-	-	-	-
+18	(Apwam)	-	(-)	-	Apwa{Ap1;kwa;ApLz;:svAxiH}	upamAnam,16	-	-	-	-	-	-
+19	(aswi)	-	(-)	-	as{karwari lat pra eka parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,6;sakarmaka	-	-	-	-	-	-

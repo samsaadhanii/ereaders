@@ -1,0 +1,16 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	upavIwa-lakRaNaM	-	-	upavIwa-lakRaNa{napuM;1;eka(upavIwa-lakR1;lyut;lakRaz;:curAxiH)}/upavIwa-lakRaNa{napuM;2;eka(lakR1;lyut;lakRaz;:curAxiH)}/upavIwa-lakRaNa{napuM;1;eka(lakR2;lyut;lakRaz;:curAxiH)}/upavIwa-lakRaNa{napuM;2;eka(lakR2;lyut;lakRaz;:curAxiH)}/lakRaNa{puM;2;eka}/lakRaNa{napuM;1;eka}/lakRaNa{napuM;2;eka}	upavIwa-lakRaNa{napuM;2;eka(lakR2;lyut;lakRaz;:curAxiH)}	viSeRaNam,2	-	-	-	-	-	-
+2	piwryam	1	piwryamaMSamupavIwalakRaNaM	piwrya{puM;2;eka}/piwrya{napuM;1;eka}/piwrya{napuM;2;eka}	piwrya{napuM;2;eka}	sup_samucciwaH,4	piwrya_ko	-	-	-	-	-
+3	XanuH-UrjiwaM	4	XanurUrjiwaM	XanuH-Urjiwa{puM;2;eka(XanuH-Urj1;kwa;Urjaz;:curAxiH)}/XanuH-Urjiwa{napuM;1;eka(Urj1;kwa;Urjaz;:curAxiH)}/XanuH-Urjiwa{napuM;2;eka(Urj1;kwa;Urjaz;:curAxiH)}	XanuH-Urjiwa{puM;2;eka(XanuH-Urj1;kwa;Urjaz;:curAxiH)}	viSeRaNam,4	-	-	-	-	-	-
+4	mAwqkaM	2	mAwqkaM	mAwqka{puM;2;eka}/mAwqka{napuM;1;eka}/mAwqka{napuM;2;eka}	mAwqka{puM;2;eka}	viSeRaNam,6	mAmA_ko	-	-	-	-	-
+5	ca	3	ca	ca{avya}	ca{avya}	sup_samuccayaxyowakaH,4	Ora	-	-	-	-	-
+6	aMSam	-	aMSam	aMSa{puM;2;eka}	aMSa{puM;2;eka}	karma,7	aMSa_ko	-	-	-	-	-
+7	xaXaw	5	xaXaw	xaXaw{napuM;1;eka(XA1;Sawq_lat;duXAF;:juhowyAxiH)}/xaXaw{napuM;2;eka(XA1;Sawq_lat;duXAF;:juhowyAxiH)}	xaXaw{napuM;1;eka(XA1;Sawq_lat;duXAF;:juhowyAxiH)	varwamAnasamAnakAlaH,14	-	-	-	-	-	-
+8	yaH	6	yaH	yax{sarvanAma;puM;1;eka}	yax{sarvanAma;puM;1;eka}	viSeRaNam,9	jo	-	-	-	-	-
+9	sa-somaH	7	sasomaH	sa-soma{puM;1;eka}	sa-soma{puM;1;eka}	karwA,14	sa-soma	-	-	-	-	-
+10	Garma-xIXiwiH-iva	9	GarmaxIXiwiH	Garma-xIXiwiH-iva{avya}	Garma-xIXiwiH-iva{avya}	upamAnam,9	Garma-ABA-jEse	-	-	-	-	-
+11	sa-xvijihvaH	10	saxvijihva	sa-xvijihva{puM;1;eka}	sa-xvijihva{puM;1;eka}	karwqsamAnAXikaraNam,14	sa-xvijihva	-	-	-	-	-
+12	canxana-xrumaH	11	canxanaxrumaH	cax2{lyut;caxiz;:BvAxiH-xruma;puM;1;eka}	cax2{lyut;caxiz;:BvAxiH-xruma;puM;1;eka}	upamAnam,13	-	-	-	-	-	-
+13	iva	8	iva	iva{avya}	iva{avya}	upamAnaxyowakaH,11	jEse	-	-	-	-	-
+14	(sWiwaH)	-	(-)	sWiwa{puM;1;eka(RWA1;kwa;RWA;:BvAxiH)}	sWiwa{puM;1;eka(RWA1;kwa;RWA;:BvAxiH)}	aBihiwa_karwA,9	sWiwa	-	-	-	-	-

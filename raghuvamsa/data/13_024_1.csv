@@ -1,0 +1,18 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	BIru	3	BIru	BIru{napuM;1;eka}/BIru{napuM;2;eka}/BIru{napuM;8;eka}	BIru{napuM;8;eka}	samboXyaH,16	BIru	-	-	-	-	-
+2	wvaM	1	wvaM	yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karma,5	wuma	-	-	-	-	-
+3	rakRasA	2	rakRasA	rakRas{napuM;3;eka}	rakRas{napuM;3;eka}	karwA,5	rAkRasa_se	-	-	-	-	-
+4	yawaH	4	yawoZpanIwA	yawaH{avya}/yawa{puM;1;eka}/yaw{puM;2;bahu}/yaw{puM;5;eka}/yaw{puM;6;eka}/yaw{napuM;5;eka}/yaw{napuM;6;eka}	yawaH{avya}	apAxAnam,5	-	-	-	-	niwya_sambanXaH,6	-
+5	apanIwA	-	-	apanIwA{swrI;1;eka(NI1;kwa;NIF;:BvAxiH)}	apanIwA{swrI;1;eka(NI1;kwa;NIF;:BvAxiH)}	aBihiwa_karwA,3	apanIwa	-	-	-	-	-
+6	waM	5	waM	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,7	usako	-	-	-	-	-
+7	mArgam	6	mArgamewAH	mArga{puM;2;eka}	mArga{puM;2;eka}	karma,16	mArga_ko	-	-	-	-	-
+8	vakwum	-	-	brU1{avya;wumun;brUF;:axAxiH}/vac1{avya;wumun;vacaz;:axAxiH}	vac1{avya;wumun;vacaz;:axAxiH}	prayojanam,9	-	-	-	-	-	-
+9	a-SaknuvawyaH	-	-	a-SaknuvawI{swrI;1;bahu(a-Sak3;Sawq_lat;SakLz;:svAxiH)}	a-SaknuvawI{swrI;1;bahu(a-Sak3;Sawq_lat;SakLz;:svAxiH)}	viSeRaNam,11	a-sakawIM_huIM	-	-	-	-	-
+10	ewAH	-	-	ewax{sarvanAma;swrI;1;bahu}/ewax{sarvanAma;swrI;2;bahu}	ewax{sarvanAma;swrI;1;bahu}	viSeRaNam,11	ye	-	-	-	-	-
+11	lawAH	8	lawA me	lawA{swrI;1;bahu}/lawA{swrI;2;bahu}/lawA{swrI;8;bahu}	lawA{swrI;1;bahu}	karwA,16	beleM	-	-	-	-	-
+12	Avarjiwa-pallavABiH	-	-	Avarjiwa-pallavA{swrI;3;bahu}	Avarjiwa-pallavA{swrI;3;bahu}	viSeRaNam,13	Avarjiwa-pallavAoM_se	-	-	-	-	-
+13	SAKABiH	10	SAKABirAvarjiwapallavABiH	SAKA{swrI;3;bahu}	SAKA{swrI;3;bahu}	karaNam,16	SAKAoM_se	-	-	-	-	-
+14	kqpayA	7	kqpayA	kqpA{swrI;3;eka}	kqpA{swrI;3;eka}	kriyAviSeRaNam,16	kqpA_se	-	-	-	-	-
+15	me	-	-	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;4;eka}	sampraxAnam,16	merA	-	-	-	-	-
+16	axarSayan	9	axarSayanvakwumaSaknuvawyaH	xqS1{Nijanwa;karwari;laf;pra;bahu;parasmEpaxI;xqSizr;:BvAxiH}	xqS1{Nijanwa;karwari;laf;pra;bahu;parasmEpaxI;xqSizr;:BvAxiH}	aBihiwa_karwA,11	-	-	-	-	-	-

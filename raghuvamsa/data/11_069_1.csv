@@ -1,0 +1,17 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	saH	4	soZnavekRya	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,15	vaha	-	-	-	-	-
+2	arGyam	1	arGyamarGyamiwi	arGya{puM;2;eka}/arGya{napuM;1;eka}/arGya{napuM;2;eka}	arGya{puM;2;eka}	vIpsA,3	arGya_ko	-	-	-	-	-
+3	arGyam	-	-	arGya{puM;2;eka}/arGya{napuM;1;eka}/arGya{napuM;2;eka}	arGya{puM;2;eka}	sambanXaH,4	arGya_ko	-	-	-	-	-
+4	iwi	-	-	iwi{avya}	iwi{avya}	sambanXaH,5	EsA	-	-	-	-	-
+5	vAxinaM	2	vAxinaM	vAxin{puM;2;eka}	vAxin{puM;2;eka}	viSeRaNam,6	vAxI_ko	-	-	-	-	-
+6	nqpaM	3	nqpaM	nqpa{puM;2;eka}	nqpa{puM;2;eka}	karma,7	rAjA_ko	-	-	-	-	-
+7	an-avekRya	-	-	an-IkR1{avya;lyap;IkRaz;:BvAxiH}	an-ava_IkR1{avya;lyap;IkRaz;:BvAxiH}	pUrvakAlaH,15	-	-	-	-	-	-
+8	yawaH	6	yawaH	yawaH{avya}/yawa{puM;1;eka}/yaw{puM;2;bahu}/yaw{puM;5;eka}/yaw{puM;6;eka}/yaw{napuM;5;eka}/yaw{napuM;6;eka}	yawaH{avya}	prawiyogI,10	-	-	-	-	niwya_sambanXaH,11	-
+9	Barawa-agrajaH	5	BarawAgrajo	Barawa-agraja{puM;1;eka}/agra-ja{puM;1;eka}	Barawa-agraja{puM;1;eka}	karwA,10	Barawa-badA_BAI	-	-	-	-	-
+10	(aBavaw)	-	(-)	BU1{karwari;laf;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;laf;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,9	huA	-	-	-	-	-
+11	wawaH	8	wawaH	wawaH{avya}	wawaH{avya}	anuyogI,15	vahAz_se	-	-	-	-	-
+12	kRawra-kopa-xahana-arciRaM	7	kRawrakopaxahanArciRaM	kRawra-kopa-xah1{lyut;xahaz;:BvAxiH-arcis;puM;2;eka}	kRawra-kopa-xah1{lyut;xahaz;:BvAxiH-arcis;swrI;2;eka}	viSeRaNam,13	-	-	-	-	-	-
+13	uxagra-wArakAm	-	-	uxagra-wArakA{swrI;2;eka}/wAra{ka;swrI;2;eka}	uxagra-wArakA{swrI;2;eka}	viSeRaNam,14	uxagra-wArakA_ko	-	-	-	-	-
+14	xqSam	10	xqSamuxagrawArakAm	xqS{swrI;2;eka}	xqS{swrI;2;eka}	karma,15	xqRti_ko	-	-	-	-	-
+15	saMxaXe	9	saMxaXe	sam_XA1{karwari;lat;u;eka;AwmanepaxI;duXAF;:juhowyAxiH}/sam_XA1{karwari;lit;pra;eka;AwmanepaxI;duXAF;:juhowyAxiH}/sam_XA1{karwari;lit;u;eka;AwmanepaxI;duXAF;:juhowyAxiH}/sam_XA1{karmaNi;lit;pra;eka;AwmanepaxI;duXAF;:juhowyAxiH}/sam_XA1{karmaNi;lit;u;eka;AwmanepaxI;duXAF;:juhowyAxiH}	sam_XA1karwari;lit;pra;eka;AwmanepaxI;duXAF;:juhowyAxiH}	aBihiwa_karwA,1;sakarmaka	sWApanA_karawA_hUz	-	-	-	-	-

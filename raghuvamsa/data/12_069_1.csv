@@ -1,0 +1,12 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	rAGavaH	4	rAGavaH	rAGava{puM;1;eka}	rAGava{puM;1;eka}	karwA,4	raGuvaMSI_ne	-	-	-	-	@person
+2	wasmE	1	wasmE	wax{sarvanAma;puM;4;eka}/wax{sarvanAma;napuM;4;eka}	wax{sarvanAma;napuM;4;eka}	sampraxAnam,4	usako	-	-	-	@ViBishalaa	-
+3	niSAcara-ESvaryaM	2	niSAcarESvaryaM	niSAcara-ESvarya{napuM;1;eka}/ESvarya{napuM;2;eka}/ESvarya{puM;2;eka}	niSAcara-ESvarya{puM;2;eka}	karma,4	niSAcara-ESvarya_ko	-	-	-	-	-
+4	prawiSuSrAva	3	prawiSuSrAva	prawi_Sru1{karwari;lit;u;eka;parasmEpaxI;Sru;:BvAxiH}/prawi_Sru1{karwari;lit;pra;eka;parasmEpaxI;Sru;:BvAxiH}	prawi_Sru1{karwari;lit;pra;eka;parasmEpaxI;Sru;:BvAxiH}	aBihiwa_karwA,1;sakarmaka	prawi_Sru1_pp_skyA	-	-	-	-	-
+5	kAle	5	kAle	kAla{napuM;1;xvi}/kAla{napuM;2;xvi}/kAlA{swrI;1;xvi}/kAlA{swrI;2;xvi}/kAla{napuM;8;xvi}/kAlA{swrI;8;eka}/kAlA{swrI;8;xvi}/kAla{puM;7;eka}/kAla{napuM;7;eka}	kAla{napuM;7;eka}	kAlAXikaraNam,9	samaya_meM	-	-	-	-	-
+6	sama-ArabXAH	7	samArabXAH	sama-ArabXA{swrI;1;bahu}/ArabXA{swrI;2;bahu}	sama-ArabXA{swrI;1;bahu}	viSeRaNam,7	samAna-ArabXa	-	-	-	-	-
+7	nIwayaH	10	nIwayaH	nIwi{swrI;1;bahu}/nIwi{swrI;8;bahu}	nIwi{swrI;1;bahu}	karwA,9	nIwiyAz	-	-	-	-	-
+8	PalaM	8	PalaM	Pala{napuM;1;eka}/Pala{napuM;2;eka}	Pala{napuM;2;eka}	karma,9	Pala_ko	-	-	-	-	-
+9	baXnanwi	9	baXnanwi	banX1{karwari;lat;pra;bahu;parasmEpaxI;banXaz;:kryAxiH}/baXnaw{napuM;1;bahu(banX1;Sawq_lat;banXaz;:kryAxiH)}/baXnaw{napuM;2;bahu(banX1;Sawq_lat;banXaz;:kryAxiH)}	banX1{karwari;lat;pra;bahu;parasmEpaxI;banXaz;:kryAxiH}	aBihiwa_karwA,7;sakarmaka	banX1_pp_skwIM_hEM	-	-	-	-	-
+10	Kalu	6	Kalu	Kalu{avya}	Kalu{avya}	sambanXaH,9	avaSya	-	-	-	-	-

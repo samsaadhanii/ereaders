@@ -1,0 +1,14 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	kevalaM	1	kevalaM	kevala{puM;2;eka}/kevala{napuM;1;eka}/kevala{napuM;2;eka}	kevala{napuM;2;eka}	viSeRaNam,2	kevala	-	-	-	-	-
+2	smaraNena	2	smaraNenEva	smaraNa{napuM;3;eka}{kqxanwa}({kqw_XAwu smq1} lyut{XAwuH smq} BvAxiH)}	smaraNa{napuM;3;eka}{kqxanwa}({kqw_XAwu smq1} lyut{XAwuH smq} BvAxiH)}	hewuH,4	smaraNena-hI	-	-	-	-	-
+3	eva	-	-	eva{avya}	eva{avya}	sambanXaH,2	-	-	-	-	-	-
+4	punAsi	3	punAsi	pU2{karwari;lat;ma;eka;parasmEpaxI;pUF;:kryAxiH}	pU2{karwari;lat;ma;eka;parasmEpaxI;pUF;:kryAxiH}	aBihiwa_karma,5	paviwra_karawe_ho	-	-	-	-	-
+5	puruRam	4	puruRam	puruRa{puM;2;eka}	puruRa{puM;2;eka}	karma,4	puruRa_ko	-	-	-	-	-
+6	yawaH	5	yawaH	yawaH{avya}	yawaH{avya}	hewuH,4	yaw_ke	-	-	-	-	-
+8	anena	6	anena	ixam{sarvanAma;puM;3;eka}/ixam{sarvanAma;napuM;3;eka}/ana{puM;3;eka}	ana{puM;3;eka}	hewuH,13	ana_se	-	-	-	-	-
+9	vqwwayaH	7	vqwwayaH	vqwwi{swrI;1;bahu}/vqwwi{swrI;8;bahu}	vqwwi{swrI;1;bahu}	karwA,13	aswiwva	-	-	-	-	-
+10	SeRAH	8	SeRA	SeRA{swrI;1;eka}	SeRA{swrI;1;eka}	viSeRaNam,9	-	-	-	-	-	-
+11	wvayi	9	nivexiwaPalAswvayi	yuRmax{sarvanAma;7;eka}	yuRmax{sarvanAma;7;eka}	aXikaraNam,9	wumameM	-	-	-	-	-
+12	 nivexiwa-PalAH	-	-	nivexiwa-Pala{puM;1;bahu}/nivexiwa-Pala{puM;8;bahu}	nivexiwa-Pala{puM;1;bahu}	karwqsamAnAXikaraNam,13	-	-	-	-	-	-
+13	(sanwi)	-	(-)	as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;:axAxiH}/saw{napuM;8;bahu}/saw{napuM;1;bahu(as2;Sawq_lat;asaz;:axAxiH)}/saw{napuM;2;bahu(as2;Sawq_lat;asaz;:axAxiH)}	as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,9	hEM	-	-	-	-	-

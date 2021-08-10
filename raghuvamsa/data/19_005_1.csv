@@ -1,0 +1,14 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	kAminIsaha-carasya	1	kAminIsahacarasya	kAminIsaha-cara{napuM;6;eka}/cara{puM;6;eka}	kAminIsaha-cara{puM;6;eka}	viSeRaNam,3	kAminIsaha-cara	-	-	-	-	-
+2	kAminaH	2	kAminaswasya	kAmin{puM;1;bahu}/kAmin{puM;2;bahu}/kAmin{puM;5;eka}/kAmin{puM;6;eka}/kAmin{puM;8;bahu}	kAmin{puM;6;eka}	viSeRaNam,3	kAmAsakwa_ke	-	-	-	-	-
+3	wasya	-	-	wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,4	usake	-	-	-	-	@that @of @Raja @Agnivarna
+4	veSmasu	3	veSmasu	veSman{napuM;7;bahu}	veSman{napuM;7;bahu}	aXikaraNam,11	GaroM_meM	-	-	-	-	-
+5	qxXimanwam	5	qxXimanwamaXikarxXiruwwaraH	qxXi{mawup;puM;2;eka}	qxXi{mawup;puM;2;eka}	viSeRaNam,10	qxXi_ko	-	-	-	-	-
+6	aXika-qxXiH	-	-	aXika-qxXi{swrI;1;eka}/qxXi{puM;1;eka}	aXika-qxXi{puM;1;eka}	viSeRaNam,8	aXika-qxXi	-	-	-	-	-
+7	uwwaraH	-	-	uwwara{puM;1;eka}/uwwara{sarvanAma;puM;1;eka}	uwwara{sarvanAma;puM;1;eka}	viSeRaNam,8	uwwara_ne	-	-	-	-	-
+8	uwsavaH	-	-	uwsava{puM;1;eka}/uwsava{puM;1;eka(Ru3;GaF;RuF;:svAxiH)}	uwsava{puM;1;eka(Ru3;GaF;RuF;:svAxiH)}	karwA,11	uwsava	-	-	-	-	-
+9	pUrvam	6	pUrvamuwsavamapohaxuwsavaH	pUrva{puM;2;eka}/pUrva{sarvanAma;puM;2;eka}/pUrva{sarvanAma;napuM;1;eka}/pUrva{sarvanAma;napuM;2;eka}	pUrva{sarvanAma;napuM;2;eka}	viSeRaNam,10	pUrva	-	-	-	-	-
+10	uwsavam	-	-	uwsava{puM;2;eka}/uwsava{puM;2;eka(Ru3;GaF;RuF;:svAxiH)}	uwsava{puM;2;eka(Ru3;GaF;RuF;:svAxiH)}	karma,11	uwsava_ko	-	-	-	-	-
+11	apUrayaw	-	-	pUr2{karwari;laf;pra;eka;parasmEpaxI;pUrIz;:curAxiH}/pUr1{Nijanwa;karwari;laf;pra;eka;parasmEpaxI;pUrIz;:xivAxiH}/pUr2{Nijanwa;karwari;laf;pra;eka;parasmEpaxI;pUrIz;:curAxiH}	pUr2{karwari;laf;pra;eka;parasmEpaxI;pUrIz;:curAxiH}	aBihiwa_karwA,8;sakarmaka	wqpwa_kiyA	-	-	-	-	apohaw @not @recognised @by @the @machine.@Hence @substituted @with apUrayaw
+12	mqxafga-nAxiRu	4	mqxafganAxiRu	mqxafganAxi{puM;7;bahu}	mqxafganAxi{puM;7;bahu}	viSeRaNam,4	-	-	-	-	-	-

@@ -1,0 +1,12 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	wasmin	1	wasminnavasare	wax{sarvanAma;puM;7;eka}	waxsarvanAma;puM;7;eka}	viSeRaNam,2	usa	-	-	-	puwra_kAmeRtI_yajFa_ke_avasara_meM	-
+2	avasare	2	-	avasara{puM;7;eka}	avasara{puM;7;eka}	aXikaraNam,3	avasara_meM	-	-	-	-	-
+3	pOlaswya-upapluwAH	4	pOlaswyawopapluwA	pOlaswya-upapluwA{swrI;1;eka(pOlaswya-plu1;kwa;pluf;:BvAxiH)}	pOlaswya-upapluwA{swrI;1;eka(pOlaswya-plu1;kwa;pluf;:BvAxiH)}                	viSeRaNam,4	rAvaNa_se_sawAe_gae	-	-	-	-	@person
+4	xevAH	3	xevAH	xeva{puM;1;bahu}/xeva{puM;8;bahu}	xeva{puM;1;bahu}	karwA,10	xeva	-	-	-	-	-
+5	nixAGa-ArwAH	7	nixAGArwAH	Arwa{puM;1;bahu(xah1;GaF;xahaz;:BvAxiHnixAGa;puM-q2;kwa;q;:juhowyAxiH)}/ArwA{swrI;1;bahu(q2;kwa;q;:juhowyAxiH)}/ArwA{swrI;2;bahu(q2;kwa;q;:juhowyAxiH)}	ArwA{swrI;2;bahu(q2;kwa;q;:juhowyAxiH)}	viSeRaNam,6	XUpa_se_pIdZiwa	-	-	-	-	-
+6	aXvagAH	10	aXvagAH	aXvaga{puM;1;bahu}/aXvagA{swrI;1;bahu}/aXvagA{swrI;2;bahu}	aXvagA{swrI;2;bahu}	aBexaH,4	yAwrI	-	-	-	-	-
+7	CAyA-vqkRam	8	CAyAvqkRam	CAyA-vqkRa{puM;2;eka}/vqkRa{napuM;1;eka}/vqkRa{napuM;2;eka}	CAyA-vqkRa{puM;2;eka}	upamAnam,9	CAyAvAle_vqkRa_ke_pAsa_(jAwe_hEM)	-	-	-	-	-
+8	iva	9	iva	iva{avya}	iva{avya}	upamAnaxyowakaH,7	vEse	-	-	-	-	-
+9	harim	5	harim	hari{puM;2;eka}	hari{puM;2;eka}	karma,10	hari_ke_pAsa	-	-	-	-	@person
+10	aBijagmuH	6	aBijagmuH	aBi_gam1{karwari;lit;pra;bahu;parasmEpaxI;gamLz;:BvAxiH}	aBi_gam1{karwari;lit;pra;bahu;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,4;sakarmaka	gaye	-	-	-	-	-

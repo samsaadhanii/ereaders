@@ -1,0 +1,12 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	viSIrNa-walpa-atta-SawaH	1	viSIrNawalpAttaSawo	SQ1{kwa;SQ;:kryAxiH-walpa-atta-Sawa;puM;1;eka}	vi_SQ1{kwa;SQ;:kryAxiH-walpa-atta-Sawa;puM;1;eka}	viSeRaNam,6	jisameM sEMkado SayyAyeM wiwar biwara ho gayI	-	-	-	-	-
+2	paryaswa-sAlaH	3	paryaswasAlaH	as3{kwa;asuz;:xivAxiH-sAla;puM;1;eka}	pari_as3{kwa;asuz;:xivAxiH-sAla;puM;1;eka}	viSeRaNam,6	jisakI cahAraxivArI Xvaswa ho gayI hEM	-	-	-	-	@Refers @to @Ayodhya @nagari
+3	praBuNA	4	praBuNA	praBu{puM;3;eka}	praBu{puM;3;eka}	vinArWaH,6	praBu_ke	-	-	-	-	-
+4	vinA	5	vinA	vinA{avya}	vinA{avya}	vinArWa_xyowakaH,3	vinA	-	-	-	-	@Refers @to @Ram
+5	me	6	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,6	merA	-	-	-	-	-
+6	niveSaH	2	niveSaH	niveSa{puM;1;eka}/niveSa{puM;1;eka(viS1;GaF;viSaz;:wuxAxiH)}	niveSa{puM;1;eka}	karwA,7	niveSa	-	-	-	-	-
+7	vidambayawi	7	vidambayawyaswanimagnasUryaM	arx1{karwari;lat;pra;eka;parasmEpaxI;arxaz;:BvAxiH}/arx2{karwari;lat;pra;eka;parasmEpaxI;arxaz;:curAxiH}	arx1{karwari;lat;pra;eka;parasmEpaxI;arxaz;:BvAxiH}	aBihiwa_karwA,6;sakarmaka	anukaraNa karawA hE	-	-	-	-	-
+8	aswa-nimagna-sUryam	-	-	aswa{avya-masj1;kwa;tumasjoz;:wuxAxiH-sUrya;puM;2;eka}/sUrya{napuM;1;eka}/sUrya{napuM;2;eka}	aswa{avya-masj1;kwa;tumasjoz;:wuxAxiH-sUrya;puM;2;eka}	viSeRaNam,9	aswAcalapara nimagna sUrya vAle	-	-	-	-	-
+9	xinAnwam	8	xinAnwamugrAnilaBinnameGam	xinAnwa{puM;2;eka}	xinAnwa{puM;2;eka}	karma,7	sAyaMkAla_ko	-	-	-	-	-
+10	ugra-anila-Binna-meGam	-	-	ugra-anila-Binna-meGa{puM;2;eka}/meGa{napuM;1;eka}/meGa{napuM;2;eka}	ugra-anila-Binna-meGa{puM;2;eka}	viSeRaNam,9	BayaMkara vAyuse Cinna-Binna meGoMvAle	-	-	-	-	-

@@ -1,0 +1,16 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	ikRvAku-vaMSyaH	1	ikRvAkuvaMSyaH	ikRvAku-vaMSI{swrI;1;bahu}/vaMSI{swrI;8;bahu}/vaMSya{puM;1;eka}	ikRvAku-vaMSya{puM;1;eka}	viSeRaNam,3	ikRvAku-bAMsuriyAz	@Monarch @of @Ikshvaku @dynasty	-	-	-	ikRvAku-vaMSI
+2	kakuxaM	2	kakuxaM	kakux{swrI;2;eka}/kakuxa{puM;2;eka}/kakuxa{napuM;1;eka}/kakuxa{napuM;2;eka}	kakuxa{napuM;1;eka}	viSeRaNam,4	-	@The @foremost @one(@Shreshtha)	-	-	-	-
+3	nqpANAM	3	nqpANAM	nqpa{puM;6;bahu}	nqpa{puM;6;bahu}	RaRTIsambanXaH,5	rAjAoM_kA	@Among @Kings	-	-	-	-
+4	ahiwa-lakRaNaH	6	ahiwalakRaNo	ahiwa{puM(ah2;kwa;ahaz;:svAxiH)}/ahiwa{napuM-lakRaNa;puM;1;eka(ah2;kwa;ahaz;:svAxiH)}	ahiwa-ahiwa{puM(ahiwa-ah2;kwa;ahaz;:svAxiH)}	viSeRaNam,5	-	@Familiar @by @characteristics	-	-	-	-
+5	kakuwsWaH	4	kakuwsWa	kakuwsWa{puM;1;eka}	kakuwsWa{puM;1;eka}	saFjFA,7	kakuwsWa	@Bear  @patronymic @of @kakutsthaas 	-	-	-	kakuwsWa -  uwwara-kosalA-inxrAH
+6	iwi	5	iwi	iwi{avya}	iwi{avya}	saFjFA_xyowakaH,5	EsA	@by/ @thus	-	-	-	-
+7	(kaSciw)	8	(kaSciw)	kiFciw{sarvanAma;puM;1;eka}	kiFciw{sarvanAma;puM;1;eka}	karwA,8	koI	@Anyone	-	-	(kaSciw)	-
+8	aBUw	7	aBUw	BU1{karwari;luf;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;luf;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,7	huA	@There @was	-	BU - karwari;parasmEpaxI;BvAxiH	-	-
+9	yawa  (yasmAw )	10	yawa  (yasmAw )	yax{sarvanAma;puM;5;eka}/yax{sarvanAma;napuM;5;eka}	yax{sarvanAma;puM;5;eka}	kriyAviSeRaNam,14	jisase	@From @where, @From @whom	-	-	yawa-yasmAw kakuwsWAw	yasmAw kakuwsWAw
+10	unnawA-icCAH	11	unnawecCAH	Nam1{kwa;Namaz;:BvAxiH-icCA;swrI;1;bahu}/icCA{swrI;2;bahu}/icCA{swrI;8;bahu}/icCa{puM;8;bahu}/icCa{puM;1;bahu}	icCa{puM;1;bahu}	viSeRaNam,11	icCa	@Of @high @ideals	-	-	-	-
+11	uwwara-kosalA-inxrAH	14	uwwarakosalenxrAH	uwwara-kosalA-inxra{puM;8;bahu}/inxra{puM;1;bahu}/inxrA{swrI;8;bahu}/inxrA{swrI;1;bahu}/inxrA{swrI;2;bahu}	uwwara-kosalA-inxra{puM;1;bahu}	karwA,14	uwwara-kosalA-inxra	@North @Kosala @Kings	-	-	-	-
+12	SlAGyaM	12	SlAGyaM	SlAGya{puM;2;eka(SlAG1;Nyaw;SlAGqz;:BvAxiH)}/SlAGya{napuM;1;eka(SlAG1;Nyaw;SlAGqz;:BvAxiH)}/SlAGya{napuM;2;eka(SlAG1;Nyaw;SlAGqz;:BvAxiH)}	SlAGya{puM;2;eka(SlAG1;Nyaw;SlAGqz;:BvAxiH)}	viSeRaNam,13	praSaMsiwa	@Praise @Worthy	-	-	-	-
+13	kAkuwsWa-SabxaM	9	kAkuwsWaSabxaM	kAkuwsWa-Sabxa{puM;2;eka}/Sabxa{napuM;1;eka}/Sabxa{napuM;2;eka}	kAkuwsWa-Sabxa{puM;2;eka}	karma,14	kakuwsWavaMSI-Sabxa	@Bear  @patronymic @of @kakutsthaas 	-	-	-	kAkuwsWa iwi SabxaH  - saMjFA iwi waM kAkuwsWaSabxaM
+14	xaXawi	13	xaXawi	XA1{karwari;lat;pra;bahu;parasmEpaxI;duXAF;:juhowyAxiH}	XA1{karwari;lat;pra;bahu;parasmEpaxI;duXAF;:juhowyAxiH}	-	XAraNa_karawe_hEM	(@they @are) @Bearing	-	XA - karwari; parasmEpaxI;duXAF;:juhowyAxiH	-	-

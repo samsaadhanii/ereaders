@@ -1,0 +1,20 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	wvaM	4	wvaM	yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karma,8	wuma	-	-	-	-	-
+2	prasannena	2	prasannena	prasanna{puM;3;eka}/prasanna{napuM;3;eka}	prasanna{puM;3;eka}	viSeRaNam,3	prasanna	-	-	-	-	-
+3	maharRiNA	3	maharRiNA	maharRi{puM;3;eka}	maharRi{puM;3;eka}	karwA,8	maharRi_ke_xvArA	-	-	-	-	-
+4	samyak	-	-	-	samyak{avya}	kriyAviSeRaNam,5	-	-	-	-	-	-
+5	vinIya	5	samyagvinIyAnumawo	samyak-NI1{avya;lyap;NIF;:BvAxiH}	samyak-vi_NI1{avya;lyap;NIF;:BvAxiH}	pUrvakAlaH,8	-	-	-	-	-	-
+6	gqhAya	6	gqhAya	gqha{napuM;4;eka}	gqha{napuM;4;eka}	prayojanam,8	Gara_ko	-	-	-	-	-
+7	api	1	api	api{avya}	api{avya}	sambanXaH,3	BI	-	-	-	-	-
+8	anumawaH	-	-	anumawa{puM;1;eka(man1;kwa;manaz;:xivAxiH)}/anumawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	anumawa{puM;1;eka(man1;kwa;manaz;:xivAxiH)}	aBihiwa_karma,1	AjFA	-	-	-	-	-
+9	hi	8	hyayaM	hi{avya}	hi{avya}	sambanXaH,11	hi	-	-	-	-	-
+10	we	12	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,14	wumhArA	-	-	-	-	-
+11	sarvopakAra-kRamaM	11	sarvopakArakRamamASramaM 	sarvopakAra-kRama{puM;2;eka}/kRama{napuM;1;eka}/kRama{napuM;2;eka}	sarvopakAra-kRama{puM;2;eka}	viSeRaNam,13	sarvopakAra-yogya	-	-	-	-	-
+12	xviwIyam	10	xviwIyam	xviwIya{puM;2;eka}/xviwIya{napuM;1;eka}/xviwIya{napuM;2;eka}/xviwIya{puM;2;eka}/xviwIya{napuM;1;eka}/xviwIya{napuM;2;eka}	xviwIya{puM;2;eka}	viSeRaNam,13	xUsarA	-	-	-	-	-
+13	ASramaM	-	-	ASrama{puM;2;eka}/ASrama{napuM;1;eka}/ASrama{napuM;2;eka}	ASrama{puM;2;eka}	karma,14	ASrama	-	-	-	-	-
+14	saMkramiwuM	9	saMkramiwuM	-	sam_kq{kqw_XAwu kram1} avya wumun{XAwuH kramuz} BvAxiH{kqxanwa}	prayojanam,17	-	-	-	-	-	@Unrecoginized.
+15	ayaM	-	-	ixam{sarvanAma;puM;1;eka}/aya{puM;2;eka}	ixam{sarvanAma;puM;1;eka}	viSeRaNam,16	isa	-	-	-	-	-
+16	kAlaH	7	kAlo	kAla{puM;1;eka}	kAla{puM;1;eka}	karwA,17	-	-	-	-	-	-
+17	( Bavawi)	-	(-)	-	"BU{karwari lat pra eka parasmEpaxI{XAwuH BU} BvAxiH}
+"	aBihiwa_karwA,16;sakarmaka	-	-	-	-	-	-

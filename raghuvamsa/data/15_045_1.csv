@@ -1,0 +1,13 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	saH	1	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,9	usane	-	-	-	Nam	-
+2	muhUrwaM	2	muhUrwaM	muhUrwa{puM;2;eka}	muhUrwa{puM;2;eka}	awyanwasaMyogaH,3	muhUrwa_kA	-	-	-	-	-
+3	kRamasva	3	kRamasvewi 	-	kRama{karwari lot ma eka AwmanepaxI{XAwuH kRamUzR} BvAxiH}	vAkyakarma,4	-	-	-	-	-	-
+4	iwi	-	-	iwi{avya}/iwi{napuM;8;eka}/iwi{napuM;1;eka}/iwi{napuM;2;eka}	iwi{avya}	vAkyakarmaxyowakaH,6	kRamasva-iwi	-	-	-	-	-
+5	xvijam	4	xvijamASvAsya 	xvija{puM;2;eka}/xvija{napuM;1;eka}/xvija{napuM;2;eka}	xvija{napuM;2;eka}	karma,6	xvija_kA	-	-	-	-	@Brahman
+6	ASvAsya	-	-	Af_Svas1{avya;lyap;Svasaz;:axAxiH}	Af_Svas1{avya;lyap;Svasaz;:axAxiH}	pUrvakAlaH,9	samAXAna_karake	-	-	-	-	-
+7	xuHKiwam	5	xuHKiwam	xuHKiwa{puM;2;eka(xuHKa1;kwa;xuHKa;:curAxiH)}/xuHKiwa{napuM;1;eka(xuHKa1;kwa;xuHKa;:curAxiH)}/xuHKiwa{napuM;2;eka(xuHKa1;kwa;xuHKa;:curAxiH)}	xuHKiwa{napuM;2;eka(xuHKa1;kwa;xuHKa;:curAxiH)}	viSeRaNam,5	xuHKa_xiye_hue	-	-	-	-	-
+8	yAnaM	6	yAnaM	yAna{napuM;2;eka}	yAna{napuM;2;eka}	karma,9	vAhana	-	-	-	-	-
+9	sasmAra	7	sasmAra	smq1{karwari;lit;u;eka;parasmEpaxI;smq;:BvAxiH}/smq1{karwari;lit;pra;eka;parasmEpaxI;smq;:BvAxiH}/smq2{karwari;lit;u;eka;parasmEpaxI;smq;:svAxiH}/smq2{karwari;lit;pra;eka;parasmEpaxI;smq;:svAxiH}	smq2{karwari;lit;pra;eka;parasmEpaxI;smq;:svAxiH}	aBihiwa_karwA,1;sakarmaka	smaraNa_kiyA	-	-	-	-	-
+10	kOberaM	8	kOberaM	kOberaM{napuM;2;eka}/	kOberaM {napuM;2;eka}	viSeRaNam,8	kOberaM-\	-	-	-	-	@Kubera - @person
+11	vEvasvawa-jigIRayA	9	vEvasvawajigIRayA	vEvasvawa-jigIRA{swrI;3;eka}	vEvasvawa-jigIRA{swrI;3;eka}	karaNam,9	vEvasvawa-jIwane_kI_se	-	vEvasvawa-jigIRayA	-	-	@Yamaraj - @person

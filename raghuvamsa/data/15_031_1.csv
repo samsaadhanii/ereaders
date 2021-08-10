@@ -1,0 +1,12 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	saKA	1	saKA	saKi{puM;1;eka}	saKi{puM;1;eka}	aBexaH,6	miwra	-	-	-	-	-
+2	xaSaraWasya	2	xaSaraWasyApi	xaSan-raWa{napuM;6;eka}	xaSaraWa{puM;6;eka}	sup_samucciwaH,4	xaSa-raWa_ke	-	-	-	-	-
+3	api	-	-	api{avya}/api{avya}	api{avya}	sambanXaH,2	BI	-	-	-	-	-
+4	janakasya	3	janakasya	janaka{puM;6;eka}/janaka{napuM;6;eka}	janaka{puM;6;eka}	RaRTIsambanXaH,1	janaka_ke	-	-	-	-	-
+5	ca	4	ca	ca{avya}	ca{avya}	sup_samuccayaxyowakaH,4	Ora	-	-	-	-	-
+6	manwra-kqw	5	manwrakqw	manwra-kqw{puM;1;eka}/kqw{napuM;2;eka}/kqw{napuM;1;eka}/kqw{swrI;1;eka}	manwra-kqw{puM;1;eka}	karwA,7	manwra-kqw_ne	-	-	-	-	-
+7	saFcaskAra	6	saMcaskAroBayaprIwyA	sam_kq3{karwari;lit;pra;eka;parasmEpaxI;dukqF;:wanAxiH}/sam_kq3{karwari;lit;u;eka;parasmEpaxI;dukqF;:wanAxiH}/sam_kQ1{karwari;lit;pra;eka;parasmEpaxI;kQ;:wuxAxiH}/sam_kQ1{karwari;lit;u;eka;parasmEpaxI;kQ;:wuxAxiH}	sam_kq3{karwari;lit;pra;eka;parasmEpaxI;dukqF;:wanAxiH}	aBihiwa_karwA,6	ekawra_kiyA	-	-	-	-	"@Used ""cakAra"" @instead @of ""saFcaskAra"" @as @the @tool @could @not @identify ""saFcaskAra"" @and @then @replaced @with @the @original @verb"
+8	uBaya-prIwyA	-	-	uBaya-prIwi{swrI;3;eka}	uBaya-prIwi{swrI;3;eka}	hewuH,7	xono-prasannawA_se	-	-	-	-	-
+9	mEWileyO	7	mEWileyO	mEWila-I-yu{puM;7;eka}/yu{swrI;7;eka}	mEWile-aya{puM;2;xvi}	karma,7	mEWile-ayO_ko 	-	-	-	-	-
+10	yaWA-viXi	8	yaWAviXi	yaWA-viXi{napuM;2;eka}/viXi{napuM;1;eka}/viX{puM;7;eka}/viX{napuM;7;eka}/viX{swrI;7;eka}	yaWA-viXi{napuM;1;eka}	kriyAviSeRaNam,7	yaWA-viXi	-	-	-	-	-

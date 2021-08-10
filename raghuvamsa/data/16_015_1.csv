@@ -1,0 +1,17 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	yeRu	3	yeRu	yax{sarvanAma;puM;7;bahu}/yax{sarvanAma;napuM;7;bahu}	yax{sarvanAma;puM;7;bahu}	viSeRaNam,2	jinameM	-	-	-	niwya_sambanXaH,8	-
+2	sopAna-mArgeRu	1	sopAmArgeRu	sopAna-mArga{puM;7;bahu}/mArga{napuM;7;bahu}	sopAna-mArga{puM;7;bahu}	aXikaraNam,7	pOd@ZI-mArgoM_meM	-	-	-	-	-
+3	ca	2	ca	ca{avya}	ca{avya}	sambanXaH,7	Ora	-	-	-	-	-
+4	rAmAH	4	rAmAH	rAma{puM;1;bahu}/rAmA{swrI;1;bahu}/rAmA{swrI;2;bahu}/rAma{puM;8;bahu}/rAmA{swrI;8;bahu}	rAmAswrI;1;bahu}	karwA,7	sunxariyoM_ke	-	-	-	-	-
+5	sarAgAn	-	-	sarAga{puM;2;bahu}	sarAga{puM;2;bahu}	viSeRaNam,6	raMgInoM_ko	-	-	-	-	-
+6	caraNAn	-	-	caraNa{puM;2;bahu}	caraNa{puM;2;bahu}	karma,7	caraNoM_ko	-	-	-	-	-
+7	nikRipwavawyaH	5	nikRipwavawyaScaraNAnsarAgAn	nikRipwavawI{swrI;1;bahu(kRip1;kwavawu;kRipaz;:xivAxiH)}/nikRipwavawI{swrI;1;bahu(kRip2;kwavawu;kRipaz;:wuxAxiH)}	nikRipwavawIswrI;1;bahu(kRip2;kwavawu;kRipaz;:wuxAxiH)}	aBihiwa_karwA,4;sakarmaka	raKawI_WI	-	-	-	-	-
+8	weRu	9	weRu	wax{sarvanAma;puM;7;bahu}/wax{sarvanAma;napuM;7;bahu}	wax{sarvanAma;puM;7;bahu}	aXikaraNam,15	unameM	-	-	-	mArga_se	@thing
+9	me	11	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,2	mere(-mArgoM_meM)	-	-	-	ayoXyA_ke	@place
+10	saxyaH	6	saxyohawanyafkuBirasraxigXaM	saxyaH{avya}	saxyaH{avya}	kAlAXikaraNam,11	usI_xina	-	-	-	-	-
+11	hawa-nyafkuBiH	-	-	han1{kwa;hanaz;:axAxiH-nyafku;puM;3;bahu}	han1{kwa;hanaz;:axAxiH-nyafku;puM;3;bahu}	viSeRaNam,12	mAre_hue-mqgoM	-	-	-	-	-
+12	vyAGrEH	7	vyAGrEH	vyAGra{puM;3;bahu}	vyAGra{puM;3;bahu}	karwA,15	vyAGroM_ke_xvArA	-	-	-	-	-
+13	asra-xigXam	-	-	asra-xih1{karwari;lot;ma;xvi;parasmEpaxI;xihaz;:axAxiH}/asra-xigXapuM;2;eka(xih1;kwa;xihaz;:axAxiH)}/asra-xigXanapuM;1;eka(xih1;kwa;xihaz;:axAxiH)}/asra-xigXanapuM;2;eka(xih1;kwa;xihaz;:axAxiH)}	asra-xigXa{napuM;1;eka(xih1;kwa;xihaz;:axAxiH)}	viSeRaNam,14	ruXira_lipwa	-	-	-	-	-
+14	paxam	8	paxam	paxa{puM;2;eka}/paxa{napuM;2;eka}/paxa{napuM;1;eka}	paxa{napuM;1;eka}	karma,15	pEra	-	-	-	-	-
+15	niXIyawe	10	niXIyawe	ni_XA1{karmaNi;lat;pra;eka;AwmanepaxI;duXAF;:juhowyAxiH}/ni_XA1{karmaNi;lat;pra;eka;AwmanepaxI;duXAF;:juhowyAxiH}	ni_XA1{karmaNi;lat;pra;eka;AwmanepaxI;duXAF;:juhowyAxiH}	aBihiwa_karma,14;sakarmaka	Upara_liyA_jAwA_hE	-	-	-	-	-

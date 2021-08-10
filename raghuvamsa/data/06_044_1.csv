@@ -1,0 +1,19 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	pra-kAmam	2	prakAmam	pra-kAmam{avya}/kAma{puM;2;eka}/kAma{napuM;1;eka}/kAma{napuM;2;eka}	pra-kAma{napuM;1;eka}	viSeRaNam,5	pra-kAma	-	-	-	-	-
+2	priya-xarSanaH	3	priyaxarSanaH	priya-xarSana{puM;1;eka}	priya-xarSana{puM;1;eka}	viSeRaNam,5	priya-xarSana	-	-	-	-	-
+3	api	4	api	api{avya}	api{avya}	sambanXaH,2	BI	-	-	-	-	-
+4	saH	6	saH	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,5	vaha	-	-	-	praxIpaH	raGuvaMSasya rAjA
+5	kRiwISaH	7	kRiwISaH	kRiwISa{puM;1;eka}	kRiwISa{puM;1;eka}	karwA,9	kRiwISa	-	-	-	-	-
+6	wasyAH	1	wasyAH	wax{sarvanAma;swrI;6;eka}/wax{sarvanAma;swrI;5;eka}/was1{karwari;ASIrlif;ma;eka;parasmEpaxI;wasuz;:xivAxiH}	wax{sarvanAma;swrI;6;eka}	RaRTIsambanXaH,7	usakI	-	-	-	inxumawyAH	rAjakumArI
+7	rucaye	8	rucaye	ruci{swrI;4;eka}	ruci{swrI;4;eka}	prayojanam,9	ruci_ke_liye	-	-	-	-	-
+8	na	5	na	na{avya}	na{avya}	prawiReXaH,9	nahIM	-	-	-	-	-
+9	baBUva	9	baBUva	BU1{karwari;lit;u;eka;parasmEpaxI;BU;:BvAxiH}/BU1{karwari;lit;ma;bahu;parasmEpaxI;BU;:BvAxiH}/BU1{karwari;lit;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;lit;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,5	huA	-	-	-	-	-
+10	Saraw-pramqRta-ambu-Xara-uparoXaH 	6	SarawpramqRtaambuXarauparoXaH 	-	{puM;1;eka}	viSeRaNam,12	-	-	-	-	-	-
+11	paryApwa-kalaH	13	paryApwakalaH	paryApwa-kala{puM;1;eka}	paryApwa-kala{puM;1;eka}	viSeRaNam,12	-	-	-	-	-	-
+12	SaSI	11	SaSI	SaSin{puM;1;eka}	SaSin{puM;1;eka}	karwA,16	cAzxa	-	-	-	-	-
+13	nalinyAH	14	nalinyAH	nalinI{swrI;5;eka}/nalinI{swrI;6;eka}	nalinI{swrI;6;eka}	RaRTIsambanXaH,14	nalinI_kI	-	-	-	-	-
+14	rucaye	8	rucaye	ruci{swrI;4;eka}	ruci{swrI;4;eka}	prayojanam,16	ruci_ke_liye	-	-	-	-	-
+15	na	5	na	na{avya}	na{avya}	prawiReXaH,16	nahIM	-	-	-	-	-
+16	baBUva	9	baBUva	BU1{karwari;lit;u;eka;parasmEpaxI;BU;:BvAxiH}/BU1{karwari;lit;ma;bahu;parasmEpaxI;BU;:BvAxiH}/BU1{karwari;lit;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;lit;pra;eka;parasmEpaxI;BU;:BvAxiH}	upamAnam,17	huA	-	-	-	-	-
+17	iva	12	iva	iva{avya}	iva{avya}	upamAnaxyowakaH,9	jEse	-	-	-	-	-

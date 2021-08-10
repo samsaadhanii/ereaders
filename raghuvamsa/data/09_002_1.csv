@@ -1,0 +1,16 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	aXigawaM	-	aXigawaM	aXigawa{puM;2;eka(gam1;kwa;gamLz;:BvAxiH)}/aXigawa{napuM;1;eka(gam1;kwa;gamLz;:BvAxiH)}/aXigawa{napuM;2;eka(gam1;kwa;gamLz;:BvAxiH)}	aXigawa{puM;2;eka(gam1;kwa;gamLz;:BvAxiH)}	viSeRaNam,3	prApwa_hue_hue	-	-	-	-	-
+2	AwmA-kula-uciwaM	-	AwmA-kula-uciwaM	AwmA-kula-uciwa{puM;2;eka(AwmA-kula-uc1;kwa;ucaz;:xivAxiH)}/AwmA-kula-uciwa{napuM;1;eka(uc1;kwa;ucaz;:xivAxiH)}/AwmA-kula-uciwa{napuM;2;eka(uc1;kwa;ucaz;:xivAxiH)}	AwmA-kula-uciwa{puM;2;eka(AwmA-kula-uc1;kwa;ucaz;:xivAxiH)}	viSeRaNam,3	AwmA-kula-vilode_hue	-	@bahuvrihi	-	-	-
+3	sa-nagaraM	-	sa-nagaraM	sa-nagara{puM;2;eka}/nagara{napuM;1;eka}/nagara{napuM;2;eka}	sa-nagara{puM;2;eka}	viSeRaNam,4	sa-nagara_ko	-	@avyayibhava	-	ayoXya nagar	-
+4	prakqwi-maNdalaM	-	prakqwi-maNdalaM	prakqwi-maNdala{puM;2;eka}/maNdala{napuM;1;eka}/maNdala{napuM;2;eka}	prakqwi-maNdala{puM;2;eka}	karma,7	prakqwi-maNdala	-	-	-	-	-
+5	yaw	-	yaw	yaw{avya}/yax{sarvanAma;napuM;1;eka}/yax{sarvanAma;napuM;2;eka}	yaw{avya}	vIpsA,6	ki	-	-	-	-	-
+6	yaw	-	yaw	yaw{avya}/yax{sarvanAma;napuM;1;eka}/yax{sarvanAma;napuM;2;eka}	yaw{avya}	sambanXaH,8	ki	-	-	-	-	-
+7	viXivaw	-	viXivaw	viXi{avya;vaw}	viXi{avya;vaw}	kriyAviSeRaNam,8	viXi_vaw	-	-	-	-	-
+8	apAlayaw	-	apAlayaw	pal1{karwari;laf;pra;eka;parasmEpaxI;palaz;:BvAxiH}/pA2{Nijanwa;karwari;laf;pra;eka;parasmEpaxI;pA;:axAxiH}/pAl1{karwari;laf;pra;eka;parasmEpaxI;pAlaz;:curAxiH}/pal1{Nijanwa;karwari;laf;pra;eka;parasmEpaxI;palaz;:BvAxiH}	pal1{karwari;laf;pra;eka;parasmEpaxI;palaz;:BvAxiH}	-	gayA	-	-	-	-	-
+9	wawaH	-	wawaH	wawaH{avya}	wawaH{avya}	sambanXaH,14	vahAz_se	-	-	-	-	-
+10	nagaM-ranxra-karOjasaH	-	nagaranXrakarOjasaH	nagaM-ranxra-kara{napuM;6;eka}/kara{puM;6;eka}	nagaM-ranxra-kara{napuM;6;eka}	viSeRaNam,11	nagaM-ranxra-kara_kA	-	@bahuvrihi 	-	-	-
+11	asya	-	asya	ixam{sarvanAma;puM;6;eka}/ixam{sarvanAma;napuM;6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;:xivAxiH}	ixam{sarvanAma;napuM;6;eka}	RaRTIsambanXaH,13	isake	-	-	-	xasharaWaZs	@dasharatha'@s
+12	guNavaw-waraM	-	guNavaw-waraM	guNa{mawup;puM}/guNa{mawup;napuM-wara;puM;2;eka}/wara{napuM;1;eka}/wara{napuM;2;eka}	guNa{mawup;napuM-wara;puM;2;eka}	viSeRaNam,13	guNa_ko	-	-	-	-	-
+13	nagaram	-	nagaram	nagara{puM;2;eka}/nagara{napuM;1;eka}/nagara{napuM;2;eka}	nagara{napuM;1;eka}	karwA,14	-	-	-	-	-	-
+14	aBavaw	-	aBavaw	BU1{karwari;laf;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;laf;pra;eka;parasmEpaxI;BU;:BvAxiH}	-	huA	-	-	-	-	-

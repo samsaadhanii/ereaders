@@ -1,0 +1,14 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	asi	1	SocanIyAsi 	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,5;sakarmaka	as2_pp_skwe_ho	-	-	-	-	-
+2	SocanIyA	-	-	SocanIyA{swrI;1;eka(Suc1;anIyar;Sucaz;:BvAxiH)}/SocanIyA{swrI;1;eka(Suc2;anIyar;IzSucizr;:xivAxiH)}	SocanIyA{swrI;1;eka(Suc1;anIyar;Sucaz;:BvAxiH)}	karwqsamAnAXikaraNam,1	Soka_karanA	-	-	-	-	-
+3	vasuXe	2	vasuXe	vasuXA{swrI;1;xvi}/vasuXA{swrI;2;xvi}	vasuXA{swrI;1;xvi}	samboXyaH,1	vasuXAoM_kA	-	-	-	-	@Earth - @pruthvi - @place
+4	yA	3	yA	yax{sarvanAma;swrI;1;eka}	yax{sarvanAma;swrI;1;eka}	viSeRaNam,7	jo	-	@Earth - @pruthvi 	-	-	-
+5	wvaM	4	wvaM	yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,1	wuma	-	@Earth - @pruthvi 	-	-	-
+6	xaSaraWAw	5	xaSaraWAccyuwA 	xaSaraWa{puM;5;eka}/xaSaraWa{napuM;5;eka}	xaSaraWa{napuM;5;eka}	hewuH,7	xaSaraWa_se	-	-	-	-	@Dasaratha - @person
+7	cyuwA	-	-	cyuwA{swrI;1;eka(cyu1;kwa;cyuf;:BvAxiH)}	cyuwA{swrI;1;eka(cyu1;kwa;cyuf;:BvAxiH)}	karwA,12	gayA_huA	-	-	-	-	-
+8	rAma-haswam	6	rAmahaswamanuprApya	haswa{puM;2;eka}	haswa{puM;2;eka}	karma,9	hAWa	-	-	-	-	-
+9	anuprApya	-	-	Ap1{avya;lyap;ApLz;:svAxiH}	anu_pra_Ap1{avya;lyap;ApLz;:svAxiH}	pUrvakAlaH,12	anu_pra_Ap1_kara	-	-	-	-	-
+10	kaRtAw	7	kaRtAwkaRtawaraM 	kaRta{puM;5;eka}/kaRta{napuM;5;eka}	kaRta{napuM;5;eka}	hewuH,12	kaRta_se	-	-	-	-	-
+11	kaRtawaram	-	-	kaRta-wara{puM;2;eka}/wara{napuM;1;eka}/wara{napuM;2;eka}	kaRta-wara{napuM;2;eka}	karma,12	kaRta-wara_ko	-	-	-	-	-
+12	gawA	8	gawA	gawA{swrI;1;eka(gam1;kwa;gamLz;:BvAxiH)}	gawA{swrI;1;eka(gam1;kwa;gamLz;:BvAxiH)}	karwqsamAnAXikaraNam,1	-	-	-	-	-	-

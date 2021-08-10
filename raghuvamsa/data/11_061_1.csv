@@ -1,0 +1,17 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	BAskaraH	1	BAskaraSca	BAskara{puM;1;eka}	BAskara{puM;1;eka}	karwA,4	BAskara	-	-	-	-	@sun
+2	yAm	3	yAM	yax{sarvanAma;swrI;2;eka}	yax{sarvanAma;swrI;2;eka}	viSeRaNam,3	jisa	-	-	-	niwya_sambanXaH,6	-
+3	xiSam	2	xiSamaXyuvAsa	xiS{swrI;2;eka}	xiS{swrI;2;eka}	karma,4	sWAna_ko	-	-	-	-	-
+4	aXyuvAsa	-	-	aXi_vas1{karwari;lit;pra;eka;parasmEpaxI;vasaz;:BvAxiH}/aXi_vas1{karwari;lit;u;eka;parasmEpaxI;vasaz;:BvAxiH}	aXi_vas1{karwari;lit;pra;eka;parasmEpaxI;vasaz;:BvAxiH}	aBihiwa_karwA,1;sakarmaka	rahA	-	-	-	-	-
+5	ca	-	-	ca{avya}	ca{avya}	sambanXaH,4	BI	-	-	-	-	-
+6	wAm	4	wAM	wax{sarvanAma;swrI;2;eka}	wax{sarvanAma;swrI;2;eka}	viSeRaNam,7	vaha	-	-	-	xiSam	-
+7	(xiSam)	2	(xiSamaXyuvAsa)	xiS{swrI;2;eka}	xiS{swrI;2;eka}	karma,15	sWAna_ko	-	-	-	-	-
+8	SriwAH	5	SriwAH	Sriwa{swrI;2;bahu(Sri1;kwa;SriF;:BvAxiH)}/Sriwa{swrI;1;bahu(Sri1;kwa;SriF;:BvAxiH)}/Sriwa{puM;1;bahu(Sri1;kwa;SriF;:BvAxiH)}	Sriwa{puM;1;bahu(Sri1;kwa;SriF;:BvAxiH)}	viSeRaNam,9	gayA_hue	-	-	-	-	-
+9	SivAH	12	SivAH	Siva{puM;1;bahu}/Siva{swrI;2;bahu}/Siva{swrI;1;bahu}	Siva{puM;1;bahu}	karwA,15	SivoM_ne	-	-	-	-	-
+10	kRawra-SoNiwa-piwq-kriyA-uciwam	8	kRawraSoNiwapiwqkriyociwaM	kRawra-SoNiwa-piwq-kriyA-uciwa{napuM;2;eka(kRawra-SoNiwa-piwq-kriyA-uc1;kwa;ucaz;:xivAxiH)}/kRawra-SoNiwa-piwq-kriyA-uciwa{napuM;1;eka(uc1;kwa;ucaz;:xivAxiH)}/kRawra-SoNiwa-piwq-kriyA-uciwa{puM;2;eka(uc1;kwa;ucaz;:xivAxiH)}	kRawra-SoNiwa-piwq-kriyA-uciwa{puM;2;eka(kRawra-SoNiwa-piwq-kriyA-uc1;kwa;ucaz;:xivAxiH)}	viSeRaNam,11	kRawra-lAla-piwA-kriyA-X_uc1yA_hue	-	-	-	-	-
+11	BArgavam	11	BArgavaM	BArgava{puM;2;eka}/BArgava{napuM;2;eka}/BArgava{napuM;1;eka}	BArgava{puM;2;eka}	karma,12	BArgava_ko	-	-	-	-	@person
+12	coxayanwyaH	9	coxayanwya	coxayanwI{swrI;1;bahu(cux1;Sawq_lat;cuxaz;:curAxiH)}	coxayanwI{swrI;1;bahu(cux1;Sawq_lat;cuxaz;:curAxiH)}	upamAnam,13	preraNA_karawIM_huIM	-	-	-	-	-
+13	iva	10	iva	iva{avya}	iva{avya}	upamAnaxyowakaH,14	jEse	-	-	-	-	-
+14	prawiBayam	6	prawiBayaM 	prawiBayam{avya}	prawiBayam{avya}	kriyAviSeRaNam,15	prawiBaya	-	-	-	-	-
+15	vavASire	7	vavASire	vAS1{karwari;lit;pra;bahu;AwmanepaxI;vASqz;:xivAxiH}	vAS1{karwari;lit;pra;bahu;AwmanepaxI;vASqz;:xivAxiH}	aBihiwa_karwA,9;sakarmaka	X_vAS1_ap_skyA	-	-	-	-	-

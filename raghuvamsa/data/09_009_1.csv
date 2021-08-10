@@ -1,0 +1,19 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	vasuXa-aXipAH	-	vasuXAXipAH	vasuXa-aXipa{puM;1;bahu}/aXipa{puM;8;bahu}/aXipA{swrI;8;bahu}/aXipA{swrI;1;bahu}/aXipA{swrI;2;bahu}	vasuXa-aXipA{swrI;1;bahu}	karwA,7	vasuXa-aXipAoM_ne	-	-	-	-	-
+2	raGu-uxbahAw	-	raGu-uxvahAw	uxvaha{puM;5;eka(vah1;GaF;vahaz;:BvAxiH)}	uxvaha{puM;5;eka(vah1;GaF;vahaz;:BvAxiH)}	apAxAnam,7	raGu_meM	-	-	-	-	-
+3	uxayam	-	uxayam	uxayam{puM;2;eka}/uxaya{napuM;1;eka}/uxaya{napuM;2;eka}	uxaya{napuM;2;eka}	GatakaH,6	uxayam-aswamaya	-	-	-	-	-
+4	aswamayam	-	aswamayam	aswamaya{puM;2;eka}/aswamaya{napuM;1;eka}/aswamaya{napuM;2;eka}	aswamaya{napuM;2;eka}	GatakaH,6	-	-	-	-	-	-
+5	ca	-	ca	ca{avya}	ca{avya}	GatakaxyowakaH,6	BI	-	-	-	-	-
+6	uBayam	-	uBayam	uBaya{puM;2;eka}/uBaya{napuM;1;eka}/uBaya{napuM;2;eka}/uBaya{sarvanAma;puM;2;eka}/uBaya{sarvanAma;napuM;1;eka}/uBaya{sarvanAma;napuM;2;eka}	uBaya{sarvanAma;napuM;2;eka}	karma,7	uBaya	-	-	-	-	-
+7	AnaSire	-	AnaSire	aS1{karwari;lit;pra;bahu;AwmanepaxI;aSUz;:svAxiH}	aS1{karwari;lit;pra;bahu;AwmanepaxI;aSUz;:svAxiH}	aBihiwa_karwA,1;sakarmaka	anuBava_kiyA	-	-	-	-	-
+8	saH	-	saH	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,12	vaha	-	-	-	yes	@dasaratha
+9	nixeSam	-	nixeSam	nixeSa{puM;2;eka}	nixeSa{puM;2;eka}	karma,10	AjFA	-	-	-	-	-
+10	a-lafGayawAm	-	alafGayawAm	a-laG3{karwari;laf;pra;xvi;parasmEpaxI;laGiz;:curAxiH}/laG3{karwari;laf;pra;eka;parasmEpaxI;laGiz;:curAxiH}/laG1{Nijanwa;karwari;lot;pra;xvi;parasmEpaxI;laGiz;:BvAxiH}/laG1{Nijanwa;karwari;lot;pra;eka;AwmanepaxI;laGiz;:BvAxiH}/laG2{Nijanwa;karwari;lot;pra;xvi;parasmEpaxI;laGiz;:BvAxiH}/laG2{Nijanwa;karwari;lot;pra;eka;AwmanepaxI;laGiz;:BvAxiH}/laG3{Nijanwa;karwari;lot;pra;xvi;parasmEpaxI;laGiz;:curAxiH}/laG3{Nijanwa;karwari;lot;pra;eka;AwmanepaxI;laGiz;:curAxiH}/a-lafGayaw{puM;6;bahu(laG3;Sawq_lat;laGiz;:curAxiH)}/a-lafGayaw{napuM;6;bahu(laG3;Sawq_lat;laGiz;:curAxiH)}	a-lafGayaw{puM;6;bahu(a-laG3;Sawq_lat;laGiz;:curAxiH)}	RaRTIsambanXaH,11	a-laG3we_hue	-	@nai @samasa	-	-	-
+11	suhqxayaH	-	suhqxayaH	suhqxaya{puM;1;eka}	suhqxaya{puM;1;eka}	karwqsamAnAXikaraNam,12	suhqxaya	-	-	-	-	-
+12	aBUw	-	aBUw	BU1{karwari;luf;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;luf;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,1;sakarmaka	huA	-	-	-	-	-
+13	hi	-	hi	{avya}	{avya}	sambanXaH,12	-	-	-	-	-	-
+14	(saH)	-	(saH)	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,17	vaha	@dasharatha	-	-	-	@dasharatha
+15	prawigarjawAm	-	prawigarjawAm	prawi_garj1{karwari;lot;pra;xvi;parasmEpaxI;garjaz;:BvAxiH}/prawigarjaw{puM;6;bahu(garj1;Sawq_lat;garjaz;:BvAxiH)}/prawigarjaw{napuM;6;bahu(garj1;Sawq_lat;garjaz;:BvAxiH)}	prawigarjaw{puM;6;bahu(garj1;Sawq_lat;garjaz;:BvAxiH)}	RaRTIsambanXaH,16	NWwe_hue	-	-	-	-	-
+16	ayo-hqxayaH	-	ayohqxayaH	ayo-hqxaya{puM;1;eka}	ayo-hqxaya{puM;1;eka}	karwqsamAnAXikaraNam,17	ayo-hqxaya	-	-	-	-	-
+17	(aBUw)	-	(aBUw)	BU1{karwari;luf;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;luf;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,14	huA	-	-	-	-	-

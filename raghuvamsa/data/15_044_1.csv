@@ -1,0 +1,15 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	SruwvA	1	SruwvA	Sru1{avya;kwvA;Sru;:BvAxiH}	Sru1{avya;kwvA;Sru;:BvAxiH}	pUrvakAlaH,6	suna_kara	-	-	-	-	-
+2	wasya	2	wasya	wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,3	usakI	-	-	-	Brahman	-
+3	SucaH	3	Suco 	Suc{swrI;1;bahu}/Suc{swrI;2;bahu}/Suc{swrI;5;eka}/Suc{swrI;6;eka}/Suc{swrI;8;bahu}	Suc{swrI;6;eka}	RaRTIsambanXaH,4	raMja	-	-	-	-	-
+4	hewuM	4	hewuM	hewu{puM;2;eka}/hi1{avya;wumun;hi;:svAxiH}	hewu{puM;2;eka}	karma,1	hewu_kI	-	-	-	-	-
+5	gopwA	5	gopwA	gopwq{puM;1;eka(gup1;wqc;gupUz;:BvAxiH)}	gopwq{puM;1;eka(gup1;wqc;gupUz;:BvAxiH)}	viSeRaNam,7	-	-	-	-	-	-
+6	jihrAya	6	jihrAya	hrI1{karwari;lit;u;eka;parasmEpaxI;hrI;:juhowyAxiH}/hrI1{karwari;lit;pra;eka;parasmEpaxI;hrI;:juhowyAxiH}	hrI1{karwari;lit;pra;eka;parasmEpaxI;hrI;:juhowyAxiH}	aBihiwa_karwA,7;sakarmaka	hrI1_pp_skyA	-	-	-	-	-
+7	rAGavaH	7	rAGavaH	rAGava{puM;1;eka}	rAGava{puM;1;eka}	karwA,6	raGuvaMSI_ne	-	-	-	-	@Ram - @person
+8	na	8	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	-	-	-	-	-
+9	hi	9	hyakAlaBavo 	hi{avya}	hi{avya}	sambanXaH,8	hi	-	-	-	-	-
+10	a-kAla-BavaH	-	-	akAla-Bava{puM;1;eka}	akAla-Bava{puM;1;eka}	viSeRaNam,11	akAla-saMsAra	-	-	-	-	-
+11	mqwyuH	10	mqwyurikRvAkupaxamaspqSaw	mqwyu{puM;1;eka}	mqwyu{puM;1;eka}	karwA,13	mqwyu	-	-	-	-	-
+12	ikRvAku-paxam	-	-	ikRvAku-pax{puM;2;eka}/paxa{napuM;1;eka}/paxa{napuM;2;eka}/paxa{puM;2;eka}	ikRvAku-paxa{puM;2;eka}	karma,13	ikRvAku-paxa_ko	-	-	-	-	@Raghuvamsi
+13	aspqSaw	-	-	spqS1{karwari;laf;pra;eka;parasmEpaxI;spqSaz;:wuxAxiH}	spqS1{karwari;laf;pra;eka;parasmEpaxI;spqSaz;:wuxAxiH}	aBihiwa_karwA,11;sakarmaka	CuI	-	-	-	-	-

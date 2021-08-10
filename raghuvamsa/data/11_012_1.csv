@@ -1,0 +1,16 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	wapasvinaH	-	-	wapasvin{puM;1;bahu}/wapasvin{puM;2;bahu}/wapasvin{puM;5;eka}/wapasvin{puM;6;eka}/wapasvin{puM;8;bahu}	wapasvin{puM;1;bahu}	karwA,14	wapasvI	-	-	-	-	-
+2	wayoH	11	wayoH	wax{sarvanAma;puM;6;xvi}/wax{sarvanAma;napuM;6;xvi}/wax{sarvanAma;swrI;6;xvi}/wax{sarvanAma;puM;7;xvi}/wax{sarvanAma;napuM;7;xvi}/wax{sarvanAma;swrI;7;xvi}	wax{sarvanAma;puM;6;xvi}	viSeRaNam,3	unakA	-	-	-	-	-
+3	uBayoH	-	-	uBa{sarvanAma;puM;6;xvi}/uBa{sarvanAma;napuM;6;xvi}/uBA{sarvanAma;swrI;6;xvi}/uBa{sarvanAma;puM;7;xvi}/uBa{sarvanAma;napuM;7;xvi}/uBA{sarvanAma;swrI;7;xvi}	uBa{sarvanAma;puM;6;xvi}	RaRTIsambanXaH,5	xonoMkA	-	-	-	-	-
+4	laGunA	9	laGunA	laGu{puM;3;eka}/laGu{napuM;3;eka}	laGu{puM;3;eka}	viSeRaNam,5	Cote_se	-	-	-	-	-
+5	xarSanena	8	xarSanena	xarSana{puM;3;eka}/xarSana{napuM;3;eka}	xarSana{puM;3;eka}	karaNam,8	xarSana_se	-	-	-	-	-
+6	yaWA	10	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,8	jEse	-	-	-	niwya_sambanXaH,9	-
+7	prIwim	12	prIwimApuruBayoswapasvinaH	prIwi{swrI;2;eka}	prIwi{swrI;2;eka}	karma,8	prasannawA_ko	-	-	-	-	-
+8	ApuH	-	-	Ap1{karwari;lit;pra;bahu;parasmEpaxI;ApLz;:svAxiH}/Af_pA1{karwari;luf;pra;bahu;parasmEpaxI;pA;:BvAxiH}	Ap1{karwari;lit;pra;bahu;parasmEpaxI;ApLz;:svAxiH}	aBihiwa_karwA,1;sakarmaka	prApwa_kiyA	-	-	-	-	-
+9	waWA	3	waWA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,14	vEse	-	-	-	-	-
+10	kamala-SoBinAM	2	kamalaSoBinAM	kamala-SoBinAm}	kamala-SoBin{puM;6;bahu}	viSeRaNam,11	kamala-	-	-	-	-	-
+11	amBasAM	1	nAmBasAM	amBas{napuM;6;bahu}	amBas{napuM;6;bahu}	RaRTIsambanXaH,12	jala_kA	-	-	-	-	-
+12	(prIwim)	-	(-)	prIwi{swrI;2;eka}	prIwi{swrI;2;eka}	karma,14	-	-	-	-	-	-
+13	na	-	-	na{avya}	na{avya}	prawiReXaH,14	-	-	-	-	-	-
+14	(ApuH)	-	(-)	Ap1{karwari;lit;pra;bahu;parasmEpaxI;ApLz;:svAxiH}/Af_pA1{karwari;luf;pra;bahu;parasmEpaxI;pA;:BvAxiH}	Ap1{karwari;lit;pra;bahu;parasmEpaxI;ApLz;:svAxiH}	aBihiwa_karwA,1;sakarmaka	prApwa_nahIM_kiyA	-	-	-	-	-

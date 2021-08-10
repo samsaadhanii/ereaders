@@ -1,0 +1,12 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	upasqwya	-	-	sq1{avya;lyap;sq;:BvAxiH}/sq2{avya;lyap;sq;:juhowyAxiH}	upa_sq1{avya;lyap;sq;:BvAxiH}	pUrvakAlaH,4	pAsa_jA_kara	-	-	-	-	-
+2	naveRu	4	naveRu	nava{puM;7;bahu}/nava{napuM;7;bahu}	nava{napuM;7;bahu}	viSeRaNam,3	navIna	-	-	-	-	-
+3	kAmya-vaswuRu	3	kAmyavaswuRu	kam1{Nyaw;kamuz;:BvAxiH-vaswu;puM;7;bahu}/vaswu{napuM;7;bahu}	vaswu{napuM;7;bahu}	aXikaraNam,1	Ipsiwa_vaswu_meM	-	-	-	-	-
+4	safginaH	5	safginaH	safgin{puM;1;bahu}/safgin{puM;2;bahu}/safgin{puM;5;eka}/safgin{puM;6;eka}/safgin{napuM;5;eka}/safgin{napuM;6;eka}/safgin{puM;8;bahu}	safgin{puM;6;eka}	viSeRaNam,5	anurakwa	-	-	-	-	-
+5	wasya	1	wasya	wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,7	usake	-	-	-	agnivarNayasya	@person
+6	vallaBABiH	6	vallaBABirupasqwya	vallaBA{swrI;3;bahu}	vallaBA{swrI;3;bahu}	karwA,10	pyAriyoM_ke_xvArA	-	-	-	-	-
+7	sa-AvaraNa-xqRta-sanXayaH	2	sAvaraNaxqRtasanXayaH	sa-vq1{lyut;vqF;:svAxiH-xqS1;kwa;xqSizr;:BvAxiH-sanXi;puM;8;bahu}/sanXi{puM;1;bahu}	sa-sanXi{puM;1;bahu}	viSeRaNam,8	xqSya-axqSya-sanXi_jEse	-	-	-	-	-
+8	samAgamAH	9	samAgamAH	samAgama{puM;1;bahu}/samAgama{puM;8;bahu}	samAgama{puM;1;bahu}	karma,10	milana	-	-	-	-	-
+9	sAmi-Bukwa-viRayAH	8	sAmiBukwaviRayAH	sAmi-Bukwa-viRaya{puM;8;bahu}/viRaya{puM;1;bahu}/viRayA{swrI;8;bahu}/viRayA{swrI;1;bahu}/viRayA{swrI;2;bahu}	sAmi-Bukwa-viRaya{puM;1;bahu}	karmasamAnAXikaraNam,10	AXe-Boga-viRaya_vAle	-	-	-	-	-
+10	cakrire	7	cakrire	kq2{karmaNi;lit;pra;bahu;AwmanepaxI;kqF;:svAxiH}/kq3{karmaNi;lit;pra;bahu;AwmanepaxI;dukqF;:wanAxiH}	kq3{karmaNi;laf;pra;bahu;AwmanepaxI;dukqF;:wanAxiH}	aBihiwa_karma,8;sakarmaka	kiye_gaye	-	-	-	-	-

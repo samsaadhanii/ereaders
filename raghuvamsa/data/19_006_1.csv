@@ -1,0 +1,17 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	inxriya-arWa-pariSUnyam	1	inxriyArWapariSUnyamakRamaH	inxriya-arWa-pariSUnya{puM;2;eka}/pariSUnya{napuM;1;eka}/pariSUnya{napuM;2;eka}	inxriya-arWa-pariSUnya{napuM;2;eka}	viSeRaNam,4	inxriya-arWa-pariSUnya	-	-	-	-	-
+2	ekam	-	-	eka{saMKyeyam;puM;2;eka}/eka{saMKyeyam;napuM;1;eka}/eka{saMKyeyam;napuM;2;eka}	eka{saMKyeyam;napuM;2;eka}	viSeRaNam,4	eka	-	-	-	-	-
+3	api	-	-	api{avya}	api{avya}	sambanXaH,2	BI	-	-	-	-	-
+4	kRaNa-anwaram	4	kRaNAnwaram	anwara{puM;2;eka}/anwara{napuM;1;eka}/anwara{napuM;2;eka}/anwara{sarvanAma;puM;2;eka}/anwara{sarvanAma;napuM;1;eka}/anwara{sarvanAma;napuM;2;eka}	anwara{sarvanAma;napuM;2;eka}	karma,5	anwara_ne	-	-	-	-	-
+5	soDuM	2	soDumekamapi	saha1{avya;wumun;Rahaz;:BvAxiH}	saha1{avya;wumun;Rahaz;:BvAxiH}	prayojanam,15	saha1ne~ke_liye	-	-	-	-	-
+6	a-kRamaH	-	-	a-kRama{puM;1;eka}	a-kRama{puM;1;eka}	viSeRaNam,7	a-yogya	-	-	-	-	-
+7	saH	3	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,15	usa	-	-	-	-	@King @Agni @Varna
+8	anwaH	5	anwareva	anwaH{avya}/anwa{puM;1;eka}	anwaH{avya}	xeSAXikaraNam,11	anwa	-	-	-	-	-
+9	eva	-	-	eva{avya}	eva{avya}	sambanXaH,8	hI	-	-	-	-	-
+10	xivA-niSam	-	-	xivA-niS{swrI;2;eka}/niSa{puM;2;eka}/niSa{napuM;1;eka}/niSa{napuM;2;eka}	xivA-niSa{napuM;2;eka}	karma,11	xivA-niSa	-	-	-	-	-
+11	viharan	6	viharanxivAniSaM	viharaw{puM;1;eka(hq1;Sawq_lat;hqF;:BvAxiH)}	viharaw{puM;1;eka(hq1;Sawq_lat;hqF;:BvAxiH)}	varwamAnasamAnakAlaH,15	NWwA_huA	-	-	-	-	-
+12	samuwsukAH	9	samuwsukAH	samuwsuka{puM;1;bahu}/samuwsukA{swrI;1;bahu}/samuwsukA{swrI;2;bahu}/samuwsuka{puM;8;bahu}	samuwsuka{swrI;2;bahu}	viSeRaNam,13	bEcEna	-	-	-	-	-
+13	prajAH	10	prajAH	prajA{swrI;1;bahu}/prajA{swrI;2;bahu}/praja{puM;8;bahu}/prajA{swrI;8;bahu}/pra-ja{puM;1;bahu}/pra-ja{puM;8;bahu}	prajA{swrI;2;bahu}	karma,15	pra	-	-	-	-	-
+14	na	7	na	na{avya}	na{avya}	prawiReXaH,15	nahIM	-	-	-	-	-
+15	vyapEkRawa	8	vyapEkRawa	vi_apa_IkR1{karwari;laf;pra;eka;AwmanepaxI;IkRaz;:BvAxiH}	vi_apa_IkR1{karwari;laf;pra;eka;AwmanepaxI;IkRaz;:BvAxiH}	aBihiwa_karwA,7	vi_apa_IkR1_ap_skyA	-	-	-	-	-

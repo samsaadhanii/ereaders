@@ -1,0 +1,15 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	saH	5	sa	wax{sarvanAma;puM;1,eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,2	-	-	-	-	-	-
+2	rAma-sAyakaH	6	rAmasAyakaH	bANa{puM;1;eka}	bANa{puM;1;eka}	karwA,7	bANa_ne	-	-	-	-	-
+3	SilA-Gane	3	SilAGane	SilA-Gana{puM;7;eka}	SilA-Gana{puM;7;eka}	viSeRaNam,4	-	-	-	-	-	-
+4	wAdakA-urasi	4	wAdakorasi	wAdakA-uras{napuM;7;eka}	wAdakA-uras{napuM;7;eka}	aXikaraNam,7	sIne_meM	-	-	-	-	-
+5	yaw	1	yaccakAra	yaw{avya}/yax{sarvanAma;napuM;1;eka}/yax{sarvanAma;napuM;2;eka}	yax{sarvanAma;napuM;2;eka}	viSeRaNam,6	jisa	-	-	-	-	-
+6	vivaraM	2	vivaraM	vivara{puM;2;eka}/vivara{napuM;1;eka}/vivara{napuM;2;eka}	vivara{napuM;2;eka}	karma,7	Cixra_kI	-	-	-	-	-
+7	cakAra	-	-	kq1{karwari;lit;u;eka;parasmEpaxI;kqF;:BvAxiH}/kq1{karwari;lit;pra;eka;parasmEpaxI;kqF;:BvAxiH}/kq2{karwari;lit;u;eka;parasmEpaxI;kqF;:svAxiH}/kq2{karwari;lit;pra;eka;parasmEpaxI;kqF;:svAxiH}/kq3{karwari;lit;u;eka;parasmEpaxI;dukqF;:wanAxiH}/kq3{karwari;lit;pra;eka;parasmEpaxI;dukqF;:wanAxiH}/kQ1{karwari;lit;u;eka;parasmEpaxI;kQ;:wuxAxiH}/kQ1{karwari;lit;pra;eka;parasmEpaxI;kQ;:wuxAxiH}/kQ2{karwari;lit;u;eka;parasmEpaxI;kQF;:kryAxiH}/kQ2{karwari;lit;pra;eka;parasmEpaxI;kQF;:kryAxiH}/ca-kAra{puM;8;eka}	kQ2{karwari;lit;pra;eka;parasmEpaxI;kQF;:kryAxiH}	prawiyogI,8	hiMsA_kI	-	-	-	-	-
+8	waw	10	waw	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waw{avya}	anuyogI,13	waw	-	-	-	-	-
+9	rakRasAM	8	rakRasAM	rakRas{puM;6;bahu}	rakRas{puM;6;bahu}	RaRTIsambanXaH,10	-	-	-	-	-	-
+10	a-praviRta-viRayasya	7	apraviRtaviRayasya	a-praviRta-viRaya{puM;6;eka}	a-praviRta-viRaya{puM;6;eka}	viSeRaNam,11	-	-	-	-	-	-
+11	anwakasya	-	-	anwaka{puM;6;eka}/anwa{ka;puM;6;eka}/anwa{ka;napuM;6;eka}/anwaka{puM;6;eka(aw2;Nvul;awiz;:BvAxiH)}/anwaka{napuM;6;eka(aw2;Nvul;awiz;:BvAxiH)}	anwaka{puM;6;eka}	RaRTIsambanXaH,12	-	-	-	-	-	-
+12	xvArawAm	9	xvArawAmagamaxanwakasya	xvAra{wal;swrI;2;eka}	xvAra{wal;swrI;2;eka}	karma,13	xvAra_ko	-	-	-	-	-
+13	agamaw	-	-	gam1{karwari;luf;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	gam1{karwari;luf;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	sakarmaka	gayA	-	-	-	-	-

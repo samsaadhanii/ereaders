@@ -1,0 +1,16 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	hara-sUnu-saMniBaH	10	harasUnusaMniBaH	hara-sUnu-sanniBa{puM;1;eka}	hara-sUnu-sanniBa{puM;1;eka}	viSeRaNam,3	Siva-puwra-sanniBa	-	-	-	-	-
+2	kqpA-mqxuH	2	kqpAmqxuravekRya	kqpA-mqxu{swrI;1;eka}/mqxu{puM;1;eka}	kqpA-mqxu{puM;1;eka}	viSeRaNam,3	kqpA-mqxu	-	-	-	-	-
+3	rAGavaH	4	rAGavaH	rAGava{puM;1;eka}	rAGava{puM;1;eka}	karwA,14	raGuvaMSI_ne	-	-	-	-	-
+4	Awmani	-	-	Awman{puM;7;eka}	Awman{puM;7;eka}	aXikaraNam,5	AwmA_meM	-	-	-	-	-
+5	sKaliwa-vIryam	5	sKaliwavIryamAwmani	sKal1{kwa;sKalaz;:BvAxiH-vIrya;napuM;1;eka}/vIrya{napuM;2;eka}/vIrya{puM;2;eka(vIra1;yaw;vIra;:curAxiH)}/vIrya{napuM;1;eka(vIra1;yaw;vIra;:curAxiH)}/vIrya{napuM;2;eka(vIra1;yaw;vIra;:curAxiH)}	vIrya-vIrya{puM;2;eka(vIrya-vIra1;yaw;vIra;:curAxiH)}	viSeRaNam,7	SUravIrawA-	-	-	-	-	-
+6	waM	1	waM	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,7	usa	-	-	-	-	-
+7	BArgavaM	3	BArgavaM	BArgava{puM;2;eka}	BArgava{puM;2;eka}	sup_samucciwaH,11	BArgava_ko	-	-	-	-	-
+8	svaM	6	svaM	sva{puM;2;eka}/sva{napuM;1;eka}/sva{napuM;2;eka}/sva{sarvanAma;puM;2;eka}	sva{sarvanAma;puM;2;eka}	viSeRaNam,11	sva_	-	-	-	-	-
+9	saMhiwam	8	saMhiwamamoGamASugaM	saMhiwa{puM;2;eka(XA1;kwa;duXAF;:juhowyAxiH)}/saMhiwa{napuM;1;eka(XA1;kwa;duXAF;:juhowyAxiH)}/saMhiwa{napuM;2;eka(XA1;kwa;duXAF;:juhowyAxiH)}	saMhiwa{puM;2;eka(XA1;kwa;duXAF;:juhowyAxiH)}	viSeRaNam,11	sAWa-sAWa_rakKA_hue	-	-	-	-	-
+10	amoGam	-	-	amoGa{puM;2;eka}/amoGa{napuM;1;eka}/amoGa{napuM;2;eka}	amoGa{napuM;2;eka}	sup_samucciwaH,11	amoGa_ko	-	-	-	-	-
+11	ASugaM	-	-	ASuga{puM;2;eka}/ASuga{napuM;1;eka}/ASuga{napuM;2;eka}	ASuga{puM;2;eka}	karma,13	ASuga_ko	-	-	-	-	-
+12	ca	7	ca	ca{avya}	ca{avya}	sup_samuccayaxyowakaH,11	Ora	-	-	-	-	-
+13	avekRya	-	-	IkR1{avya;lyap;IkRaz;:BvAxiH}	ava_IkR1{avya;lyap;IkRaz;:BvAxiH}	pUrvakAlaH,14	xeKa_kara	-	-	-	-	-
+14	vyAjahAra	9	vyAjahAra	vi_Af_hq1{karwari;lit;pra;eka;parasmEpaxI;hqF;:BvAxiH}/vi_Af_hq1{karwari;lit;u;eka;parasmEpaxI;hqF;:BvAxiH}	vi_Af_hq1{karwari;lit;pra;eka;parasmEpaxI;hqF;:BvAxiH}	aBihiwa_karwA,3;sakarmaka	vi_Af_hq1_pp_skyA	-	-	-	-	-

@@ -1,0 +1,13 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	paxAwiM	2	paxAwimAlokya	paxAwi{puM;2;eka}/paxAwi{swrI;2;eka}	paxAwi{swrI;2;eka}	viSeRaNam,2	pExala_yAwrI_ko	-	-	-	-	-
+2	rAmaM	1	rAmaM	rAma{puM;2;eka}	rAma{puM;2;eka}	sup_samucciwaH,4	rAma_ko	-	-	-	-	-
+3	varUWinaM	5	varUWinaM	varUWin{puM;2;eka}	varUWin{puM;2;eka}	viSeRaNam,4	aBirakRaka_ko	-	-	-	-	-
+4	lafkA-ISam	3	lafkeSam	lafkeSa{puM;2;eka}	lafkeSa{puM;2;eka}	karma,6	lafkeSa_ko	-	-	-	-	-
+5	ca	4	ca	ca{avya}	ca{avya}	sup_samuccayaxyowakaH,4	Ora	-	-	-	-	-
+6	Alokya	-	-	lok1{avya;lyap;lokqz;:BvAxiH}/lok2{avya;lyap;lokqz;:curAxiH}	Af_lok2{avya;lyap;lokqz;:curAxiH}	pUrvakAlaH,11	Af_lok2_kara	-	-	-	-	-
+7	puranxaraH	10	puranxaraH	puranxara{puM;1;eka}	puranxara{puM;1;eka}	karwA,11	puranxara_ne	-	-	-	-	-
+8	hari-yugyaM	6	hariyugyaM	hari-yugya{puM;2;eka}/yugya{napuM;1;eka}/yugya{napuM;2;eka}	hari-yugya{puM;2;eka}	viSeRaNam,9	hari-jowane_ke_yogya_	-	-	-	-	-
+9	raWaM	7	raWaM	raWa{puM;2;eka}	raWa{puM;2;eka}	karma,11	raWa_ko	-	-	-	-	-
+10	wasmE	8	wasmE	wax{sarvanAma;puM;4;eka}wax{sarvanAma;napuM;4;eka}	wax{sarvanAma;puM;4;eka}	sampraxAnam,11	rAma_ke_liye	-	-	-	-	rAmaH
+11	prajiGAya	9	prajiGAya	pra_hi1{karwari;lit;pra;eka;parasmEpaxI;hi;:svAxiH}/pra_hi1{karwari;lit;u;eka;parasmEpaxI;hi;:svAxiH}	pra_hi1{karwari;lit;pra;eka;parasmEpaxI;hi;:svAxiH}	aBihiwa_karwA,7;sakarmaka	pra_hi1_pp_skyA	-	-	-	-	-

@@ -1,0 +1,17 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	sA	1	sA	wax{sarvanAma;swrI;1;eka}	wax{sarvanAma;swrI;1;eka}	viSeRaNam,4	usa	-	-	-	kEkeyI	-
+2	kila	2	kilASvAsiwA	-	"kila{avya}
+"	sambanXaH,8	-	-	-	-	-	-
+3	ASvAsiwA	-	-	ASvAsiwq{puM;1;eka(kila-Svas1;wqc;Svasaz;:axAxiH)}	ASvAsiwq{puM;1;eka(Svas1;wqc;Svasaz;:axAxiH)}	viSeRaNam,4	kila-	-	-	-	-	-
+4	caNdI	3	caNdI	caNdI{swrI;1;eka}	caNdI{swrI;1;eka}	karwA,8	-	-	-	-	-	-
+5	BarwrA	4	BarwrA	Barwq{puM;3;eka}	Barwq{puM;3;eka}	karwA,3	svAmI_se	-	-	-	-	-
+6	waw-saMSruwO	5	wawsaMSruwO	saMSruwa{puM;1;xvi}/saMSruwa{puM;2;xvi}/saMSruwa{puM;8;xvi}	saMSruwa{puM;2;xvi}	viSeRaNam,7	waw	-	-	-	-	-
+7	varO	6	varO	vara{puM;1;xvi}/vara{puM;2;xvi}/vara{puM;8;xvi}	vara{puM;2;xvi}	karma,8	SreRTa	-	-	-	-	-
+8	uxvavAma	-	-	uw_vam1{karwari;lit;pra;eka;parasmEpaxI;tuvamaz;:BvAxiH}	uw_vam1{karwari;lit;pra;eka;parasmEpaxI;tuvamaz;:BvAxiH}	aBihiwa_karwA,4;sakarmaka	uw_vam1_pp_skyA	-	-	-	-	-
+9	inxra-sikwA	7	uxvavAmenxrasikwA	inxra-sic{wal;swrI;1;eka}/inxra-sikwA{swrI;1;eka(Ric1;kwa;Ricaz;:wuxAxiH)}	inxra-sikwA{swrI;1;eka(inxra-Ric1;kwa;Ricaz;:wuxAxiH)}	viSeRaNam,10	inxra-Ric1yA_huI	-	-	-	-	-
+10	 BUH	8	BUrbilamagnAvivoragO	BUH{swrI 1 eka}	BUH{swrI;1;eka}	karwA,14	-	-	-	-	-	-
+11	bila-magnO	-	-	bila-magnO{swrI;1;eka}	bila-magna{puM;2;xvi}	viSeRaNam,13	BUbila-magnA	-	-	-	-	-
+12	iva	-	-	iva{avya}	iva{avya}	upamAnaxyowakaH,8	jEse	-	-	-	-	-
+13	uragO	-	-	uraga{puM;1;xvi}/uraga{puM;2;xvi}/uraga{puM;8;xvi}	uraga{puM;2;xvi}	karma,14	uraga	-	-	-	-	-
+14	(uxvavAma)	-	(-)	uw_vam1{karwari;lit;pra;eka;parasmEpaxI;tuvamaz;:BvAxiH}	uw_vam1{karwari;lit;pra;eka;parasmEpaxI;tuvamaz;:BvAxiH}	upamAnam,12	uw_vam1_pp_skyA	-	-	-	-	-

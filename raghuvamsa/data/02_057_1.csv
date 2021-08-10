@@ -1,0 +1,14 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	kim	1	kimapyahiMsyaswava	kim{avya}/kim{sarvanAma;napuM;1;eka}/kim{sarvanAma;napuM;2;eka}	kim{avya}	sambanXaH,2	kyA	-	-	-	-	-
+2	aham	-	-	asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,7	mEM	-	-	-	-	-
+3	api	-	-	api{avya}	api{avya}	sambanXaH,2	BI	-	-	-	-	-
+4	wava	-	-	yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,5	wumhArA	-	-	-	-	-
+5	mawaH	-	-	mawa{puM;1;eka(man1;kwa;manaz;:xivAxiH)}/mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	karwqsamAnAXikaraNam,7	cinwiwa	-	-	-	-	-
+6	a-hiMsyaH	-	-	a-hiMsya{puM;1;eka(a-his1;Nyaw;hisiz;:ruXAxiH)}/a-hiMsya{puM;1;eka(his2;yaw;hisiz;:curAxiH)}/hiMsI{swrI;8;bahu}/hiMsI{swrI;1;bahu}	a-hiMsya{puM;1;eka(a-his2;yaw;hisiz;:curAxiH)}	karwqsamAnAXikaraNam,7	a-jo_kRawigraswa_kiyA_jA_sake	-	-	-	-	-
+7	(aswi)	-	(-)	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,2;sakarmaka	as2_pp_skwA_hE	-	-	-	-	-
+8	cew	2	cenmawoZhaM	cew{avya}	cew{avya}	prawiyogI,7	-	-	-	-	-	-
+9	yaSas-SarIre	3	yaSaHSarIre	yaSas-SarIra{napuM;1;xvi}/SarIra{napuM;2;xvi}/SarIra{napuM;7;eka}/SarIra{napuM;8;xvi}	yaSas-SarIra{napuM;7;eka}	aXikaraNam,12	-	-	-	-	-	-
+10	me	5	me	asmax{sarvanAma;4;eka}/asmax{sarvanAma;6;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,9	-	-	-	-	-	-
+11	xayAluH	6	xayAluH	xayAlu{puM;1;eka}	xayAlu{puM;1;eka}	karwA,12	-	-	-	-	-	-
+12	Bava	4	Bava	Bava{puM;8;eka}/Bava{napuM;8;eka}/BU{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	BU{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	anuyogI,8	-	-	-	-	-	-

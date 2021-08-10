@@ -1,0 +1,17 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	SilAmayI	5	SilAmayI	SilA{mayat;swrI;1;eka}	SilA{mayat;swrI;1;eka}	viSeRaNam,2	pawWara	-	-	-	-	-
+2	gOwama-vaXUH	4	gOwamavaXUH	gOwama-vaXU{swrI;1;eka}/vaXU{swrI;2;bahu}/vaXu{swrI;2;bahu}/vaXU{puM;8;eka}/vaXU{puM;1;eka}	gOwama-vaXU{swrI;1;eka}	karwA,8	gOwama-bahU	-	-	-	-	-
+3	cAru	-	-	cAru{napuM;1;eka}/cAru{napuM;2;eka}/cAru{napuM;8;eka}	cAru{napuM;2;eka}	viSeRaNam,5	cAru	-	-	-	-	-
+4	svaM	6	svaM	sva{puM;2;eka}/sva{napuM;1;eka}/sva{napuM;2;eka}/sva{sarvanAma;puM;2;eka}	sva{sarvanAma;puM;2;eka}	viSeRaNam,5	apane_ko	-	-	-	-	-
+5	vapuH	7	vapuH	vapus{napuM;1;eka}/vapus{napuM;2;eka}/vapus{napuM;8;eka}	vapus{napuM;2;eka}	karma,8	SarIra	-	-	-	-	-
+6	cirAya	2	cirAya	cirAya{avya}/cira{napuM;4;eka}	cirAya{avya}	kriyAviSeRaNam,8	-	-	-	-	-	-
+7	punaH	-	-	punaH{avya}	punaH{avya}	kriyAviSeRaNam,8	Pira	-	-	-	-	-
+8	prawyapaxyawa	1	prawyapaxyawa	prawi_pax1{karwari;laf;pra;eka;AwmanepaxI;paxaz;:xivAxiH}/prawi_pax1{karmaNi;laf;pra;eka;AwmanepaxI;paxaz;:xivAxiH}	prawi_pax1{karwari;laf;pra;eka;AwmanepaxI;paxaz;:xivAxiH}	prawiyogI,9	svIkAra_kiyA	-	-	-	-	-
+9	yaw	3	yawpunaScAru	yaw{avya}/yax{sarvanAma;napuM;1;eka}/yax{sarvanAma;napuM;2;eka}	yaw{avya}	anuyogI,14	-	-	-	-	-	-
+10	saH	8	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,14	vaha	-	-	-	-	-
+11	kilbiRa-CixAM	10	kilbiRacCixAM	kilbiRa-CixA{swrI;2;eka}	kilbiRa-Cix{puM;6;bahu}	viSeRaNam,12	kilbiRa-CixA_ko	-	-	-	-	-
+12	rAma-pAxa-rajasAm	11	rAmapAxarajasAmanugrahaH	rAma-pAxa-rajas{napuM;6;bahu}/rajas{puM;6;bahu}	rAma-pAxa-rajas{puM;6;bahu}	RaRTIsambanXaH,13	rAma-pEra-raja_guNoM_kA	-	-	-	-	-
+13	anugrahaH	-	anugrahaH	anugraha{puM;1;eka}	anugraha{puM;1;eka}	karwqsamAnAXikaraNam,14	anugraha	-	-	-	-	-
+14	(AsIw)	-	(-)	as2{karwari;laf;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;laf;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,10	WA	-	-	-	-	-
+15	kila	9	kila	kila{avya}	kila{avya}	sambanXaH,14	-	-	-	-	-	-

@@ -1,0 +1,13 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	saciva-avalambiwa-Xuram	-	sacivAvalambiXuraM	saciva-avalambiwa{puM(saciva-ava_lab1;kwa;labiz;:BvAxiH)}/saciva-avalambiwa{napuM-Xur;swrI;2;eka(ava_lab1;kwa;labiz;:BvAxiH)}/Xura{puM;2;eka}/Xura{napuM;1;eka}/Xura{napuM;2;eka}	saciva-Xura{puM;1;eka(saciva-ava_lab1;kwa;labiz;:BvAxiH)}	viSeRaNam,6	saciva-Xura	-	-	-	-	-
+2	anubanXa-sevayA	-	parivqxXarAgamanubanXasevayA	anubanXa-sevA{swrI;3;eka}	anubanXa-sevA{swrI;3;eka}	hewuH,3	rAga	-	-	-	-	-
+3	parivqxXa-rAgam	-	-	parivqxXa-rAga{puM(pari_vqX1;kwa;vqXuz;:BvAxiH)}/parivqxXa{napuM-rAga;puM;2;eka(pari_vqX1;kwa;vqXuz;:BvAxiH)}/rAga{napuM;1;eka}/rAga{napuM;2;eka}	parivqxXa-rAga{puM;2;eka(pari_vqX1;kwa;vqXuz;:BvAxiH)}	viSeRaNam,6	-	-	-	-	-	-
+4	AwmanaH	-	-	Awman{puM;5;eka}/{puM;6;eka}	Awman{puM;6;eka}	RaRTIsambanXaH,5	-	-	-	-	-	-
+5	vismqwAni-anya-karaNIyam	-	vismqwAnyakaraNIyamAwmanaH	vismqwAni-anya-karaNIya{puM;2;eka}/{napuM;1;eka}/{napuM;2;eka}	vismqwAni-anya-karaNIya{puM;2;eka}	viSeRaNam,6	AwmanaH-vismqwAni-anya-AwmanaH-vismqwAni-anya-karaNIya	-	-	-	-	-
+6	XarAXipam	-	XarAXipam	XarAXipa{puM;2;eka}	XarAXipa{puM;2;eka}	karma,11	XarAXipa_ko	-	-	-	xaSaraWaH	-
+7	mqgayA	-	mqgayA	mqgayA{swrI;1;eka}	mqgayA{swrI;1;eka}	karwA,11	SikAra	-	-	-	-	-
+8	cawurA	-	cawureva	cawurA{swrI;1;eka}	cawurA{swrI;1;eka}	viSeRaNam,9	hoSiyAra	-	-	-	-	-
+9	kAminI	-	kAminI	kAminI{swrI;1;eka}	kAminI{swrI;1;eka}	upamAnam,10	prema_karane_vAlI	-	-	-	-	-
+10	iva	-	-	iva{avya}	iva{avya}	upamAnaxyowakaH,7	jEse	-	-	-	-	-
+11	jahAra	-	jahAra	hq1{karwari;lit;u;eka;parasmEpaxI;hqF;:BvAxiH}/hq1{karwari;lit;pra;eka;parasmEpaxI;hqF;:BvAxiH}/hq2{karwari;lit;u;eka;parasmEpaxI;hq;:juhowyAxiH}/hq2{karwari;lit;pra;eka;parasmEpaxI;hq;:juhowyAxiH}	hq1{karwari;lit;pra;eka;parasmEpaxI;hqF;:BvAxiH}	aBihiwa_karwA,7;sakarmaka	le_gayI	-	-	-	-	-

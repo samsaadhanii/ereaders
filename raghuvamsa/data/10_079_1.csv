@@ -1,0 +1,12 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	weRAM	3	weRAM	wax{sarvanAma;puM;6;bahu}/wax{sarvanAma;napuM;6;bahu}	wax{sarvanAma;puM;6;bahu}	RaRTIsambanXaH,3	unake	-	-	-	-	rAmalakRmaNaBarawaSawruGnAH
+2	svABAvikaM	1	svABAvikaM	svABAvika{puM;2;eka}/svABAvika{napuM;1;eka}/svABAvika{napuM;2;eka}	svABAvika{napuM;2;eka}	viSeRaNam,3	svABAvika	-	-	-	-	-
+3	vinIwawvaM	2	vinIwawvaM	vinIwawva{wva;napuM;1;eka}/vinIwawva{wva;napuM;2;eka}	vinIwawva{wva;napuM;2;eka}	karwA,10	vinaya_ne	-	-	-	-	-
+4	vinaya-karmaNA	4	vinayakarmaNA	vinaya-karman{napuM;3;eka}	vinaya-karman{napuM;3;eka}	hewuH,10	vinaya-karma_se	-	-	-	-	-
+5	haviRA	8	haviReva	havis{napuM;3;eka}	havis{napuM;3;eka}	hewuH,10	Ahuwi_se	-	-	-	-	-
+6	havirBujAM	9	havirBujAM	havirBuj{puM;6;bahu}	havirBuj{puM;6;bahu}	RaRTIsambanXaH,8	agni_ke	-	-	-	-	-
+7	sahajaM	6	sahajaM	sahaja{puM;2;eka}/saha-ja{puM;2;eka}	saha-ja{puM;2;eka}	viSeRaNam,8	saha	-	-	-	-	-
+8	wejaH	7	wejo 	wejas{napuM;1;eka}/wejas{napuM;2;eka}/wejas{napuM;8;eka}	wejas{napuM;1;eka}	upamAnam,9	weja_ko	-	-	-	-	-
+9	iva	-	-	iva{avya}	iva{avya}	upamAnaxyowakaH,3	jEse	-	-	-	-	-
+10	mumUrcCa	5	mumUrcCa	murC1{karwari;lit;u;eka;parasmEpaxI;murCAz;:BvAxiH}/murC1{karwari;lit;ma;bahu;parasmEpaxI;murCAz;:BvAxiH}/murC1{karwari;lit;pra;eka;parasmEpaxI;murCAz;:BvAxiH}	murC1{karwari;lit;pra;eka;parasmEpaxI;murCAz;:BvAxiH}	aBihiwa_karwA,3	mUrcCiwa_huA	-	-	-	-	-

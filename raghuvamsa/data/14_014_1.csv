@@ -1,0 +1,17 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	sPuraw-praBA-maNdanam	1	sPurawpraBAmaNdanamAnasUyaM 	maNdana{napuM;1;eka(sPur1;Sawq_lat;sPuraz;:wuxAxiH-praBA-mad1;lyut;madiz;:BvAxiH)}/maNdana{napuM;2;eka(mad1;lyut;madiz;:BvAxiH)}/maNdana{napuM;1;eka(mad2;lyut;madiz;:BvAxiH)}/maNdana{napuM;2;eka(mad2;lyut;madiz;:BvAxiH)}/maNdana{napuM;1;eka(mad3;lyut;madiz;:curAxiH)}/maNdana{napuM;2;eka(mad3;lyut;madiz;:curAxiH)}	maNdana{napuM;2;eka(sPur1;Sawq_lat;sPuraz;:wuxAxiH-praBA-mad1;lyut;madiz;:BvAxiH)}	viSeRaNam,4	-	-	-	-	-	-
+2	AnasUyaM	-	-	AnasUya{pu;2;eka}/AnasUya{napuM;2;eka}/AnasUya{napuM;1;eka}	AnasUya{napuM;2;eka}	viSeRaNam,4	-	-	-	-	-	-
+3	SASvawam	4	SASvawamafgarAgam 	SASvawa{puM;2;eka}/SASvawa{napuM;1;eka}/SASvawa{napuM;2;eka}	SASvawa{napuM;2;eka}	viSeRaNam,4	SASvawa_ko	-	-	-	-	-
+4	afga-rAgam	-	-	afga-rAga{puM;2;eka}/rAga{napuM;1;eka}/rAga{napuM;2;eka}	afga-rAga{napuM;2;eka}	karma,5	afga-rAga_ko	-	-	-	-	-
+5	biBrawI	3	biBrawI	biBrawI{swrI;1;eka}/biBrawI{napuM;2;xvi}/biBrawI{napuM;1;xvi}	biBraw{swrI;1;eka(Bq2;kwa;duBqF;juhowyAxiH)}	viSeRaNam,6	-	-	-	-	-	-
+6	sA	2	sA	wax{sarvanAma;swrI;1;eka}	wax{sarvanAma;swrI;1;eka}	karwA,15	vaha	-	-	-	-	-
+7	BarwrA	11	BarwrA	Barwq{puM;3;eka}	Barwq{puM;3;eka}	karwA,11	svAmI_se	-	-	-	-	-
+8	sva-puryE	8	svapuryE	sva-puri{swrI;4;eka}/purI{swrI;4;eka}	sva-purI{swrI;4;eka}	sampraxAnam,11	apanA-nagara_ko	-	-	-	-	-
+9	SuxXA	6	SuxXewi	SuxXA{swrI;1;eka(SuX1;kwa;SuXaz;:xivAxiH)}	SuxXA{swrI;1;eka(SuX1;kwa;SuXaz;:xivAxiH)}	vAkyakarma,10	SuxXa_huA_huA	-	-	-	-	-
+10	iwi	-	-	iwi{avya}	iwi{avya}	vAkyakarmaxyowakaH,11	EsA	-	-	-	-	-
+11	saMxarSiwA	9	saMxarSiwA	sam_xqS1{karmaNi;lut;pra;eka;AwmanepaxI;xqSizr;:BvAxiH}	sam_xqS1{karmaNi;lut;pra;eka;AwmanepaxI;xqSizr;:BvAxiH}	viSeRaNam,6	sam_xqS1_ap_skyA	-	-	-	-	-
+12	punaH	7	punaH	punaH{avya}	punaH{avya}	kriyAviSeRaNam,13	Pira	-	-	-	-	-
+13	vahni-gawA	10	vahnigawEva	vahni-gawA{swrI;1;eka(vahni-gam1;kwa;gamLz;:BvAxiH)}	vahni-gawA{swrI;1;eka(vahni-gam1;kwa;gamLz;:BvAxiH)}	upamAnam,14	Aga-gayI_huI	-	-	-	-	-
+14	iva	-	-	iva{avya}	iva{avya}	upamAnaxyowakaH,6	jEse	-	-	-	-	-
+15	rarAja	5	rarAja	rAj1{karwari;lit;ma;bahu;parasmEpaxI;rAjqz;:BvAxiH}/rAj1{karwari;lit;pra;eka;parasmEpaxI;rAjqz;:BvAxiH}/rAj1{karwari;lit;u;eka;parasmEpaxI;rAjqz;:BvAxiH}	rAj1{karwari;lit;pra;eka;parasmEpaxI;rAjqz;:BvAxiH}	aBihiwa_karwA,6	camake	-	-	-	-	-

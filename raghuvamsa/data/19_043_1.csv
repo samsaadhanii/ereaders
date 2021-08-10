@@ -1,0 +1,13 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	xakRiNena	1	xakRiNena	xakRiNena{avya}/xakRiNa{puM;3;eka}/xakRiNa{napuM;3;eka}/xakRiNa{sarvanAma;puM;3;eka}/xakRiNa{sarvanAma;napuM;3;eka}	xakRiNa{sarvanAma;napuM;3;eka}	viSeRaNam,2	xakRiNake_xvArA	-	-	-	-	-
+2	pavanena	2	pavanena	pavana{puM;3;eka}/pavana{napuM;3;eka}/pavana{napuM;3;eka(pU1;lyut;pUf;:BvAxiH)}/pavana{napuM;3;eka(pU2;lyut;pUF;:kryAxiH)}	pavana{napuM;3;eka(pU2;lyut;pUF;:kryAxiH)}	karaNam,3	havA_ke_xvArA	-	-	-	-	-
+3	samBqwam	3	samBqwaM	samBqwa{puM;2;eka(Bq1;kwa;BqF;:BvAxiH)}/samBqwa{napuM;1;eka(Bq1;kwa;BqF;:BvAxiH)}/samBqwa{napuM;2;eka(Bq1;kwa;BqF;:BvAxiH)}/samBqwa{puM;2;eka(Bq2;kwa;duBqF;:juhowyAxiH)}/samBqwa{napuM;1;eka(Bq2;kwa;duBqF;:juhowyAxiH)}/samBqwa{napuM;2;eka(Bq2;kwa;duBqF;:juhowyAxiH)}	samBqwa{napuM;2;eka(Bq2;kwa;duBqF;:juhowyAxiH)}	viSeRaNam,5	ekawriwa	-	-	-	-	-
+4	prekRya	4	prekRya	IkR1{avya;lyap;IkRaz;:BvAxiH}/IkR1{avya;lyap;IkRaz;:BvAxiH}	pra_IkR1{avya;lyap;IkRaz;:BvAxiH}	pUrvakAlaH,7	pra_IkR1_kara	-	-	-	-	-
+5	cUwa-kusumam	5	cUwakusumaM	cUwa-kusuma{puM;2;eka}/kusuma{napuM;1;eka}/kusuma{napuM;2;eka}	cUwa-kusuma{napuM;2;eka}	karma,4	cUwa-PUla	-	-	-	-	-
+6	sa-pallavam	6	sapallavam	sa-pallava{puM;2;eka}/pallava{napuM;1;eka}/pallava{napuM;2;eka}	sa-pallava{napuM;2;eka}	viSeRaNam,5	sa-pallava	-	-	-	-	-
+7	anu-anERuH	7	anvanERuravaXUwavigrahAswaM	NI1{karwari;luf;pra;bahu;parasmEpaxI;NIF;:BvAxiH}	NI1{karwari;luf;pra;bahu;parasmEpaxI;NIF;:BvAxiH}	aBihiwa_karwA,11;sakarmaka	le_gayIM	-	-	-	-	-
+8	avaXUwa-vigrahAH	-	-	XU1{kwa;XUF;:svAxiH}/XU2{kwa;XU;:wuxAxiH-vigraha;puM;8;bahu}/vigraha{puM;1;bahu}/vigrahA{swrI;2;bahu}/vigrahA{swrI;1;bahu}/vigrahA{swrI;2;bahu}	vigrahA{swrI;1;bahu}	viSeRaNam,11	vigrahA	-	-	-	-	-
+9	wam	-	-	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	karma,7	usako	-	-	-	rAjA agnivarNa	-
+10	xuruwsaha-viyogam	8	xuruwsahaviyogamafganAH	viyoga{puM;2;eka}	viyoga{puM;2;eka}	viSeRaNam,9	viyoga_ko	-	-	-	-	-
+11	afganAH	-	-	afganA{swrI;1;bahu}/afganA{swrI;2;bahu}/afganA{swrI;8;bahu}	afganA{swrI;1;bahu}	karwA,7	afganAyeM	-	-	-	-	-

@@ -1,0 +1,16 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	spqhaNIya-SoBam	2	spqhaNIyaSoBam	spqhaNIya-SoBa{puM;2;eka}/SoBa{napuM;1;eka}/SoBa{napuM;2;eka}	spqhaNIya-SoBa{napuM;2;eka}	viSeRaNam,3	cAhane_ke_yogya-SoBa_ko	-	-	-	-	-
+2	ixam	-	-	ixam{sarvanAma;napuM;1;eka}/ixam{sarvanAma;napuM;2;eka}	ixam{sarvanAma;napuM;2;eka}	viSeRaNam,3	yaha	-	-	-	-	-
+3	xvanxvam	5	xvanxvamayojayiRyaw	xvanxva{puM;2;eka}/xvanxva{napuM;1;eka}/xvanxva{napuM;2;eka}	xvanxva{napuM;2;eka}	karma,7	jode_ko	-	-	-	-	-
+4	cew	4	cexixaM	cew{avya}	cew{avya}	anuyogI,14	wo	-	-	-	-	-
+5	paraspareNa	1	paraspareNa	paraspara{puM;3;eka}/paraspara{napuM;3;eka}	paraspara{puM;3;eka}	kriyAviSeRaNam,7	paraspara_se	-	-	-	-	-
+6	na	3	na	na{avya}	na{avya}	prawiReXaH,7	nahIM	-	-	-	-	-
+7	ayojayiRyaw	-	-	yuj1{karwari;lqf;pra;eka;AwmanepaxI;yujaz;:xivAxiH}/yuj1{Nijanwa;karwari;lqf;pra;eka;parasmEpaxI;yujaz;:xivAxiH}/yuj2{Nijanwa;karwari;lqf;pra;eka;parasmEpaxI;yujizr;:ruXAxiH}/yuj3{Nijanwa;karwari;lqf;pra;eka;parasmEpaxI;yujaz;:curAxiH}	yuj1{karwari;lqf;pra;eka;AwmanepaxI;yujaz;:xivAxiH}	prawiyogI,4	ciwwa_sWira_karawA_hE_wo	-	-	-	-	-
+8	asmin	6	asminxvaye	ixam{sarvanAma;puM;7;eka}/ixam{sarvanAma;napuM;7;eka}	ixam{sarvanAma;puM;7;eka}	viSeRaNam,9	isameM	-	-	-	-	-
+9	xvaye	-	-	xvaya{napuM;1;xvi}/xvaya{napuM;2;xvi}/xvaya{napuM;8;xvi}/xvaya{napuM;7;eka}	xvaya{puM;7;eka}	aXikaraNam,14	xohare	-	-	-	-	-
+10	prajAnAm	9	prajAnAm	prajA{swrI;6;bahu}/pra-ja{napuM;6;bahu}	prajA{swrI;6;bahu}	RaRTIsambanXaH,11	prajA_kA	-	-	-	-	-
+11	pawyuH	8	pawyuH	pawi{puM;5;eka}/pawi{puM;6;eka}	pawi{puM;6;eka}	RaRTIsambanXaH,12	pawi_se	-	-	-	-	-
+12	rUpa-viXAna-yawnaH	7	rUpaviXAnayawnaH	rUpa-XA1{lyut;duXAF;:juhowyAxiH}/Xe1{lyut;Xet;:BvAxiH-yawna;puM;1;eka}	rUpa-vi_XA1{lyut;duXAF;:juhowyAxiH;puM;1;eka}	karwA,14	-	-	-	-	-	-
+13	viwaWaH	10	viwaWoZBaviRyaw	viwaWa{puM;1;eka}	viwaWa{puM;1;eka}	karwqsamAnAXikaraNam,14	viwaWa	-	-	-	-	-
+14	aBaviRyaw	-	-	BU1{karwari;lqf;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;lqf;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,12;sakarmaka	howA_hE_wo	-	-	-	-	-

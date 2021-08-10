@@ -1,0 +1,16 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	saH	5	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,2	vaha	-	-	-	-	-
+2	rAja-sUnuH	6	rAja-sUnuH	rAja-sUnu{puM;1;eka}	rAja-sUnu{puM;1;eka}	karwA,12	rAjA-puwra	-	-	-	-	-
+3	haswena	1	haswena	haswa{puM;3;eka}	haswa{puM;3;eka}	karaNam,6	hAWa_ke_xvArA	-	-	-	-	-
+4	vaXvAH	4	vaXvAH	vaXu{swrI;5;eka}/vaXu{swrI;6;eka}/vaXU{swrI;5;eka}/vaXU{swrI;6;eka}	vaXU{swrI;6;eka}	RaRTIsambanXaH,5	bahU_ke	-	-	-	-	-
+5	haswam	2	haswam	haswa{puM;2;eka}	haswa{puM;2;eka}	karma,6	hAWa_ko	-	-	-	-	-
+6	pari-gqhya	3	parigqhya	pari-gqhya{puM;8;eka}	pari-gqhya{kqw_XAwu grah1} avya lyap{XAwuH grahaz} kryAxiH{kqxanwa}	pUrvakAlaH,12	pari-gqhya	-	-	-	-	-
+7	ananwarA-aSoka-lawA-pravAlam	9	ananwarA-aSoka-lawA-pravAlam	ananwarA-aSoka-lawA-pravAla{puM;2;eka}/pravAla{napuM;1;eka}/pravAla{napuM;2;eka}	ananwarA-aSoka-lawA-pravAla{puM;2;eka}	karma,13	anwara_rawiwa-aSoka-bela-pravAla	-	-	-	-	-
+8	iva	10	prApyeva	prApya-iva{avya}	prApya-iva{avya}	upamAnaxyowakaH,12	prApya-jEse	-	-	-	-	-
+9	cUwaH	11	cUwaH	cUwa{puM;1;eka}	cUwa{puM;1;eka}	karwA,14	cUwa	-	-	-	-	-
+10	prawi-pallavena	12	prawipallavena	prawi-pallava{puM;3;eka}/pallava{napuM;3;eka}	prawi-pallava{napuM;3;eka}	karaNam,13	prawi-pallava_se	-	-	-	-	-
+11	suwarAm	7	suwarAm	awyanwa{napuM;1;eka}/awyanwa{napuM;2;eka}	suwarA{napuM;2;eka}	kriyAviSeRaNam,12	awyanwa	-	-	-	-	-
+12	cakAse	8	cakAse	kAs1{karmaNi;lit;pra;eka;AwmanepaxI;kAsqz;:BvAxiH}/kAs1{karmaNi;lit;u;eka;AwmanepaxI;kAsqz;:BvAxiH}	kAs1{karmaNi;lit;pra;eka;AwmanepaxI;kAsqz;:BvAxiH}	aBihiwa_karwA,2;sakarmaka	-	-	-	-	-	-
+13	prApya	-	-	-	pra_Ap{kqw_XAwu Ap1} avya lyap{XAwuH ApLz} svAxiH{kqxanwa}	pUrvakAlaH,14	-	-	-	-	-	-
+14	(cakAse)	-	(-)	kAs1{karmaNi;lit;pra;eka;AwmanepaxI;kAsqz;:BvAxiH}/kAs1{karmaNi;lit;u;eka;AwmanepaxI;kAsqz;:BvAxiH}	kAs1{karmaNi;lit;pra;eka;AwmanepaxI;kAsqz;:BvAxiH}	upamAnam,8	-	-	-	-	-	-

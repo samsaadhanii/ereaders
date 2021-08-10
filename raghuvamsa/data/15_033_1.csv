@@ -1,0 +1,11 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	sa-afgam	1	sAfgam	sa-afga{puM;2;eka}/afga{napuM;1;eka}/afga{napuM;2;eka}	sa-afga{puM;2;eka}	sup_samucciwaH,3	sa-afga	-	-	-	sa	@Valmikih
+2	ca	2	ca	ca{avya}	ca{avya}	sup_samuccayaxyowakaH,3	BI	-	-	-	-	-
+3	vexam	3	vexamaXyApya	-	vexa{puM;2;eka}	karma,4	-	-	-	-	-	-
+4	aXyApya	-	-	Ap1{avya;lyap;ApLz;:svAxiH}/Ap2{avya;lyap;ApLz;:curAxiH}	aXi_Ap2{avya;lyap;ApLz;:curAxiH}	pUrvakAlaH,7	aXi_Ap2_kara	-	-	-	-	-
+5	kiFciw-uwkrAnwa-SESavO	4	kiMcixuwkrAnwaSESavO	SESava{puM;1;xvi}/SESava{puM;2;xvi}/SESava{puM;8;xvi}	SESava{puM;2;xvi}	muKyakarma,7	SESavoM_ko	-	-	-	-	@Lava @and @Kusha
+6	sva-kqwim	5	svakqwim	sva-kqwi{swrI;2;eka}/kqwi{puM;2;eka}	sva-kqwi{puM;2;eka}	gONakarma,7	apanA-kqwi_ko	-	-	-	-	-
+7	gApayAmAsa	6	gApayAmAsa	gE1{Nijanwa;karwari;lit;ma;bahu;parasmEpaxI;gE;:BvAxiH}/gE1{Nijanwa;karwari;lit;ma;bahu;AwmanepaxI;gE;:BvAxiH}/gE1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;gE;:BvAxiH}/gE1{Nijanwa;karwari;lit;pra;eka;AwmanepaxI;gE;:BvAxiH}/gE1{Nijanwa;karwari;lit;u;eka;parasmEpaxI;gE;:BvAxiH}/gE1{Nijanwa;karwari;lit;u;eka;AwmanepaxI;gE;:BvAxiH}	gE1{Nijanwa;karwari;lit;pra;eka;AwmanepaxI;gE;:BvAxiH}	sakarmaka	-	-	-	-	-	@Not @recognized @by @Splitter
+8	kavi-praWama-paxXawim	7	kavipraWamapaxXawim	kavi-praWama-paw-hawi{swrI;2;eka}/hawi{puM;2;eka}	"kavi-praWama-paxXawi{swrI;2;eka}
+"	viSeRaNam,6	kavi-praWama-paw-hawi	-	-	-	-	-

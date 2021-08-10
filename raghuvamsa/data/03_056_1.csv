@@ -1,0 +1,10 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	jahAra	-	jahAra	hq1{karwari;lit;pra;eka;parasmEpaxI;hqF;:BvAxiH}/hq2{karwari;lit;pra;eka;parasmEpaxI;hq;:juhowyAxiH}/hq1{karwari;lit;u;eka;parasmEpaxI;hqF;:BvAxiH}/hq2{karwari;lit;u;eka;parasmEpaxI;hq;:juhowyAxiH}	hq2karwari;lit;pra;eka;parasmEpaxI;hq;:juhowyAxiH}	aBihiwa_karwA,8;sakarmaka	X_hq1_pp_skyA	-	-	-	-	-
+2	ca	-	cAnyena	ca{avya}	ca{avya}	sambanXaH,3	Ora	-	-	-	-	-
+3	anyena	-	-	anya{sarvanAma;puM;3;eka}/anya{sarvanAma;napuM;3;eka}	anya{sarvanAma;puM;3;eka}	viSeRaNam,5	anya_se	-	-	-	Sara	-
+4	mayura-pawriNA	-	mayurapawriNA	mayura-pawriNA{puM;3;eka}	mayura-pawriNA{puM;3;eka}	viSeRaNam,5	-	-	-	-	-	mayurapawriNA @not @recognised @by @morphological @analyser
+5	SareNa	-	SareNa	Sara{puM;3;eka}	Sara{puM;3;eka}	karaNam,1	bANa_se	-	-	-	-	-
+6	Sakrasya	-	Sakrasya	Sakra{puM;6;eka}/Sakra{napuM;6;eka}	Sakra{puM;6;eka}	RaRTIsambanXaH,7	inxra_kA	-	-	-	-	Sakra= inxra_-@person
+7	mahA-Sani-Xvajam	-	mahASaniXvajam	mahaw-Sani-Xvaja{puM;2;eka}/Xvaja{napuM;2;eka}/Xvaja{napuM;1;eka}	mahaw-Sani-Xvaja{puM;2;eka}	karma,1	mahAn-Sani-Xvaja_ko	-	-	-	-	-
+8	(saH)	-	(-)	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,1	-	-	-	-	-	-

@@ -1,0 +1,14 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	sujAwayoH	1	kRaNamAwrasaKIM	sujAwa{puM;6;xvi}/sujAwa{napuM;6;xvi}/sujAwa{puM;7;xvi}/sujAwa{napuM;7;xvi}	sujAwa{napuM;6;xvi}	viSeRaNam,2	uccakulowpannoM_ke	-	-	-	-	-
+2	swanayoH	2	sujAwayoH	swana{puM;6;xvi}/swana{puM;7;xvi}	swana{puM;6;xvi}	RaRTIsambanXaH,3	swanoM_kI	-	-	-	-	-
+3	kRaNamAwrasaKIM	-	kRaNamAwrasaKIM	kRaNamAwrasaKI{swrI;2;eka}	kRaNamAwrasaKI{swrI;2;eka}	viSeRaNam,4	-	-	-	-	-	-
+4	wAm	3	swanayoswAmavalokya	wax{sarvanAma;swrI;2;eka}/wA{swrI;2;eka}	wA{swrI;2;eka}	karma,5	wA_ko	-	-	-	-	-
+5	avalokya	-	-	lok1{avya;lyap;lokqz;:BvAxiH}/lok2{avya;lyap;lokqz;:curAxiH}	ava_lok2{avya;lyap;lokqz;:curAxiH}	pUrvakAlaH,11	ava_lok2_kara	-	-	-	-	-
+6	vihvalA	4	vihvalA	vihvalA{swrI;1;eka}	vihvalA{swrI;1;eka}	viSeRaNam,7	vihvalA_ne	-	-	-	-	-
+7	nara-uwwama-priyA	5	nimimIla	nara-uwwama-prI{napuM;3;eka}/priyA{swrI;1;eka}	nara-uwwama-priyA{swrI;1;eka}	karwA,12	nara-acCA-priyA	-	-	-	-	-
+8	wamasA	6	narowwamapriyA	wamasA{napuM;3;eka}	wamasa{napuM;3;eka}	karaNam,12	anXakAra	-	-	-	-	-
+9	hqwa-canxrA	7	hqwacanxrA	hq1{kwa;hqF;:BvAxiH}/hq2{kwa;hq;:juhowyAxiH-canxrA;swrI;1;eka}	hq2{kwa;hq;:juhowyAxiH-canxrA;swrI;1;eka}	viSeRaNam,10	-	-	-	-	-	-
+10	kOmuxI	8	wamaseva	kOmuxI{swrI;1;eka}	kOmuxI{swrI;1;eka}	upamAnam,11	cAzxanI	-	-	-	-	-
+11	iva	9	kOmuxI	iva{avya}	iva{avya}	upamAnaxyowakaH,7	jEse	-	-	-	-	-
+12	nimimIla	-	-	ni_mIl1{karwari;lit;u;eka;parasmEpaxI;mIlaz;:BvAxiH}/ni_mIl1{karwari;lit;ma;bahu;parasmEpaxI;mIlaz;:BvAxiH}/ni_mIl1{karwari;lit;pra;eka;parasmEpaxI;mIlaz;:BvAxiH}	ni_mIl1{karwari;lit;pra;eka;parasmEpaxI;mIlaz;:BvAxiH}	aBihiwa_karwA,7;sakarmaka	ni_mIl1_pp_skyA	-	-	-	-	-

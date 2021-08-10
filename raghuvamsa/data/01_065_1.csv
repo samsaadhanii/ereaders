@@ -1,0 +1,14 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	kinwu	-	kinwu	kinwu{avya}	kinwu{avya}	sambanXaH,8	kinwu	-	-	-	-	-
+2	vaXvAm	-	vaXvAm	vaXu{swrI;7;eka}/vaXU{swrI;7;eka}	vaXU{swrI;7;eka}	aXikaraNam,8	bahU_meM	-	-	-	-	@person
+3	wava	-	wavEwasyAmaxqRtasaxqSaprajam	yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,2	wumhArI	-	-	-	brahmA	@person
+4	ewasyAm	-	-	ewax{sarvanAma;swrI;7;eka}	ewax{sarvanAma;swrI;7;eka}	viSeRaNam,2	isameM	-	-	-	suxakRiNA	@person
+5	axqRta-saxqSa-prajam	-	-	axqRta{puM;8;eka}/axqRta{napuM;8;eka}	axqRta-saxqSa-prajA{puM;2;eka}	viSeRaNam,7	axqRta	-	-	-	-	-
+6	na	-	na	na{avya}	na{avya}	prawiReXaH,8	nahIM	-	-	-	-	-
+7	mAm	-	mAmavawi	asmax{sarvanAma;2;eka}	asmax{sarvanAma;2;eka}	karma,8	muJe	-	-	-	xilIpaH	@person
+8	avawi	-	-	av1{karwari;lat;pra;eka;parasmEpaxI;avaz;:BvAxiH}/av1{karwari;lat;pra;eka;parasmEpaxI;avaz;:BvAxiH}/av1{karwari;lat;pra;eka;parasmEpaxI;avaz;:BvAxiH}	av1{karwari;lat;pra;eka;parasmEpaxI;avaz;:BvAxiH}	aBihiwa_karwA,12;sakarmaka	X_av1_pp_skwI_hE	-	-	-	-	-
+9	sa-xvIpA	-	saxvIpA	sa-xvIpA{swrI;1;eka}	sa-xvIpA{swrI;1;eka}	viSeRaNam,12	xvIpa-sAWa	-	-	-	-	@bhoomi
+10	rawna-sUH	-	rawnasUrapi	rawna-sU{puM;1;eka}/sU{swrI;1;eka}	rawna-sU{swrI;1;eka}	viSeRaNam,12	rawna-sU	-	-	-	-	@bhoomi
+11	api	-	-	api{avya}/api{avya}	api{avya}	sambanXaH,10	BI	-	-	-	-	-
+12	mexinI	-	mexinI	mexinI{swrI;1;eka}/mexin{napuM;2;xvi}/mexin{napuM;1;xvi}/mexin{swrI;1;eka}	mexin{swrI;1;eka}	karwA,8	mexin	-	-	-	-	@bhoomi

@@ -1,0 +1,15 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	Xanus-BqwaH	-	XanurBqwaH	Xanus-Bqwa{puM;1;eka(Xanus-Bq2;kwa;duBqF;:juhowyAxiH)}	Xanus-Bqwa{puM;1;eka(Xanus-Bq2;kwa;duBqF;:juhowyAxiH)}	sambanXaH,3	XanuRa-XAraNa_kiyA	-	-	-	-	-
+2	api	-	api	api{avya}	api{avya}	sambanXaH,1	BI	-	-	-	-	-
+3	asya	-	asya	ixam{sarvanAma;puM;6;eka}/ixam{sarvanAma;napuM;6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;:xivAxiH}	ixam{sarvanAma;napuM;6;eka}	RaRTIsambanXaH,4	isakA	-	-	-	-	-
+4	viSafkEH	-	viSafkEH	viSafka{puM3;bahu(Sak1;GaF;SakiH;BvAxiH)}	viSafka{puM3;bahu(Sak1;GaF;SakiH;BvAxiH)}	viSeRaNam,5	viSafka_se	-	-	-	-	-
+5	anwaH-karaNEH	-	anwaHkaraNEH	anwaH-karaNa{napuM;3;bahu}/anwaH-karaNa{napuM;3;bahu(kQ1;lyut;kQ;:wuxAxiH)}/anwaH-karaNa{napuM;3;bahu(kq3;lyut;dukqF;:wanAxiH)}/anwaH-karaNa{napuM;3;bahu(kq2;lyut;kqF;:svAxiH)}/anwaH-karaNa{napuM;3;bahu(kq1;lyut;kqF;:BvAxiH)}/anwaH-karaNa{napuM;3;bahu(kQ2;lyut;kQF;:kryAxiH)}/anwaH-karaNa{napuM;3;bahu(kQ3;lyut;kQ;:kryAxiH)}	anwaH-karaNa{napuM;3;bahu(anwaH-kQ3;lyut;kQ;:kryAxiH)}	karaNam,7	anwaH-mArane~se	-	-	-	-	-
+6	xayA-Arxra-BAvam	-	xayArxraBAvam	xayA-Arxra-BAva{puM;2;eka}/xayA-Arxra-BAva{puM;2;eka(BU1;GaF;BU;:BvAxiH)}/xayA-Arxra-BAva{puM;2;eka(BU2;GaF;BU;:curAxiH)}/xayA-Arxra-BAva{puM;2;eka(Buv1;GaF;Buvoz;:curAxiH)}	xayA-Arxra-BAva{puM;2;eka(xayA-Arxra-BU1;GaF;BU;:BvAxiH)}	karma,7	xayA-gIlA-BAva	-	-	-	-	-
+7	AKyAwaM	-	AKyAwaM	Af_KyA1{karwari;lot;ma;xvi;parasmEpaxI;KyA;:axAxiH}/Af_KyA1{karwari;laf;ma;xvi;parasmEpaxI;KyA;:axAxiH}/AKyAwa{puM;2;eka(KyA1;kwa;KyA;:axAxiH)}/AKyAwa{napuM;1;eka(KyA1;kwa;KyA;:axAxiH)}/AKyAwa{napuM;2;eka(KyA1;kwa;KyA;:axAxiH)}	AKyAwa{napuM;2;eka(KyA1;kwa;KyA;:axAxiH)}	viSeRaNam,8	AKyAwa	-	-	-	-	-
+8	vapuH	-	vapuH	vapus{napuM;1;eka}/vapus{napuM;2;eka}/vapus{napuM;8;eka}	vapus{napuM;2;eka}	karma,9	SarIra	-	-	-	-	-
+9	vi-lokayanwyaH	-	vilokayanwyaH	vi-lokayanwI{swrI;1;bahu(vi-lok2;Sawq_lat;lokqz;:curAxiH)}	vi-lokayanwI{swrI;1;bahu(vi-lok2;Sawq_lat;lokqz;:curAxiH)}	viSeRaNam,10	vi-kahawIM_huIM	-	-	-	-	-
+10	hariNyaH	-	hariNyaH	hariNI{swrI;1;bahu}/hariNI{swrI;8;bahu}	hariNI{swrI;1;bahu}	karwA,13	hariNiyoM_ne	-	-	-	-	-
+11	akRNAm	-	akRNAm	akRi{napuM;6;bahu}	akRi{napuM;6;bahu}	RaRTIsambanXaH,12	AzKoM_kA	-	-	-	-	-
+12	prakAma-viswAra-Palam	-	prakAmaviswAraPalam	kam1{GaF;kamuz;:BvAxiH-swQ1;GaF;swQF;:kryAxiH-Pala;puM;2;eka}/Pala{napuM;1;eka}/Pala{napuM;2;eka}	Pala{napuM;2;eka}	karma,13	Pala	-	-	-	-	-
+13	ApuH	-	ApuH	Ap1{karwari;lit;pra;bahu;parasmEpaxI;ApLz;:svAxiH}/Af_pA1{karwari;luf;pra;bahu;parasmEpaxI;pA;:BvAxiH}	Ap1{karwari;lit;pra;bahu;parasmEpaxI;ApLz;:svAxiH}	aBihiwa_karwA,10;sakarmaka	prApwa_kiyA	-	-	-	-	-

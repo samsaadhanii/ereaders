@@ -1,0 +1,14 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	saH	1	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,3	usa	-	-	-	raGu	-
+2	evam	2	evamukwvA	evam{avya}	evam{avya}	gONakarma,3	EsA	-	-	-	-	-
+3	ukwvA	-	-	vac1{avya;kwvA;vacaz;:axAxiH}	vac1{avya;kwvA;vacaz;:axAxiH}	pUrvakAlaH,9	X_vac1_kara	-	-	-	-	-
+4	maGavanwam	3	maGavanwamunmuKaH	maGavan{puM;2;eka}	maGavan{puM;2;eka}	muKyakarma,3	inxra	-	-	-	-	@person
+5	uw-muKaH	-	-	uw-muKa{puM;1;eka}	uw-muKa{puM;1;eka}	viSeRaNam,1	uw-muKa_ne	-	-	-	-	-
+6	kariRyamANaH	4	kariRyamANaH	kriyamANa{puM;1;eka{kqxanwa}({kqw_XAwu;kq3};SAnac_lqt;Nijanwa;karmaNi;dukqF;wanAxiH)}/kriyamANa{puM;1;eka{kqxanwa}({kqw_XAwu;kq2};SAnac_lqt;Nijanwa;karmaNi;kqF;svAxiH)}/kriyamANa{puM;1;eka{kqxanwa}({kqw_XAwu;kq1};SAnac_lqt;Nijanwa;karmaNi;kqF;BvAxiH)}	kriyamANa{puM;1;eka{kqxanwa}({kqw_XAwu;kq3};SAnac_lqt;Nijanwa;karmaNi;dukqF;wanAxiH)}	viSeRaNam,12	-	-	-	-	-	-
+7	sa-Saram	5	saSaraM	sa-Sara{napuM;2;eka}/Sara{napuM;1;eka}	sa-Sara{napuM;2;eka}	karmasamAnAXikaraNam,6	sa-bANa	-	-	-	-	-
+8	Sara-Asanam	6	SarAsanam	Sara-Asana{napuM;2;eka}/Asana{napuM;1;eka}	Sara-Asana{napuM;2;eka}	karma,6	bANa-Asana_ko	-	-	-	-	-
+9	awiRTaw	7	awiRTaxAlIDaviSeRaSoBinA	RWA1{karwari;laf;pra;eka;parasmEpaxI;RWA;:BvAxiH}	RWA1{karwari;laf;pra;eka;parasmEpaxI;RWA;:BvAxiH}	aBihiwa_karwA,12;sakarmaka	X_RWA1_pp_skyA	-	-	-	-	-
+10	AlIDa-viSeRa-SoBinA	-	-	AlIDa-viSeRa-SoBin{puM;3;eka}/SoBin{napuM;3;eka}	AlIDa-viSeRa-SoBin{puM;3;eka}	viSeRaNam,11	lih-viSeRa-SoBin	-	-	-	-	-
+11	vapuH-prakarReNa	8	vapuHprakarReNa	vapuH-prakarRa{puM;3;eka}	vapuH-prakarRa{puM;3;eka}	karaNam,9	SreRTawA_se	-	-	-	-	-
+12	vidambiwa-ISvaraH	9	vidambiweSvaraH	vidambiwa-ISvara{puM;1;eka}	vidambiwa-ISvara{puM;1;eka}	karwA,9	damb-ISvara	-	-	-	-	-

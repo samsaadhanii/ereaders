@@ -1,0 +1,15 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	saH	1	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,12	vaha	-	-	-	raGuH	raGuH
+2	anwyaM-ASramaM	2	kilASramamanwyamASriwo	anwyaM-ASrama{puM;2;eka}/ASrama{napuM;1;eka}/ASrama{napuM;2;eka}	anwyaM-ASrama{napuM;2;eka}	karma,3	anwyaM-ASrama_meM	-	-	-	-	-
+3	ASriwaH	-	-	ASri{avya;wasil}/ASriwa{puM;1;eka(Sri1;kwa;SriF;:BvAxiH)}	ASriwa{puM;1;eka(Sri1;kwa;SriF;:BvAxiH)}	viSeRaNam,7	ASraya_liyA_huA	-	-	-	-	-
+4	purAw	4	purAxbahiH	pura{napuM;5;eka}	pura{napuM;5;eka}	sanxarBa_binxuH,5	pura_ke	-	-	-	-	-
+5	bahiH	-	-	bahiH{avya}	bahiH{avya}	xeSAXikaraNam,7	bAhara	-	-	-	-	-
+6	AvasaWe	-	-	AvasaWa{puM;7;eka}	AvasaWa{puM;7;eka}	aXikaraNam,7	AvasaWa_meM	-	-	-	-	-
+7	nivasan	3	nivasannAvasaWe	nivasaw{puM;1;eka(vas2;Sawq_lat;vasaz;:axAxiH)}/nivasaw{puM;1;eka(vas1;Sawq_lat;vasaz;:BvAxiH)}	nivasaw{puM;1;eka(vas2;Sawq_lat;vasaz;:axAxiH)}	varwamAnasamAnakAlaH,12	NWwA_huA	-	-	-	-	-
+8	avikqwa-inxriyaH	-	-	avikqwa-inxriya{puM;1;eka}	avikqwa-inxriya{puM;1;eka}	viSeRaNam,1	avikqwa-inxriya	-	-	-	-	-
+9	snuRayA	7	snuRayevAvikqwenxriyaH	snuRA{swrI;3;eka}	snuRA{swrI;3;eka}	upamAnam,10	bahU_se	-	-	-	-	-
+10	iva	-	-	iva{avya}	iva{avya}	upamAnaxyowakaH,11	jEse	-	-	-	-	-
+11	puwraBogyayA-SriyA	6	puwraBogyayA	puwraBogyayA-SrI{swrI;3;eka}	puwraBogyayA-SrI{swrI;3;eka}	karaNam,12	puwraBogyayA-SrI_se	-	-	-	-	-
+12	sam-upAsyawa	8	SriyA	sam-upa_As1{karmaNi;laf;pra;eka;AwmanepaxI;Asaz;:axAxiH}	sam-upa_As1{karmaNi;laf;pra;eka;AwmanepaxI;Asaz;:axAxiH}	aBihiwa_karwA,1;sakarmaka	upAsanA_kI_gayI	-	-	-	-	-
+13	kila	5	samupAsyawa	kila{avya}/kil1{karwari;lot;ma;eka;parasmEpaxI;kilaz;:wuxAxiH}	kil1{karwari;lot;ma;eka;parasmEpaxI;kilaz;:wuxAxiH}	sambanXaH,3	-	-	-	-	-	-

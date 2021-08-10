@@ -1,0 +1,12 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	purANasya	1	purANasya	purANa{napuM;6;eka}	purANa{napuM;6;eka}	RaRTIsambanXaH,2	purANa_ke	-	-	-	-	-
+2	kaveH	2	kaveswasya	kavi{puM;5;eka}/kavi{puM;6;eka}/kav1{karwari;viXilif;ma;eka;parasmEpaxI;kavaz;:BvAxiH}	kavi{puM;6;eka}	RaRTIsambanXaH,5	kavi_kA	-	-	-	-	-
+3	wasya	-	-	wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,5	usakA	-	-	-	-	-
+4	varNa-sWAna-samIriwA	3	varNasWAnasamIriwA	varNa-samIriwa{puM;2;eka(varNa-RWA1;lyut;RWA;:BvAxiH-Ir2;kwa;Iraz;:curAxiH)}/varNa-samIriwa{napuM;1;eka(Ir2;kwa;Iraz;:curAxiH)}/varNa-samIriwa{napuM;2;eka(Ir2;kwa;Iraz;:curAxiH)}	varNa-samIriwa{napuM;1;eka(varNa-Ir2;kwa;Iraz;:curAxiH)}	viSeRaNam,5	varNa-vAyu_ke_samAna_gayA_huA	-	-	-	-	-
+5	samskArA	5	kqwasamskArA	vacana{napuM;1;eka}/vacana{napuM;2;eka}	vacana{napuM;1;eka}	karwqsamAnAXikaraNam,7	-	-	-	-	-	-
+6	kqwa	-	-	SoXana{napuM;1;eka(SuX1;lyut;SuXaz;:xivAxiH)}/SoXana{napuM;2;eka(SuX1;lyut;SuXaz;:xivAxiH)}	SoXana{napuM;2;eka(SuX1;lyut;SuXaz;:xivAxiH)}	viSeRaNam,5	SuxXa_karane_vAlA	-	-	-	-	-
+7	BArawI	7	BArawI	kq2{avya;kwvA;kqF;:svAxiH}/kq3{avya;kwvA;dukqF;:wanAxiH}/kq1{avya;kwvA;kqF;:BvAxiH}	kq2{avya;kwvA;kqF;:svAxiH}	karwA,10	mAra_dAla_kara	-	-	-	-	-
+8	cariwArWA	6	cariwArWEva	BArawI{swrI;1;eka}	BArawI{swrI;1;eka}	upamAnam,7	vANI	-	-	-	-	-
+9	eva	-	-	cariwArWA{swrI;1;eka}	cariwArWA{swrI;1;eka}	upamAnaxyowakaH,8	cariwArWA	-	-	-	-	-
+10	baBUva	4	baBUva	BU1{karwari;lit;u;eka;parasmEpaxI;BU;:BvAxiH}/BU1{karwari;lit;ma;bahu;parasmEpaxI;BU;:BvAxiH}/BU1{karwari;lit;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;lit;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,7;sakarmaka	huI	-	-	-	-	-

@@ -1,0 +1,13 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	maw-paraM	-	mawparaM	maw-param{avya}/para{sarvanAma;puM;2;eka}/para{sarvanAma;napuM;1;eka}/para{sarvanAma;napuM;2;eka}/para{puM;2;eka}/para{napuM;1;eka}/para{napuM;2;eka}	maw-param{avya}	kAlAXikaraNam,3	maw-bAxa	-	-	-	-	-
+2	xurlaBaM	-	xurlaBaM	xurlaBa{puM;2;eka}/xurlaBa{napuM;1;eka}/xurlaBa{napuM;2;eka}	xurlaBa{napuM;2;eka}	karma,3	xurlaBa	-	-	-	-	-
+3	mawvA	-	mawvA	man1{avya;kwvA;manaz;:xivAxiH}/man2{avya;kwvA;manuz;:wanAxiH}	man1{avya;kwvA;manaz;:xivAxiH}	pUrvakAlaH,11	jAna_kara	-	-	-	-	-
+4	nUnaM	-	nUnamAvarjiwaM	nUnam{avya}	nUnam{avya}	kriyAviSeRaNam,3	avaSya	-	-	-	-	-
+5	A-varjiwaM	-	-	A-varjiwa{puM;2;eka(A-vqj4;kwa;vqjIz;:curAxiH)}/A-varjiwa{napuM;1;eka(vqj4;kwa;vqjIz;:curAxiH)}/A-varjiwa{napuM;2;eka(vqj4;kwa;vqjIz;:curAxiH)}	A-varjiwa{napuM;1;eka(vqj4;kwa;vqjIz;:curAxiH)}	viSeRaNam,7	A-varjiwa	-	-	-	-	-
+6	mayA	-	mayA	asmax{sarvanAma;3;eka}	asmax{sarvanAma;3;eka}	karwA,5	mere_xvArA	-	-	-	-	@person
+7	payaH	-	payaH	payas{napuM;1;eka}/payas{napuM;2;eka}/payas{napuM;8;eka}	payas{napuM;1;eka}	karma,11	xUXa	-	-	-	-	@water
+8	pUrvEH	-	pUrvEH	pUrva{puM;3;bahu}/pUrva{sarvanAma;puM;3;bahu}/pUrva{sarvanAma;napuM;3;bahu}	pUrva{sarvanAma;napuM;3;bahu}	viSeRaNam,9	pUrva_se	-	-	-	-	@ancestors
+9	sva-niHSvAsEH	-	svaniHSvAsEH	sva-niHSvAsa{puM;3;bahu}/niHSvAsa{napuM;3;bahu}	sva-niHSvAsa{napuM;3;bahu}	karaNam,11	apanA-niHSvAsa	-	-	-	-	-
+10	kavoRNam	-	kavoRNamupaBujyawe	kavoRNa{puM;2;eka}/kavoRNa{napuM;1;eka}/kavoRNa{napuM;2;eka}	kavoRNa{napuM;2;eka}	karmasamAnAXikaraNam,11	gunagune_ko	-	-	-	-	-
+11	upaBujyawe	-	-	upa_Buj2{karmaNi;lat;pra;eka;AwmanepaxI;Bujaz;:ruXAxiH}	upa_Buj2{karmaNi;lat;pra;eka;AwmanepaxI;Bujaz;:ruXAxiH}	aBihiwa_karma,7	upa_Buj2_ap_sk_jAwA_hE	-	-	-	-	-

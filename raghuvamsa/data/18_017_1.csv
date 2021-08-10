@@ -1,0 +1,16 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	wasya	1	wasyABavawsUnuruxAraSIlaH	wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,4	usakA	-	-	-	-	-
+2	uxAra-SIlaH	1	-	q1{GaF;q;:BvAxiH}/q2{GaF;q;:juhowyAxiH-SIla;puM;1;eka}	uw_q1{GaF;q;:BvAxiH}	viSeRaNam,4	-	-	-	-	-	-
+3	Sila-patta-viSAla-vakRAH	3	SilApattaviSAlavakRAH   	Sila-patta-viSAla-vakRas{puM;1;eka}	Sila-patta-viSAla-vakRas{puM;1;eka}	viSeRaNam,4	SiloMCana-patta-viSAla-vakRas	-	-	-	-	-
+4	SilaH	2	SilaH	Sila{puM;1;eka}	Sila{puM;1;eka}	karwA,6	SiloMCana	-	-	-	-	-
+5	sUnuH	1	-	sUnu{puM;1;eka}	sUnu{puM;1;eka}	karwqsamAnAXikaraNam,6	-	-	-	-	-	-
+6	aBavaw	1	-	BU1{karwari;laf;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;laf;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,4	huA	-	-	-	-	-
+7	yaH	5	-	yax{sarvanAma;puM;1;eka}	yax{sarvanAma;puM;1;eka}	viSeRaNam,9	jisa	-	-	-	-	-
+8	SilImuKEH	5	SilImuKEryaH	SilImuKa{puM;3;bahu}	SilImuKa{puM;3;bahu}	karaNam,11	BOMroM_se	-	-	-	-	-
+9	jiwa-ari-pakRaH	4	jiwAripakRoZpi	ji1{kwa;ji;:BvAxiH-ari-pakRa;puM;1;eka}	ji1{kwa;ji;:BvAxiH-ari-pakRa;puM;1;eka}	karma,11	-	-	-	-	-	-
+10	api	4	-	api{avya}	api{avya}	sambanXaH,9	BI	-	-	-	-	-
+11	IdyamAnaH	7	-	IdyamAna{puM;1;eka(Id1;SAnac_lat;karmaNi;Idaz;:axAxiH)}/IdyamAna{puM;1;eka(Id2;SAnac_lat;karmaNi;Idaz;:curAxiH)}	IdyamAna{puM;1;eka(Id2;SAnac_lat;karmaNi;Idaz;:curAxiH)}	karwA,12	-	-	-	-	-	-
+12	(san)	6	(-)	saw{puM;1;eka(as2;Sawq_lat;asaz;:axAxiH)}	saw{puM;1;eka(as2;Sawq_lat;asaz;:axAxiH)}	varwamAnasamAnakAlaH,14	sajjana	-	-	-	-	-
+13	SAlInawAm	7	SAlInawAmavrajaxIdyamAnaH	SAlIna{wal;swrI;2;eka}	SAlIna{wal;swrI;2;eka}	karma,14	SAlIna_ko	-	-	-	-	-
+14	avrajaw	7	-	vraj1{karwari;laf;pra;eka;parasmEpaxI;vrajaz;:BvAxiH}	vraj1{karwari;laf;pra;eka;parasmEpaxI;vrajaz;:BvAxiH}	sakarmaka	-	-	-	-	-	-

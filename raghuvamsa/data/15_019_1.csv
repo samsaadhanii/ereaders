@@ -1,0 +1,12 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	iwi	1	iwi	iwi{avya}	iwi{avya}	sambanXaH,3	Ese kahakara	-	-	-	-	-
+2	saMwarjya	2	saMwarjya	warj2{avya;lyap;warjaz;:curAxiH}/warj1{avya;lyap;warjaz;:BvAxiH}	sam_warj2{avya;lyap;warjaz;:curAxiH}	pUrvakAlaH,7	XamakAke	-	-	-	-	-
+3	SawruGnam	3	SawruGnam	SawruGna{puM;2;eka}/SawruGna{napuM;1;eka}/SawruGna{napuM;2;eka}	SawruGna{puM;2;eka}	karma,2	SawruGna_ko	-	-	-	-	@Person
+4	rAkRasaH	4	rAkRasaswaxjiGAMsayA	rAkRasa{puM;1;eka}	rAkRasa{puM;1;eka}	prayojakakarwA,7	rAkRasa ne	-	-	-	-	@Person
+5	wax-jiGAMsayA	-	-	wax-jiGAMsA{swrI;3;eka}	wax-jiGAMsA{swrI;3;eka}	hewuH,7	usako mAra_dAlane_kI_icCA_se	-	-	-	SawruGnam jiGAMsayA	-
+6	prAMSum	5	prAMSum	prAMSu{puM;2;eka}	prAMSu{puM;2;eka}	viSeRaNam,10	labe 	-	-	-	-	-
+7	uw-pAtayAmAsa	6	uwpAtayAmAsa	uw-pat1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;pataz;:BvAxiH}/pat1{Nijanwa;karwari;lit;pra;eka;AwmanepaxI;pataz;:BvAxiH}/pat1{Nijanwa;karwari;lit;u;eka;parasmEpaxI;pataz;:BvAxiH}/pat1{Nijanwa;karwari;lit;u;eka;AwmanepaxI;pataz;:BvAxiH}/pat1{Nijanwa;karwari;lit;ma;bahu;parasmEpaxI;pataz;:BvAxiH}/pat1{Nijanwa;karwari;lit;ma;bahu;AwmanepaxI;pataz;:BvAxiH}/pat2{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;pataz;:curAxiH}/pat2{Nijanwa;karwari;lit;pra;eka;AwmanepaxI;pataz;:curAxiH}/pat2{Nijanwa;karwari;lit;u;eka;parasmEpaxI;pataz;:curAxiH}/pat2{Nijanwa;karwari;lit;u;eka;AwmanepaxI;pataz;:curAxiH}/pat2{Nijanwa;karwari;lit;ma;bahu;parasmEpaxI;pataz;:curAxiH}/pat2{Nijanwa;karwari;lit;ma;bahu;AwmanepaxI;pataz;:curAxiH}/pata1{Nijanwa;karwari;lit;ma;bahu;parasmEpaxI;pata;:curAxiH}/pata1{Nijanwa;karwari;lit;ma;bahu;AwmanepaxI;pata;:curAxiH}/pata1{Nijanwa;karwari;lit;u;eka;parasmEpaxI;pata;:curAxiH}/pata1{Nijanwa;karwari;lit;u;eka;AwmanepaxI;pata;:curAxiH}/pata1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;pata;:curAxiH}/pata1{Nijanwa;karwari;lit;pra;eka;AwmanepaxI;pata;:curAxiH}	uw-pat1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;pataz;:BvAxiH}	aBihiwa_karwA,4;sakarmaka	uKAdA 	-	-	-	-	-
+8	muswA-swambam	7	muswAswambamiva	muswA-swamba{puM;2;eka}/swamba{napuM;1;eka}/swamba{napuM;2;eka}	muswA-swamba{puM;2;eka}	upamAnam,9	muswA-GAsa_kA_puMja_ko	-	-	-	-	@Species @of @Grass
+9	iva	-	-	iva{avya}	iva{avya}	upamAnaxyowakaH,10	jEse	-	-	-	-	-
+10	xrumam	8	xrumam	xruma{puM;2;eka}	xruma{puM;2;eka}	karma,7	vqkRa ko	-	-	-	-	-

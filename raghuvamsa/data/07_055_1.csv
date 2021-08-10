@@ -1,0 +1,24 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	bale	4	bale	bala{napuM;1;xvi}/bala{napuM;2;xvi}/balA{swrI;1;xvi}/balA{swrI;2;xvi}/bala{napuM;8;xvi}/balA{swrI;8;eka}/balA{swrI;8;xvi}/bali{puM;8;eka}/bala{napuM;7;eka}	bala{napuM;7;eka}	karwA,3	bala_meM	-	-	-	-	-
+2	pareNa	1	pareNa	para{puM;3;eka}/para{napuM;3;eka}/para{sarvanAma;puM;3;eka}/para{sarvanAma;napuM;3;eka}	para{puM;3;eka}	karaNam,3	para(senA)_se	-	-	-	-	-
+3	Bagne	2	Bagne	Bagna{napuM;1;xvi}/Bagna{napuM;2;xvi}/BagnA{swrI;1;xvi}/BagnA{swrI;2;xvi}/Bagna{napuM;8;xvi}/Bagna{puM;7;eka}/Bagna{napuM;7;eka}	Bagna{napuM;7;eka}	BAvalakRaNasapwamI_samAnakAlaH,9	tUte_meM	-	-	-	-	-
+4	api	3	api	api{avya}	api{avya}	sambanXaH,3	BI	-	-	-	-	-
+5	mahA-ojAH	5	mahAojAH	mahA-o-ja{puM;1;bahu}/o-ja{puM;8;bahu}/oja{puM;8;bahu}/oja{puM;1;bahu}/ojA{swrI;8;bahu}/ojA{swrI;1;bahu}/ojA{swrI;2;bahu}/ojas{puM;1;eka}	mahA-ojas{puM;1;eka}	viSeRaNam,6	mahA-ojas	-	mahaw_ojaH_yasya_saH 	-	-	-
+6	ajaH	7	ajaH	aja{puM;1;eka}/a-ja{puM;1;eka}	aja{puM;1;eka}	karwA,9	(ajaH)	-	-	-	-	-
+7	ari-sEnyam	9	arisEnyam	ari-sEnya{puM;2;eka}/sEnya{napuM;1;eka}/sEnya{napuM;2;eka}	ari-sEnya{napuM;2;eka}	karma,9	Sawru-sEnya_(ke)	-	arINAM_sEnyam 	-	-	-
+8	prawi	8	prawyeva	prawi-eva{avya}/eva{puM;8;eka}/eva{napuM;8;eka}	prawi{avya}	sambanXaH,7	prawi-hI	-	-	-	-	-
+22	eva	-	-	-	-	sambanXaH,8	-	-	-	-	-	-
+9	yayO	6	yayO	yA1{karwari;lit;pra;eka;parasmEpaxI;yA;:axAxiH}/yA1{karwari;lit;u;eka;parasmEpaxI;yA;:axAxiH}/yayi{puM;7;eka}	yA1{karwari;lit;pra;eka;parasmEpaxI;yA;:axAxiH}	aBihiwa_karwA,6;sakarmaka	gayA	-	-	-	-	-
+10	samIraNena	12	samIraNena	samIraNa{puM;3;eka}/samIraNa{napuM;3;eka(Ir2;lyut;Iraz;:curAxiH)}	samIraNa{puM;3;eka}	karwA,12	samIraNa_ke_xvArA	-	-	-	-	-
+11	XUmaH	10	XUmaH	XUma{puM;1;eka}	XUma{puM;1;eka}	karma,12	XuAz	-	-	-	-	-
+12	ni-varwyewa	11	nivarwyewa	ni-vqw3{karmaNi;viXilif;pra;eka;AwmanepaxI;vqwuz;:curAxiH}	ni-vqw3{karmaNi;viXilif;pra;eka;AwmanepaxI;vqwuz;:curAxiH}	prawiyogI,13	viwarIwa howA hE	-	-	-	-	-
+13	(kinwu)	-	(kinwu)	kinwu{avya}	kinwu{avya}	anuyogI,16	kinwu	-	-	-	-	-
+14	yawaH	13	yawaH	yawaH{avya}/yawa{puM;1;eka}/yaw{puM;2;bahu}/yaw{puM;5;eka}/yaw{puM;6;eka}/yaw{napuM;5;eka}/yaw{napuM;6;eka}	yawaH{avya}	niwya_sambanXaH,17	(jahAM-yawra) 	-	-	-	-	-
+15	kakRaH	15	kakRaH	kakRa{puM;1;eka}	kakRa{puM;1;eka}	karwA,16	(wqNa)	-	-	-	-	-
+16	(aswi)	-	(aswi)	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	prawiyogI,14	hE	-	-	-	-	-
+17	wawaH	16	wawaH	wawaH{avya}	wawaH{avya}	anuyogI,21	vahAz_se	-	-	-	-	-
+18	eva	17	eva	eva{avya}	eva{avya}	sambanXaH,17	hI	-	-	-	-	-
+19	vahniH	18	vahniH	vahni{puM;1;eka}	vahni{puM;1;eka}	karwA,21	vahni	-	-	-	-	-
+20	wu	14	wu	wu{avya}	wu{avya}	sambanXaH,19	wo	-	-	-	-	-
+21	(aswi)	-	(aswi)	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,19;sakarmaka	(howI)hE	-	-	-	-	-

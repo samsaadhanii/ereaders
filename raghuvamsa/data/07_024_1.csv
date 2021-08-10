@@ -1,0 +1,15 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	waw	-	--	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	wax{sarvanAma;napuM;1;eka}	viSeRaNam,2	vaha	-	-	-	miWunaM	-
+2	miWunaM	-	--	miWuna{napuM;1;eka}/miWuna{napuM;2;eka}	miWuna{napuM;1;eka}	karwA,12	jodZA	-	-	-	-	-
+3	uxarciRaH	-	--	uxarcis{puM;1;bahu}/uxarcis{puM;2;bahu}/uxarcis{puM;5;eka}/uxarcis{puM;6;eka}/uxarcis{napuM;5;eka}/uxarcis{napuM;6;eka}/uxarcis{puM;8;bahu}	uxarcis{puM;6;eka}	viSeRaNam,4	uTI huI lapatavAlI	-	-	-	-	-
+4	kqSAnoH	-	--	kqSAnu{puM;5;eka}/kqSAnu{puM;6;eka}	kqSAnu{puM;6;eka}	RaRTIsambanXaH,5	agni kI	-	-	-	-	-
+5	praxakRiNa-prakramaNAw	1	praxakRiNaprakramaNAwkqSAnoruxarciRaswanmiWunaM	praxakRiNa-prakramaNa{napuM;5;eka(praxakRiNa-kram1;lyut;kramuz;:BvAxiH)}	praxakRiNa-prakramaNa{napuM;5;eka(praxakRiNa-kram1;lyut;kramuz;:BvAxiH)}	hewuH,12	praxakRiNA karane se 	-	-	-	-	-
+6	meroH	-	--	meru{puM;5;eka}/meru{puM;6;eka}	meru{puM;6;eka}	RaRTIsambanXaH,7	meru_ke	-	-	-	-	-
+7	upAnweRu	3	merorupAnweRviva	upAnwa{puM;7;bahu}	upAnwa{puM;7;bahu}	aXikaraNam,8	cAroM ora 	-	-	-	-	-
+8	varwamAnam	-	--	varwamAna{puM;2;eka(vqw1;SAnac_lat;karwari;vqwuz;:BvAxiH)}/varwamAna{napuM;1;eka(vqw1;SAnac_lat;karwari;vqwuz;:BvAxiH)}/varwamAna{napuM;2;eka(vqw1;SAnac_lat;karwari;vqwuz;:BvAxiH)}	varwamAna{napuM;1;eka(vqw1;SAnac_lat;karwari;vqwuz;:BvAxiH)}	viSeRaNam,10	BramaNa karawe 	-	-	-	-	-
+9	anyonya-saMsakwam	-	--	anyonya{avya-saMsakwa;puM;2;eka}/saMsakwa{napuM;1;eka}/saMsakwa{napuM;2;eka}	saMsakwa{napuM;1;eka}	viSeRaNam,10	paraspara mile hue 	-	-	-	-	-
+10	aha-wriyAmAm	-	--	ahan{napuM;1;eka}/ahan{napuM;2;eka}/ahan{napuM;8;eka}	ahan{napuM;1;eka}	upamAnam,11	xina	-	-	-	-	-
+11	iva	4	varwamAnamanyonyasaMsakwamahaswriyAmam	wriyAmAm-iva{avya}	wriyAmAm-iva{avya}	upamAnaxyowakaH,2	rAwa kI waraha 	-	-	-	-	-
+12	cakAse	2	cakAse	kAs1{karmaNi;lit;pra;eka;AwmanepaxI;kAsqz;:BvAxiH}/kAs1{karmaNi;lit;u;eka;AwmanepaxI;kAsqz;:BvAxiH}	kAs1{karmaNi;lit;pra;eka;AwmanepaxI;kAsqz;:BvAxiH}	aBihiwa_karwA,2;sakarmaka	SoBiwa huA 	-	-	-	-	-
+13	(anyonya-saMsakwam)	-	(--)	anyonya{avya-saMsakwa;puM;2;eka}/saMsakwa{napuM;1;eka}/saMsakwa{napuM;2;eka}	saMsakwa{napuM;1;eka}	viSeRaNam,2	paraspara mile hue 	-	-	-	-	-

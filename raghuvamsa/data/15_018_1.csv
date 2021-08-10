@@ -1,0 +1,15 @@
+@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
+
+1	na-awi-paryApwaM	1	nAwiparyApwaM	na-awi-paryApwa{napuM;1;eka}/paryApwa{napuM;2;eka}	na-awi-paryApwa{napuM;2;eka}	viSeRaNam,5	na-awi-paryApwa	-	-	-	-	-
+2	AlakRya	2	AlakRya	lakR1{avya;lyap;lakRaz;:curAxiH}/lakR2{avya;lyap;lakRaz;:curAxiH}	Af_lakR2{avya;lyap;lakRaz;:curAxiH}	pUrvakAlaH,13	NW_kara	-	-	-	-	-
+3	maw-kukReH	3	mawkukReraxya	maw-kukRi{puM;5;eka}/kukRi{puM;6;eka}	maw-kukRi{puM;6;eka}	RaRTIsambanXaH,5	maw-kukRi_kA	-	-	-	lavaNasya kukReH	-
+4	axya	-	-	axya{avya}	axya{avya}	kAlAXikaraNam,2	Aja	-	-	-	-	-
+5	Bojanam	4	Bojanam	Bojana{napuM;1;eka}/Bojana{napuM;2;eka}	Bojana{napuM;2;eka}	karma,2	Bojana	-	-	-	-	-
+6	xiRtyA	5	xiRtyA	xiRtyA{avya}/xiRti{swrI;3;eka}	xiRti{swrI;3;eka}	hewuH,13	xiRti_se	-	-	-	-	-
+7	wvam	6	wvam	yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karma,13	wuma	-	-	-	SawruGnam	-
+8	asi	7	asi	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;:axAxiH}	sakarmaka	as2_pp_skwe_ho	-	-	-	-	-
+9	me	8	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;4;eka}	prayojanam,13	mere_liye	-	-	-	lavaNasya kqwe	-
+10	XAwrA	9	XAwrA	XAwq{puM;3;eka}	XAwq{puM;3;eka}	karwA,13	viXAwA_ke_xvArA	-	-	-	-	@Person (cawurAnanaH)
+11	BIwena	10	BIwenevopapAxiwaH	BIwa{puM;3;eka(BI1;kwa;FiBI;:juhowyAxiH)}	BIwa{puM;3;eka(BI1;kwa;FiBI;:juhowyAxiH)}	viSeRaNam,10	AwaMkiwa	-	-	-	-	-
+12	iva	-	-	iva{avya}	iva{avya}	sambanXaH,11	jEse	-	-	-	-	-
+13	upapAxiwaH	-	-	aBi-preRiwa{puM;1;eka(aBi-preR1;kwa;preRqz;:BvAxiH)}/aBi-preRiwa{puM;1;eka(IR1;kwa;IRaz;:BvAxiH)}	aBi-preRiwa{puM;1;eka(aBi-IR1;kwa;IRaz;:BvAxiH)}	karwqsamAnAXikaraNam,8	aBi-BejA_huA	-	-	-	-	-
