@@ -1,5 +1,4 @@
-@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
-
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	we	-	we	wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;swrI;2;xvi}/wax{sarvanAma;swrI;1;xvi}/yuRmax{sarvanAma;6;eka}/yuRmax{sarvanAma;4;eka}	wax{sarvanAma;swrI;1;xvi}	viSeRaNam,4	unako	-	-	-	-	-
 2	bahu-jFasya	-	bahu-jFasya	bahu-jFa{puM;6;eka}/jFa{napuM;6;eka}	bahu-jFa{puM;6;eka}	viSeRaNam,5	aXika-jFa_kA	-	-	-	-	-
 3	ciwwa-jFe	-	jFe	ciw-jFa{puM;7;eka}/ciwwa-jFa{napuM;2;xvi}/ciwwa-jFa{napuM;1;xvi}/ciwwa-jFa{napuM;7;eka}/ciwwa-jFa{swrI;2;xvi}/ciwwa-jFa{swrI;1;xvi}	ciwwa-jFa{swrI;1;xvi}	viSeRaNam,4	ciw-jFa_meM	-	-	-	-	-

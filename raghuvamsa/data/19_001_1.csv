@@ -1,16 +1,15 @@
-@anvaya_@no	@word	@poem	@sandhied_@word	@morph_@analysis	@morph_@in_@context	@kaaraka_@sambandha	@hindi_@meaning	@english_@meaning	@samAsa	@prayoga	@sarvanAma	@name_@classification
-
-1	agni-wejasam	-	-	agni-wejas{puM;2;eka} 	agni-wejas{puM;2;eka} 	viSeRaNam,3	agniwejasake samAna	-	-	-	-	-
-2	wanayam	5	wanayamagniwejasam	wanaya{puM;2;eka}	wanaya{puM;2;eka}	viSeRaNam,3	puwra	-	-	-	-	-
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	agni-wejasam	7	-	agni-wejas{puM;2;eka} 	agni-wejas{puM;2;eka} 	viSeRaNam,3	agniwejasake samAna	-	-	-	-	-
+2	wanayam	6	wanayamagniwejasam	wanaya{puM;2;eka}	wanaya{puM;2;eka}	viSeRaNam,3	puwra	-	-	-	-	-
 3	agni-varNam	1	agnivarNamaBiRicya	agni-varNa{puM;2;eka}	agni-varNa{puM;2;eka}	karma,6	agnivarNa ko	-	-	-	-	@king @agni @varna
-4	sve	3	sve	sva{puM;7;eka}	sva{puM;7;eka}	viSeRaNam,5	isa	-	-	-	-	-
-5	paxe	4	paxe	pax{puM;4;eka}/paxa{napuM;1;xvi}/paxa{napuM;2;xvi}/pAxa{puM;4;eka}/paxa{napuM;8;xvi}/paxa{napuM;7;eka}	paxa{napuM;7;eka}	aXikaraNam,6	pEra_meM	-	-	-	-	-
-6	aBiRicya	-	-	Ric1{avya;lyap;Ricaz;:wuxAxiH}	aBi_Ric1{avya;lyap;Ricaz;:wuxAxiH}	pUrvakAlaH,14	NW_kara	-	-	-	-	-
-7	SruwavawAm	7	SruwavawAmapaScimaH	Sruwavaw(puH8 bahu )(kqxanwaHkqw-XAwu1)	Sruwavaw{puM;6;bahu) 	RaRTIsambanXaH,8	sune	-	-	-	-	-
-8	a-paScimaH	-	-	a-paScima{puM;1;eka}	a-paScima{puM;1;eka}	viSeRaNam,10	a-paScima	-	-	-	-	-
-9	vaSI	11	vaSI	vaSi{puM;1;xvi}/vaSi{puM;2;xvi}/vaSin{puM;1;eka}/vaSi{puM;8;xvi}	vaSin{puM;1;eka}	viSeRaNam,10	jisane_vaSa_kara_liyA_hE_usa	-	-	-	-	-
-10	rAGavaH	2	rAGavaH	rAGava{puM;1;eka}	rAGava{puM;1;eka}	karwA,14	raGuvaMSI_ne	-	-	-	-	@King @sudarshana,@Father @of @king @agni @varna
-11	paScime	8	paScime	paScima{napuM;7;eka}	paScima{napuM;7;eka}	viSeRaNam,12	vqxXa	-	-	-	-	-
-12	vayasi	9	vayasi	ve1{karwari;lat;ma;eka;parasmEpaxI;veF;:BvAxiH}/vayas{napuM;7;eka}	vayas{napuM;7;eka}	aXikaraNam,14	Ayu_meM	-	-	-	-	-
-13	nEmiRam	10	nEmiRam	nEmiRa{napuM;1;eka}/nEmiRa{napuM;2;eka}	nEmiRa{napuM;2;eka}	karma,14	nEmiRa_ko	-	-	-	-	-
-14	SiSriye	6	SiSriye	Sri1{karwari;lit;pra;eka;AwmanepaxI;SriF;:BvAxiH}/Sri1{karwari;lit;u;eka;AwmanepaxI;SriF;:BvAxiH}/Sri1{karmaNi;lit;pra;eka;AwmanepaxI;SriF;:BvAxiH}/Sri1{karmaNi;lit;u;eka;AwmanepaxI;SriF;:BvAxiH}/SrI1{karwari;lit;pra;eka;AwmanepaxI;SrIF;:kryAxiH}/SrI1{karwari;lit;u;eka;AwmanepaxI;SrIF;:kryAxiH}	SrI1{karwari;lit;pra;eka;AwmanepaxI;SrIF;:kryAxiH}	aBihiwa_karwA,10;sakarmaka	pakAyA	-	-	-	-	-
+4	sve	4	sve	sva{puM;7;eka}	sva{puM;7;eka}	viSeRaNam,5	isa	-	-	-	-	-
+5	paxe	5	paxe	pax{puM;4;eka}/paxa{napuM;1;xvi}/paxa{napuM;2;xvi}/pAxa{puM;4;eka}/paxa{napuM;8;xvi}/paxa{napuM;7;eka}	paxa{napuM;7;eka}	aXikaraNam,6	pEra_meM	-	-	-	-	-
+6	aBiRicya	2	-	Ric1{avya;lyap;Ricaz;:wuxAxiH}	aBi_Ric1{avya;lyap;Ricaz;:wuxAxiH}	pUrvakAlaH,14	NW_kara	-	-	-	-	-
+7	SruwavawAm	9	SruwavawAmapaScimaH	Sruwavaw(puH8 bahu )(kqxanwaHkqw-XAwu1)	Sruwavaw{puM;6;bahu) 	RaRTIsambanXaH,8	sune	-	-	-	-	-
+8	a-paScimaH	10	-	a-paScima{puM;1;eka}	a-paScima{puM;1;eka}	viSeRaNam,10	a-paScima	-	-	-	-	-
+9	vaSI	14	vaSI	vaSi{puM;1;xvi}/vaSi{puM;2;xvi}/vaSin{puM;1;eka}/vaSi{puM;8;xvi}	vaSin{puM;1;eka}	viSeRaNam,10	jisane_vaSa_kara_liyA_hE_usa	-	-	-	-	-
+10	rAGavaH	3	rAGavaH	rAGava{puM;1;eka}	rAGava{puM;1;eka}	karwA,14	raGuvaMSI_ne	-	-	-	-	@King @sudarshana,@Father @of @king @agni @varna
+11	paScime	11	paScime	paScima{napuM;7;eka}	paScima{napuM;7;eka}	viSeRaNam,12	vqxXa	-	-	-	-	-
+12	vayasi	12	vayasi	ve1{karwari;lat;ma;eka;parasmEpaxI;veF;:BvAxiH}/vayas{napuM;7;eka}	vayas{napuM;7;eka}	aXikaraNam,14	Ayu_meM	-	-	-	-	-
+13	nEmiRam	13	nEmiRam	nEmiRa{napuM;1;eka}/nEmiRa{napuM;2;eka}	nEmiRa{napuM;2;eka}	karma,14	nEmiRa_ko	-	-	-	-	-
+14	SiSriye	8	SiSriye	Sri1{karwari;lit;pra;eka;AwmanepaxI;SriF;:BvAxiH}/Sri1{karwari;lit;u;eka;AwmanepaxI;SriF;:BvAxiH}/Sri1{karmaNi;lit;pra;eka;AwmanepaxI;SriF;:BvAxiH}/Sri1{karmaNi;lit;u;eka;AwmanepaxI;SriF;:BvAxiH}/SrI1{karwari;lit;pra;eka;AwmanepaxI;SrIF;:kryAxiH}/SrI1{karwari;lit;u;eka;AwmanepaxI;SrIF;:kryAxiH}	SrI1{karwari;lit;pra;eka;AwmanepaxI;SrIF;:kryAxiH}	aBihiwa_karwA,10;sakarmaka	pakAyA	-	-	-	-	-
