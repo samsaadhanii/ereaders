@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sAgara-meKalA	5	sAgarameKalA	sAgara-meKalA{swrI;1;eka}	sAgara-meKalA{swrI;1;eka}	viSeRaNam,3	samuxra-meKalA					
+2	iyam	1	iyam	ixam{sarvanAma;swrI;1;eka}	ixam{sarvanAma;swrI;1;eka}	viSeRaNam,3	yaha					
+3	mahI	4	mahI	mahI{swrI;1;eka}	mahI{swrI;1;eka}	karwA,11	pqWvI					
+4	hi	2	hi	hi{avya}	hi{avya}	sambanXaH,3	hi					
+5	vasu-sampUrNA	3	vasusampUrNA	vasu-sampUrNA{swrI;1;eka}	vasu-sampUrNA{swrI;1;eka}	viSeRaNam,3	Xana-saMpUrNa					
+6	BavawA	6	BavawA	Bavaw{sarvanAma;puM;3;eka}/Bavaw{puM;3;eka}	Bavaw{puM;3;eka}	karwA,7	Apake_xvArA					
+7	vipra-hInasya	7	viprahINasya	vipra-hIna{puM;6;eka(vipra-hA2;kwa;ozhAk;:juhowyAxiH)}	vipra-hIna{puM;6;eka(vipra-hA2;kwa;ozhAk;:juhowyAxiH)}	RaRTIsambanXaH,8	brAhmaNa-hIna					
+8	me	9	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;4;eka}	sampraxAnam,11	merA					
+9	prIwikarI	10	prIwikarI	karmakArin{puM;1;eka}	prIwikarin{puM;1;eka}	viXeya_viSeRaNam,3						
+10	na	8	na	na{avya}	na{avya}	prawiReXaH,11	nahIM					
+11	Bavew	11	Bavew	BU1{karwari;viXilif;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;viXilif;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,3;akarmaka	ho					

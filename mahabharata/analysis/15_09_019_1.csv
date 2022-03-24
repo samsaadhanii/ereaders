@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vihAra-AhAra-kAleRu	1	vihArAhArakAleRu	vihAra-AhAra--kAla{puM;7;bahu}/kAla{napuM;7;bahu}	vihAra-AhAra—kAla{puM;7;bahu}	aXikaraNam,7						
+2	mAlya-Sayya-AsaneRu	2	mAlyaSayyAsaneRu	mAlya-SayyA-Asana{puM;7;bahu}/Asana{napuM;7;bahu}	mAlya-SayyA-Asana{puM;7;bahu}	samucciwaH,1						
+3	ca	3	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,1	Ora					
+4	swriyaH	4	swriyaSca	swrI{swrI;1;bahu}/swrI{swrI;2;bahu}/swrI{swrI;8;bahu}	swrI{swrI;1;bahu}	karwA,8	swriyAz					
+5	ca			ca{avya}	su-gupwA{swrI;2;bahu(gup1;kwa;gupUz;:BvAxiH)}	samuccaya_xyowakaH,7	Ora					
+6	we	5	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,1	ve					
+7	su-gupwAH	6	sugupwAH	su-gup{wal;swrI;1;bahu}/gup{wal;swrI;2;bahu}/su-gupwa{puM;1;bahu(gup1;kwa;gupUz;:BvAxiH)}/su-gupwA{swrI;1;bahu(gup1;kwa;gupUz;:BvAxiH)}/su-gupwA{swrI;2;bahu(gup1;kwa;gupUz;:BvAxiH)}	su-gupwA{swrI;2;bahu(gup1;kwa;gupUz;:BvAxiH)}	viXeya_viSeRaNam,4	su-gup					
+8	syuH	7	syurvqxXErApwEraXiRTiwAH	as2{karwari;viXilif;pra;bahu;parasmEpaxI;asaz;:axAxiH}	as2{karwari;viXilif;pra;bahu;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,4;akarmakaH	hoyeM					
+9	vqxXEH			vqxXa{puM;3;bahu}/vqxXa{napuM;3;bahu}	vqxXa{puM;3;bahu}	karaNam,7	vqxXoM_se					
+10	ApwEH			Apwa{puM;3;bahu}/Apwa{puM;3;bahu(Ap1;kwa;ApLz;:svAxiH)}/Apwa{napuM;3;bahu(Ap1;kwa;ApLz;:svAxiH)}	Apwa{puM;3;bahu}	samucciwaH,9	prApwoM_se					
+11	aXiRTiwAH			aXiRTiwA{swrI;1;bahu}/aXiRTiwA{swrI;2;bahu}	aXiRTiwA{swrI;1;bahu}	samucciwaH,7	aXiRTiwAyeM					
+12	SIlavaxBiH	8	SIlavaxBiH	SIla{mawup;puM;3;bahu}/SIla{mawup;napuM;3;bahu}	SIla{mawup;puM;3;bahu}	viSeRaNam,9	SIla_se					
+13	kulInEH	9	kulInESca	kulIna{puM;3;bahu}	kulIna{puM;3;bahu}	samucciwaH,12	kulInoM_se					
+14	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,9	Ora					
+15	vixvaxBiH	10	vixvaxBiSca	vixvas{puM;3;bahu}	vixvas{puM;3;bahu}	samucciwaH,12	vixvAnoM_se					
+16	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora					
+17	yuXiRTIra	11	yuXiRTIra	yuXiRTIra{puM;8;e)	yuXiRTIra{puM;8;e)	samboXyaH,8						

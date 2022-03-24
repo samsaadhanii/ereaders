@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	janA_aXipaH	4	janAXipaH	aXipa{puM;1;eka}	janA_aXipa{puM;1;eka}	karwA,10	aXipa					
+2	viviXAH	2	viviXAH	viviXa{puM;1;bahu}/viviXA{swrI;1;bahu}/viviXA{swrI;2;bahu}/viviXa{puM;8;bahu}	viviXA{swrI;2;bahu}	samucciwaH,3	viviXAoM_ko					
+3	anyAH	1	ewAScAnyASca	anyA{swrI;1;bahu}/anyA{swrI;2;bahu}/anyA{sarvanAma;swrI;1;bahu}/anyA{sarvanAma;swrI;2;bahu}/an1{karwari;ASIrlif;ma;eka;parasmEpaxI;anaz;:axAxiH}/an1{karwari;viXilif;ma;eka;parasmEpaxI;anaz;:axAxiH}	anyA{sarvanAma;swrI;2;bahu}	viSeRaNam,7	anya					
+4	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora					
+5	wAH	6	wA	wax{sarvanAma;swrI;1;bahu}/wax{sarvanAma;swrI;2;bahu}	wax{sarvanAma;swrI;2;bahu}	samucciwaH,7	ve					
+6	vqkoxarasya	5	vqkoxarasya	vqkoxara{puM;6;eka}	vqkoxara{puM;6;eka}	RaRTIsambanXaH,7	xviwIya_pANdava_BIma_kA_viSeRaNa_kI					
+7	vAcaH	7	vAcaH	vAc{swrI;1;bahu}/vAc{swrI;2;bahu}/vAc{swrI;5;eka}/vAc{swrI;6;eka}/vAc{swrI;8;bahu}/vAca{puM;1;eka(brU1;GaF;brUF;:axAxiH)}	vAc{swrI;2;bahu}	karma,8	vANI_se					
+8	SruwvA	8	SruwvA	Sru1{avya;kwvA;Sru;:BvAxiH}	Sru1{avya;kwvA;Sru;:BvAxiH}	pUrvakAlaH,10	suna_kara					
+9	nirvexam	9	nirvexamAgamaw	nirvexa{puM;2;eka}	nirvexa{puM;2;eka}	karma,10	avasAxa					
+10	Agamaw			Af_gam1{karwari;luf;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	Af_gam1{karwari;luf;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,1;sakarmaka	AyA					
+11	Salya_BUwAH	3	SalyaBUwA		BUwA{swrI;2;bahu{kqxanwa}({kqw_XAwu as2},kwa{XAwuH asaz};axAxiH)}	viSeRaNam,7						
+12	ewA:				ewax{sarvanAma;swrI;2;bahu}	samucciwaH,3						
+13	ca			ca{avya}	ca{avya}	sambanXaH,12	Ora					

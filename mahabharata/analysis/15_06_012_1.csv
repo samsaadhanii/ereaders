@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	rAjA-inxra	5	rAjenxra	rAjA-inxra{puM;8;eka}/inxra{napuM;8;eka}	rAjA-inxra{napuM;8;eka}	samboXyaH,13	rAjA-inxra					
+2	yaxi	4	yaxi	yaxi{avya}	yaxi{avya}	niwya_sambanXaH,14	yaxi					
+3	saH	1	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,6	vaha					
+4	wvam	3	wvam	yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,9	wuma					
+5	AwmAnam			Awman{puM;2;eka}	Awman{puM;2;eka}	karma,6	AwmA					
+6	AlaBe			Af_laB1{karwari;laf;u;eka;AwmanepaxI;dulaBazR;:BvAxiH}/Af_laB1{karwari;lat;u;eka;AwmanepaxI;dulaBazR;:BvAxiH}	Af_laB1{karwari;lat;u;eka;AwmanepaxI;dulaBazR;:BvAxiH}		sparSa_karawA_hUz					
+7	mAm	2	mAm	asmax{sarvanAma;2;eka}	asmax{sarvanAma;2;eka}	karma,8	muJe					
+8	pariwyajya	6	pariwyajya	wyaj1{avya;lyap;wyajaz;:BvAxiH}	pari_wyaj1{avya;lyap;wyajaz;:BvAxiH}	pUrvakAlaH,9	Coda_kara					
+9	gamiRyasi	7	gamiRyasi	gam1{karwari;lqt;ma;eka;parasmEpaxI;gamLz;:BvAxiH}	gam1{karwari;lqt;ma;eka;parasmEpaxI;gamLz;:BvAxiH}	prawiyogI,2	jAoge					
+10	sawyena	9	sawyenAwmAnamAlaBe	sawya{puM;3;eka}/sawya{napuM;3;eka}	sawya{napuM;3;eka}	karaNam,6	sawya_se					
+11	pqRTawaH	8	pqRTawaswvAnuyAsyAmi	pqRTa{avya;wasil}	pqRTa{avya;wasil}	apAxAnam,13	pqRTa_se					
+12	wu			wu{avya}	wu{avya}	sambanXaH,11	wo					
+13	anuyAsyAmi			anu_yA1{karwari;lqt;u;eka;parasmEpaxI;yA;:axAxiH}	anu_yA1{karwari;lqt;u;eka;parasmEpaxI;yA;:axAxiH}	aBihiwa_karwA,15;sakarmaka	anu_yA1_pp_skegA					
+14	(warhi)				warhi{avya)	anuyogI,13						
+15	(aham)			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,13	mEM					

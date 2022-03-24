@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	XqwarARtraH	1	XqwarARtraSca	XqwarARtra{puM;1;eka}	XqwarARtra{puM;1;eka}	karwA,12	XqwarARtra					
+2	ca			ca{avya}	ca{avya}	sambanXaH,12	Ora					
+3	wAn	2	wAnvIrAnvinIwAnvinaye	wax{sarvanAma;puM;2;bahu}	wax{sarvanAma;puM;2;bahu}	viSeRaNam,4	unako					
+4	vinIwAn			vinIwa{puM;2;bahu}/vinIwa{puM;2;bahu(NI1;kwa;NIF;:BvAxiH)}	vinIwa{puM;2;bahu}	viSeRaNam,5	anuSAsiwoM_ko					
+5	vIrAn			vIra{puM;2;bahu}	vIra{puM;2;bahu}	karma,12	vIroM_ko					
+6	vinaye			vinayA{swrI;1;xvi}/vinayA{swrI;2;xvi}/vi_NI1{karwari;lat;u;eka;AwmanepaxI;NIF;:BvAxiH}/vinaya{puM;7;eka}	vinaya{puM;7;eka}	viRayAXikaraNam,7	vinayAyeM					
+7	sWiwAn	3	sWiwAn	sWiwa{puM;2;bahu(RWA1;kwa;RWA;:BvAxiH)}	sWiwa{puM;2;bahu(RWA1;kwa;RWA;:BvAxiH)}	viSeRaNam,5	sWiwa_ko					
+8	SiRya-vqwwO	4	SiRyavqwwO	SAs1{yaw;SAsuz;:axAxiH}/SAs1{Nyaw;SAsuz;:axAxiH-vqwwi;swrI;7;eka}/vqwwa{puM;1;xvi(vqw1;kwa;vqwuz;:BvAxiH)}/vqwwa{puM;2;xvi(vqw1;kwa;vqwuz;:BvAxiH)}/vqwwa{puM;1;xvi(vqw2;kwa;vqwuz;:xivAxiH)}/vqwwa{puM;2;xvi(vqw2;kwa;vqwuz;:xivAxiH)}/vqwwi{puM;7;eka}	vqwwa-SAs1Nyaw;SAsuz;:axAxiH-vqwwi;swrI;7;eka}	viRayAXikaraNam,9						
+9	sWiwAn	5	sWiwAn	sWiwa{puM;2;bahu(RWA1;kwa;RWA;:BvAxiH)}	sWiwa{puM;2;bahu(RWA1;kwa;RWA;:BvAxiH)}	viSeRaNam,5	sWiwa_ko					
+10	niwyam	6	niwyam	niwya{puM;2;eka}/niwya{napuM;1;eka}/niwya{napuM;2;eka}	niwya{puM;2;eka}	kriyAviSeRaNam,12	niwya_ko					
+11	guruvaw	7	guruvaw	guruvaw}	guruvaw{avya}	kriyAviSeRaNam,12						
+12	paryapaSyawa(paryapaSyaw)	8	paryapaSyawa	pari_xqS1{karwari;laf;pra;bahu;parasmEpaxI;xqSizr;:BvAxiH}	pari_xqS1{karwari;laf;pra;bahu;parasmEpaxI;xqSizr;:BvAxiH}	aBihiwa_karwA,1;sakarmaka	pari_xqS1_pp_skyA					

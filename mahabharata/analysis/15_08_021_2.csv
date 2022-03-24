@@ -1,0 +1,10 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+27	sarve	16	sarve	sarva{sarvanAma;puM;1;bahu}/sarva{sarvanAma;napuM;1;xvi}/sarva{sarvanAma;napuM;2;xvi}/sarvA{sarvanAma;swrI;1;xvi}/sarvA{sarvanAma;swrI;2;xvi}	sarva{sarvanAma;puM;1;bahu}	karwA,35	saba					
+28	hi	17	hyeweZnumAnyA	hi{avya}	hi{avya}	sambanXaH,27	hi					
+29	ewe			ewax{sarvanAma;puM;1;bahu}/ewax{sarvanAma;napuM;1;xvi}/ewax{sarvanAma;napuM;2;xvi}/ewax{sarvanAma;swrI;1;xvi}/ewax{sarvanAma;swrI;2;xvi}	ewax{sarvanAma;puM;1;bahu}	viSeRaNam,27	ye					
+30	anu_mAnyAH			anu_mAnyA{swrI;1;eka(man1;Nyaw;manaz;:xivAxiH)}/mAnyA{swrI;1;eka(man2;Nyaw;manuz;:wanAxiH)}/mAnyA{swrI;1;eka(mAn2;yaw;mAnaz;:curAxiH)}/mAnyA{swrI;1;eka(man3;yaw;manaz;:curAxiH)}	anu_mAnya{puM;1;bahu{kqxanwa}({kqw_XAwu man1};Nyaw{XAwuH manaz} xivAxiH)}	viXeya_viSeRaNam,27						
+31	me	18	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	viSeRaNam,32	merA					
+32	kulasya	19	kulasyAsya	kula{napuM;6;eka}	kula{napuM;6;eka}	RaRTIsambanXaH,34	kula_kA					
+33	asya			ixam{sarvanAma;puM;6;eka}/ixam{sarvanAma;napuM;6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;:xivAxiH}	ixam{sarvanAma;puM;6;eka}	viSeRaNam,32	isakA					
+34	hiwERiNaH	20	hiwERiNaH	hiwERin{puM;1;bahu}/hiwERin{puM;2;bahu}/hiwERin{puM;5;eka}/hiwERin{puM;6;eka}	hiwERin{puM;1;bahu}	viXeya_viSeRaNam,27	hiwERI					
+35	(sanwi)			as{karwari;lat;pra;bahu;parasmEpaxI{XAwuH asaz} axAxiH}	as{karwari;lat;pra;bahu;parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,27;sakarmaka						

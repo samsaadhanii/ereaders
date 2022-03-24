@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	cArEH	3	cArEravixiwEH	cAra{puM;3;bahu}/cAra{napuM;3;bahu}	cAra{napuM;3;bahu}	karaNam,10	gawiyoM_se					
+2	avixiwEH			a-vixiwa{puM;3;bahu(vix1;kwa;vixaz;:axAxiH)}/vixiwa{napuM;3;bahu(vix1;kwa;vixaz;:axAxiH)}	a-vixiwa{napuM;3;bahu(vix1;kwa;vixaz;:axAxiH)}	viSeRaNam,1	jFAwoM_se					
+3	parAn	4	parAn	para{puM;2;bahu}/para{sarvanAma;puM;2;bahu}	para{sarvanAma;puM;2;bahu}	karma,2	parake					
+4	parIkRiwEH		parIkRiwErbahuviXaM	parIkRiwa{puM;3;bahu(IkR1;kwa;IkRaz;:BvAxiH)}/parIkRiwa{napuM;3;bahu(IkR1;kwa;IkRaz;:BvAxiH)}	parIkRiwa{napuM;3;bahu(IkR1;kwa;IkRaz;:BvAxiH)}	viSeRaNam,1	parIkRA_kI					
+5	bahu-viXam	5		bahu-viXa{puM;2;eka}/viXa{napuM;1;eka}/viXa{napuM;2;eka}	bahu-viXa{napuM;2;eka}	kriyAviSeRaNam,4	aXika-prakAra_kI					
+6	sva-rARtreRu	6	svarARtreRu	sva-rARtra{puM;7;bahu}/rARtra{napuM;7;bahu}	sva-rARtra{napuM;7;bahu}	aXikaraNam,10	apanA-rARtroM_meM					
+7	pareRu	7	pareRu	para{puM;7;bahu}/para{napuM;7;bahu}/para{sarvanAma;puM;7;bahu}/para{sarvanAma;napuM;7;bahu}	para{sarvanAma;napuM;7;bahu}	samucciwaH,6	para_					
+8	ca	8	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	BI					
+9	sawawam	2	sawawam	sawawam{avya}	sawawam{avya}	kriyAviSeRaNam,10						
+10	cArayeWAH	1	cArayeWASca	car{Nijanwa;karwari;viXilif;ma;eka;parasmEpaxI{XAwuH caraz} curAxiH}	car{Nijanwa;karwari;viXilif;ma;eka;parasmEpaxI{XAwuH caraz} curAxiH}	aBihiwa_karwA,11;sakarmaka						
+11	(wvam)			yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,10						

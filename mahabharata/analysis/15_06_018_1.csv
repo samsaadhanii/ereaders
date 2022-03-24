@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	iwi	1	iwyukwvA	iwi{avya}	iwi{avya}	gONakarma,5	EsA					
+2	vepamAnaH	3	vepamAnaH	vepamAna{puM;1;eka(vep1;SAnac_lat;karwari;tuvepqz;:BvAxiH)}	vepamAna{puM;1;eka(vep1;SAnac_lat;karwari;tuvepqz;:BvAxiH)}	varwamAnasamAnakAlaH,10						
+3	kqwAFjalim	4	kqwAFjalim	kqwAFjali{puM;2;eka}	kqwAFjali{puM;2;eka}	viSeRaNam,4	vinamrawA_ke_kAraNa_xonoM_hAWa_jodZe_hue_ko					
+4	Xarma-rAjAnam	2	XarmarAjAnam	Xarma-rAjan{puM;2;eka}	Xarma-rAjan{puM;2;eka}	muKyakarma,5	Xarma-rAjA_ko					
+5	ukwvA			vac1{avya;kwvA;vacaz;:axAxiH}	vac1{avya;kwvA;vacaz;:axAxiH}	pUrvakAlaH,10	bola_kara					
+6	ambikA-suwaH			ab1{Nvul;abiz;:BvAxiH-Ru2;karwari;lat;pra;xvi;parasmEpaxI;Ru;:axAxiH}/suwa{puM;1;eka(Ru3;kwa;RuF;:svAxiH)}/suwa{puM;1;eka(Su1;kwa;Su;:BvAxiH)}/suwa{puM;1;eka(Ru2;kwa;Ru;:axAxiH)}/suwa{puM;1;eka}	suwa-suwa{puM;1;eka(suwa-Ru2;kwa;Ru;:axAxiH)}	viSeRaNam,8	puwra-puwra					
+7	rAjA	7	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	viSeRaNam,8	rAjA					
+8	XqwarARtraH	8	XqwarARtroZmbikAsuwaH	XqwarARtra{puM;1;eka}	XqwarARtra{puM;1;eka}	karwA,10	XqwarARtra					
+9	vacanam	6	vacanam	vacana{napuM;1;eka}/vacana{napuM;2;eka}	vacana{napuM;2;eka}	karma,10	vacana_ko					
+10	uvAca	5	uvAca	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}/vac1{karwari;lit;u;eka;parasmEpaxI;vacaz;:axAxiH}	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}	aBihiwa_karwA,8;sakarmaka	bolA					

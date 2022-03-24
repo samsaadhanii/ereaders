@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	Baxram		Baxram	Baxra{puM;2;eka}/Baxra{napuM;1;eka}/Baxra{napuM;2;eka}	Baxra{puM;1;eka}	karwA,14	suKaxa					
+2	we		we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,1	ve					
+3	yAxavI-mAwq-vAkyam		yAxavImAwarvAkyaM	yAxavI-mA1{wqc;mA;:axAxiH}/me1{wqc;mef;:BvAxiH}/mi1{wqc;dumiF;:svAxiH}/mA2{wqc;mAf;:juhowyAxiH}/mA3{wqc;mAf;:xivAxiH}/mI2{wqc;mIF;:kryAxiH-vAkya;napuM;1;eka}/vAkya{napuM;2;eka}/vAkya{puM;2;eka}	yAxavI-mA3wqc;mAf;:xivAxiH}-vAkya{puM;2;eka}	karma,6						
+4	ca		cexaM	ca{avya}	ca{avya}	sambanXaH,3	Ora					
+5	ixam			ixam{sarvanAma;napuM;1;eka}/ixam{sarvanAma;napuM;2;eka}	ixam{sarvanAma;napuM;2;eka}	viSeRaNam,3	yaha					
+6	niboXa		niboXa	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;buXizr;:BvAxiH}/ni_buX1{karwari;lot;ma;eka;parasmEpaxI;buXaz;:BvAxiH}	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;buXizr;:BvAxiH}	aBihiwa_karma,3;sakarmaka	samaJo					
+7	me		me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,3	merA					
+8	suKam		suKamasmyuRiwaH	suKam{avya}/suKa{puM;2;eka}/suKa{napuM;1;eka}/suKa{napuM;2;eka}	suKa{puM;2;eka}	kriyAviSeRaNam,9						
+9	asmi			as2{karwari;lat;u;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,7;sakarmaka	hUz					
+10	uRiwaH			uRiwa{puM;1;eka(vas1;kwa;vasaz;:BvAxiH)}/uRiwa{puM;1;eka(uR1;kwa;uRaz;:BvAxiH)}	uRiwa{puM;1;eka(vas1;kwa;vasaz;:BvAxiH)}	viXeya_viSeRaNam,14						
+11	puwra		puwra	puwra{puM;8;eka}	puwra{puM;8;eka}	samboXyaH,9	puwra					
+12	wvayA		wvayA	yuRmax{sarvanAma;3;eka}	yuRmax{sarvanAma;3;eka}	karwA,13	wumase					
+13	su-paripAliwaH		suparipAliwaH	su-paripAliwa{puM;1;eka(su-pAl1;kwa;pAlaz;:curAxiH)}	su-paripAliwa{puM;1;eka(su-pAl1;kwa;pAlaz;:curAxiH)}	viXeya_viSeRaNam,14	su-pari_pAl1yA_huA					
+14	(Bavawu)				BU{karwari,lot,pra,eka,parasmEpaxI{XAwuH BU} BvAxiH}	aBihiwa_karwA;sakarmaka						

@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	pariGa-bAhunA	5	pariGabAhunA	pariGa-bAhu{puM;3;eka}/bAhu{napuM;3;eka}	pariGa-bAhu{napuM;3;eka}	karaNam,10	pariGa-bAhu					
+2	mayA	4	mayA	asmax{sarvanAma;3;eka}	asmax{sarvanAma;3;eka}	karwA,10	muJase					
+3	nqpaweH	2	nqpaweH	nqpawi{puM;5;eka}/nqpawi{puM;6;eka}	nqpawi{puM;6;eka}	RaRTIsambanXaH,7	rAjA_ke					
+4	anXasya	1	anXasya	anXa{puM;6;eka}/anXa{napuM;6;eka}	anXa{napuM;6;eka}	viSeRaNam,3	anXe_ke					
+5	nAnA-Saswra-Awwa-jIviwAH	9	nAnASaswrAwwajIviwAH	nAnA-SaswrAwwa-jIvin{wal;swrI;1;bahu}/jIvin{wal;swrI;2;bahu}/nAnA-SaswrAwwa-jIviwa{puM;1;bahu(jIv1;kwa;jIvaz;:BvAxiH)}/nAnA-SaswrAwwa-jIviwA{swrI;1;bahu(jIv1;kwa;jIvaz;:BvAxiH)}/nAnA-SaswrAwwa-jIviwA{swrI;2;bahu(jIv1;kwa;jIvaz;:BvAxiH)}	nAnA-SaswrAwwa-jIviwa{puM;1;bahu(nAnA-SaswrAwwa-jIv1;kwa;jIvaz;:BvAxiH)}	viSeRaNam,7	nAnA-SaswrAwwa-jIviwa					
+6	sarve	8	sarve	sarva{sarvanAma;puM;1;bahu}/sarva{sarvanAma;napuM;1;xvi}/sarva{sarvanAma;napuM;2;xvi}/sarvA{sarvanAma;swrI;1;xvi}/sarvA{sarvanAma;swrI;2;xvi}	sarva{sarvanAma;puM;1;bahu}	viSeRaNam,7	saba					
+7	puwrAH	3	puwrA	puwra{puM;1;bahu}/puwra{puM;8;bahu}	puwra{puM;1;bahu}	karma,10	puwra					
+8	amum			axas{sarvanAma;puM;2;eka}	axas{sarvanAma;puM;2;eka}	viSeRaNam,9	axas_					
+9	lokam	7	lokamamuM	loka{puM;2;eka}	loka{puM;2;eka}	gONakarma,10	loka_ko					
+10	nIwAH	6	nIwA	nIwa{puM;1;bahu(NI1;kwa;NIF;:BvAxiH)}/nIwA{swrI;1;bahu(NI1;kwa;NIF;:BvAxiH)}/nIwA{swrI;2;bahu(NI1;kwa;NIF;:BvAxiH)}	nIwa{puM;1;bahu(NI1;kwa;NIF;:BvAxiH)}	aBihiwa_karma,7	nIwa					

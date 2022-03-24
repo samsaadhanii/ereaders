@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaw	1	yaccAhaM	yaw{avya}/yax{sarvanAma;napuM;1;eka}/yax{sarvanAma;napuM;2;eka}	yaw{avya}	sambanXaH,11						
+2	ca			ca{avya}	ca{avya}	sambanXaH,1	Ora					
+3	aham			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,11	mEM					
+4	pANdupuwreNa(pANdu-puwreRu)	2	pANdupuwreRu	pANdu-puwra{puM;7;bahu}/puwra{napuM;7;bahu}	pANdu-puwra{puM;7;bahu}	aXikaraNam,11	pIlA-puwroM_meM					
+5	guNavawsu	3	guNavawsu	guNa{mawup;puM;7;bahu}/guNa{mawup;napuM;7;bahu}	guNa{mawup;puM;7;bahu}	viSeRaNam,4						
+6	mahAwmasu	4	mahAwmasu	mahAwman{puM;7;bahu}/mahAwman{napuM;7;bahu}	mahAwman{puM;7;bahu}	viSeRaNam,4	mahAwmAoM_meM					
+7	imAm		imAm	ixam{sarvanAma;swrI;2;eka}	ixam{sarvanAma;swrI;2;eka}	viSeRaNam,8	isako					
+8	Sriyam			SrI{swrI;2;eka}	SrI{swrI;2;eka}	karma,11	SrI_ko					
+9	piwq-pEwAmahIm	8	piwqpEwAmahImimAm	piwq-pEwAmahI{swrI;2;eka}	piwq-pEwAmahI{swrI;2;eka}	viSeRaNam,8	piwA-pEwAmahI_ko					
+10	na	5	na	na{avya}	na{avya}	prawiReXaH,11	nahIM					
+11	xawwavAn	6	xawwavAFSriyam	axaxaw}	xawwavaw{puM;1;eka{kqxanwa}({kqw_XAwu xA1},kwavawu{XAwuH xAN} BvAxiH)}	aBihiwa_karwA,3;sakarmaka						
+12	xIpwAm	7	xIpwAm		xIpwA{swrI;2;eka}	viSeRaNam,8						

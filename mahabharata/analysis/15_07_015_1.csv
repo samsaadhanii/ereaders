@@ -1,0 +1,21 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mahA-BujaH	12	mahABujaH	mahA-Bu-ja{puM;1;eka}/Buja{puM;1;eka}	mahA-Buja{puM;1;eka}	viSeRaNam,3	gAya-hAWa					
+2	Xarma-puwraH	8	XarmapuwraH	Xarma-puwra{puM;1;eka}	Xarma-puwra{puM;1;eka}	viSeRaNam,3	Xarma-puwra					
+3	saH	9	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,11	usane					
+4	piwaram	10	piwaram	piwq{puM;2;eka}	piwq{puM;2;eka}	karma,5	piwA_ko					
+5	pariRvajya	11	pariRvajya	Rvanj1{avya;lyap;Rvanjaz;:BvAxiH}	pari_Rvanj1{avya;lyap;Rvanjaz;:BvAxiH}	samucciwaH,19	pari_Rvanj1_kara					
+6	Sokajam	13	Sokajam	Soka-ja{puM;2;eka}	Soka-ja{puM;2;eka}	viSeRaNam,7	Soka					
+7	bARpam	14	bARpamuwsqjya	bARpa{puM;2;eka}	bARpa{puM;2;eka}	karma,8	bARpa					
+8	uwsqjya			sqj2{avya;lyap;sqjaz;:wuxAxiH}	uw_sqj2{avya;lyap;sqjaz;:wuxAxiH}	samucciwaH,19	uw_sqj2_kara					
+9	punaH	15	punarvacanamabravIw	punaH{avya}	punaH{avya}	kriyAviSeRaNam,11	Pira					
+10	vacanam			vacana{napuM;1;eka}/vacana{napuM;2;eka}	vacana{napuM;2;eka}	karma,11	vacana_ko					
+11	abravIw			brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;:axAxiH}	brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;:axAxiH}	aBihiwa_karwA,3;sakarmaka	kahA					
+12	kqSam	2	kqSam	kqSa{puM;2;eka}/kqSa{napuM;1;eka}/kqSa{napuM;2;eka}	kqSa{puM;2;eka}	samucciwaH,16	xurbala_ko					
+13	vivarNam	3	vivarNam	vivarNa{puM;2;eka}/vivarNa{napuM;1;eka}/vivarNa{napuM;2;eka}	vivarNa{puM;2;eka}	samucciwaH,16	binA_raMga_ke_ko					
+14	awaWociwam			uciwa{puM;2;eka(uc1;kwa;ucaz;:xivAxiH)}/uciwa{napuM;1;eka(uc1;kwa;ucaz;:xivAxiH)}/uciwa{napuM;2;eka(uc1;kwa;ucaz;:xivAxiH)}	awaWociwa{puM;2;eka}	samucciwaH,16						
+15	upavAsa-pari-SrAnwam	6	upavAsapariSrAnwam	SrAw{puM;2;eka(vas1;GaF;vasaz;:BvAxiH-pari-SrA2;Sawq_lat;SrA;:axAxiH)}/SrAnwa{puM;2;eka}/SrAnwa{napuM;1;eka}/SrAnwa{napuM;2;eka}	upavAsa-pari-SrAnwa{puM;2;eka}	samucciwaH,16						
+16	wvagasWi-parivAriwam	7	wvagasWiparivAriwam	wvagasWi-parivAriwa{puM;2;eka}/parivAriwa{napuM;1;eka}/parivAriwa{napuM;2;eka}	wvagasWi-parivAriwa{puM;2;eka}	viSeRaNam,18	wvagasWi-parivAriwa_ko					
+17	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,16	Ora					
+18	rAjAnam	5	rAjAnamawaWociwam	rAjan{puM;2;eka}	rAjan{puM;2;eka}	karma,19	rAjA_ko					
+19	xqRtvA	1	xqRtvA	xqS1{avya;kwvA;xqSizr;:BvAxiH}	xqS1{avya;kwvA;xqSizr;:BvAxiH}	pUrvakAlaH,11						
+20	(ca)			ca{avya}	ca{avya}	samuccaya_xyowakaH,19	Ora					

@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kqwa-AhAraM	1	kqwAhAraM	kq3{kwa;dukqF;:wanAxiH}/kq2{kwa;kqF;:svAxiH}/kq1{kwa;kqF;:BvAxiH-AhAra;puM;2;eka}/AhAra{puM;2;eka(hq1;GaF;hqF;:BvAxiH)}	kq1kwa;kqF;:BvAxiH-AhAra;puM;2;eka}	viSeRaNam,11						
+2	kqwa-AhArAH	2	kqwAhArAH	kq3{kwa;dukqF;:wanAxiH}/kq2{kwa;kqF;:svAxiH}/kq1{kwa;kqF;:BvAxiH-AhAra;puM;1;bahu}/AhAra{puM;8;bahu}/AhAra{puM;1;bahu(hq1;GaF;hqF;:BvAxiH)}	kq1kwa;kqF;:BvAxiH-AhAra;puM;1;bahu}	viSeRaNam,6						
+3	sarve	3	sarve	sarva{sarvanAma;puM;1;bahu}/sarva{sarvanAma;napuM;1;xvi}/sarva{sarvanAma;napuM;2;xvi}/sarvA{sarvanAma;swrI;1;xvi}/sarvA{sarvanAma;swrI;2;xvi}	sarva{sarvanAma;puM;1;bahu}	viSeRaNam,6	saba					
+4	we	4	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	viSeRaNam,6	ve					
+5	vixura-AxayaH	5	vixurAxayaH	vixu-Axi{swrI;1;bahu}/ax2{Nijanwa;karwari;laf;ma;eka;parasmEpaxI;axaz;:axAxiH}/Axi{swrI;8;bahu}/Axi{puM;8;bahu}/Axi{puM;1;bahu}	vixura-Axi{puM;1;bahu}	viSeRaNam,6	hAWI_kA_lalAta-AxiyAz					
+6	pANdavAH	6	pANdavASca	pANdava{puM;1;bahu}/pANdava{puM;8;bahu}	pANdava{puM;1;bahu}	karwA,9	pANdava					
+7	ca			ca{avya}	ca{avya}	sambanXaH,6	Ora					
+8	kuru-SreRTam	7	kuruSreRTamupAwiRTanwa	kuru-SreRTa{puM;2;eka}/SreRTa{napuM;1;eka}/SreRTa{napuM;2;eka}	kuru-SreRTa{puM;2;eka}	viSeRaNam,11	kuru-SreRTa_ko					
+9	upAwiRTanwa(upAwiRTan)			upa_RWA1{karwari;laf;pra;bahu;parasmEpaxI;RWA;:BvAxiH}	upa_RWA1{karwari;laf;pra;bahu;parasmEpaxI;RWA;:BvAxiH}	aBihiwa_karwA,6;sakarmaka	rahe					
+10	waM	8	waM	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,11	usako					
+11	nqpam	9	nqpam	nqpa{puM;2;eka}	nqpa{puM;2;eka}	karma,9	rAjA_ko					

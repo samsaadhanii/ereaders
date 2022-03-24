@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ayam	1	ayam	ixam{sarvanAma;puM;1;eka}/aya{puM;2;eka}	ixam{sarvanAma;puM;1;eka}	viSeRaNam,4	yaha					
+2	hi	2	hi	hi{avya}	hi{avya}	sambanXaH,1	hi					
+3	vqxXaH	3	vqxXo	vqxXa{puM;1;eka}	vqxXa{puM;1;eka}	viSeRaNam,4	vqxXa					
+4	nqpawiH	4	nqpawirhawapuwro	nqpawi{puM;1;eka}	nqpawi{puM;1;eka}	karwA,11	rAjA					
+5	hawa-puwraH			hawa-puwra{puM;1;eka}	hawa-puwra{puM;1;eka}	aBexaH,4	han1-puwra					
+6	viSeRawaH	5	viSeRawaH	viSeRawaH{avya}/vi_SiR3{karwari;lat;pra;xvi;parasmEpaxI;SiRaz;:curAxiH}	viSeRawaH{avya}	kriyAviSeRaNam,11	viSeRawaH					
+7	na	6	nexaM	na{avya}	na{avya}	prawiReXaH,11	nahIM					
+8	ixaM			ixam{sarvanAma;napuM;1;eka}/ixam{sarvanAma;napuM;2;eka}	ixam{sarvanAma;napuM;1;eka}	viSeRaNam,9	isa					
+9	kqcCraM	7	kqcCraM	xuHKa{napuM;1;eka}/xuHKa{napuM;2;eka}	kqcCra{napuM;1;eka}	karma,11						
+10	cirawaraM	8	cirawaraM	cira{warap;puM;2;eka}/cira{warap;napuM;1;eka}/cira{warap;napuM;2;eka}	cira{warap;napuM;1;eka}	kriyAviSeRaNam,11	xIrGa					
+11	sahew(sahewa)	9	sahexiwi	Rah{karwari;viXilif;pra;eka;AwmanepaxI{XAwuH Rahaz} BvAxiH}	Rah{karwari;viXilif;pra;eka;AwmanepaxI{XAwuH Rahaz} BvAxiH}	vAkyakarma,15	ho					
+12	iwi			iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,11	EsA					
+13	mawiH	10	mawirmama	mawi{swrI;1;eka}	mawi{swrI;1;eka}	karwA,15	mawi					
+14	mama			asmax{sarvanAma;6;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,13	merI					
+15	(aswi)			as{karwari lat pra eka parasmEpaxI{XAwuH asaz} axAxiH}	as{karwari lat pra eka parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,13;sakarmakaH						

@@ -1,0 +1,25 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	AxAna-rucayaH	1	AxAnarucayaScEva	xA3{lyut;duxAF;:juhowyAxiH}/xE1{lyut;xEp;:BvAxiH-ruci;swrI;1;bahu}/ruci{swrI;8;bahu}/ruci{puM;8;bahu}/ruci{puM;1;bahu}	Af_xA3{lyut;duxAF;:juhowyAxiH;ruci{puM;1;bahu}}	samucciwaH,19						
+2	ca			ca{avya}	ca{avya}	sambanXaH,1	Ora					
+3	eva			eva{avya}	eva{avya}	sambanXaH,2	hI					
+4	para-xArA-aBimarSakAH	2	paraxArABimarSakAH	para-xArA-aBimarSaka{puM;8;bahu}	para-xArA-aBimarSaka{puM;1;bahu}	samucciwaH,19	bAxa-pawnI-aBimarSaka					
+5	ugra-xaNda-praXAnAH	3	ugraxaNdapraXAnASca	ugra-xaNda-praXAna{puM;8;bahu}/praXAna{puM;1;bahu}/praXAnA{swrI;8;bahu}/praXAnA{swrI;1;bahu}/praXAnA{swrI;2;bahu}	ugra-xaNda-praXAna{puM;1;bahu}	samucciwaH,19	krUra-xaNda-praXAna					
+6	ca			ca{avya}	ca{avya}	sambanXaH,5	Ora					
+7	miWyA	4	miWyA	miWyA{avya}	miWyA{avya}	karma,8	miWyA					
+8	vyA-hAriNaH	5	vyAhAriNaswaWA	vyA-hArin{puM;1;bahu}/hArin{puM;2;bahu}/hArin{puM;5;eka}/hArin{puM;6;eka}/hArin{napuM;5;eka}/hArin{napuM;6;eka}/hArin{puM;8;bahu}/hAri{napuM;5;eka}/hAri{napuM;6;eka}	vyA-hArin{puM;1;bahu}	samucciwaH,19	vyA-hArin					
+9	waWA			waWA{avya}	waWA{avya}	sambanXaH,8	vEse					
+10	AkroRtAraH	6	AkroRtAraSca	Af_kruS1{karwari;lut;pra;bahu;parasmEpaxI;kruSaz;:BvAxiH}/Af_kruS1{karmaNi;lut;pra;bahu;AwmanepaxI;kruSaz;:BvAxiH}/AkroRtq{puM;1;bahu(kruS1;wqc;kruSaz;:BvAxiH)}	Af_ kroRtq{puM;1;bahu{kqxanwa}({kqw_XAwu kruS1} wqc{XAwuH kruSaz} BvAxiH)}	samucciwaH,19	ninxA_kareMge					
+11	ca			ca{avya}	ca{avya}	sambanXaH,10	Ora					
+12	lubXAH	7	lubXASca	lubXa{puM;1;bahu}/lubXA{swrI;1;bahu}/lubXA{swrI;2;bahu}/lubXa{puM;8;bahu}	lubXa{puM;1;bahu}	samucciwaH,19	lAlacI					
+13	ca			ca{avya}	ca{avya}	sambanXaH,12	Ora					
+14	hanwAraH	8	hanwAraH	han1{karwari;lut;pra;bahu;parasmEpaxI;hanaz;:axAxiH}/han1{karmaNi;lut;pra;bahu;AwmanepaxI;hanaz;:axAxiH}/hanwq{puM;8;bahu}/hanwq{puM;1;bahu(han1;wqc;hanaz;:axAxiH)}	hanwq{puM;1;bahu}	samucciwaH,19	mAreMge					
+15	sAhasa-priyAH	9	sAhasapriyAH	sAhasa-pq1{karwari;ASIrlif;ma;eka;parasmEpaxI;pq;:juhowyAxiH}/pq2{karwari;ASIrlif;ma;eka;parasmEpaxI;pq;:svAxiH}/pQ1{karwari;ASIrlif;ma;eka;parasmEpaxI;pQ;:juhowyAxiH}/priya{puM;8;bahu}/priya{puM;1;bahu}/priyA{swrI;8;bahu}/priyA{swrI;1;bahu}/priyA{swrI;2;bahu}	sAhasa-priya{puM;1;bahu}	samucciwaH,19	wqpwa_karo					
+16	saBA-vihAra-BewwAraH	10	saBAvihAraBewwAro	saBA-hq1{GaF;hqF;:BvAxiH-Bix1;karwari;lut;pra;bahu;parasmEpaxI;Bixizr;:ruXAxiH}/Bix1{karwari;lut;pra;bahu;AwmanepaxI;Bixizr;:ruXAxiH}/saBA-Bewwq{puM;1;bahu(Bix1;wqc;Bixizr;:ruXAxiH)}	saBA-vi_hq1{GaF;hqF;:BvAxiH-BewwqpuM;1;bahu(Bix1;wqc;Bixizr;:ruXAxiH)}	samucciwaH,19						
+17	varNAnAm	11	varNAnAm	varNa{puM;6;bahu}/varNa{napuM;6;bahu}	varNa{puM;6;bahu}	RaRTIsambanXaH,19	varNoM_ke					
+18	ca	12	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,19	Ora					
+19	praxURakAH	13	praxURakAH	praxURakAH}	praxURakAH{puM;1;bahu}	karma,23						
+20	hiraNya-xaNdyAH	14	hiraNyaxaNdyA	hiraNya-xaNdyA{swrI;1;bahu(hiraNya-xaNda1;yaw;xaNda;:curAxiH)}	hiraNya-xaNdyA{swrI;1;bahu(hiraNya-xaNda1;yaw;xaNda;:curAxiH)}	samucciwaH,21	sunaharI-					
+21	vaXyAH	15	vaXyASca	vaXya{puM;1;bahu}/vaXyA{swrI;1;bahu}/vaXyA{swrI;2;bahu}/han1{karwari;ASIrlif;ma;eka;parasmEpaxI;hanaz;:axAxiH}/vaXya{puM;8;bahu}/vaXyA{swrI;8;bahu}	vaXya{puM;1;bahu}	karmasamAnAXikaraNam,23	mArane_yogya					
+22	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,21	Ora					
+23	karwavyAH	16	karwavyAH	karwavyA{swrI;1;eka(kq3;wavyaw;dukqF;:wanAxiH)}/karwavyA{swrI;1;eka(kq2;wavyaw;kqF;:svAxiH)}/karwavyA{swrI;1;eka(kq1;wavyaw;kqF;:BvAxiH)}	karwavya{puM;1;bahu{kqxanwa}({kqw_XAwu kq3} wavyaw{XAwuH dukqF} wanAxiH)}	aBihiwa_karma,23						
+24	xeSa-kAlawaH	17	xeSakAlawaH	xeSa-kAla{avya;wasil}	xeSa-kAla{avya;wasil}	hewuH,23	xeSa-					

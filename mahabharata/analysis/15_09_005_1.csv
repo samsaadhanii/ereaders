@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	gAnXArI	1	gAnXArI	gAnXArI{swrI;1;eka}/gAnXAri{puM;1;xvi}/gAnXAri{puM;2;xvi}/gAnXAri{puM;8;xvi}	gAnXArI{swrI;1;eka}	karwA,11	gAnXArI					
+2	ca	2	cEva	ca{avya}	ca{avya}	sambanXaH,1	Ora					
+3	eva			eva{avya}	eva{avya}	sambanXaH,1	hI					
+4	XarmajFA	3	XarmajFA	XarmajFA{swrI;1;eka}	XarmajFA{swrI;1;eka}	viSeRaNam,1	XarmajFA					
+5	kunwyA	4	kunwyA	kunwI{swrI;3;eka}	kunwI{swrI;3;eka}	sahArWaH,11	kunwI_se					
+6	saha	5	saha	saha{avya}	saha{avya}	sahArWa_xyowakaH,5	sAWa					
+7	manasvinI	6	manasvinI	manasvinI{swrI;1;eka}	manasvinI{swrI;1;eka}	viSeRaNam,1	manasvinI					
+8	vaXUBiH	7	vaXUBirupacAreNa	vaXU{swrI;3;bahu}	vaXU{swrI;3;bahu}	karwA,10	bahuoM_se					
+9	upacAreNa			upacAra{puM;3;eka}	upacAra{puM;3;eka}	karaNam,10	upacAra_se					
+10	pUjiwA	8	pUjiwABufkwa	pUj1{karmaNi;lut;pra;eka;AwmanepaxI;pUjaz;:curAxiH}/pUjiwA{swrI;1;eka(pUj1;kwa;pUjaz;:curAxiH)}	pUjiwAswrI;1;eka(pUj1;kwa;pUjaz;:curAxiH)}	viSeRaNam,1	pUjA_kI					
+11	aBufkwa			A-Buj2{karwari;lot;ma;bahu;parasmEpaxI;Bujaz;:ruXAxiH}	Buj{karwari;laf;pra;eka;AwmanepaxI{XAwuH Bujaz} ruXAxiH}	aBihiwa_karwA,1;sakarmaka	saMrakRaNa_karo					
+12	BArawa	9	BArawa	BArawa{puM;8;eka}	BArawa{puM;8;eka}	samboXyaH,11	BArawa					

@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	waxA	7	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,11	waba					
+2	AnqSaMsya-paraH	1	AnqSaMsyaparo	AnqSaMsya-para{sarvanAma;puM;1;eka}/para{puM;1;eka}	AnqSaMsya-para{puM;1;eka}	viSeRaNam,7	AnqSaMsya-para					
+3	prIyamANaH	3	prIyamANo	prIyamANa{puM;1;eka(prI1;SAnac_lat;karwari;prIf;:xivAxiH)}/prIyamANa{puM;1;eka(prI1;SAnac_lat;karmaNi;prIf;:xivAxiH)}/prIyamANa{puM;1;eka(prI2;SAnac_lat;karwari;prIF;:kryAxiH)}/prIyamANa{puM;1;eka(prI2;SAnac_lat;karmaNi;prIF;:kryAxiH)}	prIyamANa{puM;1;eka(prI2;SAnac_lat;karmaNi;prIF;:kryAxiH)}	viSeRaNam,7						
+4	saH	6	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,7	vaha					
+5	mahIpawiH	9	mahIpawiH	mahIpawi{puM;1;eka}	mahIpawi{puM;1;eka}	viSeRaNam,7	rAjA					
+6	rAjA	2	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	viSeRaNam,7	rAjA					
+7	yuXiRTiraH	4	yuXiRTiraH	yuXiRTira{puM;1;eka}	yuXiRTira{puM;1;eka}	karwA,11	yuXiRTira					
+8	BrAwQn	8	BrAwQnamAwyAMSca	BrAwq{puM;2;bahu}	BrAwq{puM;2;bahu}	samucciwaH,9	BAiyoM_ko					
+9	amAwyAn			amAwya{puM;2;bahu}	amAwya{puM;2;bahu}	muKyakarma,11	amAwyoM_ko					
+10	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,9	Ora					
+11	uvAca	5	uvAca	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}/vac1{karwari;lit;u;eka;parasmEpaxI;vacaz;:axAxiH}	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}	aBihiwa_karwA,7;sakarmaka	bolA					

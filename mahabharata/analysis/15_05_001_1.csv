@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kuru-kRayaH	4	kurukRayaH	kuru-kRi{puM;8;bahu}/kRi{puM;1;bahu}/kRaya{puM;1;eka}	kuru-kRaya{puM;1;eka}	viSeRaNam,2	kuru-kRi					
+2	vqwwaH	3	vqwwaH	vqw{avya;wasil}/vqwwa{puM;1;eka(vqw1;kwa;vqwuz;:BvAxiH)}/vqwwa{puM;1;eka(vqw2;kwa;vqwuz;:xivAxiH)}	vqwwa{puM;1;eka(vqw2;kwa;vqwuz;:xivAxiH)}	vAkyakarma,11???						
+3	BavawAm	2	BavawAmewaxyaWA	Bavaw{sarvanAma;puM;6;bahu}/BU1{karwari;lot;pra;xvi;parasmEpaxI;BU;:BvAxiH}/Bavaw{puM;6;bahu}	Bavaw{sarvanAma;puM;6;bahu}	RaRTIsambanXaH,6	ApakA					
+4	ewaw			ewax{sarvanAma;napuM;1;eka}/ewax{sarvanAma;napuM;2;eka}	ewax{sarvanAma;napuM;1;eka}	karma,6???	yaha					
+5	yaWA			yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,2	jEse				niwya_sambanXaH,7	
+6	vixiwam	1	vixiwam	vixiwa{puM;2;eka(vix1;kwa;vixaz;:axAxiH)}/vixiwa{napuM;1;eka(vix1;kwa;vixaz;:axAxiH)}/vixiwa{napuM;2;eka(vix1;kwa;vixaz;:axAxiH)}	vixiwa{puM;2;eka(vix1;kwa;vixaz;:axAxiH)}	aBihiwa_karma,2						
+7	waw			waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waw{sarvanAma;napuM;2;eka}	viSeRaNam,8					niwya_sambanXaH,5	
+8	sarvam			sarva{sarvanAma;puM;2;eka}/sarva{sarvanAma;napuM;1;eka}/sarva{sarvanAma;napuM;2;eka}	sarva{sarvanAma;napuM;2;eka}	karma,14	saba_ko					
+9	mama	5	mamAparAXAwwawsarvamiwi	asmax{sarvanAma;6;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,10	merA					
+10	aparAXAw			aparAXa{puM;5;eka}	aparAXa{puM;5;eka}	hewuH,2	aparAXa_se					
+11	iwi			iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,4	EsA					
+12	kOravAH(kOravEH)	8	kOravAH	kOrava{puM;1;bahu}/kOrava{puM;8;bahu}	kOrava{puM;3;bahu}	karwA,14	kOrava					
+13	wu	7	wu	wu{avya}	wu{avya}	sambanXaH,12	wo					
+14	jFeyam	6	jFeyam	jFeya{puM;2;eka}/jFeya{puM;2;eka(jFA1;yaw;jFA;:BvAxiH)}/jFeya{napuM;1;eka(jFA1;yaw;jFA;:BvAxiH)}/jFeya{napuM;2;eka(jFA1;yaw;jFA;:BvAxiH)}	jFeya{napuM;2;eka,(jFA1;yaw;jFA;:BvAxiH)}	aBihiwa_karma,8	jFeya_ko					

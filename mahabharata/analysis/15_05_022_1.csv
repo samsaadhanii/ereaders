@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vIra	9	vIra	vIra{puM;8;eka}/vIra{napuM;8;eka}	vIra{puM;8;eka}	samboXyaH,15	vIra					
+2	wawra	1	wawrAhaM	wawra{avya}	wawra{avya}	xeSAXikaraNam,15	vahAz					
+3	aham			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,15	mEM					
+4	vAyu-BakRaH	2	vAyuBakRo	vAyu-BakRa{puM;1;eka(vAyu-BakR2;GaF;BakRaz;:curAxiH)}/vAyu-BakRa{puM;1;eka(BakR1;GaF;BakRaz;:BvAxiH)}	vAyu-BakRa{puM;1;eka(vAyu-BakR1;GaF;BakRaz;:BvAxiH)}	anyawaraH,6	havA-					
+5	vA	3	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,4	vA					
+6	nirAhAraH	4	nirAhAroZpi	nirAhAra{puM;1;eka}	nirAhAra{puM;1;eka}	viSeRaNam,3	nirAhAra					
+7	api			api{avya}	api{avya}	sambanXaH,6	BI					
+8	vA	5	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,6	vA					
+9	saha	8	sahAnayA	saha{avya}	saha{avya}	sahArWa_xyowakaH,11	sAWa					
+10	anayA			ixam{sarvanAma;swrI;3;eka}	ixam{sarvanAma;swrI;3;eka}	viSeRaNam,11	isase					
+11	pawnyA	7	pawnyA	pawnI{swrI;3;eka}	pawnI{swrI;3;eka}	sahArWaH,15	pawnI_se					
+12	vasan	6	vasan	vasaw{puM;1;eka(vas1;Sawq_lat;vasaz;:BvAxiH)}	vasaw{puM;1;eka(vas1;Sawq_lat;vasaz;:BvAxiH)}	varwamAnasamAnakAlaH,15	rahawA_huA					
+13	param	12	param	param{avya}/para{puM;2;eka}/para{napuM;1;eka}/para{napuM;2;eka}/para{sarvanAma;puM;2;eka}/para{sarvanAma;napuM;1;eka}/para{sarvanAma;napuM;2;eka}	para{sarvanAma;napuM;2;eka}	viSeRaNam,14	para_ko					
+14	wapaH	11	wapaH	wapa{puM;1;eka}/wapas{napuM;1;eka}/wapas{napuM;2;eka}/wapas{napuM;8;eka}	wapas{napuM;2;eka}	karma,15	wapa					
+15	cariRyAmi	10	cariRyAmi	car1{karwari;lqt;u;eka;parasmEpaxI;caraz;:BvAxiH}	car1{karwari;lqt;u;eka;parasmEpaxI;caraz;:BvAxiH}	aBihiwa_karwA,3;sakarmaka	GUmUzgA					

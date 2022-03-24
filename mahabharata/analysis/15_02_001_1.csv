@@ -1,0 +1,10 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	pANdavEH			pANdava{puM;3;bahu}/pANdava{napuM;3;bahu}	pANdava{napuM;3;bahu}	karwA,3	pANdavoM_se					
+2	evaM	1	evaM	evam{avya}	evam{avya}	kriyAviSeRaNam,1	EsA					
+3	sam-pUjiwaH	2	sampUjiwo	sam-pUjiwa{puM;1;eka(sam-pUj1;kwa;pUjaz;:curAxiH)}	sam-pUjiwa{puM;1;eka(sam-pUj1;kwa;pUjaz;:curAxiH)}	viSeRaNam,5	sam-pUjiwa					
+4	rAjA	3	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	viSeRaNam,5	rAjA					
+5	ambikA-suwaH	4	pANdavErambikAsuwaH	ab1{Nvul;abiz;:BvAxiH-Ru2;karwari;lat;pra;xvi;parasmEpaxI;Ru;:axAxiH}/suwa{puM;1;eka(Ru3;kwa;RuF;:svAxiH)}/suwa{puM;1;eka(Su1;kwa;Su;:BvAxiH)}/suwa{puM;1;eka(Ru2;kwa;Ru;:axAxiH)}/suwa{puM;1;eka}	suwa-suwa{puM;1;eka(suwa-Ru2;kwa;Ru;:axAxiH)}	karwA,9	puwra-puwra					
+6	qRiBiH	6	yaWApUrvamqRiBiH	qRi{puM;3;bahu}	qRi{puM;3;bahu}	karwA,7	qRiyoM_ke_xvArA					
+7	pari-upAsiwaH	7	paryupAsiwaH	pari-upAsiwa{puM;1;eka(pari-As1;kwa;Asaz;:axAxiH)}	pari-upAsiwa{puM;1;eka(pari-As1;kwa;Asaz;:axAxiH)}	viSeRaNam,5	pari-upAsanA_kiyA_huA					
+8	yaWA-pUrvaM			yaWApUrvaM{avya}	yaWApUrvaM{avya}	kriyAviSeRaNam,9	jEse					
+9	vijahAra	5	vijahAra	vi_hq1{karwari;lit;pra;eka;parasmEpaxI;hqF;:BvAxiH}/vi_hq1{karwari;lit;u;eka;parasmEpaxI;hqF;:BvAxiH}	vi_hq1{karwari;lit;pra;eka;parasmEpaxI;hqF;:BvAxiH}	aBihiwa_karwA,5;sakarmaka	vi_hq1_pp_skyA					

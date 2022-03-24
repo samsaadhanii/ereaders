@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wawaH	1	wawoZbravInmahArAja	wawaH{avya}	wawaH{avya}	kAlAXikaraNam,2	vahAz_se					
+2	abravIw			brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;:axAxiH}	brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;:axAxiH}	aBihiwa_karwA,10;sakarmaka	kahA					
+3	mahArAja			mahArAja{puM;8;eka}	mahArAja{puM;8;eka}	samboXyaH,2	mahArAja					
+4	kunwI-puwram	2	kunwIpuwramupahvare	kunwI-puwra{puM;2;eka}/puwra{napuM;1;eka}/puwra{napuM;2;eka}	kunwI-puwra{napuM;2;eka}	karma,2	kunwI-puwra_se					
+5	upahvare			upahvara{puM;7;eka}	upahvara{puM;7;eka}	xeSAXikaraNam,2	upahvara_meM					
+6	niRaNNam	3	niRaNNam	niRaNNa{puM;2;eka(Rax1;kwa;RaxLz;:BvAxiH)}/niRaNNa{napuM;1;eka(Rax1;kwa;RaxLz;:BvAxiH)}/niRaNNa{napuM;2;eka(Rax1;kwa;RaxLz;:BvAxiH)}	niRaNNa{napuM;2;eka(Rax1;kwa;RaxLz;:BvAxiH)}	viSeRaNam,4	NWyA_huA					
+7	pANinA	4	pANinA	pANi{puM;3;eka}	pANi{puM;3;eka}	karaNam,9	hAWa_ke_xvArA					
+8	pqRTe	5	pqRTe	pqRTa{napuM;1;xvi}/pqRTa{napuM;2;xvi}/pqRTa{napuM;8;xvi}/pqRTa{napuM;7;eka}	pqRTa{napuM;2;xvi}	xeSAXikaraNam,9	pqRTa					
+9	saM-spqSan	6	saMspqSannambikAsuwaH	sam_spqSaw{puM;1;eka(saM-spqS1;Sawq_lat;spqSaz;:wuxAxiH)}	sam_spqSaw{puM;1;eka(saM-spqS1;Sawq_lat;spqSaz;:wuxAxiH)}	varwamAnasamAnakAlaH,2	saM-CUwA_huA					
+10	ambikA-suwaH			ambikA-suwa{puM;1;eka(Ru3;kwa;RuF;:svAxiH)}/suwa{puM;1;eka(Su1;kwa;Su;:BvAxiH)}/suwa{puM;1;eka(Ru2;kwa;Ru;:axAxiH)}/suwa{puM;1;eka}	ambikA-suwa{puM;1;eka(suwa-Ru2;kwa;Ru;:axAxiH)}	karwA,2	puwra-puwra_ne					

@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	BArawa	5	BArawa	BArawa{puM;8;eka}	BArawa{puM;8;eka}	samboXyaH,13	BArawa					
+2	kOnweyaH	2	kOnweyaH	kOnweya{puM;1;eka}	kOnweya{puM;1;eka}	karwA,13	kOnweya					
+3	wu			wu{avya}	wu{avya}	sambanXaH,2	wo					
+4	jyeRTena	4	jyeRTena	jyeRTa{puM;3;eka}/jyeRTa{napuM;3;eka}	jyeRTa{puM;3;eka}	viSeRaNam,5	jyeRTa					
+5	piwrA	3	piwrA	piwq{puM;3;eka}	piwq{puM;3;eka}	karwA,7	piwA_ke_xvArA					
+6	evam	1	evamukwaswu	evam{avya}	evam{avya}	kriyAviSeRaNam,7	EsA					
+7	ukwaH			ukwa{puM;1;eka(vac1;kwa;vacaz;:axAxiH)}	ukwa{puM;1;eka(vac1;kwa;vacaz;:axAxiH)}	viSeRaNam,2	kahA_huvA					
+8	waxA			waxA{avya}	waxA{avya}	kAlAXikaraNam,13	waba					
+9	SanEH	9	SanEswaxA	SanEH{avya}	SanEH{avya}	kriyAviSeRaNam,13	XIre					
+10	wam			wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	karma,13	usako					
+11	sarva-gAwreRu	7	sarvagAwreRu	sarva-gAwra{puM;7;bahu}/gAwra{napuM;7;bahu}	sarva-gAwra{napuM;7;bahu}	aXikaraNam,13	saba-SarIroM_meM					
+12	sOhArxAw	8	sOhArxAwwaM	sOhArxa{puM;5;eka}/sOhArxa{napuM;5;eka}	sOhArxa{napuM;5;eka}	hewuH,13	mEwrI_se					
+13	pasparSa	6	pasparSa	spqS1{karwari;lit;u;eka;parasmEpaxI;spqSaz;:wuxAxiH}/spqS1{karwari;lit;pra;eka;parasmEpaxI;spqSaz;:wuxAxiH}	spqS1{karwari;lit;pra;eka;parasmEpaxI;spqSaz;:wuxAxiH}	aBihiwa_karwA,2;sakarmaka	CuA					

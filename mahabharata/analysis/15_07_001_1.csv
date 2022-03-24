@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	rAjIva-locana	11	rAjIvalocana	rAjIva{puM;8;eka}/rAjIva{napuM;8;eka}	rAjIva{puM;8;eka}	samboXyaH,13	hariNa					
+2	pANdava	7	pANdava	pANdava{puM;8;eka}/pANdava{napuM;8;eka}	pANdava{puM;8;eka}	samboXyaH,9	pANdava					
+3	BUyaH	4	BUyaH	BUyaH{avya}/BUyas{napuM;1;eka}/BUyas{napuM;2;eka}/BUyas{napuM;8;eka}	BUyas{napuM;8;eka}	kriyAviSeRaNam,9	bahuwa					
+4	iva			iva{avya}	iva{avya}	sambanXaH,11	jEse					
+5	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	BI					
+6	pANinA	3	pANinA	pANi{puM;3;eka}	pANi{puM;3;eka}	karaNam,9	hAWa_se					
+7	pariRvaja	5	pariRvaja	pariRu-aj1{karwari;lot;ma;eka;parasmEpaxI;ajaz;:BvAxiH}/a-ja{puM;8;eka}/aja{puM;8;eka}/aja{napuM;8;eka}	pari-Rvanja1{karwari;lot;ma;eka;parasmEpaxI;ajaz;:BvAxiH}	samucciwaH,9	pariRu-bakarA					
+8	mAm	2	mAm	asmax{sarvanAma;2;eka}	asmax{sarvanAma;2;eka}	karma,7	muJe					
+9	spqSa	1	spqSa	spqS1{karwari;lot;ma;eka;parasmEpaxI;spqSaz;:wuxAxiH}	spqS1{karwari;lot;ma;eka;parasmEpaxI;spqSaz;:wuxAxiH}	aBihiwa_karwA	Cuo					
+10	wava			yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,11	wumhAre					
+11	saMsparSAw	10	saMsparSAwwava	sparSa{puM;5;eka}	sparSa{puM;5;eka}	hewuH,13	CUne_se					
+12	hi	9	hi	hi{avya}	hi{avya}	sambanXaH,11	hi					
+13	jIvAmi	8	jIvAmIva	jIv1{karwari;lat;u;eka;parasmEpaxI;jIvaz;:BvAxiH}	jIv1{karwari;lat;u;eka;parasmEpaxI;jIvaz;:BvAxiH}	aBihiwa_karwA,0	jIwA_hUz					

@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	syAlaH	1	syAlo	syAla{puM;1;eka}	syAla{puM;1;eka}	karwA,16	syAla					
+2	xroNasya	2	xroNasya	xroNa{puM;6;eka}/xroNa{napuM;6;eka}	xroNa{puM;6;eka}	RaRTIsambanXaH,1	xroNa_kA					
+3	yaH	3	yaScEko	yax{sarvanAma;puM;1;eka}	yax{sarvanAma;puM;1;eka}	viSeRaNam,1	jo				niwya_sambanXaH,9	
+4	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora					
+5	ekaH			eka{saMKyeyam;puM;1;eka}	eka{saMKyeyam;puM;1;eka}	samucciwaH,8	eka					
+6	xayiwaH	4	xayiwo	xayiwa{puM;1;eka(xay1;kwa;xayaz;:BvAxiH)}	xayiwa{puM;1;eka(xay1;kwa;xayaz;:BvAxiH)}	samucciwaH,8	xAna-xiyA_huA					
+7	brAhmaNaH	5	brAhmaNo	brAhmaNa{puM;1;eka}	brAhmaNa{puM;1;eka}	samucciwaH,8	brAhmaNa					
+8	mahAn	6	mahAn	maha{puM;2;bahu}/mahaw{puM;1;eka}	maha{puM;1;bahu}	viSeRaNam,1	uwsavoM_ko					
+9	saH	7	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,13	vaha				niwya_sambanXaH,3	
+10	ca	8	ca	ca{avya}	ca{avya}	sambanXaH,3	Ora					
+11	wasmin	9	wasminmaheRvAsaH	wax{sarvanAma;napuM;7;eka}/wax{sarvanAma;puM;7;eka}	wax{sarvanAma;puM;7;eka}	aXikaraNam,14	usameM					
+12	maheRvAsaH			maheRvAsa{puM;1;eka}	maheRvAsa{puM;1;eka}	viSeRaNam,13	badZA_XanurXara					
+13	kqpaH	10	kqpaH	kqpa{puM;1;eka}	kqpa{puM;1;eka}	karwA,14	kqpAcArya					
+14	samaBavaw	11	samaBavawwaxA	sam_BU1{karwari;laf;pra;eka;parasmEpaxI;BU;:BvAxiH}	sam_BU1{karwari;laf;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,13	samBava_huA					
+15	waxA			waxA{avya}	waxA{avya}	sambanXaH,14	waba					
+16	(AsIw)			as{karwari;laf;pra;eka;parasmEpaxI;asaz;axAxiH}	as{karwari;laf;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,1						

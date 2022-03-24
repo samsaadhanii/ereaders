@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aWa	1	aWa	aWa{avya}	aWa{avya}	sambanXaH,12	Ora					
+2	amarRaNaH			amarRaNa{puM;1;eka}	amarRaNa{puM;1;eka}	viSeRaNam,3	amarRaNa_ne					
+3	BImaH	2	BImaH	BIma{puM;1;eka}	BIma{puM;1;eka}	karwA,12	BIma					
+4	waWA	5	waWAkarow	waWA{avya}	waWA{avya}	sambanXaH,12	vEse					
+5	XqwarARtrasya	7	XqwarARtrasya	XqwarARtra{puM;6;eka}	XqwarARtra{puM;6;eka}	samucciwaH,6	XqwarARtra_kI					
+6	gAnXAryAH	8	gAnXAryAScApyamarRaNaH	gAnXArI{swrI;5;eka}/gAnXArI{swrI;6;eka}	gAnXArI{swrI;6;eka}	RaRTIsambanXaH,9	gAnXArI_ke					
+7	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,6	BI					
+8	api			api{avya}	api{avya}	sambanXaH,7	BI					
+9	saMSrave	6	saMSrave	saMSrava{puM;7;eka}	saMSrava{puM;7;eka}	aXikaraNam,12	XyAnapUrvaka_sunane_meM					
+10	suhqn-maXye	3	suhqnmaXye	suhqn-maXya{puM;7;eka}	suhqn-maXya{puM;7;eka}	aXikaraNam,12	suhqn-maXya_meM					
+11	bAhu-Sabxam	4	bAhuSabxam	bAhu-Sabxa{puM;2;eka}/Sabxa{napuM;1;eka}/Sabxa{napuM;2;eka}	bAhu-Sabxa{napuM;2;eka}	karma,12	BujA-Sabxa_ko					
+12	akarow			kq3{karwari;laf;pra;eka;parasmEpaxI;dukqF;:wanAxiH}	kq3{karwari;laf;pra;eka;parasmEpaxI;dukqF;:wanAxiH}	aBihiwa_karwA,3;sakarmaka	kiyA					

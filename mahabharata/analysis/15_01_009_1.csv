@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	SayanAni	1	SayanAni	Sayana{napuM;1;bahu}/Sayana{napuM;2;bahu}/Sayana{napuM;1;bahu(SI1;lyut;SIf;:axAxiH)}/Sayana{napuM;2;bahu(SI1;lyut;SIf;:axAxiH)}/Sayana{napuM;1;bahu(Si1;lyut;SiF;:svAxiH)}/Sayana{napuM;2;bahu(Si1;lyut;SiF;:svAxiH)}	Sayana{napuM;2;bahu}	samucciwaH,9	sone					
+2	mahArhANi	2	mahArhANi	mahArha{napuM;1;bahu}/mahArha{napuM;2;bahu}	mahArha{napuM;2;bahu}	samucciwaH,9	awimUlyavAn					
+3	vAsAMsi	3	vAsAMsyABaraNAni	vAsas{napuM;1;bahu}/vAsas{napuM;2;bahu}/vAsas{napuM;8;bahu}	vAsas{napuM;2;bahu}	samucciwaH,9	vaswra					
+4	ABaraNAni			ABaraNa{napuM;1;bahu}/ABaraNa{napuM;2;bahu}	ABaraNa{napuM;2;bahu}	samucciwaH,9	ABaraNa					
+5	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	Ora					
+6	rAjArhANi	5	rAjArhANi	rAjArha{napuM;1;bahu}/rAjArha{napuM;2;bahu}	rAjArha{napuM;2;bahu}	viSeRaNam,9	agara_kI_lakadZI					
+7	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,4	Ora					
+8	sarvANi	7	sarvANi	sarva{sarvanAma;napuM;1;bahu}/sarva{sarvanAma;napuM;2;bahu}/Rarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;:BvAxiH}/sarvANI{swrI;8;eka}	sarva{sarvanAma;napuM;2;bahu}	viSeRaNam,6	saba					
+9	BakRya-BojyAni	8	BakRyaBojyAnyanekaSaH	BakR2{yaw;BakRaz;:curAxiH}/BakR2{Nyaw;BakRaz;:curAxiH}/BakR1{yaw;BakRaz;:BvAxiH}/BakR1{Nyaw;BakRaz;:BvAxiH-Bojya;napuM;8;bahu}/Bojya{napuM;1;bahu(Buj2;Nyaw;Bujaz;:ruXAxiH)}/Bojya{napuM;2;bahu(Buj2;Nyaw;Bujaz;:ruXAxiH)}/Bojya{napuM;1;bahu(Buj1;yaw;Bujoz;:wuxAxiH)}/Bojya{napuM;2;bahu(Buj1;yaw;Bujoz;:wuxAxiH)}/Bojya{napuM;1;bahu(Buj1;Nyaw;Bujoz;:wuxAxiH)}/Bojya{napuM;2;bahu(Buj1;Nyaw;Bujoz;:wuxAxiH)}	Bojya-BakR2{yaw;BakRaz;:curAxiH}Bojya;napuM;2;bahu}	karma,14						
+10	anekaSaH			anekaSaH{avya}	anekaSaH{avya}	viSeRaNam,9	anekaSaH					
+11	yuXiRTiraH	9	yuXiRTiro	yuXiRTira{puM;1;eka}	yuXiRTira{puM;1;eka}	karwA,14	yuXiRTira					
+12	mahArAjaH	10	mahArAja	mahArAja{puM;8;eka}	mahArAja{puM;1;eka}	viSeRaNam,11	mahArAja					
+13	XqwarARtre	11	XqwarARtreZByupAharaw	XqwarARtra{puM;7;eka}	XqwarARtra{puM;7;eka}	aXikaraNam,14	XqwarARtra_meM					
+14	aByupAharaw			upa_hq1{karwari;laf;pra;eka;parasmEpaxI;hqF;:BvAxiH}/upa_Af_hq1karwari;laf;pra;eka;parasmEpaxI;hqF;:BvAxiH}/upAharawnapuM;1;eka(hq1;Sawq_lat;hqF;:BvAxiH)}/upAharawnapuM;2;eka(hq1;Sawq_lat;hqF;:BvAxiH)}	aBi_upa_Af_hq1{karwari;laf;pra;eka;parasmEpaxI;hqF;:BvAxiH}	aBihiwa_karwA,11;sakarmaka	BeMta_xiyA					

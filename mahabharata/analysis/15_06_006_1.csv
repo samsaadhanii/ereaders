@@ -1,0 +1,21 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	naH	6	naH	asmax{sarvanAma;2;bahu}/asmax{sarvanAma;4;bahu}/asmax{sarvanAma;6;bahu}/nq{puM;8;eka}	asmax{sarvanAma;6;bahu}	RaRTIsambanXaH,3	hameM					
+2	BavAn	1	BavAn	Bava{puM;2;bahu}/Bavaw{sarvanAma;puM;1;eka}	Bava{puM;1;eku}	karwA,18	saMsAra_ko					
+3	piwA	2	piwA	piwq{puM;1;eka}/piwA{swrI;1;eka}	piwq{puM;1;eka}	viXeya_viSeRaNam,2	piwA					
+4	BavAn	3	BavAn	Bava{puM;2;bahu}/Bavaw{sarvanAma;puM;1;eka}	Bava{puM;1;eku}	karwA,19	saMsAra_ko					
+5	mAwA	4	mAwA	mAwq{swrI;1;eka}	mAwq{swrI;1;eka}	viXeya_viSeRaNam,4	mAwA					
+6	BavAn	5	BavAn	Bava{puM;2;bahu}/Bavaw{sarvanAma;puM;1;eka}	Bava{puM;1;eku}	karwA,20	saMsAra_ko					
+7	paramaH	7	paramo	parama{puM;1;eka}	parama{puM;1;eka}	viSeRaNam,8	parama					
+8	guruH	8	guruH	guru{puM;1;eka}	guru{puM;1;eka}	viXeya_viSeRaNam,6	guru					
+9	vayam	15	vayam	asmax{sarvanAma;1;bahu}	asmax{sarvanAma;1;bahu}	karwA,15	hama					
+10	hi	11	hi	hi{avya}	hi{avya}	sambanXaH,9	hi					
+11	BavawA	9	BavawA	Bavaw{sarvanAma;puM;3;eka}/Bavaw{puM;3;eka}	Bavaw{sarvanAma;puM;3;eka}	karwA,12	Apase					
+12	vipra-hInAH	10	viprahINA	vipra-hInA{swrI;1;eka(vipra-hA2;kwa;ozhAk;:juhowyAxiH)}	vipra-hInA{puM;1;bahu(vipra-hA2;kwa;ozhAk;:juhowyAxiH)}	viSeRaNam,9	brAhmaNa-hIna					
+13	kva	12	kva	kva{avya}	kva{avya}	xeSAXikaraNam,15	kahAz					
+14	nu	13	nu	nu{avya}	nu{avya}	sambanXaH,13	nu					
+15	wiRTAmahe(wiRTAmaH)	14	wiRTAmaH	RWA1{karwari;lot;u;bahu;parasmEpaxI;RWA;:BvAxiH}	RWA1{karwari;lat;u;bahu;parasmEpaxI;RWA;:BvAxiH}	aBihiwa_karwA,3;sakarmaka	raheM					
+16	(naH)			asmax{sarvanAma;2;bahu}/asmax{sarvanAma;4;bahu}/asmax{sarvanAma;6;bahu}/nq{puM;8;eka}	asmax{sarvanAma;6;bahu}	RaRTIsambanXaH,5	hameM					
+17	(naH)			asmax{sarvanAma;2;bahu}/asmax{sarvanAma;4;bahu}/asmax{sarvanAma;6;bahu}/nq{puM;8;eka}	asmax{sarvanAma;6;bahu}	RaRTIsambanXaH,8	hameM					
+18	(aswi)				as{karwari,lat,pra,eka,parasmEpaxI{XAwuH asaz},axAxiH}	aBihiwa_karwA,2;sakarmaka						
+19	(aswi)				as{karwari,lat,pra,eka,parasmEpaxI{XAwuH asaz},axAxiH}	aBihiwa_karwA,4;sakarmaka						
+20	(aswi)				as{karwari,lat,pra,eka,parasmEpaxI{XAwuH asaz},axAxiH}	aBihiwa_karwA,6;sakarmaka						

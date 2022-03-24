@@ -1,0 +1,10 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	prAwaH	1	prAwareva	prAwaH{avya}	prAwaH{avya}	kAlAXikaraNam,4	prAwaH					
+2	eva			eva{avya}	eva{avya}	sambanXaH,1	hI					
+3	hi	2	hi	hi{avya}	hi{avya}	sambanXaH,1	hi					
+4	paSyeWAH(paSyeH)	3	paSyeWA	xqS{karwari viXilif ma eka parasmEpaxI{XAwuH xqSizr} BvAxiH}	xqS{karwari viXilif ma eka parasmEpaxI{XAwuH xqSizr} BvAxiH}	aBihiwa_karwA,9;sakarmakaH						
+5	ye	4	ye	yax{sarvanAma;puM;1;bahu}/yax{sarvanAma;napuM;1;xvi}/yax{sarvanAma;napuM;2;xvi}/yax{sarvanAma;swrI;1;xvi}/yax{sarvanAma;swrI;2;xvi}	yax{sarvanAma;puM;1;bahu}	karwA,6	jo				niwyasambanXaH,8	
+6	kuryuH	5	kuryurvyayakarma	kq3{karwari;viXilif;pra;bahu;parasmEpaxI;dukqF;:wanAxiH}	kq3{karwari;viXilif;pra;bahu;parasmEpaxI;dukqF;:wanAxiH}	aBihiwa_karwA,5;sakarmakaH	karie					
+7	vyaya-karma			vyaya-karman{napuM;1;eka}/karman{napuM;2;eka}/karma{puM;8;eka}/karma{napuM;8;eka}	vyaya-karman{napuM;2;eka}	karma,6	Karca-karma					
+8	we	6	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;2;eka}	karma,4	ve				niwyasambanXaH,5	
+9	(wvam)			yuRmax{sarvanAma 1 eka}	yuRmax{sarvanAma;1;eka}	karwA,4						

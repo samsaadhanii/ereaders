@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	prakqRtena	10	prakqRtena	prakqRta{puM;3;eka(kqR2;kwa;kqRaz;:wuxAxiH)}/prakqRta{napuM;3;eka(kqR2;kwa;kqRaz;:wuxAxiH)}	prakqRta{napuM;3;eka(kqR2;kwa;kqRaz;:wuxAxiH)}	viSeRaNam,2						
+2	vayasA	8	vayasA	vayas{napuM;3;eka}	vayas{napuM;3;eka}	samucciwaH,4	Ayu_se					
+3	hi	4	hIxaM	hi{avya}	hi{avya}	sambanXaH,2	hi					
+4	vAk-vyAyAmena	11	vAgvyAyAmena	vAk-vyAyAma{puM;3;eka}/vyAyAma{napuM;3;eka}	vAk-vyAyAma{puM;3;eka}	hewuH,11	vAk-vyAyAma_se					
+5	ca	12	cEva	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora					
+6	eva			eva{avya}	eva{avya}	sambanXaH,5	hI					
+7	me	2	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,10	merA					
+8	ixam			ixam{sarvanAma;napuM;1;eka}/ixam{sarvanAma;napuM;2;eka}	ixam{sarvanAma;napuM;1;eka}	viSeRaNam,10	yaha					
+9	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	Ora					
+10	manaH	3	mano	manas{napuM;1;eka}/manas{napuM;2;eka}/manas{napuM;8;eka}	manas{napuM;1;eka}	karwA,11	mana					
+11	glAyawe	1	glAyawe	glE1{BAve;lat;pra;eka;AwmanepaxI;glE;:BvAxiH}	glE1{BAve;lat;pra;eka;AwmanepaxI;glE;:BvAxiH}	samucciwaH,15	mlAna_huA_jAwA_hE					
+12	hi	13	hi	hi{avya}	hi{avya}	sambanXaH,10	hi					
+13	ca	9	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,15	Ora					
+14	muKam	5	muKam	muKa{puM;2;eka}/muKa{napuM;1;eka}/muKa{napuM;2;eka}	muKa{napuM;1;eka}	karwA,15	muKa_ko					
+15	pariSuRyawi	7	pariSuRyawi	pari_SuR1{karwari;lat;pra;eka;parasmEpaxI;SuRaz;:xivAxiH}	pari_SuR1{karwari;lat;pra;eka;parasmEpaxI;SuRaz;:xivAxiH}	aBihiwa_karwA,14;sakarmaka	sUKawA_hE					

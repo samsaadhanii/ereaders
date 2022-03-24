@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yuXiRTira	1	yuXiRTira	Xarma-rAjan{puM;1;eka}/rAjA{swrI;1;eka}	yuXiRTira{puM;8;eka}	samboXyaH,10	Xarma-rAja					
+2	mahA-bAho	2	mahAbAho	mahA-bAhu{puM;8;eka}/bAhu{napuM;8;eka}/bAhu{napuM;1;eka}/bAhu{napuM;2;eka}	mahA-bAhu{puM;8;eka}	viSeRaNam,1	gAya-BujA					
+3	yax	3	yaxAha	yax{sarvanAma;napuM;1;eka}/yax{sarvanAma;napuM;2;eka}/yaw{napuM;1;eka}/yaw{napuM;2;eka}	yax{sarvanAma;napuM;2;eka}	muKyakarma,4	jo				niwyasambanXaH,9	
+4	Aha			brU1{karwari;lit;pra;eka;AwmanepaxI;brUF;:axAxiH}	brU1{karwari;lit;pra;eka;AwmanepaxI;brUF;:axAxiH}	aBihiwa_karwA,6;sakarmaka	kahA					
+5	kuru-nanxanaH	4	kurunanxanaH	kuru-nanxana{puM;1;eka}	kuru-nanxana{puM;1;eka}	viSeRaNam,6	kuru-nanxana					
+6	XqwarARtraH	5	XqwarARtro	XqwarARtra{puM;1;eka}	XqwarARtra{puM;1;eka}	karwA,4	XqwarARtra					
+7	mahAwmA	6	mahAwmA	mahAwman{puM;1;eka}	mahAwman{puM;1;eka}	viSeRaNam,6	mahAwmA					
+8	wvAM	7	wvAM	yuRmax{sarvanAma;2;eka}	yuRmax{sarvanAma;2;eka}	gONakarma,4	wumheM					
+9	waw	8	wawkuruRvAvicArayan	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waw{sarvanAma;napuM;2;eka}	karma,10					niwyasambanXaH,3	
+10	kuruRva			kq3{karwari;lot;ma;eka;AwmanepaxI;dukqF;:wanAxiH}	kq3{karwari;lot;ma;eka;AwmanepaxI;dukqF;:wanAxiH}	aBihiwa_karwA,8;sakarmaka	karo					
+11	a-vicArayan			vi_cArayaw{puM;1;eka(car2;Sawq_lat;caraz;:curAxiH)}	vi_cArayaw{puM;1;eka(car2;Sawq_lat;caraz;:curAxiH)}	varwamAnasamAnakAlaH,10	sanxeha_karawA_huA					
+12	(wvam)				yuRmax{sarvanAma;1;eka}	karwA,10						

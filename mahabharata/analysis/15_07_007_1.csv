@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mahI-pawiH	4	mahIpawiH	mahI-pawi{puM;1;eka}	mahI-pawi{puM;1;eka}	viSeRaNam,2	pqWvI-pawi					
+2	XqwarARtraH			XqwarARtra{puM;1;eka}	XqwarARtra{puM;1;eka}	karwA,10	XqwarARtra					
+3	wawaH	2	wawaH	wawaH{avya}	wawaH{avya}	sambanXaH,10	vahAz_se					
+4	prANAn	3	prANAnXqwarARtro	prANa{puM;2;bahu}	prANa{puM;2;bahu}	karma,5	prANa					
+5	upalaBya	1	upalaBya	laB1{avya;lyap;dulaBazR;:BvAxiH}	upa_laB1{avya;lyap;dulaBazR;:BvAxiH}	pUrvakAlaH,10	upa_laB1_kara					
+6	pANdavam	9	pANdavam	pANdava{puM;2;eka}/pANdava{napuM;1;eka}/pANdava{napuM;2;eka}	pANdava{napuM;2;eka}	karma,10	pANdava					
+7	bAhuByAm	5	bAhuByAm	bAhu{puM;3;xvi}/bAhu{puM;4;xvi}/bAhu{puM;5;xvi}	bAhu{puM;3;xvi}	karaNam,8	BujA_se					
+8	sam-pariRvajya	6	sampariRvajya	sam-Rvanj1{avya;lyap;Rvanjaz;:BvAxiH}	sam-pari_Rvanj1{avya;lyap;Rvanjaz;:BvAxiH}	pUrvakAlaH,10	pari_Rvanj1_kara					
+9	mUrXni	7	mUrXni	Sira{puM;3;eka}	mUrXan{napuM;7;eka}	aXikaraNam,10	Sayye_se					
+10	AjiGraw	8	AjiGraw	GrA1{karwari;lot;ma;bahu;parasmEpaxI;GrA;:BvAxiH}	Af_GrA{karwari;laf;pra;eka;parasmEpaxI{XAwuH GrA} BvAxiH}	aBihiwa_karwA,2;sakarmaka	sUMKo					

@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	Barawa-qRaBa	7	BarawarRaBa	Barawa-qRaBa{puM;8;eka}/qRaBa{napuM;8;eka}	Barawa-qRaBa{puM;8;eka}	samboXyaH,11	Barawa-sAzda					
+2	aWa	1	aWAbravIwpunarvAkyaM	aWa{avya}	aWa{avya}	sambanXaH,7	Ora					
+3	punaH			punaH{avya}	punaH{avya}	kriyAviSeRaNam,7	Pira					
+4	XqwarARtraH	2	XqwarARtro	XqwarARtra{puM;1;eka}	XqwarARtra{puM;1;eka}	karwA,7	XqwarARtra_ne					
+5	yuXiRTiram	3	yuXiRTiram	yuXiRTira{puM;2;eka}	yuXiRTira{puM;2;eka}	gONakarma,7	yuXiRTira_ko					
+6	vAkyam			vAkya{napuM;1;eka}/vAkya{napuM;2;eka}	vAkya{napuM;2;eka}	muKyakarma,7	vAkya_ko					
+7	abravIw			brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;:axAxiH}	brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;:axAxiH}	aBihiwa_karwA,4;sakarmaka	kahA					
+8	rAjan	6	rAjaMswApasye	rAjan{puM;8;eka}/rAjaw{puM;1;eka(rAj1;Sawq_lat;rAjqz;:BvAxiH)}	rAjan{puM;8;eka}	samboXyaH,11	rAjA					
+9	wApasye			wApasya{napuM;1;xvi}/wApasya{napuM;2;xvi}/wApasya{napuM;8;xvi}/wApasya{napuM;7;eka}	wApasya{napuM;7;eka}	aXikaraNam,11	wApasya_meM					
+10	mAm	5	mAm	asmax{sarvanAma;2;eka}	asmax{sarvanAma;2;eka}	karma,11	muJe					
+11	anu-jAnIhi	4	anujAnIhi	anu-jFA1{karwari;lot;ma;eka;parasmEpaxI;jFA;:kryAxiH}	anu-jFA1{karwari;lot;ma;eka;parasmEpaxI;jFA;:kryAxiH}	aBihiwa_karwA,0;sakarmaka	jAno					

@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wawaH	1	wawaswe	wawaH{avya}	wawaH{avya}	sambanXaH,11	vahAz_se					
+2	we			wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	viSeRaNam,5	ve					
+3	BrAwaraH	4	BrAwaraH	BrAwq{puM;1;bahu}/BrAwq{puM;2;bahu}/BrAwq{puM;8;bahu}	BrAwq{puM;1;bahu}	viSeRaNam,5	BAI					
+4	paFca	5	paFca	paFcan{saMKyeyam;1;bahu}/paFcan{saMKyeyam;2;bahu}/pac3{karwari;lot;ma;eka;parasmEpaxI;paciz;:curAxiH}	paFcan{saMKyeyam;1;bahu}	viSeRaNam,5	paFcan_a					
+5	pANdavAH	6	pANdavAH	pANdava{puM;1;bahu}/pANdava{puM;8;bahu}	pANdava{puM;1;bahu}	karwA,11	pANdava					
+6	sarve	3	sarve	sarva{sarvanAma;puM;1;bahu}/sarva{sarvanAma;napuM;1;xvi}/sarva{sarvanAma;napuM;2;xvi}/sarvA{sarvanAma;swrI;1;xvi}/sarvA{sarvanAma;swrI;2;xvi}	sarva{sarvanAma;puM;1;bahu}	viSeRaNam,5	saba					
+7	waWA-SIlAH	7	waWASIlAH	waWA-SIla{puM;8;bahu}/SIla{puM;1;bahu}/SIlA{swrI;8;bahu}/SIlA{swrI;1;bahu}/SIlA{swrI;2;bahu}	waWA-SIla{puM;1;bahu}	viSeRaNam,5	waWA-SIla					
+8	sahiwAH	2	sahiwAH	sahiwa{puM;1;bahu}/sahiwA{swrI;1;bahu(Rah2;kwa;Rahaz;:xivAxiH)}/sahiwA{swrI;2;bahu(Rah2;kwa;Rahaz;:xivAxiH)}	sahiwa{puM;1;bahu}	viSeRaNam,5	sAWa					
+9	XqwarARtrasya			XqwarARtra{puM;6;eka}	XqwarARtra{puM;6;eka}	RaRTIsambanXaH,10	XqwarARtra_kA					
+10	SAsane	9	SAsane	SAsana{napuM;1;xvi}/SAsana{napuM;2;xvi}/SAsana{napuM;7;eka}/SAsana{napuM;1;xvi(SAs1;lyut;SAsuz;:axAxiH)}/SAsana{napuM;2;xvi(SAs1;lyut;SAsuz;:axAxiH)}/SAsana{napuM;7;eka(SAs1;lyut;SAsuz;:axAxiH)}	SAsana{napuM;7;eka}	viRayAXikaraNam,11	SAsana					
+11	samAwasWuH	8	samAwasWurXqwarARtrasya	sam_Af_RWA1{karwari;lit;pra;bahu;parasmEpaxI;RWA;:BvAxiH}	sam_Af_RWA1{karwari;lit;pra;bahu;parasmEpaxI;RWA;:BvAxiH}	aBihiwa_karwA,5;sakarmaka	sam_Af_RWA1_pp_skyA					

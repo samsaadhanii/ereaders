@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	prApya	1	prApya	Ap1{avya;lyap;ApLz;:svAxiH}/Ap1{avya;lyap;ApLz;:svAxiH}/Ap2{avya;lyap;ApLz;:curAxiH}/Ap2{avya;lyap;ApLz;:curAxiH}	pra_Ap2{avya;lyap;ApLz;:curAxiH}	pUrvakAlaH,8	pra_Ap2_kara					
+2	rAjyaM	2	rAjyaM	rAjya{napuM;1;eka}/rAjya{napuM;2;eka}	rAjya{napuM;2;eka}	karma,1	rAjya					
+3	mahABAgAH	3	mahABAgAH	mahABAga{puM;1;bahu}/mahABAgA{swrI;1;bahu}/mahABAgA{swrI;2;bahu}	mahABAga{puM;1;bahu}	viSeRaNam,4	mahABAga					
+4	pANdavAH	4	pANdavA	pANdava{puM;1;bahu}/pANdava{puM;8;bahu}	pANdava{puM;1;bahu}	karwA,8	pANdavoM_ne					
+5	me	5	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,6	merA					
+6	piwAmahAH	6	piwAmahAH	piwAmaha{puM;1;bahu}/piwAmaha{puM;8;bahu}	piwAmaha{puM;1;bahu}	viSeRaNam,4						
+7	kaWam	7	kaWamAsanmahArAje	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,8	kEse					
+8	Asan			as1{karwari;laf;pra;bahu;parasmEpaxI;asaz;:BvAxiH}/as2{karwari;laf;pra;bahu;parasmEpaxI;asaz;:axAxiH}/Asan{napuM;8;eka}	as2{karwari;laf;pra;bahu;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,4	as2_pp_skyA					
+9	mahArAje			mahArAja{puM;7;eka}	mahArAja{puM;7;eka}	viSeRaNam,10	mahArAja_meM					
+10	XqwarARtre	8	XqwarARtre	XqwarARtra{puM;7;eka}	XqwarARtra{puM;7;eka}	aXikaraNam,8	XqwarARtra_meM					
+11	mahAwmani	9	mahAwmani	mahAwman{puM;7;eka}/mahAwman{napuM;7;eka}	mahAwman{puM;7;eka}	viSeRaNam,10	mahAwmA_meM					

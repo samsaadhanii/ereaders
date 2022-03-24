@@ -1,0 +1,8 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sarve	1	sarve	sarva{sarvanAma;puM;1;bahu}/sarva{sarvanAma;napuM;1;xvi}/sarva{sarvanAma;napuM;2;xvi}/sarvA{sarvanAma;swrI;1;xvi}/sarvA{sarvanAma;swrI;2;xvi}	sarva{sarvanAma;puM;1;bahu}	viSeRaNam,4	saba					
+2	wu	2	wvAwyayikAH	wu{avya}	wu{avya}	sambanXaH,1	wo					
+3	AwyayikAH			Awyayika{puM;1;bahu}/Awyayika{puM;8;bahu}	Awyayika{puM;1;bahu}	viXeya_viSeRaNam,4	Awyayika					
+4	kAlAH	3	kAlAH	kAla{puM;1;bahu}/kAlA{swrI;1;bahu}/kAlA{swrI;2;bahu}/kAla{puM;8;bahu}/kAlA{swrI;8;bahu}	kAla{puM;1;bahu}	karwA,7	samaya					
+5	kAryANAm	4	kAryANAm	kArya{puM;6;bahu}/kArya{napuM;6;bahu}/kAryA{swrI;6;bahu(kQ1;Nyaw;kQ;:wuxAxiH)}/kAryA{swrI;6;bahu(kq3;Nyaw;dukqF;:wanAxiH)}/kAryA{swrI;6;bahu(kq2;yaw;kqF;:svAxiH)}/kAryA{swrI;6;bahu(kq1;Nyaw;kqF;:BvAxiH)}/kAryA{swrI;6;bahu(kQ2;Nyaw;kQF;:kryAxiH)}/kAryA{swrI;6;bahu(kQ3;Nyaw;kQ;:kryAxiH)}	kArya{puM;6;bahu}	RaRTIsambanXaH,4	kAryoM_kA					
+6	BarawarRaBa	5	BarawarRaBa	BarawarRaBa{puM;8;eka}	BarawarRaBa{puM;8;eka}	samboXyaH,7	BarawarRaBa					
+7	(BaveyuH)			BU{karwari;viXilif;pra;bahu;parasmEpaxI{XAwuH BU} BvAxiH}	BU{karwari;viXilif;pra;bahu;parasmEpaxI{XAwuH BU} BvAxiH}	aBihiwa_karwA,4;akarmakaH						

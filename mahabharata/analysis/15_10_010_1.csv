@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	cArEH	1	cArErvixiwvA	cAra{puM;3;bahu}/cAra{napuM;3;bahu}	cAra{puM;3;bahu}	karaNam,2	cAroM_se					
+2	vixiwvA			vix1{avya;kwvA;vixaz;:axAxiH}/vix3{avya;kwvA;vixLz;:wuxAxiH}	vix1{avya;kwvA;vixaz;:axAxiH}	pUrvakAlaH,12						
+3	SawrUn	2	SawrUMSca	Sawru{puM;2;bahu}	Sawru{puM;2;bahu}	karma,2	SawruoM_ko					
+4	ca			ca{avya}	ca{avya}	sambanXaH,5	Ora					
+5	ye	3	ye	yax{sarvanAma;puM;1;bahu}/yax{sarvanAma;napuM;1;xvi}/yax{sarvanAma;napuM;2;xvi}/yax{sarvanAma;swrI;1;xvi}/yax{sarvanAma;swrI;2;xvi}	yax{sarvanAma;puM;1;bahu}	viSeRaNam,7	jo				niwyasambanXaH,8	
+6	we	4	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	viSeRaNam,7	ve					
+7	rAjya-anwarAyinaH	5	rAjyAnwarAyiNaH	rAjya-anwarAyinaH}	rAjya-anwarAyina{puM;1;bahu}	viXeya_viSeRaNam,12	rAjyAnwara-					
+8	wAn	6	wAnApwEH	wax{sarvanAma;puM;2;bahu}	wax{sarvanAma;puM;2;bahu}	viSeRaNam,3	unako				niwyasambanXaH,5	
+9	ApwEH			Apwa{puM;3;bahu}/Apwa{puM;3;bahu(Ap1;kwa;ApLz;:svAxiH)}/Apwa{napuM;3;bahu(Ap1;kwa;ApLz;:svAxiH)}	Apwa{puM;3;bahu}	viSeRaNam,10	prApwoM_se					
+10	puruREH	7	puruRErxUrAxGAwayeWAH	puruRa{puM;3;bahu}	puruRa{puM;3;bahu}	karaNam,12	puruRoM_se					
+11	xUrAw			xUra{puM;5;eka}/xUra{napuM;5;eka}	xUra{puM;5;eka}	apAxAnam,12	xUra_se					
+12	GAwayeWAH			han1{Nijanwa;karwari;viXilif;ma;eka;AwmanepaxI;hanaz;:axAxiH}	han1{Nijanwa;karwari;viXilif;ma;eka;AwmanepaxI;hanaz;:axAxiH}	aBihiwa_karwA,14;sakarmakaH						
+13	parasparam	8	parasparam	paraspara{puM;2;eka}/paraspara{napuM;1;eka}/paraspara{napuM;2;eka}	paraspara{puM;2;eka}	sambanXaH,12	paraspara_ko					
+14	wvam			yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,12						

@@ -1,0 +1,7 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	me	8	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,4	merA					
+2	vayaH(yayA)	9	vayaH	vayas{napuM;1;eka}/vayas{napuM;2;eka}/vayas{napuM;8;eka}	yax{sarvanAma;swrI;3eka}	karwA,5	Ayu					
+3	yaWA-balam	13	yaWAbalam	yaWA-bala{puM;2;eka}/bala{napuM;1;eka}/bala{napuM;2;eka}	yaWA-bala{puM;2;eka}	kriyAviSeRaNam,5	yaWA-bala_ko					
+4	puNyam	11	puNyam	puNya{napuM;1;eka}/puNya{napuM;2;eka}	puNya{napuM;1;eka}	karma,5	puNya					
+5	cIrNam	12	cIrNam	cIrNa{puM;2;eka}/cIrNa{napuM;1;eka}/cIrNa{napuM;2;eka}	cIrNa{napuM;1;eka(car1;nak;kwa;caraz;:BvAxiH)}	aBihiwa_karma,4	cIrNa_ko					
+6	prakqRtam	7	prakqRtam	prakqRta{puM;2;eka(kqR2;kwa;kqRaz;:wuxAxiH)}/prakqRta{napuM;1;eka(kqR2;kwa;kqRaz;:wuxAxiH)}/prakqRta{napuM;2;eka(kqR2;kwa;kqRaz;:wuxAxiH)}	prakqRta{puM;1;eka(kqR2;kwa;kqRaz;:wuxAxiH)}	viSeRaNam,4						

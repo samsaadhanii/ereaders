@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mEreyaM	1	mEreyaM	mEreya{napuM;1;eka}/mEreya{napuM;2;eka}	mEreya{napuM;2;eka}	samucciwaH,8	mEreya_ko					
+2	maXu	2	maXu	maXu{napuM;1;eka}/maXu{napuM;2;eka}/maXu{napuM;8;eka}	maXu{napuM;2;eka}	samucciwaH,8	maXu					
+3	mAMsAni	3	mAMsAni	mAMsa{napuM;1;bahu}/mAMsa{napuM;2;bahu}/mAMsa{napuM;8;bahu}	mAMsa{napuM;2;bahu}	samucciwaH,8	mAMsa					
+4	pAnakAni	4	pAnakAni	pAnaka{napuM;8;bahu}/pAnaka{napuM;1;bahu(pan1;Nvul;panaz;:BvAxiH)}/pAnaka{napuM;2;bahu(pan1;Nvul;panaz;:BvAxiH)}	pAnaka{napuM;2;bahu(pan1;Nvul;panaz;:BvAxiH)}	samucciwaH,8	peya					
+5	laGUni	5	laGUni	laGu{napuM;1;bahu}/laGu{napuM;2;bahu}/laGu{napuM;8;bahu}	laGu{napuM;2;bahu}	viSeRaNam,4	laGu_ne					
+6	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora					
+7	ciwrAn	7	 ciwrAnBakRyavikArAMSca	ciwra{puM;2;bahu}	ciwra{puM;2;bahu}	viSeRaNam,8	ciwroM_ko					
+8	BakRya-vikArAn			vikAra{puM;1;bahu}/vikAra{puM;8;bahu}/vi-kAra{puM;1;bahu}/vi-kAra{puM;8;bahu}/vikAra{puM;1;bahu(kQ1;GaF;kQ;:wuxAxiH)}/vikAra{puM;1;bahu(kq3;GaF;dukqF;:wanAxiH)}/vikAra{puM;1;bahu(kq2;GaF;kqF;:svAxiH)}	BakRya-vi-kAra{puM;2;bahu}	karma,10	vi					
+9	ca			ca{avya}	ca{avya}	sambanXaH,4	Ora					
+10	cakruH	8	cakrurasya	kq1{karwari;lit;pra;bahu;parasmEpaxI;kqF;:BvAxiH}/kq2{karwari;lit;pra;bahu;parasmEpaxI;kqF;:svAxiH}/kq3{karwari;lit;pra;bahu;parasmEpaxI;dukqF;:wanAxiH}	kq3{karwari;lit;pra;bahu;parasmEpaxI;dukqF;:wanAxiH}	aBihiwa_karwA,14;sakarmaka	kiyA					
+11	asya			ixam{sarvanAma;puM;6;eka}/ixam{sarvanAma;napuM;6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;:xivAxiH}	ixam{sarvanAma;napuM;6;eka}	RaRTIsambanXaH,10	isake					
+12	yaWA	9	yaWA	yaWA{avya}	yaWA{avya}	upamAna_xyowakaH,15	jEse					
+13	purA	10	purA	purA{avya}	purA{avya}	kAlAXikaraNam,15	pahale					
+14	(pANdavAH)			pANdava{puM;1;bahu}/pANdava{puM;8;bahu}	pANdava{puM;1;bahu}	karwA,10	pANdava					
+15	(cakruH)			kq1{karwari;lit;pra;bahu;parasmEpaxI;kqF;:BvAxiH}/kq2{karwari;lit;pra;bahu;parasmEpaxI;kqF;:svAxiH}/kq3{karwari;lit;pra;bahu;parasmEpaxI;dukqF;:wanAxiH}	kq3{karwari;lit;pra;bahu;parasmEpaxI;dukqF;:wanAxiH}	upamAnam,10	kiyA					

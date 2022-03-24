@@ -1,0 +1,29 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	brUwe	1	yaxyaxbrUwe	brU1{karwari;lat;pra;eka;AwmanepaxI;brUF;:axAxiH}	brU1{karwari;lat;pra;eka;AwmanepaxI;brUF;:axAxiH}	aBihiwa_karwA,12;sakarmaka	kahawA_hE					
+2	ca	2	ca	ca{avya}	ca{avya}	sambanXaH,3	Ora					
+3	kiFciw	3	kiFciwsa	kiFciw{avya}/kiFciw{sarvanAma;napuM;1;eka}/kiFciw{sarvanAma;napuM;2;eka}	kiFciw{avya}	viSeRaNam,11						
+4	saH			wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,5	vaha					
+5	XqwarARtraH	4	XqwarARtro	XqwarARtra{puM;1;eka}	XqwarARtra{puM;1;eka}	samucciwaH,12	XqwarARtra					
+6	narAXipaH	5	narAXipaH	narAXipa{puM;1;eka}	narAXipa{puM;1;eka}	viSeRaNam,5	rAjA					
+7	guruH	6	guru	guru{napuM;1;eka}/guru{napuM;2;eka}	guru{napuM;2;eka}	anyawaraH,9	guru					
+8	vA	7	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,7	vA					
+9	laGuH	8	laGu	laGu{napuM;1;eka}/laGu{napuM;2;eka}/laGu{napuM;8;eka}	laGu{napuM;2;eka}	viSeRaNam,11	laGu					
+10	vA	9	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,9	vA					
+11	kAryaM	10	kAryaM	kArya{puM;2;eka}/kArya{napuM;1;eka}/kArya{napuM;2;eka}	kArya{napuM;2;eka}	karma,1	kArya_ko					
+12	gAnXArI	11	gAnXArI	gAnXArI{swrI;1;eka}/gAnXAri{puM;1;xvi}/gAnXAri{puM;2;xvi}/gAnXAri{puM;8;xvi}	gAnXArI{swrI;1;eka}	karwA,1	gAnXArI					
+13	ca	12	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora					
+14	yaSasvinI	13	yaSasvinI	yaSasvinI{swrI;1;eka}	yaSasvinI{swrI;1;eka}	viSeRaNam,12	wapasvinI					
+15	yax				yax{sarvanAma,napuM,2,eka}	viSeRaNam,11					niwya_sambanXaH,26	
+16	yax				yax{sarvanAma,napuM,2,eka}	vIpsA,15						
+17	mahArAja	3	mahArAja	mahArAja{puM;8;eka}	mahArAja{puM;8;eka}	samboXyaH,28	mahArAja					
+18	para-vIrahA			para-vIrahan{puM;1;eka}	para-vIrahan{puM;1;eka}	viSeRaNam,22	bAxa-vaha_brAhmaNa_jisane_xEnika_agnihowra_karanA_Coड़_xiyA_hE					
+19	pANdavAnAm	4	pANdavAnAm	pANdava{puM;6;bahu}/pANdava{napuM;6;bahu}	pANdava{puM;6;bahu}	RaRTIsambanXaH,20	pANdavoM_kA					
+20	XuranXaraH	5	XuranXaraH	XuranXaraH}	XuranXaraH{puM;1;eka}	viSeRaNam,22						
+21	saH			wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,22	vaha					
+22	rAjA	2	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	karwA,28	rAjA					
+23	waw	1	wawsa	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waw{sarvanAma;napuM;2;eka}	viSeRaNam,24						
+24	vacaH	7	vacaswawwaxakArRIwparavIrahA	vaca{puM;1;eka}/vacas{napuM;1;eka}/vacas{napuM;2;eka}/vacas{napuM;8;eka}	vaca{ napuM;2;eka}	karmasamAnAXikaraNam,28	wowA					
+25	pUjayiwvA	6	pUjayiwvA	pUjayiwvA{kqw_XAwu pUj1} avya kwvA{XAwuH pUjaz} curAxiH{kqxanwa}	pUjayiwvA{kqw_XAwu pUj1} avya kwvA{XAwuH pUjaz} curAxiH{kqxanwa}	pUrvakAlaH,28						
+26	waw			waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waw{sarvanAma;napuM;2;eka}	karma,28					niwya_sambanXaH,15	
+27	waw			waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waw{sarvanAma;napuM;2;eka}	vIpsA,26						
+28	akArRIw			kq{karwari,luf,pra,eka,parasmEpaxI{XAwuH kqF} BvAxiH}	kq{karwari,luf,pra,eka,parasmEpaxI{XAwuH kqF} BvAxiH}	aBihiwa_karwA,12;sakarmaka						

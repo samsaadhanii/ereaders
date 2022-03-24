@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wam	1	wamanvagacCaxvixuro	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	karma,2	usako					
+2	anvagacCaw			anu_gam1{karwari;laf;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	anu_gam1{karwari;laf;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,3;sakarmaka	anusaraNa_kiyA					
+3	vixuraH			vixura{puM;1;eka}	vixura{puM;1;eka}	karwA,2	buxXimAna					
+4	vixvAn	2	vixvAnsUwaSca	vixvas{puM;1;eka}	vixvas{puM;1;eka}	viSeRaNam,3	vixvAn					
+5	sUwaH			sUwa{puM;1;eka}/sUwa{puM;1;eka(RU3;kwa;RU;:wuxAxiH)}/sUwa{puM;1;eka(RU1;kwa;RUf;:axAxiH)}/sUwa{puM;1;eka(RU2;kwa;RUf;:xivAxiH)}	sUwa{puM;1;eka(RU3;kwa;RU;:wuxAxiH)}	viSeRaNam,7	sUwa					
+6	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora					
+7	saFjayaH	3	saFjayaH	saFjaya{puM;1;eka}	saFjaya{puM;1;eka}	samucciwaH,3	saMjaya					
+8	saH	4	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,7	vaha					
+9	ca	5	cApi	ca{avya}	ca{avya}	sambanXaH,7	Ora					
+10	api			api{avya}	api{avya}	sambanXaH,7	BI					
+11	parameRvAsaH	6	parameRvAsaH	lava{puM;1;eka}	lava{puM;1;eka}	viSeRaNam,12	lava					
+12	kqpaH	7	kqpaH	kqpa{puM;1;eka}	kqpa{puM;1;eka}	samucciwaH,3	kqpAcArya					
+13	SAraxvawaH	8	SAraxvawaswaWA	soma{puM;1;eka}	soma{puM;1;eka}	samucciwaH,3	soma					
+14	waWA			waWA{avya}	waWA{avya}	sambanXaH,13	vEse					

@@ -1,0 +1,8 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+6	api			api{avya}	api{avya}	sambanXaH,12	BI					
+7	ca			ca{avya}	ca{avya}	sambanXaH,6	Ora					
+8	kqwakEH	6	kqwakEH	kqwaka{puM;3;bahu}/kqwaka{napuM;3;bahu}	kqwaka{puM;3;bahu}	viSeRaNam,9	kiyA_huoM_se					
+9	puruREH	7	puruREH	puruRa{puM;3;bahu}	puruRa{puM;3;bahu}	karaNam,12	puruRoM_se					
+10	saxA	8	saxA	saxA{avya}	saxA{avya}	kriyAviSeRaNam,12	hameSA					
+11	AjFAm	4	AjFAm	AjFA{swrI;2;eka}	AjFA{swrI;2;eka}	karma,12	AjFA_ko					
+12	prawyaharaw	5	prawyaharaccApi	prawi_hq1{karwari;laf;pra;eka;parasmEpaxI;hqF;:BvAxiH}	prawi_hq1{karwari;laf;pra;eka;parasmEpaxI;hqF;:BvAxiH}	aBihiwa_karwA,0	najara_lagAyA					

@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ewAvaw	1	ewAvaxukwvA	ewA{avya;vaw}/ewA{mawup;napuM;1;eka}/ewA{mawup;napuM;2;eka}/ewA{mawup;napuM;8;eka}	ewA{avya;vaw}	viSeRaNam,3	ewe_vaw					
+2	ukwvA			vac1{avya;kwvA;vacaz;:axAxiH}	vac1{avya;kwvA;vacaz;:axAxiH}	pUrvakAlaH,14	bola_kara					
+3	vacanam	2	vacanamanujFApya	vacana{napuM;1;eka}/vacana{napuM;2;eka}	vacana{napuM;2;eka}	gONakarma,2	vacana_ko					
+4	anujFApya			anu_{kqw_XAwu jFA1} avya kwvA{XAwuH jFA} BvAxiH{kqxanwa}	anu_{kqw_XAwu jFA1} avya kwvA{XAwuH jFA} BvAxiH{kqxanwa}	samucciwaH,2	pra_Af_uc1_kara					
+5	ca	3	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora					
+6	pArWivam	4	pArWivam	pArWiva{puM;2;eka}	pArWiva{puM;2;eka}	karma,4	pArWiva_ko					
+7	waWA	5	waWAswviwi	waWA{avya}	waWA{avya}	kriyAviSeRaNam,8	vEse					
+8	aswu			aswu{avya}/as2{karwari;lot;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lot;pra;eka;parasmEpaxI;asaz;:axAxiH}	vAkyakarma,12	ho					
+9	iwi			iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,12	EsA					
+10	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,8	Ora					
+11	wena	7	wenokwaH	wax{sarvanAma;puM;3;eka}/wax{sarvanAma;napuM;3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;:wanAxiH}	wax{sarvanAma;napuM;3;eka}	viSeRaNam,13	usase					
+12	ukwaH			ukwa{puM;1;eka(vac1;kwa;vacaz;:axAxiH)}	ukwa{puM;1;eka(vac1;kwa;vacaz;:axAxiH)}	viSeRaNam,16	kahA_huvA					
+13	kOnweyena	8	kOnweyena	kOnweya{puM;3;eka}	kOnweya{puM;3;eka}	karwA,12	kOnweya_se					
+14	yayO	9	yayO	yA1{karwari;lit;pra;eka;parasmEpaxI;yA;:axAxiH}/yA1{karwari;lit;u;eka;parasmEpaxI;yA;:axAxiH}/yayi{puM;7;eka}	yA1{karwari;lit;pra;eka;parasmEpaxI;yA;:axAxiH}	aBihiwa_karwA,15;sakarmaka	gayA					
+15	vanam	10	vanam	vana{napuM;1;eka}/vana{napuM;2;eka}	vana{napuM;2;eka}	muKyakarma,14	vana					
+16	(vyAsaH)				vyAsa{puM;1;eka}	karwA,14						

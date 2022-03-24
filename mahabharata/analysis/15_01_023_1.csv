@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaWA	1	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,7	jEse					
+2	puwra-viyukwaH	2	puwraviyukwoZyaM	puwra-viyukwa{puM;1;eka}	puwra-viyukwa{puM;1;eka(puwra-yuj2;kwa;yujIzr;:ruXAxiH)}	viSeRaNam,3	puwra-mukwa					
+3	ayaM			ixam{sarvanAma;puM;1;eka}/aya{puM;2;eka}	ixam{sarvanAma;puM;1;eka}	karwA,7	yaha					
+4	na	3	na	na{avya}	na{avya}	prawiReXaH,7	nahIM					
+5	kiFciw	4	kiFcixxuHKamApnuyAw	kiFciw{avya}/kiFciw{sarvanAma;napuM;1;eka}/kiFciw{sarvanAma;napuM;2;eka}	kiFciw{sarvanAma;napuM;2;eka}	viSeRaNam,6						
+6	xuHKam			xuHKa{napuM;1;eka}/xuHKa{napuM;2;eka}	xuHKa{napuM;2;eka}	karma,7	xuHKa					
+7	ApnuyAw			Ap1{karwari;viXilif;pra;eka;parasmEpaxI;ApLz;:svAxiH}	Ap1{karwari;viXilif;pra;eka;parasmEpaxI;ApLz;:svAxiH}	vAkyakarma,10	prApwa_kare					
+8	iwi	5	iwi	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,7	EsA					
+9	rAjA	6	rAjAnvaSAxBrAwQnniwyameva	rA-ja{puM;2;bahu}	rA-ja{puM;1;bahu}	viSeRaNam,14	roM_ko					
+10	anvaSAw			vaSa{puM;5;eka}/vaSa{napuM;5;eka}	anu_SAs karwari laf pra eka parasmEpaxI{XAwuH SAsuz} axAxiH	aBihiwa_karwA,14	vaSa_se					
+11	BrAwQn			BrAwq{puM;2;bahu}	BrAwq{puM;2;bahu}	karma,10	BAiyoM_ko					
+12	niwyam			niwya{puM;2;eka}/niwya{napuM;1;eka}/niwya{napuM;2;eka}	niwya{puM;2;eka}	kAlAXikaraNam,10	niwya_ko					
+13	eva			eva{avya}	eva{avya}	sambanXaH,12	hI					
+14	yuXiRTiraH	7	yuXiRTiraH	yuXiRTira{puM;1;eka}	yuXiRTira{puM;1;eka}	karwA,10	yuXiRTira					

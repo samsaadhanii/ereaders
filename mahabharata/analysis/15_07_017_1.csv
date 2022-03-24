@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaxi	1	yaxi	yaxi{avya}	yaxi{avya}	niwya_sambanXaH,10	yaxi					
+2	aham			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,15	mEM					
+3	wu	2	wvahamanugrAhyo	wu{avya}	wu{avya}	sambanXaH,2	wo					
+4	BavawaH	3	Bavawo	Bava{avya;wasil}/Bavaw{sarvanAma;puM;2;bahu}/Bavaw{sarvanAma;puM;5;eka}/Bavaw{sarvanAma;puM;6;eka}/BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;:BvAxiH}/Bavaw{puM;2;bahu}/Bavaw{puM;5;eka}/Bavaw{puM;6;eka}	Bavaw{puM;6;eka}	RaRTIsambanXaH,7	Apase					
+5	api			api{avya}	api{avya}	sambanXaH,8	BI					
+6	vA	5	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,8	vA					
+7	xayiwaH	4	xayiwoZpi	xayiwa{puM;1;eka(xay1;kwa;xayaz;:BvAxiH)}	xayiwa{puM;1;eka(xay1;kwa;xayaz;:BvAxiH)}	anyawaraH,8	xAna-xiyA_huA					
+8	anugrAhyaH			anugrAhya{puM;1;eka(grah1;Nyaw;grahaz;:kryAxiH)}	anugrAhya{puM;1;eka(grah1;Nyaw;grahaz;:kryAxiH)}	viXeya_viSeRaNam,2						
+9	AhAraH			AhAra{puM;1;eka}/AhAra{puM;1;eka(hq1;GaF;hqF;:BvAxiH)}	AhAra{puM;1;eka(hq1;GaF;hqF;:BvAxiH)}	karma,11	AhAra					
+10	wAvaw(warhi)	7	wAvaxAhAraswawo	wAvaw{avya}/wAvaw{napuM;1;eka}/wAvaw{napuM;2;eka}/wAvaw{napuM;8;eka}	warhi{avya}	anuyogI,11	waba_waka				niwya_sambanXaH,1	
+11	kriyawAm	6	kriyawAm	kq2{karmaNi;lot;pra;eka;AwmanepaxI;kqF;:svAxiH}/kq3{karmaNi;lot;pra;eka;AwmanepaxI;dukqF;:wanAxiH}	kq3{karmaNi;lot;pra;eka;AwmanepaxI;dukqF;:wanAxiH}	aBihiwa_karma,9;sakarmaka	kare					
+12	wawaH			wawaH{avya}	wawaH{avya}	sambanXaH,14	vahAz_se					
+13	vayam	9	vayam	asmax{sarvanAma;1;bahu}	asmax{sarvanAma;1;bahu}	karwA,14	hama					
+14	vewsyAmahe	8	vewsyAmahe	vix2{karwari;lqt;u;bahu;AwmanepaxI;vixaz;:xivAxiH}/vix2{BAve;lqt;u;bahu;AwmanepaxI;vixaz;:xivAxiH}/vix3{karwari;lqt;u;bahu;AwmanepaxI;vixLz;:wuxAxiH}/vix3{karmaNi;lqt;u;bahu;AwmanepaxI;vixLz;:wuxAxiH}/vix4{karwari;lqt;u;bahu;AwmanepaxI;vixaz;:ruXAxiH}/vix4{karmaNi;lqt;u;bahu;AwmanepaxI;vixaz;:ruXAxiH}	vix4{karwari;lqt;u;bahu;AwmanepaxI;vixaz;:ruXAxiH}	aBihiwa_karwA,13;sakarmaka	manana_kareMge					
+15	(asmi)				as{karwari;lat;u;eka;parasmEpaxI{XAwuH asaz};axAxiH}	prawiyogI,1						

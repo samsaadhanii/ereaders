@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kiyanwaM	1	kiyanwaM	kiyanwam}	kiyanwam	viSeRaNam,4						
+2	ca	2	cEva	ca{avya}	ca{avya}	sambanXaH,4	Ora					
+3	eva			eva{avya}	eva{avya}	sambanXaH,4	hI					
+4	kAlaM	3	kAlaM	kAla{puM;2;eka}/kAla{napuM;1;eka}/kAla{napuM;2;eka}	kAla{puM;2;eka}	karma,9	samaya_ko					
+5	we	4	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	viSeRaNam,6	ve					
+6	piwaraH	5	piwaro	piwq{puM;1;bahu}/piwq{puM;2;bahu}/piwq{puM;8;bahu}	piwq{puM;1;bahu}	karwA,9	piwA					
+7	mama	6	mama	asmax{sarvanAma;6;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,8	merA					
+8	pUrvakAH	7	pUrvakAH	pUrva{ka;puM;1;bahu}/pUrva{ka;swrI;1;bahu}/pUrva{ka;swrI;2;bahu}/pUrvaka{puM;1;bahu}	pUrvaka{puM;1;bahu}	viSeRaNam,6						
+9	sWiwAH	8	sWiwA	sWiwa{puM;1;bahu(RWA1;kwa;RWA;:BvAxiH)}/sWiwA{swrI;1;bahu(RWA1;kwa;RWA;:BvAxiH)}/sWiwA{swrI;2;bahu(RWA1;kwa;RWA;:BvAxiH)}	sWiwa{puM;1;bahu(RWA1;kwa;RWA;:BvAxiH)}	prawiyogI,12						
+10	rAjye	9	rAjye	rAjya{napuM;1;xvi}/rAjya{napuM;2;xvi}/rAj1{BAve;lat;u;eka;AwmanepaxI;rAjqz;:BvAxiH}/rAjya{napuM;8;xvi}/rAjya{napuM;7;eka}	rAjya{napuM;7;eka}	xeSAXikaraNam,9	rAjya					
+11	mahAwmAnaH	10	mahAwmAnaswanme	mahAwman{puM;1;bahu}	mahAwman{puM;1;bahu}	viSeRaNam,8	mahAwmA					
+12	waw			waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	wax{sarvanAma;napuM;1;eka}	anuyogI,14						
+13	me			asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;4;eka}	sampraxAnam,14	merA					
+14	vyAKyAwum	11	vyAKyAwumarhasi	cakR1{avya;wumun;cakRizf;:axAxiH}/KyA1{avya;wumun;KyA;:axAxiH}	vi_Af_cakR1{avya;wumun;cakRizf;:axAxiH}	prayojanam,15						
+15	arhasi			arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;:curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}	aBihiwa_karwA,16;sakarmaka	yogya_howe_ho					
+16	(wvam)				yuRmax{sarvanAma;1;eka}	karwA,15						

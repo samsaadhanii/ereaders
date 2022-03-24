@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sObaleyI	1	sObaleyI	SObaleyI}	sObaleyI{swrI;1;eka}	viSeRaNam,2						
+2	gAnXArI	3	gAnXArI	gAnXArI{swrI;1;eka}/gAnXAri{puM;1;xvi}/gAnXAri{puM;2;xvi}/gAnXAri{puM;8;xvi}	gAnXArI{swrI;1;eka}	karwA,13	gAnXArI					
+3	ca	2	ca	ca{avya}	ca{avya}	sambanXaH,2	Ora					
+4	wam	5	wam	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,5	usako					
+5	puwra-Sokam	4	puwraSokamapAsya	puwra-Soka{puM;2;eka}/Soka{napuM;1;eka}/Soka{napuM;2;eka}	puwra-Soka{puM;2;eka}	karma,6	puwra-Soka_ko					
+6	apAsya			apa_as3{karwari;lot;ma;eka;parasmEpaxI;asuz;:xivAxiH}/as2{avya;lyap;asaz;:axAxiH}/as3{avya;lyap;asuz;:xivAxiH}/As1{avya;lyap;Asaz;:axAxiH}/as1{avya;lyap;asaz;:BvAxiH}	apa_as2avya;lyap;asaz;:axAxiH}	pUrvakAlaH,13	apa_as3_pp_skyeM					
+7	nijeRu	8	nijeRviva	ni-ja{puM;7;bahu}	ni-ja{puM;7;bahu}	viSeRaNam,8	niyoM_meM					
+8	wanayeRu			wanaya{puM;7;bahu}	wanaya{puM;7;bahu}	upamAnam,14	puwroM_meM					
+9	iva			iva{avya}	iva{avya}	upamAna_xyowakaH,8	jEse					
+10	saxA	6	saxEva	saxA{avya}	saxA{avya}	kriyAviSeRaNam,13	hameSA					
+11	prIwimawI	7	prIwimawyAsIwwanayeRu	prI{wal;swrI;1;eka}/prIwA{swrI;1;eka(prI1;kwa;prIf;:xivAxiH)}/prIwA{swrI;1;eka(prI2;kwa;prIF;:kryAxiH)}	prIwi{mawup{swrI;1;eka{waxXiwa}}	viXeya_viSeRaNam,2						
+12	eva			eva{avya}	eva{avya}	sambanXaH,11	hI					
+13	AsIw			as2{karwari;laf;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;laf;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,2;sakarmaka	WA					
+14	(pANdaveRu)			pANdava{puM;7;bahu}	pANdava{puM;7;bahu}	aXikaraNam,11						

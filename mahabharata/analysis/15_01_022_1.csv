@@ -1,0 +1,28 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kunwI	1	kunwI	kunwI{swrI;1;eka}/kunwi{puM;1;xvi}/kunwi{puM;2;xvi}/kunwi{puM;8;xvi}	kunwi{puM;1;xvi}	samucciwaH,23	kunwi					
+2	ca	2	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,1	Ora					
+3	xrOpaxI	3	xrOpaxI	xrOpaxI{swrI;1;eka}	xrOpaxI{swrI;1;eka}	samucciwaH,23	xrOpaxI					
+4	ca	4	cEva	ca{avya}	ca{avya}	sambanXaH,3	Ora					
+5	eva			eva{avya}	eva{avya}	sambanXaH,4	hI					
+6	BAminI	7	BAminI	BAminI{swrI;1;eka}	BAminI{swrI;1;eka}	viSeRaNam,23	sunxara-s					
+7	ulUpI	8	ulUpI	ulUpI{swrI;1;eka}	ulUpI{swrI;1;eka}	samucciwaH,23	ulUpI					
+8	ca	6	cEva	ca{avya}	ca{avya}	sambanXaH,7	Ora					
+9	nAga-kanyA	9	nAgakanyA	nAga-kanyA{swrI;1;eka}	nAga-kanyA{swrI;1;eka}	viSeRaNam,7	sAMpa-kanyA					
+10	ca	10	ca	ca{avya}	ca{avya}	sambanXaH,9	Ora					
+11	xevI	11	xevI	xevI{swrI;1;eka}	xevI{swrI;1;eka}	viSeRaNam,12	xevI					
+12	ciwra-afgaxA	12	ciwrAfgaxA	ciwra-afgaxA{swrI;1;eka}	ciwra-afgaxA{swrI;1;eka}	samucciwaH,23	ciwra-afgaxA					
+13	waWA	13	waWA	waWA{avya}	waWA{avya}	sambanXaH,12	vEse					
+15	sAwvawI	5	sAwvawI		sAwvawI{{swrI;1;eka}	samucciwaH,23						
+16	eva			eva{avya}	eva{avya}	sambanXaH,15	hI					
+17	XqRtakewoH	1	XqRtakewoSca	XqRtakewu{puM;5;eka}/XqRtakewu{puM;6;eka}	XqRtakewu{puM;6;eka}	RaRTIsambanXaH,19	XqRtakewu_se					
+18	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,19	Ora					
+19	BaginI	2	BaginI	BaginI{swrI;1;eka}	BaginI{swrI;1;eka}	samucciwaH,23	bahana					
+20	jarAsanXasya	3	jarAsanXasya	jarAsanXa{puM;6;eka}	jarAsanXa{puM;6;eka}	RaRTIsambanXaH,22	jarAsanXa_ke					
+21	ca	4	cAwmajA	ca{avya}	ca{avya}	sambanXaH,22	Ora					
+22	AwmajA			AwmajA{swrI;1;eka}	AwmajA{swrI;1;eka}	samucciwaH,23	puwrI					
+23	kifkarAH	5	kifkarAH	kifkara{puM;1;bahu}/kifkarA{swrI;1;bahu}/kifkarA{swrI;2;bahu}	kifkara{puM;1;bahu}	karwA,25	kifkara					
+24	sma	6	smopawiRTanwi	sma{avya}	sma{avya}	sambanXaH,25	-					
+25	upawiRTanwi			upa_RWA1{karwari;lat;pra;bahu;parasmEpaxI;RWA;:BvAxiH}/upawiRTaw{napuM;1;bahu(RWA1;Sawq_lat;RWA;:BvAxiH)}/upawiRTaw{napuM;2;bahu(RWA1;Sawq_lat;RWA;:BvAxiH)}	upa_RWA1{karwari;lat;pra;bahu;parasmEpaxI;RWA;:BvAxiH}	aBihiwa_karwA,19;sakarmaka	upa_RWA1_pp_skwe_hEM					
+26	sarvAH	7	sarvAH	sarvA{sarvanAma;swrI;1;bahu}/sarvA{sarvanAma;swrI;2;bahu}	sarvA{sarvanAma;swrI;1;bahu}	viSeRaNam,23	sarvA					
+27	subalajAM	8	subalajAM	subalajAm}	subalajAm{swrI;2;eka}	karma,25						
+28	waWA	9	waWA	waWA{avya}	waWA{avya}	sambanXaH,26	vEse					

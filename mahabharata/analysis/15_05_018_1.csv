@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	rAjA-inxra	7	rAjenxra	rAjan{puM;8;eka}/rAjaw{puM;1;eka(rAj1;Sawq_lat;rAjqz;:BvAxiH)}	rAjA-inxra{puM;8;eka}	samboXyaH,14	rAjA					
+2	axya			axya{avya}	axya{avya}	kAlAXikaraNam,7	Aja					
+3	AwmanaH	1	Awmanaswu	Awman{puM;2;bahu}/Awman{puM;5;eka}/Awman{puM;6;eka}	Awman{puM;6;eka}	RaRTIsambanXaH,6	AwmAoM_ko					
+4	wu			wu{avya}	wu{avya}	sambanXaH,3	wo					
+5	muKyam	3	muKyam	muKya{puM;2;eka}/muKya{napuM;1;eka}/muKya{napuM;2;eka}	muKya{puM;2;eka}	viSeRaNam,6	muKya_ko					
+6	hiwam	2	hiwam	hiwa{puM;2;eka(XA1;kwa;duXAF;:juhowyAxiH)}/hiwa{napuM;1;eka(XA1;kwa;duXAF;:juhowyAxiH)}/hiwa{napuM;2;eka(XA1;kwa;duXAF;:juhowyAxiH)}/hiwa{puM;2;eka(hi1;kwa;hi;:svAxiH)}/hiwa{napuM;1;eka(hi1;kwa;hi;:svAxiH)}/hiwa{napuM;2;eka(hi1;kwa;hi;:svAxiH)}	hiwa{puM;2;eka(XA1;kwa;duXAF;:juhowyAxiH)}	karma,7						
+7	prawi-karwavyam	4	prawikarwavyamaxya	prawi-karwavya{puM;2;eka(prawi-kq3;wavyaw;dukqF;:wanAxiH)}/prawi-karwavya{napuM;1;eka(kq3;wavyaw;dukqF;:wanAxiH)}/prawi-karwavya{napuM;2;eka(kq3;wavyaw;dukqF;:wanAxiH)}/prawi-karwavya{puM;2;eka(kq2;wavyaw;kqF;:svAxiH)}/prawi-karwavya{napuM;1;eka(kq2;wavyaw;kqF;:svAxiH)}/prawi-karwavya{napuM;2;eka(kq2;wavyaw;kqF;:svAxiH)}/prawi-karwavya{puM;2;eka(kq1;wavyaw;kqF;:BvAxiH)}/prawi-karwavya{napuM;1;eka(kq1;wavyaw;kqF;:BvAxiH)}/prawi-karwavya{napuM;2;eka(kq1;wavyaw;kqF;:BvAxiH)}	prawi-karwavya{puM;2;eka(prawi-kq3;wavyaw;dukqF;:wanAxiH)}	prawiyogI,8						
+8	waw	8	waxanujFAwumarhasi	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waw{sarvanAma;napuM;2;eka}	anuyogI,14						
+9	me	5	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	samucciwaH,10	merA					
+10	gAnXAryAH	6	gAnXAryAScEva	gAnXArI{swrI;5;eka}/gAnXArI{swrI;6;eka}	gAnXArI{swrI;6;eka}	RaRTIsambanXaH,6	gAnXArI_se					
+11	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora					
+12	eva			eva{avya}	eva{avya}	sambanXaH,11	hI					
+13	anujFAwum			jFA1{avya;wumun;jFA;:kryAxiH}	anu_jFA1{avya;wumun;jFA;:kryAxiH}	sahAyakakriyA,14						
+14	arhasi			arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;:curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}	aBihiwa_karwA,7;sakarmaka	yogya_howe_ho					

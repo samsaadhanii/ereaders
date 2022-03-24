@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	XqwarARtra-vyapekRayA	6	XqwarARtravyapekRayA	XqwarARtra-vyapekRA{swrI;3;eka}	XqwarARtra-vyapekRA{swrI;3;eka}	hewuH,11	XqwarARtra-ASA_se					
+2	XarmarAjaH	1	XarmarAjaSca	XarmarAj{puM;1;bahu}/XarmarAj{puM;2;bahu}/XarmarAj{puM;5;eka}/XarmarAj{puM;6;eka}/XarmarAja{puM;1;eka}	XarmarAj{puM;1;eka}	samucciwaH,7	XarmarAja_kI					
+3	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,7	BI					
+4	BImaH	2	BImaSca	BIma{puM;1;eka}	BIma{puM;1;eka}	samucciwaH,7	BIma					
+5	savyasAcI	3	savyasAcI	savyasAcin{puM;1;eka}	savyasAcin{puM;1;eka}	samucciwaH,7	arjuna_kA_viSeRaNa_ne					
+6	ca			ca{avya}	ca{avya}	sambanXaH,2	BI					
+7	yamO	4	yamAvapi	yama{puM;1;xvi}/yama{puM;2;xvi}/yama{puM;8;xvi}	yama{puM;1;xvi}	karwA,11	yamarAjoM_ko					
+8	api			api{avya}	api{avya}	sambanXaH,7	BI					
+9	waw	5	wawsarvamanvavarwanwa	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	wax{sarvanAma;napuM;2;eka}	viSeRaNam,10	usa					
+10	sarvam			sarva{sarvanAma;puM;2;eka}/sarva{sarvanAma;napuM;1;eka}/sarva{sarvanAma;napuM;2;eka}	sarva{sarvanAma;napuM;2;eka}	karma,11	saba_ko					
+11	anvavarwanwa			anu_vqw1{karwari;laf;pra;bahu;AwmanepaxI;vqwuz;:BvAxiH}	anu_vqw1{karwari;laf;pra;bahu;AwmanepaxI;vqwuz;:BvAxiH}	aBihiwa_karwA,2;sakarmaka	AramBa_kiyA					

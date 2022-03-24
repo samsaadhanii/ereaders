@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wAwa			wAwa{puM;8;eka}	wAwa{puM;8;eka}	samboXyaH,8	piwA					
+2	wvAm			yuRmax{sarvanAma;2;eka}	yuRmax{sarvanAma;2;eka}	karma,3	wumheM					
+3	aBiyAcawA			aBiyAcaw{puM;3;eka(yAc1;Sawq_lat;tuyAcqz;:BvAxiH)}/aBiyAcaw{napuM;3;eka(yAc1;Sawq_lat;tuyAcqz;:BvAxiH)}	aBiyAcaw{puM;3;eka(yAc1;Sawq_lat;tuyAcqz;:BvAxiH)}	viSeRaNam,15						
+4	ca			ca{avya}	ca{avya}	sambanXaH,3	Ora					
+5	ayam			ixam{sarvanAma;puM;1;eka}/aya{puM;2;eka}	ixam{sarvanAma;puM;1;eka}	viSeRaNam,7	yaha					
+6	awyarWam			awyarWa{napuM;1;eka}/awyarWa{napuM;2;eka}	awyarWa{napuM;1;eka}	kriyAviSeRaNam,8	awyarWa					
+7	vyAyAmaH	1	vyAyAmaScAyamawyarWaM	vyAyAma{puM;1;eka}	vyAyAma{puM;1;eka}	karma,8	vyAyAma					
+8	kqwaH	2	kqwaswvAmaBiyAcawA	kqw{puM;1;bahu}/kqw{puM;2;bahu}/kqw{puM;5;eka}/kqw{puM;6;eka}/kqw{puM;8;bahu}/kqwa{puM;1;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{puM;1;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{puM;1;eka(kq1;kwa;kqF;:BvAxiH)}	kqw{puM;1;eka}	aBihiwa_karma,7	kqw					
+9	wawaH	3	 wawo	wawaH{avya}	wawaH{avya}	sambanXaH,13	vahAz_se					
+10	glAna-manAH	4	glAnamanAswAwa	glAna-mana{puM;8;bahu}/mana{puM;1;bahu}/manA{swrI;8;bahu}/manA{swrI;1;bahu}/manA{swrI;2;bahu}/manas{puM;1;eka}	glAna-mana{puM;1;eka}	viXeya_viSeRaNam,14	glAna-mana					
+11	naRta-saMjFaH	5	naRtasaMjFa	NaS1{kwa;NaSaz;:xivAxiH-saFjFa;puM;1;eka}	NaS1{kwa;NaSaz;:xivAxiH-saFjFa;puM;1;eka}	viXeya_viSeRaNam,14						
+12	iva	6	ivABavam	iva{avya}	iva{avya}	 sambanXaH,11	jEse					
+13	aBavam			aBava{puM;2;eka}/BU1{karwari;laf;u;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;laf;u;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,14;sakarmaka	avixyamAnawe_ko					
+14	(aham)				asmax{sarvanAma;1;eka}	karwA,13						
+15	(mayA)				asmax{sarvanAma;3;eka}	karwA,8						

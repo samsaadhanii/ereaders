@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ye	1	ye	yax{sarvanAma;puM;1;bahu}/yax{sarvanAma;napuM;1;xvi}/yax{sarvanAma;napuM;2;xvi}/yax{sarvanAma;swrI;1;xvi}/yax{sarvanAma;swrI;2;xvi}	yax{sarvanAma;puM;1;bahu}	viSeRaNam,4	jo					
+2	ca	2	cApi	ca{avya}	ca{avya}	sambanXaH,1	Ora					
+3	api			api{avya}	api{avya}	sambanXaH,4	BI					
+4	pqWivI-pAlAH	3	pqWivIpAlAH	pqWivI-pAla{puM;8;bahu}/pAla{puM;1;bahu}/pAlA{swrI;8;bahu}/pAlA{swrI;1;bahu}/pAlA{swrI;2;bahu}	pqWivI-pAla{puM;1;bahu}	karwA,5	pqWvI-pAla					
+5	samA-jagmuH	4	samAjagmuH	samA-gam1{karwari;lit;pra;bahu;parasmEpaxI;gamLz;:BvAxiH}	samA-gam1{karwari;lit;pra;bahu;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,4;sakarmaka	gaye					
+6	samanwawaH	5	samanwawaH	samanwa{avya;wasil}/samanwawaH{avya}	samanwa{avya;wasil}	kriyAviSeRaNam,5						
+7	upAwiRTanwa(upAwiRTan)	6	upAwiRTanwa	RWA1{karwari;laf;ma;bahu;parasmEpaxI;RWA;:BvAxiH}	upa_RWA karwari laf pra bahu parasmEpaxI{XAwuH RWA} BvAxiH	aBihiwa_karwA,9;sakarmaka	rahe					
+8	we	7	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	viSeRaNam,9	ve				niwya_sambanXaH,1	
+9	sarve	8	sarve	sarva{sarvanAma;puM;1;bahu}/sarva{sarvanAma;napuM;1;xvi}/sarva{sarvanAma;napuM;2;xvi}/sarvA{sarvanAma;swrI;1;xvi}/sarvA{sarvanAma;swrI;2;xvi}	sarva{sarvanAma;puM;1;bahu}	karwA,7	saba					
+10	kOrava-inxraM	9	kOravenxraM	kOrava-inxra{puM;2;eka}/inxra{napuM;1;eka}/inxra{napuM;2;eka}	kOrava-inxra{puM;2;eka}	karma,7	kOrava-inxra_ko					
+11	yaWA	10	yaWA	yaWA{avya}	yaWA{avya}	upamAna_xyowakaH,13	jEse					
+12	purA	11	purA	purA{avya}	purA{avya}	kAlAXikaraNam,13	pahale					
+13	(upAwiRTanwa(upAwiRTan))	6		RWA1{karwari;laf;ma;bahu;parasmEpaxI;RWA;:BvAxiH}	upa_RWA karwari laf pra bahu parasmEpaxI{XAwuH RWA} BvAxiH	upamAnam,7	rahe					

@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	gawe	1	gawe	gawi{swrI;8;eka}/gawa{puM;7;eka(gam1;kwa;gamLz;:BvAxiH)}/gawa{napuM;1;xvi(gam1;kwa;gamLz;:BvAxiH)}/gawa{napuM;2;xvi(gam1;kwa;gamLz;:BvAxiH)}/gawa{napuM;7;eka(gam1;kwa;gamLz;:BvAxiH)}/gawA{swrI;1;xvi(gam1;kwa;gamLz;:BvAxiH)}/gawA{swrI;2;xvi(gam1;kwa;gamLz;:BvAxiH)}	gawa{puM;7;eka(gam1;kwa;gamLz;:BvAxiH)}	BAvalakRaNasapwamI_samAnakAlaH,7	gawi					
+2	Bagavawi	2	Bagavawi	Baga{mawup;puM;7;eka}/Baga{mawup;napuM;7;eka}/Bagavaw{puM;7;eka}	Baga{mawup;puM;7;eka}	viSeRaNam,3	Baga_meM					
+3	vyAse	3	vyAse	vi_as3{karmaNi;lit;pra;eka;AwmanepaxI;asuz;:xivAxiH}/vi_as3{karmaNi;lit;u;eka;AwmanepaxI;asuz;:xivAxiH}/vyAsa{puM;7;eka}/vyAsa{puM;7;eka(as3;GaF;asuz;:xivAxiH)}	vyAsa{puM;7;eka}	karwA,1						
+4	rAjA	4	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	viSeRaNam,5	rAjA					
+5	pANdu-suwaH	5	pANdusuwaswawaH	pANdu-Ru2{karwari;lat;pra;xvi;parasmEpaxI;Ru;:axAxiH}/pANdu-suwa{puM;1;eka(Ru3;kwa;RuF;:svAxiH)}/pANdu-suwa{puM;1;eka(Su1;kwa;Su;:BvAxiH)}/pANdu-suwa{puM;1;eka(Ru2;kwa;Ru;:axAxiH)}/suwa{puM;1;eka}	pANdu-suwa{puM;1;eka}	karwA,7	Ru2_pp_skwe_hEM					
+6	wawaH			wawaH{avya}	wawaH{avya}	aXikaraNam,7	vahAz_se					
+7	provAca	6	provAca	pra_vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}/vac1{karwari;lit;u;eka;parasmEpaxI;vacaz;:axAxiH}	pra_vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}	aBihiwa_karwA,5;sakarmaka	bolA					
+8	piwaram	7	piwaram	piwq{puM;2;eka}	piwq{puM;2;eka}	karma,7	piwA_ko					
+9	vqxXam	8	vqxXam	vqxXa{puM;2;eka}/vqxXa{napuM;1;eka}/vqxXa{napuM;2;eka}	vqxXa{puM;2;eka}	viSeRaNam,8	vqxXa_ko					
+10	manxam	9	manxam	manxa{puM;2;eka}/manxa{napuM;1;eka}/manxa{napuM;2;eka}	manxa{puM;2;eka}	vIpsA,11	manxa_ko					
+11	manxam	10	manxamivAnawaH	manxa{puM;2;eka}/manxa{napuM;1;eka}/manxa{napuM;2;eka}	manxa{puM;2;eka}	kriyAviSeRaNam,7	manxa_ko					
+12	iva			iva{avya}	iva{avya}	sambanXaH,11	jEse					
+13	AnawaH			A_nawa{puM;1;eka{kqxanwa}({kqw_XAwu Nam1} kwa{XAwuH Namaz} BvAxiH)}	A_nawa{puM;1;eka{kqxanwa}({kqw_XAwu Nam1} kwa{XAwuH Namaz} BvAxiH)}	viSeRaNam,5						

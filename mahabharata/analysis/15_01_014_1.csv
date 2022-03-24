@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sAmanweByaH	1	sAmanweByaH	sAmanwa{puM;4;bahu}/sAmanwa{puM;5;bahu}/sAmanwa{napuM;4;bahu}/sAmanwa{napuM;5;bahu}	sAmanwa{puM;5;bahu}	apAxAnam,8	pad..़osiyoM_ko					
+2	priyANi	2	priyANyasya	priya{napuM;1;bahu}/priya{napuM;2;bahu}/priya{napuM;8;bahu}	priya{napuM;1;bahu}	viSeRaNam,4	priya					
+3	asya			ixam{sarvanAma;puM;6;eka}/ixam{sarvanAma;napuM;6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;:xivAxiH}	ixam{sarvanAma;puM;6;eka}	viSeRaNam,13	isakA					
+4	kAryANi	3	kAryANi	kArya{napuM;8;bahu}/kArya{napuM;1;bahu}/kArya{napuM;2;bahu}	kArya{napuM;1;bahu}	karma,8	kArya					
+6	su-gurUNi	4	sugurUNyapi	guru{napuM;1;bahu}/guru{napuM;2;bahu}	guru{napuM;1;bahu}	viSeRaNam,4	guru					
+7	api			api{avya}	api{avya}	sambanXaH,4	BI					
+8	prApyanwe	5	prApyanweZrWEH	pra_Ap1{karmaNi;lat;pra;bahu;AwmanepaxI;ApLz;:svAxiH}	pra_Ap1{karmaNi;lat;pra;bahu;AwmanepaxI;ApLz;:svAxiH}	aBihiwa_karwA,15;sakarmaka	prApwa_huA_jAwA_hE					
+9	arWEH			arWa{puM;3;bahu}/arWa{napuM;3;bahu}	arWa{puM;3;bahu}	karaNam,8	arWoM_se					
+11	su-laGuBiH	6	sulaGuBiH	laGu{napuM;3;bahu}/laGu{swrI;3;bahu}/laGu{puM;3;bahu}	laGu{puM;3;bahu}	viSeRaNam,9	laGu_se					
+12	praBAvAw	7	praBAvAxvixurasya	praBAva{puM;5;eka}/praBAva{puM;5;eka(BU1;GaF;BU;:BvAxiH)}	praBAva{puM;5;eka}	hewuH,8	praBAva_se					
+13	vixurasya			vixura{puM;6;eka}	vixura{puM;6;eka}	RaRTIsambanXaH,12	buxXimAna_kA					
+14	vE	8	vE	vE{avya}	vE{avya}	sambanXaH,8	suKanA					
+15	(pANdavEH)			pANdava{puM;1;bahu}/pANdava{puM;8;bahu}	pANdava{puM;3;bahu}	karwA,8	pANdava					

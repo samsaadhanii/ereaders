@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vixuraH	5	vixuraH	vixura{puM;1;eka}	vixura{puM;1;eka}	samucciwaH,5	buxXimAna					
+2	saFjayaH	6	saFjayaScEva	saFjaya{puM;1;eka}	saFjaya{puM;1;eka}	samucciwaH,5	saMjaya					
+3	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora					
+4	eva			eva{avya}	eva{avya}	sambanXaH,3	hI					
+5	yuyuwsuH	1	yuyuwsuScEva	yuyuwsu{puM;1;eka}	yuyuwsu{puM;1;eka}	karwA,9	ladane_kI_icCA_vAlA					
+6	ca			ca{avya}	ca{avya}	sambanXaH,5	Ora					
+7	eva			eva{avya}	eva{avya}	sambanXaH,6	hI					
+8	kOravaH	8	kOravaH	kOrava{puM;1;eka}	kOrava{puM;1;eka}	viSeRaNam,5	kOrava					
+9	upAsawe	9	upAsawe	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;Asaz;:axAxiH}/upAsaw{puM;4;eka(As1;Sawq_lat;Asaz;:axAxiH)}/upAsaw{napuM;4;eka(As1;Sawq_lat;Asaz;:axAxiH)}	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;Asaz;:axAxiH}	aBihiwa_karwA,1;sakarmaka	upAsanA_karawe_hEM					
+10	sma	10	sma	sma{avya}	sma{avya}	sambanXaH,9	-					
+11	waM	11	waM	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,14	usako					
+12	vqxXaM	12	vqxXaM	vqxXa{puM;2;eka}/vqxXa{napuM;1;eka}/vqxXa{napuM;2;eka}	vqxXa{puM;2;eka}	viSeRaNam,14	vqxXa_ko					
+13	hawa-puwraM	13	hawapuwraM	han1{kwa;hanaz;:axAxiH-puwra;puM;2;eka}/puwra{napuM;1;eka}/puwra{napuM;2;eka}	han1{kwa;hanaz;:axAxiH-puwra;puM;2;eka}	viSeRaNam,14						
+14	janAXipam	14	janAXipam	janAXipa{puM;2;eka}	janAXipa{puM;2;eka}	karma,9	rAjA_ko					

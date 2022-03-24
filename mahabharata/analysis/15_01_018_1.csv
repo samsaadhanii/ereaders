@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vAsAMsi	1	vAsAMsi	vAsas{napuM;1;bahu}/vAsas{napuM;2;bahu}/vAsas{napuM;8;bahu}	vAsas{napuM;2;bahu}	karma,7	vaswra					
+2	ca	2	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,1	Ora					
+3	mahArhANi	3	mahArhANi	mahArha{napuM;1;bahu}/mahArha{napuM;2;bahu}	mahArha{napuM;2;bahu}	viSeRaNam,1	awimUlyavAn					
+4	mAlyAni	4	mAlyAni	mAlya{napuM;1;bahu}/mAlya{napuM;2;bahu}/}/mAlya{napuM;8;bahu}	mAlya{napuM;2;bahu}	samucciwaH,1	mAlya					
+5	viviXAni	5	viviXAni	viviXa{napuM;1;bahu}/viviXa{napuM;2;bahu}/viviXa{napuM;8;bahu}	viviXa{napuM;2;bahu}	viSeRaNam,4	viviXa					
+6	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,5	Ora					
+7	upAjahruH	7	upAjahruryaWAnyAyaM	upa_Af_hq1{karwari;lit;pra;bahu;parasmEpaxI;hqF;:BvAxiH}	upa_Af_hq1{karwari;lit;pra;bahu;parasmEpaxI;hqF;:BvAxiH}	aBihiwa_karwA,10;sakarmaka	upa_Af_hq1_pp_skyA					
+8	yaWA-nyAyaM			yaWA{avya}	yaWAnyAyaM{avya}	kriyAviSeRaNam,7	jEse					
+9	XqwarARtrasya(XqwarARtrAya)	8	XqwarARtrasya	XqwarARtra{puM;4;eka}	XqwarARtra{puM;4;eka}	sampraxAnam,7	XqwarARtra_kA					
+10	pANdavAH	9	pANdavAH	pANdava{puM;1;bahu}/pANdava{puM;8;bahu}	pANdava{puM;1;bahu}	karwA,7	pANdava					

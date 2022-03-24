@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	xuRta-mawim	2	xuRtamawim	xuR1{kwa;xuRaz;:xivAxiH-mawi;swrI;2;eka}/mawi{puM;2;eka}	xuR1{kwa;xuRaz;:xivAxiH-mawi;puM;2;eka}	viSeRaNam,5						
+2	mUDam	3	mUDam	mUDa{puM;2;eka}/mUDa{napuM;1;eka}/mUDa{napuM;2;eka}	mUDa{puM;2;eka}	viSeRaNam,5	mUrKa_ko					
+3	jFAwInAm	4	jFAwInAm	jFAwi{puM;6;bahu}	jFAwi{puM;6;bahu}	RaRTIsambanXaH,4	pEwqka_sambanXoM_kA					
+4	Baya-varXanam	5	BayavarXanam	Baya-varXana{napuM;1;eka(Baya-vqX1;lyut;vqXuz;:BvAxiH)}/Baya-varXana{napuM;2;eka(vqX1;lyut;vqXuz;:BvAxiH)}/Baya-varXana{napuM;1;eka(varX1;lyut;varXaz;:curAxiH)}/Baya-varXana{napuM;2;eka(varX1;lyut;varXaz;:curAxiH)}/Baya-varXana{napuM;1;eka(vqX2;lyut;vqXuz;:curAxiH)}/Baya-varXana{napuM;2;eka(vqX2;lyut;vqXuz;:curAxiH)}/varXana{puM;2;eka}/varXana{napuM;1;eka}/varXana{napuM;2;eka}	Baya-varXana{puM;2;eka(Baya-vqX1;lyut;vqXuz;:BvAxiH)}	viSeRaNam,5						
+5	xuryoXanam	6	xuryoXanam	xuryoXana{puM;2;eka}/xuryoXana{napuM;1;eka}/xuryoXana{napuM;2;eka}	xuryoXana{puM;2;eka}	karma,10	xuryoXana_ko					
+6	kOravANAm	7	kOravANAmAXipawyeZByaRecayam	kOrava{puM;6;bahu}	kOrava{puM;6;bahu}	RaRTIsambanXaH,7	kOravoM_kA					
+7	AXipawye			AXipawya{napuM;1;xvi}/AXipawya{napuM;2;xvi}/AXipawya{napuM;8;xvi}/AXipawya{napuM;7;eka}	AXipawya{napuM;7;eka}	aXikaraNam,10	aXikAra					
+8	yaH	1	yoZhaM	yax{sarvanAma;puM;1;eka}	yax{sarvanAma;puM;1;eka}	viSeRaNam,9	jo					
+9	aham			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,10	mEM					
+10	aByaRecayam			man1{Nijanwa;karwari;lat;pra;eka;parasmEpaxI;manaz;:xivAxiH}/man2{Nijanwa;karwari;lat;pra;eka;parasmEpaxI;manuz;:wanAxiH}/man3{Nijanwa;karwari;lat;pra;eka;parasmEpaxI;manaz;:curAxiH}/mAn1{Nijanwa;karwari;lat;pra;eka;parasmEpaxI;mAnaz;:BvAxiH}/mAn2{Nijanwa;karwari;lat;pra;eka;parasmEpaxI;mAnaz;:curAxiH}/mAnayaw{puM;7;eka(mAn2;Sawq_lat;mAnaz;:curAxiH)}/mAnayaw{napuM;7;eka(mAn2;Sawq_lat;mAnaz;:curAxiH)}/mAnayaw{puM;7;eka(man3;Sawq_lat;manaz;:curAxiH)}/mAnayaw{napuM;7;eka(man3;Sawq_lat;manaz;:curAxiH)}	aBi_Ric{karwari,lat,pra,eka,parasmEpaxI{XAwuH Ricaz},wuxAxiH}	aBihiwa_karwA,9;sakarmaka						

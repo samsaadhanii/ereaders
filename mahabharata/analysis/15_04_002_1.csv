@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	rAjan	11	rAjannapaXyAwi	rAjan{puM;8;eka}/rAjaw{puM;1;eka(rAj1;Sawq_lat;rAjqz;:BvAxiH)}	rAjan{puM;8;eka}	samboXyaH,8	camakawA_huA					
+2	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,8	jaba				niwya_sambanXaH,9	
+3	rAjA	4	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	viSeRaNam,4	rAjA					
+4	kOravaH	3	kOravo	kOrava{puM;1;eka}	kOrava{puM;1;eka}	karwA,8	kOrava1_ne					
+5	wu	2	wu	wu{avya}	wu{avya}	sambanXaH,4	wo					
+6	bAliSam	7	bAliSam	bAliSa{puM;2;eka}/bAliSa{napuM;1;eka}/bAliSa{napuM;2;eka}	bAliSa{puM;2;eka}	viSeRaNam,7	aboXa_kA					
+7	puwram	5	puwram	puwra{puM;2;eka}	puwra{puM;2;eka}	karma,8	puwra					
+8	sasmAra	6	sasmAra	smq1{karwari;lit;u;eka;parasmEpaxI;smq;:BvAxiH}/smq1{karwari;lit;pra;eka;parasmEpaxI;smq;:BvAxiH}/smq2{karwari;lit;u;eka;parasmEpaxI;smq;:svAxiH}/smq2{karwari;lit;pra;eka;parasmEpaxI;smq;:svAxiH}	smq2{karwari;lit;pra;eka;parasmEpaxI;smq;:svAxiH}	aBihiwa_karwA,4;sakarmaka	smaraNa_kiyA					
+9	waxA	8	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,14	waba				niwya_sambanXaH,2	
+10	saH	12	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,11	vaha					
+11	pArWivaH	13	pArWivaH	pArWiva{puM;1;eka}	pArWiva{puM;1;eka}	karwA,14	pArWiva					
+12	BImam	9	BImam	BIma{puM;2;eka}/BIma{napuM;1;eka}/BIma{napuM;2;eka}	BIma{puM;2;eka}	karma,14	BIma					
+13	hqxA	10	hqxA	hqx{napuM;3;eka}/hqxaya{napuM;3;eka}	hqxaya{napuM;3;eka}	hewuH,14	hqxaya_ke_xvArA					
+14	apaXyAwi			ap_aXi-aw1{karmaNi;luf;pra;eka;AwmanepaxI;awaz;:BvAxiH}	ap_aXi-aw1{karmaNi;luf;pra;eka;AwmanepaxI;awaz;:BvAxiH}	aBihiwa_karwA,11;sakarmaka						

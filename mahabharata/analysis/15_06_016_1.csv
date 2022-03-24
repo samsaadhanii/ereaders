@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kuru-nanxana	5	kurunanxana	kuru-nanxana{puM;8;eka}	kuru-nanxana{puM;8;eka}	samboXyaH,6	kuru-nanxana					
+2	wAwa			wAwa{puM;8;eka}	wAwa{puM;8;eka}	samboXyaH,6	piwA					
+3	me	2	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,4	merA					
+4	manaH	3	manaswAwa	manas{napuM;1;eka}/manas{napuM;2;eka}/manas{napuM;8;eka}	manas{napuM;1;eka}	karwA,6	mana					
+5	wApasye	1	wApasye	wApasya{napuM;1;xvi}/wApasya{napuM;2;xvi}/wApasya{napuM;8;xvi}/wApasya{napuM;7;eka}	wApasya{napuM;7;eka}	aXikaraNam,6	wApasya_meM					
+6	varwawe	4	varwawe	vqw1{karwari;lat;pra;eka;AwmanepaxI;vqwuz;:BvAxiH}	vqw1{karwari;lat;pra;eka;AwmanepaxI;vqwuz;:BvAxiH}	aBihiwa_karwA,4	howA_hE					
+7	praBo	9	praBo	praBu{puM;8;eka}/praBu{napuM;8;eka}	praBu{puM;8;eka}	samboXyaH,11	praBu					
+8	asmAkam			asmax{sarvanAma;6;bahu}	asmax{sarvanAma;6;bahu}	RaRTIsambanXaH,9	hamAre					
+9	kule	8	kuleZsmAkamaraNyagamanaM	kula{napuM;1;xvi}/kula{napuM;2;xvi}/kula{napuM;8;xvi}/kuli{puM;8;eka}/kula{napuM;7;eka}	kula{napuM;7;eka}	aXikaraNam,11	kula_meM					
+10	araNya-gamanam			araNya-gamana{napuM;1;eka}/gamana{napuM;2;eka}/araNya-gamana{napuM;1;eka(gam1;lyut;gamLz;:BvAxiH)}/araNya-gamana{napuM;2;eka(gam1;lyut;gamLz;:BvAxiH)}	araNya-gamana{napuM;1;eka(araNya-gam1;lyut;gamLz;:BvAxiH)}	karma,11	vana-					
+11	uciwam	6	uciwam	uciwa{puM;2;eka(uc1;kwa;ucaz;:xivAxiH)}/uciwa{napuM;1;eka(uc1;kwa;ucaz;:xivAxiH)}/uciwa{napuM;2;eka(uc1;kwa;ucaz;:xivAxiH)}	uciwa{napuM;1;eka(uc1;kwa;ucaz;:xivAxiH)}	aBihiwa_karma,10	uciwa					
+12	hi	7	hi	hi{avya}	hi{avya}	sambanXaH,10	hi					

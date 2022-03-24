@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	xrOpaxI	4	xrOpaxI	xrOpaxI{swrI;1;eka}	xrOpaxI{swrI;1;eka}	samucciwaH,8	xrOpaxI					
+2	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora					
+3	suBaxrA	6	suBaxrA	suBaxrA{swrI;1;eka}	suBaxrA{swrI;1;eka}	samucciwaH,8	suBaxrA					
+4	ca	7	ca	ca{avya}	ca{avya}	sambanXaH,5	Ora					
+5	yAH	8	yAScAnyAH	yax{sarvanAma;swrI;1;bahu}/yax{sarvanAma;swrI;2;bahu}	yax{sarvanAma;swrI;1;bahu}	viSeRaNam,8	jo					
+6	ca			ca{avya}	ca{avya}	sambanXaH,3	Ora					
+7	anyAH			anyA{swrI;1;bahu}/anyA{swrI;2;bahu}/anyA{sarvanAma;swrI;1;bahu}/anyA{sarvanAma;swrI;2;bahu}/an1{karwari;ASIrlif;ma;eka;parasmEpaxI;anaz;:axAxiH}/an1{karwari;viXilif;ma;eka;parasmEpaxI;anaz;:axAxiH}	anyA{sarvanAma;swrI;1;bahu}	viSeRaNam,8	anyeM					
+8	pANdava-swriyaH	9	pANdavaswriyaH	pANdava-swrI{swrI;1;bahu}/swrI{swrI;2;bahu}/swrI{swrI;8;bahu}	pANdava-swrI{swrI;1;bahu}	karwA,11	pANdava-swriyAz					
+9	samAM	10	samAM	samA{swrI;2;eka}/samA{sarvanAma;swrI;2;eka}	samA{swrI;2;eka}	viSeRaNam,10	varRa_ko					
+10	vqwwim	11	vqwwimavarwanwa	vqwwi{swrI;2;eka}	vqwwi{swrI;2;eka}	karma,11	aswiwva_ko					
+11	avarwanwa			vqw1{karwari;laf;pra;bahu;AwmanepaxI;vqwuz;:BvAxiH}	vqw1{karwari;laf;pra;bahu;AwmanepaxI;vqwuz;:BvAxiH}	aBihiwa_karwA,1;sakarmaka	hue					
+12	wayoH	12	wayoH	wax{sarvanAma;puM;6;xvi}/wax{sarvanAma;napuM;6;xvi}/wax{sarvanAma;swrI;6;xvi}/wax{sarvanAma;puM;7;xvi}/wax{sarvanAma;napuM;7;xvi}/wax{sarvanAma;swrI;7;xvi}	wax{sarvanAma;puM;6;xvi}	RaRTIsambanXaH,13	unakA					
+13	SvaSrvoH	13	SvaSrvoryaWAviXi	SvaSvoH}	SvaSrva{puM;6;xvi}	RaRTIsambanXaH,9						
+14	yaWA-viXi			yaWA-viXi{napuM;8;eka}/viXi{napuM;1;eka}/viXi{napuM;2;eka}/viXI{swrI;8;eka}	yaWA-viXi{avya}	sambanXaH,11	yaWA-viXi					

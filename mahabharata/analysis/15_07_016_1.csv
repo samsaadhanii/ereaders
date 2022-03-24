@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	nara-SreRTa	3	naraSreRTa	nara-SreRTa{puM;8;eka}/SreRTa{napuM;8;eka}	nara-SreRTa{puM;8;eka}	samboXyaH,6	nara-SreRTa					
+2	pqWivIm	5	pqWivIm	pqWivI{swrI;2;eka}	pqWivI{swrI;2;eka}	samucciwaH,4	pqWvI					
+3	waWA	6	waWA	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,4	vEse					
+4	jIviwam	4	jIviwam	jIviwa{puM;2;eka(jIv1;kwa;jIvaz;:BvAxiH)}/jIviwa{napuM;1;eka(jIv1;kwa;jIvaz;:BvAxiH)}/jIviwa{napuM;2;eka(jIv1;kwa;jIvaz;:BvAxiH)}	jIviwa{napuM;2;eka(jIv1;kwa;jIvaz;:BvAxiH)}	karma,6	jIviwa					
+5	na	1	na	na{avya}	na{avya}	prawiReXaH,6	nahIM					
+6	kAmaye	2	kAmaye	kam1{karwari;lat;u;eka;AwmanepaxI;kamuz;:BvAxiH}/kam1{karwari;viXilif;u;eka;AwmanepaxI;kamuz;:BvAxiH}/kam1{Nijanwa;karwari;lat;u;eka;AwmanepaxI;kamuz;:BvAxiH}	kam1{karwari;viXilif;u;eka;AwmanepaxI;kamuz;:BvAxiH}	aBihiwa_karwA,14;sakarmaka	cAhUz					
+7	paranwapa	11	paranwapa	paranwapa{puM;8;eka}/paranwapa{napuM;8;eka}	paranwapa{puM;8;eka}	samboXyaH,13	paranwapa					
+8	rAjan	10	rAjaMScikIrRAmi	rAjan{puM;8;eka}/rAjaw{puM;1;eka(rAj1;Sawq_lat;rAjqz;:BvAxiH)}	rAjan{puM;8;eka}	samboXyaH,13	rAjA					
+9	yaWA	7	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,16	jEse				niwya_sambanXaH,12	
+10	wava	8	wava	yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,11	wumhAre					
+11	priyam	9	priyam	priya{puM;2;eka}/priya{napuM;1;eka}/priya{napuM;2;eka}	priya{napuM;1;eka}	karwA,16	priya_kI					
+12	(waWA)			waWA{avya}	waWA{avya}	kriyAviSeRaNam,13	vEse				niwya_sambanXaH,9	
+13	cikIrRAmi			iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;:wuxAxiH}	iR2{karwari;sannanwa;lat;u;eka;parasmEpaxI; kQ;wanAxiH}	aBihiwa_karwA,0;sakarmaka	icCA_karawA_hUz					
+14	(aham)				asmax{sarvanAma;1;eka}	karwA,13						
+15	(aham)				asmax{sarvanAma;1;eka}	karwA,6						
+16	(syAw)				as{karwari;viXilif;pra;eka;parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,11;sakarmaka						

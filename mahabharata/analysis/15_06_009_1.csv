@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aham	1	nAhaM	asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,16	mEM					
+2	na			na{avya}	na{avya}	prawiReXaH,16	nahIM					
+3	rAjA	2	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	viXeya_viSeRaNam,1	rAjA					
+4	BavAn	3	BavAnrAjA	Bava{puM;2;bahu}/Bavaw{sarvanAma;puM;1;eka}	 Bavaw{sarvanAma;puM;1;eka}	karwA,17	saMsAra_ko					
+5	rAjA			rAjan{puM;1;eka}	rAjan{puM;1;eka}	viXeya_viSeRaNam,4	rAjA					
+6	aham			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,15	mEM					
+7	BavawA	4	BavawA	Bavaw{sarvanAma;puM;3;eka}/Bavaw{puM;3;eka}	Bavaw{sarvanAma;puM;3;eka}	karwA,8	Apase					
+8	paravAn	5	paravAnaham	para{mawup;puM;1;eka}	para{mawup;puM;1;eka}	viSeRaNam,6	para					
+9	gurum	7	gurum	guru{puM;2;eka}	guru{puM;2;eka}	viSeRaNam,11	guru_ko					
+10	XarmajFam	9	XarmajFamanujFAwumihowsahe	XarmajFa{puM;2;eka}	XarmajFa{puM;2;eka}	viSeRaNam,11	XarmajFa_ko					
+11	wvAm	8	wvAm	yuRmax{sarvanAma;2;eka}	yuRmax{sarvanAma;2;eka}	karma,14	wumheM					
+12	iha			iha{avya}	iha{avya}	xeSAXikaraNam,15	yahAz					
+13	kaWam	6	kaWam	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,15	kEse					
+14	anujFAwum			jFA1{avya;wumun;jFA;:kryAxiH}	anu_jFA1{avya;wumun;jFA;:kryAxiH}	prayojanam,15						
+15	uwsahe			uw_Rah1{karwari;lat;u;eka;AwmanepaxI;Rahaz;:BvAxiH}	uw_Rah1{karwari;lat;u;eka;AwmanepaxI;Rahaz;:BvAxiH}	aBihiwa_karwA,3;sakarmaka	uw_Rah1_ap_skwA_hUz					
+16	(asmi)					aBihiwa_karwA,1;sakarmaka						
+17	(aswi)					aBihiwa_karwA,4;sakarmaka						

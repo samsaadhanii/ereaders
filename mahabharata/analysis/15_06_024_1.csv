@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	purA	6	purA	purA{avya}	purA{avya}	kAlAXikaraNam,7	pahale					
+2	balavawA	8	balavawA	bala{mawup;puM;3;eka}/bala{mawup;napuM;3;eka}	bala{mawup;puM;3;eka}	viSeRaNam,3	bala_se					
+3	yena	3	yena	yena{avya}/yax{sarvanAma;puM;3;eka}/yax{sarvanAma;napuM;3;eka}	yax{sarvanAma;puM;3;eka}	karwA,7					niwya_sambanXaH,9	
+4	BIma-senasya4	4	BImasenasya	BIma-sena{napuM;6;eka}/sena{puM;6;eka}	BIma-sena{puM;6;eka}	RaRTIsambanXaH,6	Bima-sena_kA					
+5	AyasI	1	AyasI	AyasI{swrI;1;eka}	AyasI{swrI;1;eka}	viSeRaNam,6	AyasI					
+6	prawimA	2	prawimA	prawimA{swrI;1;eka}	prawimA{swrI;1;eka}	karma,7	prawimA					
+7	cUrNIkqwA	7	cUrNIkqwA	cUrNIkqwA{swrI;1;eka}	cUrNIkqwA{swrI;1;eka}	aBihiwa_karma,6;sakarmaka	cUrNIkqwA					
+8	vE	5	vE	vE{avya}	vE{avya}	sambanXaH,12	suKanA					
+9	saH	9	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,12	vaha				niwya_sambanXaH,3	
+10	bala-arWI	10	balArWI	bala-arWin{puM;1;eka}	bala-arWin{puM;1;eka}	viSeRaNam,9	bala-yAcaka					
+11	swriyam	12	swriyam	swrI{swrI;2;eka}	swrI{swrI;2;eka}	karma,12	swrI_ko					
+12	SriwaH	11	SriwaH	Sriwa{puM;1;eka(Sri1;kwa;SriF;:BvAxiH)}	Sriwa{puM;1;eka(Sri1;kwa;SriF;:BvAxiH)}	aBihiwa_karwA,9;sakarmaka	gayA_huA					

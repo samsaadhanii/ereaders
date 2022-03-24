@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	we	1	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	karwA,7	ve					
+2	wu	2	wu	wu{avya}	wu{avya}	sambanXaH,1	wo					
+3	sammAniwAH	3	sammAniwA	sammAniwA{swrI;1;eka(man2;kwa;manuz;:wanAxiH)}	sammAniwA{puM;1;bahu(man2;kwa;manuz;:wanAxiH)}	viSeRaNam,1	sammAniwa					
+4	rAjan	4	rAjaMswvayA	rAjan{puM;8;eka}/rAjaw{puM;1;eka(rAj1;Sawq_lat;rAjqz;:BvAxiH)}	rAjan{puM;8;eka}	samboXyaH,7	rAjA					
+5	wvayA			yuRmax{sarvanAma;3;eka}	yuRmax{sarvanAma;3;eka}	karwA,3	wumase					
+6	rAjya-hiwa-arWinA	5	rAjyahiwArWinA	rAjya-hiwa-arWin{puM;3;eka}	rAjya-hiwa-arWin{puM;3;eka}	viSeRaNam,5						
+7	pravakRyanwi	6	pravakRyanwi	pra_vah1{karwari;lqt;pra;bahu;parasmEpaxI;vahaz;:BvAxiH}	pra_vah1{karwari;lqt;pra;bahu;parasmEpaxI;vahaz;:BvAxiH}	aBihiwa_karwA,1;sakarmaka	baheMge					
+8	hiwam	7	hiwam	hiwa{puM;2;eka(XA1;kwa;duXAF;:juhowyAxiH)}/hiwa{napuM;1;eka(XA1;kwa;duXAF;:juhowyAxiH)}/hiwa{napuM;2;eka(XA1;kwa;duXAF;:juhowyAxiH)}/hiwa{puM;2;eka(hi1;kwa;hi;:svAxiH)}/hiwa{napuM;1;eka(hi1;kwa;hi;:svAxiH)}/hiwa{napuM;2;eka(hi1;kwa;hi;:svAxiH)}	hiwa{puM;2;eka(XA1;kwa;duXAF;:juhowyAxiH)}	karma,7						
+9	wAwa	8	wAwa	wAwa{puM;8;eka}	wAwa{puM;8;eka}	samboXyaH,7	piwA					
+10	sarvaM	9	sarvaM	sarva{sarvanAma;puM;2;eka}/sarva{sarvanAma;napuM;1;eka}/sarva{sarvanAma;napuM;2;eka}	sarva{sarvanAma;puM;2;eka}	viSeRaNam,8	saba_ko					
+11	kOrava-nanxana	10	kOravananxana	kOrava-nanxana{puM;8;eka}	kOrava-nanxana{puM;8;eka}	viSeRaNam,4	kOrava-nanxana					

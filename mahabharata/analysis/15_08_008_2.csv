@@ -1,0 +1,8 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+5	BagavAn	4	BagavAnpiwA	Bagavaw{puM;1;eka}/Baga{mawup;puM;1;eka}	Bagavaw{puM;1;eka}	karwA,11	BagavAn					
+6	piwA			piwq{puM;1;eka}/piwA{swrI;1;eka}	piwq{puM;1;eka}	viXeya_viSeRaNam,5	piwA					
+7	rAjA	5	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	samucciwaH,6	rAjA					
+8	guruH	6	guruSca	guru{puM;1;eka}	guru{puM;1;eka}	samucciwaH,6	guru					
+9	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora					
+10	me	7	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,6	merA					
+11	(aswi)			as{karwari;lat;pra;eka;parasmEpaxI{XAwuH asaz} axAxiH}	as{karwari;lat;pra;eka;parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,5;akarmaka						

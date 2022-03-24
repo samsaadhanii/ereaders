@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	saH	1	soZhamewAnyalIkAni	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,2	usa					
+2	aham			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,11						
+3	AwmanaH			Awman{puM;2;bahu}/Awman{puM;5;eka}/Awman{puM;6;eka}	Awman{puM;6;eka}	RaRTIsambanXaH,5	AwmA_ke					
+4	alIkAni			alIka{napuM;1;bahu}/alIka{napuM;2;bahu}/alIka{napuM;8;bahu}	alIka{napuM;1;bahu}	karma,11	apriya					
+5	nivqwwAni	2	nivqwwAnyAwmanaH	nivqwwa{napuM;1;bahu}/nivqwwa{napuM;2;bahu}/nivqwwa{napuM;8;bahu}	nivqwwa{napuM;1;bahu}	viSeRaNam,4	nivqwwa					
+6	Salya-BUwAni	5	SalyaBUwAni	Salya-BUwa{napuM;1;bahu}/BUwa{napuM;2;bahu}/Salya-BUwa{napuM;1;bahu(as2;kwa;asaz;:axAxiH)}/Salya-BUwa{napuM;2;bahu(as2;kwa;asaz;:axAxiH)}/Salya-BUwa{napuM;1;bahu(BU1;kwa;BU;:BvAxiH)}/Salya-BUwa{napuM;2;bahu(BU1;kwa;BU;:BvAxiH)}	Salya-BUwa{napuM;1;bahu(Salya-BU1;kwa;BU;:BvAxiH)}	viSeRaNam,4	sAhI-prANI					
+7	ewAni			ewax{sarvanAma;napuM;1;bahu}/ewax{sarvanAma;napuM;2;bahu}	ewax{sarvanAma;napuM;1;bahu}	viSeRaNam,4	inako					
+8	saxA	3	saxA	saxA{avya}	saxA{avya}	kAlAXikaraNam,11	hameSA					
+9	hqxaye	4	hqxaye	hqxaya{napuM;1;xvi}/hqxaya{napuM;2;xvi}/hqxaya{napuM;4;eka}/hqxaya{napuM;8;xvi}/hqxaya{napuM;7;eka}	hqxaya{napuM;4;eka}	xeSAXikaraNam,11	hqxaya_ko					
+10	sahasraSaH	7	sahasraSaH	sahasra{avya;Sas}	sahasra{avya;Sas}	viSeRaNam,4	sahasra_kara_ke					
+11	XArayAmi	6	XArayAmi	Xq2{Nijanwa;karwari;lat;u;eka;parasmEpaxI;Xqf;:BvAxiH}/Xq3{Nijanwa;karwari;lat;u;eka;parasmEpaxI;Xqf;:wuxAxiH}	Xq3{Nijanwa;karwari;lat;u;eka;parasmEpaxI;Xqf;:wuxAxiH}	aBihiwa_karwA,2; sakarmaka						

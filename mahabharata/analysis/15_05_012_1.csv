@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ajina-saMvqwaH			ajina-saMvqw{puM;1;bahu}/saMvqw{puM;2;bahu}/saMvqw{puM;5;eka}/saMvqw{puM;6;eka}/saMvqwa{puM;1;eka}	ajina-saMvqwa{puM;1;eka}	viSeRaNam,10	ajina-saMvqw					
+2	japya-paraH	3	japyaparo	jap1{yaw;japaz;:BvAxiH-para;sarvanAma;puM;1;eka}/para{puM;1;eka}	jap1{yaw;japaz;:BvAxiH-para;sarvanAma;puM;1;eka}	viSeRaNam,10	jap1					
+3	yaSasvinI	8	yaSasvinI	yaSasvin{napuM;1;xvi}/yaSasvin{napuM;2;xvi}/yaSasvinI{swrI;1;eka}/yaSasvin{napuM;8;xvi}	yaSasvinI{swrI;1;eka}	viSeRaNam,4	prasixXa					
+4	gAnXArI	6	gAnXArI	gAnXArI{swrI;1;eka}/gAnXAri{puM;1;xvi}/gAnXAri{puM;2;xvi}/gAnXAri{puM;8;xvi}	gAnXArI{swrI;1;eka}	samucciwaH,10	gAnXArI					
+5	ca	7	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora					
+6	niyama-vyapaxeSena	5	niyamavyapaxeSena	niyama-vyapaxeSa{puM;3;eka(niyama-xiS1;GaF;xiSaz;:wuxAxiH)}	niyama-vyapaxeSa{puM;3;eka(niyama-xiS1;GaF;xiSaz;:wuxAxiH)}	hewuH,9	niyama-sUcanA_se					
+7	BUmO	1	BUmO	BUmi{swrI;7;eka}	BUmi{swrI;7;eka}	xeSAXikaraNam,9	BUmi_meM					
+8	xarBeRu	4	xarBeRvajinasaMvqwaH	xarBa{puM;7;bahu}	xarBa{puM;7;bahu}	xeSAXikaraNam,9	kuSoM_meM					
+9	Saye	2	Saye	SayA{swrI;1;xvi}/SayA{swrI;2;xvi}/SI1{karwari;lat;u;eka;AwmanepaxI;SIf;:axAxiH}/Saya{puM;7;eka}	SI1{karwari;lat;u;eka;AwmanepaxI;SIf;:axAxiH}	aBihiwa_karwA,10	SayAyeM					
+10	(aham)				asmax{sarvanAma;1;eka}	karwA,9						

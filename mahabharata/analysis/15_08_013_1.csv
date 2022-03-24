@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	piwrA	1	piwrA	piwq{puM;3;eka}	piwq{puM;3;eka}	viSeRaNam,5	piwA_se					
+2	wu	2	wu	wu{avya}	wu{avya}	sambanXaH,5	wo					
+3	wava	3	wava	yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,1	wumhArA					
+4	rAjA-inxra	4	rAjenxra	rAjA-inxra{puM;8;eka}/inxra{napuM;8;eka}	rAjA-inxra{puM;8;eka}	samboXyaH,10	rAjA-inxra					
+5	pANdunA	5	pANdunA	pANdu{puM;3;eka}	pANdu{puM;3;eka}	karwA,10	pANdu_se					
+6	pqWivI-kRiwA	6	pqWivIkRiwA	pqWivI-kRi{wal;swrI;1;eka}/pqWivI-kRiwA{swrI;1;eka(kRi3;kwa;kRi;:wuxAxiH)}/pqWivI-kRiwA{swrI;1;eka(kRi1;kwa;kRi;:BvAxiH)}/pqWivI-kRiwA{swrI;1;eka(kRI1;kwa;kRIR;:kryAxiH)}	pqWivIkRiw{puM;3;eka}	viSeRaNam,5	pqWvI-kRi					
+7	SiRya-BUwena	7	SiRyaBUwena	SAs1{yaw;SAsuz;:axAxiH}/SAs1{Nyaw;SAsuz;:axAxiH-BUwa;napuM;3;eka}/BUwa{puM;3;eka(as2;kwa;asaz;:axAxiH)}/BUwa{napuM;3;eka(as2;kwa;asaz;:axAxiH)}/BUwa{puM;3;eka(BU1;kwa;BU;:BvAxiH)}/BUwa{napuM;3;eka(BU1;kwa;BU;:BvAxiH)}	SAs1Nyaw;SAsuz;:axAxiH-BUwa;napuM;3;eka}	viSeRaNam,5						
+8	rAjA	8	rAjAyaM	rAjan{puM;2;eka}	rAjan{puM;1;eka}	karma,12	rAjA_ko					
+9	guruvaw	9	guruvawparyupAsiwaH	guruvaw{avya}	guruvaw{avya}	kriyAviSeRaNam,10						
+10	paryupAsiwaH			pari_upAsiwa{puM;1;eka(As1;kwa;Asaz;:axAxiH)}	pari_upAsiwa{puM;1;eka(As1;kwa;Asaz;:axAxiH)}	karmasamAnAXikaraNam,12	upAsanA_kI_huI					
+11	 ayam			ixam{sarvanAma;puM;1;eka}	ixam{sarvanAma;puM;1;eka}	viSeRaNam,8						
+12	(aswi)			as{karwari lat pra eka parasmEpaxI{XAwuH asaz} axAxiH}	as{karwari lat pra eka parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karma,8;sakarmakaH						

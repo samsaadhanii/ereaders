@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wvayA	1	wvayA	yuRmax{sarvanAma;3;eka}	yuRmax{sarvanAma;3;eka}	karwA,12	wumase					
+2	ca	2	cAyaM	ca{avya}	ca{avya}	sambanXaH,1	Ora					
+3	ayam			ixam{sarvanAma;puM;1;eka}/aya{puM;2;eka}	ixam{sarvanAma;puM;1;eka}	viSeRaNam,6	yaha					
+4	nara-vyAGra	3	naravyAGra	nara-vyAGra{puM;8;eka}/vyAGra{napuM;8;eka}	nara-vyAGra{puM;8;eka}	samboXyaH,12	nara-vyAGra					
+5	guru-SuSrURayA	4	guruSuSrURayA	guru-SuSrURA{swrI;3;eka}	guru-SuSrURA{swrI;3;eka}	karaNam,12	guru-SuSrURA_se					
+6	nqpaH	5	nqpaH	nqpa{puM;1;eka}	nqpa{puM;1;eka}	karma,12	rAjA					
+7	ArAXiwaH	6	ArAXiwaH	ArAXiwa{puM;1;eka(rAX2;kwa;rAXaz;:svAxiH)}/ArAXiwa{puM;1;eka(rAX1;kwa;rAXoz;:xivAxiH)}	ArAXiwa{puM;1;eka(rAX2;kwa;rAXaz;:svAxiH)}	karwA,12						
+8	sa-Bqwyena	7	saBqwyena	sa-Bqwya{puM;3;eka}/Bqwya{napuM;3;eka}	sa-Bqwya{puM;3;eka}	viSeRaNam,1	sa-sevaka_se					
+9	gAnXArI	8	gAnXArI	gAnXArI{swrI;1;eka}/gAnXAri{puM;1;xvi}/gAnXAri{puM;2;xvi}/gAnXAri{puM;8;xvi}	gAnXArI{swrI;1;eka}	samucciwaH,6	gAnXArI					
+10	ca	9	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora					
+11	yaSasvinI	10	yaSasvinI	yaSasvin{napuM;1;xvi}/yaSasvin{napuM;2;xvi}/yaSasvinI{swrI;1;eka}/yaSasvin{napuM;8;xvi}	yaSasvinI{swrI;1;eka}	viSeRaNam,9	prasixXa					
+12	(aswi)			as{karwari lat pra eka parasmEpaxI{XAwuH asaz} axAxiH}	as{karwari lat pra eka parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,6;sakarmakaH						

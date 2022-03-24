@@ -1,0 +1,10 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	puram	1	puram	pur{swrI;2;eka}/pura{napuM;1;eka}/pura{napuM;2;eka}	pura{napuM;1;eka}	karwA,5	pura_ko					
+2	ca	2	ca	ca{avya}	ca{avya}	sambanXaH,1	Ora					
+3	we	3	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,1	wumheM					
+4	su-gupwam	4	sugupwam	su-gupwa{puM;2;eka(su-gup1;kwa;gupUz;:BvAxiH)}/su-gupwa{napuM;1;eka(gup1;kwa;gupUz;:BvAxiH)}/su-gupwa{napuM;2;eka(gup1;kwa;gupUz;:BvAxiH)}	su-gupwa{napuM;1;eka(su-gup1;kwa;gupUz;:BvAxiH)}	viXeya_viSeRaNam,1	su-gupwa					
+5	syAw	5	syAxxqDaprAkAraworaNam	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,1;sakarmaka	as2_pp_skyeM					
+6	xqDa-prAkAra-woraNam			xqDa-prAkAra-woraNa{puM;2;eka}/xqDa-prAkAra-woraNa{napuM;1;eka(wur1;lyut;wuraz;:juhowyAxiH)}/xqDa-prAkAra-woraNa{napuM;2;eka(wur1;lyut;wuraz;:juhowyAxiH)}	xqDa-prAkAra-woraNa{napuM;1;eka(xqDa-prAkAra-wur1;lyut;wuraz;:juhowyAxiH)}	viSeRaNam,1	xqDa-prAkAra-					
+7	atta-attAlaka-sambAXam	6	attAttAlakasambAXaM	atta-attAlaka-sambAXa{puM;2;eka(bAX1;GaF;bAXqz;:BvAxiH)}	atta-attAlaka-sambAXa{napuM;1;eka(bAX1;GaF;bAXqz;:BvAxiH)}	viSeRaNam,1						
+8	Rat-paWam	7	RatpaWam	Rat-paWa{puM;2;eka}/paWa{napuM;1;eka}/paWa{napuM;2;eka}	Rat-paWa{napuM;1;eka}	viSeRaNam,1	Rat-paWa					
+9	sarvawaH-xiSam	8	sarvawoxiSam	sarvawaH-xiSam{swrI;2;eka}	sarvawaH-xiSam{napuM;1;eka}	viSeRaNam,1						

@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	naraH			nq{puM;1;bahu}/nara{puM;1;eka}/nq{puM;8;bahu}	nara{puM;1;eka}	karwA,12	nara					
+2	yuXiRTira-BayAw	10	kiFcixyuXiRTiraBayAnnaraH	yuXiRTira-Baya{puM;5;eka}/Baya{napuM;5;eka}	yuXiRTira-Baya{puM;5;eka}	hewuH,12	yuXiRTira-Baya					
+3	na	1	na	na{avya}	na{avya}	prawiReXaH,12	nahIM					
+4	vE	7	vE	vE{avya}	vE{avya}	sambanXaH,12	suKanA					
+5	rAjFaH	2	rAjFo	rAjan{puM;2;bahu}/rAjan{puM;5;eka}/rAjan{puM;6;eka}	rAjan{puM;6;eka}	viSeRaNam,6	rAjA_se					
+6	XqwarARtrasya	3	XqwarARtrasya	XqwarARtra{puM;6;eka}	XqwarARtra{puM;6;eka}	samucciwaH,7	XqwarARtra_ke					
+7	xuryoXanasya	6	xuryoXanasya	xuryoXana{puM;6;eka}/xuryoXana{napuM;6;eka}	xuryoXana{napuM;6;eka}	RaRTIsambanXaH,9	xuryoXana_ke					
+8	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	BI					
+9	xuRkqwam	9	xuRkqwam	xuRkqw{puM;2;eka}/xuRkqwa{puM;2;eka}/xuRkqwa{napuM;1;eka}/xuRkqwa{napuM;2;eka}	xuRkqwa{napuM;2;eka}	muKyakarma,12	xuRkqwa					
+10	kiFciw			kiFciw{avya}/kiFciw{sarvanAma;napuM;1;eka}/kiFciw{sarvanAma;napuM;2;eka}	kiFciw{sarvanAma;napuM;2;eka}	kriyAviSeRaNam,12	kuCa_ko					
+11	na	4	na	na{avya}	na{avya}	prawiReXaH,12	nahIM					
+12	uvAca	8	uvAca	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}/vac1{karwari;lit;u;eka;parasmEpaxI;vacaz;:axAxiH}	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}	aBihiwa_karwA,1;sakarmaka	bolA					

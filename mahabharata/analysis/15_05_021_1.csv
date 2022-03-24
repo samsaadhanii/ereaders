@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wAwa	4	wAwa	wAwa{puM;8;eka}	wAwa{puM;8;eka}	samboXyaH,13	piwA					
+2	BarawarRaBa	6	BarawarRaBa	BarawarRaBa{puM;8;eka}	BarawarRaBa{puM;8;eka}	samboXyaH,13	BarawarRaBa					
+3	nqpa	10	nqpa	nqpa{puM;8;eka}	nqpa{puM;8;eka}	samboXyaH,13	rAjA					
+4	naH	2	naH	asmax{sarvanAma;2;bahu}/asmax{sarvanAma;4;bahu}/asmax{sarvanAma;6;bahu}/nq{puM;8;eka}	asmax{sarvanAma;6;bahu}	RaRTIsambanXaH,5	hamAre					
+5	kule	3	kule	kula{napuM;1;xvi}/kula{napuM;2;xvi}/kula{napuM;8;xvi}/kuli{puM;8;eka}/kula{napuM;7;eka}	kula{napuM;7;eka}	aXikaraNam,13	kula_meM					
+6	sarveRAm	5	sarveRAm	sarva{sarvanAma;puM;6;bahu}/sarva{sarvanAma;napuM;6;bahu}	sarva{sarvanAma;napuM;6;bahu}	viSeRaNam,7	sabake					
+7	vayasaH	8	vayasoZnwe	vayas{napuM;5;eka}/vayas{napuM;6;eka}	vayas{napuM;6;eka}	RaRTIsambanXaH,8	Ayu_ke					
+8	anwe			anwa{napuM;1;xvi}/anwa{napuM;2;xvi}/anwA{swrI;1;xvi}/anwA{swrI;2;xvi}/anwa{napuM;8;xvi}/anwi{swrI;8;eka}/anwa{puM;7;eka}/anwa{napuM;7;eka}	anwa{napuM;7;eka}	kAlAXikaraNam,13	anwa_meM					
+9	puwreRu	7	puwreRvESvaryamAXAya	puwra{puM;7;bahu}	puwra{puM;7;bahu}	aXikaraNam,11	puwroM_meM					
+10	ESvaryam			ESvarya{napuM;1;eka}/ESvarya{napuM;2;eka}	ESvarya{napuM;2;eka}	karma,11	ESvarya					
+11	AXAya			XA1{avya;lyap;duXAF;:juhowyAxiH}	Af_{kqw_XAwu XA1};avya lyap{XAwuH duXAF};juhowyAxiH{kqxanwa}	pUrvakAlaH,13	Upara_le_kara					
+12	vanam	9	vanam	vana{napuM;1;eka}/vana{napuM;2;eka}	vana{napuM;2;eka}	karma,13	vana					
+13	uciwam	1	uciwam	uciwa{puM;2;eka(uc1;kwa;ucaz;:xivAxiH)}/uciwa{napuM;1;eka(uc1;kwa;ucaz;:xivAxiH)}/uciwa{napuM;2;eka(uc1;kwa;ucaz;:xivAxiH)}	uciwa{napuM;2;eka(uc1;kwa;ucaz;:xivAxiH)}	aBihiwa_karma,12	uciwa					

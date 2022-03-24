@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	1	na	na{avya}	na{avya}	prawiReXaH,7	nahIM					
+2	hi	2	hi	hi{avya}	hi{avya}	sambanXaH,1	hi					
+3	waw	3	wawwasya	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	wax{sarvanAma;napuM;1;eka}	karwA,7	waw				niwya_sambanXaH,10	
+4	wasya			wax{sarvanAma;napuM;6;eka}	wax{sarvanAma;napuM;6;eka}	viSeRaNam,5	Peko					
+5	vIrasya	4	vIrasya	vIra{puM;6;eka}/vIra{napuM;6;eka}	vIra{puM;6;eka}	RaRTIsambanXaH,6	vIra_ke					
+6	hqxayAw	5	hqxayAxapasarpawi	hqxaya{puM;5;eka}	hqxaya{puM;5;eka}	apAxAnam,7	hqxaya_se					
+7	apasarpawi			apa_sqp1{karwari;lat;pra;eka;parasmEpaxI;sqpLz;:BvAxiH}	apa_sqp1{karwari;lat;pra;eka;parasmEpaxI;sqpLz;:BvAxiH}	aBihiwa_karwA,3	apa_sqp1_pp_skwA_hE					
+8	XqwarARtrasya	6	XqwarARtrasya	XqwarARtra{puM;6;eka}	XqwarARtra{puM;6;eka}	RaRTIsambanXaH,9	XqwarARtra_kI					
+9	xurbuxXeH	7	xurbuxXeryaxvqwwaM	xurbuxXi{swrI;5;eka}/xurbuxXi{swrI;6;eka}	xurbuxXi{swrI;5;eka}	hewuH,12	mUrKa_se					
+10	yaw			yaw{avya}/yax{sarvanAma;napuM;1;eka}/yax{sarvanAma;napuM;2;eka}	yax{sarvanAma;napuM;1;eka}	viSeRaNam,11	ki				niwya_sambanXaH,3	
+11	vqwwaM			vqwwa{napuM;1;eka}/vqwwa{napuM;2;eka}/vqwwa{puM;2;eka(vqw1;kwa;vqwuz;:BvAxiH)}/vqwwa{napuM;1;eka(vqw1;kwa;vqwuz;:BvAxiH)}/vqwwa{napuM;2;eka(vqw1;kwa;vqwuz;:BvAxiH)}/vqwwa{puM;2;eka(vqw2;kwa;vqwuz;:xivAxiH)}/vqwwa{napuM;1;eka(vqw2;kwa;vqwuz;:xivAxiH)}/vqwwa{napuM;2;eka(vqw2;kwa;vqwuz;:xivAxiH)}	vqwwa{napuM;1;eka(vqw2;kwa;vqwuz;:xivAxiH)}	karwA,13	mud..़a_kara_AyA_huA					
+12	xyUwa-kAriwam	8	xyUwakAriwam	xyUwa-kAriwam}	xyUwa-kAriwam{napuM;2;eka}	viSeRaNam,11	xyUwa-					
+13	(AsIw)				as{karwari,luf,pra,eka,parasmEpaxI{XAwuH asaz} BvAxiH}	aBihiwa_karwA,11						

@@ -1,0 +1,31 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vAnarAH	1	vAnarAH	vAnara{puM;1;bahu}/vAnara{puM;8;bahu}	vAnara{puM;1;bahu}	karwA,29	banxara					
+2	pakRiNaH	2	pakRiNaScEva	pakRin{puM;1;bahu}/pakRin{puM;2;bahu}/pakRin{puM;5;eka}/pakRin{puM;6;eka}/pakRin{puM;8;bahu}	pakRin{puM;1;bahu}	samucciwaH,1	pakRi					
+3	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,1	Ora					
+4	eva			eva{avya}	eva{avya}	sambanXaH,1	hI					
+5	ye	3	ye	yax{sarvanAma;puM;1;bahu}/yax{sarvanAma;napuM;1;xvi}/yax{sarvanAma;napuM;2;xvi}/yax{sarvanAma;swrI;1;xvi}/yax{sarvanAma;swrI;2;xvi}	yax{sarvanAma;puM;1;bahu}	viSeRaNam,1	jo				niwyasambanXaH,21	
+6	manuRya-anusAriNaH	4	manuRyAnukAriNaH	manuRya-anu-kAri{napuM;5;eka}/kAri{napuM;6;eka}	manuRya-anusArin{puM;1;bahu}	RaRTIsambanXaH,13	manuRya-anu-karane_vAle_se					
+7	sarve	5	sarve	sarva{sarvanAma;puM;1;bahu}/sarva{sarvanAma;napuM;1;xvi}/sarva{sarvanAma;napuM;2;xvi}/sarvA{sarvanAma;swrI;1;xvi}/sarvA{sarvanAma;swrI;2;xvi}	sarva{sarvanAma;puM;1;bahu}	viSeRaNam,13	saba					
+8	manwra-gqhe	6	manwragqhe	manwra-gqha{puM;7;eka}/gqha{napuM;8;xvi}/gqha{napuM;1;xvi}/gqha{napuM;2;xvi}/gqha{napuM;7;eka}/gqhA{swrI;8;eka}/gqhA{swrI;8;xvi}/gqhA{swrI;1;xvi}/gqhA{swrI;2;xvi}	manwra-gqha{puM;7;eka}	aXikaraNam,9	manwra-gqha_meM					
+9	varjyAH	7	varjyA	varjyA{swrI;1;eka(vqj4;yaw;vqjIz;:curAxiH)}	varjya{puM;1;bahu{kqxanwa}({kqw_XAwu vqj4} yaw{XAwuH vqjIz} curAxiH)}	viXeya_viSeRaNam,13	varjya					
+10	ye	8	ye	yax{sarvanAma;puM;1;bahu}/yax{sarvanAma;napuM;1;xvi}/yax{sarvanAma;napuM;2;xvi}/yax{sarvanAma;swrI;1;xvi}/yax{sarvanAma;swrI;2;xvi}	yax{sarvanAma;puM;1;bahu}	viSeRaNam,13	jo				niwyasambanXaH,21	
+11	ca	9	cApi	ca{avya}	ca{avya}	sambanXaH,14	Ora					
+12	api			api{avya}	api{avya}	sambanXaH,14	BI					
+13	jada-pafgukAH	10	jadapafgukAH	jada-pafgu{ka;puM;1;bahu}/pafgu{ka;swrI;1;bahu}/pafgu{ka;swrI;2;bahu}	jada-pafgu{ka;puM;1;bahu}	karwA,30	jada-laMgade					
+14	manwra-Bexe	1	manwraBexe	manwra-Bexa{puM;7;eka}	manwra-Bexa{puM;7;eka}	aXikaraNam,18	manwra-Bexa_meM					
+15	hi	2	hi	hi{avya}	hi{avya}	sambanXaH,14	hi					
+16	ye	3	ye	yax{sarvanAma;puM;1;bahu}/yax{sarvanAma;napuM;1;xvi}/yax{sarvanAma;napuM;2;xvi}/yax{sarvanAma;swrI;1;xvi}/yax{sarvanAma;swrI;2;xvi}	yax{sarvanAma;puM;1;bahu}	viSeRaNam,17	jina				niwyasambanXaH,21	
+17	xoRAH	4	xoRA	xoRa{puM;1;bahu}/xoRA{swrI;1;bahu}/xoRA{swrI;2;bahu}/xoRa{puM;8;bahu}/xoRA{swrI;8;bahu}	xoRA{swrI;1;bahu}	karwA,18	rAweM					
+18	Bavanwi	5	Bavanwi	BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;:BvAxiH}/BavanwI{swrI;8;eka}/Bavaw{napuM;1;bahu}/Bavaw{napuM;2;bahu}	BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,17;akarmakaH	howIM_hEM					
+19	pqWivI-kRiwAm	6	pqWivIkRiwAm	pqWivI-IkRiwA{swrI;2;eka(pqWivI-IkR1;kwa;IkRaz;:BvAxiH)}	pqWivI-kRiwA{puM;6;bahu(pqWivI-IkR1;kwa;IkRaz;:BvAxiH)}	RaRTIsambanXaH,14	pqWvI-spaRta_bolI_huI					
+20	na	7	na	na{avya}	na{avya}	prawiReXaH,22	nahIM					
+21	we	8	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	karma,23	unako					
+22	SakyAH	9	SakyAH	Sak3{karwari;ASIrlif;ma;eka;parasmEpaxI;SakLz;:svAxiH}/Sakya{puM;8;bahu}/Sakya{puM;1;bahu(Sak3;yaw;SakLz;:svAxiH)}/SakyA{swrI;1;bahu(Sak3;yaw;SakLz;:svAxiH)}/SakyA{swrI;2;bahu(Sak3;yaw;SakLz;:svAxiH)}	SakyA{swrI;1;bahu(Sak3;yaw;SakLz;:svAxiH)}	karma,28	Sakya					
+23	samAXAwum	10	samAXAwum	XA1{avya;wumun;duXAF;:juhowyAxiH}	sam_Af_XA1{avya;wumun;duXAF;:juhowyAxiH}	sahAyakakriyA,22	samAXAna_karanezke_liye					
+24	kaWaMciw	11	kaWaMcixiwi	kaWaFciw{avya}	kaWaFciw{avya}	kriyAviSeRaNam,23	kisI_waraha_se_ho					
+25	iwi			iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,28	EsA					
+26	me	12	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,27	merA					
+27	mawiH	13	mawiH	mawi{swrI;1;eka}	mawi{swrI;1;eka}	karwA,28						
+28	(aswi)			as{karwari lat pra eka parasmEpaxI{XAwuH asaz} axAxiH}	as{karwari lat pra eka parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,27;akarmakaH						
+29	(sanwi)			saw{napuM 8 bahu}/saw{napuM 1 bahu{kqxanwa}({kqw_XAwu as2} Sawq_lat{XAwuH asaz} axAxiH)}/saw{napuM 2 bahu{kqxanwa}({kqw_XAwu as2} Sawq_lat{XAwuH asaz} axAxiH)}/saw{napuM 8 bahu{kqxanwa}({kqw_XAwu as2} Sawq_lat{XAwuH asaz} axAxiH)}/sanwI{swrI 8 eka{kqxanwa}({kqw_XAwu as2} Sawq_lat{XAwuH asaz} axAxiH)}/as{karwari lat pra bahu parasmEpaxI{XAwuH asaz} axAxiH}	as{karwari lat pra bahu parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,1;akarmakaH						
+30	(sanwi)			saw{napuM 8 bahu}/saw{napuM 1 bahu{kqxanwa}({kqw_XAwu as2} Sawq_lat{XAwuH asaz} axAxiH)}/saw{napuM 2 bahu{kqxanwa}({kqw_XAwu as2} Sawq_lat{XAwuH asaz} axAxiH)}/saw{napuM 8 bahu{kqxanwa}({kqw_XAwu as2} Sawq_lat{XAwuH asaz} axAxiH)}/sanwI{swrI 8 eka{kqxanwa}({kqw_XAwu as2} Sawq_lat{XAwuH asaz} axAxiH)}/as{karwari lat pra bahu parasmEpaxI{XAwuH asaz} axAxiH}	as{karwari lat pra bahu parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,13;akarmakaH						

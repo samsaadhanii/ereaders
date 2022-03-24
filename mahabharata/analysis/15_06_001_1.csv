@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	nqpa	7	nqpa	nqpa{puM;8;eka}	nqpa{puM;8;eka}	samboXyaH,8	rAjA					
+2	evam			evam{avya}	evam{avya}	kriyAviSeRaNam,4	EsA					
+3	wvayi	5	wvayyevaM	yuRmax{sarvanAma;7;eka}	yuRmax{sarvanAma;7;eka}	karwA,4	wumameM					
+4	xuHKiwe	6	xuHKiwe	xuHKin{wal;swrI;1;xvi}/xuHKin{wal;swrI;2;xvi}/xuHKiwa{puM;7;eka(xuHKa1;kwa;xuHKa;:curAxiH)}/xuHKiwa{napuM;1;xvi(xuHKa1;kwa;xuHKa;:curAxiH)}/xuHKiwa{napuM;2;xvi(xuHKa1;kwa;xuHKa;:curAxiH)}/xuHKiwa{napuM;7;eka(xuHKa1;kwa;xuHKa;:curAxiH)}/xuHKiwA{swrI;1;xvi(xuHKa1;kwa;xuHKa;:curAxiH)}/xuHKiwA{swrI;2;xvi(xuHKa1;kwa;xuHKa;:curAxiH)}	xuHKiwa{napuM;7;eka(xuHKa1;kwa;xuHKa;:curAxiH)}	BAvalakRaNasapwamI_pUrvakAlaH,8	xuHKa_xiyA_huA					
+5	mAm	2	mAm	asmax{sarvanAma;2;eka}	asmax{sarvanAma;2;eka}	prayojyakarwA,8	muJe					
+6	rAjyam	4	rAjyam	rAjya{napuM;1;eka}/rAjya{napuM;2;eka}	rAjya{napuM;1;eka}	prayojakakarwA,8	rAjya					
+7	na	1	na	na{avya}	na{avya}	prawiReXaH,8	nahIM					
+8	prINayawe	3	prINayawe	prI2{Nijanwa;karwari;lat;pra;eka;AwmanepaxI;prIF;:kryAxiH}/prI3{Nijanwa;karwari;lat;pra;eka;AwmanepaxI;prIF;:curAxiH}/prINayaw{puM;4;eka(prI3;Sawq_lat;prIF;:curAxiH)}/prINayaw{napuM;4;eka(prI3;Sawq_lat;prIF;:curAxiH)}	prI3{Nijanwa;karwari;lat;pra;eka;AwmanepaxI;prIF;:curAxiH}	aBihiwa_karwA,5;sakarmaka						
+9	su-xurbuxXim	9	suxurbuxXim	su-xurbuxXi{swrI;2;eka}	su-xurbuxXi{swrI;2;eka}	viSeRaNam,12	su-mUrKa					
+10	rAjya-sakwam	10	rAjyasakwam	sakwa{puM;2;eka(rAj1;Nyaw;rAjqz;:BvAxiH-Rac2;kwa;Racaz;:BvAxiH)}/sakwa{napuM;1;eka(Rac2;kwa;Racaz;:BvAxiH)}/sakwa{napuM;2;eka(Rac2;kwa;Racaz;:BvAxiH)}/sakwa{napuM;1;eka}/sakwa{napuM;2;eka}	sakwa-sakwa{napuM;1;eka(sakwa-Rac2;kwa;Racaz;:BvAxiH)}	viSeRaNam,12	lagA_huvA-lagA_huvA					
+11	pramAxinam	11	pramAxinam	pramAxina{puM;2;eka}	pramAxina{puM;2;eka}	viSeRaNam,12	suKI					
+12	mAm			asmax{sarvanAma;2;eka}	asmax{sarvanAma;2;eka}	sambanXaH,13	merA					
+13	Xik	8	XifmAmaswu	Xik{avya}	Xik{avya}	sambanXaH,14	XikkAra					
+14	aswu			aswu{avya}/as2{karwari;lot;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lot;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,13;sakarmaka	as2_pp_skyeM					

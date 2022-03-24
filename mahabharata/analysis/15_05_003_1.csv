@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vAsuxevasya	2	vAsuxevasya	vAsuxeva{puM;6;eka}	vAsuxeva{puM;6;eka}	RaRTIsambanXaH,12	vAsuxeva_kA					
+2	sAXu	6	sAXvayaM	sAXu{napuM;1;eka}/sAXu{napuM;2;eka}/sAXu{napuM;8;eka}	sAXu{napuM;2;eka}	samucciwaH,3	sAXu					
+3	arWavaw			arWa{puM;8;eka}/arWa{napuM;8;eka}	arWa{mawup;napuM;2;eka{waxXiwa}	viSeRaNam,12	arWa					
+4	ca		ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora					
+5	ayam		ayam	ixam{sarvanAma;puM;1;eka}/aya{puM;2;eka}	ixam{sarvanAma;puM;1;eka}	karwA,9	yaha					
+6	pApaH	7	pApaH	pApin{puM;1;eka}	pApa{puM;1;eka}	viSeRaNam,5	pApin					
+7	sa-amAwyaH	8	sAmAwyaH	sa-amAwya{puM;1;eka}	sa-amAwya{puM;1;eka}	viSeRaNam,5	AmAwya					
+8	xurmawiH	10	xurmawiH	xurmawi{puM;1;eka}/xurmawi{swrI;1;eka}	xurmawi{puM;1;eka}	viSeRaNam,5	xurmawi					
+9	vaXyawAm	5	vaXyawAm	hanwavya{puM;2;eka(han1;wavyaw;hanaz;:axAxiH)}/hanwavya{napuM;1;eka(han1;wavyaw;hanaz;:axAxiH)}/hanwavya{napuM;2;eka(han1;wavyaw;hanaz;:axAxiH)}	han{karwari,viXilif,pra;eka;parasmEpaxI{XAwuH hanaz},axAxiH}	vAkyakarma,13						
+10	iwi	9	iwi	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,9	EsA					
+11	yaw	1	yaccAhaM	yaw{avya}/yax{sarvanAma;napuM;1;eka}/yax{sarvanAma;napuM;2;eka}	yaw{sarvanAma;napuM;1;eka}	viSeRaNam,12						
+12	vAkyam	3	vAkyam	vAkya{napuM;1;eka}/vAkya{napuM;2;eka}	vAkya{napuM;1;eka}	karma,13	vAkya					
+13	(ukwam)			ukwa{napuM;1;eka(vac1;kwa;vacaz;:axAxiH)}	ukwa{napuM;1;eka(vac1;kwa;vacaz;:axAxiH)}	prawiyogI,14						
+14	(waw)			waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waw{sarvanAma;napuM;1;eka}	anuyogI,17						
+15	aham			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,17	mEM					
+16	na	4	nASrORamarWavaw	na{avya}	na{avya}	prawiReXaH,17	nahIM					
+17	aSrORam			Sru1{karwari;luf;u;eka;parasmEpaxI;Sru;:BvAxiH}	Sru1{karwari;luf;u;eka;parasmEpaxI;Sru;:BvAxiH}	aBihiwa_karwA,15;sakarmaka	sunA					

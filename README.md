@@ -4,11 +4,11 @@ Repository contains data prepared for various e-Readers developed by Team Samsaa
 
 ## Status of E-Reader Data
 
-|   Sl | Book                             | Source Text | Analysis |   Script   | Complete |
-| ---: | -------------------------------- | :---------: | :------: | :--------: | :------: |
-|    1 | Raghuvamsa                       |  &#10003;   | &#10003; |  WX Roman  | &#10007; |
-<!-- |    2 | Bhagavadgita                     |  &#10003;   | &#10003; | Devanagari | &#10003; |
-|    3 | Mahabharata (Asramavasika Parva) |  &#10003;   | &#10003; | Devanagari | &#10007; |
-|    4 | Sankseparamayana                 |  &#10003;   | &#10007; | Devanagari | &#10007; | -->
+|   Sl | Book                             | Source Text | Analysis |  Encoding  |
+| ---: | -------------------------------- | :---------: | :------: | :--------: |
+|    1 | Raghuvamsa                       |  &#10007;   | &#10003; |  WX Roman  |
+|    2 | Mahabharata (Asramavasika Parva) |  &#10003;   | &#10003; |  WX Roman  |
+<!-- |    3 | Bhagavadgita                     |  &#10003;   | &#10003; | Devanagari |
+|    4 | Sankseparamayana                 |  &#10003;   | &#10007; | Devanagari | -->
 
 Additional information can be found in the respective directories.

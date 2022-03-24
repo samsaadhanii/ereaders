@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	nqpa-sawwama			nqpa-sawwama{puM;8;eka}	nqpa-sawwama{puM;8;eka}	samboXyaH,7	rAjA-uwwama					
+2	BavawaH	2	BavawaH	Bava{avya;wasil}/Bavaw{sarvanAma;puM;2;bahu}/Bavaw{sarvanAma;puM;5;eka}/Bavaw{sarvanAma;puM;6;eka}/BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;:BvAxiH}/Bavaw{puM;2;bahu}/Bavaw{puM;5;eka}/Bavaw{puM;6;eka}	Bavaw{sarvanAma;puM;6;eka}	RaRTIsambanXaH,4						
+3	OrasaH	1	Oraso	Orasa{puM;1;eka}	Orasa{puM;1;eka}	viSeRaNam,4	Orasa					
+4	puwraH	3	puwro	puwra{puM;1;eka}	puwra{puM;1;eka}	aBexaH,5	puwra					
+5	yuyuwsuH	4	yuyuwsurnqpasawwama	yuyuwsu{puM;1;eka}	yuyuwsu{puM;1;eka}	karwA,7	ladane_kI_icCA_vAlA					
+6	rAjA	6	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	viXeya_viSeRaNam,5	rAjA					
+7	aswu	5	aswu	aswu{avya}/as2{karwari;lot;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lot;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,5;sakarmaka						
+8	BavAn	11	BavAn	Bava{puM;2;bahu}/Bavaw{sarvanAma;puM;1;eka}	Bavaw{sarvanAma;puM;1;eka}	karwA,12	saMsAra_ko					
+9	ca	9	cAnyam	ca{avya}	ca{avya}	sambanXaH,8	Ora					
+10	anyam			anya{sarvanAma;puM;2;eka}	anya{sarvanAma;puM;2;eka}	karma,12	anya_ko					
+11	mahA-rAja	7	mahArAja	mahA-rAjya{napuM;1;eka}/rAjya{napuM;2;eka}	mahA-rAja{puM;8;eka}	samboXyaH,12	gAya-rAjya					
+12	manyawe	10	manyawe	man1{karwari;lat;pra;eka;AwmanepaxI;manaz;:xivAxiH}/man1{karmaNi;lat;pra;eka;AwmanepaxI;manaz;:xivAxiH}/man2{karmaNi;lat;pra;eka;AwmanepaxI;manuz;:wanAxiH}/man1{karwari;lat;pra;eka;AwmanepaxI;manuz;:xivAxiH}	man1{karwari;lat;pra;eka;AwmanepaxI;manaz;:xivAxiH}	aBihiwa_karwA,8;sakarmaka	jAnawA_hE					
+13	yam	8	yam		yax{sarvanAma;puM;2;eka}	viSeRaNam,10						

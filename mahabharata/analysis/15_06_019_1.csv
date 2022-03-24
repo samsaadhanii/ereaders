@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mahAmAwram	3	mahAmAwram	mahAmAwra{puM;2;eka}	mahAmAwra{puM;2;eka}	viSeRaNam,2	rAjya_kA_badZA_aXikArI_ko					
+2	saFjayam	1	saFjayam	saFjaya{puM;2;eka}	saFjaya{puM;2;eka}	samucciwaH,6	saMjaya_ko					
+3	ca	2	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora					
+4	mahAraWam	6	mahAraWam	mahAraWa{puM;2;eka}	mahAraWa{puM;2;eka}	viSeRaNam,5	mahAraWa_ko					
+5	kqpam	4	kqpam	kqpa{puM;2;eka}	kqpa{puM;2;eka}	samucciwaH,6	kqpAcArya_ko					
+6	pqWivI-pawim	9	pqWivIpawim	pqWivI-pawi{puM;2;eka}	pqWivI-pawi{puM;2;eka}	karma,11	pqWvI-pawi					
+7	ca	5	cApi	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	BI					
+8	api			api{avya}	api{avya}	sambanXaH,7	BI					
+9	iha			iha{avya}	iha{avya}	xeSAXikaraNam,11	yahAz					
+10	BavaxBiH	8	BavaxBiH	Bavaw{sarvanAma;puM;3;bahu}/Bavaw{puM;3;bahu}	Bavaw{puM;3;bahu}	sahArWaH,12	Apase					
+11	anunewum	7	anunewumihecCAmi	NI1{avya;wumun;NIF;:BvAxiH}	anu_NI1{avya;wumun;NIF;:BvAxiH}	karma,12	anu_NI1nezkI					
+12	icCAmi			iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;:wuxAxiH}	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;:wuxAxiH}	vAkyakarma,14	icCA_karawA_hUz					
+13	(iwi)			iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,12	EsA					
+14	(uvAca)			vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}/vac1{karwari;lit;u;eka;parasmEpaxI;vacaz;:axAxiH}	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}	aBihiwa_karwA,8;sakarmaka	bolA					
+15	(sahiwam)			sahiwa{puM;2;eka{kqxanwa}({kqw_XAwu Rah1} kwa{XAwuH Rahaz} BvAxiH)}	sahiwa{puM;2;eka{kqxanwa}({kqw_XAwu Rah1} kwa{XAwuH Rahaz} BvAxiH)}	sahArWa_xyowakaH,10						

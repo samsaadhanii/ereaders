@@ -1,0 +1,21 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mahI-pAla	13	mahIpAla	mahI-pAla{puM;8;eka}/pAla{napuM;8;eka}	mahI-pAla{puM;8;eka}	samboXyaH,17	pqWvI-pAla					
+2	me	2	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;4;eka}	sampraxAnam,18	merA					
+3	BogEH	4	BogErvA	Boga{puM;3;bahu}/Boga{napuM;3;bahu}	Boga{puM;3;bahu}	anyawaraH,4	BogoM_se					
+4	rAjyena	3	rAjyena	rAjya{napuM;3;eka}	rAjya{napuM;3;eka}	hewuH,18	rAjya_se					
+5	kim	1	kim	kim{avya}/kim{sarvanAma;napuM;1;eka}/kim{sarvanAma;napuM;2;eka}	kim{sarvanAma;napuM;1;eka}	karma,18						
+6	vA			vA{avya}	vA{avya}	anyawara_xyowakaH,4	vA					
+7	yajFEH	6	yajFEH	yajFa{puM;3;bahu}	yajFa{puM;3;bahu}	hewuH,19	yajFoM_se					
+8	kim	5	kim	kim{avya}/kim{sarvanAma;napuM;1;eka}/kim{sarvanAma;napuM;2;eka}	kim{sarvanAma;napuM;1;eka}	karma,19						
+9	vA	9	vA	vA{avya}	vA{avya}	sambanXaH,8	vA					
+10	suKena	8	suKena	suKa{puM;3;eka}/suKa{napuM;3;eka}	suKa{puM;3;eka}	hewuH,20	suKa_se					
+11	kim	7	kim	kim{avya}/kim{sarvanAma;napuM;1;eka}/kim{sarvanAma;napuM;2;eka}	kim{sarvanAma;napuM;1;eka}	karma,20						
+12	wvam	12	wvam	yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,17	wuma					
+13	ewAni			ewax{sarvanAma;napuM;1;bahu}/ewax{sarvanAma;napuM;2;bahu}	ewax{sarvanAma;napuM;1;bahu}	viSeRaNam,14	ye					
+14	xuHKAni	14	xuHKAnyewAnyavApwavAn	xuHKa{napuM;1;bahu}/xuHKa{napuM;2;bahu}/xuHKa{napuM;8;bahu}	xuHKa{napuM;1;bahu}	karma,17	xuHKa					
+15	yasya	10	yasya	yax{sarvanAma;puM;6;eka}/yax{sarvanAma;napuM;6;eka}/yas1{karwari;lot;ma;eka;parasmEpaxI;yasuz;:xivAxiH}	yax{sarvanAma;puM;6;eka}	viSeRaNam,16	jisakA					
+16	me	11	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	hewuH,17	merA					
+17	avApwavAn			Ap1{karwari;lit;ma;eka;parasmEpaxI;ApLz;:svAxiH}	ava-Apwavaw{puM;1;eka{kqxanwa}({kqw_XAwu Ap1};kwavawu{XAwuH ApLz};svAxiH)}	aBihiwa_karwA,12;sakarmaka	prApwa_kiye					
+18	(laBe)				laB{karwari,lat,u,eka,AwmanepaxI{XAwuH dulaBazR},BvAxiH}	aBihiwa_karwA,5;sakarmaka						
+19	(laBe)				laB{karwari,lat,u,eka,AwmanepaxI{XAwuH dulaBazR},BvAxiH}	aBihiwa_karwA,5;sakarmaka						
+20	(laBe)				laB{karwari,lat,u,eka,AwmanepaxI{XAwuH dulaBazR},BvAxiH}	aBihiwa_karwA,5;sakarmaka						

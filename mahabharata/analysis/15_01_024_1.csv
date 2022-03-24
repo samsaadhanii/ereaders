@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	evaM	1	evaM	evam{avya}	evam{avya}	sambanXaH,4	EsA					
+2	we	2	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	karwA,8	ve					
+3	XarmarAjasya	3	XarmarAjasya	XarmarAja{puM;6;eka}	XarmarAja{puM;6;eka}	RaRTIsambanXaH,5	XarmarAja_kA					
+4	SruwvA	4	SruwvA	Sru1{avya;kwvA;Sru;:BvAxiH}	Sru1{avya;kwvA;Sru;:BvAxiH}	pUrvakAlaH,8						
+5	vacanam	5	vacanamarWavaw	vacana{napuM;1;eka}/vacana{napuM;2;eka}	vacana{napuM;2;eka}	karma,4	vacana					
+6	arWavaw			arWa{avya;vaw}/arWa{mawup;napuM;1;eka}/arWa{mawup;napuM;2;eka}	arWa{mawup;napuM;2;eka}	viSeRaNam,5						
+7	sa-viSeRam	6	saviSeRamavarwanwa	sa-viSeRa{puM;2;eka(sa-SiR2;GaF;SiRLz;:ruXAxiH)}/sa-viSeRa{puM;2;eka(SiR3;GaF;SiRaz;:curAxiH)}	sa-viSeRa{puM;2;eka(sa-SiR2;GaF;SiRLz;:ruXAxiH)}	karma,8						
+8	avarwanwa			vqw1{karwari;laf;pra;bahu;AwmanepaxI;vqwuz;:BvAxiH}	vqw1{karwari;laf;pra;bahu;AwmanepaxI;vqwuz;:BvAxiH}	aBihiwa_karwA,2	hue					
+9	BImam	7	BImamekaM	BIma{puM;2;eka}/BIma{napuM;1;eka}/BIma{napuM;2;eka}	BIma{puM;2;eka}	vinArWaH,8	BIma_ko					
+10	ekaM			eka{saMKyeyam;puM;2;eka}/eka{saMKyeyam;napuM;1;eka}/eka{saMKyeyam;napuM;2;eka}	eka{saMKyeyam;puM;2;eka}	viSeRaNam,9	eka_ko					
+11	vinA	8	vinA	vinA{avya}	vinA{avya}	vinArWa_xyowakaH,9	vinA					
+12	waxA	9	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,8	waba					

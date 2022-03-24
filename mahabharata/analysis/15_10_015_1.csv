@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	xeSa-anwarasWAH	1	xeSAnwarasWASca	xeSa-anwarasWa{puM;1;bahu}/anwarasWA{swrI;1;bahu}/anwarasWA{swrI;2;bahu}	xeSa-anwarasWa{puM;1;bahu}	viSeRaNam,3	xeSa-anwarasWa					
+2	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,1	Ora					
+3	narAH	2	narA	nara{puM;1;bahu}/nara{puM;8;bahu}	nara{puM;1;bahu}	karma,8	nara					
+4	vikrAnwAH	3	vikrAnwAH	vikrAnwa{puM;1;bahu}/vikrAnwA{swrI;1;bahu}/vikrAnwA{swrI;2;bahu}/vikrAnwa{puM;8;bahu}/vikrAnwa{puM;1;bahu(kram1;kwa;kramuz;:BvAxiH)}/vikrAnwA{swrI;1;bahu(kram1;kwa;kramuz;:BvAxiH)}/vikrAnwA{swrI;2;bahu(kram1;kwa;kramuz;:BvAxiH)}	vikrAnwa{puM;1;bahu}	samucciwaH,1	SUravIra					
+5	sarva-karmasu	4	sarvakarmasu	sarva-karman{napuM;7;bahu}	sarva-karman{napuM;7;bahu}	aXikaraNam,8	saba-karmoM_meM					
+6	mAwrABiH	5	mAwrABiranurUpABiranugrAhyA	mAwrA{swrI;3;bahu}	mAwrA{swrI;3;bahu}	karaNam,8	mAwrAoM_se					
+7	anurUpABiH			anurUpA{swrI;3;bahu}	anurUpA{swrI;3;bahu}	viSeRaNam,6	anurUpa_se					
+8	anugrAhyA:			anugrAhyA{swrI;1;eka(grah1;Nyaw;grahaz;:kryAxiH)}	anugrAhya{puM;1;bahu{kqxanwa}({kqw_XAwu grah1} Nyaw{XAwuH grahaz} kryAxiH)}	aBihiwa_karma,2;sakarmakaH						
+9	hiwAH	6	hiwAswvayA	hiwa{puM;1;bahu(XA1;kwa;duXAF;:juhowyAxiH)}/hiwA{swrI;1;bahu(XA1;kwa;duXAF;:juhowyAxiH)}/hiwA{swrI;2;bahu(XA1;kwa;duXAF;:juhowyAxiH)}/hiwa{puM;1;bahu(hi1;kwa;hi;:svAxiH)}/hiwA{swrI;1;bahu(hi1;kwa;hi;:svAxiH)}/hiwA{swrI;2;bahu(hi1;kwa;hi;:svAxiH)}	hiwa{puM;1;bahu(XA1;kwa;duXAF;:juhowyAxiH)}/hiwAswrI;1;bahu(XA1;kwa;duXAF;:juhowyAxiH)}/hiwAswrI;2;bahu(XA1;kwa;duXAF;:juhowyAxiH)}/hiwapuM;1;bahu(hi1;kwa;hi;:svAxiH)}/hiwAswrI;1;bahu(hi1;kwa;hi;:svAxiH)}/hiwAswrI;2;bahu(hi1;kwa;hi;:svAxiH)}	viSeRaNam,3						
+10	wvayA			yuRmax{sarvanAma;3;eka}	yuRmax{sarvanAma;3;eka}	karwA,8	wumase					

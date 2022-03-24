@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	gUDa-buxXinA	5	gUDabuxXinA	guh1{kwa;guhUz;:BvAxiH-buxXi;puM;3;eka}/buxXi{napuM;3;eka}	guh1{kwa;guhUz;:BvAxiH-buxXi;puM;3;eka}	viSeRaNam,2						
+2	BavawA	4	BavawA	Bavaw{sarvanAma;puM;3;eka}/Bavaw{puM;3;eka}	Bavaw{sarvanAma;puM;3;eka}	karwA,5	Apase					
+3	mUDaH	3	mUDo	mUDa{puM;1;eka}	mUDa{puM;1;eka}	karwA,6	mUrKa					
+4	aho	1	ahoZsmi	aho{avya}	aho{avya}	samboXyaH,6	aho					
+5	vaFciwaH	2	vaFciwo	vaFciwa{puM;1;eka(vanc2;kwa;vancuz;:curAxiH)}	vaFciwa{puM;1;eka(vanc2;kwa;vancuz;:curAxiH)}	viXeya_viSeRaNam,3	virahiwa					
+6	asmi			as2{karwari;lat;u;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;:axAxiH}	prawiyogI,10	hUz					
+7	mAm	8	mAm	asmax{sarvanAma;2;eka}	asmax{sarvanAma;2;eka}	karma,9	muJe					
+8	pUrvam	7	pUrvam	pUrva{puM;2;eka}/pUrva{sarvanAma;puM;2;eka}/pUrva{sarvanAma;napuM;1;eka}/pUrva{sarvanAma;napuM;2;eka}	pUrva{puM;2;eka}	kAlAXikaraNam,9	pUrva_ko					
+9	viSvAsayiwvA	6	viSvAsayiwvA	viSva{puM;6;eka}/viSva{napuM;6;eka}/viSva{sarvanAma;puM;6;eka}/viSva{sarvanAma;napuM;6;eka}/Svas1{avya;lyap;Svasaz;:axAxiH}	vi_Svas1avya;kwvA;Svasaz;:axAxiH}	pUrvakAlaH,13	viSva_kA					
+10	yaw	9	yaxixaM	yaw{avya}/yax{sarvanAma;napuM;1;eka}/yax{sarvanAma;napuM;2;eka}	yaw{sarvanAma;napuM;2;eka}	anuyogI,13						
+11	ixam			ixam{sarvanAma;napuM;1;eka}/ixam{sarvanAma;napuM;2;eka}	ixam{sarvanAma;napuM;2;eka}	viSeRaNam,12	yaha					
+12	xuHKam	10	xuHKamaSnuWAH	xuHKa{napuM;1;eka}/xuHKa{napuM;2;eka}	xuHKa{napuM;2;eka}	karma,13	xuHKa					
+13	aSnuWAH(ASnuWAH)			aSnuWAH	aS1{karwari;laf;ma;eka;AwmanepaxI;aSUz;:svAxiH}	aBihiwa_karma,12						
+14	(wvam)			 yuRmax{sarvanAma;1;eka} 	 yuRmax{sarvanAma;1;eka} 	karwA,13	mEM					

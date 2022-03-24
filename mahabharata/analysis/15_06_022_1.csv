@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kuru-pArWivam	6	kurupArWivam	kuru-pArWiva{puM;2;eka}/pArWiva{napuM;1;eka}/pArWiva{napuM;2;eka}	kuru-pArWiva{puM;2;eka}	karma,6	kuru-pArWiva					
+2	niSceRtam	5	niSceRtam	niSceRta{puM;2;eka}	niSceRta{puM;2;eka}	samucciwaH,4	niSceRta_ko					
+3	waWA	4	waWAsInaM	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,4	vEse					
+4	AsInam			AsIna{puM;2;eka}	AsIna{puM;2;eka(As1;kwa;Asaz;:axAxiH)}	viSeRaNam,1	bETA_huve					
+5	wam	1	wam	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,1	vaha					
+6	xqRtvA	3	xqRtvA	xqS1{avya;kwvA;xqSizr;:BvAxiH}	xqS1{avya;kwvA;xqSizr;:BvAxiH}	pUrvakAlaH,13	xeKa_kara					
+7	wu	2	wu	wu{avya}	wu{avya}	sambanXaH,6	wo					
+8	para-vIrahA	12	paravIrahA	para-vIrahan{puM;1;eka}	para-vIrahan{puM;1;eka}	viSeRaNam,9	bAxa-vaha_brAhmaNa_jisane_xEnika_agnihowra_karanA_Coड़_xiyA_hE					
+9	rAjA	8	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	karwA,13	rAjA					
+10	kOnweyaH	11	kOnweyaH	kOnweya{puM;1;eka}	kOnweya{puM;1;eka}	viSeRaNam,9	kOnweya1					
+11	Arwim	7	Arwim	Arwi{swrI;2;eka}	Arwi{swrI;2;eka}	karma,13	Arwi					
+12	wUrNam	10	wUrNam	wUrNa{napuM;1;eka}/wUrNa{napuM;2;eka}/wUrNa{puM;2;eka(wUr1;kwa;wUrIz;:xivAxiH)}/wUrNa{napuM;1;eka(wUr1;kwa;wUrIz;:xivAxiH)}/wUrNa{napuM;2;eka(wUr1;kwa;wUrIz;:xivAxiH)}/wUrNa{puM;2;eka(wurv1;kwa;wurvIz;:BvAxiH)}/wUrNa{napuM;1;eka(wurv1;kwa;wurvIz;:BvAxiH)}/wUrNa{napuM;2;eka(wurv1;kwa;wurvIz;:BvAxiH)}	wUrNa{napuM;1;eka}	kriyAviSeRaNam,13	weja					
+13	yayO	9	yayO	yA1{karwari;lit;pra;eka;parasmEpaxI;yA;:axAxiH}/yA1{karwari;lit;u;eka;parasmEpaxI;yA;:axAxiH}/yayi{puM;7;eka}	yA1{karwari;lit;pra;eka;parasmEpaxI;yA;:axAxiH}	aBihiwa_karwA,10;sakarmaka	gaye					

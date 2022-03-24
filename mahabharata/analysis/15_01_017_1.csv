@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ArAlikAH	1	ArAlikAH	ArAlika{puM;1;bahu}/ArAlika{puM;8;bahu}	ArAlika{puM;1;bahu}	karwA,5	ArAlika					
+2	sUpakArAH	2	sUpakArA	sUpakAra{puM;1;bahu}/sUpa-kAra{puM;1;bahu}/sUpa-kAra{puM;8;bahu}	sUpa-kAra{puM;1;bahu}	samucciwaH,1	rasa					
+3	rAga-KANdavikAH	3	rAgaKANdavikAswaWA	rAga-KANdavikA{swrI;1;bahu}/KANdavikA{swrI;2;bahu}	rAga-KANdavikA{swrI;1;bahu}	samucciwaH,1	rAga-KANdavikAoM_ne					
+4	waWA			waWA{avya}	waWA{avya}	samuccaya_xyowakaH,1	vEse					
+5	upAwiRTanwa(upAwiRTan)	4	upAwiRTan	upa_RWA1{karwari;laf;pra;bahu;parasmEpaxI;RWA;:BvAxiH}	upa_RWA1{karwari;laf;pra;bahu;parasmEpaxI;RWA;:BvAxiH}	aBihiwa_karwA,3	upa_RWA1_pp_skyA					
+6	rAjAnaM	5	rAjAnaM	rAjan{puM;2;eka}	rAjan{puM;2;eka}	viSeRaNam,7	rAjA					
+7	XqwarARtraM	6	XqwarARtraM	XqwarARtra{puM;2;eka}	XqwarARtra{puM;2;eka}	karma,5	XqwarARtra					
+8	yaWA	7	yaWA	yaWA{avya}	yaWA{avya}	upamAna_xyowakaH,12	jEse					
+9	purA	8	purA	purA{avya}	purA{avya}	kAlAXikaraNam,12	pahale					
+12	(upAwiRTanwa(upAwiRTan))			upa_RWA1{karwari;laf;pra;bahu;parasmEpaxI;RWA;:BvAxiH}	upa_RWA1{karwari;laf;pra;bahu;parasmEpaxI;RWA;:BvAxiH}	upamAnam,5	upa_RWA1_pp_skyA					

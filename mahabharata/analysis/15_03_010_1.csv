@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	saH	6	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,2	usa					
+2	mahIpawiH	7	mahIpawiH	mahIpawi{puM;1;eka}	mahIpawi{puM;1;eka}	karwA,6	rAjA_ne					
+3	yAm	8	yAm	yax{sarvanAma;swrI;2;eka}	yax{sarvanAma;swrI;2;eka}	viSeRaNam,4	jisa				niwya_sambanXaH,9	
+4	prIwim	9	prIwim	prIwi{swrI;2;eka}	prIwi{swrI;2;eka}	karma,6	prasannawA_ko					
+5	pANdu-puwreByaH	10	pANdupuwreByaH	pANdu-puwra{napuM;4;bahu}/puwra{napuM;5;bahu}/puwra{puM;4;bahu}/puwra{puM;5;bahu}	pANdu-puwra{puM;5;bahu}	apAxAnam,6	pIlA-puwroM_se					
+6	samavApa	11	samavApa	Ap1{karwari;lit;ma;bahu;parasmEpaxI;ApLz;:svAxiH}/Ap1{karwari;lit;pra;eka;parasmEpaxI;ApLz;:svAxiH}/Ap1{karwari;lit;u;eka;parasmEpaxI;ApLz;:svAxiH}	sam_ava_Ap{karwari,lit,pra,eka,parasmEpaxI{XAwuH ApLz} svAxiH}	aBihiwa_karwA,2	prApwa_kiyA					
+7	waxA	12	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,6	waba					
+8	nqpaH	13	nqpaH	nqpa{puM;1;eka}	nqpa{puM;1;eka}	karwA,14	rAjA_ne					
+9	wAm	2	wAm	wax{sarvanAma;swrI;2;eka}/wA{swrI;2;eka}	wax{sarvanAma;swrI;2;eka}	viSeRaNam,11	usa				niwya_sambanXaH,3	
+10	parAm	4	parAmApa	parA{sarvanAma;swrI;2;eka}	parA{sarvanAma;swrI;2;eka}	viSeRaNam,11	parA_					
+11	prIwim	3	prIwim	prIwi{swrI;2;eka}	prIwi{swrI;2;eka}	karma,14	prasannawA_ko					
+12	puwreByaH	5	puwreByaH	puwra{puM;4;bahu}/puwra{puM;5;bahu}	puwra{puM;5;bahu}	apAxAnam,14	puwroM_se					
+13	na	1	na	na{avya}	na{avya}	prawiReXaH,14						
+14	Apa			Ap1{karwari;lit;ma;bahu;parasmEpaxI;ApLz;:svAxiH}/Ap1{karwari;lit;pra;eka;parasmEpaxI;ApLz;:svAxiH}/Ap1{karwari;lit;u;eka;parasmEpaxI;ApLz;:svAxiH}	Ap1{karwari;lit;pra;eka;parasmEpaxI;ApLz;:svAxiH}	aBihiwa_karwA,8	prApwa_nahIM_kiyA					

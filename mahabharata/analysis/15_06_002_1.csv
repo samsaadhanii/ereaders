@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	nqpa	4	nqpa	nqpa{puM;8;eka}	nqpa{puM;8;eka}	samboXyaH,12	rAjA					
+2	yaH	1	yoZhaM	yax{sarvanAma;puM;1;eka}	yax{sarvanAma;puM;1;eka}	viSeRaNam,3	jisa					
+3	aham			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,12	mEMne					
+4	xuHKa-Arwam	3	xuHKArwamupavAsakqSaM	xuHKa-Arwa{puM;2;eka(xuHKa-q2;kwa;q;:juhowyAxiH)}/xuHKa-Arwa{napuM;1;eka(q2;kwa;q;:juhowyAxiH)}/xuHKa-Arwa{napuM;2;eka(q2;kwa;q;:juhowyAxiH)}	xuHKa-Arwa{napuM;2;eka(xuHKa-q2;kwa;q;:juhowyAxiH)}	viSeRaNam,7	xuHKa-pIdiwa					
+5	upavAsa-kqSam			vas1{GaF;vasaz;:BvAxiH-kqSa;puM;2;eka}/kqSa{napuM;1;eka}/kqSa{napuM;2;eka}	kqSa{napuM;2;eka}	viSeRaNam,7	xurbala					
+6	kRiwi-Sayam	6	kRiwiSayam	kRiwi-Saya{puM;2;eka}/Saya{napuM;1;eka}/Saya{napuM;2;eka}	kRiwi-Saya{puM;2;eka}	viSeRaNam,7	pqWvI-Saya					
+7	Bavanwam	2	Bavanwam	Bavaw{sarvanAma;puM;2;eka}/Bavanwa{puM;2;eka}/Bavaw{puM;2;eka}	Bavaw{puM;2;eka}	karma,12	Apa					
+8	BrAwqBiH	8	BrAwqBiH	BrAwq{puM;3;bahu}	BrAwq{puM;3;bahu}	sahArWaH,12	BAiyoM_ke					
+9	saha	9	saha	saha{avya}	saha{avya}	sahArWa_xyowakaH,8	sAWa					
+10	yawAhAram	5	yawAhAram	yawAhAra{puM;2;eka}/AhAra{puM;2;eka(hq1;GaF;hqF;:BvAxiH)}	AhAra{puM;2;eka(hq1;GaF;hqF;:BvAxiH)}	viSeRaNam,7	AhAra					
+11	na	7	nAvinxaM	na{avya}	na{avya}	prawiReXaH,12						
+12	avinxam			vix3{karwari;laf;u;eka;parasmEpaxI;vixLz;:wuxAxiH}	vix3{karwari;laf;u;eka;parasmEpaxI;vixLz;:wuxAxiH}	aBihiwa_karwA,3;sakarmaka	prApwa_nahIM_kiyA					

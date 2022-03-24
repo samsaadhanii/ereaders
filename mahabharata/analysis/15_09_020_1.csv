@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	manwriNaH	1	manwriNaScEva	manwrin{puM;1;bahu}/manwrin{puM;2;bahu}/manwrin{puM;5;eka}/manwrin{puM;6;eka}/manwrin{puM;8;bahu}	manwrin{puM;2;bahu}	karma,4	manwrI					
+2	ca			ca{avya}	ca{avya}	sambanXaH,1	BI					
+3	eva			eva{avya}	eva{avya}	sambanXaH,1	hI					
+4	kurvIWAH	2	kurvIWA	kq3{karwari;viXilif;ma;eka;AwmanepaxI;dukqF;:wanAxiH}	kq3{karwari;viXilif;ma;eka;AwmanepaxI;dukqF;:wanAxiH}	aBihiwa_karwA,13;sakarmaka	karo					
+5	xvijAn	3	xvijAnvixyAviSAraxAn	xvija{puM;2;bahu}	xvija{puM;2;bahu}	viXeya_viSeRaNam,1	brAhmaNoM_ko					
+6	vixyA-viSAraxAn			vixyA-viSAraxa{puM;2;bahu}	vixyA-viSAraxa{puM;2;bahu}	samucciwaH,11	vixyA-cawura					
+7	vinIwAn	4	vinIwAMSca	vinIwa{puM;2;bahu}/vinIwa{puM;2;bahu(NI1;kwa;NIF;:BvAxiH)}	vinIwa{puM;2;bahu}	samucciwaH,11	anuSAsiwoM_ko					
+8	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,11	Ora					
+9	kulInAn	5	kulInAMSca	kulIna{puM;2;bahu}	kulIna{puM;2;bahu}	samucciwaH,11	kulIna					
+10	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,11	BI					
+11	XarmArWa-kuSalAn	6	XarmArWakuSalAnqjUn	XarmArWa-kuSala{puM;2;bahu}	XarmArWa-kuSala{puM;2;bahu}	viSeRaNam,5	XarmArWa-kuSala					
+12	qjUn			qju{puM;2;bahu}	qju{puM;2;bahu}	samucciwaH,11	qjuoM_ko					
+13	(wvam)			yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,4						

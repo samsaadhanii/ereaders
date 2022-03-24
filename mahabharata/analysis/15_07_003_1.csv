@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kuru-SArxUla	7	kuruSArxUla	kuru-SArxUla{puM;8;eka}/SArxUla{napuM;8;eka}	kuru-SArxUla{napuM;8;eka}	samboXyaH,13	kuru-SArxUla					
+2	me	5	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	viSeRaNam,3	mere					
+3	AhArasya			AhAra{puM;6;eka}/AhAra{puM;6;eka(hq1;GaF;hqF;:BvAxiH)}	AhAra{puM;6;eka}	RaRTIsambanXaH,7	AhAra_ke					
+4	kqwasya	4	kqwasya	kqwa{napuM;6;eka}/kqwa{puM;6;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{napuM;6;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{puM;6;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{napuM;6;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{puM;6;eka(kq1;kwa;kqF;:BvAxiH)}/kqwa{napuM;6;eka(kq1;kwa;kqF;:BvAxiH)}	kqwa{napuM;6;eka(kq1;kwa;kqF;:BvAxiH)}	viSeRaNam,3	nirmiwa_kA					
+5	ayam			ixam{sarvanAma;puM;1;eka}/aya{puM;2;eka}	aya{puM;1;eka}	viSeRaNam,7	calane_ke					
+6	axya			axya{avya}	axya{avya}	kAlAXikaraNam,14	Aja					
+7	kAlaH	3	kAloZyamAhArasya	kAla{puM;1;eka}	kAla{puM;1;eka}	karwA,14	samaya					
+8	aRtamaH	1	aRtamo	aRtama{puM;1;eka}/aRtama{puM;1;eka}	aRtama{puM;1;eka}	viSeRaNam,7	aRtama					
+9	hi	2	hyaxya	hi{avya}	hi{avya}	sambanXaH,6	hi					
+10	aham			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,13	mEM					
+11	ceRtiwum	10	viceRtiwum	ceRt1{avya;wumun;ceRtaz;:BvAxiH}	ceRt1{avya;wumun;ceRtaz;:BvAxiH}	sahAyakakriyA,13	ceRtA_kara					
+12	na	8	na	na{avya}	na{avya}	prawiReXaH,13	nahIM					
+13	Saknomi	9	Saknomi	Sak3{karwari;lat;u;eka;parasmEpaxI;SakLz;:svAxiH}	Sak3{karwari;lat;u;eka;parasmEpaxI;SakLz;:svAxiH}	aBihiwa_karwA,10;akarmaka	sakawA_hUz					
+14	(aswi)				as{karwari;lat;pra;eka;parasmEpaxI{XAwuH asaz};axAxiH}	aBihiwa_karwA,7;akarmaka						
+15	yena	6	yenAhaM		yax{sarvanAma;puM;3;eka}	hewuH,11						

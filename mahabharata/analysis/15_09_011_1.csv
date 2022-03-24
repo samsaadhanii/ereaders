@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	prAwaH	1	prAwaruwWAya	prAwaH{avya}	prAwaH{avya}	kAlAXikaraNam,2	prAwaH					
+2	uwWAya			RWA1{avya;lyap;RWA;:BvAxiH}	uw_RWA1{avya;lyap;RWA;:BvAxiH}	pUrvakAlaH,9						
+3	wAn	2	wAnrAjanpUjayiwvA	wax{sarvanAma;puM;2;bahu}	wax{sarvanAma;puM;2;bahu}	karma,5	unako					
+4	rAjan			rAjan{puM;8;eka}/rAjaw{puM;1;eka(rAj1;Sawq_lat;rAjqz;:BvAxiH)}	rAjan{puM;8;eka}	samboXyaH,9	rAjA					
+5	pUjayiwvA			pUj1{avya;kwvA;pUjaz;:curAxiH}	pUj1{avya;kwvA;pUjaz;:curAxiH}	pUrvakAlaH,9						
+6	yaWA-viXi	3	yaWAviXi	yaWA-viXi{napuM;8;eka}/viXi{napuM;1;eka}/viXi{napuM;2;eka}/viXI{swrI;8;eka}	yaWA-viXi{avya}	kriyAviSeRaNam,5	yaWA-viXi					
+7	kqwya-kAle	4	kqwyakAle	kqw1{Nyaw;kqwIz;:wuxAxiH}/kqw2{Nyaw;kqwIz;:ruXAxiH-kAla;puM;7;eka}/kAla{napuM;8;xvi}/kAla{napuM;1;xvi}/kAla{napuM;2;xvi}/kAla{napuM;7;eka}/kAlA{swrI;8;eka}/kAlA{swrI;8;xvi}/kAlA{swrI;1;xvi}/kAlA{swrI;2;xvi}	kqw2Nyaw;kqwIz;:ruXAxiH-kAla;puM;7;eka}	karwA,8						
+8	sam-uwpanne	5	samuwpanne	sam-uwpanna{puM;7;eka(sam-pax1;kwa;paxaz;:xivAxiH)}/sam-uwpanna{napuM;1;xvi(pax1;kwa;paxaz;:xivAxiH)}/sam-uwpanna{napuM;2;xvi(pax1;kwa;paxaz;:xivAxiH)}/sam-uwpanna{napuM;7;eka(pax1;kwa;paxaz;:xivAxiH)}/sam-uwpannA{swrI;1;xvi(pax1;kwa;paxaz;:xivAxiH)}/sam-uwpannA{swrI;2;xvi(pax1;kwa;paxaz;:xivAxiH)}	sam-uwpanna{puM;7;eka(sam-pax1;kwa;paxaz;:xivAxiH)}	BAvalakRaNasapwamI_samAnakAlaH,9						
+9	pqcCeWAH(pqcCeH)	6	pqcCeWAH	pracC{karwari;viXilif;ma;eka;parasmEpaxI{XAwuH praCaz} wuxAxiH)}	pracC{karwari;viXilif;ma;eka;parasmEpaxI{XAwuH praCaz} wuxAxiH)}	aBihiwa_karwA,5;sakarmaka						
+10	kAryam	7	kAryamAwmanaH	kArya{puM;2;eka}/kArya{napuM;1;eka}/kArya{napuM;2;eka}	kArya{puM;2;eka}	karma,9	kArya_ko					
+11	AwmanaH			Awman{puM;2;bahu}/Awman{puM;5;eka}/Awman{puM;6;eka}	Awman{puM;6;eka}	RaRTIsambanXaH,10	AwmAoM_ko					
+12	(wvam)			yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,9						

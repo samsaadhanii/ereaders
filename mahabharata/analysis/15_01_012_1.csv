@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vyAsaH	1	vyAsaSca	vyAsa{puM;1;eka}/vyAsa{puM;1;eka(as3;GaF;asuz;:xivAxiH)}	vyAsa{puM;1;eka(as3;GaF;asuz;:xivAxiH)}	karwA,6	viBAjana					
+2	ca			ca{avya}	ca{avya}	sambanXaH,1	BI					
+3	BagavAn	2	BagavAnniwyaM	Bagavaw{puM;1;eka}/Baga{mawup;puM;1;eka}	Bagavaw{puM;1;eka}	viSeRaNam,1	BagavAn					
+4	niwyaM			niwya{puM;2;eka}/niwya{napuM;1;eka}/niwya{napuM;2;eka}	niwya{napuM;2;eka}	kriyAviSeRaNam,6	niwya					
+5	vAsaM	3	vAsaM	vAsa{puM;2;eka}	vAsa{puM;2;eka}	karma,6	rahane_kI					
+6	cakre	4	cakre	cakra{napuM;1;xvi}/cakra{napuM;2;xvi}/kq1{karwari;lit;pra;eka;AwmanepaxI;kqF;:BvAxiH}/kq1{karwari;lit;u;eka;AwmanepaxI;kqF;:BvAxiH}/kq2{karwari;lit;pra;eka;AwmanepaxI;kqF;:svAxiH}/kq2{karwari;lit;u;eka;AwmanepaxI;kqF;:svAxiH}/kq3{karwari;lit;pra;eka;AwmanepaxI;dukqF;:wanAxiH}/kq3{karwari;lit;u;eka;AwmanepaxI;dukqF;:wanAxiH}/kQ2{karwari;lit;pra;eka;AwmanepaxI;kQF;:kryAxiH}/kQ2{karwari;lit;u;eka;AwmanepaxI;kQF;:kryAxiH}/cakra{napuM;8;xvi}/cakra{puM;7;eka}/cakra{napuM;7;eka}	kQ2{karwari;lit;pra;eka;AwmanepaxI;kQF;:kryAxiH}	aBihiwa_karwA,1;sakarmaka	hiMsA_kI					
+7	nqpeNa	5	nqpeNa	nqpa{puM;3;eka}	nqpa{puM;3;eka}	sahArWaH,5	rAjA_se					
+8	ha	6	ha	ha{avya}	ha{avya}	sambanXaH,10	ha					
+9	kaWAH	7	kaWAH	kaWA{swrI;1;bahu}/kaWA{swrI;2;bahu}/kaWA{swrI;8;bahu}	kaWA{swrI;2;bahu}	karma,10	kaWAyeM					
+10	kurvan	8	kurvanpurANarRirxevarRinqparakRasAm	kurvaw{puM;8;eka}/kurvaw{puM;1;eka(kq3;Sawq_lat;dukqF;:wanAxiH)}	kurvaw{puM;1;eka(kq3;Sawq_lat;dukqF;:wanAxiH)}	varwamAnasamAnakAlaH,6	karawA_huA					
+11	purANarRiH			qRi{puM;1;eka}	qRi{puM;1;eka}	viSeRaNam,1						
+12	xevarRi-nqpa-rakRasAm			nqpa-rakRas{napuM;6;bahu}/rakRas{puM;6;bahu}	nqpa-rakRas{puM;6;bahu}	RaRTIsambanXaH,9	rAjA-rakRasoM_ke					

@@ -1,0 +1,10 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	prApya	1	prApya	Ap1{avya;lyap;ApLz;:svAxiH}/Ap1{avya;lyap;ApLz;:svAxiH}/Ap2{avya;lyap;ApLz;:curAxiH}/Ap2{avya;lyap;ApLz;:curAxiH}	pra_Ap2{avya;lyap;ApLz;:curAxiH}	pUrvakAlaH,9	pra_Ap2_kara					
+2	rAjyaM	2	rAjyaM	rAjya{napuM;1;eka}/rAjya{napuM;2;eka}	rAjya{napuM;2;eka}	karma,1	rAjya					
+3	mahAwmAnaH	3	mahAwmAnaH	mahAwman{puM;1;bahu}	mahAwman{puM;1;bahu}	viSeRaNam,4	mahAwmAoM_ne					
+4	pANdavAH	4	pANdavA	pANdava{puM;1;bahu}/pANdava{puM;8;bahu}	pANdava{puM;1;bahu}	karwA,9	pANdava					
+5	hawa-SawravaH	5	hawaSawravaH	han1{kwa;hanaz;:axAxiH-Sawru;puM;1;bahu}	han1{kwa;hanaz;:axAxiH-Sawru;puM;1;bahu}	viSeRaNam,4						
+6	XqwarARtraM	6	XqwarARtraM	XqwarARtra{puM;2;eka}	XqwarARtra{puM;2;eka}	karma,7	XqwarARtra_ko					
+7	puraskqwya	7	puraskqwya	kq3{avya;lyap;dukqF;:wanAxiH}	puras_kq3{avya;lyap;dukqF;:wanAxiH}	pUrvakAlaH,9	puras_kq3_kara					
+8	pqWivIM	8	pqWivIM	pqWivI{swrI;2;eka}	pqWivI{swrI;2;eka}	karma,9	pqWvI_ko					
+9	paryapAlayan	9	paryapAlayan	pari_pAl1{karwari;laf;pra;bahu;AwmanepaxI;pAlaz;:curAxiH}	pari_pAl1{karwari;laf;pra;bahu;AwmanepaxI;pAlaz;:curAxiH}	aBihiwa_karwA,3;sakarmaka	pari_pAl1_ap_skyA					

@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	krawuBiH	1	krawuBirxakRiNAvaxBirannaparvawaSoBiwEH	krawu{puM;3;bahu}	krawu{puM;3;bahu}	karaNam,5	krawuoM_se					
+2	xakRiNAvaxBiH			xakRiNA{mawup;puM;3;bahu}/xakRiNA{mawup;napuM;3;bahu}	xakRiNA{mawup;napuM;3;bahu}	viSeRaNam,1	xakRiNoM_se					
+3	anna-parvawa-SoBiwEH			anna-parvawa-SoBiwa{puM;3;bahu}/SoBiwa{napuM;3;bahu}	anna-parvawa-SoBiwa{napuM;3;bahu}	viSeRaNam,1	anna-parvawa-alaMkqwa					
+4	mahaxBiH	2	mahaxBiriRtaM	mahaw{napuM;3;bahu}/mahaw{puM;3;bahu}	mahaw{napuM;3;bahu}	viSeRaNam,1	mahAnoM_se					
+5	iRtaM(iRtAH)			iRta{napuM;1;eka}/iRta{napuM;2;eka}/iRta{puM;2;eka(iR2;kwa;iRuz;:wuxAxiH)}/iRta{napuM;1;eka(iR2;kwa;iRuz;:wuxAxiH)}/iRta{napuM;2;eka(iR2;kwa;iRuz;:wuxAxiH)}/iRta{puM;2;eka(yaj1;kwa;yajaz;:BvAxiH)}/iRta{napuM;1;eka(yaj1;kwa;yajaz;:BvAxiH)}/iRta{napuM;2;eka(yaj1;kwa;yajaz;:BvAxiH)}	iRta{napuM;1;eka(yaj1;kwa;yajaz;:BvAxiH)}	viSeRaNam,6	icCA					
+6	BogAH	3	BogASca	Boga{puM;1;bahu}/Boga{puM;8;bahu}	Boga{puM;1;bahu}	karwA,12	Boga					
+7	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora					
+8	BukwAH	4	BukwAH	Bukwa{puM;1;bahu}/Bukwa{puM;8;bahu}	Bukwa{puM;1;bahu}	viXeya_viSeRaNam,6	Boge					
+9	puwrAH	5	puwrASca	puwra{puM;1;bahu}/puwra{puM;8;bahu}	puwra{puM;1;bahu}	samucciwaH,6	puwra					
+10	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,9	Ora					
+11	pAliwAH	6	pAliwAH	pAli{wal;swrI;1;bahu}/pAli{wal;swrI;2;bahu}/pAliwa{puM;1;bahu(pAl1;kwa;pAlaz;:curAxiH)}/pAliwA{swrI;1;bahu(pAl1;kwa;pAlaz;:curAxiH)}/pAliwA{swrI;2;bahu(pAl1;kwa;pAlaz;:curAxiH)}	pAliwa{puM;1;bahu(pAl1;kwa;pAlaz;:curAxiH)}	viXeya_viSeRaNam,9	pAliwa					
+12	(Asan)			Asan{napuM 8 eka}/as{karwari laf pra bahu parasmEpaxI{XAwuH asaz} BvAxiH}/as{karwari laf pra bahu parasmEpaxI{XAwuH asaz} axAxiH}	as{karwari laf pra bahu parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,8;akarmakaH						

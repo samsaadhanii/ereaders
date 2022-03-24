@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	eRaH	1	eRa	ewax{sarvanAma;puM;1;eka}	ewax{sarvanAma;puM;1;eka}	viSeRaNam,4	yaha					
+2	eva	2	eva	eva{avya}	eva{avya}	sambanXaH,1	hI					
+3	paraH	3	paro	para{puM;1;eka}/para{sarvanAma;puM;1;eka}	para{puM;1;eka}	viSeRaNam,4	para					
+4	XarmaH	4	Xarmo	Xarma{puM;1;eka}	Xarma{puM;1;eka}	karwA,9	Xarma					
+5	rAjarRINAM	5	rAjarRINAM	rAjarRi{puM;6;bahu}	rAjarRi{puM;6;bahu}	RaRTIsambanXaH,4	rAjarRiyoM_kA					
+6	yuXiRTira	6	yuXiRTira	yuXiRTira{puM;1;eka}	yuXiRTira{puM;8;eka}	samboXyaH,9	yuXiRTira					
+7	samare	7	samare	samara{puM;7;eka}	samara{puM;7;eka}	aXikaraNam,9	yuxXa_meM					
+8	vA	8	vA	vA{avya}	vA{avya}	anyawaraxyowakaH,7	vA					
+9	Bavew	9	Bavenmqwyurvane	BU1{karwari;viXilif;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;viXilif;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,10;sakarmaka	ho					
+10	mqwyuH			mqwyu{puM;1;eka}	mqwyu{puM;1;eka}	viXeya_viSeRaNam,9	mqwyu					
+11	vane			vana{napuM;1;xvi}/vana{napuM;2;xvi}/vana{napuM;8;xvi}/vani{puM;8;eka}/vana{napuM;7;eka}	vana{napuM;7;eka}	anyawaraH,7	vana					
+12	vA	10	vA	vA{avya}	vA{avya}	anyawaraxyowakaH,7	vA					
+13	viXi-pUrvakam	11	viXipUrvakam	viXi-pUrva{ka;puM;2;eka}/pUrva{ka;napuM;1;eka}/pUrva{ka;napuM;2;eka}/pUrvaka{puM;2;eka}/pUrvaka{napuM;1;eka}/pUrvaka{napuM;2;eka}	viXi-pUrvaka{puM;2;eka}	kriyAviSeRaNam,9	viXi-pUrva_ko					

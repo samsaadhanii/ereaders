@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wAwa			wAwa{puM;8;eka}	wAwa{puM;8;eka}	samboXyaH,7	piwA					
+2	me	2	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,3	mere					
+3	manaH	3	manaswAwa	manas{napuM;1;eka}/manas{napuM;2;eka}/manas{napuM;8;eka}	manas{napuM;1;eka}	karwA,7	mana_ko					
+4	BUyaH	4	BUyo	BUyaH{avya}/BUyas{napuM;1;eka}/BUyas{napuM;2;eka}/BUyas{napuM;8;eka}	BUyas{napuM;1;eka}	vIpsA,5	bahuwa					
+5	BUyaH	5	BUyaH	BUyaH{avya}/BUyas{napuM;1;eka}/BUyas{napuM;2;eka}/BUyas{napuM;8;eka}	BUyas{napuM;1;eka}	kriyAviSeRaNam,6	bahuwa					
+6	prajalpawaH	6	prajalpawaH	prajalpa{avya;wasil}	prajalpaw{puM;6;eka;{kqw_XAwu jalp1} Sawq_lat;jalpaz;BvAxiH}	viSeRaNam,2	prajalpa_se					
+7	glAyawe	1	glAyawe	glE1{BAve;lat;pra;eka;AwmanepaxI;glE;:BvAxiH}	glE1{BAve;lat;pra;eka;AwmanepaxI;glE;:BvAxiH}	aBihiwa_karwA,3;sakarmaka	mlAna_huA_jAwA_hE					
+8	puwra	10	puwra	puwra{puM;8;eka}	puwra{puM;8;eka}	samboXyaH,15	puwra					
+9	awaH			awaH{avya}	awaH{avya}	sambanXaH,10	awaH					
+10	param	9	param	param{avya}/para{puM;2;eka}/para{napuM;1;eka}/para{napuM;2;eka}/para{sarvanAma;puM;2;eka}/para{sarvanAma;napuM;1;eka}/para{sarvanAma;napuM;2;eka}	param{avya}	sambanXaH,15	para_					
+11	mAm	8	mAmawaH	asmax{sarvanAma;2;eka}	asmax{sarvanAma;2;eka}	karma,13	muJe					
+12	iha		iha	iha{avya}	iha{avya}	xeSAXikaraNam,15	yahAz					
+13	pari-kleRtum	11	parikleRtumihArhasi	pari-kliS2{avya;wumun;kliSUz;:kryAxiH}	pari-kliS2{avya;wumun;kliSUz;:kryAxiH}	sahAyakakriyA,15	kleSa_xenezke_liye					
+14	na	7	na	na{avya}	na{avya}	prawiReXaH,15						
+15	arhasi			arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;:curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}	aBihiwa_karwA,16;sakarmaka	yogya_nahIM_howe_ho					
+16	(wvam)				yuRmax{sarvanAma;1;eka}	karwA,15						

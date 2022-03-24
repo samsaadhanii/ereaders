@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yasya	1	yasya	yax{sarvanAma;puM;6;eka}/yax{sarvanAma;napuM;6;eka}/yas1{karwari;lot;ma;eka;parasmEpaxI;yasuz;:xivAxiH}	yax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,5	jisake				niwya_sambanXaH,6	
+2	nAga-sahasreNa	2	nAgasahasreNa	nAga-sahasra{saMKyeyam;3;eka}/sahasra{puM;3;eka}/sahasra{napuM;3;eka}	nAga-sahasra{napuM;3;eka}	wulanA_binxuH,14	sAMpa-hajAra_se					
+3	xaSa-safKyena	3	xaSasafKyena	xaSa-safKya{puM;3;eka}/safKya{napuM;3;eka}	xaSa-safKya{napuM;3;eka}	viSeRaNam,2	xaSa-saMgrAma					
+4	vE	4	vE	vE{avya}	vE{avya}	sambanXaH,3	suKanA					
+5	balam	5	balam	bala{napuM;1;eka}/bala{napuM;2;eka}	bala{napuM;1;eka}	karwA,13	bala					
+6	saH	6	soZyaM	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,8	vaha				niwya_sambanXaH,1	
+7	ayam			ixam{sarvanAma;puM;1;eka}/aya{puM;2;eka}	ixam{sarvanAma;puM;1;eka}	viSeRaNam,8	yaha					
+8	rAjA	9	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	karwA,12	rAjA					
+9	nArIm	7	nArImupASriwya	nArI{swrI;2;eka}	nArI{swrI;2;eka}	karma,10	nArI_ko					
+10	upASriwya			Sri1{avya;lyap;SriF;:BvAxiH}	upa_Af_Sri1{avya;lyap;SriF;:BvAxiH}	pUrvakAlaH,12	upa_Af_Sri1_kara					
+11	gawAsuvaw	10	gawAsuvaw	nirjIva{puM;1;eka}	gawAsuvaw{puM;1;eka}	kriyAviSeRaNam,12	nirjIva					
+12	Sewe	8	Sewe	SI1{karwari;lat;pra;eka;AwmanepaxI;SIf;:axAxiH}	SI1{karwari;lat;pra;eka;AwmanepaxI;SIf;:axAxiH}	aBihiwa_karwA,11;sakarmaka	SI1_ap_skwA_hE					
+13	(aswi)				as{karwari,lat,pra,eka,parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,5;sakarmaka						
+14	(wulyaM)			wulya{napuM;1;eka}	wulya{napuM;1;eka}	viSeRaNam,5						

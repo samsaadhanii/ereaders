@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kuru-nanxana	5	kurunanxana	kuru-nanxana{puM;8;eka}	kuru-nanxana{puM;8;eka}	samboXyaH,5	kuru-nanxana					
+2	weRu	2	weRu	wax{sarvanAma;puM;7;bahu}/wax{sarvanAma;napuM;7;bahu}	wax{sarvanAma;puM;7;bahu}	viRayAXikaraNam,5	unameM					
+3	prawi-karwavyam	3	prawikarwavyam	prawi-karwavya{puM;2;eka(prawi-kq3;wavyaw;dukqF;:wanAxiH)}/prawi-karwavya{napuM;1;eka(kq3;wavyaw;dukqF;:wanAxiH)}/prawi-karwavya{napuM;2;eka(kq3;wavyaw;dukqF;:wanAxiH)}/prawi-karwavya{puM;2;eka(kq2;wavyaw;kqF;:svAxiH)}/prawi-karwavya{napuM;1;eka(kq2;wavyaw;kqF;:svAxiH)}/prawi-karwavya{napuM;2;eka(kq2;wavyaw;kqF;:svAxiH)}/prawi-karwavya{puM;2;eka(kq1;wavyaw;kqF;:BvAxiH)}/prawi-karwavya{napuM;1;eka(kq1;wavyaw;kqF;:BvAxiH)}/prawi-karwavya{napuM;2;eka(kq1;wavyaw;kqF;:BvAxiH)}	prawi-karwavya{puM;2;eka(prawi-kq3;wavyaw;dukqF;:wanAxiH)}	karma,5						
+4	na	1	na	na{avya}	na{avya}	prawiReXaH,5	nahIM					
+5	paSyAmi	4	paSyAmi	xqS1{karwari;lat;u;eka;parasmEpaxI;xqSizr;:BvAxiH}	xqS1{karwari;lat;u;eka;parasmEpaxI;xqSizr;:BvAxiH}	aBihiwa_karwA,7;sakarmaka	xeKawA_hUz					
+6	we			wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	viSeRaNam,8	ve					
+7	aBimuKam			aBimuKa{puM;2;eka}/aBimuKa{napuM;1;eka}/aBimuKa{napuM;2;eka}	aBimuKa{puM;2;eka}	kriyAviSeRaNam,12	aBimuKa_ko					
+8	sarve	6	sarve	sarva{sarvanAma;puM;1;bahu}/sarva{sarvanAma;napuM;1;xvi}/sarva{sarvanAma;napuM;2;xvi}/sarvA{sarvanAma;swrI;1;xvi}/sarvA{sarvanAma;swrI;2;xvi}	sarva{sarvanAma;puM;1;bahu}	karwA,11	saba					
+9	Saswra-jiwAn	7	SaswrajiwAzllokAngawAsweZBimuKaM	Saswra-jiwa{puM;2;bahu(Saswra-ji1;kwa;ji;:BvAxiH)}	Saswra-jiwa{puM;2;bahu(Saswra-ji1;kwa;ji;:BvAxiH)}	viSeRaNam,10	Saswra-jIwe_hue					
+10	lokAn			loka{puM;2;bahu}	loka{puM;2;bahu}	karma,11	loka_ko					
+11	gawAH			gawa{puM;1;bahu(gam1;kwa;gamLz;:BvAxiH)}/gawA{swrI;1;bahu(gam1;kwa;gamLz;:BvAxiH)}/gawA{swrI;2;bahu(gam1;kwa;gamLz;:BvAxiH)}	gawa{puM;1;bahu(gam1;kwa;gamLz;:BvAxiH)}	aBihiwa_karwA,7;sakarmaka						
+12	hawAH	8	hawAH	han{wal;swrI;1;bahu}/han{wal;swrI;2;bahu}/hawa{puM;1;bahu(han1;kwa;hanaz;:axAxiH)}/hawA{swrI;1;bahu(han1;kwa;hanaz;:axAxiH)}/hawA{swrI;2;bahu(han1;kwa;hanaz;:axAxiH)}	han{wal;swrI;1;bahu}	viSeRaNam,8						

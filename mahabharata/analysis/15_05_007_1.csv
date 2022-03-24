@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sarva-rAjFAm	4	sarvarAjFAm	sarva-rAjan{puM;6;bahu}	sarva-rAjan{puM;6;bahu}	RaRTIsambanXaH,2	saba-rAjAoM_ke					
+2	vinASam	1	vinASam	vinASa{puM;2;eka}	vinASa{puM;2;eka}	karma,3	vinASa_kI					
+3	paSyamAnaH	2	paSyamAno	vanxamAna{puM;1;eka(vax2;SAnac_lat;karwari;vaxiz;:BvAxiH)}	paSyamAna{puM;1;eka(paSyaw{puM;7;eka{kqxanwa}({kqw_XAwu xqS1}Sawq_lat{XAwuHxqSizr} BvAxiH))}	varwamAnasamAnakAlaH,11						
+4	hi	3	hi	hi{avya}	hi{avya}	sambanXaH,3	hi					
+5	gaxA-agrajaH	5	gaxAgrajaH	gaxA-agraja{puM;1;eka}/agra-ja{puM;1;eka}	gaxA-agraja{puM;1;eka}	viSeRaNam,7	bolanA-badA_BAI					
+6	saH	7	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,7	usa					
+7	janArxanaH	9	janArxanaH	janArxana{puM;1;eka}	janArxana{puM;1;eka}	karwA,11	janArxana_ne					
+8	ewaw	6	ewacCreyaH	ewax{sarvanAma;napuM;1;eka}/ewax{sarvanAma;napuM;2;eka}	ewax{sarvanAma;napuM;2;eka}	viSeRaNam,10	isa					
+9	paramam	8	paramamamanyawa	paramam{avya}/parama{puM;2;eka}/parama{napuM;1;eka}/parama{napuM;2;eka}	parama{napuM;2;eka}	viSeRaNam,10	parama_ko					
+10	SreyaH			Sreyas{napuM;1;eka}/Sreyas{napuM;2;eka}/Sreyas{napuM;8;eka}/Sreya{puM;1;eka}	Sreyas{napuM;2;eka}	karma,11	Sreya_ko					
+11	amanyawa			man1{karwari;laf;pra;eka;AwmanepaxI;manaz;:xivAxiH}/man1{karmaNi;laf;pra;eka;AwmanepaxI;manaz;:xivAxiH}/man2{karmaNi;laf;pra;eka;AwmanepaxI;manuz;:wanAxiH}	man1{karwari;laf;pra;eka;AwmanepaxI;manaz;:xivAxiH}	aBihiwa_karwA,7;sakarmaka	jAnA					

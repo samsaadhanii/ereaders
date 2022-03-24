@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	karowi		karowyAhAramiwi	kq3{karwari;lat;pra;eka;parasmEpaxI;dukqF;:wanAxiH}	kq3{karwari;lat;pra;eka;parasmEpaxI;dukqF;:wanAxiH}	vAkyakarma,13	karawA_hE					
+2	AhAram			AhAra{puM;2;eka}/AhAra{puM;2;eka(hq1;GaF;hqF;:BvAxiH)}	AhAra{puM;2;eka}	karma,1	AhAra_ko					
+3	iwi			iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,1	EsA					
+4	mAm		mAm	asmax{sarvanAma;2;eka}	asmax{sarvanAma;2;eka}	karma,9	muJe					
+5	sarvaH		sarvaH	sarva{sarvanAma;puM;1;eka}	sarva{sarvanAma;puM;1;eka}	viSeRaNam,6	saba					
+6	parijanaH		parijanaH	parijana{puM;1;eka(jan2;GaF;janIz;:xivAxiH)}	parijana{puM;1;eka(jan2;GaF;janIz;:xivAxiH)}	karwA,9	nOkara_cAkara					
+7	saxA		saxA	saxA{avya}	saxA{avya}	kAlAXikaraNam,9	hameSA					
+8	yuXiRTira-BayAw		yuXiRTiraBayAxvewwi	yuXiRTira-Baya{puM;5;eka}/Baya{napuM;5;eka}	yuXiRTira-Baya{puM;5;eka}	hewuH,9	yuXiRTira-Baya_se					
+9	(vewwi)ewi			i1{karwari;lat;pra;eka;parasmEpaxI;iN;:axAxiH}	i1{karwari;lat;pra;eka;parasmEpaxI;iN;:axAxiH}	aBihiwa_karwA,6;sakarmaka	jAwA_hE					
+10	pANdavaH		pANdavaH	pANdu{puM;1;bahu}/pANdu{swrI;1;bahu}/pANdava{puM;1;eka}/pANdu{puM;8;bahu}/pANdu{swrI;8;bahu}	pANdava{puM;1;eka}	karwA,12	pANdu					
+11	BqSam		BqSam	BqSam{avya}/BqSa{napuM;1;eka}/BqSa{napuM;2;eka}	BqSa{napuM;2;eka}	kriyAviSeRaNam,12						
+12	wapyawi(wapyawe)		wapyawi	wap1{karmaNi;lat;pra;eka;AwmanepaxI;wapaz;:BvAxiH}/wap2{karwari;lat;pra;eka;AwmanepaxI;wapaz;:xivAxiH}/wap2{karmaNi;lat;pra;eka;AwmanepaxI;wapaz;:xivAxiH}	wap2{karwari;lat;pra;eka;AwmanepaxI;wapaz;:xivAxiH}	aBihiwa_karwA,10;sakarmaka	saMwapwa_huA_jAwA_hE					
+13	(pqcCan)				pqcCaw{puM;1;eka{kqxanwa}({kqw_XAwu praC1} Sawq_lat{XAwuH praCaz} wuxAxiH)}	varwamAnasamAnakAlaH,9						

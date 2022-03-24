@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	senA-praNewA	1	senApraNewA	senA-pra_NI1{karwari;lut;pra;eka;parasmEpaxI;NIF;:BvAxiH}/pra_NI1{karwari;lut;pra;eka;AwmanepaxI;NIF;:BvAxiH}/praNewq{puM;1;eka}	senA-praNewq{puM;1;eka}	viXeya_viSeRaNam,14	senA-praNewq					
+2	ca	2	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	BI					
+3	Bavew	3	Bavewwava	BU1{karwari;viXilif;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;viXilif;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,14	ho					
+4	wava			yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,1	wumhArA					
+5	wAwa	4	wAwa	wAwa{puM;8;eka}	wAwa{puM;8;eka}	samboXyaH,3	piwA					
+6	xqDavrawaH	5	xqDavrawaH	xqDavrawa{puM;1;eka}	xqDavrawa{puM;1;eka}	viSeRaNam,14	adiga_Bakwa					
+7	SUraH	6	SUraH	SUra{puM;1;eka}	SUra{puM;1;eka}	samucciwaH,6						
+8	kleSa-sahaH	7	kleSasahaScEva	kleSa-sahas{napuM;1;eka}/sahas{napuM;2;eka}/sahas{napuM;8;eka}/saha{puM;1;eka}/sahas{puM;8;eka}	kleSa-saha{puM;1;eka}	samucciwaH,6	kleSa-saha					
+9	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora					
+10	eva			eva{avya}	eva{avya}	sambanXaH,9	hI					
+11	priyaH	8	priyaSca	prI{napuM;6;eka}/prI{napuM;5;eka}/priya{puM;1;eka}	priya{puM;1;eka}	samucciwaH,6	priya					
+12	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,6	BI					
+13	wava	9	wava	yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,14	wumhArA					
+14	mAnavaH	10	mAnavaH	mAnava{puM;1;eka}	mAnava{puM;1;eka}	karwA,3	mAnava					

@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	iwi	1	iwyukwaH	iwi{avya}	iwi{avya}	karma,2	EsA					
+2	ukwaH			ukwa{puM;1;eka(vac1;kwa;vacaz;:axAxiH)}	ukwa{puM;1;eka(vac1;kwa;vacaz;:axAxiH)}	viSeRaNam,7	kahA_huvA					
+3	saH	2	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,7	vaha					
+4	wu	3	wu	wu{avya}	wu{avya}	sambanXaH,7	wo					
+5	waM	4	waM	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,10	usako					
+6	prAha	5	prAha	prAha{puM;8;eka}/pra_brU1{karwari;lat;pra;eka;parasmEpaxI;brUF;:axAxiH}	pra_brU1{karwari;lat;pra;eka;parasmEpaxI;brUF;:axAxiH}	aBihiwa_karwA,7;sakarmaka	prAha					
+7	vyAsaH	6	vyAso	vyAsa{puM;1;eka}/vyAsa{puM;1;eka(as3;GaF;asuz;:xivAxiH)}	vyAsa{puM;1;eka}	karwA,6	viBAjana					
+8	Xarma-BqwAM	7	XarmaBqwAM	Xarma-BqwA{swrI;2;eka(Xarma-Bq2;kwa;duBqF;:juhowyAxiH)}	Xarma-Bqw{puM;6;bahu}	RaRTIsambanXaH,9	Xarma-BaraNa_karane_vAlI_ko					
+9	varaH	8	varaH	vara{puM;1;eka}	vara{puM;1;eka}	viSeRaNam,7	SreRTa					
+10	yuXiRTiram	9	yuXiRTiram	yuXiRTira{puM;2;eka}	yuXiRTira{puM;2;eka}	karma,6	yuXiRTira_ko					
+11	mahA-wejAH	10	mahAwejAH	mahA-wejas{puM;1;eka}	mahA-wejas{puM;1;eka}	viSeRaNam,7	gAya-wejas					
+12	punaH	11	punareva	punaH{avya}	punaH{avya}	kriyAviSeRaNam,6	Pira					
+13	eva			eva{avya}	eva{avya}	sambanXaH,12	hI					
+14	viSAM-pawe	12	viSAMpawe	viS{puM;6;bahu}/viS{napuM;6;bahu}	viS{puM;6;bahu}	samboXyaH,6	vESyoM_kA					

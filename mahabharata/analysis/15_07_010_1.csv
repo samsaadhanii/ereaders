@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	iwarAH	1	iwarAswu	iwara{puM;1;bahu}/iwarA{swrI;1;bahu}/iwarA{swrI;2;bahu}/iwarA{sarvanAma;swrI;1;bahu}/iwarA{sarvanAma;swrI;2;bahu}/iwara{puM;8;bahu}	iwarA{sarvanAma;swrI;1;bahu}	viSeRaNam,3	iwarA					
+2	sarvAH	3	sarvAH	sarvA{sarvanAma;swrI;1;bahu}/sarvA{sarvanAma;swrI;2;bahu}	sarvA{sarvanAma;swrI;1;bahu}	viSeRaNam,3	sarvA					
+3	swriyaH	2	swriyaH	swrI{swrI;1;bahu}/swrI{swrI;2;bahu}/swrI{swrI;8;bahu}	swrI{swrI;1;bahu}	karwA,12	swriyAz					
+4	wu			wu{avya}	wu{avya}	sambanXaH,3	wo					
+5	kunwyA	4	kunwyA	kunwI{swrI;3;eka}	kunwI{swrI;3;eka}	sahArWaH,12	kunwI_se					
+6	saha	5	saha	saha{avya}	saha{avya}	sahArWa_xyowakaH,5	sAWa					
+7	su-xuHKiwAH	6	suxuHKiwAH	su-xuHKin{wal;swrI;1;bahu}/xuHKin{wal;swrI;2;bahu}/su-xuHKiwa{puM;1;bahu(xuHKa1;kwa;xuHKa;:curAxiH)}/su-xuHKiwA{swrI;1;bahu(xuHKa1;kwa;xuHKa;:curAxiH)}/su-xuHKiwA{swrI;2;bahu(xuHKa1;kwa;xuHKa;:curAxiH)}	su-xuHKiwA{swrI;1;bahu(su-xuHKa1;kwa;xuHKa;:curAxiH)}	viSeRaNam,3	su-xuHKiyAz					
+8	Agawa-vi-klexEH			gam1{kwa;gamLz;:BvAxiH-vi-klexa;puM;3;bahu}/klexa{napuM;3;bahu}	klexa{napuM;3;bahu}	viSeRaNam,9	klexa					
+9	newrEH	7	newrErAgawaviklexEH	newra{napuM;3;bahu}	newra{napuM;3;bahu}	karaNam,10	newroM_se					
+10	parivArya	8	parivArya	krax2{avya;lyap;kraxiz;:BvAxiH}/krax3{avya;lyap;kraxiz;:BvAxiH}	pari_vq{avya;lyap;vqF;:curAxiH}	pUrvakAlaH,12	Af_krax3_kara					
+11	sWiwAH	9	sWiwABavan	sWiwA{swrI;1;bahu(RWA1;kwa;RWA;:BvAxiH)}	sWiwA{swrI;1;bahu(RWA1;kwa;RWA;:BvAxiH)}	viXeya_viSeRaNam,3						
+12	aBavan			BU1{karwari;laf;pra;bahu;parasmEpaxI;BU;BvAxiH}	BU1{karwari;laf;pra;bahu;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,3;akarmaka						

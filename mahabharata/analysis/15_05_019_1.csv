@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wvam	1	wvam	yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,14	wuma					
+2	hi	2	hi	hi{avya}	hi{avya}	sambanXaH,1	hi					
+3	Xarma-BqwAm	3	XarmaBqwAm	Xarma-Bqwa{swrI;2;eka(Xarma-Bq2;kwa;duBqF;:juhowyAxiH)}	Xarma-Bqw{puM;6;eka}	nirXAraNam,4	Xarma-BaraNa_karane_vAlI_ko					
+4	SreRTaH	4	SreRTaH	SreRTa{puM;1;eka}	SreRTa{puM;1;eka}	viXeya_viSeRaNam,1	SreRTa					
+5	sawawam	5	sawawam	sawawam{avya}/sawawa{puM;2;eka}/sawawa{napuM;1;eka}/sawawa{napuM;2;eka}	sawawa{puM;1;eka}	viSeRaNam,6						
+6	Xarma-vawsalaH	6	XarmavawsalaH	Xarma-vawsala{puM;1;eka}	Xarma-vawsala{puM;1;eka}	viXeya_viSeRaNam,1	Xarma-GAsa_se_prajvaliwa_agni					
+7	prANa-BqwAm	9	prANaBqwAm	prANa-BqwA{swrI;2;eka(prANa-Bq2;kwa;duBqF;:juhowyAxiH)}	prANa-Bqw{puM;6;eka}	RaRTIsambanXaH,8	prANa-BaraNa_karane_vAlI_ko					
+8	guruH	8	guruH	guru{puM;1;eka}	guru{puM;1;eka}	viXeya_viSeRaNam,1	guru					
+9	rAjA	7	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	viXeya_viSeRaNam,1	rAjA					
+10	wasmAw	10	wasmAxewaxbravImyaham	wax{sarvanAma;puM;5;eka}/wax{sarvanAma;napuM;5;eka}	wax{sarvanAma;napuM;5;eka}	hewuH,13	usase					
+11	aham			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,13	mEM					
+12	ewaw			ewax{sarvanAma;napuM;1;eka}/ewax{sarvanAma;napuM;2;eka}	ewax{sarvanAma;napuM;2;eka}	karma,13	yaha					
+13	bravImi			brU1{karwari;lat;u;eka;parasmEpaxI;brUF;:axAxiH}	brU1{karwari;lat;u;eka;parasmEpaxI;brUF;:axAxiH}	aBihiwa_karwA,11;sakarmaka	kahawA_hUz					
+14	(asi)				as{karwari,lat,ma,eka,parasmEpaxI{XAwuH asaz},axAxiH}	aBihiwa_karwA,1						

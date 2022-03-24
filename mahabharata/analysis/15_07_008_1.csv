@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vixuH-AxayaH	1	vixurAxayaSca	vixuH-Axi{swrI;1;bahu}/ax2{Nijanwa;karwari;laf;ma;eka;parasmEpaxI;axaz;:axAxiH}/Axi{swrI;8;bahu}/Axi{puM;8;bahu}/Axi{puM;1;bahu}	vixuH-Axi{puM;1;bahu}	karwA,6	vixuH-AxiyAz					
+2	we	2	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	viSeRaNam,3	ve					
+3	sarve	3	sarve	sarva{sarvanAma;puM;1;bahu}/sarva{sarvanAma;napuM;1;xvi}/sarva{sarvanAma;napuM;2;xvi}/sarvA{sarvanAma;swrI;1;xvi}/sarvA{sarvanAma;swrI;2;xvi}	sarva{sarvanAma;puM;1;bahu}	viSeRaNam,1	saba					
+4	BqSam	5	BqSam	BqSam{avya}/BqSa{napuM;1;eka}/BqSa{napuM;2;eka}	BqSam{avya}	kriyAviSeRaNam,5						
+5	xuHKiwAH			xuHKa1{karmaNi;lut;pra;eka;AwmanepaxI;xuHKa;:curAxiH}/xuHKiwA{swrI;1;eka(xuHKa1;kwa;xuHKa;:curAxiH)}	xuHKiwa{puM;1;bahu{kqxanwa}({kqw_XAwu xuHKa1};kwa{XAwuH xuHKa} curAxiH)}	viSeRaNam,1	xuHKa_xiyA					
+6	ruruxuH	4	ruruxurxuHKiwA	rux1{karwari;lit;pra;bahu;parasmEpaxI;ruxizr;:axAxiH}	rux1{karwari;lit;pra;bahu;parasmEpaxI;ruxizr;:axAxiH}	samucciwaH,14	roe					
+7	ca		ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,14	Ora					
+8	pANdavAH(pANdavam)	10	pANdavAH	pANdava{puM;1;bahu}/pANdava{puM;8;bahu}	pANdava{puM;2;eka}	karma,14	pANdava					
+9	ca			ca{avya}	ca{avya}	sambanXaH,8	Ora					
+10	awi-xuHKAw	6	awixuHKAcca	awi-xuHKa{puM;5;eka}/xuHKa{napuM;5;eka}	awi-xuHKa{puM;5;eka}	hewuH,14	awi-xuHKa_se					
+11	rAjAnam	7	rAjAnam	rAjan{puM;2;eka}	rAjan{puM;2;eka}	viSeRaNam,8	rAjA_ko					
+12	kiFcana	9	kiFcana	kiFcana{sarvanAma;napuM;1;eka}/kiFcana{sarvanAma;napuM;2;eka}	kiFcana{sarvanAma;napuM;2;eka}	karma,14	koI					
+13	na	8	nocuH	na{avya}	na{avya}	prawiReXaH,14	nahIM					
+14	UcuH			uc1{karwari;lit;pra;bahu;parasmEpaxI;ucaz;:xivAxiH}/vac1{karwari;lit;pra;bahu;parasmEpaxI;vacaz;:axAxiH}	uc1{karwari;lit;pra;bahu;parasmEpaxI;ucaz;:xivAxiH}	aBihiwa_karwA,3;sakarmaka	vilode					

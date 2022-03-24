@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aham	1	aham	asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,3	mEM					
+2	vanam	2	vanam	vana{napuM;1;eka}/vana{napuM;2;eka}	vana{napuM;2;eka}	karma,3	vana					
+3	gamiRyAmi	3	gamiRyAmi	gam1{karwari;lqt;u;eka;parasmEpaxI;gamLz;:BvAxiH}	gam1{karwari;lqt;u;eka;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,1;sakarmaka	jAUzgA					
+4	ixam			ixam{sarvanAma;napuM;1;eka}/ixam{sarvanAma;napuM;2;eka}	ixam{sarvanAma;napuM;2;eka}	viSeRaNam,5	yaha					
+5	rAjyam			rAjya{napuM;1;eka}/rAjya{napuM;2;eka}	rAjya{napuM;2;eka}	karma,7	rAjya					
+6	BavAn	4	BavAnrAjyaM	Bava{puM;2;bahu}/Bavaw{sarvanAma;puM;1;eka}	Bavaw{sarvanAma,puM,1,eka}	karwA,7	saMsAra_ko					
+7	praSAsawu	5	praSAswvixam	pra_SAs1{karwari;lot;pra;bahu;parasmEpaxI;SAsuz;:axAxiH}	pra_SAs1{karwari;lot;pra;bahu;parasmEpaxI;SAsuz;:axAxiH}	aBihiwa_karwA,6;sakarmaka	pra_SAs1_pp_skyeM					
+8	ayaSasA			ayaSas{napuM;3;eka}	ayaSas{napuM;3;eka}	hewuH,9	kalaMka_se					
+9	xagXam	8	xagXam	xagXa{puM;2;eka(xah1;kwa;xahaz;:BvAxiH)}/xagXa{napuM;1;eka(xah1;kwa;xahaz;:BvAxiH)}/xagXa{napuM;2;eka(xah1;kwa;xahaz;:BvAxiH)}	xagXa{puM;2;eka(xah1;kwa;xahaz;:BvAxiH)}	viSeRaNam,10						
+10	mAm	7	mAmayaSasA	asmax{sarvanAma;2;eka}	asmax{sarvanAma;2;eka}	karma,13	muJe					
+11	wvam			yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,15	wuma					
+12	BUyaH	9	BUyaswvaM	BUyaH{avya}/BUyas{napuM;1;eka}/BUyas{napuM;2;eka}/BUyas{napuM;8;eka}	BUyaH{avya}	kriyAviSeRaNam,13						
+13	xagXum	10	xagXumarhasi	xah1{avya;wumun;xahaz;:BvAxiH}	xah1{avya;wumun;xahaz;:BvAxiH}	sahAyakakriyA,15						
+14	na	6	na	na{avya}	na{avya}	prawiReXaH,15						
+15	arhasi			arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;:curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}	aBihiwa_karwA,11;sakarmaka	yogya_nahIM_howe_ho					

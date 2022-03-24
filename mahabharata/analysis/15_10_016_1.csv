@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	guNa-arWinAm	1	guNArWinAM	guNa-arWin{puM;6;bahu}/arWin{napuM;6;bahu}	guNa-arWin{puM;6;bahu}	RaRTIsambanXaH,3	guNa-yAcakoM_kA					
+2	guNaH	2	guNaH	guNa{puM;1;eka}	guNa{puM;1;eka}	karma,7	guNa					
+3	kAryaH	3	kAryo	kArI{swrI;1;bahu}/kArya{puM;1;eka}	kArya{puM;1;eka}	samucciwaH,2	kAma_karane_vAlAyeM					
+4	vixuRAm	4	vixuRAm	vixvas{puM;6;bahu}	vixvas{puM;6;bahu}	viSeRaNam,2	vixvAnoM_kA					
+5	we	5	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,1	ve					
+6	jana-aXipa	6	janAXipa	jana-aXipa{puM;8;eka}/aXipa{napuM;8;eka}	jana-aXipa{puM;8;eka}	samboXyaH,11	jana-aXipa					
+7	a-vi-cAlyAH	7	avicAlyASca	a-vi-cal3{karwari;ASIrlif;ma;eka;parasmEpaxI;calaz;:curAxiH}/a-vi-cAlya{puM;1;bahu(cal1;Nyaw;calaz;:BvAxiH)}/a-vi-cAlyA{swrI;1;bahu(cal1;Nyaw;calaz;:BvAxiH)}/a-vi-cAlyA{swrI;2;bahu(cal1;Nyaw;calaz;:BvAxiH)}/a-vi-cAlya{puM;1;bahu(cal2;Nyaw;calaz;:wuxAxiH)}/a-vi-cAlyA{swrI;1;bahu(cal2;Nyaw;calaz;:wuxAxiH)}/a-vi-cAlyA{swrI;2;bahu(cal2;Nyaw;calaz;:wuxAxiH)}/a-vi-cAlya{puM;1;bahu(cal3;yaw;calaz;:curAxiH)}/a-vi-cAlyA{swrI;1;bahu(cal3;yaw;calaz;:curAxiH)}/a-vi-cAlyA{swrI;2;bahu(cal3;yaw;calaz;:curAxiH)}	cAlya{puM;1;bahu{kqxanwa}(kqw_XAwu cal1} Nyaw{XAwuH calaz} BvAxiH)}	aBihiwa_karma,2;sakarmaka	pAlo					
+8	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora					
+9	we	8	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	karwA,11	ve					
+10	we	9	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;6;eka}	vIpsA,9	ve					
+11	syuH	10	syuryaWA	as2{karwari;viXilif;pra;bahu;parasmEpaxI;asaz;:axAxiH}	as2{karwari;viXilif;pra;bahu;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,10;sakarmaka	hoyeM					
+12	yaWA			yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,7	jEse				niwya_sambanXaH,16	
+13	meruH	11	merurmahAgiriH	meru{puM;1;eka}	meru{puM;1;eka}	karwA,12	meru					
+14	mahA-giriH			mahA-giri{swrI;1;eka}/giri{puM;1;eka}	mahA-giri{puM;1;eka}	viSeRaNam,13	gAya-parvawa					
+15	(ca)			ca{avya}	ca{avya}	samuccaya_xyowakaH,1						
+16	(waWA)			waWA{avya}	waWA{avya}	kriyAviSeRaNam,11					niwya_sambanXaH,12	

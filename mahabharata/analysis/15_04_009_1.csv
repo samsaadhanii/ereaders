@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	canxanena	2	canxanenAkwO	canxana{puM;3;eka}/canxana{napuM;3;eka(cax2;lyut;caxiz;:BvAxiH)}	canxana{puM;3;eka}	karaNam,2	canxana_se					
+2	akwO			AkwO}	akwa{puM;1;xvi{kqxanwa}({kqw_XAwu anj1} kwa{XAwuH anjUz} ruXAxiH)}	samucciwaH,6						
+3	vanxanIyO	3	vanxanIyO	vanxanIya{puM;1;xvi(vax2;anIyar;vaxiz;:BvAxiH)}/vanxanIya{puM;2;xvi(vax2;anIyar;vaxiz;:BvAxiH)}	vanxanIya{puM;1;xvi(vax2;anIyar;vaxiz;:BvAxiH)}	samucciwaH,6						
+4	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora					
+5	imO	1	wAvimO	ixam{sarvanAma;puM;1;xvi}/ixam{sarvanAma;puM;2;xvi}	ixam{sarvanAma;puM;1;xvi}	samucciwaH,6	ye					
+6	wO			wax{sarvanAma;puM;1;xvi}/wax{sarvanAma;puM;2;xvi}	wax{sarvanAma;puM;1;xvi}	viSeRaNam,8	ve				niwya_sambanXaH,9	
+7	me	5	me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,8	merA					
+8	BujO	6	BujO	Buja{puM;8;xvi}/Bu-ja{puM;1;xvi}/Bu-ja{puM;2;xvi}/Bu-ja{puM;8;xvi}	Buja{puM;1;xvi}	karwA,14	hAWa					
+9	yAByAm	7	yAByAm	yax{sarvanAma;puM;3;xvi}/yax{sarvanAma;puM;4;xvi}/yax{sarvanAma;puM;5;xvi}/yax{sarvanAma;napuM;3;xvi}/yax{sarvanAma;napuM;4;xvi}/yax{sarvanAma;napuM;5;xvi}/yax{sarvanAma;swrI;3;xvi}/yax{sarvanAma;swrI;4;xvi}/yax{sarvanAma;swrI;5;xvi}	yax{sarvanAma;puM;3;xvi}	karaNam,13	jinase				niwya_sambanXaH,6	
+10	sa-suwa-bAnXavaH	11	sasuwabAnXavaH	sa-Ru3{kwa;RuF;:svAxiH}/Su1{kwa;Su;:BvAxiH}/Ru2{kwa;Ru;:axAxiH-bAnXava;puM;1;eka}	Ru2kwa;Ru;:axAxiH-bAnXava;puM;1;eka}	viSeRaNam,11						
+11	xuryoXanaH	8	xuryoXano	xuryoXana{puM;1;eka}	xuryoXana{puM;1;eka}	muKyakarma,13	xuryoXana					
+12	kRayam	10	kRayam	kRaya{puM;2;eka}/kRaya{napuM;1;eka}/kRaya{napuM;2;eka}	kRaya{puM;2;eka}	karma,13	kRaya_ko					
+13	nIwaH	9	nIwaH	nIwa{puM;1;eka(NI1;kwa;NIF;:BvAxiH)}	nIwa{puM;1;eka(NI1;kwa;NIF;:BvAxiH)}	aBihiwa_karma,7	nIwa					
+14	(swaH)				as{karwari,lat,pra,xvi,parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,8						

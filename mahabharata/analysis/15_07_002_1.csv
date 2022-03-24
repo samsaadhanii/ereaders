@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	manuja-aXipa	4	manujAXipa	manuja-aXipa{puM;8;eka}/aXipa{napuM;8;eka}	manuja-aXipa{napuM;8;eka}	samboXyaH,6	manuRya-aXipa					
+2	wava	3	wavAGrAwumicCAmi	yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,3	wumhArA					
+3	mUrXAnam	1	mUrXAnam	Sira{puM;2;eka}	mUrXAna{puM;2;eka}	karma,5	SayyA					
+4	ca	2	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	BI					
+5	AGrAwum			GrA1{avya;wumun;GrA;:BvAxiH}	Af_GrA1{avya;wumun;GrA;:BvAxiH}	samucciwaH,9	NWnezke_liye					
+6	icCAmi			iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;:wuxAxiH}	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;:wuxAxiH}	aBihiwa_karwA,17;sakarmaka	icCA_karawA_hUz					
+7	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	BI					
+8	pANiByAm	5	pANiByAm	pANi{puM;3;xvi}/pANi{puM;4;xvi}/pANi{puM;5;xvi}	pANi{puM;3;xvi}	karaNam,9	hAWoM_se					
+9	parispraRtum	7	parispraRtum	spqS1{avya;wumun;spqSaz;:wuxAxiH}	spqS1{avya;wumun;spqSaz;:wuxAxiH}	karma,6	CUnezke_liye					
+10	mama			asmax{sarvanAma;6;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,12	mere					
+11	hi	9	hi	hi{avya}	hi{avya}	sambanXaH,10	hi					
+12	prANAH	8	prANAH	prANa{puM;1;bahu}/prANa{puM;8;bahu}	prANa{puM;1;bahu}	karwA,14	prANoM_ne					
+13	na	10	na	na{avya}	na{avya}	prawiReXaH,14	nahIM					
+14	jahuH	11	jahurmama	jahu{puM;1;eka}/hA2{karwari;lit;pra;bahu;parasmEpaxI;ozhAk;:juhowyAxiH}	hA2{karwari;lit;pra;bahu;parasmEpaxI;ozhAk;:juhowyAxiH}	aBihiwa_karwA,12;sakarmaka	wyAgA					
+15	(wava)			yuRmax{sarvanAma;6;eka}	yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,8	wumhArA					
+16	(mAm)				asmax{sarvanAma;2;eka}	karma,9						
+17	(aham)				asmax{sarvanAma;1;eka}	karwA,6						

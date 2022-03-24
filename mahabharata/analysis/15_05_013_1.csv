@@ -1,0 +1,22 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kRawra-Xarmam	7	kRawraXarmam	kRawra-Xarma{puM;2;eka}/Xarma{napuM;1;eka}/Xarma{napuM;2;eka}	kRawra-Xarma{puM;2;eka}	karma,2	kRawra-Xarma_ko					
+2	vixuH	9	vixuH	vixu{puM;1;eka}/vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;:axAxiH}	vix{karwari,lat,pra;bahu;parasmEpaxI{XAwuH vixaz} axAxiH}	aBihiwa_karwA,21;sakarmaka	hAWI_kA_lalAta					
+3	waw	6	waccAhaM	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waw{sarvanAma;napuM;2;eka}	viSeRaNam,13						
+4	ca			ca{avya}	ca{avya}	sambanXaH,3	Ora					
+5	aham			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,15	mEM					
+6	hi	7	hi	hi{avya}	hi{avya}	sambanXaH,5	hi					
+7	saMgrAmeRu	4	safgrAmeRvapalAyinam	safgrAma{puM;7;bahu}	safgrAma{puM;7;bahu}	xeSAXikaraNam,8	yuxXoM_meM					
+8	a-palAyinam			a-gawa{puM;2;eka(a-gam1;kwa;gamLz;:BvAxiH)}/a-gawa{napuM;1;eka(gam1;kwa;gamLz;:BvAxiH)}/a-gawa{napuM;2;eka(gam1;kwa;gamLz;:BvAxiH)}	palAyiwa{puM;2;eka{kqxanwa}({kqw_XAwu ay1} kwa{XAwuH ayaz} BvAxiH)}	viSeRaNam,13						
+9	SUram	3	SUram	SUra{puM;2;eka}	SUra{puM;2;eka}	viSeRaNam,13	SUra_ko					
+10	hawam	1	hawam	han1{karwari;lot;ma;xvi;parasmEpaxI;hanaz;:axAxiH}/hawa{puM;2;eka(han1;kwa;hanaz;:axAxiH)}/hawa{napuM;1;eka(han1;kwa;hanaz;:axAxiH)}/hawa{napuM;2;eka(han1;kwa;hanaz;:axAxiH)}	hawa{puM;2;eka(han1;kwa;hanaz;:axAxiH)}	prawiyogI,11	mAro					
+11	(kinwu)				kinwu{avya}	anuyogI,15						
+12	wam	8	wam	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,13	usako					
+13	puwra-Sawam	2	puwraSawam	puwra-Sawa{napuM;1;eka}/Sawa{napuM;2;eka}/Sawa{saMKyeyam;1;eka}/Sawa{saMKyeyam;2;eka}/Sawa{puM;2;eka}	puwra-Sawa{napuM;2;eka}	karma,10	puwra-Sawa					
+14	na	5	nAnuwapyAmi	na{avya}	na{avya}	prawiReXaH,15						
+15	anuwapyAmi			wap1{karmaNi;lat;u;eka;AwmanepaxI;wapaz;:BvAxiH}/wap2{karwari;lat;u;eka;AwmanepaxI;wapaz;:xivAxiH}/wap2{karmaNi;lat;u;eka;AwmanepaxI;wapaz;:xivAxiH}/wapya{puM;7;eka(wap1;yaw;wapaz;:BvAxiH)}/wapya{napuM;1;xvi(wap1;yaw;wapaz;:BvAxiH)}/wapya{napuM;2;xvi(wap1;yaw;wapaz;:BvAxiH)}/wapya{napuM;7;eka(wap1;yaw;wapaz;:BvAxiH)}/wapyA{swrI;1;xvi(wap1;yaw;wapaz;:BvAxiH)}/wapyA{swrI;2;xvi(wap1;yaw;wapaz;:BvAxiH)}/wapya{puM;7;eka(wap2;yaw;wapaz;:xivAxiH)}/wapya{napuM;1;xvi(wap2;yaw;wapaz;:xivAxiH)}/wapya{napuM;2;xvi(wap2;yaw;wapaz;:xivAxiH)}/wapya{napuM;7;eka(wap2;yaw;wapaz;:xivAxiH)}/wapyA{swrI;1;xvi(wap2;yaw;wapaz;:xivAxiH)}/wapyA{swrI;2;xvi(wap2;yaw;wapaz;:xivAxiH)}	anu_wap1{karmaNi;lat;u;eka;AwmanepaxI;wapaz;:BvAxiH}	vAkyakarma,17	saMwapwa_nahIM_huA_jAwA_hE					
+16	iwi	10	iwyukwvA	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,15	EsA					
+17	ukwvA			vac1{avya;kwvA;vacaz;:axAxiH}	vac1{avya;kwvA;vacaz;:axAxiH}	pUrvakAlaH,20						
+18	kOravaH	12	kOravaH	kOrava{puM;1;eka}	kOrava{puM;1;eka}	karwA,20	kOrava					
+19	Xarma-rAjAnam	11	XarmarAjAnamaByaBARawa	Xarma-rAjan{puM;2;eka}	Xarma-rAjan{puM;2;eka}	karma,20	Xarma-rAjA_ko					
+20	aByaBARawa			aBi_BAR1{karwari;laf;pra;eka;AwmanepaxI;BARaz;:BvAxiH}	aBi_BAR1{karwari;laf;pra;eka;AwmanepaxI;BARaz;:BvAxiH}	aBihiwa_karwA,18;sakarmaka	aBi_BAR1_ap_skyA					
+21	(we)				wax{sarvanAma;puM;1;bahu}	karwA,2						

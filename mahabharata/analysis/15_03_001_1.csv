@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	saH	1	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,2	vaha					
+2	rAjA	2	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	karwA,7	rAjA					
+3	su-mahAwejAH	3	sumahAwejA	su-mahA-wejA}	su-mahAwejas {puM;1;eka}	viSeRaNam,2	su-gAya-					
+4	vqxXaH	4	vqxXaH	vqxXa{puM;1;eka}	vqxXa{puM;1;eka}	viSeRaNam,2	vqxXa					
+5	kuru-kula-uxvahaH	5	kurukuloxvahaH	kuru-kula-uxvaha{puM;1;eka(kuru-kula-vah1;GaF;vahaz;:BvAxiH)}/uxvaha{puM;1;eka}	kuru-kula-uxvaha{puM;1;eka(kuru-kula-vah1;GaF;vahaz;:BvAxiH)}	viSeRaNam,2						
+6	na	6	nApaSyawa	na{avya}	na{avya}	prawiReXaH,7	nahIM					
+7	apaSyawa(apaSyaw)			xqS1{karwari;lit;u;eka;parasmEpaxI;xqSizr;:BvAxiH}/xqS1{karwari;lit;pra;eka;parasmEpaxI;xqSizr;:BvAxiH}	xqS{karwari;laf;pra;eka;parasmEpaxI{XAwuH xqSizr} BvAxiH}	aBihiwa_karwA,5;sakarmaka	xeKA					
+8	waxA	7	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,7	waba					
+9	kiFciw	8	kiFcixapriyaM	kiFciw{avya}/kiFciw{sarvanAma;napuM;1;eka}/kiFciw{sarvanAma;napuM;2;eka}	kiFciw{avya}	viSeRaNam,10						
+10	apriyaM			apriya{puM;2;eka}/apriya{napuM;1;eka}/apriya{napuM;2;eka}	apriya{puM;2;eka}	karma,7	apriya_ko					
+11	pANdu-nanxane	9	pANdunanxane	pANdu-nanxanA{swrI;1;xvi}/nanxanA{swrI;2;xvi}/nanxana{puM;7;eka}/pANdu-nanxana{napuM;1;xvi(nax1;lyut;tunaxiz;:BvAxiH)}/pANdu-nanxana{napuM;2;xvi(nax1;lyut;tunaxiz;:BvAxiH)}/pANdu-nanxana{napuM;7;eka(nax1;lyut;tunaxiz;:BvAxiH)}	pANdu-nanxana{puM;7;eka}	viRayAXikaraNam,7	pIlA-nanxanAyeM					

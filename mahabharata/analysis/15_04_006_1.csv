@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aWa			aWa{avya}	aWa{avya}	sambanXaH,12	Ora					
+2	su-saMrabXaH	6	susaMrabXo	su-saMrabXa{puM;1;eka}	su-saMrabXa{puM;1;eka}	viSeRaNam,4	su-uwwejiwa_vikRubXa					
+3	saH	8	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,4	vaha					
+4	BImaH	7	BImaH	BIma{puM;1;eka}	BIma{puM;1;eka}	karwA,12	BIma					
+5	Sawrum	3	Sawrum	Sawru{puM;2;eka}	Sawru{puM;2;eka}	viSeRaNam,6	Sawru_ko					
+6	xuryoXanam	2	xuryoXanam	xuryoXana{puM;2;eka}/xuryoXana{napuM;1;eka}/xuryoXana{napuM;2;eka}	xuryoXana{puM;2;eka}	samucciwaH,7	xuryoXana_ko					
+7	karNa-xuHSAsanO	4	karNaxuHSAsanAvapi	karNa-xuHSAsanO}	karNa-xuHSAsanO{puM;2;eka}	karma,9	karNa-					
+8	api			api{avya}	api{avya}	samuccaya_xyowakaH,7	BI					
+9	smqwvA	1	smqwvA	smq1{avya;kwvA;smq;:BvAxiH}	smq1{avya;kwvA;smq;:BvAxiH}	pUrvakAlaH,12						
+10	paruRam	9	paruRam	paruRa{puM;2;eka}/paruRa{napuM;1;eka}/paruRa{napuM;2;eka}	paruRa{ napuM;2;eka}	viSeRaNam,11	kaTora_ko					
+11	vacaH	10	vacaH	vaca{puM;1;eka}/vacas{napuM;1;eka}/vacas{napuM;2;eka}/vacas{napuM;8;eka}	vaca{ napuM;2;eka}	karma,12	wowA					
+12	provAca	5	provAcAWa	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}/vac1{karwari;lit;u;eka;parasmEpaxI;vacaz;:axAxiH}	pra_vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}	aBihiwa_karwA,4;sakarmaka	bolA					

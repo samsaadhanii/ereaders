@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	jIvaw-puwrasya	3	jIvawpuwrasya	jIvawpuwra{puM;6;eka}	jIvaw-puwra{puM;6;eka}	viSeRaNam,2	puwra_kA					
+2	kuru-muKyasya	2	kurumuKyasya	kuru-muKya{napuM;6;eka}/muKya{puM;6;eka}	kuru-muKya{puM;6;eka}	RaRTIsambanXaH,5	kuru-muKya_ke					
+3	yAvaw	1	yAvaxXi	yAvaw{avya}	yAvaw{avya}	niwya_sambanXaH,8	jaba_waka					
+4	hi			hi{avya}	hi{avya}	sambanXaH,2	hi					
+5	suKam	5	suKam	suKam{avya}/suKa{puM;2;eka}/suKa{napuM;1;eka}/suKa{napuM;2;eka}	suKa{puM;2;eka}	karma,7						
+6	vE	4	vE	vE{avya}	vE{avya}	sambanXaH,7	suKanA					
+7	baBUva	6	baBUva	BU1{karwari;lit;u;eka;parasmEpaxI;BU;:BvAxiH}/BU1{karwari;lit;ma;bahu;parasmEpaxI;BU;:BvAxiH}/BU1{karwari;lit;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1karwari;lit;pra;eka;parasmEpaxI;BU;:BvAxiH}	prawiyogI,3	huA					
+8	waw	7	waxavApnowu	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	 wax{sarvanAma;napuM;2;eka}	viSeRaNam,9					niwya_sambanXaH,3	
+9	BogAn	8	BogAMScewi	Boga{puM;2;bahu}	Boga{puM;2;bahu}	karma,11	BogoM_ko					
+10	ca			ca{avya}	ca{avya}	sambanXaH,9	Ora					
+11	avApnowu			ava_Ap1{karwari;lot;pra;eka;parasmEpaxI;ApLz;:svAxiH}	ava_Ap1{karwari;lot;pra;eka;parasmEpaxI;ApLz;:svAxiH}	vAkyakarma,12	pAye					
+12	iwi			iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,13	EsA					
+13	vyavasWiwAH	9	vyavasWiwAH	vyavasWiwa{puM;1;bahu}/vyavasWiwA{swrI;1;bahu}/vyavasWiwA{swrI;2;bahu}/vyavasWiwa{puM;8;bahu}	vyavasWiwa{puM;1;bahu}		vyavasWiwa					

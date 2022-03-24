@@ -1,0 +1,9 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wawaH	1	wawaH	wawaH{avya}	wawaH{avya}	sambanXaH,8	vahAz_se					
+2	XqwarARtraH	3	XqwarARtraH	XqwarARtra{puM;1;eka}	XqwarARtra{puM;1;eka}	karwA,8	XqwarARtra					
+3	awyarWam			awyarWa{napuM;1;eka}/awyarWa{napuM;2;eka}	awyarWa{napuM;2;eka}	kriyAviSeRaNam,5	awyarWa					
+4	BqSam	7	BqSam	BqSam{avya}/BqSa{napuM;1;eka}/BqSa{napuM;2;eka}	BqSam{napuM;2;eka}	kriyAviSeRaNam,5						
+5	bARpasanxigXam	5	bARpasanxigXamawyarWamixamAha	bARpasanxigXa{puM;2;eka}/bARpasanxigXa{napuM;1;eka}/bARpasanxigXa{napuM;2;eka}	bARpasanxigXa{puM;2;eka}	viSeRaNam,7	bARpasanxigXa_ko					
+6	ixam			ixam{sarvanAma;napuM;1;eka}/ixam{sarvanAma;napuM;2;eka}	ixam{sarvanAma;napuM;2;eka}	viSeRaNam,7	yaha					
+7	vacaH	6	vaco	vaca{puM;1;eka}/vacas{napuM;1;eka}/vacas{napuM;2;eka}/vacas{napuM;8;eka}	vaca{napuM;2;eka}	karma,8	wowA					
+8	Aha			brU1{karwari;lit;pra;eka;AwmanepaxI;brUF;:axAxiH}	brU1{karwari;lit;pra;eka;AwmanepaxI;brUF;:axAxiH}	aBihiwa_karwA,2;sakarmaka	kahA					

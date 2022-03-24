@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wEH	1	wEH	wax{sarvanAma;puM;3;bahu}/wax{sarvanAma;napuM;3;bahu}	wax{sarvanAma;puM;3;bahu}	sahArWaH,3	unase					
+2	sArXaM	2	sArXaM	sArXam{avya}/sArXa{puM;2;eka}/sArXa{napuM;1;eka}/sArXa{napuM;2;eka}	sArXam{avya}	sahArWa_xyowakaH,1						
+3	manwrayeWAH	3	manwrayeWAswvaM	carcaw{puM;1;bahu(carc1;Sawq_lat;carcaz;:BvAxiH)}/carcaw{puM;1;bahu(carc2;Sawq_lat;carcaz;:wuxAxiH)}	mawr{karwari;viXilif;ma;eka;AwmanepaxI{XAwuH mawriz} curAxiH}	aBihiwa_karwA,4;sakarmaka						
+4	wvam			yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,3	wuma					
+5	na	4	nAwyarWaM	na{avya}	na{avya}	prawiReXaH,3	nahIM					
+6	awi-arWam			awi-arWam{napuM;1;eka}/awyarWa{napuM;2;eka}	awi-arWam{napuM;1;eka}	karma,3	awyarWa					
+7	bahuBiH	5	bahuBiH	bahu{napuM;3;bahu}/bahu{swrI;3;bahu}/bahu{puM;3;bahu}	bahu{puM;3;bahu}	sahArWaH,3	bahuwoM_se					
+8	saha	6	saha	saha{avya}	saha{avya}	sahArWa_xyowakaH,7	sAWa					
+9	samaswEH	7	samaswErapi	samaswa{puM;3;bahu}/samaswa{napuM;3;bahu}	samaswa{puM;3;bahu}	viSeRaNam,1	samaswoM_se					
+10	api			api{avya}	api{avya}	sambanXaH,9	BI					
+11	ca	8	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	Ora					
+12	vyaswEH	9	vyaswErvyapaxeSena	vyaswa{puM;3;bahu}/vyaswa{napuM;3;bahu}/vyaswa{puM;3;bahu(as3;kwa;asuz;:xivAxiH)}/vyaswa{napuM;3;bahu(as3;kwa;asuz;:xivAxiH)}	vyaswa{puM;3;bahu}	samucciwaH,9	dAlA_huoM_se					
+13	vyapaxeSena			vyapaxeSa{puM;3;eka(xiS1;GaF;xiSaz;:wuxAxiH)}	vyapaxeSa{puM;3;eka(xiS1;GaF;xiSaz;:wuxAxiH)}	hewuH,3	sUcanA_se					
+14	kenaciw	10	kenaciw			viSeRaNam,13						

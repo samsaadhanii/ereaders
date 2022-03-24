@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	pANdavAH	1	pANdavAH	pANdava{puM;1;bahu}/pANdava{puM;8;bahu}	pANdava{puM;1;bahu}	karwA,3	pANdava					
+2	sarva-kAryANi	2	sarvakAryANi	sarva-kArya{napuM;8;bahu}/kArya{napuM;1;bahu}/kArya{napuM;2;bahu}	sarva-kArya{napuM;2;bahu}	karma,3	saba-kArya					
+3	sampqcCanwi	3	sampqcCanwi	sam_praC1{karwari;lat;pra;bahu;parasmEpaxI;praCaz;:wuxAxiH}	sam_praC1{karwari;lat;pra;bahu;parasmEpaxI;praCaz;:wuxAxiH}	aBihiwa_karwA,1;sakarmaka	sam_praC1_pp_skwe_hEM					
+4	sma	4	sma	sma{avya}	sma{avya}	sambanXaH,3	-					
+5	waM	5	waM	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,6	usako					
+6	nqpaM	6	nqpaM	nqpa{puM;2;eka}	nqpa{puM;2;eka}	karma,3	rAjA_ko					
+7	cakruH	7	cakruswenAByanujFAwA	kq1{karwari;lit;pra;bahu;parasmEpaxI;kqF;:BvAxiH}/kq2{karwari;lit;pra;bahu;parasmEpaxI;kqF;:svAxiH}/kq3{karwari;lit;pra;bahu;parasmEpaxI;dukqF;:wanAxiH}	kq1{karwari;lit;pra;bahu;parasmEpaxI;kqF;:BvAxiH}	aBihiwa_karwA,9;sakarmaka	kiye					
+8	wena			wax{sarvanAma;puM;3;eka}/wax{sarvanAma;napuM;3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;:wanAxiH}	wax{sarvanAma;puM;3;eka}	karwA,9	usase					XqwarARtreNa
+9	aByanujFAwAH			anujFA{wal;swrI;1;eka}/anujFAwq{puM;1;eka(jFA1;wqc;jFA;:kryAxiH)}/anujFAwA{swrI;1;eka(jFA1;kwa;jFA;:kryAxiH)}	aBi_anujFAwa{puM;1;bahu}	viSeRaNam,14						
+10	varRANi	8	varRANi	vqR1{karwari;lot;u;eka;parasmEpaxI;vqRuz;:BvAxiH}/vi_qR1{karwari;lot;u;eka;parasmEpaxI;qRIz;:wuxAxiH}	varRa{napuM;2;bahu}	kAlAXikaraNam,7	varasUz					
+11	xaSa	9	xaSa	xaSan{saMKyeyam;1;bahu}/xaSan{saMKyeyam;2;bahu}/xanS1{karwari;lot;ma;eka;parasmEpaxI;xanSaz;:BvAxiH}	xaSan{saMKyeyam;2;bahu}	samucciwaH,12	xaSa					
+12	paFca	10	paFca	paFcan{saMKyeyam;1;bahu}/paFcan{saMKyeyam;2;bahu}/pac3{karwari;lot;ma;eka;parasmEpaxI;paciz;:curAxiH}	paFcan{saMKyeyam;2;bahu}	viSeRaNam,10	paFcan_a					
+13	ca	11	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora					
+14	(pANdavAH)			pANdava{puM;1;bahu}/pANdava{puM;8;bahu}	pANdava{puM;1;bahu}	karwA,7	pANdava					

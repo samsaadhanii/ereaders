@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wasmin	1	wasmiMswu	wax{sarvanAma;napuM;7;eka}/wax{sarvanAma;puM;7;eka}	wax{sarvanAma;puM;7;eka}	viSeRaNam,2	usa					
+2	kOrava-inxre	2	kOravenxre	kOrava-inxra{puM;7;eka}/inxra{napuM;8;xvi}/inxra{napuM;1;xvi}/inxra{napuM;2;xvi}/inxra{napuM;7;eka}/inxrA{swrI;8;eka}/inxrA{swrI;8;xvi}/inxrA{swrI;1;xvi}/inxrA{swrI;2;xvi}	kOrava-inxra{puM;7;eka}	karwA,6	kOrava-inxra_meM					
+3	wam	3	wam	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,4	vaha					
+4	pANdavam	6	pANdavam	pANdava{puM;2;eka}/pANdava{napuM;1;eka}/pANdava{napuM;2;eka}	pANdava{puM;2;eka}	karma,6	pANdava					
+5	waWA	4	waWA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,6	vEse					
+6	bruvawi	5	bruvawi	bruvaw{puM;7;eka(brU1;Sawq_lat;brUF;:axAxiH)}/bruvaw{napuM;7;eka(brU1;Sawq_lat;brUF;:axAxiH)}	bruvaw{napuM;7;eka(brU1;Sawq_lat;brUF;:axAxiH)}	BAvalakRaNasapwamI_samAnakAlaH,12	kahawA_huA					
+7	wu			wu{avya}	wu{avya}	sambanXaH,6	wo					
+8	sarveRAm	7	sarveRAmavaroXAnAmArwanAxo	sarva{sarvanAma;puM;6;bahu}/sarva{sarvanAma;napuM;6;bahu}	sarva{sarvanAma;napuM;6;bahu}	viSeRaNam,9	sabake					
+9	avaroXAnAm			avaroXa{puM;6;bahu(ruX1;GaF;ruXizr;:ruXAxiH)}	avaroXa{puM;6;bahu(ruX1;GaF;ruXizr;:ruXAxiH)}	RaRTIsambanXaH,10	avaroXoM_kA					
+10	ArwanAxaH			ArwanAxa{puM;1;eka}	ArwanAxa{puM;1;eka}	karwA,12	ArwanAxa					
+11	mahAn	8	mahAnaBUw	maha{puM;2;bahu}/mahaw{puM;1;eka}	mahaw{puM;1;eka}	viSeRaNam,10						
+12	aBUw			BU1{karwari;luf;pra;eka;parasmEpaxI;BU;:BvAxiH}	BU1{karwari;luf;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,10;sakarmaka	huA					

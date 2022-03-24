@@ -1,0 +1,21 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaWA	5	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,15	jEse				niwya_sambanXaH,19	
+2	xuryoXana-AxayaH	6	xuryoXanAxayaH	xuryoXana-Axi{swrI;1;bahu}/ax2{Nijanwa;karwari;laf;ma;eka;parasmEpaxI;axaz;:axAxiH}/Axi{swrI;8;bahu}/Axi{puM;8;bahu}/Axi{puM;1;bahu}	xuryoXana-Axi{swrI;1;bahu}	karwA,15	xuryoXana-AxiyAz					
+3	BavawaH	4	Bavawo	Bava{avya;wasil}/Bavaw{sarvanAma;puM;2;bahu}/Bavaw{sarvanAma;puM;5;eka}/Bavaw{sarvanAma;puM;6;eka}/BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;:BvAxiH}/Bavaw{puM;2;bahu}/Bavaw{puM;5;eka}/Bavaw{puM;6;eka}	Bavaw{ sarvanAma;puM;6;eka}	RaRTIsambanXaH,4						
+4	puwrAH	3	puwrA	puwra{puM;1;bahu}/puwra{puM;8;bahu}	puwra{puM;1;bahu}	viXeya_viSeRaNam,2	puwra					
+5	vayam	1	vayam	asmax{sarvanAma;1;bahu}	asmax{sarvanAma;1;bahu}	karwA,18	hama					
+6	hi	2	hi	hi{avya}	hi{avya}	sambanXaH,5	hi					
+7	mama	13	mama	asmax{sarvanAma;6;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,8	merA					
+8	mawe	12	mawe	mawi{swrI;8;eka}/mawa{puM;7;eka(man1;kwa;manaz;:xivAxiH)}/mawa{napuM;1;xvi(man1;kwa;manaz;:xivAxiH)}/mawa{napuM;2;xvi(man1;kwa;manaz;:xivAxiH)}/mawa{napuM;7;eka(man1;kwa;manaz;:xivAxiH)}/mawA{swrI;1;xvi(man1;kwa;manaz;:xivAxiH)}/mawA{swrI;2;xvi(man1;kwa;manaz;:xivAxiH)}/mawa{puM;7;eka(man2;kwa;manuz;:wanAxiH)}/mawa{napuM;1;xvi(man2;kwa;manuz;:wanAxiH)}/mawa{napuM;2;xvi(man2;kwa;manuz;:wanAxiH)}/mawa{napuM;7;eka(man2;kwa;manuz;:wanAxiH)}/mawA{swrI;1;xvi(man2;kwa;manuz;:wanAxiH)}/mawA{swrI;2;xvi(man2;kwa;manuz;:wanAxiH)}	mawa{puM;7;eka{kqxanwa}({kqw_XAwu man2};kwa{XAwuH manuz} wanAxiH)}	aXikaraNam,20	mawi					
+9	gAnXArI	7	gAnXArI	gAnXArI{swrI;1;eka}/gAnXAri{puM;1;xvi}/gAnXAri{puM;2;xvi}/gAnXAri{puM;8;xvi}	gAnXArI{swrI;1;eka}	samucciwaH,12	gAnXArI					
+10	ca	8	cEva	ca{avya}	ca{avya}	sambanXaH,9	Ora					
+11	eva			eva{avya}	eva{avya}	sambanXaH,10	hI					
+12	kunwI	9	kunwI	kunwI{swrI;1;eka}/kunwi{puM;1;xvi}/kunwi{puM;2;xvi}/kunwi{puM;8;xvi}	kunwI{swrI;1;eka}	karwA,20	kunwI					
+13	ca	10	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora					
+14	nirviSeRe	11	nirviSeRe	nirviSeRa{napuM;1;xvi}/nirviSeRa{napuM;2;xvi}/nirviSeRA{swrI;1;xvi}/nirviSeRA{swrI;2;xvi}/nirviSeRa{puM;7;eka}/nirviSeRa{napuM;7;eka}	nirviSeRa{puM;1;xvi}	viXeya_viSeRaNam,12	nirviSeRa					
+15	(sanwi)				as{karwari;lat;pra;bahu;parasmEpaxI{XAwuH asaz};axAxiH}	aBihiwa_karwA,2;akarmaka						
+16	(BavawaH)			Bava{avya;wasil}/Bavaw{sarvanAma;puM;2;bahu}/Bavaw{sarvanAma;puM;5;eka}/Bavaw{sarvanAma;puM;6;eka}/BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;:BvAxiH}/Bavaw{puM;2;bahu}/Bavaw{puM;5;eka}/Bavaw{puM;6;eka}	Bavaw{ sarvanAma;puM;6;eka}	RaRTIsambanXaH,17						
+17	(puwrAH)			puwra{puM;1;bahu}/puwra{puM;8;bahu}	puwra{puM;1;bahu}	viXeya_viSeRaNam,5	puwra					
+18	(smaH)				as{karwari;lat;u;bahu;parasmEpaxI{XAwuH asaz};axAxiH}	aBihiwa_karwA,5;akarmaka						
+19	(waWA)				waWA{avya}	kriyAviSeRaNam,18					niwya_sambanXaH,1	
+20	(BavawaH)				BU1{karwari;lat;pra;xvi;parasmEpaxI{XAwuHBU};BvAxiH}	aBihiwa_karwA,12;akarmaka						

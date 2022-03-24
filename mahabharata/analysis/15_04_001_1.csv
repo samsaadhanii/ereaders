@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	rAjan	5	rAjanpuruRAH	rAjan{puM;8;eka}/rAjaw{puM;1;eka(rAj1;Sawq_lat;rAjqz;:BvAxiH)}	rAjan{puM;8;eka}	samboXyaH,11	rAjA					
+2	puruRAH			puruRa{puM;1;bahu}/puruRa{puM;8;bahu}	puruRa{puM;1;bahu}	karwA,11	puruRoM_ne					
+3	nqpaweH	2	nqpawerxuryoXanapiwuswaWA	nqpawi{puM;5;eka}/nqpawi{puM;6;eka}	nqpawi{puM;6;eka}	RaRTIsambanXaH,4	rAjA_ke					
+4	yuXiRTirasya	1	yuXiRTirasya	yuXiRTira{puM;6;eka}	yuXiRTira{puM;6;eka}	samucciwaH,6	yuXiRTira_ke					
+5	waWA			waWA{avya}	waWA{avya}	samuccaya_xyowakaH,6	vEse					
+6	xuryoXana-piwuH			xuryoXana-piwq{puM;5;eka}/piwq{puM;6;eka}/piwq{napuM;5;eka}/piwq{napuM;6;eka}/piwq{swrI;5;eka}/piwq{swrI;6;eka}	xuryoXana-piwq{swrI;6;eka}	RaRTIsambanXaH,7	xuryoXana-piwq_ke					
+7	praNayam	6	praNayam	praNaya{puM;2;eka}	praNaya{puM;2;eka}	sanxarBa_binxuH,8	vivAha_karane_kA					
+8	prawi	7	prawi	prawi{avya}	prawi{avya}	ABimuKyam,11	ora					
+9	anwaram	3	nAnwaraM	anwara{puM;2;eka}/anwara{napuM;1;eka}/anwara{napuM;2;eka}/anwara{sarvanAma;puM;2;eka}/anwara{sarvanAma;napuM;1;eka}/anwara{sarvanAma;napuM;2;eka}	anwara{sarvanAma;napuM;2;eka}	karma,11	anwarakI					
+10	na			na{avya}	na{avya}	prawiReXaH,11	nahIM					
+11	xaxqSuH	4	xaxqSU	xqS1{karwari;lit;pra;bahu;parasmEpaxI;xqSizr;:BvAxiH}	xqS1{karwari;lit;pra;bahu;parasmEpaxI;xqSizr;:BvAxiH}	aBihiwa_karwA,2;sakarmaka	xeKA					

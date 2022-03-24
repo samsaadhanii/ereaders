@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaWA	2	yaWEvAyaM	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,18	jEse					
+2	eva			eva{avya}	eva{avya}	sambanXaH,1	hI					
+3	ayam			ixam{sarvanAma;puM;1;eka}/aya{puM;2;eka}	ixam{sarvanAma;puM;1;eka}	viSeRaNam,5	yaha					
+4	mama			asmax{sarvanAma;6;eka}	asmax{sarvanAma;6;eka}	RaRTIsambanXaH,5	merA					
+5	guruH	3	gururmama	guru{puM;1;eka}	guru{puM;1;eka}	karwA,18	BArI					
+6	ca	9	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora					
+7	rAjA	5	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	samucciwaH,10	rAjA					
+8	yaxi	4	yaxi	yaxi{avya}	yaxi{avya}	niwya_sambanXaH,13	yaxi					
+9	yaSasvinI	10	yaSasvinI	yaSasvin{napuM;1;xvi}/yaSasvin{napuM;2;xvi}/yaSasvinI{swrI;1;eka}/yaSasvin{napuM;8;xvi}	yaSasvinI{swrI;1;eka}	viSeRaNam,10	yaSasvinI					
+10	gAnXArI	8	gAnXArI	gAnXArI{swrI;1;eka}/gAnXAri{puM;1;xvi}/gAnXAri{puM;2;xvi}/gAnXAri{puM;8;xvi}	gAnXArI{swrI;1;eka}	karwA,12	gAnXArI					
+11	na	6	na	na{avya}	na{avya}	prawiReXaH,12	nahIM					
+12	Bufkwe	7	BufkweZyaM	Buj2{karwari;lat;pra;eka;AwmanepaxI;Bujaz;:ruXAxiH}	Buj2{karwari;lat;pra;eka;AwmanepaxI;Bujaz;:ruXAxiH}	prawiyogI,8	KAwA_hE					
+13	(warhi)			waWA{avya}	warhi{avya}	anuyogI,17	vEse				niwya_sambanXaH,8	
+14	aham	1	ahamapyupavawsyAmi	asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,17	mEM					
+15	api			api{avya}	api{avya}	sambanXaH,14	BI					
+16	ayam			ixam{sarvanAma;puM;1;eka}/aya{puM;2;eka}	aya{puM;1;eka}	viSeRaNam,7	calanA					
+17	upavawsyAmi			upa_vas1{karwari;lqt;u;eka;parasmEpaxI;vasaz;:BvAxiH}	upa_vas1{karwari;lqt;u;eka;parasmEpaxI;vasaz;:BvAxiH}	aBihiwa_karwA,14;sakarmaka	rahUzgA					
+18	(upavawsyawi)				upa_vas{karwari;lqt;pra;eka;parasmEpaxI{XAwuH vasaz} BvAxiH}							

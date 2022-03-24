@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	jana-aXipa	8	janAXipa	jana-aXipa{puM;8;eka}/aXipa{napuM;8;eka}	jana-aXipa{puM;8;eka}	samboXyaH,8	jana-aXipa					
+2	puwra	2	puwra	puwra{puM;8;eka}	puwra{puM;8;eka}	samboXyaH,8	puwra					
+3	wvayA			yuRmax{sarvanAma;3;eka}	yuRmax{sarvanAma;3;eka}	karwA,5	wumhAre_xvArA					
+4	ciram	3	ciram	ciram{avya}/cira{napuM;1;eka}/cira{napuM;2;eka}	cira{napuM;2;eka}	kriyAviSeRaNam,5	xIrGa_kI					
+5	vanxiwaH	4	SuSrURiwaswvayA	vanxin{avya;wasil}/vanxiwa{puM;1;eka(vax2;kwa;vaxiz;:BvAxiH)}	vanxiwa{puM;1;eka(vax2;kwa;vaxiz;:BvAxiH)}	samucciwaH,7	swuwi_kI_huI					
+6	ciram	1	ciramasmyuRiwaH	ciram{avya}/cira{napuM;1;eka}/cira{napuM;2;eka}	cira{napuM;2;eka}	kriyAviSeRaNam,7	xIrGa					
+7	uRiwaH			uRiwa{puM;1;eka(vas1;kwa;vasaz;:BvAxiH)}/uRiwa{puM;1;eka(uR1;kwa;uRaz;:BvAxiH)}	uRiwa{puM;1;eka(vas1;kwa;vasaz;:BvAxiH)}	viXeya_viSeRaNam,15	rahA_huA					
+8	asmi			as2{karwari;lat;u;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,15;sakarmaka	hUz					
+9	wvam	7	wvamarhasi	yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,13	wuma					
+10	vqxXam	5	vqxXam	vqxXa{puM;2;eka}/vqxXa{napuM;1;eka}/vqxXa{napuM;2;eka}	vqxXa{napuM;2;eka}	viSeRaNam,11	vqxXa					
+11	mAm	6	mAmaByanujFAwuM	asmax{sarvanAma;2;eka}	asmax{sarvanAma;2;eka}	karma,13	muJe					
+12	aByanujFAwum			jFA1{avya;wumun;jFA;:kryAxiH}	 aBi_anu_jFA1{avya;wumun;jFA;:kryAxiH}	sahAyakakriyA,13	anu_jFA1					
+13	arhasi			arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;:curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}	aBihiwa_karwA,9;sakarmaka	yogya_howe_ho					
+14	(ca)			ca{avya}	ca{avya}	samuccaya_xyowakaH,7	Ora					
+15	(aham)			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,8	mEM					

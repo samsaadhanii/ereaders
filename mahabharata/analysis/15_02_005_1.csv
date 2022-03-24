@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	puwrANAm	3	puwrANAm	su-puwra{puM;6;bahu}/puwra{napuM;6;bahu}/puwrA{swrI;6;bahu}	puwra{puM;6;bahu}	RaRTIsambanXaH,2	su-puwroM_kA					
+2	SrAxXa-karmaNi	4	SrAxXakarmaNi	SrAxXa-karman{napuM;7;eka}	SrAxXa-karman{napuM;7;eka}	samucciwaH,5	SrAxXa-karma_meM					
+3	pari-xqRteRu	1	parixqRteRu	pari-xqRta{napuM;7;bahu}/pari-xqRta{puM;7;bahu(xqS1;kwa;xqSizr;:BvAxiH)}/pari-xqRta{napuM;7;bahu(xqS1;kwa;xqSizr;:BvAxiH)}	pari-xqRta{napuM;7;bahu}	viSeRaNam,5	pari-xeKA_huoM_meM					
+4	ca	2	cAhaHsu	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora					
+5	ahaHsu			ahan{puM;7;bahu}	ahan{puM;7;bahu}	viRayAXikaraNam,11						
+6	yAvaw	8	yAvaxasya	yAvaw{avya}	yAvaw{avya}	sambanXaH,8	jaba_waka					
+7	asya			ixam{sarvanAma;puM;6;eka}/ixam{sarvanAma;napuM;6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;:xivAxiH}	ixam{sarvanAma;puM;6;eka}	RaRTIsambanXaH,8	isakA					
+8	cikIrRiwam	9	cikIrRiwam	cikIrRiwa{napuM;1;eka}/cikIrRiwa{napuM;2;eka}	cikIrRiwa{napuM;1;eka}	karma,11	cikIrRiwa					
+9	rAjA	6	rAjA	rAjan{puM;1;eka}	rAjan{puM;1;eka}	karwA,11	rAjA					
+10	sarveRAm(sarvam)	7	sarveRAm	sarva{sarvanAma;puM;1;eka}	sarva{sarvanAma;puM;1;eka}	viSeRaNam,8	sabakA					
+11	xaxAwu	5	xaxAwu	xA3{karwari;lot;pra;eka;parasmEpaxI;duxAF;:juhowyAxiH}	xA3{karwari;lot;pra;eka;parasmEpaxI;duxAF;:juhowyAxiH}	aBihiwa_karwA,9;sakarmaka	xe					

@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	waw	2	waxrAjA	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waw{avya}	karma,13	waw					
+2	rAjA			rAjan{puM;1;eka}	rAjan{puM;1;eka}	viSeRaNam,4	rAjA					
+3	kunwI-puwraH	3	kunwIpuwro	kunwI-puwra{puM;1;eka}	kunwI-puwra{puM;1;eka}	viSeRaNam,4	kunwI-puwra1					
+4	yuXiRTiraH	4	yuXiRTiraH	yuXiRTira{puM;1;eka}	yuXiRTira{puM;1;eka}	anyawaraH,10	yuXiRTira					
+5	Svewa-aSvaH	5	SvewASvo	Svewa-aSva{puM;1;eka}/Svi1{karwari;luf;ma;eka;parasmEpaxI;tuozSvi;:BvAxiH}	Svewa-aSva{puM;1;eka}	anyawaraH,10	saPexa-aSva					
+6	vA	6	vAWa	vA{avya}	vA{avya}	anyawara_xyowakaH,5	vA					
+7	yaSasvinI	11	yaSasvinI	yaSasvin{napuM;1;xvi}/yaSasvin{napuM;2;xvi}/yaSasvinI{swrI;1;eka}/yaSasvin{napuM;8;xvi}	yaSasvinI{swrI;1;eka}	viSeRaNam,10	yaSasvinI					
+8	kunwI	7	kunwI	kunwI{swrI;1;eka}/kunwi{puM;1;xvi}/kunwi{puM;2;xvi}/kunwi{puM;8;xvi}	kunwI{swrI;1;eka}	anyawaraH,10	kunwI					
+9	vA	8	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,8	vA					
+10	xrOpaxI	9	xrOpaxI	xrOpaxI{swrI;1;eka}	xrOpaxI{swrI;1;eka}	karwA,13	xrOpaxI_ne					
+11	vA	10	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,10	vA					
+12	na	1	nAnvabuXyawa	na{avya}	na{avya}	prawiReXaH,13	nahIM					
+13	anvabuXyawa			anu_buX1{karmaNi;laf;pra;eka;AwmanepaxI;buXaz;:BvAxiH}/anu_buX3{karwari;laf;pra;eka;AwmanepaxI;buXaz;:xivAxiH}	anu_buX3{karwari;laf;pra;eka;AwmanepaxI;buXaz;:xivAxiH}	aBihiwa_karwA,10	anu_buX3_ap_skyA					
+14	aWa				aWa{avya}	sambanXaH,13						

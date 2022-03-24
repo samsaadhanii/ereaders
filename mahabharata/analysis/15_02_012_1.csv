@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	gAnXArI	1	gAnXArI	gAnXArI{swrI;1;eka}/gAnXAri{puM;1;xvi}/gAnXAri{puM;2;xvi}/gAnXAri{puM;8;xvi}	gAnXArI{swrI;1;eka}	karwA,11	gAnXArI					
+2	puwrANAM	3	puwrANAM	puwra{puM;6;bahu}	puwra{puM;6;bahu}	RaRTIsambanXaH,4	puwroM_kA					
+3	viviXEH	4	viviXEH	viviXa{puM;3;bahu}/viviXa{napuM;3;bahu}	viviXa{puM;3;bahu}	viSeRaNam,4	viviXa_se					
+4	SrAxXa-karmaBiH	5	SrAxXakarmaBiH	karman{napuM;3;bahu}	karman{napuM;3;bahu}	karaNam,9	karmoM_se					
+5	ca	2	cEva	ca{avya}	ca{avya}	sambanXaH,4	Ora					
+6	eva			eva{avya}	eva{avya}	sambanXaH,4	hI					
+7	vipreByaH			vipra{puM;4;bahu}/vipra{puM;5;bahu}	vipra{puM;4;bahu}	sampraxAnam,9	brAhmaNoM_ko					
+8	kAmAn			kAma{puM;2;bahu}	kAma{puM;2;bahu}	karma,9	kAma_ko					
+9	prawipAxya	7	prawipAxya	paw1{avya;lyap;pawLz;:BvAxiH}	prawi_paw1{avya;lyap;pawLz;:BvAxiH}	pUrvakAlaH,11						
+10	AnqNyam	6	AnqNyamagamawkAmAnvipreByaH	AnqNya{napuM;1;eka}/AnqNya{napuM;2;eka}	AnqNya{napuM;2;eka}	karma,11	xAyiwva					
+11	agamaw			gam1{karwari;luf;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	gam1{karwari;luf;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,1;sakarmaka	gayA					
+12	vE	8	vE	vE{avya}	vE{avya}	sambanXaH,11	suKanA					

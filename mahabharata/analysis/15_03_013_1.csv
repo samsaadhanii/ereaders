@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ambikA-suwe	4	cAmbikAsuwe	ab1{Nvul;abiz;:BvAxiH-suwi;swrI;8;eka}/suwa{napuM;1;xvi(Ru3;kwa;RuF;:svAxiH)}/suwa{napuM;2;xvi(Ru3;kwa;RuF;:svAxiH)}/suwA{swrI;1;xvi(Ru3;kwa;RuF;:svAxiH)}/suwA{swrI;2;xvi(Ru3;kwa;RuF;:svAxiH)}/suwa{napuM;1;xvi(Su1;kwa;Su;:BvAxiH)}/suwa{napuM;2;xvi(Su1;kwa;Su;:BvAxiH)}/suwA{swrI;1;xvi(Su1;kwa;Su;:BvAxiH)}/suwA{swrI;2;xvi(Su1;kwa;Su;:BvAxiH)}/suwa{napuM;1;xvi(Ru2;kwa;Ru;:axAxiH)}/suwa{napuM;2;xvi(Ru2;kwa;Ru;:axAxiH)}/suwA{swrI;1;xvi(Ru2;kwa;Ru;:axAxiH)}/suwA{swrI;2;xvi(Ru2;kwa;Ru;:axAxiH)}/suwa{puM;7;eka}/suwi{puM;8;eka}/suwi{napuM;8;eka}/suwi{napuM;1;eka}/suwi{napuM;2;eka}/suwA{swrI;8;eka}/suwA{swrI;8;xvi}/suwA{swrI;1;xvi}/suwA{swrI;2;xvi}	ambikA_suwa{puM;7;eka}	viRayAXikaraNam,9						
+2	yaH	1	yaSca	yax{sarvanAma;puM;1;eka}	yax{sarvanAma;puM;1;eka}	viSeRaNam,5	jo				niwya_sambanXaH,10	
+3	ca			ca{avya}	ca{avya}	sambanXaH,2	Ora					
+4	kaSciw	2	kaScinnaraH	kaScin}	kaSciw{avya}	viSeRaNam,5						
+5	naraH			nq{puM;1;bahu}/nara{puM;1;eka}/nq{puM;8;bahu}	nq{puM;1;eka}	karwA,9	manuRya					
+6	kiFciw	3	kiFcixapriyaM	kiFciw{avya}/kiFciw{sarvanAma;napuM;1;eka}/kiFciw{sarvanAma;napuM;2;eka}	kiFciw{avya}	viSeRaNam,8						
+7	ca			ca{avya}	ca{avya}	sambanXaH,6	Ora					
+8	apriyam			apriya{puM;2;eka}/apriya{napuM;1;eka}/apriya{napuM;2;eka}	apriya{puM;2;eka}	karma,9	apriya_ko					
+9	kuruwe	5	kuruwe	kq3{karwari;lat;pra;eka;AwmanepaxI;dukqF;:wanAxiH}	kq3{karwari;lat;pra;eka;AwmanepaxI;dukqF;:wanAxiH}	aBihiwa_karwA,5;sakarmaka	karawA_hE					
+10	saH	7	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,14	vaha				niwya_sambanXaH,2	
+11	XImawaH	9	XImawaH	XImaw{puM;2;bahu}/XImaw{puM;5;eka}/XImaw{puM;6;eka}	XImaw{puM;6;eka}	viSeRaNam,12	buxXimAnoM_ko					
+12	kOnweyasya	8	kOnweyasya	kOnweya{puM;6;eka}	kOnweya{puM;6;eka}	RaRTIsambanXaH,13	kOnweya_kA					
+13	xveRyawAm(xviRawAm)	6	xveRyawAmewi	xviRa;wal;swrI;2;eka{waxXiwa}	xviRa;wal;swrI;2;eka{waxXiwa}	karma,14						
+14	ewi			i1{karwari;lat;pra;eka;parasmEpaxI;iN;:axAxiH}	i1{karwari;lat;pra;eka;parasmEpaxI;iN;:axAxiH}	aBihiwa_karwA,10;sakarmaka	jAwA_hE					

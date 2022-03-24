@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	purA			purA{avya}	purA{avya}	kAlAXikaraNam,7	pahale					
+2	XqwarARtra-suwEH	4	XqwarARtrasuwEH	XqwarARtra-suwa{puM;3;bahu(XqwarARtra-Ru3;kwa;RuF;:svAxiH)}/XqwarARtra-suwa{napuM;3;bahu(Ru3;kwa;RuF;:svAxiH)}/XqwarARtra-suwa{puM;3;bahu(Su1;kwa;Su;:BvAxiH)}/XqwarARtra-suwa{napuM;3;bahu(Su1;kwa;Su;:BvAxiH)}/XqwarARtra-suwa{puM;3;bahu(Ru2;kwa;Ru;:axAxiH)}/XqwarARtra-suwa{napuM;3;bahu(Ru2;kwa;Ru;:axAxiH)}/suwa{puM;3;bahu}	XqwarARtra-suwa{puM;3;bahu(XqwarARtra-Ru3;kwa;RuF;:svAxiH)}	karwA,7						
+3	yaw	1	yacca	yaw{avya}/yax{sarvanAma;napuM;1;eka}/yax{sarvanAma;napuM;2;eka}	yaw{sarvanAma;napuM;1;eka}	viSeRaNam,6					niwya_sambanXaH,8	
+4	ca			ca{avya}	ca{avya}	sambanXaH,3	Ora					
+5	kiFciw	2	kiFciwpurA	kiFciw{avya}/kiFciw{sarvanAma;napuM;1;eka}/kiFciw{sarvanAma;napuM;2;eka}	kiFciw{avya}	viSeRaNam,6						
+6	pApam	3	pApam	pApa{napuM;1;eka}/pApa{napuM;2;eka}	pApa{napuM;1;eka}	karma,7	pApa					
+7	kqwam	5	kqwam	kqw{puM;2;eka}/kqwa{napuM;1;eka}/kqwa{napuM;2;eka}/kqwa{puM;2;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{napuM;1;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{napuM;2;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{puM;2;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{napuM;1;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{napuM;2;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{puM;2;eka(kq1;kwa;kqF;:BvAxiH)}/kqwa{napuM;1;eka(kq1;kwa;kqF;:BvAxiH)}/kqwa{napuM;2;eka(kq1;kwa;kqF;:BvAxiH)}	kqwa{puM;1;eka(kq3;kwa;dukqF;:wanAxiH)}	karwA,16	kqw_ko					
+8	waw	8	waxrAjA	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waw{sarvanAma;napuM;2;eka}	karma,12					niwya_sambanXaH,3	
+9	saH	11	soZnvavarwawa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,10	vaha					
+10	rAjA			rAjan{puM;1;eka}	rAjan{puM;1;eka}	karwA,15	rAjA					
+11	hqxi	7	hqxi	hqx{napuM;7;eka}/hqxaya{napuM;7;eka}	hqx{napuM;7;eka}	aXikaraNam,12	hqxaya_meM					
+12	a-kqwvA	6	akqwvA	a-kq2{avya;kwvA;kqF;:svAxiH}/kq3{avya;kwvA;dukqF;:wanAxiH}/kq1{avya;kwvA;kqF;:BvAxiH}	a-kq2{avya;kwvA;kqF;:svAxiH}	pUrvakAlaH,15						
+13	wam	9	wam	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,14	usako					
+14	nqpam	10	nqpam	nqpa{puM;2;eka}	nqpa{puM;2;eka}	karma,15	rAjA_ko					
+15	anvavarwawa			anu_vqw1{karwari;laf;pra;eka;AwmanepaxI;vqwuz;:BvAxiH}	anu_vqw1{karwari;laf;pra;eka;AwmanepaxI;vqwuz;:BvAxiH}	aBihiwa_karwA,10;sakarmaka	AramBa_kiyA					
+16	(AsIw)				as{karwari,luf,pra,eka,parasmEpaxI{XAwuH asaz} BvAxiH}	aBihiwa_karwA,6						

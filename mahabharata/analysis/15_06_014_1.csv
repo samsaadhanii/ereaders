@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	rAjA-inxra	8	rAjenxra	rAjA-inxra{puM;8;eka}/inxra{napuM;8;eka}	rAjA-inxra{puM;8;eka}	samboXyaH,14	rAjA-inxra					
+2	ixam			ixam{sarvanAma;napuM;1;eka}/ixam{sarvanAma;napuM;2;eka}	ixam{sarvanAma;napuM;1;eka}	viSeRaNam,3	yaha					
+3	sarvam	2	sarvam	sarva{sarvanAma;puM;2;eka}/sarva{sarvanAma;napuM;1;eka}/sarva{sarvanAma;napuM;2;eka}	sarva{sarvanAma;napuM;1;eka}	karwA,14	saba_ko					
+4	BavaxIyam	1	BavaxIyamixaM	BavaxIya{puM;2;eka}/BavaxIya{napuM;1;eka}/BavaxIya{napuM;2;eka}	BavaxIya{napuM;1;eka}	viXeya_viSeRaNam,3	Apake_ko					
+5	wvAm	4	wvAm	yuRmax{sarvanAma;2;eka}	yuRmax{sarvanAma;2;eka}	karma,7	wumheM					
+6	SirasA	3	SirasA	Siras{napuM;3;eka}	Siras{napuM;3;eka}	karaNam,7	Sira_se					
+7	prasAxaye	5	prasAxaye	pra_Rax1{Nijanwa;karwari;lat;u;eka;AwmanepaxI;RaxLz;:BvAxiH}	pra_Rax1{Nijanwa;karwari;lat;u;eka;AwmanepaxI;RaxLz;:BvAxiH}	aBihiwa_karwA,0						
+8	wvaw-aXInAH	6	wvaxaXInAH	aXIna{puM;1;bahu}/aXInA{swrI;1;bahu}/aXInA{swrI;2;bahu}/aXIna{puM;8;bahu}	aXIna{puM;1;bahu}	viXeya_viSeRaNam,15	aXIna					
+9	smaH	7	sma	sma{avya}	as{karwari;lat;u;bahu;parasmEpaxI{XAwuH asaz} axAxiH}	aBihiwa_karwA,15;sakarmaka	-					
+10	we	10	we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,11	ve					
+11	mAnasaH	11	mAnaso	mAnasa{puM;1;eka}	mAnasa{puM;1;eka}	viSeRaNam,12	mAnasika					
+12	jvaraH	12	jvaraH	jvara{puM;1;eka}	jvara{puM;1;eka}	karwA,13	jvara					
+13	vyewu	9	vyewu	vi_i1{karwari;lot;pra;eka;parasmEpaxI;iN;:axAxiH}	vi_i1{karwari;lot;pra;eka;parasmEpaxI;iN;:axAxiH}	aBihiwa_karwA,12;sakarmaka	vyaya_kare					
+14	(aswi)				as{karwari,lat,pra,eka,parasmEpaxI{XAwuH asaz},axAxiH}	aBihiwa_karwA,3;sakarmaka						
+15	(vayam)			asmax{sarvanAma;1;bahu}	asmax{sarvanAma;1;bahu}	karwA,9	hama					
+16	(aham)			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,7	mEMne					

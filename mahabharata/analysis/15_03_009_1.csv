@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	saH	8	sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,2	vaha					
+2	narAXipaH	9	narAXipaH	narAXipa{puM;1;eka}	narAXipa{puM;1;eka}	karwA,12	narAXipa					
+3	brAhmaNAn	1	brAhmaNAnvAcayiwvA	brAhmaNa{puM;2;bahu}	brAhmaNa{puM;2;bahu}	karma,5	brAhmaNa					
+4	ca	2	ca	ca{avya}	ca{avya}	sambanXaH,3	BI					
+5	vAcayiwvA			vac2{avya;kwvA;vacaz;:curAxiH}	vac2{avya;kwvA;vacaz;:curAxiH}	pUrvakAlaH,12	kaha_kara					
+6	huwASanam	5	huwASanam	huwASana{puM;2;eka}	huwASana{puM;2;eka}	karma,9	Aga_se					
+7	ca	4	cEva	ca{avya}	ca{avya}	sambanXaH,6	BI					
+8	eva			eva{avya}	eva{avya}	sambanXaH,7	hI					
+9	huwvA	3	huwvA	hu1{avya;kwvA;hu;:juhowyAxiH}/hve1{avya;kwvA;hveF;:BvAxiH}	hve1{avya;kwvA;hveF;:BvAxiH}	pUrvakAlaH,12	sparXA_karake					
+10	pANdu-puwrANAm	7	pANdupuwrANAmASAswe	pANdu-puwra{puM;6;bahu}/puwra{napuM;6;bahu}/puwrA{swrI;6;bahu}	pANdu-puwrA{swrI;6;bahu}	RaRTIsambanXaH,11	pIlA-puwrAoM_kA					
+11	AyuRyam	6	AyuRyam	AyuRya{puM;2;eka}/AyuRya{napuM;1;eka}/AyuRya{napuM;2;eka}	AyuRya{napuM;2;eka}	karma,12	jIvana					
+12	ASAswe			Af_SAs1{karwari;lat;pra;eka;AwmanepaxI;SAsuz;:axAxiH}	Af_SAs1{karwari;lat;pra;eka;AwmanepaxI;SAsuz;:axAxiH}	aBihiwa_karwA,2;sakarmaka	Af_SAs1_ap_skwA_hE					

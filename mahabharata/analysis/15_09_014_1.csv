@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	amAwyAn	1	amAwyAnupaXAwIwAnpiwqpEwAmahAFSucIn	amAwya{puM;2;bahu}	amAwya{puM;2;bahu}	karma,10	amAwyoM_ke					
+2	upaXA-awIwAn			upaXA-awIwa{puM;2;bahu(upaXA-i1;kwa;iN;:axAxiH)}	upaXA-awIwa{puM;2;bahu(upaXA-i1;kwa;iN;:axAxiH)}	viSeRaNam,1	upaXA-awIwa					
+3	piwq-pEwAmahAn			piwq-pEwAmaha{puM;2;bahu}	piwq-pEwAmaha{puM;2;bahu}	viSeRaNam,1	piwA-pEwAmaha					
+4	SucIn			Suci{puM;2;bahu}	Suci{puM;2;bahu}	viSeRaNam,1	paviwra					
+5	xAnwAn	2	xAnwAnkarmasu	xAnwa{puM;2;bahu}/xAnwa{puM;2;bahu(xam1;kwa;xamuz;:xivAxiH)}	xAnwa{puM;2;bahu(xam1;kwa;xamuz;:xivAxiH)}	viSeRaNam,1	pAlawU					
+6	karmasu			karman{napuM;7;bahu}	karman{napuM;7;bahu}	aXikaraNam,10	karmoM_meM					
+7	sarveRu	3	sarveRu	sarva{sarvanAma;puM;7;bahu}/sarva{sarvanAma;napuM;7;bahu}	sarva{sarvanAma;napuM;7;bahu}	viSeRaNam,6	saba_					
+8	muKyAn	4	muKyAnmuKyeRu	muKya{puM;2;bahu}	muKya{puM;2;bahu}	viSeRaNam,1	muKya					
+9	muKyeRu			muKya{puM;7;bahu}/muKya{napuM;7;bahu}	muKya{napuM;7;bahu}	viSeRaNam,6	muKyoM_meM					
+10	yojayeH	5	yojayeH	yuj3{karwari;viXilif;ma;eka;parasmEpaxI;yujaz;:curAxiH}/yuj1{Nijanwa;karwari;viXilif;ma;eka;parasmEpaxI;yujaz;:xivAxiH}/yuj2{Nijanwa;karwari;viXilif;ma;eka;parasmEpaxI;yujizr;:ruXAxiH}/yuj3{Nijanwa;karwari;viXilif;ma;eka;parasmEpaxI;yujaz;:curAxiH}	yuj3{karwari;viXilif;ma;eka;parasmEpaxI;yujaz;:curAxiH}	aBihiwa_karwA,11;sakarmaka	saMyawa_karo					
+11	(wvam)			yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,10						

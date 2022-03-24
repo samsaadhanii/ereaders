@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	nqpaH			nqpa{puM;1;eka}	nqpa{puM;1;eka}	karwA,11	rAjA					
+2	ca	2	ca	ca{avya}	ca{avya}	sambanXaH,1	BI					
+3	saxA	1	saxA	saxA{avya}	saxA{avya}	kriyAviSeRaNam,5	hameSA					
+4	prAwaH	3	prAwaruwWAya	prAwaH{avya}	prAwaH{avya}	kAlAXikaraNam,5	prAwaH					
+5	uwWAya			RWA1{avya;lyap;RWA;:BvAxiH}	uw_RWA1{avya;lyap;RWA;:BvAxiH}	pUrvakAlaH,11	uTa_kara					
+6	SuciH	5	SucirnqpaH	Suci{puM;1;eka}/Suci{swrI;1;eka}	Suci{puM;1;eka}	viSeRaNam,1	paviwra					
+7	kqwa-japyaH	4	kqwajapyaH	kq3{kwa;dukqF;:wanAxiH}/kq2{kwa;kqF;:svAxiH}/japya{puM;1;eka(kq1;kwa;kqF;:BvAxiH-jap1;yaw;japaz;:BvAxiH)}	japya-kq3{puM;1;eka,kwa;dukqF;:wanAxiH}	viSeRaNam,1						
+8	pANdu-puwrANAm	7	pANdupuwrANAm	pANdu-puwra{puM;6;bahu}/puwra{napuM;6;bahu}/puwrA{swrI;6;bahu}	pANdu-puwrA{swrI;6;bahu}	RaRTIsambanXaH,10	pIlA-puwrAoM_kA					
+9	samareRu	8	samareRvaparAjayam	samara{puM;7;bahu}	samara{puM;7;bahu}	aXikaraNam,11	yuxXoM_meM					
+10	a-parAjayam			a-parAjaya;puM;2;eka{kqxanwa}({kqw;XAwu;ji1};GaF{XAwuH;ji};BvAxiH)	a-parAjaya;puM;2;eka{kqxanwa}({kqw;XAwu;ji1};GaF{XAwuH;ji};BvAxiH)	karma,11	xUsarA-					
+11	ASAswe	6	ASAswe	Af_SAs1{karwari;lat;pra;eka;AwmanepaxI;SAsuz;:axAxiH}	Af_SAs1{karwari;lat;pra;eka;AwmanepaxI;SAsuz;:axAxiH}	aBihiwa_karwA,1;sakarmaka	Af_SAs1_ap_skwA_hE					

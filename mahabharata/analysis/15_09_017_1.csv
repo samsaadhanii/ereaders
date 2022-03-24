@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wasya	1	wasya	wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,2	usake					
+2	xvArANi	2	xvArANi	xvAra{napuM;1;bahu}/xvAra{napuM;2;bahu}/xvAra{napuM;8;bahu}	xvAra{napuM;1;bahu}	karma,3	xvAroM_kA					
+3	kAryANi	3	kAryANi		kArya{napuM;1;bahu{kqxanwa}({kqw_XAwu kQ1} Nyaw{XAwuH kQ} wuxAxiH)}	aBihiwa_karma,2;sakarmakaH						
+4	paryApwAni	4	paryApwAni	paryApwa{napuM;1;bahu}/paryApwa{napuM;2;bahu}	paryApwa{napuM;1;bahu}	viSeRaNam,2	paryApwa					
+5	bqhanwi	5	bqhanwi	bqhaw{napuM;1;bahu}/bqhaw{napuM;2;bahu}/bqh3{karwari;lat;pra;bahu;parasmEpaxI;bqhuz;:wuxAxiH}/bqhaw{napuM;8;bahu}	bqhaw{napuM;1;bahu}	samucciwaH,4	prayawna_karawe_hEM					
+6	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	BI					
+7	sarvawaH	7	sarvawaH	sarvawaH{avya}	sarvawaH{avya}	xeSAXikaraNam,8	saBI_jagaha					
+8	su-viBakwAni	8	suviBakwAni	su-viBakwa{napuM;1;bahu(su-Baj1;kwa;Bajaz;:BvAxiH)}/su-viBakwa{napuM;2;bahu(Baj1;kwa;Bajaz;:BvAxiH)}	su-viBakwa{napuM;1;bahu(su-Baj1;kwa;Bajaz;:BvAxiH)}	samucciwaH,4	su-bAMtA_huoM_ko					
+9	yanwrEH	9	yanwrErArakRiwAni	yanwra{napuM;3;bahu}	yanwra{napuM;3;bahu}	karaNam,10	yanwroM_ke_xvArA					
+10	ArakRiwAni			ArakRiwa{napuM;1;bahu(rakR1;kwa;rakRaz;:BvAxiH)}/ArakRiwa{napuM;2;bahu(rakR1;kwa;rakRaz;:BvAxiH)}	ArakRiwa{napuM;1;bahu(rakR1;kwa;rakRaz;:BvAxiH)}	samucciwaH,4	NWyA_hue					
+11	ca	10	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	BI					
+12	(wvayA)			yuRmax{sarvanAma;3;eka}	yuRmax{sarvanAma;3;eka}	karwA,3						

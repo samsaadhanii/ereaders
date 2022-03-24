@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	viSeRawaH	1	viSeRawaswu	viSeRawaH{avya}/vi_SiR3{karwari;lat;pra;xvi;parasmEpaxI;SiRaz;:curAxiH}	viSeRawaH{avya}	kriyAviSeRaNam,6						
+2	wu			wu{avya}	wu{avya}	sambanXaH,1	wo					
+3	paFca-xaSam	4	paFcaxaSam	paFca-xaSa{puM;2;eka}/xaSa{napuM;1;eka}/xaSa{napuM;2;eka}	paFca-xaSa{puM;2;eka}	viSeRaNam,4	paFca-xaSa_ko					
+4	varRam	3	varRam	varRa{puM;2;eka}	varRa{puM;2;eka}	awyanwasaMyoga_sambanXaH,6	varRa_ko					
+5	hi	5	hi	hi{avya}	hi{avya}	sambanXaH,4	hi					
+6	xahyAmi(xahAmi)	2	xahAmi	xah1{karwari;lat;u;eka;parasmEpaxI;xahaz;:BvAxiH}	xah{karwari;lat;u;eka;parasmEpaxI{XAwuH xahaz} BvAxiH}	aBihiwa_karwA,14;sakarmaka	jalAwA_hUz					
+7	vE	6	vE	vE{avya}	vE{avya}	sambanXaH,6	suKanA					
+8	asya	7	asya	ixam{sarvanAma;puM;6;eka}/ixam{sarvanAma;napuM;6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;:xivAxiH}	ixam{sarvanAma;puM;6;eka}	viSeRaNam,9	isakA					
+9	pApasya	8	pApasya	pApa{napuM;6;eka}	pApa{napuM;6;eka}	RaRTIsambanXaH,11	pApa_kA					
+10	niyawaH	10	niyawoZsmi	niyawa{puM;1;eka(yaw1;GaF;yawIz;:BvAxiH)}	niyawa{puM;1;eka(yaw1;GaF;yawIz;:BvAxiH)}	viXeya_viSeRaNam,13	niyawa					
+11	SuxXi-arWam	9	SuxXyarWam	SuxXi-arWa{puM;2;eka}/arWa{napuM;1;eka}/arWa{napuM;2;eka}	SuxXi-arWa{puM;2;eka}	prayojanam,10	SuxXi-arWa_ko					
+12	su-xurmawiH	11	suxurmawiH	su-xurmawi{puM;1;eka}/xurmawi{swrI;1;eka}	su-xurmawi{puM;1;eka}	viXeya_viSeRaNam,13	su-xurmawi					
+13	asmi			as2{karwari;lat;u;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,14;sakarmaka	hUz					
+14	(aham)			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,6	mEM					
