@@ -1,0 +1,21 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yajFe	2	yajFe	yajFa{puM}{7;eka}	yajFa{puM}{7;eka}	supsamucciwam,3	yajFa	in_sacriqice				
+2	wapasi	3	wapasi	wapas{napuM}{7;eka}/wap1{karwari;lat;ma;eka;parasmEpaxI;wapaz;BvAxiH}/wap3{karwari;lat;ma;eka;parasmEpaxI;wapaz;curAxiH}	wapas{napuM}{7;eka}	supsamucciwam,3	wapa	in_penance				
+3	xAne	5	xAne	xAna{napuM}{1;xvi}/xAna{napuM}{2;xvi}/xAna{napuM}{7;eka}	xAna{napuM}{7;eka}	aXikaraNam,5.2	xAna_meM	in_chariwy				
+4	ca	1	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,3	waWA	also				
+5	sWiwiH	7	sWiwiH	sWiwi{swrI}{1;eka}	sWiwi{swrI}{1;eka}	karwA,5.2	sWiwi	siwuawex				
+5.1	(yA)	6	(0)	(yax{swrI}{1;eka})	(yax{swrI}{1;eka})	viSeRaNam,5	(jo)	whaw				
+5.2	(aswi)	8	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hE)	is				
+6	saw	11	saxiwi	saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	saw{napuM}{1;eka}	karmasamAnAXikaraNam,9	ZsawZ	whe_Supreme				
+7	iwi	12	0	iwi{avya}	iwi{avya}	sambanXaH,6	isa_prakAra	whus				
+8	ca	4	cocyawe	ca{avya}	ca{avya}	sambanXaH,9	Ora	also				
+9	ucyawe	13	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,9.1;sakarmakaH	kahI_jAwI_hE	pronouncex				
+9.1	(sA)	9	(0)	(wax{swrI}{1;eka})	(wax{swrI}{1;eka})	karma,9	(vaha)	whaw				
+10	karma	16	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karma,17	karma	tork				
+11	ca	14	cEva	ca{avya}	ca{avya}	sambanXaH,17	Ora	anx				
+12	eva	17	0	eva{avya}	eva{avya}	sambanXaH,10	hI	cerwainly				
+13	waw-arWIyam	15	waxarWIyaM	wax-arWIyam	wax-arWIya{napuM}{1;eka}	viSeRaNam,10	usa_paramAwmA_ke_liye_kiyA_huA	meanw_qor_whaw	<waw-arWIyaM>W4			
+14	saw	18	saxiwyevABiXIyawe	saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	saw{napuM}{1;eka}	karmasamAnAXikaraNam,17	saw	Supreme				
+15	iwi	19	0	iwi{avya}	iwi{avya}	sambanXaH,14	Ese	whus				
+16	eva	10	0	eva{avya}	eva{avya}	sambanXaH,17	BI	cerwainly				
+17	aBiXIyawe	20	0	aBiXIyawe	aBi_XA1{karmaNi;lat;pra;eka;AwmanepaxI;aBi_duXAF;juhowyAxiH}	aBihiwakarma,10;sakarmakaH	kahA_jAwA_hE	is_pracwicex				

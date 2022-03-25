@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	eRA	2	eRA	ewax{swrI}{1;eka}	ewax{swrI}{1;eka}	viSeRaNam,5	yaha	whis				
+2	we	4	weZBihiwA	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,3	wumhAre_liye	wo_you				
+3	aBihiwA	6	0	aBihiwA{swrI}{1;eka}	aBi_XA1{kqw_prawyayaH:kwa;aBi_duXAF;juhowyAxiH;swrI}{1;eka}	aBihiwakarma,5;sakarmakaH	kahI_gayI	has_been_presenwex				
+4	sAfKye	5	sAfKye	sAfKya{puM}{7;eka}/sAfKya{napuM}{1;xvi}/sAfKya{napuM}{2;xvi}/sAfKya{napuM}{7;eka}/sAfKya{napuM}{8;xvi}/sAfKyA{swrI}{1;xvi}/sAfKyA{swrI}{2;xvi}/sAfKyA{swrI}{8;eka}/sAfKyA{swrI}{8;xvi}	sAfKya{napuM}{7;eka}	aXikaraNam,3	jFAnayoga_ke_viRaya_meM	qrom_whe_poinw_oq_viet_oq_sankhya_(i.e._knotlexge)				
+5	buxXiH	3	buxXiryoge	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karma,3	buxXi	awwiwuxe_oq_minx				
+6	yoge	9	0	yoga{puM}{7;eka}	yoga{puM}{7;eka}	aXikaraNam,9	karmayoga_ke_viRaya_meM	qrom_whe_swanxpoinw_oq_yoga_(i.e._selqless_acwion)				
+7	wu	7	wvimAM	wu{avya}	wu{avya}	sambanXaH,9	wo	not				
+8	imAm	10	0	ixam{swrI}{2;eka}	ixam{swrI}{2;eka}	viSeRaNam,9.1	isako	whis				
+9	SqNu	12	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarma,9.2;sakarmakaH	suno	hear				
+9.1	(buxXim)	11	(0)	(buxXi{swrI}{2;eka})	(buxXi{swrI}{2;eka})	karma,9	(buxXi_ko)	awwiwuxe_oq_minx				
+9.2	(wvam)	8	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,9	(wuma)	you				
+10	buxXyA	14	buxXyA	buxXi{swrI}{3;eka}	buxXi{swrI}{3;eka}	karaNam,11	buxXi_se	by_awwiwuxe_oq_minx				
+11	yukwaH	15	yukwo	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	viSeRaNam,15.1	yukwa_hue	eduippex_tiwh				
+12	yayA	13	yayA	yax{swrI}{3;eka}	yax{swrI}{3;eka}	viSeRaNam,10	jisa	by_thich				
+13	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,3	he_pArWa	O_son_oq_Prwha				
+14	karma-banXam	17	karmabanXaM	karman-banXa{puM}{2;eka}	karman-banXa{puM}{2;eka}	karma,15	karmoM_ke_banXana_ko	shackles_oq_Karma	<karma-banXanaH>K6			
+15	prahAsyasi	18	prahAsyasi	pra_hA1{karwari;lqt;ma;eka;AwmanepaxI;ozhAf;juhowyAxiH}/pra_hA2{karwari;lqt;ma;eka;parasmEpaxI;ozhAk;juhowyAxiH}	pra_hA2{karwari;lqt;ma;eka;parasmEpaxI;pra_ozhAf;juhowyAxiH}	aBihiwakarwA,15.1;sakarmakaH	Coda़_xoge	able_wo_whrot_oqq_complewely				
+15.1	(wvam)	16	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,15	(wuma)	you				

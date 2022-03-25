@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	iwi	3	iwyarjunaM	iwi{avya}	iwi{avya}	sambanXaH,8	isa_prakAra	whus				
+2	arjunam	2	0	arjuna{puM}{2;eka}	arjuna{puM}{2;eka}	karma,8	arjuna_ke_prawi	unwo_Arjuna				
+3	vAsuxevaH	1	vAsuxevaswaWokwvA	vAsuxeva{puM}{1;eka}	vAsuxeva{puM}{1;eka}	karwA,8	vAsuxeva_BagavAn_ne	Krsna				
+4	waWA	6	0	waWA{avya}	waWA{avya}	kriyAviSeRaNam,8	vEse_hI	whaw_tay				
+5	ukwvA	4	0	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	pUrvakAlaH,8	kahakara	saying				
+6	svakam	7	svakaM	svaka{puM}{2;eka}	svaka{napuM}{2;eka}	viSeRaNam,7	apane	His_otn				
+7	rUpam	8	rUpaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,8	cawurBujarUpa_ko	qorm				
+8	xarSayAmAsa	9	xarSayAmAsa	xqS1_Nic{karwari;lit;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/xqS1_Nic{karwari;lit;pra;eka;AwmanepaxI;xqSizr;BvAxiH}/xqS1_Nic{karwari;lit;ma;bahu;parasmEpaxI;xqSizr;BvAxiH}/xqS1_Nic{karwari;lit;ma;bahu;AwmanepaxI;xqSizr;BvAxiH}/xqS1_Nic{karwari;lit;u;eka;parasmEpaxI;xqSizr;BvAxiH}/xqS1_Nic{karwari;lit;u;eka;AwmanepaxI;xqSizr;BvAxiH}	xqS1_Nic{karwari;lit;pra;eka;parasmEpaxI;xqSizr_Nic;BvAxiH}	aBihiwakarwA,3;sakarmakaH	xiKalAyA	shotex				
+9	BUyaH	5	BUyaH	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,8	Pira	again				
+10	ASvAsayAmAsa	17	ASvAsayAmAsa	ASvAsayAmAsa	Af_Svas1_Nic{karwari;lit;pra;eka;parasmEpaxI;Af_Svasaz_Nic;axAxiH}	samucciwam,8	XIraja_xiyA	also_convincex_him				
+11	ca	10	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora	also				
+12	BIwam	16	BIwamenaM	BIwa{puM}{2;eka}/BIwa{napuM}{1;eka}/BIwa{napuM}{2;eka}	BIwa{puM}{2;eka}	karma,10	BayaBIwa_arjuna_ko	qearqul				
+13	enam	15	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,12	isa	him				
+14	BUwvA	14	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,10	hokara	becoming				
+15	punaH	11	punaH	punaH{avya}	punaH{avya}	kriyAviSeRaNam,14	Pira	again				
+16	sOmya-vapuH	13	sOmyavapurmahAwmA	sOmya-vapus{napuM}{1;eka}/vapus{napuM}{2;eka}/vapus{napuM}{8;eka}	sOmya-vapus{napuM}{1;eka}	karwqsamAnAXikaraNam,14	sOmyamUrwi	beauwiqul_qorm	<sOmya-vapuH>Bs6			
+17	mahaw-AwmA	12	0	mahaw-Awman{puM}{1;eka}	mahaw-Awman{puM}{1;eka}	karwA,14	mahAwmA_SrIkqRNa_ne	whe_greaw_one	<mahaw-AwmA>Bs6			

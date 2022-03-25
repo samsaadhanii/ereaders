@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aham	2	ahaM	asmax{1;eka}	asmax{1;eka}	karwA,8.1	mEM	I am				
+2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,1	kyoMki	because				
+3	sarva-yajFAnAm	4	sarvayajFAnAM	sarva-yajFa{puM}{6;bahu}	sarva-yajFa{puM}{6;bahu}	RaRTIsambanXaH,4	sampUrNa_yajFoM_kA	oq_all_sacriqices	<sarva-yajFAnAm>K1			
+4	BokwA	5	BokwA	BokwA{swrI}{1;eka}/Buj1{BAve;lut;pra;eka;AwmanepaxI;Bujoz;wuxAxiH}/Buj2{karwari;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}/Buj2{karmaNi;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{kqw_prawyayaH:wqc;Bujaz;ruXAxiH;puM}{1;eka}	sup_samucciwam,6	BokwA	enjoyer				
+5	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,4	Ora	anx				
+6	praBuH	7	praBureva	praBu{puM}{1;eka}	praBu{puM}{1;eka}	karwqsamAnAXikaraNam,8.1	svAmI	Lorx				
+7	eva	3	0	eva{avya}	eva{avya}	sambanXaH,1	hI	only				
+8	ca	8	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,6	BI	also				
+8.1	(asmi)	9	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,1;akarmakaH	(hUz)					
+9	na	14	na	na{avya}	na{avya}	prawiReXaH,12	nahIM	now				
+10	wu	10	wu	wu{avya}	wu{avya}	sambanXaH,12	paraMwu	buw				
+11	mAm	13	mAmaBijAnanwi	asmax{2;eka}	asmax{2;eka}	karma,12	muJako_(parameSvara_ko)	me				
+12	aBijAnanwi	15	0	aBi_jFA2{karwari;lat;pra;bahu;parasmEpaxI;jFA;kryAxiH}	aBi_jFA2{karwari;lat;pra;bahu;parasmEpaxI;aBi_jFA;kryAxiH}	aBihiwa_karwA,13.1;sakarmakaH	jAnawe	knot				
+13	wawwvena	12	wawwvenAwaScyavanwi	wawwva{napuM}{3;eka}/wawwva{napuM}{3;eka}	wawwva{napuM}{3;eka}	karaNam,12	wawwva_se	in_realiwy				
+13.1	(we)	11	(0)	(wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka})	(wax{puM}{1;bahu})	karwA,12	(ve) (ajFAnI)	whey				
+14	awaH	16	0	awaH{avya}	awaH{avya}	hewuH,15	isalie	whereqore				
+15	cyavanwi	18	0	cyavanwi	cyu1{karwari;lat;pra;bahu;parasmEpaxI;cyuf;BvAxiH}	aBihiwa_karwA,16;sakarmakaH	girawe_hEM	qall_xotn				
+16	we	17	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	karwA,15	ve	whey				

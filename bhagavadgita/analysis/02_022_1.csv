@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vAsAMsi	4	vAsAMsi	vAsas{napuM}{1;bahu}/vAsas{napuM}{2;bahu}/vAsas{napuM}{8;bahu}	vAsas{napuM}{2;bahu}	karma,4	vaswroM_ko	garmenws				
+2	jIrNAni	3	jIrNAni	jIrNa{napuM}{1;bahu}/jIrNa{napuM}{2;bahu}/jIrNa{napuM}{8;bahu}	jIrNa{napuM}{2;bahu}	viSeRaNam,1	purAne	torn_ouw				
+3	yaWA	1	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,4; niwyasambanXaH,9	jEse	jusw_as				
+4	vihAya	5	vihAya	vi_hA1{kqw_prawyayaH:lyap;ozhAf;juhowyAxiH}/vi_hA2{kqw_prawyayaH:lyap;ozhAk;juhowyAxiH}	vi_hA2{kqw_prawyayaH:lyap;vi_ozhAf;juhowyAxiH}	pUrvakAlaH,6	wyAgakara	shexxing				
+5	navAni	7	navAni	nava{napuM}{1;bahu}/nava{napuM}{2;bahu}/nava{napuM}{8;bahu}/nu1{karwari;lot;u;eka;parasmEpaxI;Nu;axAxiH}	nava{napuM}{2;bahu}	karma,6	naye_ko_(vaswroM_ko)	net_garmenws				
+6	gqhNAwi	8	gqhNAwi	grah1{karwari;lat;pra;eka;parasmEpaxI;grahaz;kryAxiH}	grah1{karwari;lat;pra;eka;parasmEpaxI;grahaz;kryAxiH}	aBihiwakarwA,7;sakarmakaH	grahaNa_karawA_hE	wakes				
+7	naraH	2	naroZparANi	nq{puM}{1;bahu}/nq{puM}{8;bahu}/nara{puM}{1;eka}	nara{puM}{1;eka}	karwA,6	manuRya	a_man				
+8	aparANi	6	0	apara{napuM}{1;bahu}/apara{napuM}{2;bahu}/apara{napuM}{8;bahu}/apara{napuM}{1;bahu}/apara{napuM}{2;bahu}	apara{napuM}{2;bahu}	viSeRaNam,5	xUsare	owher				
+9	waWA	9	waWA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,14	vEse_hI	liketise				
+10	SarIrANi	12	SarIrANi	SarIra{napuM}{1;bahu}/SarIra{napuM}{2;bahu}/SarIra{napuM}{8;bahu}	SarIra{napuM}{2;bahu}	karma,11	SarIroM_ko	boxies				
+11	vihAya	13	vihAya	vi_hA1{kqw_prawyayaH:lyap;ozhAf;juhowyAxiH}/vi_hA2{kqw_prawyayaH:lyap;ozhAk;juhowyAxiH}	vi_hA2{kqw_prawyayaH:lyap;vi_ozhAf;juhowyAxiH}	pUrvakAlaH,14	wyAgakara	caswiing_oqq				
+12	jIrNAni	11	jIrNAnyanyAni	jIrNa{napuM}{1;bahu}/jIrNa{napuM}{2;bahu}/jIrNa{napuM}{8;bahu}	jIrNa{napuM}{2;bahu}	viSeRaNam,10	purAne	torn_ouw				
+13	anyAni	14	0	anya{napuM}{1;bahu}/anya{napuM}{2;bahu}/anya{napuM}{8;bahu}/anya{napuM}{1;bahu}/anya{napuM}{2;bahu}	anya{napuM}{2;bahu}	viSeRaNam,15	xUsare	owher				
+14	saMyAwi	16	saMyAwi	sam_yA1{karwari;lat;pra;eka;parasmEpaxI;yA;axAxiH}	sam_yA1{karwari;lat;pra;eka;parasmEpaxI;sam_yA;axAxiH}	aBihiwakarwA,;sakarmakaH16	prApwa_howA_hE	enwers_inwo				
+15	navAni	15	navAni	nava{napuM}{1;bahu}/nava{napuM}{2;bahu}/nava{napuM}{8;bahu}/nu1{karwari;lot;u;eka;parasmEpaxI;Nu;axAxiH}	nava{napuM}{2;bahu}	karma,14	naye_ko_(SarIroM_ko)	net_(boxies)				
+16	xehI	10	xehI	xehin{puM}{1;eka}	xehin{puM}{1;eka}	karwA,14	jIvAwmA	whe_emboxiex_soul				

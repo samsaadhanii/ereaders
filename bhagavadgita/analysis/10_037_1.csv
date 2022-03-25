@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vqRNInAm	2	vqRNInAM	vqRNi{puM}{6;bahu}	vqRNi{puM}{6;bahu}	nirXAraNam,2	vqRNivaMSiyoM_meM	oq_whe_xescenxanws_oq_Vrsni				
+2	vAsuxevaH	3	vAsuxevoZsmi	vAsuxeva{puM}{1;eka}	vAsuxeva{puM}{1;eka}	supsamucciwam,5	vAsuxeva	Krsna_in_Xvaraka				
+3	asmi	7	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,5.2;akarmakaH	hUz	am				
+4	pANdavAnAm	5	pANdavAnAM	pANdava{puM}{6;bahu}/pANdava{napuM}{6;bahu}	pANdava{puM}{6;bahu}	nirXAraNam,5	pANdavoM_meM	oq_whe_Panxavas				
+5	XanaFjayaH	6	XanaFjayaH	XanaFjaya{puM}{1;eka}	XanaFjaya{puM}{1;eka}	karwqsamAnAXikaraNam,3	XanaMjaya	Arjuna				
+5.1	(ca)	11	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,5	(Ora)	anx				
+5.2	(aham)	8	(0)	asmax{1;eka}	asmax{1;eka}	karwA,3	mEM	I				
+6	munInAm	9	munInAmapyahaM	muni{puM}{6;bahu}	muni{puM}{6;bahu}	nirXAraNam,9	muniyoM_meM	oq_whe_sages				
+7	api	15	0	api{avya}	api{avya}	sambanXaH,6	BI	also				
+8	aham	8	0	asmax{1;eka}	asmax{1;eka}	karwA,12.2	mEM	I				
+9	vyAsaH	10	vyAsaH	vyAsa{puM}{1;eka}	vyAsa{puM}{1;eka}	supsamucciwam,12	vexavyAsa	Vyasa				
+10	kavInAm	12	kavInAmuSanA	kavi{puM}{6;bahu}	kavi{puM}{6;bahu}	nirXAraNam,11	kaviyoM_meM	oq_all_greaw_whinkers				
+11	uSanA	14	0	uSanA{swrI}{1;eka}	uSanA{swrI}{1;eka}	karwqsamAnAXikaraNam,12.2	SukracArya	Usana				
+12	kaviH	13	kaviH	kavi{puM}{1;eka}	kavi{puM}{1;eka}	viSeRaNam,11	kavi	whe_whinker				
+12.1	(ca)	11	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,12	(Ora)	anx				
+12.2	(asmi)	16	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,8;akarmakaH	(hUz)	am				

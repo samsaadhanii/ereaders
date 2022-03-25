@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	iwi	3	iwi	iwi{avya}	iwi{avya}	sambanXaH,5	isa_prakAra	whus				
+2	guhya-wamam	5	guhyawamaM	guhya-wama{puM}{2;eka}/wama{napuM}{1;eka}/wama{napuM}{2;eka}	guhya-wama{napuM}{1;eka}	viSeRaNam,3	awi_rahasyayukwa_gopanIya	whe_mosw_conqixenwial				
+3	SAswram	6	SAswramixamukwaM	SAswra{napuM}{1;eka}/SAswra{napuM}{2;eka}	SAswra{napuM}{1;eka}	karma,5	SAswra	revealex_scripwure				
+4	ixam	4	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,3	yaha	whis				
+5	ukwam	8	0	ukwa{puM}{2;eka}/ukwa{napuM}{1;eka}/ukwa{napuM}{2;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;napuM}{1;eka}	aBihiwakarma,3;sakarmakaH	kahA_gayA	xisclosex				
+6	mayA	7	mayAnaGa	asmax{3;eka}	asmax{3;eka}	karwA,5	mere_xvArA	by_Me				
+7	an-aGa	1	0	anaGa{puM}{8;eka}/anaGa{napuM}{8;eka}	anaGa{puM}{8;eka}	samboXyaH,5	he_niRpApa	O_sinless_one	<na-aGa>Bsmn			
+8	ewax	9	ewaxbuxXvA	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	karma,9	isako	whis				
+9	buxXvA	10	0	buX1{kwvA;buXir;BvAxi}	buX2{kqw_prawyayaH:kwvA;buXizr;BvAxiH}	pUrvakAlaH,11	wawwva_se_jAnakara	unxerswanxing				
+10	buxXimAn	11	buxXimAnsyAwkqwakqwyaSca	buxXimaw{puM}{1;eka}	buxXimaw{puM}{1;eka}	supsamucciwam,12	jFAnavAn	inwelligenw				
+11	syAw	14	0	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}		ho_jAwA_hE	becomes				
+12	kqwa-kqwyaH	13	0	kqwa-kqwya{puM}{1;eka}	kqwa-kqwya{puM}{1;eka}	karwqsamAnAXikaraNam,11	kqwArWa	whe_mosw_perqecw	<kqwa-kqwyaH>Bs3			
+13	ca	12	0	ca{avya}	ca{avya}	samuccayaxyowakaH,12	Ora	anx				
+14	BArawa	2	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,11	arjuna	O_son_oq_Bharawa				

@@ -1,0 +1,20 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	piwA	5	piwAhamasya	piwq{puM}{1;eka}	piwq{puM}{1;eka}	supsmucciwam,7	piwA	qawher				
+2	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,7.2	mEM	I				
+3	asya	2	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{napuM}{6;eka}	viSeRaNam,4	isa	oq_whis				
+4	jagawaH	3	jagawo	jagaw{puM}{1;bahu}/jagaw{puM}{2;bahu}/jagaw{puM}{5;eka}/jagaw{puM}{6;eka}/jagaw{napuM}{5;eka}/jagaw{napuM}{6;eka}	jagaw{napuM}{6;eka}	RaRTIsambanXaH,7	sampUrNa_jagaw_kA	oq_whe_universe				
+5	mAwA	6	mAwA	mAwq{swrI}{1;eka}	mAwq{swrI}{1;eka}	supsmucciwam,7	mAwA	mowher				
+6	XAwA	4	XAwA	XAwA{swrI}{1;eka}/XAwq{puM}{1;eka}/XA1{karwari;lut;pra;eka;parasmEpaxI;duXAF;juhowyAxiH}/XA1{karwari;lut;pra;eka;AwmanepaxI;duXAF;juhowyAxiH}/XA1{karmaNi;lut;pra;eka;AwmanepaxI;duXAF;juhowyAxiH}/Xe1{karwari;lut;pra;eka;parasmEpaxI;Xet;BvAxiH}/Xe1{karmaNi;lut;pra;eka;AwmanepaxI;Xet;BvAxiH}	XAwq{puM}{1;eka}	supsmucciwam,7	XAwA_arWAw_XAraNa_karanevAlA_evaM_karmoM_ke_Pala_ko_xenevAlA	supporwer				
+7	piwAmahaH	8	piwAmahaH	piwAmaha{puM}{1;eka}	piwAmaha{puM}{1;eka}	karwqsamAnAXikaraNam,7.2	piwAmaha	granxqawher				
+7.1	(ca)	7	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,7	(Ora)	anx				
+7.2	(asmi)	9	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hUz)	am				
+8	vexyam	12	vexyaM	vexya{puM}{2;eka}/vexya{napuM}{1;eka}/vexya{napuM}{2;eka}	vix1{kqw_prawyayaH:Nyaw;vixaz;axAxiH;napuM}{2;eka}	viSeRaNam,13	jAnaneyogya	thaw_is_wo_be_knotn				
+9	paviwram	13	paviwramofkAra	paviwra{puM}{2;eka}	paviwra{puM}{1;eka}	viSeRaNam,13	paviwra	whaw_thich_puriqies				
+10	*ofkAraH	14	0	ofkAra{puM}{1;eka}	ofkAra{puM}{1;eka}	supsamucciwam,13	UzkAra	whe_syllable_om				
+11	*qk	15	qksAma	qc{swrI}{1;eka}	qk{swrI}{1;eka}	supsamucciwam,13	qgvexa	whe_Ng_Vexa				
+12	sAma	16	0	sAma{puM}{8;eka}/sAma{napuM}{8;eka}/sAman{napuM}{1;eka}/sAman{napuM}{2;eka}/sAman{napuM}{8;eka}	sAman{napuM}{1;eka}	supsamucciwam,13	sAmavexa	whe_Sama_Vexa				
+13	yajuH	18	yajureva	yajus{napuM}{1;eka}/yajus{napuM}{2;eka}/yajus{napuM}{8;eka}	yajus{napuM}{1;eka}	karwqsamAnAXikaraNam,15.1	yajurvexa	whe_Fajur_Vexa				
+14	eva	11	0	eva{avya}	eva{avya}	sambanXaH,13	hI	cerwainly				
+15	ca	17	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,13	Ora	anx				
+15.1	(asmi)	19	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,15.2;akarmakaH	(hUz)	am				
+15.2	(aham)	10	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,15.1	(mEM)	I				

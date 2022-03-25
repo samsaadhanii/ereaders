@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	bahUni	5	bahUni	bahu{napuM}{1;bahu}/bahu{napuM}{2;bahu}/bahu{napuM}{8;bahu}	bahu{napuM}{1;bahu}	viSeRaNam ,4	bahuwa-se	many				
+2	me	2	me	asmax{6;eka}	asmax{6;eka}	sup_samucciwam,5	mere	oq_Mine				
+3	vyawIwAni	7	vyawIwAni	vyawIwa{napuM}{1;bahu}/vyawIwa{napuM}{2;bahu}/vyawIwa{napuM}{8;bahu}	vi_awi_i1{kqw_prawyayaH:kwa;vi_awi_iN;axAxiH;napuM}{1;bahu}	aBihiwa_karma,4;sakarmakaH	ho_cuke_hEM	have_passex				
+4	janmAni	6	janmAni	janma{napuM}{1;bahu}/janma{napuM}{2;bahu}/janma{napuM}{8;bahu}/janman{napuM}{1;bahu}/janman{napuM}{8;bahu}	janman{napuM}{1;bahu}	karma,3	janma	birwhs				
+5	wava	3	wava	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,4	were	oq_yours				
+6	ca	4	cArjuna	ca{avya}	ca{avya}	samuccayaxyowakam,5	Ora	anx_also				
+7	arjuna	1		arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,3	arjuna	O_Arjuna				
+8	wAni	15	wAnyahaM	wax{napuM}{1;bahu}/wax{napuM}{2;bahu}	wax{napuM}{1;bahu}	viSeRaNam,11.1	una	all_whose				
+9	aham	8		asmax{1;eka}	asmax{1;eka}	karwA,10	mEM	I				
+10	vexa	11	vexa	vexa{puM}{8;eka}/vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}/vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,9;sakarmakaH	jAnawA_hUz	xo_knot				
+11	sarvANi	9	sarvANi	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarvANI{swrI}{8;eka}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{1;bahu}	viSeRaNam ,11.1	saba	all				
+11.1	(janmAni)	10	()	(janma{napuM}{1;bahu}/janma{napuM}{2;bahu}/janma{napuM}{8;bahu}/janman{napuM}{1;bahu}/janman{napuM}{8;bahu})	(janman{napuM}{1;bahu})	karma,10	(janma_ko)	birwhs				
+12	wvam	13	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,14	wuma	you				
+13	na	14	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	now				
+14	vewWa	15	vewWa	vix1{karwari;lat;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,12	jAnawe_ho	knot				
+15	paranwapa	12	paranwapa	paranwapa{puM}{8;eka}/paranwapa{napuM}{8;eka}	paranwapa{puM}{8;eka}	samboXyaH,14	he_paranwapa	O_subxuer_oq_whe_enemy				

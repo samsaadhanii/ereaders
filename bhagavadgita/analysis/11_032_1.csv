@@ -1,0 +1,21 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kAlaH	3	kAlosmi	kAla{puM}{1;eka}	kAla{puM}{1;eka}	karwqsamAnAXikaraNam,2	mahAkAla	wime				
+2	asmi	4	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,21	hUz	am				
+3	loka-kRaya-kqw	2	lokakRayakqwpravqxXo	loka-kRaya-kqw{puM}{1;eka}	loka-kRaya-kqw{puM}{1;eka}	viSeRaNam,21	lokoM_kA_nASa_karanevAlA	xeswroyer_oq_whe_torlxs	<<loka-kRaya>W6-kqw>U			
+4	pravqxXaH	3	0	pravqxXa{puM}{1;eka}	pra_vqX1{kqw_prawyayaH:kwa;pra_vqXuz;BvAxiH;puM}{1;eka}	viSeRaNam,1	baDa़A_huA	wo_engage				
+4.1	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,2	(mEM)	I				
+5	lokAn	8	lokAnsamAharwumiha	loka{puM}{2;bahu}	loka{puM}{2;bahu}	karma,6	ina_lokoM_ko	all_people				
+6	samAharwum	9	0	samA-hq1{avya;wumun;hqF;:BvAxiH}/hq2{avya;wumun;hq;:juhowyAxiH}	samA-hq1{avya;wumun;hqF;:BvAxiH}	prayojanam,8	naRta_karane_ke_liye	wo_xeswroy				
+7	iha	7	0	iha{avya}	iha{avya}	xeSAXikaraNam,6	isa_samaya	in_whis_torlx				
+8	pravqwwaH	10	pravqwwaH	prawyanIka{puM;7;bahu}/prawyanIka{napuM;7;bahu}	pra_vqw1{kqw_prawyayaH:kwa;pra_vqwuz;BvAxiH;puM}{1;eka}		pravqwwa_huA	wo_engage				
+21	(aham)	6	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,2	(mEM)	I				
+9	qwe	20	qweZpi	qwe{avya}/qwa{puM}{7;eka}/qwa{napuM}{1;xvi}/qwa{napuM}{2;xvi}/qwa{napuM}{7;eka}/qwA{swrI}{1;xvi}/qwA{swrI}{2;xvi}/qwA{swrI}{1;xvi}/qwA{swrI}{2;xvi}	qwe{avya}	aXikaraNam,13	binA	tiwhouw				
+10	api	21	0	api{avya}	api{avya}	sambanXaH,9	BI	even				
+11	wvAm	19	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,9	were	you				
+12	na	22	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	never				
+13	BaviRyanwi	23	BaviRyanwi	as2{karwari;lqt;pra;bahu;parasmEpaxI;asaz;axAxiH}/BU1{karwari;lqt;pra;bahu;parasmEpaxI;BU;BvAxiH}/BaviRyaw{napuM}{1;bahu}/BaviRyaw{napuM}{2;bahu}	BU1{karwari;lqt;pra;bahu;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,14	raheMge	till_be				
+14	sarve	18	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,13	saba	all				
+15	ye	12	yeZvasWiwAH	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,18; niwyasambanXaH,14	jo	tho				
+16	avasWiwAH	14	0	avasWiwa{puM}{1;bahu}/avasWiwA{swrI}{1;bahu}/avasWiwA{swrI}{2;bahu}	ava_sWA1{kqw_prawyayaH:kwa;ava_RTA;BvAxiH;puM}{1;bahu}	karwA,20	sWiwa	siwuawex				
+17	prawyanIkeRu	13	prawyanIkeRu	prawyanIka{puM;7;bahu}/prawyanIka{napuM;7;bahu}	prawyanIka{napuM;7;bahu}	aXikaraNam,16	prawipakRiyoM_kI_senA_meM	on_whe_opposiwe_sixe	<prawi-anIkeRu>A1			
+18	yoXAH	15	yoXAH	yoXa{puM}{1;bahu}	yoXa{puM}{1;bahu}	karwA,16	yoxXA_loga	whe_solxiers				

@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ixam	1	ixaM	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,2	isa	whis				
+2	jFAnam	2	jFAnamupASriwya	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,3	jFAna_ko	knotlexge				
+3	upASriwya	3	0	upA_Sri1{kqw_prawyayaH:lyap;SriF;BvAxiH}	upa_Af_Sri1{kqw_prawyayaH:lyap;upa_Af_SriF;BvAxiH}	pUrvakAlaH,10	ASraya_karake_(arWAw_XAraNa_karake)	waking_shelwer_oq				
+4	mama	4	mama	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,5	mere	my				
+5	sAXarmyam	5	sAXarmyamAgawAH	sAXarmya{napuM}{1;eka}/sAXarmya{napuM}{2;eka}	sAXarmya{napuM}{2;eka}	karma,6	svarUpa_ko	nawure				
+6	AgawAH	6	0	Agawa{puM}{1;bahu}/Agawa{puM}{8;bahu}/AgawA{swrI}{1;bahu}/AgawA{swrI}{2;bahu}/AgawA{swrI}{8;bahu}	Af_gam1{kqw_prawyayaH:kwa;Af_gamLz;BvAxiH;puM}{1;bahu}	karwA,13	prApwa_hue	awwainex				
+7	sarge	8	sargeZpi	sarga{puM}{7;eka}	sarga{puM}{7;eka}	aXikaraNam,10	sqRti_ke_Axi_meM	in_whe_creawion				
+8	api	14	0	api{avya}	api{avya}	sambanXaH,11	BI	even				
+9	na	9	nopajAyanwe	na{avya}	na{avya}	prawiReXaH,10	nahIM	never				
+10	upajAyanwe	10	0	upa_jan3{karwari;lat;pra;bahu;AwmanepaxI;janIz;xivAxiH}/upa_jan3{karmaNi;lat;pra;bahu;AwmanepaxI;janIz;xivAxiH}	upa_jan3{karwari;lat;pra;bahu;AwmanepaxI;upa_janIz;xivAxiH}	aBihiwakarwA,10.1	uwpanna_howe	comes_in				
+10.1	(janAH)	7	(0)	(jana{puM}{1;bahu}/jana{puM}{8;bahu})	(jana{puM}{1;bahu})	karwA,10	(puruRa)	persons				
+11	pralaye	13	pralaye	pralaya{puM}{7;eka}	pralaya{puM}{7;eka}	aXikaraNam,13	pralayakAla_meM	in_whe_annihilawion				
+12	na	15	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	nor				
+13	vyaWanwi	16	vyaWanwi	vyaWanwi	vyaW1{karwari;lat;pra;bahu;parasmEpaxI;vyaWaz;BvAxiH}	samucciwam,10	vyAkula_howe	xiswurbex				
+14	ca	11	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,13	Ora	also				
+15	(janAH)	12	(0)	(jana{puM}{1;bahu}/jana{puM}{8;bahu})	(jana{puM}{1;bahu})	karwA,13	(loga)	persons				

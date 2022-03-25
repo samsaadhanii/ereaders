@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	xaNdaH	3	xaNdo	xaNda{puM}{1;eka}	xaNda{puM}{1;eka}	karwqsamAnAXikaraNam,3	xaNda_arWAw_xamana_karane_kI_Sakwi	punishmenw				
+2	xamayawAm	2	xamayawAmasmi	xam1_Nic{karwari;lot;pra;eka;AwmanepaxI;xamuz;xivAxiH}/xam1_Nic{karwari;lot;pra;xvi;parasmEpaxI;xamuz;xivAxiH}	xam1_Nic{kqw_prawyayaH:Sawq;xamuz_Nic;xivAxiH;puM}{6;bahu}	RaRTIsambanXaH,1	xamana_karanevAloM_kA	oq_all_separawion				
+3	asmi	4	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,3.1;akarmakaH	hUz	am				
+3.1	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,3	(mEM)	I				
+4	nIwiH	7	nIwirasmi	nIwi{swrI}{1;eka}	nIwi{swrI}{1;eka}	karwqsamAnAXikaraNam,5	nIwi	moraliwy				
+5	asmi	8	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,6.1;akarmakaH	hUz	am				
+6	jigIRiwAm	6	jigIRawAm		ji1_san{kqw_prawyayaH:Sawq;ji_san;BvAxiH;puM}{6;bahu}	RaRTIsambanXaH,4	jIwane_kI_icCAvAloM_kI	oq_whe_vicworious				
+6.1	(aham)	5	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,5	(mEM)	I				
+7	mOnam	12	mOnaM	mOna{napuM}{1;eka}/mOna{napuM}{2;eka}	mOna{napuM}{1;eka}	supsamucciwam,8	mOna	silence				
+8	ca	13	cEvAsmi	ca{avya}	ca{avya}	samuccayaxyowakaH,12	Ora	anx				
+9	eva	10	0	eva{avya}	eva{avya}	sambanXaH,8	hI	also				
+10	asmi	16	0	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,14;akarmakaH	hUz	am				
+11	guhyAnAm	11	guhyAnAM	guhya{puM}{6;bahu}/guhya{napuM}{6;bahu}/guhyA{swrI}{6;bahu}	guhya{puM}{6;bahu}	RaRTIsambanXaH,7	gupwa_raKane_yogya_BAvoM_kA_(rakRaka)	oq_secrews				
+12	jFAnam	15	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karwqsamAnAXikaraNam,10	wawwvajFAna	knotlexge				
+13	jFAnavawAm	14	jFAnavawAmaham	jFAnavaw{puM}{6;bahu}/jFAnavaw{puM}{6;bahu}/jFAnavaw{napuM}{6;bahu}	jFAnavaw{puM}{6;bahu}	RaRTIsambanXaH,12	jFAnavAnoM_kA	oq_whe_tise				
+14	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,10	mEM	I				

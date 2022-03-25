@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kRipram	2	kRipraM	kRipram{avya}/kRipra{napuM}{1;eka}/kRipra{napuM}{2;eka}	kRipram{avya}	kriyAviSeRaNam,2	SIGra_hI (usI kRaNa)	very_soon				
+2	Bavawi	4	Bavawi	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,4;akarmakaH	ho_jAwA_hE	becomes				
+3	Xarma-AwmA	3	XarmAwmA	Xarman-Awman{puM}{1;eka}	Xarman-Awman{puM}{1;eka}	karwqsamAnAXikaraNam,2	XarmAwmA	righweous	<Xarma-AwmA>Bs6			
+3.1	(saH)	1	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,2	(vaha)  awiSaya xurAcArI	he				
+4	SaSvaw	6	SaSvacCAnwiM	SaSvaw{avya}	SaSvaw{avya}	viSeRaNam,5	saxA_rahanevAlI	laswing				
+5	SAnwim	7	0	SAnwi{swrI}{2;eka}	SAnwi{swrI}{2;eka}	karma,6	paramaSAnwi_ko	peace				
+6	nigacCawi	8	nigacCawi	ni_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	ni_gam1{karwari;lat;pra;eka;parasmEpaxI;ni_gamLz;BvAxiH}	aBihiwa_karwA,6.1; sakarmakaH	prApwa_howA_hE	awwains				
+6.1	(saH)	5	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,6	(vaha)  awiSaya xurAcArI	he				
+7	kOnweya	9	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,8	he_arjuna	O_son_oq_Kunwi				
+8	prawijAnIhi	16	prawijAnIhi	prawi_jFA2{karwari;lot;ma;eka;parasmEpaxI;jFA;kryAxiH}	prawi_jFA2{karwari;lot;ma;eka;parasmEpaxI;prawi_jFA;kryAxiH}	aBihiwa_karwA,12.2; sakarmakaH	jAno	juswly_xeclare				
+9	na	12	na	na{avya}	na{avya}	prawiReXaH,12	nahIM	never				
+10	me	10	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,11	merA	Mine				
+11	BakwaH	11	BakwaH	Bakwa{puM}{1;eka}	Bakwa{puM}{1;eka}	karwA,12	Bakwa	xevowees				
+12	praNaSyawi	13	praNaSyawi	praNaSyawi	pra_naS1{karwari;lat;pra;eka;parasmEpaxI;pra_NaSaz;xivAxiH}	vAkyakarma,8	naRta_howA	perishes				
+12.1	(iwi)	14	(0)	(iwi{avya})	(iwi{avya})	sambanXaH,8	(EsA)	whus				
+12.2	(wvam)	15	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wuma)	you				

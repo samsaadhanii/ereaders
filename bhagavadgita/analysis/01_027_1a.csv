@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wAn	1	wAnsamIkRya	wax{puM}{2;bahu}	wax{puM}{2;bahu}	viSeRaNam,6	una	all_oq_whem				
+2	samIkRya	5	0	sam_IkR1{kqw_prawyayaH:lyap;IkRaz;BvAxiH}	sam_IkR1{kqw_prawyayaH:lyap;sam_IkRaz;BvAxiH}	pUrvakAlaH,13	xeKakara	aqwer_seeing				
+3	saH	6	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,4	ve	he				
+4	kOnweyaH	7	kOnweyaH	kOnweya{puM}{1;eka}	kOnweya{puM}{1;eka}	karwA,13	kunwIpuwra_arjuna	whe_son_oq_Kunwi				
+5	sarvAn	3	sarvAnbanXUnavasWiwAn	sarva{puM}{2;bahu}	sarva{puM}{2;bahu}	viSeRaNam,6	sampUrNa	all				
+6	banXUn	4	0	banXu{puM}{2;bahu}	banXu{puM}{2;bahu}	karma,2	banXuoM_ko	whe_relawives				
+7	avasWiwAn	2	0	avasWiwa{puM}{2;bahu}	ava_sWA1{kqw_prawyayaH:kwa;ava_RTA;BvAxiH;puM}{2;bahu}	viSeRaNam,6	upasWiwa	presenw_where				
+8	kqpayA	9	kqpayA	kqpA{swrI}{3;eka}	kqpA{swrI}{3;eka}	karwA,10	karuNA_se	tiwh_compassion				
+9	parayA	8	parayAviRto	parA{swrI}{3;eka}/parA{swrI}{3;eka}	parA{swrI}{3;eka}	viSeRaNam,8	awyanwa	tiwh_xeep				
+10	AviRtaH	10	0	AviRta{puM}{1;eka}	Af_viR2{kqw_prawyayaH:kwa;Af_viRLz;juhowyAxiH;puM}{1;eka}	viSeRaNam,4	yukwa_hokara	overthelmex_by				
+11	viRIxan	11	viRIxannixamabravIw	viRIxan	vi_sax1{kqw_prawyayaH:Sawq;vi_RaxLz;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,13	Soka_karawe_hue	in_sorrot				
+12	ixam	12	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	karma,13	yaha_(vacana)	whus				
+13	abravIw	13	0	brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;axAxiH}	brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,4;sakarmakaH	bole	spoke				

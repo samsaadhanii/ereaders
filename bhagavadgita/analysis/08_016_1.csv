@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	A-brahma-BuvanAw	2	AbrahmaBuvanAllokAH	AbrahmaBuvanAw	Af-brahman-Buvana{napuM}{5;eka}	apAxAnam,4.1	brahmalokaparyanwa	qrom_whe_planewary_syswems_up_wo_whe_Brahmaloka_planew	<A-<brahman-BuvanAw>W6>A1			
+2	lokAH	3	0	loka{puM}{1;bahu}	loka{puM}{1;bahu}	karwA,4.1	saba_loka	planews				
+3	punarAvarwinaH	4	punarAvarwinoZrjuna	punarAvarwin{puM}{1;bahu}/punarAvarwin{puM}{2;bahu}/punarAvarwin{puM}{5;eka}/punarAvarwin{puM}{6;eka}/punarAvarwin{napuM}{5;eka}/punarAvarwin{napuM}{6;eka}	punarAvarwin{puM}{1;bahu}	karwqsamAnAXikaraNam,4.1	punarAvarwI	rewurning_again				
+4	arjuna	1	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,4.1	he_arjuna	O_Arjuna				
+4.1	(sanwi)	4.1	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,2	(hEM)	are				
+5	mAm	6	mAmupewya	asmax{2;eka}	asmax{2;eka}	karma,6	muJako	unwo_Me				
+6	upewya	7	0	upewya{puM}{8;eka}/upewya{napuM}{8;eka}/upa_iN{kqw_prawyayaH:lyap;upa_iN;axAdiH}	upa_i1{kqw_prawyayaH:lyap;upa_iN;axAxiH}	pUrvakAlaH,11	prApwa_hokara	arriving				
+7	wu	9	wu	wu{avya}	wu{avya}	sambanXaH,5	paraMwu	buw				
+8	kOnweya	5	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,11	he_kunwIpuwra	O_son_oq_Kunwi				
+9	punarjanma	8	punarjanma	punarjanman{napuM}{1;eka}/punarjanman{napuM}{2;eka}	punarjanman{napuM}{1;eka}	karwA,11	punarjanma	rebirwh				
+10	na	10	na	na{avya}	na{avya}	prawiReXaH,11	nahIM	never				
+11	vixyawe	11	vixyawe	vixyawA{swrI}{1;xvi}/vixyawA{swrI}{2;xvi}/vix1{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;axAxiH}/vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix2{BAve;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix4{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;ruXAxiH}/vix3{karmaNi;lat;pra;eka;AwmanepaxI;vixLz;wuxAxiH}	vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}	aBihiwa_karwA,9	howA	wakes_wo				

@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	Saknowi	9	SaknowIhEva	Sak1{karwari;lat;pra;eka;parasmEpaxI;SakLz;svAxiH}	Sak1{karwari;lat;pra;eka;parasmEpaxI;SakLz;svAxiH}		samarWa_ho_jAwA_hE	able_wo_xo				
+2	iha	2	0	iha{avya}	iha{avya}	aXikaraNam,5	isameM_(manuRya_SarIra_meM)	in_whe_presenw_boxy				
+3	eva	5	0	eva{avya}	eva{avya}	sambanXaH,6	hI	by_conwacw_tiwh_whe_mawerial_senses				
+4	yaH	1	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,1	jo_(sAXaka)	one_tho				
+5	soDum	8	soDuM	saha1{kqw_prawyayaH:wumun;Raha;BvAxiH}	saha1{kqw_prawyayaH:wumun;Rahaz;BvAxiH}	prayojanam,1	sahana_karane_meM	wo_wolerawe				
+6	*prAk	4	prAkSarIravimokRaNAw	prAk{avya}/prAS{swrI}{1;eka}	prAk{avya}	kAlAXikaraNam,5	pahale-pahale	beqore				
+7	SarIra-vi-mokRaNAw	3	0	SarIra-vi-mokRaNa{napuM}{5;eka}	SarIra-vi-mokRaNa{puM}{5;eka}	upapaxasambanXaH,6	SarIra_kA_nASa_hone_se	given_up_boxy	<SarIra-<vi-mokRaNAw>Bvp>W6			
+8	kAma-kroXa-uxBavam	6	kAmakroXoxBavaM	kAma-kroXa-uxBava{puM}{2;eka}	kAma-kroXa-uxBava{puM}{2;eka}	viSeRaNam,9	kAma-kroXa_se_uwpanna_honevAle	generawex_qrom_xesire_anx_anger	<<kAma-kroXa>Xi-uxBavaM>W5			
+9	vegam	7	vegaM	vega{puM}{2;eka}	vega{puM}{2;eka}	karma,5	vega_ko	urge				
+10	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,11.1	vahI	he				
+11	yukwaH	12	yukwaH	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	karwqsamAnAXikaraNam,11.1	yogI	in_wrance				
+12	saH	14	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,14	vahI	he				
+13	suKI	15	suKI	suKI{swrI}{1;eka}/suKin{puM}{1;eka}	suKin{puM}{1;eka}	karwqsamAnAXikaraNam,14.1	suKI	happy				
+14	naraH	11	naraH	nq{puM}{1;bahu}/nara{puM}{1;eka}	nara{puM}{1;eka}	karwA,14.1	puruRa	human_being				
+14.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				
+11.1	(aswi)	13	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				

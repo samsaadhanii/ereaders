@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	prApya	4	prApya	prApya{puM}{8;eka}/prApya{napuM}{8;eka}/pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,11	prApwa_hokara	aqwer_achieving				
+2	puNya-kqwAm	2	puNyakqwAM	puNya-kqw{puM}{6;bahu}/kqwA{swrI}{2;eka}	puNya-kqw{puM}{6;bahu}	RaRTIsambanXaH,3	puNyavAnoM_ke	oq_whose_tho_perqormex_pious_acwiviwies	<puNya-kqwAM>U			
+3	lokAn	3	lokAnuRiwvA	loka{puM}{2;bahu}	loka{puM}{2;bahu}	karma,1	lokoM_ko_arWAw_svargAxi_uwwama_lokoM_ko	planews				
+4	uRiwvA	7	0	vas1{kqw_prawyayaH:kwvA;vasaz;BvAxiH}	vas1{kqw_prawyayaH:kwvA;vasaz;BvAxiH}	pUrvakAlaH,11	nivAsa_karake	aqwer_xtelling				
+5	SASvawIH	5	SASvawIH	SASvawI{swrI}{2;bahu}	SASvawI{swrI}{1;bahu}	viSeRaNam,6	bahuwa	many				
+6	samAH	6	samAH	sama{puM}{1;bahu}/sama{puM}{8;bahu}/samA{swrI}{1;bahu}/samA{swrI}{2;bahu}/samA{swrI}{8;bahu}/samA{swrI}{1;bahu}/samA{swrI}{2;bahu}	sama{puM}{1;bahu}	aXikaraNam,4	varRoMwaka	years				
+7	SucInAm	8	SucInAM	Suci{puM}{6;bahu}/Suci{swrI}{6;bahu}	Suci{puM}{6;bahu}	viSeRaNam,9	SuxXa_AcaraNavAle	oq_whe_pious				
+8	SrImawAm	9	SrImawAM	SrImaw{puM}{6;bahu}/SrImaw{napuM}{6;bahu}	SrImaw{puM}{6;bahu}	RaRTIsambanXaH,9	SrImAn_puruRoM_ke	oq_whe_prosperous				
+9	gehe	10	gehe	geha{napuM}{1;xvi}/geha{napuM}{2;xvi}/geha{napuM}{7;eka}/geha{napuM}{8;xvi}	geha{napuM}{7;eka}	aXikaraNam,11	Gara_meM	in_whe_house_oq				
+10	yoga-BraRtaH	1	yogaBraRtoZBijAyawe	yoga-BraRta{puM}{1;eka}	yoga-BraRta{puM}{1;eka}	karwA,11	yogaBraRta_puruRa	one_tho_is_qallen_qrom_whe_pawh_oq_selq-realiRawion	<yoga-BraRtaH>W5			
+11	aBijAyawe	11	0	aBi_jan3{karwari;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}/aBi_jan3{BAve;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}	aBi_jan3{karwari;lat;pra;eka;AwmanepaxI;aBi_janIz;xivAxiH}	aBihiwakarwA,11	janma_lewA_hE	wakes_his_birwh				

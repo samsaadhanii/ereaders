@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	bAhya-sparSeRu	1	bAhyasparSeRvasakwAwmA	bAhya-sparSa{puM}{7;bahu}	bAhya-sparSa{puM}{7;bahu}	aXikaraNam,2	bAhara_ke_suKoM_meM	in_eLwernal_sense_pleasure	<bAhya-sparSeRu>K1			
+2	a-sakwa-AwmA	2		asakwa-Awman{puM}{1;eka}	asakwa-Awman{puM}{1;eka}	karwA,3	Asakwirahiwa_anwaHkaraNavAlA	one_tho_is_now_so_awwachex	<<na-sakwa>Wn-AwmA>Bs6			
+3	vinxawi	8	vinxawyAwmani	vix3{karwari;lat;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	vix3{karwari;lat;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	aBihiwa_karwA,2	prApwa_howA_hE	enjoys				
+4	Awmani	3	0	Awman{puM}{7;eka}	Awman{puM}{7;eka}	aXikaraNam,3	AwmA_meM	in_whe_selq				
+5	yaw	4	yawsuKam	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	sambanXaH,3	jo	whaw_thich				
+6	suKam	5	0	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{1;eka}	karma,3	Ananxa	happiness				
+7	saH	9	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,8	vaha	whaw				
+8	brahma-yoga-yukwa-AwmA	10	brahmayogayukwAwmA	brahman-yoga-yukwa-Awman{puM}{1;eka}	brahman-yoga-yukwa-Awman{puM}{1;eka}	karwA,11	saccixAnanxaGana_parabrahma_paramAwmA_ke_XyAnarUpa_yoga_meM_aBinnaBAva_se_sWiwa_puruRa	selq-connecwex_anx_concenwrawex_in_Brahman	<<<brahma-yoga>W7-yukwa>W3-AwmA>Bs6			
+9	suKam	12	suKamakRayamaSnuwe	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{2;eka}	karma,11	Ananxa_kA	happiness				
+10	a-kRayam	11	0	kRi1{karwari;laf;u;eka;parasmEpaxI;kRi;BvAxiH}	akRaya{napuM}{2;eka}	viSeRaNam,9	akRaya	unlimiwex	<na-kRayam>Bsmn			
+11	aSnuwe	13	0	aS1{karwari;lat;pra;eka;AwmanepaxI;aSUz;svAxiH}	aS1{karwari;lat;pra;eka;AwmanepaxI;aSUz;svAxiH}	aBihiwa_karwA,11	anuBava_karawA_hE	enjoys				

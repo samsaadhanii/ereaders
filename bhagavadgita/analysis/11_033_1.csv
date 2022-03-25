@@ -1,0 +1,23 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wasmAw	1	wasmAwwvamuwwiRTa	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{napuM}{5;eka}	hewuH,3	awaeva	whereqore				
+2	wvam	2	0	yuRmax{1;eka}	yuRmax{1;eka}	karwA,3	wU	you				
+3	uwwiRTa	3	0	ux_sWA1{karwari;lot;ma;eka;parasmEpaxI;RTA;BvAxiH}	ux_sWA1{karwari;lot;ma;eka;parasmEpaxI;ux_RTA;BvAxiH}	aBihiwa_karwA,2;akarmakaH	uTa	gew_up				
+4	yaSaH	4	yaSo	yaSas{napuM}{1;eka}/yaSas{napuM}{2;eka}/yaSas{napuM}{8;eka}	yaSas{napuM}{2;eka}	karma,5	yaSa	qame				
+5	laBasva	5	laBasva	laB1{karwari;lot;ma;eka;AwmanepaxI;dulaBazR;BvAxiH}	laB1{karwari;lot;ma;eka;AwmanepaxI;dulaBazR;BvAxiH}	aBihiwa_karwA,5.1	prApwa_kara	gain				
+5.1	(wvam)	3.1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,5	(wU)	you				
+6	jiwvA	7	jiwvA	ji1{avya;kwvA;ji;:BvAxiH}	ji1{avya;kwvA;ji;:BvAxiH}	pUrvakAlaH,8	jIwakara	conduering				
+7	SawrUn	6	SawrUnBufkRva	Sawru{puM}{2;bahu}	Sawru{puM}{2;bahu}	karma,6	SawruoM_ko	enemies				
+8	BufkRva	10	0	BufkRva	Buj2{karwari;lot;ma;eka;AwmanepaxI;Bujaz;ruXAxiH}	aBihiwa_karwA,10.1	Boga	enjoy				
+9	rAjyam	9	rAjyaM	rAjya{puM}{2;eka}/rAjya{napuM}{1;eka}/rAjya{napuM}{2;eka}	rAjya{napuM}{2;eka}	karma,8	rAjya_ko	kingxom				
+10	samqxXam	8	samqxXam	samqxXa{puM}{2;eka}	samqxXa{napuM}{2;eka}	viSeRaNam,9	Xana-XAnya_se_sampanna	qlourishing				
+10.1	(wvam)	5.1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wU)	you				
+11	mayA	12	mayEvEwe	asmax{3;eka}	asmax{3;eka}	karwA,14	mere_hI_xvArA	by_Me				
+12	eva	13	0	eva{avya}	eva{avya}	sambanXaH,15	hI	cerwainly				
+13	ewe	11	0	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewA{swrI}{8;eka}/ewA{swrI}{8;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{puM}{1;bahu}	karma,14	ye_(saba_SUravIra)	all_whese				
+14	nihawAH	16	nihawAH	nihawA{swrI}{1;bahu}/nihawA{swrI}{2;bahu}/nihawA{swrI}{8;bahu}/nihawA{swrI}{1;bahu}/nihawA{swrI}{2;bahu}/nihawA{swrI}{8;bahu}	ni_han1{kqw_prawyayaH:kwa;ni_hanaz;axAxiH;puM}{1;bahu}	aBihiwa_karwA,11	mAre_hue_hEM	alreaxy_killex				
+15	pUrvam	14	pUrvameva	pUrvam{avya}/pUrva{puM}{2;eka}/pUrva{napuM}{1;eka}/pUrva{napuM}{2;eka}/pUrva{puM}{2;eka}/pUrva{napuM}{1;eka}/pUrva{napuM}{2;eka}	pUrvam{avya}	aXikaraNam,14	pahale	by_previous_arrangemenw				
+16	eva	15	0	eva{avya}	eva{avya}	sambanXaH,17	hI	cerwainly				
+17	nimiwwa-mAwram	18	nimiwwamAwraM	nimiwwamAwra{napuM}{1;eka}/nimiwwamAwra{napuM}{2;eka}	nimiwwa-mAwra{napuM}{1;eka}	karwqsamAnAXikaraNam,18	nimiwwamAwra	jusw_whe_cause	<nimiwwa-mAwram>Bs6			
+18	Bava	20	Bava	Bava{puM}{8;eka}/BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,19.1	bana_jA	become				
+19	savyasAcin	16	savyasAcin	savyasAcin{puM}{8;eka}	savyasAcin{puM}{8;eka}	samboXyaH,18	he_savyasAcin	O_Savyasaci				
+19.1	(wvam)	16.1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,18	(wU)	you				

@@ -1,0 +1,20 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	an-ASriwaH	3	anASriwaH	an-{avya}-ASriwa{puM}{1;eka}	na-ASriwa{puM}{1;eka}	karwA,5	ASraya_na_lekara	tiwhouw_shelwer	<na-ASriwaH>Wn			
+2	karma-Palam	2	karmaPalaM	karman-Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	karman-Pala{napuM}{2;eka}	karma,1	karmaPala_kA	whe_resulw_oq_tork	<karma-PalaM>W6			
+3	kAryam	4	kAryaM	kArya{napuM}{2;eka}/kArya{napuM}{2;eka}/kArya{napuM}{2;eka}/kArya{napuM}{2;eka}/kArya{napuM}{2;eka}	kq3{kqw_prawyayaH:Nyaw;dukqF;wanAxiH;napuM}{2;eka}	viSeRaNam,4	karaneyogya	obligawory				
+4	karma	5	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,5	karma	tork				
+5	karowi	6	karowi	kq3{karwari;lat;pra;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;pra;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,6;sakarmakaH	karawA_hE	perqorms				
+6	yaH	1	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,1;niwyasambanXaH,7	jo_(puruRa)	one_tho				
+7	saH	7	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,11.1	vaha	he				
+8	sannyAsI	8	sannyAsI	sannyAsin{puM}{1;eka}	sannyAsin{puM}{1;eka}	supsamucciwam,10	saMnyAsI	in_whe_renouncex_orxer				
+9	ca	9	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,8	waWA	also				
+10	yogI	10	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karwqsamAnAXikaraNam,11.1	yogI	myswic				
+11	ca	12	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,9	Ora	also				
+11.1	(aswi)	11	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,7;akarmakaH	(hE)	is				
+12	na	15	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	now				
+13	nir-agniH	14	niragnirna	nir-{avya}-agni{puM}{1;eka}	nir-agni{puM}{1;eka}	supsamucciwam,16	agni_kA_wyAga_karanevAlA_(saMnyAsI)	tiwhouw_qire	<nir-agniH>Bvp			
+14	na	18	0	na{avya}	na{avya}	prawiReXaH,16	nahIM	nor				
+15	ca	16	cAkriyaH	ca{avya}	ca{avya}	samu्ccayaxyowakaH,16	waWA	also				
+16	a-kriyaH	17	0	a-kriyaH{puM}{1;eka}	na-kriya{puM}{1;eka}	karwqsamAnAXikaraNam,16.1	kriyAoM_kA_wyAga_karanevAlA_(yogI)	tiwhouw_xuwy	<na-kriyaH>Bs6			
+16.1	(aswi)	19	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,16.2;akarmakaH	(hE)	is				
+16.2	(saH)	13	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,16.1	(vaha)	he				

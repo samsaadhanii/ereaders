@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sawwvam	2	sawwvaM	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	karwA,3	sawwvaguNa	moxe_oq_gooxness				
+2	suKe	3	suKe	suKa{puM}{7;eka}/suKa{napuM}{1;xvi}/suKa{napuM}{2;xvi}/suKa{napuM}{7;eka}/suKa{napuM}{8;xvi}/suKA{swrI}{1;xvi}/suKA{swrI}{2;xvi}/suKA{swrI}{8;eka}/suKA{swrI}{8;xvi}/suKI{napuM}{8;eka}	suKa{napuM}{7;eka}	aXikaraNam,3	suKa_meM	in_happiness				
+3	saFjayawi	4	saFjayawi	sam_ji1{karwari;lat;pra;eka;parasmEpaxI;ji;BvAxiH}/saFj1_Nic{karwari;lat;pra;eka;parasmEpaxI;RaFjaz;BvAxiH}	sam_ji1{karwari;lat;pra;eka;parasmEpaxI;sam_ji;BvAxiH}	aBihiwakarwA,1;akarmakaH	lagAwA_hE	xevelops				
+4	rajaH	5	rajaH	rajas{puM}{8;eka}/rajas{napuM}{1;eka}/rajas{napuM}{2;eka}/rajas{napuM}{8;eka}	rajas{napuM}{1;eka}	karwA,5.1	rajoguNa	moxe_oq_passion				
+5	karmaNi	6	karmaNi	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,5.1	karma_meM	qruiws_oq_acwiviwies				
+5.1	(saFjayawi)	7	(0)	(sam_ji1{karwari;lat;pra;eka;parasmEpaxI;ji;BvAxiH}/saFj1_Nic{karwari;lat;pra;eka;parasmEpaxI;RaFjaz;BvAxiH})	(sam_ji1{karwari;lat;pra;eka;parasmEpaxI;sam_ji;BvAxiH})	aBihiwakarwA,4;akarmakaH	(lagAwA_hE)	xevelops				
+6	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,12	he_arjuna	O_son_oq_Bharawa				
+7	jFAnam	10	jFAnamAvqwya	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,8	jFAna_ko	knotlexge				
+8	Avqwya	11	0	Af_vq1{kqw_prawyayaH:lyap;vq;BvAxiH}/Af_vq2{kqw_prawyayaH:lyap;vqF;svAxiH}/Af_vq4{kqw_prawyayaH:lyap;vqF;curAxiH}/Af_vqw1{kqw_prawyayaH:lyap;vqwuz;BvAxiH}/Af_vqw2{kqw_prawyayaH:lyap;vqwuz;xivAxiH}/Af_vqw3{kqw_prawyayaH:lyap;vqwuz;curAxiH}	Af_vq2{kqw_prawyayaH:lyap;Af_vqF;svAxiH}	pUrvakAlaH,12	Dakakara	covering				
+9	wu	9	wu	wu{avya}	wu{avya}	sambanXaH,12	wo	buw				
+10	wamaH	8	wamaH	wama{puM}{1;eka}/wamas{napuM}{1;eka}/wamas{napuM}{2;eka}/wamas{napuM}{8;eka}	wamas{napuM}{1;eka}	karwA,12	wamoguNa	moxe_oq_ignorance				
+11	pramAxe	12	pramAxe	pramAxa{puM}{7;eka}	pramAxa{puM}{7;eka}	aXikaraNam,12	pramAxa_meM	in_maxness				
+12	saFjayawi	14	saFjayawyuwa	sam_ji1{karwari;lat;pra;eka;parasmEpaxI;ji;BvAxiH}/saFj1_Nic{karwari;lat;pra;eka;parasmEpaxI;RaFjaz;BvAxiH}	sam_ji1{karwari;lat;pra;eka;parasmEpaxI;sam_ji;BvAxiH}	aBihiwakarwA,10;akarmakaH	lagAwA_hE	xevelops				
+13	uwa	13	0	uwa{avya}/uwa{puM}{8;eka}/uwa{napuM}{8;eka}	uwa{avya}	sambanXaH,10	BI	iw_is_saix				

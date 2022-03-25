@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sarva-karmANi	11	sarvakarmANi	sarva-karman{napuM}{1;bahu}/karman{napuM}{2;bahu}	sarva-karman{napuM}{2;bahu}	karma,3	saba_karmoM_ko	all_acwiviwies	<sarva-karmANi>K1			
+2	manasA	12	manasA	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	karaNam,3	mana_se	by_whe_minx				
+3	sannyasya	13	sannyasyAswe	sam_ni_as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	sam_ni_as1{kqw_prawyayaH:lyap;sam_ni_asaz;BvAxiH}	pUrvakAlaH,4	wyAgakara	giving_up				
+4	Aswe	15	0	As1{karwari;lat;pra;eka;AwmanepaxI;Asaz;axAxiH}	As1{karwari;lat;pra;eka;AwmanepaxI;Asaz;axAxiH}		sWiwa_rahawA_hE	remains				
+5	suKam	14	suKaM	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{avya}	kriyAviSeRaNam,4	AnanxapUrvaka	in_happiness				
+6	vaSI	1	vaSI	vaSi{puM}{1;xvi}/vaSi{puM}{2;xvi}/vaSin{puM}{1;eka}	vaSin{puM}{1;eka}	viSeRaNam,9	anwaHkaraNa_jisake_vaSa_meM_hE_EsA_sAMKyayoga_kA_AcaraNa_karanevAlA	one_tho_is_conwrollex				
+7	nava-xvAre	9	navaxvAre	navan-xvAr{swrI}{4;eka}/xvAra{napuM}{1;xvi}/xvAra{napuM}{2;xvi}/xvAra{napuM}{7;eka}	navan-xvAra{napuM}{7;eka}	viSeRaNam,8	navaxvAroMvAle_SarIrarUpa	in_whe_place_there_where_are_nine_gawes	<navan-xvAre>Bs7			
+8	pure	10	pure	pur{swrI}{4;eka}/pura{napuM}{1;xvi}/pura{napuM}{2;xvi}/pura{napuM}{7;eka}/purA{swrI}{1;xvi}/purA{swrI}{2;xvi}	pura{napuM}{7;eka}	aXikaraNam,4	Gara_meM	in_whe_ciwy				
+9	xehI	2	xehI	xehin{puM}{1;eka}	xehin{puM}{1;eka}	karwA,4	puruRa	whe_emboxiex_soul				
+10	na	3	nEva	na{avya}	na{avya}	prawiReXaH,12	na	never				
+11	eva	8	0	eva{avya}	eva{avya}	sambanXaH,14	hI	cerwainly				
+12	kurvan	4	kurvanna	kurvaw{puM}{1;eka}/kurvaw{puM}{8;eka}/kurvaw{puM}{1;eka}	kq3{kqw_prawyayaH:Sawq;dukqF;wanAxiH;puM}{1;eka}	samucciwam,14	karawA_huA	xoing_anywhing				
+13	na	6	0	na{avya}	na{avya}	prawiReXaH,14	na	now				
+14	kArayan	7	kArayan	kArayan	kq3_Nic{kqw_prawyayaH:Sawq;dukqF_Nic;wanAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,4	karavAwA_huA	causing_wo_be_xone				
+15	(ca)	5	(0)	(ca{avya})	(ca{avya})	sup_samuccayaxyowakaH,14	(Ora)	anx				

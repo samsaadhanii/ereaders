@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	6	na	na{avya}	na{avya}	prawiReXaH,4	nahIM	never				
+2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,1	kyoMki	cerwainly				
+3	xeha-BqwA	2	xehaBqwA	xehaBqw{puM}{3;eka}	xeha-Bqw{puM}{3;eka}	karwA,4	SarIraXArI_kisI_BI_manuRya_ke_xvArA	oq_whe_emboxiex	<xeha-BqwA>U			
+4	Sakyam	7	SakyaM	Sakya{puM}{2;eka}/Sakya{napuM}{1;eka}/Sakya{napuM}{2;eka}_(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	Sak1{kqw_prawyayaH:yaw;Saklqz;svAxiH;napuM}{1;eka}_(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		Sakya_hE	is_possible				
+5	wyakwum	5	wyakwuM	wyaj1{kqw_prawyayaH:wumun;wyajaz;BvAxiH}	wyaj1{kqw_prawyayaH:wumun;wyajaz;BvAxiH}	sahAyakakriyA,4	wyAga_kiyA_jAnA	wo_renounce				
+6	karmANi	3	karmANyaSeRawaH	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}	karman{napuM}{2;bahu}	karma,5	saba_karmoM_kA	acwiviwies_oq				
+7	a-SeRawaH	4	0	aSeRa{wasil}	aSeRawaH{wasil}	kriyAviSeRaNam,5	sampUrNawA_se	alwogewher	<na-SeRawaH>Wn			
+8	yaH	8	yaswu	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,10.1;niwyasambanXaH,12	jo	anyone_tho				
+9	wu	12	0	wu{avya}	wu{avya}	sambanXaH,8	hI	cerwainly				
+10	karma-Pala-wyAgI	9	karmaPalawyAgI	karman-Pala-wyAgin{puM}{1;eka}	karman-Pala-wyAgin{puM}{1;eka}	karwqsamAnAXikaraNam,10.1	karmaPala_kA_wyAgI	whe_renouncer_oq_resulws_oq_tork	<<karma-Pala>W6-wyAgI>W6			
+10.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,8	(hE)	is				
+11	saH	11	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,14	vaha	he				
+12	wyAgI	13	wyAgIwyaBiXIyawe	wyAgin{puM}{1;eka}	wyAgin{puM}{1;eka}	karmasamAnAXikaraNam,14	wyAgI	renouncer				
+13	iwi	15	0	iwi{avya}	iwi{avya}	karmaxyowakaH,14	yaha	whus				
+14	aBiXIyawe	16	0	aBiXIyawe	aBi_XA1{karmaNi;lat;pra;eka;AwmanepaxI;aBi_duXAF;juhowyAxiH}	aBihiwa_karma,11	kahA_jAwA_hE	is_saix				

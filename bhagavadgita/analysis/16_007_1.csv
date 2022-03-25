@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	pravqwwim	3	pravqwwiM	pravqwwi{swrI}{2;eka}	pravqwwi{swrI}{2;eka}	sup_samucciwam,3	pravqwwi	proper_acwion				
+2	ca	4	ca	ca{avya}	ca{avya}	samuuccayaxyowakaH,1	Ora	also				
+3	nivqwwim	5	nivqwwiM	nivqwwi{swrI}{2;eka}	nivqwwi{swrI}{2;eka}	karma,7	nivqwwa	improper_acwion				
+4	ca	6	ca	ca{avya}	ca{avya}	samuuccayaxyowakaH,3	Ora	anx				
+5	janAH	2	janA	jana{puM}{1;bahu}/jana{puM}{8;bahu}	jana{puM}{1;bahu}	karwA,7	manuRya	persons				
+6	na	7	na	na{avya}	na{avya}	prawiReXaH,7	nahIM	never				
+7	vixuH	8	vixurAsurA	vixu{puM}{1;eka}/vixus{napuM}{1;eka}/vixus{napuM}{2;eka}/vixus{napuM}{8;eka}/vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,5;sakarmakaH	jAnawe	knot				
+8	AsurAH	1	0	Asura{puM}{1;bahu}/Asura{puM}{8;bahu}/AsurA{swrI}{1;bahu}/AsurA{swrI}{2;bahu}/AsurA{swrI}{8;bahu}	Asura{puM}{1;bahu}	viSeRaNam,5	Asura-svaBAvavAle	xemoniac_dualiwies				
+9	na	10	na	na{avya}	na{avya}	prawiReXaH,10	na	never				
+10	SOcam	11	SOcaM	SOca{napuM}{1;eka}/SOca{napuM}{2;eka}	SOca{napuM}{1;eka}	supsamucciwam,16	bAhara-BIwara_kI_SuxXi	cleanliness				
+11	na	12	nApi	na{avya}	na{avya}	prawiReXaH,14	na	nor				
+12	api	17	0	api{avya}	api{avya}	sambanXaH,13	hI	also				
+13	ca	14	cAcAro	ca{avya}	ca{avya}	samuccayaxyowakaH,16	Ora	anx				
+14	AcAraH	13	0	AcAra{puM}{1;eka}	AcAra{puM}{1;eka}	supsamucciwam,16	SreRTa_AcaraNa	behavior				
+15	na	15	na	na{avya}	na{avya}	prawiReXaH,16	na	never				
+16	sawyam	16	sawyaM	sawyam{avya}/sawya{puM}{2;eka}/sawya{napuM}{1;eka}/sawya{napuM}{2;eka}	sawya{napuM}{1;eka}	karwA,18	sawyaBARaNa	wruwh				
+17	weRu	9	weRu	wax{puM}{7;bahu}/wax{napuM}{7;bahu}	wax{puM}{7;bahu}	aXikaraNam,18	unameM	in_whem				
+18	vixyawe	18	vixyawe	vixyawA{swrI}{1;xvi}/vixyawA{swrI}{2;xvi}/vixyawA{swrI}{8;eka}/vixyawA{swrI}{8;xvi}/vix1{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;axAxiH}/vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix2{BAve;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix4{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;ruXAxiH}/vix3{karmaNi;lat;pra;eka;AwmanepaxI;vixLz;wuxAxiH}	vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}	aBihiwakarwA,5;akarmakaH	hE	where_is				

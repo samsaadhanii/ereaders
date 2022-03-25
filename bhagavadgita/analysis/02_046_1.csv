@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yAvAn	4	yAvAnarWa	yAva{puM}{2;bahu}/yAvaw{puM}{1;eka}/yAvaw{puM}{1;eka}	yAvaw{puM}{1;eka}	viSeRaNam,2	jiwanA	so_much				
+2	arWaH	5	0	arWa{puM}{1;eka}	arWa{puM}{1;eka}	karwA,5.1	prayojana	meanw				
+3	uxan-pAne	3	uxapAne	uxapAna{puM}{7;eka}	uxan-pAna{puM}{7;eka}	aXikaraNam,5.1	Cote_jalASaya_meM	in_a_small_reservoir_oq_tawer	<uxa-pAne>W6			
+4	sarvawaH	1	sarvawaH	sarvawaH{avya}	sarvawaH{avya}	viSeRaNam,3	saba_ora_se	on_all_sixes				
+5	sampluwa-uxake	2	sampluwoxake	sampluwoxaka{puM}{7;eka}/sampluwoxaka{napuM}{1;xvi}/sampluwoxaka{napuM}{2;xvi}/sampluwoxaka{napuM}{7;eka}/sampluwoxaka{napuM}{8;xvi}	sampluwoxaka{puM}{7;eka}	viSeRaNam,3	paripUrNa_jalASaya_ke	in_a_greaw_reservoir_oq_tawer	<sampluwa-uxake>Bs7			
+5.1	(Bavawi)	6	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,2;akarmakaH	(rahawA_hE)	is				
+6	wAvAn	7	wAvAnsarveRu	wAvaw{puM}{1;eka}	wAvaw{puM}{1;eka}	viSeRaNam,10.2	uwanA	as_much				
+7	sarveRu	11	0	sarva{puM}{7;bahu}/sarva{napuM}{7;bahu}	sarva{puM}{7;bahu}	viSeRaNam,8	samaswa	all				
+8	vexeRu	12	vexeRu	vexa{puM}{7;bahu}	vexa{puM}{7;bahu}	aXikaraNam,10.1	vexoM_meM	in_Vexas				
+9	brAhmaNasya	10	brAhmaNasya	brAhmaNa{puM}{6;eka}	brAhmaNa{puM}{6;eka}	RaRTIsambanXaH,10.2	brAhmaNa_kA	Brahman				
+10	vijAnawaH	9	vijAnawaH	vijAnaw{puM}{1;bahu}/vijAnaw{puM}{2;bahu}/vijAnaw{puM}{5;eka}/vijAnaw{puM}{6;eka}/vijAnaw{puM}{8;bahu}/vijAnaw{napuM}{5;eka}/vijAnaw{napuM}{6;eka}	vi_jFA2{kqw_prawyayaH:Sawq;vi_jFA;kryAxiH;puM}{1;eka}	viSeRaNam,9	wawwva_se_jAnanevAle	tho_has_obwainex_enlighwenmenw				
+10.1	(Bavawi)	13	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,10.2;akarmakaH	(howA_hE)	is				
+10.2	(arWaH)	8	(0)	(arWa{puM}{1;eka})	(arWa{puM}{1;eka})	karwA,10.1	(arWa)	meanw				

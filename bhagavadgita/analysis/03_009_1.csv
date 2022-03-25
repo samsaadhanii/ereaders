@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yajFa-arWAw	1	yajFArWAwkarmaNoZnyawra	yajFa-arWa{puM}{5;eka}/arWa{napuM}{5;eka}	yajFa-arWa{puM}{5;eka}	hewuH,1.1	yajFa_ke_nimiwwa_kiye_jAnevAle	qor_whe_sake_oq_sacriqice	<yajFa-arWAw>W4			
+1.1	(kqwAw)	2	()	kqwa{napuM;5;eka}/kqwa{puM;5;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{napuM;5;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{puM;5;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{napuM;5;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{puM;5;eka(kq1;kwa;kqF;:BvAxiH)}/kqwa{napuM;5;eka(kq1;kwa;kqF;:BvAxiH)}	kqwa{napuM}{5;eka(kq3;kwa;dukqF;:wanAxiH)}	viSeRaNam,2	nirmiwa					
+2	karmaNaH	4	0	karman{napuM}{5;eka}/karman{napuM}{6;eka}	karman{puM}{5;eka}	hewuH,6.1	karmoM_se_awirikwa	owher_whan_acwions				
+3	anyawra	3	0	anyawra{avya}	anyawra{avya}	xeSAXikaraNam,1.1	xUsare_karmoM_meM	owher_acwions				
+4	lokaH	6	lokoZyaM	loka{puM}{1;eka}	loka{puM}{1;eka}	karwA,6.1	manuRya-samuxAya	torlx				
+5	ayam	5	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,4	yaha	whis				
+6	karma-banXanaH	7	karmabanXanaH	karman-banXana{puM}{1;eka}	karman-banXana{puM}{1;eka}	karwqsamAnAXikaraNam,6.1	karmoM_se_bazXawA	bounx_by_his_otn_acwion	<karma-banXanaH>Bs6			
+6.1	(Bavawi)	8	()	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}/BavawI{swrI;8;eka}/Bavaw{sarvanAma;puM;7;eka}/Bavaw{puM;7;eka}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,4	howA_hE					
+7	waw-arWam	9	waxarWaM	wax-arWa{puM}{2;eka}/arWa{napuM}{1;eka}/arWa{napuM}{2;eka}	wax-arWa{napuM}{2;eka}	prayojanam,11	usa_yajFa_ke_nimiwwa	qor_whe_sake_oq_sacriqice	<waw-arWam>W4			
+8	karma	12	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,11	karwavyakarma	your_xuwy				
+9	kOnweya	10	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,11	he_arjuna	O_son_oq_Kunwi				
+9.1	(wvam)	11	()	yuRmax{sarvanAma;1;eka}	yuRmax{1;eka}	karwA,11	wuma					
+10	mukwa-safgaH	13	mukwasafgaH	mukwa-safga{puM}{1;eka}	mukwa-safga{puM}{1;eka}	viSeRaNam,9.1	Asakwi_se_rahiwa_hokara	qree_qrom_awwachmenw	<mukwa-safgaH>Bs3			
+11	samAcara	14	samAcara	sam_Af_car1{karwari;lot;ma;eka;parasmEpaxI;sam_Af_cara1;BvAxiH}	sam_Af_car1{karwari;lot;ma;eka;parasmEpaxI;sam_Af_caraz;BvAxiH}	aBihiwa_karwA,9.1;sakarmaka	kara	eqqicienwly_perqorm				

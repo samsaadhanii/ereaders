@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	jFAnam	2	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}		jFAna	knotlexge				
+2	karma	4	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}		karma	tork				
+3	ca	3	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,2	Ora	also				
+4	karwA	6	karwA	karwq{puM}{1;eka}/kq3{karwari;lut;pra;eka;parasmEpaxI;dukqF;wanAxiH}/kq3{karwari;lut;pra;eka;AwmanepaxI;dukqF;wanAxiH}	karwq{puM}{1;eka}		karwA	torker				
+5	ca	5	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,4	waWA	also				
+6	wriXA	9	wriXEva	wri{xA}/wriXA{avya}	wriXA{avya}	karwA,9	wIna-wIna_prakAra_ke	whree_kinxs				
+7	eva	10	0	eva{avya}	eva{avya}	sambanXaH,6	hI	cerwainly				
+8	guNa-BexawaH	7	guNaBexawaH		guNaBexawaH{avya}	kriyAviSeRaNam,9	guNoM_ke_Bexa_se	in_werms_oq_xiqqerenw_moxes_oq_mawerial_nawure	<guNa-BexawaH>W6			
+9	procyawe	11	procyawe	procyawe	pra_vac1{karmaNi;lat;pra;eka;AwmanepaxI;pra_vacaz;axAxiH}		kahe_gaye_hEM	is_saix				
+10	guNa-safKyAne	1	guNasafKyAne	guNasafKyAna{napuM}{1;xvi}/guNasafKyAna{napuM}{2;xvi}/guNasafKyAna{napuM}{7;eka}	guNa-safKyAna{napuM}{7;eka}	aXikaraNam,9	guNoM_kI_saMKyA_karanevAle_SAswra_meM	in_werms_oq_xiqqerenw_moxes	<guNa-safKyAne>W6			
+11	yaWAvaw	15	yaWAvacCqNu	yaWAvaw{avya}	yaWAvaw{avya}	kriyAviSeRaNam,12	BalIBAzwi	as_whey_acw				
+12	SqNu	16	0	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}		suna	hear				
+13	wAni	12	wAnyapi	wax{napuM}{1;bahu}/wax{napuM}{2;bahu}	wax{napuM}{2;bahu}	karma,12	unako	all_oq_whem				
+14	api	13	0	api{avya}	api{avya}	sambanXaH,13	BI	also				
+15	(wvam)	14	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})		(wU)	you				
+16	(iwi)	8	(0)	(iwi{avya})	(iwi{avya})		(ina)	whus				

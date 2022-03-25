@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mayi	2	mayyeva	asmax{7;eka}	asmax{7;eka}	aXikaraNam,7	muJameM	upon_me				
+2	eva	3	0	eva{avya}	eva{avya}	sambanXaH,1	hI	cerwainly				
+3	manaH	4	mana	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{2;eka}	karma,4	mana_ko	minx				
+4	AXawsva	5	AXawsva	AXawsva	Af_XA1{karwari;lot;ma;eka;AwmanepaxI;Af_duXAF;juhowyAxiH}	aBihiwakarwA,4.1;sakarmakaH	lagAo	qiL				
+4.1	(wvam)	1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wuma)	you				
+5	mayi	7	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,7	muJameM	unwo_Me				
+6	buxXim	8	buxXiM	buxXi{swrI}{2;eka}	buxXi{swrI}{2;eka}	karma,7	buxXi_ko	inwelligence				
+7	niveSaya	9	niveSaya	niveSaya	ni_viS1_Nic{karwari;lat;pra;eka;parasmEpaxI;ni_viSaz_Nic;wuxAxiH}	aBihiwakarwA,7.1;sakarmakaH	lagAo	apply				
+7.1	(wvam)	6	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,7	(wuma)	you				
+8	nivasiRyasi	13	nivasiRyasi	nivasiRyasi	ni_vas1{karwari;lqt;ma;eka;parasmEpaxI;ni_vasaz;BvAxiH}	aBihiwakarwA,10.1;sakarmakaH	nivAsa_karoge	live				
+9	mayi	11	mayyeva	asmax{7;eka}	asmax{7;eka}	aXikaraNam,8	muJameM	unwo_Me				
+10	eva	12	0	eva{avya}	eva{avya}	sambanXaH,9	hI	cerwainly				
+10.1	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wuma)	you				
+11	awaH	14	awa	awaH{avya}	awaH{avya}	hewuH,14.1	isake	aqwer				
+12	UrXvam	15	UrXvaM	UrXvam{avya}	UrXvam{avya}	aXikaraNam,14.1	uparAnwa	whaw				
+13	na	17	na	na{avya}	na{avya}	prawiReXaH,14.1	nahIM	never				
+14	saMSayaH	16	saMSayaH	saMSaya{puM}{1;eka}	saMSaya{puM}{1;eka}	karwA,14.1	saMSaya	xoubw				
+14.1	(aswi)	18	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,14;akarmakaH	(hE)	is				

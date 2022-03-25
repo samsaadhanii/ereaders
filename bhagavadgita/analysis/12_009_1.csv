@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aWa	1	aWa	aWa{avya}	aWa{avya}	sambanXaH,5	yaxi	iq_whereqore				
+2	ciwwam	2	ciwwaM	ciwwa{puM}{2;eka}/ciwwa{napuM}{1;eka}/ciwwa{napuM}{2;eka}	ciwwa{napuM}{2;eka}	karma,3	mana_ko	minx				
+3	samAXAwum	5	samAXAwuM	sam_Af_XA1{kqw_prawyayaH:wumun;duXAF;juhowyAxiH}	sam_Af_XA1{kqw_prawyayaH:wumun;sam_Af_duXAF;juhowyAxiH}	sahAyakakriyA,5	sWApana_karane_ke_liye	qiLing				
+4	na	7	na	na{avya}	na{avya}	prawiReXaH,5	nahIM	now				
+5	SaknoRi	8	SaknoRi	Sak1{karwari;lat;ma;eka;parasmEpaxI;SakLz;svAxiH}	Sak1{karwari;lat;ma;eka;parasmEpaxI;SakLz;svAxiH}	aBihiwakarwA,7.1;sakarmakaH	samarWa_ho	able				
+6	mayi	3	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,3	muJameM	upon_Me				
+7	sWiram	4	sWiram	sWira{puM}{2;eka}	sWira{napuM}{2;eka}	karmasamAnAXikaraNam,3	acala	qiLex				
+7.1	(wvam)	6	(wvam)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,5	(wuma)	you				
+8	aByAsa-yogena	11	aByAsayogena	aByAsayoga{puM}{3;eka}	aByAsa-yoga{puM}{3;eka}	karaNam,12	aByAsarUpa_yoga_ke_xvArA	by_pracwice_oq_xevowional_service	<aByAsa-yogena>K6			
+9	wawaH	9	wawo	wawaH{avya}	wawaH{avya}	hewuH,11	wo	whereqore				
+10	mAm	13	mAmicCApwuM	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	me				
+11	icCa	15	0	iR2{karwari;lot;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lot;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	aBihiwakarwA,13.1;sakarmakaH	icCA_kara	xesire				
+12	Apwum	14	0	Ap1{kqw_prawyayaH:wumun;ApLz;svAxiH}	Ap1{kqw_prawyayaH:wumun;ApLz;svAxiH}	karma,11	prApwa_hone_ke_liye	wo_gew				
+13	XanaFjaya	10	XanaFjaya	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,11	he_arjuna	O_Arjuna				
+14	(wvam)	12	(wvam)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wU)	you				

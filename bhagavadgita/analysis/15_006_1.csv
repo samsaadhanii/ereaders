@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	12	na	na{avya}	na{avya}	prawiReXaH,3	na	now				
+2	waw	5	waxBAsayawe	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,3	usako_(svayaM_prakASa_paramapaxa_ko)	whaw				
+3	BAsayawe	14	0	BAs1_Nic{karwari;lat;pra;eka;AwmanepaxI;BAsqz;BvAxiH}	BAs1_Nic{karwari;lat;pra;eka;AwmanepaxI;BAsqz_Nic;BvAxiH}	aBihiwakarwA,4;sakarmakaH	prakASiwa_kara_sakawA_hE	illuminawes				
+4	sUryaH	13	sUryo	sUrI{swrI}{1;bahu}/sUrya{puM}{1;eka}	sUrya{puM}{1;eka}	karwA,3	sUrya	whe_sun				
+5	na	15	na	na{avya}	na{avya}	prawiReXaH,6	na	nor				
+6	SaSAfkaH	16	SaSAfko	SaSAfka{puM}{1;eka}	SaSAfka{puM}{1;eka}	viSeRaNam,4	canxramA	whe_moon				
+7	na	18	na	na{avya}	na{avya}	prawiReXaH,8	na	nor				
+8	pAvakaH	19	pAvakaH	pAvaka{puM}{1;eka}	pAvaka{puM}{1;eka}	viSeeRaNam,4	agni	qire_elecwriciwy				
+9	yaw	1	yaxgawvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,10;niwyasambanXaH,13	jisako_(paramapaxa_ko)	there				
+10	gawvA	2	0	gam1{kwvA;gamLz;BvAxiH}	gam1{kqw_prawyayaH:kwvA;gamLz;BvAxiH}	pUrvakAlaH,12	prApwa_hokara	going				
+11	na	3	na	na{avya}	na{avya}	prawiReXaH,12	nahIM	never				
+12	nivarwanwe	4	nivarwanwe	ni_vqw1{karwari;lat;pra;bahu;AwmanepaxI;ni_vqwuz;BvAxiH}	ni_vqw1{karwari;lat;pra;bahu;AwmanepaxI;ni_vqwuz;BvAxiH}		lOtakara_Awe	comes_back				
+13	waw	10	waxXAma	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,14	usa	whaw				
+14	XAma	8	0	XAman{napuM}{1;eka}/XAman{napuM}{2;eka}	XAman{napuM}{1;eka}	karwA,16.1	XAma	aboxe				
+15	paramam	7	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{1;eka}	viSeRaNam,14	parama	supreme				
+16	mama	6	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,15	merA	my				
+16.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,14;akarmakaH	(hE)	is				

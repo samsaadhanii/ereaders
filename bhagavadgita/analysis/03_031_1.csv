@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ye	1	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,7;niwyasambanXaH,11	jo	whose				
+2	me	5	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,3	mere	my				
+3	mawam	7	mawamixaM	mawa{puM}{2;eka}/mawa{napuM}{1;eka}/mawa{napuM}{2;eka}	mawa{napuM}{2;eka}	karma,6	mawa_kA	injuncwions				
+4	ixam	6	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,3	isa	whis				
+5	niwyam	8	niwyamanuwiRTanwi	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{2;eka}	kriyAviSeRaNam,6	saxA	ewernal_quncwion				
+6	anuwiRTanwi	9	0	anu_sWA1{karwari;lat;pra;bahu;parasmEpaxI;RTA;BvAxiH}	anu_sWA1{karwari;lat;pra;bahu;parasmEpaxI;anu_RTA;BvAxiH}	aBihiwa_karwA,7;sakarmakaH	anusaraNa_karawe_hEM	eLecuwe_regularly				
+7	mAnavAH	4	mAnavAH	mAnava{puM}{1;bahu}/mAnava{puM}{8;bahu}	mAnava{puM}{1;bahu}	karwA,6	manuRya	humankinx				
+8	SraxXAvanwaH	3	SraxXAvanwoZnasUyanwo	SraxXAvaw{puM}{1;bahu}/SraxXAvaw{puM}{8;bahu}	SraxXAvaw{puM}{1;bahu}	viSeRaNam,7	SraxXAyukwa	tiwh_qaiwh_anx_xevowion				
+9	an-asUyanwaH	2	0	an-{avya}-asUyanwaH	na-asUya1{kqw_prawyayaH:Sawq;asUya1;nAmaXAwu;puM}{1;bahu}	viSeRaNam,7	xoRaxqRti_se_rahiwa	tiwhouw_envy	<na-asUyanwaH>Bsmn			
+10	mucyanwe	13	mucyanwe	muc1{karmaNi;lat;pra;bahu;AwmanepaxI;mucLz;wuxAxiH}	muc1{karwari;lat;pra;bahu;AwmanepaxI;mucLz;wuxAxiH}	aBihiwa_karma,11;sakarmakaH	CUta_jAwe_hEM	become_qree				
+11	we	10	weZpi	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	karwA,10	ve	all_oq_whem				
+12	api	11	0	api{avya}	api{avya}	sambanXaH,11	BI	even				
+13	karmaBiH	12	karmaBiH	karman{napuM}{3;bahu}	karman{napuM}{3;bahu}	karwA,10	sampUrNa_karmoM_se	qrom_whe_bonxage_oq_whe_lat_oq_qruiwive_acwion				

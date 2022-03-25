@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	paraH	4	paraswasmAwwu	para{puM}{1;eka}/para{puM}{1;eka}	para{puM}{1;eka}	viSeRaNam,4	pare	wranscenxenwal				
+2	wasmAw	1	0	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	viSeRaNam,7	usa	qrom_whaw				
+3	wu	3	0	wu{avya}	wu{avya}	sambanXaH,2	paraMwu	buw				
+4	BAvaH	9	BAvoZnyoZvyakwoZvyakwAwsanAwanaH	BAva{puM}{1;eka}/BA1{karwari;lat;u;xvi;parasmEpaxI;BA;axAxiH}	BAva{puM}{1;eka}	karwA,9.1	BAva	nawure				
+5	anyaH	5	0	anya{puM}{1;eka}	anya{puM}{1;eka}	viSeRaNam,4	xUsarA_(arWAw_vilakRaNa)	anowher				
+6	a-vyakwaH	8	0	avyakwa{puM}{1;eka}	avyakwa{puM}{1;eka}	viSeRaNam,4	avyakwa	unmaniqesw	<na-vyakwaH>Wn			
+7	a-vyakwAw	2	0	avyakwa{puM}{5;eka}	avyakwa{puM}{5;eka}	apAxAnam,9.1	avyakwa_se	qrom_whe_unmaniqesw	<na-vyakwAw>Wn			
+8	sanAwanaH	7	0	sanAwana{puM}{1;eka}	sanAwana{puM}{1;eka}	viSeRaNam,4	sanAwana	ewernal				
+9	yaH	6	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,4	jo	whaw				
+9.1	(aswi)	9.1	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,4	(hE)	is				
+10	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,15	vaha_(parama_xivya_puruRa)	thich				
+11	sarveRu	11	sarveRu	sarva{puM}{7;bahu}/sarva{napuM}{7;bahu}	sarva{puM}{7;bahu}	viSeRaNam,12	saba	all				
+12	BUweRu	12	BUweRu	BUwa{puM}{7;bahu}/BUwa{napuM}{7;bahu}	BUwa{puM}{7;bahu}	karma,13	BUwoM_ke	maniqeswawion				
+13	naSyawsu	13	naSyawsu	naSyaw{puM}{7;bahu}/naSyaw{napuM}{7;bahu}	naS1{kqw_prawyayaH:Sawq;NaSaz;xivAxiH;puM}{7;bahu}	samAnakAlaH,15	naRta_honepara	being_annihilawex				
+14	na	14	na	na{avya}	na{avya}	prawiReXaH,15	nahIM	never				
+15	vinaSyawi	15	vinaSyawi	vinaSyawi	vi_naS1{karwari;lat;pra;eka;parasmEpaxI;vi_NaSaz;xivAxiH}	aBihiwa_karwA,10	naRta_howA	annihilawex				

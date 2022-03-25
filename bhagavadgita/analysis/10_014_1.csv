@@ -1,0 +1,21 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sarvam	7	sarvamewaxqwaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{2;eka}	karma,4	sabako	all				
+2	ewaw	6	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,1	isa	whese				
+3	qwam	8	0	qwa{puM}{2;eka}/qwa{napuM}{1;eka}/qwa{napuM}{2;eka}	qwa{napuM}{2;eka}	karmasamAnAXikaraNam,4	sawya	wruwhs				
+4	manye	9	manye	man1{karmaNi;lat;u;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;u;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;u;eka;AwmanepaxI;manaz;xivAxiH}	aBihiwa_karwA,4.1;sakarmakaH	mAnawA_hUz	accepw				
+4.1	(aham)	5	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,4	(mEM)	I				
+5	yaw	2	yanmAM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,7;niwyasambanXaH,1	jo	thich				
+6	mAm	3	0	asmax{2;eka}	asmax{2;eka}	karmasamAnAXikaraNam,7	mere_prawi	unwo_me				
+7	vaxasi	4	vaxasi	vax1{karwari;lat;ma;eka;parasmEpaxI;vaxaz;BvAxiH}	vax1{karwari;lat;ma;eka;parasmEpaxI;vaxaz;BvAxiH}	aBihiwa_karwA,8.1;sakarmakaH	Apa_kahawe_hEM	well				
+8	keSava	1	keSava	keSava{puM}{8;eka}	keSava{puM}{8;eka}	samboXyaH,7	he_keSava	O_Krsna				
+8.1	(wvam)	5	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,7	(mEM)	I				
+9	na	16	na	na{avya}	na{avya}	prawiReXaH,14	na	nor				
+10	hi	18	hi	hi{avya}	hi{avya}	sambanXaH,15	hI	cerwainly				
+11	we	11	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,13	Apake	Four				
+12	Bagavan	10	BagavanvyakwiM	Bagavaw{puM}{8;eka}	Bagavaw{puM}{8;eka}	samboXyaH,14	he_Bagavan	O_Personaliwy_oq_Goxheax				
+13	vyakwim	12	0	vyakwi{swrI}{2;eka}	vyakwi{swrI}{2;eka}	karma,14	lIlAmaya_svarUpa_ko	revelawion				
+14	vixuH	19	vixurxevA	vixu{puM}{1;eka}/vixus{napuM}{1;eka}/vixus{napuM}{2;eka}/vixus{napuM}{8;eka}/vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,15	jAnawe_hEM	can_knot				
+15	xevAH	17	0	xeva{puM}{1;bahu}/xeva{puM}{8;bahu}	xeva{puM}{1;bahu}	karwA,14	xevawA	whe_xemigoxs				
+16	na	13	na	na{avya}	na{avya}	prawiReXaH,17.1	na	never				
+17	xAnavAH	14	xAnavAH	xAnava{puM}{1;bahu}/xAnava{puM}{8;bahu}	xAnava{puM}{1;bahu}	karwA,17.1	xAnava	whe_xemons				
+17.1	(vixuH)	19	(vixurxevA)	vixu{puM}{1;eka}/vixus{napuM}{1;eka}/vixus{napuM}{2;eka}/vixus{napuM}{8;eka}/vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,17;sakarmakaH	jAnawe_hEM	can_knot				

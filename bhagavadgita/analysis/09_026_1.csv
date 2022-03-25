@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	pawram	4	pawraM	pawra{napuM}{1;eka}/pawra{napuM}{2;eka}	pawra{napuM}{2;eka}	karmasamAnAXikaraNam,8	pawra	a_leaq				
+2	puRpam	5	puRpaM	puRpa{napuM}{1;eka}/puRpa{napuM}{2;eka}	puRpa{napuM}{2;eka}	sup_samucciwam,1	puRpa	a_qloter				
+3	Palam	6	PalaM	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	sup_samucciwam,1	Pala	a_qruiw				
+4	woyam	8	woyaM	woya{napuM}{1;eka}/woya{napuM}{2;eka}	woya{napuM}{2;eka}	karma,8	jala_Axi	tawer				
+5	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,8	jo_(koI_Bakwa)	thoever				
+6	me	2	me	asmax{6;eka}	asmax{4;eka}	sampraxAnam,8	mere_liye	unwo_Me				
+7	BakwyA	3	BakwyA	Bakwi{swrI}{3;eka}	Bakwi{swrI}{3;eka}	karaNam,8	prema_se (BakwipUrvaka)	tiwh_xevowion				
+8	prayacCawi	9	prayacCawi	prayacCawi	pra_yam2{karwari;lat;pra;eka;parasmEpaxI;pra_yamaz;BvAxiH}	aBihiwa_karwA,5;sakarmakaH	arpaNa_karawA_hE	oqqers				
+8.1	(ca)	7	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,1	(Ora)	anx				
+9	waw	12	waxahaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,12	vaha_(pawra-puRpAxi)	whaw				
+10	aham	13	0	asmax{1;eka}	asmax{1;eka}	karwA,12	mEM	I				
+11	Bakwi-upahqwam	11	BakwyupahqwamaSnAmi	Bakwi-upahqwam	Bakwi-upa_hq1{kqw_prawyayaH:kwa;upa_hqF;BvAxiH;napuM}{2;eka}	viSeRaNam,9	premapUrvaka_arpaNa_kiyA_huA	oqqerex_in_xevowion	<Bakwi-upahqwam>W3			
+12	aSnAmi	14	0	aS2{karwari;lat;u;eka;parasmEpaxI;aSaz;kryAxiH}	aS2{karwari;lat;u;eka;parasmEpaxI;aSaz;kryAxiH}	aBihiwa_karwA,10;sakarmakaH	svIkAra_ karawA_hUz 	accepw				
+13	prayawa-AwmanaH	10	prayawAwmanaH	prayawa-Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	prayawa-Awman{puM}{6;eka}	RaRTIsambanXaH,9	(usa)_SuxXa_buxXi_niRkAma_premI_Bakwa_kA	oq_one_in_pure_consciousness	<prayawa-AwmanaH>Bs6			

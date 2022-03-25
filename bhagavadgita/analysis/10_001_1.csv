@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	BUyaH	2	BUya	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}	BUyaH{avya}	kriyAviSeRaNam,4	Pira	again				
+2	eva	3	eva	eva{avya}	eva{avya}	sambanXaH,1	BI	cerwainly				
+3	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,4	he_mahAbAho	O_mighwy-armex	<mahaw-bAho>Bs6			
+4	SqNu	7	SruNu	SruNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwa_karwA,5;sakarmakaH 	suna	jusw_hear				
+5	me	4	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,7	mere	my				
+6	paramam	5	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{2;eka}	viSeRaNam,7	parama_(rahasya_Ora_praBAvayukwa)	supreme				
+7	vacaH	6	vacaH	vaca{puM}{1;eka}/vacas{napuM}{1;eka}/vacas{napuM}{2;eka}	vacas{napuM}{2;eka}	karma,4	vacana_ko	inqormawion				
+8	yaw	8	yawweZhaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,12	jise	whaw_thich				
+9	we	11	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,12	wuJako	wo_you				
+10	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,12	mEM	I				
+11	prIyamANAya	10	prIyamANAya	prIyamANa{puM}{4;eka}/prIyamANa{napuM}{4;eka}	prIyamANa{puM}{4;eka}	viSeRaNam,9	awiSaya_prema_raKanevAle_ke_liye	whinking_you_xear_wo_Me				
+12	vakRyAmi	13	vakRyAmi	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}/vah1{karwari;lqt;u;eka;parasmEpaxI;vahaz;BvAxiH}/brU1{karwari;lqt;u;eka;parasmEpaxI;brUF;axAxiH}	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}	aBihiwa_karwA,10;sakarmakaH 	kahUzgA	say				
+13	hiwa-kAmyayA	12	hiwakAmyayA	hiwa-kAmyA{swrI}{3;eka}	hiwa-kAmyA{swrI}{3;eka}	hewuH,12	hiwa_kI_icCA_se	qor_your_beneqiw	<hiwa-kAmyayA>W6			

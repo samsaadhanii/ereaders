@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	api	7	api	api/api{avya}	api{avya}	sambanXaH,4	BI	even				
+2	cew	6	cexasi	cew{avya}	cew{avya}	sambanXaH,3	yaxi	iq				
+3	asi	5		as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,6.1	ho	are				
+4	pApeByaH	3	pApeByaH	pApa{puM}{4;bahu}/pApa{puM}{5;bahu}/pApa{napuM}{4;bahu}/pApa{napuM}{5;bahu}	pApa{napuM}{5;bahu}	apAxAnam,3	pApiyoM_se	oq_sinners				
+5	sarveByaH	2	sarveByaH	sarva{puM}{4;bahu}/sarva{puM}{5;bahu}/sarva{napuM}{4;bahu}/sarva{napuM}{5;bahu}	sarva{puM}{5;bahu}	viSeRaNam,4	saba	oq_all				
+6	pApa-kqwwamaH	4	pApakqwwamaH	pApakqwwama{puM}{1;eka}	pApa-kqwwama{puM}{1;eka}	karwqsamAnAXikaraNam,3	aXika_pApa_karanevAle	whe_greawesw_sinner	<pApa-kqwwamaH>U			
+6.1	(wvam)	1	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,3	(wuma)	you				
+7	sarvam	11	sarvaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{2;eka}	viSeRaNam,10	sampUrNa	all_such_sinqul_acwions				
+8	jFAna-plavena	9	jFAnaplavenEva	jFAna-plava{napuM}{3;eka}	jFAnaplavana{puM}{3;eka}	karaNam,11	jFAnarUpa_nOkA_xvArA	by_whe_boaw_oq_wranscenxenwal_knotlexge	<jFAna-plavena>K6			
+9	eva	10		eva{avya}	eva{avya}	sambanXaH,8	niHsanxeha	cerwainly				
+10	vqjinam	12	vqjinaM	vqjina{puM}{2;eka}/vqjina{napuM}{1;eka}/vqjina{napuM}{2;eka}	vqjina{napuM}{2;eka}	karma,11	pApa-samuxra_se	whe_ocean_oq_miseries				
+11	sanwariRyasi	13	sanwariRyasi	sam_wQ1{karwari;lqt;ma;eka;parasmEpaxI;wQ;BvAxiH}	sam_wQ1{karwari;lqt;ma;eka;parasmEpaxI;sam_wQ;BvAxiH}	aBihiwakarwA,11.1	BalIBAzwi_wara_jAoge	till_cross_complewely				
+11.1	(wvam)	8	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wuma)	you				

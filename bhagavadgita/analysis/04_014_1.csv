@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	8	na	na{avya}	na{avya}	prawiReXaH,4	nahIM	nor				
+2	mAm	6	mAM	asmax{2;eka}	asmax{2;eka}	karma,4	muJe	unwo_Me				
+3	karmANi	7	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	karman{napuM}{1;bahu}	 karwA,4	karma	all_kinxs_oq_tork				
+4	limpanwi	9	limpanwi	limpaw{napuM}{1;bahu}/limpaw{napuM}{2;bahu}/limpaw{napuM}{8;bahu}/lip1{karwari;lat;pra;bahu;parasmEpaxI;lipaz;wuxAxiH}	lip1{karwari;lat;pra;bahu;parasmEpaxI;lipaz;wuxAxiH}	aBihiwa_ karwA,4	lipwa_karawe_hEM	xo_aqqecw				
+5	na	4	na	na{avya}	na{avya}	prawiReXaH,8.1	nahIM	never				
+6	me	2	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,8	merI	my				
+7	karma-Pale	1	karmaPale	karman-Pala{napuM}{1;xvi}/Pala{napuM}{2;xvi}/Pala{napuM}{7;eka}/Pala{napuM}{8;xvi}	karman-Pala{napuM}{7;eka}	aXikaraNam,8.1	karmoM_ke_Pala_meM	in_qruiwive_acwion	<karma-Pale>W6			
+8	spqhA	3	spqhA	spqhA{swrI}{1;eka}	spqhA{swrI}{1;eka}	karwA,8.1	spqhA	aspirawion				
+8.1	(aswi)	5	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		aBihiwa_ karwA,8	(hE)	is				
+9	iwi	10	iwi	iwi{avya}	iwi{avya}	karmaxyowakaH,8.1	isa_prakAra	whus				
+10	mAm	12	mAM	asmax{2;eka}	asmax{2;eka}	karma,12	muJe	unwo_Me				
+11	yaH	11	yoZBijAnAwi	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,12; niwyasambanXaH,15	jo	one_tho				
+12	aBijAnAwi	13		aBi_jFA2{karwari;lat;pra;eka;parasmEpaxI;jFA;kryAxiH}	aBi_jFA2{karwari;lat;pra;eka;parasmEpaxI;aBi_jFA;kryAxiH}	aBihiwa_ karwA,12	wawwva_se_jAna_lewA_hE	xoes_knot				
+13	karmaBiH	15	karmaBirna	karman{napuM}{3;bahu}	karman{napuM}{3;bahu}	karwA,16	karmoM_se	by_whe_reacwion_oq_such_tork				
+14	na	16		na{avya}	na{avya}	prawiReXaH,16	nahIM	never_xoes				
+15	saH	14	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,16	vaha	he				
+16	baXyawe	17	baXyawe	banX1{karmaNi;lat;pra;eka;AwmanepaxI;banXaz;kryAxiH}	banX1{karwari;lat;pra;eka;AwmanepaxI;banXaz;kryAxiH}	aBihiwa_ karma,15	bazXawA	becomes_enwanglex				

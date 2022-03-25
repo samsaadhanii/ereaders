@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaxi	1	yaxi	yaxi{avya}	yaxi{avya}	sambanXaH,8;niwyasambanXaH,12.1	yaxi	iq				
+2	mAm	2	mAmaprawIkAramaSaswraM	asmax{2;eka}	asmax{2;eka}	viSeRaNam,3	muJa	unwo_me				
+3	a-prawIkAram	4	0	a-prawIkAra{puM}{2;eka}	na-prawIkAra{puM}{2;eka}	karma,8	sAmanA_na_karanevAle_ko	unresiswing	<na-prawIkAram>Bsmn			
+4	a-Saswram	3	0	a-Saswra{puM}{2;eka}/Saswra{napuM}{1;eka}/Saswra{napuM}{2;eka}	na-Saswra{puM}{2;eka}	viSeRaNam,3	Saswrarahiwa	unarmex	<na-SaswraM>Bsmn			
+5	Saswra-pANayaH	5	SaswrapANayaH	Saswra-pANi{puM}{1;bahu}	Saswra-pANi{puM}{1;bahu}	viSeRaNam,6	Saswra_hAWa_meM_liye_hue	armex_tiwh_teapons	<Saswra-pANayaH>Bv			
+6	XArwarARtrAH	6	XArwarARtrA	XArwarARtra{puM}{1;bahu}	XArwarARtra{puM}{1;bahu}	karwA,8	XqwarARtra_ke_puwra	whe_sons_oq_Xhrwaraswra				
+7	raNe	7	raNe	raNa{puM}{7;eka}/raNa{napuM}{1;xvi}/raNa{napuM}{2;xvi}/raNa{napuM}{7;eka}	raNa{napuM}{7;eka}	aXikaraNam,8	raNa_meM	in_bawwle				
+8	hanyuH	8	hanyuswanme	han1{karwari;viXilif;pra;bahu;parasmEpaxI;hanaz;axAxiH}	han1{karwari;viXilif;pra;bahu;parasmEpaxI;hanaz;axAxiH}	aBihiwakarwA,6	mAra_dAleM	kill				
+9	waw	10	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,12	vaha	whaw				
+10	me	11	0	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,11	mere_liye	qor_me				
+11	kRemawaram	12	kRemawaraM	kRemawara{puM}{2;eka}/kRemawara{napuM}{1;eka}/kRemawara{napuM}{2;eka}	kRemawara{napuM}{1;eka}	karwqsamAnAXikaraNam,12	aXika_kalyANa-kAraka	bewwer				
+12	Bavew	13	Bavew	BU1{karwari;viXilif;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;viXilif;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,9	hogA	toulx_be				
+12.1	(warhi)	9	(0)	(warhi{avya})	(warhi{avya})	sambanXaH,12	(wo)	when				

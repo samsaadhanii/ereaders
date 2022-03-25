@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	a-saMSayam	2	asaMSayaM	a-saMSaya{puM}{2;eka}	asaMSaya{puM}{2;eka}	kriyAviSeRaNam,5.2	niHsanxeha	unxoubwexly	<na-saMSayaM>Wn			
+2	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,5.2	he_mahAbAho	O_mighwy-armex_one	<mahaw-bAho>Bs6			
+3	manaH	3	mano	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	karwA,5.2	mana	minx				
+4	xur-nigraham	4	xurnigrahaM	xur-nigraha{puM}{2;eka}	xur-nigraha{puM}{1;eka}	sup_samucciwam,5	caMcala	xiqqiculw_wo_curb				
+5	calam	5	calam	cala{puM}{2;eka}/cala{napuM}{1;eka}/cala{napuM}{2;eka}	cala{napuM}{1;eka}	karwqsamAnAXikaraNam,5.2	kaTinawA_se_vaSa_meM_honevAlA	qlickering				
+5.1	(ca)		()	ca{avya}	ca{avya}	samuccayaxyowakaH,5						
+5.2	(Bavawi)		()			aBihiwa_karwA,3						
+6	aByAsena	7	aByAsena	aByAsa{puM}{3;eka}	aByAsa{puM}{3;eka}	sup_samucciwam,9	aByAsa_se	by_pracwice				
+7	wu	8	wu	wu{avya}	wu{avya}	sambanXaH,11	paraMwu	buw				
+8	kOnweya	6	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,11	he_kunwIpuwra_arjuna	O_son_oq_Kunwi				
+9	vErAgyeNa	9	vErAgyeNa	vErAgya{napuM}{3;eka}	vErAgya{napuM}{3;eka}	karaNam,11	vErAgya_se	by_xewachmenw				
+10	ca	10	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,9	Ora	also				
+10.1	(manaH)	11	()	manas{napuM}{1;eka}/{2;eka}	manas{napuM}{2;eka}	karma,11						
+11	gqhyawe	12	gqhyawe	gqhyawA{swrI}{1;xvi}/gqhyawA{swrI}{2;xvi}/gqhyawA{swrI}{8;eka}/gqhyawA{swrI}{8;xvi}/gqh1{karmaNi;lat;pra;eka;AwmanepaxI;gqhUz;BvAxiH}/gqha1{karmaNi;lat;pra;eka;AwmanepaxI;gqha;curAxiH}/grah1{karmaNi;lat;pra;eka;AwmanepaxI;grahaz;kryAxiH}	grah1{karwari;lat;pra;eka;AwmanepaxI;grahaz;kryAxiH}	aBihiwa_karma,10.1	vaSa_meM_howA_hE	can_be_so_conwrollex				

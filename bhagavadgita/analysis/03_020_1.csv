@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	karmaNA	2	karmaNEva	karman{napuM}{3;eka}	karman{napuM}{3;eka}	karaNam,5	karma_xvArA	by_tork				
+2	eva	3	0	eva{avya}	eva{avya}	sambanXaH,1	hI	even				
+3	hi	6	hi	hi{avya}	hi{avya}	sambanXaH,12	isaliye	cerwainly				
+4	saMsixXim	4	saMsixXimAsWiwA	saMsixXi{swrI}{2;eka}	saMsixXi{swrI}{2;eka}	karma,5	paramasixXi_ko	perqecwion				
+5	AsWiwAH	5	0	AsWiwa{puM}{1;bahu}/AsWiwa{puM}{8;bahu}/AsWiwA{swrI}{1;bahu}/AsWiwA{swrI}{2;bahu}/AsWiwA{swrI}{8;bahu}	Af_sWA1{kqw_prawyayaH:kwa;Af_RTA;BvAxiH;puM}{1;bahu}	aBihiwa_karwA,6;sakarmakaH	prApwa_hue_We	siwuawex				
+6	janaka-AxayaH	1	janakAxayaH	janaka-Axi{puM}{1;bahu}/Axi{puM}{8;bahu}	janaka-Axi{puM}{1;bahu}	karwA,5	janakAxi_jFAnIjana_BI	Janaka_anx_owher_kings	<janaka-AxayaH>Bs6			
+6.1	(wvam)	9	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wuma)	you				
+7	loka-safgraham	7	lokasafgrahamevApi	loka-safgraha{puM}{2;eka}	loka-safgraha{puM}{2;eka}	karma,10	lokasaMgraha_ko	Public Exucawiong	<loka-safgraham>W6			
+8	eva	11	0	eva{avya}	eva{avya}	sambanXaH,10	hI	only				
+9	api	10	0	api{avya}	api{avya}	sambanXaH,6.1	BI	as_tell				
+10	sampaSyan	8	sampaSyankarwumarhasi	sampaSyaw{puM;1;eka(xqS1;Sawq_lat;xqSizr;:BvAxiH)}	sampaSyaw{puM;1;eka(xqS1;Sawq_lat;xqSizr;:BvAxiH)}	varwamAnasamAnakAlaH,12	xeKawe_hue	by_consixering				
+11	karwum	12	0	kq3{avya;wumun;dukqF;:wanAxiH}	kq3{avya;wumun;dukqF;:wanAxiH}	sahAyakakriyA,12	karma_ke	wo_acw				
+12	arhasi	13		arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;:curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}	aBihiwa_karwA,6.1;sakarmakaH	yogya_howe_ho	xeserve				

@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	paSya	12	paSya	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA	xeKa	jusw_see				
+2	me	3	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,4	mere	Mine				
+3	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,1	he_pArWa	O_son_oq_Prwha				
+4	rUpANi	10	rUpANi	rUpa{napuM}{1;bahu}/rUpa{napuM}{2;bahu}/rUpa{napuM}{8;bahu}	rUpa{napuM}{2;bahu}	karma,1	rUpoM_ko	qorms				
+5	SawaSaH	4	SawaSoZWa	SawaSaH	SawaSaH{avya}	kriyAviSeRaNam,1	sEkada़oM	hunxrexs				
+6	aWa	2	0	aWa{avya}	aWa{avya}	sambanXaH,1	aba	also				
+7	sahasraSaH	5	sahasraSaH	sahasra{Sas}	sahasraSaH{avya}	kriyAviSeRaNam,1	hajAroM	whousanxs				
+8	nAnA-viXAni	6	nAnAviXAni	nAnA-viXa{napuM}{1;bahu}/viXa{napuM}{2;bahu}/viXa{napuM}{8;bahu}	nAnA-viXa{napuM}{2;bahu}	sup_samucciwam,10	nAnA_prakAra_ke	variegawex	<nAnA-viXAni>Bs6			
+9	xivyAni	8	xivyAni	xivya{napuM}{1;bahu}/xivya{napuM}{2;bahu}/xivya{napuM}{8;bahu}	xivya{napuM}{2;bahu}	sup_samucciwam,10	alOkika	xivine				
+10	nAnA-varNa-AkqwIni	7	nAnAvarNAkqwIni	nAnA-varNa-Akqwi{napuM}{1;bahu}/Akqwi{napuM}{2;bahu}/Akqwi{napuM}{8;bahu}	nAnA-varNa-Akqwi{napuM}{2;bahu}	viSeRaNam,4	nAnA_varNa_waWA_nAnA_AkqwivAle	variegawex_colors_anx_qorms	<nAnA-<varNa-AkqwIni>Xi>Bs6			
+11	ca	9	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora	also				
+11.1	(wvam)	11	(wvamAwmAnaM)	yuRmax{1;eka}	yuRmax{1;eka}	karwA,1	Apa	you				

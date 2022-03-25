@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	jyAyasI	4	jyAyasI	jyAyas{napuM}{1;xvi}/jyAyas{napuM}{2;xvi}/jyAyas{napuM}{8;xvi}/jyAyasI{swrI}{1;eka}	jyAyasI{swrI}{1;eka}	karwqsamAnAXikaraNam,5.1	SreRTa	superior				
+2	cew	10	cewkarmaNaswe	cew{avya}	cew{avya}	niwya_sambanXaH,8	yaxi	iq				
+3	karmaNaH	2		karman{napuM}{5;eka}/karman{napuM}{6;eka}	karman{napuM}{5;eka}	wulanA_binxuH,6	karma_kI_apekRA	whan_acwion				
+4	we	7		wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,5	Apako	your				
+5	mawA	8	mawA	mawA{swrI}{1;eka}/mawA{swrI}{1;eka}	man1{kqw_prawyayaH:kwa;manaz;xivAxiH;swrI}{1;eka}	karwA,5.1	mAnya	consixerawion				
+5.1	(Bavawi)	9	()	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}/BavawI{swrI;8;eka}/Bavaw{sarvanAma;puM;7;eka}/Bavaw{puM;7;eka}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}	prawiyogI,2	howI_hE	is where				
+6	buxXiH	3	buxXirjanArxana	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,5.1	jFAna	Knotlexge				
+7	janArxana	1		janArxana{puM}{8;eka}	janArxana{puM}{8;eka}	samboXyaH,5.1	he_janArxana	O_Krsna				
+8	waw	12	wawkiM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	anuyogI,13	wo	when				
+9	kim	17		kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{2;eka}	prayojanam,13	kyoM	thy				
+10	karmaNi	14	karmaNi	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,13	karma_meM	acwion				
+11	Gore	13	Gore	Gora{puM}{7;eka}/Gora{napuM}{1;xvi}/Gora{napuM}{2;xvi}/Gora{napuM}{7;eka}/Gora{napuM}{8;xvi}/GorA{swrI}{1;xvi}/GorA{swrI}{2;xvi}/GorA{swrI}{8;eka}/GorA{swrI}{8;xvi}	Gora{napuM}{7;eka}	viSeRaNam,10	BayaMkara	(in)xreaxqul				
+12	mAm	16	mAM	asmax{2;eka}	asmax{2;eka}	prayojyakarwA,13	muJe	me				
+13	niyojayasi	18	niyojayasi	ni_yuj1{karwari;lat;ma;eka;parasmEpaxI;yujaz;curAxiH}/yuj3{karwari;lat;ma;eka;parasmEpaxI;yujaz;curAxiH}	ni-yuj2{Nijanwa;karwari;lat;ma;eka;parasmEpaxI;yujaz;curAxiH}	aBihiwa_karwA,14.1	lagAwe_hEM	assign				
+14	keSava	11	keSava	keSava{puM}{8;eka}	keSava{puM}{8;eka}	samboXyaH,13	he_keSava	O_Keshava				
+14.1	(wvam)	15	()	yuRmax{sarvanAma;1;eka}	yuRmax{1;eka}	prayojakakarwA,13	wuma	(xo) you				

@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaw	2	yawwu	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,10.1;niwyasambanXaH,11	jo	whaw				
+2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,8	kiMwu	buw				
+3	prawyupakAra-arWam	6	prawyupakArArWaM	prawyupakAra{arWam}	prawi-upakAra{napuM}{1;eka}	prayojanam,8	prawyupakAra_ke_prayojana_se	qor_whe_sake_oq_gewwing_some_rewurn	<prawyupakAra-arWam>W4			
+4	Palam	8	PalamuxxiSya	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karma,5	Pala_ko	resulw				
+5	uxxiSya	9	0	uxxiSya{avya}/ux_xiS1{kqw_prawyayaH:lyap;xiSaz;wuxAxiH}	ux_xiS1{kqw_prawyayaH:lyap;ux_xiSaz;wuxAxiH}	pUrvakAlaH,8;anyawaraH,3	xqRti_meM_raKakara	xesiring				
+6	vA	7	vA	vA{avya}	vA{avya}	anyawaraxyowakaH,3	aWavA	or				
+7	punaH	10	punaH	punaH{avya}	punaH{avya}	kriyAviSeRaNam,8	Pira	again				
+8	xIyawe	11	xIyawe	xI1{karwari;lat;pra;eka;AwmanepaxI;xIf;xivAxiH}/xI1{BAve;lat;pra;eka;AwmanepaxI;xIf;xivAxiH}/xA1{karmaNi;lat;pra;eka;AwmanepaxI;xAN;BvAxiH}/xA3{karmaNi;lat;pra;eka;AwmanepaxI;duxAF;juhowyAxiH}/xe1{karmaNi;lat;pra;eka;AwmanepaxI;xef;BvAxiH}/xo1{karmaNi;lat;pra;eka;AwmanepaxI;xo;xivAxiH}	xA3{karmaNi;lat;pra;eka;AwmanepaxI;duxAF;juhowyAxiH}	aBihiwakarma,10.1;sakarmakaH	xiyA_jAwA_hE	is_given_in_chariwy				
+9	ca	5	ca	ca{avya}	ca{avya}	sambanXaH,8	waWA	also				
+10	parikliRtam	4	parikliRtaM	parikliRta{puM}{2;eka}	pari_kliS2{kqw_prawyayaH:kwa;pari_kliSUz;kryAxiH;puM}{2;eka}	kriyAviSeRaNam,8	kleSapUrvaka	gruxgingly				
+10.1	(xAnam)	3	(0)	(xAna{napuM}{1;eka}/xAna{napuM}{2;eka})	(xAna{napuM}{2;eka})	karma,8	(xAna)	chariwy				
+11	waw	12	waxxAnaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,12	vaha	whaw				
+12	xAnam	13	0	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{2;eka}	karma,14	xAna	chariwy				
+13	rAjasam	14	rAjasaM	rAjasa{puM}{2;eka}/rAjasa{napuM}{1;eka}/rAjasa{napuM}{2;eka}	rAjasa{napuM}{2;eka}	karmasamAnAXikaraNam,14	rAjasa	in_whe_moxe_oq_passion				
+14	smqwam	15	smqwam	smqwa{puM}{2;eka}/smqwa{napuM}{1;eka}/smqwa{napuM}{2;eka}	smq1{kqw_prawyayaH:kwa;smq;BvAxiH;napuM}{1;eka}	aBihiwakarma,12;sakarmakaH	kahA_gayA_hE	is_unxerswoox_wo_be				

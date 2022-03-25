@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	AsurIm	8	AsurIM	AsurI{swrI}{2;eka}	AsurI{swrI}{2;eka}	viSeRaNam,2	AsurI	xemoniac				
+2	yonim	9	yonimApannA	yoni{puM}{2;eka}	yoni{puM}{2;eka}	karma,3	yoni_ko	species				
+3	ApannAH	10	0	Apanna{puM}{1;bahu}/Apanna{puM}{8;bahu}/ApannA{swrI}{1;bahu}/ApannA{swrI}{2;bahu}/ApannA{swrI}{8;bahu}	Af_pax1{kqw_prawyayaH:kwa;Af_paxaz;xivAxiH;puM}{1;bahu}	viSeRaNam,4	prApwa_howe_hEM	gaining				
+4	mUDAH	2	mUDA	mUDa{puM}{1;bahu}/mUDa{puM}{8;bahu}/mUDA{swrI}{1;bahu}/mUDA{swrI}{2;bahu}/mUDA{swrI}{8;bahu}	mUDa{puM}{1;bahu}	karwA,12	ve_mUDa	whe_qoolish				
+5	janmani	6	janmani	janman{napuM}{7;eka}	janman{napuM}{7;eka}	vIpsA,6	janma_meM	in_birwh				
+6	janmani	7	janmani	janman{napuM}{7;eka}	janman{napuM}{7;eka}	aXikaraNam,3	janma_meM	aqwer_birwh				
+7	mAm	3	mAprApyEva	asmax{2;eka}	asmax{2;eka}	karma,8	muJako	unwo_Me				
+8	a-prApya	4	0	aprApya{napuM}{8;eka}	na-pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,12	na_prApwa_hokara	tiwhouw_achieving	<na-prApya>Wn			
+9	eva	5	0	eva{avya}	eva{avya}	sambanXaH,8	hI	cerwainly				
+10	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,12	he_arjuna	O_son_oq_Kunwi				
+11	wawaH	11	wawo	wawaH{avya}	wawaH{avya}	apAxAnam,12	usase_BI	whereaqwer				
+12	yAnwi	14	yAnwyaXamAM	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwakarwA,4;sakarmakaH	prApwa_howe_hEM	goes				
+13	aXamAm	12	0	aXamA{swrI}{2;eka}	aXamA{swrI}{2;eka}	viSeRaNam,14	awi_nIca	conxemnex				
+14	gawim	13	gawim	gawi{swrI}{2;eka}	gawi{swrI}{2;eka}	karma,12	gawi_ko	xeswinawion				

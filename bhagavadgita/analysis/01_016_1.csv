@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ananwavijayaM	4	ananwavijayaM	ananwavijayaM pu 1 xvi	ananwa-vijaya{puM}{2;eka}	karma,4.1	ananwavijaya_nAmaka	whe_conch_namex_Ananwa-vijaya				
+2	rAjA	2	rAjA	rAjan{puM}{1;eka}	rAjan{puM}{1;eka}	viSeRaNam,4	rAjA	whe_king				
+3	kunwIpuwraH	1	kunwIpuwro	kunwi-puwra{puM}{1;eka}	kunwi-puwra{puM}{1;eka}	aBexaH,4	kunwIpuwra	whe_son_oq_Kunwi	<kunwi-puwraH>W6			
+4	yuXiRTiraH	3	yuXiRTiraH	yuXiRTira{puM}{1;eka}	yuXiRTira{puM}{1;eka}	karwA,4.1	yuXiRTira_ne	Fuxhiswhira				
+4.1	(xaXmO)	4.1	(xaXmO)	XmA1{karwari;lit;u;eka;parasmEpaxI;XmA;BvAxiH}/XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;BvAxiH}	XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;BvAxiH}	aBihiwakarwA,4	bajAyA	blet				
+5	nakulaH	5	nakulaH	nakula{puM}{1;eka}	nakula{puM}{1;eka}	supsamucciwam,6	nakula	fakula				
+6	sahaxevaH	6	sahaxevaSca	sahaxeva{puM}{1;eka}	sahaxeva{puM}{1;eka}	karwA,8.1	sahaxeva_ne	Sahaxeva				
+7	ca	7	0	ca{avya}	ca{avya}	samuccayaxyowakaH,6	waWA	anx				
+8	suGoRa-maNipuRpakO	8	suGoRamaNipuRpakO	suGoRa-maNipuRpaka{puM;1;xvi}/{puM;2;xvi}	suGoRa-maNipuRpaka{puM;2;xvi}	karma,8.1	suGoRa_Ora_maNipuRpaka_nAmaka_SaMKa	whe_conchs_namex_Sughosa_anx_Manipus				
+8.1	(xaXmawuH)	8.1	()	XmA1{karwari;lit;pra;xvi;parasmEpaxI;XmA;BvAxiH}	XmA1{karwari;lit;pra;xvi;parasmEpaxI;XmA;BvAxiH}	aBihiwakarwA,6	bajAyA	blet				

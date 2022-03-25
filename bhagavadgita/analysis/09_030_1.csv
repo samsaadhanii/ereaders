@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	api	4	api	api{avya}	api{avya}	sambanXaH,3	BI	in_spiwe_oq				
+2	cew	1	cewsuxurAcAro	cew{avya}	cew{avya}	sambanXaH,4.1	yaxi 	alwhough				
+3	su-xur-AcAraH	3	0	su-{avya}-xur-AcAra{puM}{1;eka}	su-xurAcAra{puM}{1;eka}	karwA,4	awiSaya_xurAcArI	commiwwing_whe_mosw_abominable_acwions	<su-<xur-AcAraH>Bs6>Wp			
+4	Bajawe	7	Bajawe	Baj1{karwari;lat;pra;eka;AwmanepaxI;Bajaz;BvAxiH}	Baj1{karwari;lat;pra;eka;AwmanepaxI;Bajaz;BvAxiH}	aBihiwa_karwA,3;sakarmakaH	BajawA_hE	engagex_in_xevowional_service				
+4.1	(yaH)	2	(0)	(yax{puM}{1;eka})	(yax{puM}{1;eka})	viSeRaNam,3;niwyasambanXaH,9	(jo)	one_tho				
+5	mAm	5	mAmananyaBAk	asmax{2;eka}	asmax{2;eka}	karma,4	muJako	unwo_Me				
+6	an-anya-BAk	6	0	ananya-BAj{puM}{1;eka}/BAj{puM}{8;eka}/BAj{napuM}{1;eka}/BAj{napuM}{2;eka}/BAj{napuM}{8;eka}	ananya-BAj{puM}{1;eka}	viSeRaNam,3	ananyaBAva_se_merA_Bakwa_hokara	tiwhouw_xeviawion	<na-<anya-BAk>U>Wn			
+7	sAXuH	9	sAXureva	sAXu{puM}{1;eka}	sAXu{puM}{1;eka}	karwqsamAnAXikaraNam,10	sAXu	sainw				
+8	eva	10	0	eva{avya}	eva{avya}	sambanXaH,7	hI	cerwainly				
+9	saH	8	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,10	vaha	he				
+10	manwavyaH	11	manwavyaH	manwavya{puM}{1;eka}	man1{kqw_prawyayaH:wavyaw;manaz;xivAxiH;puM}{1;eka}	aBihiwakarma,9;sakarmakaH	mAnaneyogya_hE	wo_be_consixerex				
+11	samyak	14	samyagvyavasiwo	samyak{avya}	samyak{avya}	kriyAviSeRaNam,10	yaWArWa (bahuwa acCI waraha )	complewely				
+12	vyavasiwaH	15	0	vyavasiwa{puM}{1;eka}	vi_ava_si1{kqw_prawyayaH:kwa;vi_ava_RiF;svAxiH;puM}{1;eka}	karwqsamAnAXikaraNam,14.1	niScayavAlA	siwuawex				
+13	hi	12	hi	hi{avya}	hi{avya}	sambanXaH,12	kyoMki	cerwainly				
+14	saH	13	saH	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,14.1	vaha	he				
+14.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,14;akarmakaH	( howA hE )	is				

@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	anwavanwaH	7	anwavanwa	anwavaw{puM}{1;bahu}/anwavaw{puM}{8;bahu}	anwavaw{puM}{1;bahu}	karmasamAnAXikaraNam,5	nASavAn	perishable				
+2	ime	5	ime	ixam{puM}{1;bahu}/ixam{swrI}{1;xvi}/ixam{swrI}{2;xvi}/ixam{napuM}{1;xvi}/ixam{napuM}{2;xvi}	ixam{puM}{1;bahu}	viSeRaNam,3	ye	all_whese				
+3	xehAH	6	xehA	xeha{puM}{1;bahu}/xeha{puM}{8;bahu}	xeha{puM}{1;bahu}	karma,5	SarIra	boxies				
+4	niwyasya	3	niwyasyokwAH	niwya{puM}{6;eka}/niwya{napuM}{6;eka}	niwya{puM}{6;eka}	viSeRaNam,6	niwyasvarUpa	ewernal				
+5	ukwAH	8	0	ukwa{puM}{1;bahu}/ukwa{puM}{8;bahu}/ukwA{swrI}{1;bahu}/ukwA{swrI}{2;bahu}/ukwA{swrI}{8;bahu}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;puM}{1;bahu}	aBihiwakarma,3;sakarmakaH	kahe_gaye_hEM	spoken_oq_as				
+6	SarIriNaH	4	SarIriNaH	SarIrin{puM}{1;bahu}/SarIrin{puM}{2;bahu}/SarIrin{puM}{5;eka}/SarIrin{puM}{6;eka}/SarIrin{puM}{8;bahu}	SarIrin{puM}{6;eka}	RaRTIsambanXaH,3	jIvAwmA_ke	oq_whe_emboxiex_soul				
+7	a-nASinaH	1	anASinoZprameyasya	a-nASin{puM}{1;bahu}/nASin{puM}{2;bahu}/nASin{puM}{5;eka}/nASin{puM}{6;eka}	a-nASin{puM}{6;eka}	viSeRaNam,6	nASarahiwa	imperishable	<na-nASinaH>Wn			
+8	a-prameyasya	2	0	a-prameya{puM}{6;eka}/prameya{napuM}{6;eka}	a-prameya{puM}{6;eka}	viSeRaNam,6	aprameya	inxeqinable	<na-prameyasya>Wn			
+9	wasmAw	10	wasmAxyuXyasva	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,10	isaliye	whereqore				
+10	yuXyasva	12	0	yuX1{karwari;lot;ma;eka;AwmanepaxI;yuXaz;xivAxiH}/yuX1{BAve;lot;ma;eka;AwmanepaxI;yuXaz;xivAxiH}	yuX1{karwari;lot;ma;eka;AwmanepaxI;yuXaz;xivAxiH}	aBihiwakarwA,11.1;akarmakaH	yuxXa_karo	qighw				
+11	BArawa	9	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,10	he_BarawavaMSI_arjuna	O_xescenxanw_oq_Bharawa				
+11.1	(wvam)	11	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,10	(wuma)	you				

@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	AxiwyAnAm	2	AxiwyAnAmahaM	Axiwya{puM}{6;bahu}	Axiwya{puM}{6;bahu}	nirXAraNam,3	axiwi_ke_bAraha_puwroM_meM	oq_whe_Axiwyas				
+2	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,6.2	mEM	I				
+3	viRNuH	3	viRNurjyowiRAM	viRNu{puM}{1;eka}/viRNu{swrI}{1;eka}	viRNu{puM}{1;eka}	supsamucciwam,5	viRNu	whe_Supreme_Lorx				
+4	jyowiRAm	4	0	jyowis{puM}{6;bahu}/jyowis{napuM}{6;bahu}	jyowis{puM}{6;bahu}	nirXAraNam,5	jyowiyoM_meM	oq_all_luminaries				
+5	raviH	6	raviraMSumAn	ravi{puM}{1;eka}	ravi{puM}{1;eka}	karwqsamAnAXikaraNam,6.2	sUrya	whe_sun				
+6	aMSumAn	5	0	aMSumaw{puM}{1;eka}	aMSumaw{puM}{1;eka}	viSeRaNam,5	kiraNoMvAlA	raxianw				
+6.1	(ca)	6.1	(0)	ca{avya}	ca{avya}	samuccayaxyowakaH,5	Ora	also				
+6.2	(asmi)	6.2	(0)	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,2;akarmakaH	hUz	am				
+7	marIciH	9	marIcirmaruwAmasmi	marIci{puM}{1;eka}	marIci{puM}{1;eka}	supsamucciwam,12	weja	Marici				
+8	maruwAm	8	0	maruw{puM}{6;bahu}/maruwA{swrI}{2;eka}	maruw{puM}{6;bahu}	nirXAraNam,7	unacAsa_vAyu_xevawAoM_kA	oq_whe_Maruws				
+9	asmi	12	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}		hUz	am				
+10	nakRawrANAm	10	nakRawrANAmahaM	nakRawra{napuM}{6;bahu}	nakRawra{napuM}{6;bahu}	nirXAraNam,12	nakRawroM_kA	oq_swars				
+11	aham	7	0	asmax{1;eka}	asmax{1;eka}	karwA,9	mEM	I				
+12	SaSI	11	SaSI	SaSin{puM}{1;eka}	SaSin{puM}{1;eka}	karwqsamAnAXikaraNam,9	aXipawi_canxramA	whe_moon				
+12.1	(ca)	11.1	(0)	ca{avya}	ca{avya}	samuccayaxyowakaH,12	Ora	also				

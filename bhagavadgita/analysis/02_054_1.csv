@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sWiwa-prajFasya	3	sWiwaprajFasya	sWiwaprajFa{puM}{6;eka}/sWiwaprajFa{napuM}{6;eka}	sWiwa-prajFa{puM}{6;eka}	RaRTIsambanXaH,3	sWirabuxXi_puruRa_kA	oq_whe_man_oq_swable_minx	<sWiwa-prajFasya>Bs6			
+2	kA	4	kA	kim{swrI}{1;eka}	kim{swrI}{1;eka}	karwA,5.1	kyA	thaw				
+3	BARA	5	BARA	BARA{swrI}{1;eka}	BARA{swrI}{1;eka}	karwqsamAnAXikaraNam,5.1	lakRaNa	xeqiniwion_(mark)				
+4	samAXi-sWasya	2	samAXisWasya	samAXisWa{puM}{6;eka}	samAXi-sWa{puM}{6;eka}	viSeRaNam,1	samAXi_meM_sWiwa	oq_a_Gox-realiRex_soul,_swable_oq_minx_anx_eswablishex_in_Samaxhi	<samAXi-sWasya>U			
+5	keSava	1	keSava	keSava{puM}{8;eka}	keSava{puM}{8;eka}	samboXyaH,5.1	he_keSava	O_Krsna				
+5.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
+6	sWiwa-XIH	7	sWiwaXIH	sWiwaXI{swrI}{1;eka}/sWiwaXI{swrI}{8;eka}	sWiwa-XI{puM}{1;eka}	karwA,8	sWirabuxXi_puruRa	whe_man_oq_swable_minx	<sWiwa-XIH>Bs6			
+7	kim	8	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{2;eka}	karma,8	kEse	hot				
+8	praBARewa	9	praBARewa	pra_BAR1{karwari;viXilif;pra;eka;AwmanepaxI;BARaz;BvAxiH}	pra_BAR1{karwari;viXilif;pra;eka;AwmanepaxI;pra_BARaz;BvAxiH}	aBihiwakarwA,6;sakarmakaH	bolawA_hE	xoes_speak				
+9	kim	11	kimAsIwa	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{2;eka}	kriyAviSeRaNam,10	kEse	hot				
+10	AsIwa	12	0	As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH}	As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH}	aBihiwakarwA,10.1;akarmakaH	bETawA_hE	xoes_siw				
+10.1	(sWiwa-XIH)	10	(0)	(sWiwaXI{swrI}{1;eka}/sWiwaXI{swrI}{8;eka})	(sWiwa-XI{puM}{1;eka})	karwA,10	(sWirabuxXi_puruRa)	whe_man_oq_swable_minx	<sWiwa-XIH>Bs6			
+11	vrajewa	15	vrajewa	vraj1{karwari;viXilif;ma;bahu;parasmEpaxI;vrajaz;BvAxiH}	vraj1{karwari;viXilif;ma;bahu;parasmEpaxI;vrajaz;BvAxiH}	aBihiwakarwA,12.1;sakarmakaH	calawA_hE	xoes_talk				
+12	kim	14	kim	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{2;eka}	kriyAviSeRaNam,11	kEse	hot				
+12.1	(sWiwa-XIH)	13	(0)	(sWiwaXI{swrI}{1;eka}/sWiwaXI{swrI}{8;eka})	(sWiwa-XI{puM}{1;eka})	karwA,11	(sWirabuxXi_puruRa)	whe_man_oq_swable_minx	<sWiwa-XIH>Bs6			

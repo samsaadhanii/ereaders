@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	annAw	2	annAxBavanwi	anna{napuM}{5;eka}	anna{napuM}{5;eka}	hewuH,2	anna_se	qrom_qoox				
+2	Bavanwi	3	0	BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka}	BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,3;akarmakaH	uwpanna_howe_hEM	are_evolvex				
+3	BUwAni	1	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{1;bahu}	karwA,2	sampUrNa_prANI	all_beings				
+4	parjanyAw	5	parjanyAxannasamBavaH	parjanya{puM}{5;eka}	parjanya{puM}{5;eka}	hewuH,5.1	vqRti_se	by_rain				
+5	anna-samBavaH	4	0	anna-samBava{puM}{1;eka}	anna-samBava{puM}{1;eka}	karwA,5.1	anna_kI_uwpawwi	proxucwion_oq_qoox	<anna-samBavaH>W6			
+5.1	(Bavawi)	6	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,5;akarmakaH	(howI_hE)	is_possible				
+6	yajFAw	8	yajFAxBavawi	yajFa{puM}{5;eka}	yajFa{puM}{5;eka}	hewuH,7	yajFa_se	qrom_sacriqice				
+7	Bavawi	9	0	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,8;akarmakaH	howI_hE	ensues				
+8	parjanyaH	7	parjanyo	parjanya{puM}{1;eka}	parjanya{puM}{1;eka}	karwA,7	vqRti	rain				
+9	yajFaH	10	yajFaH	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	karwA,10.1	yajFa	sacriqice				
+10	karma-samuxBavaH	11	karmasamuxBavaH	karman-samuxBava{puM}{1;eka}	karman-samuxBava{puM}{1;eka}	karwqsamAnAXikaraNam,10.1	vihiwa_karmoM_se_uwpanna	in_prescribex_acwion	<karma-samuxBavaH>W5			
+10.1	(Bavawi)	12	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,9;akarmakaH	(honevAlA_hE)	is_roowex				

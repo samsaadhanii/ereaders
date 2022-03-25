@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	a-SocyAn	2	aSocyAnanvaSocaswvaM	a-Socya{puM}{2;bahu}	a-Socya{puM}{2;bahu}	karma,2	na_Soka_karane_yogya_manuRyoM_ke_liye	whose_tho_shoulx_now_be_grievex_qor	<na-SocyAn>Wn			
+2	anvaSocaH	3	0	anu_Suc1{karwari;laf;ma;eka;parasmEpaxI;Sucaz;BvAxiH}	anu_Suc1{karwari;laf;ma;eka;parasmEpaxI;Sucaz;BvAxiH}	aBihiwakarwA,3	Soka_karawe	grieving_over				
+3	wvam	1	0	yuRmax{1;eka}	yuRmax{1;eka}	karwA,2	wuma	you				
+4	prajFA-vAxAn	4	prajFA-vAxAMSca	prajFA-vAxa{puM}{2;bahu}	prajFA-vAxa{puM}{2;bahu}	karma,6	paNdiwoM_ke-se_vacanoM_ko	like_whe_learnex	<prajFA-vAxAn>W6			
+5	ca	5	0	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora	anx				
+6	BARase	6	BARase	BAR1{karwari;lat;ma;eka;AwmanepaxI;BARaz;BvAxiH}	BAR1{karwari;lat;ma;eka;AwmanepaxI;BARaz;BvAxiH}	samucciwam,2	kahawA_hE	speak				
+7	gawa-asUn	8	gawAsUnagawAsUMSca	gawa-asu{puM}{2;bahu}	gawa-asu{puM}{2;bahu}	sup_samucciwam,8	jinake_prANa_cale_gaye_hEM	whe_xeax	<gawa-asUn>Bs5			
+8	a-gawa-asUn	9	0	agawa-asu{puM}{2;bahu}	agawa-asu{puM}{2;bahu}	karma,11	jinake_prANa_nahIM_gaye_hEM	whe_living	<na-<gawa-asUn>Bs5>Bsmn			
+9	ca	10	0	ca{avya}	ca{avya}	samuccayaxyowakaH,8	Ora	or				
+10	na	11	nAnuSocanwi	na{avya}	na{avya}	prawiReXaH,11	nahIM	xo_now				
+11	anuSocanwi	12	0	anu_Suc1{karwari;lat;pra;bahu;parasmEpaxI;Sucaz;BvAxiH}	anu_Suc1{karwari;lat;pra;bahu;parasmEpaxI;anu_Sucaz;BvAxiH}	aBihiwakarwA,12	Soka_karawe	sorrot				
+12	paNdiwAH	7	paNdiwAH	paNdiwa{puM}{1;bahu}/paNdiwa{puM}{8;bahu}/paNdiwA{swrI}{1;bahu}/paNdiwA{swrI}{2;bahu}/paNdiwA{swrI}{8;bahu}	paNdiwa{puM}{1;bahu}	karwA,11	paNdiwajana	tise_men				

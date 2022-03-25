@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	karSayanwaH	7	karSayanwaH	karSayanwaH	kqR1_Nic{kqw_prawyayaH:Sawq;kqRaz_Nic;BvAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,8.1	kqSa_karanevAle_hE	wormenwing				
+2	SarIra-sWam	1	SarIrasWaM	SarIra-sWa{puM}{2;eka}/sWa{napuM}{1;eka}/sWa{napuM}{2;eka}	SarIra-sWa{puM}{2;eka}	viSeRaNam,3	SarIrarUpa_se_sWiwa	siwuawex_tiwhin_whe_boxy	<SarIra-sWaM>U			
+3	BUwa-grAmam	2	BUwa-grAmamacewasaH	BUwa-grAma{puM}{2;eka}	BUwa-grAma{puM}{2;eka}	sup_samucciwam,5	BUwa-samuxAya_ko	combinawion_oq_mawerial_elemenws	<BUwa-grAmam>W6			
+4	a-cewasaH	9	0	a-cewas{napuM}{5;eka}/cewas{napuM}{6;eka}	na-cewas{puM}{1;bahu}	karwA,8.1	ajFAniyoM_ko	by_such_a_mislex_menwaliwy	<na-cewasaH>Bsmn			
+5	mAm	5	mAM	asmax{2;eka}	asmax{2;eka}	karma,1	muJa_paramAwmA_ko	wo_Me				
+6	ca	3	cEvAnwaHSarIrasWaM	ca{avya}	ca{avya}	samuccayaxyowakaH,5	Ora	also				
+7	eva	6	0	eva{avya}	eva{avya}	sambanXaH,5	BI	cerwainly				
+8	anwaH-SarIra-sWam	4	0	anwaH-SarIra-sWa{puM}{2;eka}/sWa{napuM}{1;eka}/sWa{napuM}{2;eka}	anwaH-SarIra-sWa{puM}{2;eka}	viSeRaNam,5	anwaHkaraNa_meM_sWiwa	siwuawex_tiwhin_whe_boxy	<anwaH-<SarIra-sWaM>U>K1			
+8.1	(sanwi)	12	(0)	as1{karwari;lat;pra;bahu;parasmEpaxI;as;axAxiH}	as1{karwari;lat;pra;bahu;parasmEpaxI;as;axAxiH}	aBihiwakarwA,4;akarmakaH	jAna	unxerswanx				
+9	wAn	8	wAnvixXyAsuraniScayAn	wax{puM}{2;bahu}	wax{puM}{2;bahu}	karma,11;niwyasambanXaH,4	una	whem				
+10	vixXi	12	0	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,11.1;sakarmakaH	jAna	unxerswanx				
+11	Asura-niScayAn	10	0	Asura-niScaya{puM}{2;bahu}	Asura-niScaya{puM}{2;bahu}	karmasamAnAXikaraNam,10	Asura-svaBAvavAle	cerwainly_xemons	<asura-niScayAn>Bs6			
+11.1	(wvam)	11	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,10	(wU)	you				

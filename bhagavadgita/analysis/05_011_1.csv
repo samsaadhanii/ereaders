@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kAyena	7	kAyena	kAya{puM}{3;eka}/kAya{napuM}{3;eka}	kAya{napuM}{3;eka}	sup_samucciwam,5	SarIra_xvArA	tiwh_whe_boxy				
+2	manasA	4	manasA	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	sup_samucciwam,5	mana	tiwh_whe_minx				
+3	buxXyA	5	buxXyA	buxXi{swrI}{3;eka}	buxXi{swrI}{3;eka}	sup_samucciwam,5	buxXi	tiwh_whe_inwelligence				
+4	kevalEH	2	kevalErinxriyErapi	kevala{puM}{3;bahu}/kevala{napuM}{3;bahu}	kevala{napuM}{3;bahu}	viSeRaNam,5	kevala	puriqiex				
+5	inxriyEH	3	0	inxriya{puM}{3;bahu}/inxriya{napuM}{3;bahu}	inxriya{napuM}{3;bahu}	karaNam,9	inxriya	tiwh_whe_senses				
+5.1	(ca)	6	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,3	(Ora)	anx				
+6	api	8	0	api{avya}	api{avya}	sambanXaH,5	BI	even_tiwh				
+7	yoginaH	1	yoginaH	yogin{puM}{1;bahu}/yogin{puM}{2;bahu}/yogin{puM}{5;eka}/yogin{puM}{6;eka}	yogin{puM}{1;bahu}	karwA,9	karmayogI	yogi				
+8	karma	12	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,9	karma	acwions				
+9	kurvanwi	13	kurvanwi	kurvaw{napuM}{1;bahu}/kurvaw{napuM}{2;bahu}/kq3{karwari;lat;pra;bahu;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;pra;bahu;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,7;sakarmakaH	karawe_hEM	acw				
+10	safgam	9	safgaM	safga{puM}{2;eka}	safga{puM}{2;eka}	karma,11	Asakwi_ko	awwachmenw				
+11	wyakwvA	10	wyakwvAwmaSuxXaye	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	pUrvakAlaH,9	wyAgakara	giving_up				
+12	Awma-SuxXaye	11	0	Awman-SuxXi{swrI}{4;eka}	Awman-SuxXi{swrI}{4;eka}	prayojanam,9	anwaHkaraNa_kI_SuxXi_ke_liye	qor_whe_purpose_oq_selq-puriqicawion	<Awma-SuxXaye>W6			

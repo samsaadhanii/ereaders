@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	a-xeSa-kAle	5	axeSakAle	a-xeSa-kAla{puM}{7;eka}/kAla{napuM}{1;xvi}/kAla{napuM}{2;xvi}/kAla{napuM}{7;eka}/kAlA{swrI}{1;xvi}/kAlA{swrI}{2;xvi}	na-xeSa-kAla{puM}{7;eka}	aXikaraNam,6	ayogya_xeSa-kAla_meM	unpuriqiex_place_anx_wime	<na-<xeSa-kAle>Xs>Wn			
+2	yaw	1	yaxxAnamapAwreByaSca	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,3; niwyasambanXaH,9	jo	whaw				
+3	xAnam	2	0	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{2;eka}	karma,6	xAna	chariwy				
+4	a-pAwreByaH	7	0	a-pAwra{puM}{4;bahu}/pAwra{puM}{5;bahu}/pAwra{napuM}{4;bahu}/pAwra{napuM}{5;bahu}	apAwra{napuM}{4;bahu}	sampraxAnam,6	kupAwra_ke_prawi	wo_untorwhy_persons	<na-pAwreByaH>Wn			
+5	ca	6	0	ca{avya}	ca{avya}	sambanXaH,6	Ora	also				
+6	xIyawe	8	xIyawe	xI1{karwari;lat;pra;eka;AwmanepaxI;xIf;xivAxiH}/xI1{BAve;lat;pra;eka;AwmanepaxI;xIf;xivAxiH}/xA1{karmaNi;lat;pra;eka;AwmanepaxI;xAN;BvAxiH}/xA3{karmaNi;lat;pra;eka;AwmanepaxI;duxAF;juhowyAxiH}/xe1{karmaNi;lat;pra;eka;AwmanepaxI;xef;BvAxiH}/xo1{karmaNi;lat;pra;eka;AwmanepaxI;xo;xivAxiH}	xA3{karmaNi;lat;pra;eka;AwmanepaxI;duxAF;juhowyAxiH}	aBihiwakarma,3;sakarmakaH	xiyA_jAwA_hE	is_given				
+7	a-sawkqwam	3	asawkqwamavajFAwaM	a-sawkqwa{puM}{2;eka}	na-sawkqwa{napuM}{2;eka}	karmasamAnAXikaraNam,6	binA_sawkAra_ke	tiwhouw_respecw	<na-sawkqwam>Wn			
+8	avajFAwam	4	0	avajFAwa{puM}{2;eka}/avajFAwa{napuM}{1;eka}/avajFAwa{napuM}{2;eka}	ava_jFA1{kqw_prawyayaH:kwa;ava_jFA;BvAxiH;napuM}{2;eka}	karmasamAnAXikaraNam,6	wiraskArapUrvaka	tiwhouw_proper_awwenwion				
+9	waw	9	wawwAmasamuxAhqwam	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,11.1	vaha	whaw				
+10	wAmasam	11	0	wAmasa{puM}{2;eka}/wAmasa{napuM}{1;eka}/wAmasa{napuM}{2;eka}	wAmasa{napuM}{2;eka}	karmasamAnAXikaraNam,11	wAmasa	in_whe_moxe_oq_xarkness				
+11	uxAhqwam	12	0	uxAhqwa{puM}{2;eka}/uxAhqwa{napuM}{1;eka}/uxAhqwa{napuM}{2;eka}	uw_Af_hq1{kqw_prawyayaH:kwa;uw_Af_hqF;BvAxiH;napuM}{1;eka}	aBihiwakarma,11.1;sakarmakaH	kahA_gayA_hE	is_saix_wo_be				
+11.1	(xAnam)	10	(0)	(xAna{napuM}{1;eka}/xAna{napuM}{2;eka})	(xA3{kqw_prawyayaH:lyut;duxAF;juhowyAxiH;napuM}{2;eka})	karma,11	(xAna)	chariwy				

@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wawra	8	wawrEkasWaM	wawra{avya}	wawra{avya}	viSeRaNam,9	usa	where				
+2	eka-sWam	10	0	ekasWa{puM}{2;eka}/ekasWa{napuM}{1;eka}/ekasWa{napuM}{2;eka}	eka-sWa{napuM}{2;eka}	karmasamAnAXikaraNam,7	eka_jagaha_sWiwa	one_place	<eka-sWaM>U			
+3	jagaw	6	jagawkqwsnaM	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,7	jagaw_ko	universe				
+4	kqwsnam	5	0	kqwsna{napuM}{1;eka}/kqwsna{napuM}{2;eka}	kqwsna{napuM}{2;eka}	viSeRaNam,3	sampUrNa	complewely				
+5	pra-viBakwam	4	praviBakwamanekaXA	praviBakwa{puM}{2;eka}/praviBakwa{napuM}{1;eka}/praviBakwa{napuM}{2;eka}	pra_vi_Baj1{kqw_prawyayaH:kwa;pra_vi_Bajaz;BvAxiH;napuM}{2;eka}	viSeRaNam,3	viBakwa_arWAw_pqWak-pqWak	xivixex_in	<pra-viBakwam>Wp			
+6	an-ekaXA	3	0	anekaXA	anekaXA{avya}	kriyAviSeRaNam,5	aneka_prakAra_se	many_kinxs	<na-ekaXA>Wn			
+7	apaSyaw	11	apaSyaxxevaxevasya	xqS1{karwari;laf;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;laf;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,10;sakarmakaH	xeKA	coulx_see				
+8	xeva-xevasya	7	0	xeva-xeva{puM}{6;eka}	xeva-xeva{puM}{6;eka}	RaRTIsambanXaH,9	xevoM_ke_xeva_SrIkqRNaBagavAn_ke	oq_whe_Supreme_Personaliwy_oq_Goxheax	<xeva-xevasya>W6			
+9	SarIre	9	SarIre	SarIra{napuM}{1;xvi}/SarIra{napuM}{2;xvi}/SarIra{napuM}{7;eka}/SarIra{napuM}{8;xvi}	SarIra{napuM}{7;eka}	aXikaraNam,7	SarIra_meM	in_whe_universal_qorm				
+10	pANdavaH	1	pANdavaswaxA	pANdu{puM}{1;bahu}/pANdu{puM}{8;bahu}/pANdu{swrI}{1;bahu}/pANdu{swrI}{8;bahu}/pANdava{puM}{1;eka}	pANdava{puM}{1;eka}	karwA,7	pANdupuwra_arjuna_ne	Arjuna				
+11	waxA	2	0	waxA{avya}	waxA{avya}	aXikaraNam,7	usa_samaya	aw_whaw_wime				

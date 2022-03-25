@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	5	na	na{avya}	na{avya}	prawiReXaH,4	na	now				
+2	me	2	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,5	muJe	mine				
+3	pArWa	1	pArWAswi	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_oq_Prwha				
+4	aswi	8	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,5;akarmakaH	hE	where_is				
+5	karwavyam	7	karwavyaM	karwavya{puM}{2;eka}/karwavya{napuM}{1;eka}/karwavya{napuM}{2;eka}	kq3{kqw_prawyayaH:wavyaw;dukqF;wanAxiH;napuM}{1;eka}	karwA,4	karwavya	any_prescribex_xuwy				
+6	wriRu	3	wriRu	wri{puM}{7;bahu}/wri{puM}{7;bahu}/wri{napuM}{7;bahu}	wri{puM}{7;bahu}	viSeRaNam,7	wInoM	in_whe_whree				
+7	lokeRu	4	lokeRu	loka{puM}{7;bahu}	loka{puM}{7;bahu}	aXikaraNam,4	lokoM_meM	planewary_syswems				
+8	kiFcana	6	kiFcana	kiFcana{napuM}{1;eka}/kiFcana{napuM}{2;eka}	kiFcana{napuM}{1;eka}	viSeRaNam,5	kuCa	anywhing				
+9	na	12	nAnavApwamavApwavyaM	na{avya}	na{avya}	prawiReXaH,11	aprApwa	no				
+10	an-avApwam	11	0	an-{avya}-avApwam	na-ava_Ap1{kqw_prawyayaH:wavyaw;ava_ApLz;svAxiH;napuM}{1;eka}	karma,11	prApwa_karaneyogya	in_tanw	<na-avApwavyaM>Wn			
+11	avApwavyam	10	0	avApwavya{puM}{2;eka}/avApwavya{napuM}{1;eka}/avApwavya{napuM}{2;eka}	ava_Ap1{kqw_prawyayaH:wavyaw;ava_ApLz;svAxiH;napuM}{1;eka}	aBihiwa_karma,10;sakarmakaH	na	wo_be_gainex				
+12	varwe	17	varwa	varwa{puM}{7;eka}/vqw1{karwari;lat;u;eka;AwmanepaxI;vqwuz;BvAxiH}	vqw1{karwari;lat;u;eka;AwmanepaxI;vqwuz;BvAxiH}	aBihiwa_karwA,15.1;akarmakaH	barawawA_hUz	engagex				
+13	eva	16	eva	eva{avya}	eva{avya}	sambanXaH,12	hI	cerwainly				
+14	ca	9	ca	ca{avya}	ca{avya}	sambanXaH,12	Ora	also				
+15	karmaNi	15	karmaNi	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,12	karma_meM	in_oneZs_prescribex_xuwy				
+15.1	(aham)	14	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,12	(mEM)	I				

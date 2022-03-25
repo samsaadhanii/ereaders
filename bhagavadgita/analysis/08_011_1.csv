@@ -1,0 +1,20 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaw	2	yaxakRaraM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,2;niwyasambanXaH,13	jisa_saccixAnanxaGanarUpa_paramapaxa_ko	whaw_thich				
+2	a-kRaram	3	0	akRara{napuM}{1;eka}/akRara{napuM}{2;eka}/kRar1{karwari;laf;u;eka;parasmEpaxI;kRaraz;BvAxiH}	akRara{napuM}{2;eka}	karma,4	avinASI	ineLhauswible	<na-kRaram>Wn			
+3	vexa-vixaH	1	vexavixo	vexavix{puM}{1;bahu}/vexavix{puM}{2;bahu}/vexavix{puM}{5;eka}/vexavix{puM}{6;eka}	vexa-vix{puM}{1;bahu}	karwA,4	vexa_ke_jAnanevAle_vixvAn	a_person_conversanw_tiwh_whe_Vexas	<vexa-vixaH>U			
+4	vaxanwi	4	vaxanwi	vaxaw{napuM}{1;bahu}/vaxaw{napuM}{2;bahu}/vax1{karwari;lat;pra;bahu;parasmEpaxI;vaxaz;BvAxiH}	vax1{karwari;lat;pra;bahu;parasmEpaxI;vaxaz;BvAxiH}	samucciwam,12	kahawe_hEM	say				
+5	viSanwi	8	viSanwi	viSaw{napuM}{1;bahu}/viSaw{napuM}{2;bahu}	viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	samucciwam,12	praveSa_karawe_hEM	enwers				
+6	yaw	7	yaxyawayo	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,5;niwyasambanXaH,13	jisameM	in_thich				
+7	yawayaH	6	0	yawi{puM}{1;bahu}/yawi{swrI}{1;bahu}	yawi{puM}{1;bahu}	karwA,5	yawnaSIla_saMnyAsI_mahAwmAjana	greaw_sages				
+8	vIwa-rAgAH	5	vIwarAgAH	vIwarAga{puM}{1;bahu}	vIwa-rAga{puM}{1;bahu}	viSeRaNam,7	Asakwirahiwa	in_whe_renouncex_orxer_oq_liqe	<vIwa-rAgAH>Bs5			
+9	yaw	9	yaxicCanwo	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,10;niwyasambanXaH,13	jisako_(paramapaxa_ko)	whaw_thich				
+10	icCanwaH	10	0	icCaw{puM}{1;bahu}	iR2{kqw_prawyayaH:Sawq;iRuz;wuxAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,12	cAhanevAle_(brahmacArI_loga)	xesiring				
+11	brahma-caryam	12	brahmacaryaM	brahmacarya{napuM}{1;eka}/brahmacarya{napuM}{2;eka}	brahmacarya{napuM}{2;eka}	karma,12	brahmacarya_kA	celibacy	<brahma-caryam>W4			
+12	caranwi	13	caranwi	caraw{napuM}{1;bahu}/caraw{napuM}{2;bahu}/car1{karwari;lat;pra;bahu;parasmEpaxI;caraz;BvAxiH}	car1{karwari;lat;pra;bahu;parasmEpaxI;caraz;BvAxiH}		AcaraNa_karawe_hEM	pracwices				
+12.1	(ca)	11	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,12	(Ora)	also				
+13	waw	14	wawwe	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,15	usa	whaw				
+14	we	17	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,17	were_liye	unwo_you				
+15	paxam	15	paxaM	pax{puM}{2;eka}/paxa{napuM}{1;eka}/paxa{napuM}{2;eka}	paxa{napuM}{2;eka}	karma,17	paramapaxa_ko	siwuawion				
+16	safgraheNa	18	safgraheNa	safgraha{puM}{3;eka}	safgraha{puM}{3;eka}	kriyAviSeRaNam,17	saMkRepa_se	in_summary				
+17	pravakRye	19	pravakRye	pra_vah1{karwari;lqt;u;eka;uBayapaxI;vahaz;BvAxiH}/pra_vah1{karmaNi;lqt;u;eka;AwmanepaxI;vahaz;BvAxiH}/pra_vah1{karmaNi;lqf;u;eka;AwmanepaxI;vahaz;BvAxiH}	pra_vac1{karwari;lqt;u;eka;AwmanepaxI;pra_vacaz;axAxiH}	aBihiwakarwA,17.1;sakarmakaH	kahUzgA	shall_eLplain				
+17.1	(aham)	16	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,17	(mEM)	I				

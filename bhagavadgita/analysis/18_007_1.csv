@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	niyawasya	2	niyawasya	niyawa{puM}{6;eka}/niyawa{napuM}{6;eka}	niyawa{napuM}{6;eka}	viSeRaNam,4	niyawa	prescribex_xuwies				
+2	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,6	paraMwu	buw				
+3	sannyAsaH	4	sannyAsaH	sannyAsa{puM}{1;eka}	sannyAsa{puM}{1;eka}	karwA,6	svarUpa_se_wyAga	renunciawion				
+4	karmaNaH	3	karmaNo	karman{napuM}{5;eka}/karman{napuM}{6;eka}	karman{napuM}{6;eka}	RaRTIsambanXaH,3	karma_kA	acwiviwies				
+5	na	5	nopapaxyawe	na{avya}	na{avya}	prawiReXaH,6	nahIM	never				
+6	upapaxyawe	6	0	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/upa_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;upa_paxaz;xivAxiH}	aBihiwa_karwA,3	uciwa_hE	is_xeservex				
+7	mohAw	7	mohAwwasya	moha{puM}{5;eka}	moha{puM}{5;eka}	hewuH,9	moha_ke_kAraNa	by_illusion				
+8	wasya	8	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,9	usakA	oq_thich				
+9	pariwyAgaH	9	pariwyAgaswAmasaH	pariwyAga{puM}{1;eka}	pariwyAga{puM}{1;eka}	karma,11	wyAga_kara_xenA	renunciawion				
+10	wAmasaH	10	0	wAmasa{puM}{1;eka}	wAmasa{puM}{1;eka}	karmasamAnAXikaraNam,11	wAmasa	in_whe_moxe_oq_ignorance				
+11	parikIrwiwaH_(aswi)	11	parikIrwiwaH	parikIrwiwa{puM}{1;eka}_(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	pari_kQw1{kqw_prawyayaH:kwa;pari_kQwaz;curAxiH;puM}{1;eka}	aBihiwa_karma,9	wyAga_kahA_gayA_hE	is_xeclarex				

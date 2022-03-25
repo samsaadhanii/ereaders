@@ -1,0 +1,26 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aham	1	ahaM	asmax{1;eka}	asmax{1;eka}	karwA,2.1	mEM	I				
+2	krawuH	2	krawurahaM	krawu{puM}{1;eka}	krawu{puM}{1;eka}	karwqsamAnAXikaraNam,2.1	krawu	riwual				
+2.1	(asmi)	3	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
+3	aham	4	0	asmax{1;eka}	asmax{1;eka}	karwA,4.1	mEM	I				
+4	yajFaH	5	yajFaH	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	karwqsamAnAXikaraNam,4.1	yajFa	sacriqice				
+4.1	(asmi)	6	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
+5	svaXA	8	svaXAhamahamORaXam	svaXA{avya}/svaXA{swrI}{1;eka}	svaXA{swrI}{1;eka}	karwqsamAnAXikaraNam,6.1	svaXA	oblawion				
+6	aham	10	0	asmax{1;eka}	asmax{1;eka}	karwA,6.1	mEM	I				
+6.1	(asmi)	9	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
+7	aham	7	0	asmax{1;eka}	asmax{1;eka}	karwA,8.1	mEM	I				
+8	ORaXam	11	0	ORaXa{puM}{2;eka}/ORaXa{napuM}{1;eka}/ORaXa{napuM}{2;eka}	ORaXa{napuM}{1;eka}	karwqsamAnAXikaraNam,8.1	oRaXi	healing_herb				
+8.1	(asmi)	12	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
+9	manwraH	14	manwroZhamahamevAjyamahamagnirahaM	manwra{puM}{1;eka}	manwra{puM}{1;eka}	karwqsamAnAXikaraNam,10.1	manwra	wranscenxenwal_chanw				
+10	aham	13	0	asmax{1;eka}	asmax{1;eka}	karwA,10.1	mEM	I				
+10.1	(asmi)	15	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
+11	aham	16	0	asmax{1;eka}	asmax{1;eka}	karwA,13.1	mEM	I				
+12	eva	24	0	eva{avya}	eva{avya}	sambanXaH,11	hI	cerwainly				
+13	Ajyam	17	0	Ajya{napuM}{1;eka}/Ajya{napuM}{2;eka}	Ajya{napuM}{1;eka}	karwqsamAnAXikaraNam,13.1	Gqwa	melwex_buwwer				
+13.1	(asmi)	18	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
+14	aham	22	0	asmax{1;eka}	asmax{1;eka}	karwA,15.1	mEM	I				
+15	agniH	20	0	agni{puM}{1;eka}	agni{puM}{1;eka}	karwqsamAnAXikaraNam,15.1	agni	qire				
+15.1	(asmi)	21	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
+16	aham	19	0	asmax{1;eka}	asmax{1;eka}	karwA,17.1	mEM	I				
+17	huwam	23	huwam	huwa{puM}{2;eka}/huwa{napuM}{1;eka}/huwa{napuM}{2;eka}	hu1{kqw_prawyayaH:kwa;hu;juhowyAxiH;napuM}{1;eka}	karwqsamAnAXikaraNam,17.1	havanarUpa_kriyA	oqqering				
+17.1	(asmi)	25	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				

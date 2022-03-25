@@ -1,0 +1,34 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	BUmiH	1	BUmirApoZnalo	BUmi{swrI}{1;eka}	BUmi{swrI}{1;eka}	samucciwam,9	pqWvI	earwh				
+2	ApaH	2	0	ap{swrI}{1;bahu}/Apas{napuM}{1;eka}/Apas{napuM}{2;eka}/Apas{napuM}{8;eka}/Ap1{karwari;luf;ma;eka;parasmEpaxI;ApLz;svAxiH}	ap{swrI}{1;bahu}	samucciwam,9	jala	tawer				
+3	analaH	3	0	anala{puM}{1;eka}/nal1{karwari;laf;ma;eka;parasmEpaxI;Nalaz;BvAxiH}	anala{puM}{1;eka}	samucciwam,9	agni	qire				
+4	vAyuH	4	vAyuH	vAyu{puM}{1;eka}/vA1{karwari;viXilif;pra;bahu;parasmEpaxI;vA;axAxiH}	vAyu{puM}{1;eka}	samucciwam,9	vAyu	air				
+5	Kam	5	KaM	Ka{puM}{2;eka}/Ka{napuM}{1;eka}/Ka{napuM}{2;eka}	Ka{napuM}{1;eka}	samucciwam,9	AkASa	ewher				
+6	manaH	6	mano	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	samucciwam,9	mana	minx				
+7	buxXiH	7	buxXireva	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	samucciwam,9	buxXi	inwelligence				
+8	eva	10	0	eva{avya}	eva{avya}	sambanXaH,10	hI	cerwainly				
+9	ca	8	ca	ca{avya}	ca{avya}	prawiyogI,11	Ora	anx				
+10	ahafkAraH	9	ahafkAra	ahafkAra{puM}{1;eka}	ahafkAra{puM}{1;eka}	samucciwam,9	ahaMkAra	qalse_ego				
+11	iwi	11	iwIyaM	iwi{avya}	iwi{avya}	anuyogI,16	EsI	whus				
+12	iyam	12	0	ixam{swrI}{1;eka}	ixam{swrI}{1;eka}	viSeRaNam,14	yaha	all_whese				
+13	me	15	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,15	merI	my				
+14	BinnA	14	BinnA	BinnA{swrI}{1;eka}	BinnA{swrI}{1;eka}	karwA,0	viBAjiwa	seperawex				
+15	prakqwiH	16	prakqwiraRtaXA	prakqwi{swrI}{1;eka}	prakqwi{swrI}{1;eka}	karwqsamAnAXikaraNam,0	prakqwi	energies				
+16	aRtaXA	13	0	aRtaXA	aRtaXA{avya}	viSeRaNam,14	ATa_prakAra_se	wowal_eighw				
+17	a-parA	20	apareyamiwaswvanyAM	a-parA{swrI}{1;eka}/parA{swrI}{1;eka}	aparA{swrI}{1;eka}	karwqsamAnAXikaraNam,0	aparA_(arWAw_merI_jada़_prakqwi)	inqerior	<na-parA>Wn			
+18	iyam	18	0	ixam{swrI}{1;eka}	ixam{swrI}{1;eka}	karwA,0	yaha	whis				
+19	iwaH	23	0	iwaH{avya}/iwa{puM}{1;eka}/i1{karwari;lat;pra;xvi;parasmEpaxI;iN;axAxiH}	iwaH{avya}	apAxAnam,30	isase	besixes_whis				
+20	wu	19	0	wu{avya}	wu{avya}	sambanXaH,18	wo	buw				
+21	anyAm	24	0	anyA{swrI}{2;eka}/anyA{swrI}{2;eka}/an1{karwari;viXilif;u;eka;parasmEpaxI;anaz;axAxiH}	anyA{swrI}{2;eka}	viSeRaNam,22	xUsarIko	anowher				
+22	prakqwim	32	prakqwiM	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	karma,23	prakqwi	energy				
+23	vixXi	33	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}		jAna	jusw_wry_wo_unxerswanx				
+24	me	29	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,26	merI	my				
+25	parAm	31	parAm	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	viSeRaNam,22	parA_(arWAw_cewana)	superior				
+26	jIva-BUwAm	30	jIvaBUwAm	jIva-BUwA{swrI}{2;eka}	jIva-BUwA{swrI}{2;eka}	viSeRaNam,22	jIvarUpA	whe_living_enwiwies	<jIva-BUwAM>W2			
+27	mahAn-bAho	22	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,30	he_mahAbAho	O_mighwy-armex_one	<mahaw-bAho>Bs6			
+28	yayA	25	yayexaM	yax{swrI}{3;eka}	yax{swrI}{3;eka}	hewuH,30	jisase	by_thom				
+29	ixam	26	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,31	yaha	whis				
+30	XAryawe	28	XAryawe	XAryawA{swrI}{1;xvi}/XAryawA{swrI}{2;xvi}/XAryawA{swrI}{8;eka}/XAryawA{swrI}{8;xvi}	Xq1_Nic{karmaNi;lat;pra;eka;AwmanepaxI;XqF_Nic;BvAxiH}		XAraNa_kiyA_jAwA_hE	being_uwilisex_or_eLploiwex				
+31	jagaw	27	jagaw	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,30	jagaw	whe_mawerial_torlx				
+32	(aswi)	21	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				
+33	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				

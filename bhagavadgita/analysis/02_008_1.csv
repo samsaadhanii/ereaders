@@ -1,0 +1,21 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	13	na	na{avya}	na{avya}	prawiReXaH,3	nahIM	xo_now				
+2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,3	kyoMki	qor				
+3	prapaSyAmi	14	prapaSyAmi	pra_xqS1{karwari;lat;u;eka;parasmEpaxI;xqSizr;BvAxiH}	pra_xqS1{karwari;lat;u;eka;parasmEpaxI;pra_xqSizr;BvAxiH}	aBihiwakarwA,18.1	xeKawA_hUz	see				
+4	mama	16	mamApanuxyAxyacCokamucCoRaNaminxriyANAm	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,9	merI	my				
+5	apanuxyAw	20	0	apa_nux1{karwari;ASIrlif;pra;eka;uBayapaxI;Nuxaz;wuxAxiH}	apa_nux1{karwari;ASIrlif;pra;eka;uBayapaxI;apa_Nuxaz;wuxAxiH}	aBihiwakarwA,5	xUra_kara_sake	can_xrive_atay				
+6	yaw	15	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,5	jo	any_means_whaw				
+7	Sokam	19	0	Soka{puM}{2;eka}	Soka{puM}{2;eka}	karma,5	Soka_ko	whe_grieq				
+8	ucCoRaNam	18	0	ucCoRaNa{puM}{2;eka}/ucCoRaNa{napuM}{1;eka}/ucCoRaNa{napuM}{2;eka}	ucCoRaNa{napuM}{2;eka}	viSeRaNam,7	suKAnevAle	thich_is_xrying_up				
+9	inxriyANAm	17	0	inxriya{puM}{6;bahu}/inxriya{napuM}{6;bahu}	inxriya{napuM}{6;bahu}	RaRTIsambanXaH,8	inxriyoM_ke	senses				
+10	avApya	10	avApya	ava_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/ava_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	ava_Ap1{kqw_prawyayaH:lyap;ava_ApLz;svAxiH}	pUrvakAlaH,3	prApwa_hokara	obwaining				
+11	BUmO	2	BUmAvasapawnamqxXaM	BUmi{swrI}{7;eka}	BUmi{swrI}{7;eka}	aXikaraNam,10	BUmi_meM	on_whis_earwh				
+12	a-sapawnam	3	0	a-sapawna{puM}{2;eka}	a-sapawna{napuM}{2;eka}	viSeRaNam,14	niRkaNtaka	unxispuwex sovereignwy	<na-sapawnam>Bsmn			
+13	qxXam	4	0	qxXa{puM}{2;eka}/qxXa{napuM}{1;eka}/qxXa{napuM}{2;eka}	qX1{kqw_prawyayaH:kwa;qXuz;xivAxiH;napuM}{2;eka}	viSeRaNam,14	XanaXAnya-sampanna	an_aqqluenw				
+14	rAjyam	5	rAjyaM	rAjya{puM}{2;eka}/rAjya{napuM}{1;eka}/rAjya{napuM}{2;eka}	rAjya{napuM}{2;eka}	sup_samucciwam,18	rAjya_ko	kingxom				
+15	surANAm	7	surANAmapi	sura{puM}{6;bahu}/surA{swrI}{6;bahu}	sura{puM}{6;bahu}	RaRTIsambanXaH,18	xevawAoM_ke	oq_whe_goxs				
+16	api	8	0	api{avya}	api{avya}	sambanXaH,15	BI	even				
+17	ca	6	cAXipawyam	ca{avya}	ca{avya}	samuccayaxyowakaH,18	Ora	anx				
+18	AXipawyam	9	0	AXipawya{napuM}{1;eka}/AXipawya{napuM}{2;eka}	AXipawya{napuM}{2;eka}	karma,10	svAmiwva_ko	lorxship				
+18.1	(aham)	12	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,3	(mEM)	I				
+18.2	(waw)	11	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{2;eka})	karma,3;niwyasambanXaH,6	(usako)	whaw				

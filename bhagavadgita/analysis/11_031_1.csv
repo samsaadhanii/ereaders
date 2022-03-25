@@ -1,0 +1,24 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	AKyAhi	2	AKyAhi	Af_KyA1{karwari;lot;ma;eka;parasmEpaxI;KyA;axAxiH}	Af_KyA1{karwari;lot;ma;eka;parasmEpaxI;Af_KyA;axAxiH}	aBihiwa_karwA,5.2	bawalAiye	please_eLplain				
+2	me	1	me	asmax{6;eka}	asmax{6;eka}	sampraxAnam,1	muJe	unwo_me				
+3	kaH	5	ko	kim{puM}{1;eka}	kim{puM}{1;eka}	sambanXaH,5.1	kOna	tho				
+4	BavAn	3	BavAnugrarUpo	Bava{puM}{2;bahu}/Bavaw{puM}{1;eka}	Bavaw{puM}{1;eka}	karwA,5.1	Apa	you				
+5	ugra-rUpaH	4	0	ugra-rUpa{puM}{1;eka}	ugra-rUpa{puM}{1;eka}	viSeRaNam,4	ugrarUpavAle	qierce_qorm	<ugra-rUpaH>Bs6			
+5.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	vAkyakarma,1	(hEM)	is				
+5.2	(wvam)	11	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,1	(Apa)	you				
+6	namaH	9	namoZswu	namaH{avya}	namaH{avya}	karwA,7	namaskAra	obeisances				
+7	aswu	10	0	aswu{avya}/as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,6	ho	be				
+8	we	8	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam ,7	Apako	unwo_Fou				
+9	xeva-vara	7	xevavara	xeva-vara{puM}{8;eka}/vara{napuM}{8;eka}	xeva-vara{puM}{8;eka}	samboXyaH,7	he_xevoM_meM_SreRTa	whe_greaw_one_amongsw_whe_xemigoxs	<xeva-vara>W6			
+10	prasIxa	12	prasIxa	pra_sax1{karwari;lot;ma;eka;parasmEpaxI;RaxLz;BvAxiH}/pra_saxa1{karwari;lot;ma;eka;parasmEpaxI;RaxaLz;wuxAxiH}	pra_sax1{karwari;lot;ma;eka;parasmEpaxI;pra_RaxLz;BvAxiH}	aBihiwa_karwA,10.1	prasanna_hoiye	be_gracious				
+10.1	(wvam)	11	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,10	(Apa)	you				
+11	vijFAwum	16	vijFAwumicCAmi	jFA1{avya;wumun;jFA;:kryAxiH}	vi_jFA1{avya;wumun;jFA;:kryAxiH}	karma,12	viSeRarUpa_se_jAnanA_cAhawA_hUz	tish_wo_jusw_knot				
+12	icCAmi	17	0	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	aBihiwa_karwA						
+13	Bavanwam	15	BavanwamAxyaM	Bavaw{puM}{2;eka}/Bavanwa{puM}{2;eka}	Bavaw{puM}{2;eka}	viSeRaNam,14	Apako	you				
+14	Axyam	14	0	Axya{puM}{2;eka}/Axya{napuM}{1;eka}/Axya{napuM}{2;eka}	Axya{puM}{2;eka}	karma,11	AxipuruRa	whe_original				
+15	na	20	na	na{avya}	na{avya}	prawiReXaH,17	nahIM	never				
+16	hi	18	hi	hi{avya}	hi{avya}	sambanXaH,17	kyoMki	cerwainly				
+17	prajAnAmi	22	prajAnAmi	prajAnAmi	pra_jFA2{karwari;lat;u;eka;parasmEpaxI;pra_jFA;kryAxiH}	aBihiwa_karwA,10	jAnawA	knot				
+18	wava	21	wava	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,19	ApakI	Four				
+19	pravqwwim	20	pravqwwim	pravqwwi{swrI}{2;eka}	pravqwwi{swrI}{2;eka}	karma,17	pravqwwi_ko	mission				
+19.1	(aham)	13	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,17	(mEM)	I				

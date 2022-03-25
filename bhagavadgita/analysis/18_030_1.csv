@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	pravqwwim	4	pravqwwiM	pravqwwi{swrI}{2;eka}	pravqwwi{swrI}{2;eka}	sup_samucciwam,8	pravqwwimArga	xeserving				
+2	ca	5	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,8	Ora	also				
+3	nivqwwim	6	nivqwwiM	nivqwwi{swrI}{2;eka}	nivqwwi{swrI}{2;eka}	sup_samucciwam,8	nivqwwimArga_ko	now_xeserving				
+4	ca	9	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,8	waWA	anx				
+5	kArya-a-kArye	7	kAryAkArye	kAryAkArya{napuM}{1;xvi}/kAryAkArya{napuM}{2;xvi}/kAryAkArya{napuM}{7;eka}	kArya-akArya{napuM}{7;eka}	sup_samucciwam,8	karwavya_Ora_akarwavya_ko	tork_anx_reacwion	<kArya-<na-kArye>Wn>Xs			
+6	Baya-a-Baye	8	BayABaye	BayABaya{napuM}{1;xvi}/BayABaya{napuM}{2;xvi}/BayABaya{napuM}{7;eka}	Baya-aBaya{napuM}{7;eka}	sup_samucciwam,8	Baya_Ora_aBaya_ko	qearqul_anx_qearlessness	<Baya-<na-Baye>Wn>Xs			
+7	banXam	10	banXaM	banXa{puM}{2;eka}	banXa{puM}{2;eka}	sup_samucciwam,8	banXana	obligawion				
+8	mokRam	12	mokRaM	mokRa{puM}{2;eka}	mokRa{puM}{2;eka}	karma,11	mokRa_ko	liberawion				
+9	ca	11	ca	ca{avya}	ca{avya}	samuuccayaxyowakaH,8	Ora	anx				
+10	yA	2	yA	yax{swrI}{1;eka}	yax{swrI}{1;eka}	viSeRaNam,10.1;niwyasambanXaH,13	jo	whaw				
+10.1	(buxXiH)	3	(0)	(buxXi{swrI}{1;eka})	(buxXi{swrI}{1;eka})	karwA,11	(buxXi)	unxerswanxing				
+11	vewwi	13	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,10.1;sakarmakaH	yaWArWa_jAnawI_hE	knots				
+12	buxXiH	15	buxXiH	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,16	buxXi	unxerswanxing				
+13	sA	14	sA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,12	vaha	whaw				
+14	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,11	he_pArWa	O_son_oq_Prwha				
+15	sAwwvikI	16	sAwwvikI	sAwwvikI{swrI}{1;eka}	sAwwvikI{swrI}{1;eka}	karwqsamAnAXikaraNam,16	sAwwvikI	in_whe_moxe_oq_gooxness				
+16	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				

@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mayA	1	mayA	asmax{3;eka}	asmax{3;eka}	karwA,2	muJa	by_Me				
+2	wawam	6	wawamixaM	waw{puM}{2;eka}/wawa{puM}{2;eka}/wawa{napuM}{1;eka}/wawa{napuM}{2;eka}	wan1{kqw_prawyayaH:kwa;wanuz;wanAxi;napuM}{1;eka}	aBihiwakarma,5;sakarmakaH	paripUrNa	spreax				
+3	ixam	3	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,5	yaha	whese				
+4	sarvam	4	sarvaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{2;eka}	viSeRaNam,5	saba	all				
+5	jagaw	5	jagaxavyakwamUrwinA	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,2	jagaw_(jala_se_barPa_ke_saxqSa)	cosmic_maniqeswawion				
+6	a-vyakwa-mUrwinA	2	0	a-vyakwa-mUrwi{puM}{3;eka}	avyakwa-mUrwi{puM}{3;eka}	viSeRaNam,1	nirAkAra_paramAwmA_se	unmaniqeswex_qorm	<<na-vyakwa>Wn-mUrwinA>Bs6			
+7	maw-sWAni	8	mawsWAni	asmax-sWa{napuM}{1;bahu}/sWa{napuM}{2;bahu}/sWa{napuM}{8;bahu}/sWAnin{napuM}{1;eka}/sWAnin{napuM}{2;eka}	asmax-sWa{napuM}{1;bahu}	karwqsamAnAXikaraNam,8.1	mere_anwargawa_saMkalpa_ke_AXAra_sWiwa	unwo_Me	<asmaw-sWAni>U			
+8	sarva-BUwAni	7	sarvaBUwAni	sarva-BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	sarva-BUwa{napuM}{1;bahu}	karwA,8.1	saba_BUwa	all_living_enwiwies	<sarva-BUwAni>K1			
+8.1	(sanwi)	9	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,8;akarmakaH	(hEM)	are				
+9	na	12	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	now				
+10	ca	12	cAhaM	ca{avya}	ca{avya}	sambanXaH,13	Ora	also				
+11	aham	10	0	asmax{1;eka}	asmax{1;eka}	karwA,13	mEM	I				
+12	weRu	11	weRvavasWiwaH	wax{puM}{7;bahu}/wax{napuM}{7;bahu}	wax{puM}{7;bahu}	aXikaraNam,13	unameM	in_whem				
+13	avasWiwaH	13	0	avasWiwa{puM}{1;eka}	ava_sWA1{kqw_prawyayaH:kwa;ava_RTA;BvAxiH;puM}{1;eka}	aBihiwakarwA,11;akarmakaH	sWiwa	siwuawex				

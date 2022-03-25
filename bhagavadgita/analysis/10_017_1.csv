@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kaWam	3	kaWaM	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,2	kisa_prakAra	hot				
+2	vixyAm	7	vixyAmahaM	vixyA{swrI}{2;eka}/vix1{karwari;viXilif;u;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;viXilif;u;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,3;sakarmakaH	jAnUz	shall_knot				
+3	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,2	mEM	I				
+4	yogin	1	yogiMswvAM	yogin{puM}{8;eka}	yogin{puM}{8;eka}	samboXyaH,2	he_yogeSvara	O_supreme_myswic				
+5	wvAm	6	0	yuRmax{2;eka}	yuRmax{2;eka}	karma,2	Apako	you				
+6	saxA	4	saxA	saxA{avya}	saxA{avya}	kriyAviSeRaNam,7	niranwara	altays				
+7	paricinwayan	5	paricinwayan	paricinwayan	pari_cinw1{kqw_prawyayaH:Sawq;pari_ciwiz;curAxiH;puM}{1;eka}	samAnakAlaH,2	cinwana_karawA_huA	whinking				
+8	keRu	10	keRu	kim{puM}{7;bahu}/kim{napuM}{7;bahu}	kim{puM}{7;bahu}	vIpsA,9	kina	in_thich				
+9	keRu	11	keRu	kim{puM}{7;bahu}/kim{napuM}{7;bahu}	kim{puM}{7;bahu}	viSeRaNam,11	kina	in_thich				
+10	ca	8	ca	ca{avya}	ca{avya}	sambanXaH,12	Ora	also				
+11	BAveRu	12	BAveRu	BAva{puM}{7;bahu}	BAva{puM}{7;bahu}	aXikaraNam,12	BAvoM_meM	nawure				
+12	cinwyaH	15	cinwyoZsi	cinwya{puM}{1;eka}	cinw1{kqw_prawyayaH:yaw;ciwiz;curAxiH;puM}{1;eka}	karwA,13	cinwana_karaneyogya	rememberex				
+13	asi	16	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,12;akarmakaH	hEM	are				
+14	Bagavan	9	BagavanmayA	Bagavaw{puM}{8;eka}	Bagavaw{puM}{8;eka}	samboXyaH,12	he_Bagavan	O_Supreme				
+15	mayA	14	0	asmax{3;eka}	asmax{3;eka}	karwA,12	mere_xvArA	by_me				
+15.1	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karma,12	(Apa)	you				

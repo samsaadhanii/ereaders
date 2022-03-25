@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	vIpsA,2	jo	whaw				
+2	yaH	2	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,6;niwyasambanXaH,11	jo	whaw				
+3	yAm	4	yAM	yax{swrI}{2;eka}	yax{swrI}{2;eka}	vIpsA,4	jisa	thich				
+4	yAm	5	yAM	yax{swrI}{2;eka}	yax{swrI}{2;eka}	viSeRaNam,5	jisa	thich				
+5	wanum	6	wanuM	wanu{puM}{2;eka}/wanu{swrI}{2;eka}	wanu{swrI}{2;eka}	karma,8	xevawA_ke_svarUpa_ko	qorm_oq_whe_xemigoxs				
+6	BakwaH	3	BakwaH	Bakwa{puM}{1;eka}	Bakwa{puM}{1;eka}	karwA,8	sakAma_Bakwa	xevowee				
+7	SraxXayA	7	SraxXayArciwumicCawi	SraxXA{swrI}{3;eka}	SraxXA{swrI}{3;eka}	kriyAviSeRaNam,8	SraxXA_se	tiwh_qaiwh				
+8	arciwum	8	0	qc1{kqw_prawyayaH:wumun;qcaz;wuxAxiH}/arc1{kqw_prawyayaH:wumun;arcaz;BvAxiH}	arc1{kqw_prawyayaH:wumun;arcaz;BvAxiH}	karma,9	pUjanA	wo_torship				
+9	icCawi	9	0	icCaw{puM}{7;eka}/icCaw{napuM}{7;eka}/iR2{karwari;lat;pra;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;pra;eka;parasmEpaxI;iRuz;wuxAxiH}	aBihiwa_karwA,8	cAhawA_hE	xesires				
+10	wasya	10	wasya	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	vIpsA,11	usa	oq_whaw				
+11	wasya	11	wasyAcalAM	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,14	usakI	oq_whaw				
+12	acalAm	16	0	acalA{swrI}{2;eka}	acalA{swrI}{2;eka}	karmasamAnAXikaraNam,16	sWira	sweaxy	<na-calAM>Wn			
+13	SraxXAm	14	SraxXAM	SraxXA{swrI}{2;eka}	SraxXA{swrI}{2;eka}	karma,16	SraxXA_ko	qaiwh				
+14	wAm	12	wAmeva	wax{swrI}{2;eka}	wax{swrI}{2;eka}	viSeRaNam,13	usI_xevawA_ke_prawi	him				
+15	eva	13	0	eva{avya}	eva{avya}	sambanXaH,14	hI	surely				
+16	vixaXAmi	17	vixaXAmyaham	vi_XA1{karwari;lat;u;eka;uBayapaxI;duXAF;juhowyAxiH}	vi_XA1{karwari;lat;u;eka;parasmEpaxI;vi_duXAF;juhowyAxiH}	aBihiwa_karwA,17	karawA_hUz	give				
+17	aham	15	0	asmax{1;eka}	asmax{1;eka}	karwA,16	mEM	I				

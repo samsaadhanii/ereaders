@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	an-uxvega-karam	2	anuxvegakaraM	an-{avya}-uxvega-kara{puM}{2;eka}	na-uxvega-kara{napuM}{1;eka}	sup_samucciwam,7	uxvega_na_karanevAlA	proxucing_no_agiwawion	<<na-uxvega>Wn-karaM>W6			
+2	vAkyam	6	vAkyaM	vAkya{napuM}{1;eka}/vAkya{napuM}{2;eka}	vAkya{napuM}{1;eka}	karwA,9.1	BARaNa	torxs				
+3	sawyam	5	sawyaM	sawyam{avya}/sawya{puM}{2;eka}/sawya{napuM}{1;eka}/sawya{napuM}{2;eka}	sawya{napuM}{1;eka}	sup_samucciwam,7	yaWArWa	wruwhqul				
+4	priya-hiwam	3	priyahiwaM	priya-hiwa{puM}{2;eka}/hiwa{napuM}{1;eka}/hiwa{napuM}{2;eka}	priya-hiwa{napuM}{1;eka}	sup_samucciwam,7	priya_Ora_hiwakAraka	xear_anx_beneqicial	<priya-hiwaM>K1			
+5	ca	4	ca	ca{avya}	ca{avya}	sambanXaH,9.1	evaM	also				
+6	yaw	1	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,2; niwyasambanXaH,12.1	jo	thich				
+7	sva-aXyAya-aByasanam	8	svAXyAyAByasanaM	sva-aXyAya-aByasana{napuM}{1;eka}/aByasana{napuM}{2;eka}	svAXyAya-aByasana{napuM}{1;eka}	karwqsamAnAXikaraNam,9.1	vexa-SAswroM_ke_paTana_kA_aByAsa	pracwice_oq_Vexic_swuxy	<<sva-aXyAya>W6-aByasanaM>Xs			
+8	ca	7	cEva	ca{avya}	ca{avya}	samuccayaxyowakaH,7	waWA	also				
+9	eva	11	0	eva{avya}	eva{avya}	sambanXaH,9.1	hI	cerwainly				
+9.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2	(hE)	is				
+10	vAfmayam	12	vAfmayaM	vAfmaya{puM}{2;eka}/vAfmaya{napuM}{1;eka}/vAfmaya{napuM}{2;eka}/vAfmaya{puM}{2;eka}/vAfmaya{napuM}{1;eka}/vAfmaya{napuM}{2;eka}	vAfmaya{napuM}{1;eka}	karma,12	vANIsambanXI	oq_whe_voice				
+11	wapaH	13	wapa	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	karmasamAnAXikaraNam,12	wapa	ausweriwy				
+12	ucyawe	14	ucyawe	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,11;sakarmakaH	kahA_jAwA_hE	is_saix_wo_be				
+12.1	(waw)	10	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{1;eka})	viSeRaNam,11	(vaha)	whaw				

@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	we	1	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	karwA,9	ve	whey				
+2	wam	2	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	viSeRaNam,4	usa	whaw				
+3	BukwvA	5	BukwvA	BukwvA	Buj2{kqw_prawyayaH:kwvA;Bujaz;ruXAxiH}	pUrvakAlaH,9	Bogakara	enjoying				
+4	svarga-lokam	4	svargalokaM	svargaloka{puM}{2;eka}	svarga-loka{puM}{2;eka}	karma,3	svargaloka_ko	heaven	<svarga-lokam>K1			
+5	viSAlam	3	viSAlaM	viSAla{puM}{2;eka}/viSAla{napuM}{1;eka}/viSAla{napuM}{2;eka}	viSAla{puM}{2;eka}	viSeRaNam,4	viSAla	vasw				
+6	kRINe	7	kRINe	kRINa{puM}{7;eka}/kRINa{napuM}{1;xvi}/kRINa{napuM}{2;xvi}/kRINa{napuM}{7;eka}/kRINa{napuM}{8;xvi}/kRINA{swrI}{1;xvi}/kRINA{swrI}{2;xvi}/kRINA{swrI}{8;eka}/kRINA{swrI}{8;xvi}	kRI1{kqw_prawyayaH:kwa;kRIR;kryAxiH;napuM}{7;eka}	BAvalakRaNasapwamI_pUrvakAlaH,9	kRINa_honepara	being_eLhauswex				
+7	puNye	6	puNye	puNya{napuM}{1;xvi}/puNya{napuM}{2;xvi}/puNya{napuM}{7;eka}/puNya{napuM}{8;xvi}/puNyA{swrI}{1;xvi}/puNyA{swrI}{2;xvi}/puNyA{swrI}{8;eka}/puNyA{swrI}{8;xvi}/puN1{BAve;lat;u;eka;AwmanepaxI;puNaz;wuxAxiH}	puNya{napuM}{7;eka}	karwA,6	puNya	meriws				
+8	marwya-lokam	8	marwyalokaM	marwyaloka{puM}{2;eka}	marwya-loka{puM}{2;eka}	karma,9	mqwyuloka_ko	morwal_earwh	<marwya-lokam>W6			
+9	viSanwi	9	viSanwi	viSaw{napuM}{1;bahu}/viSaw{napuM}{2;bahu}/viSaw{napuM}{8;bahu}	viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	aBihiwa_karwA,1;sakarmakaH	prApwa_howe_hEM	qall_xotn				
+10	evam	10	evaM	evam{avya}	evam{avya}	sambanXaH,15	isa_prakAra	whus				
+11	wrayI-Xarmam	11	wrayIXarmamanuprapannA	wrayIXarma{puM}{2;eka}	wrayI-Xarma{puM}{2;eka}	sambanXaH,12	wInoM_vexoM_meM_kahe_hue_sakAma_karma_kA	whe_whree_xocwrines_i.e.,_Vexas	<wrayI-Xarmam>Wxs			
+12	anuprapannAH	12	0	anuprapanna{puM}{1;bahu}/anuprapanna{puM}{8;bahu}/anuprapannA{swrI}{1;bahu}/anuprapannA{swrI}{2;bahu}/anuprapannA{swrI}{8;bahu}	anuprapanna{puM}{1;bahu}	viSeRaNam,15.1	ASraya_lenevAle	qolloting				
+13	gawa-Agawam	15	gawAgawaM	gawa-Agawa{puM}{2;eka}/Agawa{napuM}{1;eka}/Agawa{napuM}{2;eka}	gawa-Agawa{puM}{2;eka}	karma,15	bAra-bAra_AvAgamana_ko	xeawh_anx_birwh	<gawa-AgawaM>Xs			
+14	*kAma-kAmAH	13	kAmakAmA	kAma-kAma{puM}{1;bahu}/kAma{puM}{8;bahu}/kAmA{swrI}{1;bahu}/kAmA{swrI}{2;bahu}/kAmA{swrI}{8;bahu}	kAma-kAma{puM}{1;bahu}	viSeRaNam,15.1	BogoM_kI_kAmanAvAle	xesiring_sense_enjoymenws	<kAma-kAmAH>W6			
+15	laBanwe	16	laBanwe	laB1{karwari;lat;pra;bahu;AwmanepaxI;dulaBazR;BvAxiH}	laB1{karwari;lat;pra;bahu;AwmanepaxI;dulaBazR;BvAxiH}	aBihiwa_karwA,15.1;sakarmakaH	prApwa_howe_hEM	awwain				
+15.1	(janAH)	14	(0)	(jana{puM}{1;bahu}/jana{puM}{8;bahu})	(jana{puM}{1;bahu})	karwA,15	(puruRa)	persons				

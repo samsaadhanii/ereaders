@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wamaH	4	wamaswvajFAnajaM	wama{puM}{1;eka}/wamas{napuM}{1;eka}/wamas{napuM}{2;eka}/wamas{napuM}{8;eka}	wamas{napuM}{2;eka}	karma,4	wamoguNa_ko	moxe_oq_ignorance				
+2	wu	5	0	wu{avya}	wu{avya}	sambanXaH,1	wo	buw				
+3	a-jFAna-jam	6	0	ajFAnajam	ajFAna-ja{napuM}{2;eka}	karmasamAnAXikaraNam,4	ajFAna_se_uwpanna	proxucws_oq_ignorance	<<na-jFAna>Wn-jaM>U			
+4	vixXi	7	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,6.1;sakarmakaH	jAna	knoting				
+5	mohanam	3	mohanaM	mohana{puM}{2;eka}	mohana{napuM}{2;eka}	viSeRaNam,1	mohiwa_karanevAle	xelusion				
+6	sarva-xehinAm	2	sarvaxehinAm	sarva-xehin{puM}{6;bahu}/xehin{napuM}{6;bahu}	sarva-xehin{puM}{6;bahu}	RaRTIsambanXaH,5	saba_xehABimAniyoM_ko	oq_all_emboxiex_beings	<sarva-xehinAm>W6			
+6.1	(wvam)	2	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wuma)	you				
+7	pramAxa-Alasya-nixrABiH	10	pramAxAlasyanixrABiswannibaXnAwi	pramAxa-Alasya-nixrA{swrI}{3;bahu}	pramAxa-Alasya-nixrA{swrI}{3;bahu}	karaNam,9	pramAxa_Alasya_Ora_nixrA_ke_xvArA	by_maxness_inxolence_anx_sleep	<pramAxa-Alasya-nixrABiH>Xs			
+8	waw	8	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karwA,9	vaha	whaw				
+9	nibaXnAwi	11	0	ni_banX1{karwari;lat;pra;eka;parasmEpaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;eka;parasmEpaxI;ni_banXaz;kryAxiH}	aBihiwakarwA,8;sakarmakaH	bAzXawA_hE	binxs				
+10	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_oq_Bharawa				
+10.1	(xehinam)	9	(0)	(xehin{puM}{2;eka})	(xehin{puM}{2;eka})	karma,9	(isa_jIvAwmA_ko)	whe_emboxiex				

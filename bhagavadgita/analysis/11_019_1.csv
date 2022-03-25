@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	an-Axi-maXya-anwam	3	anAximaXyAnwamananwavIryamananwabAhuM	anAxin-maXya-anwa{puM}{2;eka}/anwa{napuM}{1;eka}/anwa{napuM}{2;eka}	anAxi-maXya-anwa{puM}{2;eka}	sup_samucciwaH,7	Axi_anwa_Ora_maXya_se_rahiwa	tiwhouw_beginning_mixxle_anx_enx	<na-<Axi-maXya-anwam>Xi>Bs6			
+2	an-anwa-vIryam	4	0	ananwa-vIrya{napuM}{1;eka}/vIrya{napuM}{2;eka}	ananwa-vIrya{puM}{2;eka}	sup_samucciwaH,7	ananwa_sAmarWya_se_yukwa	unlimiwex_glory	<<na-anwa>Bsmn-vIryam>Bs6			
+3	an-anwa-bAhum	5	0	ananwa-bAhu{puM}{2;eka}	ananwa-bAhu{puM}{2;eka}	sup_samucciwaH,7	ananwa_BujAvAle	unlimiwex_arms	<<na-anwa>Bsmn-bAhuM>Bs6			
+4	SaSi-sUrya-newram	6	SaSisUryanewram	SaSin-sUrya-newra{napuM}{1;eka}/newra{napuM}{2;eka}	SaSin-sUrya-newra{puM}{2;eka}	sup_samucciwaH,7	canxra_sUryarUpa_newroMvAle	eyes_oq_moon_anx_sun	<<SaSi-sUrya>Xi-newram>Bs6			
+5	paSyAmi	13	paSyAmi	xqS1{karwari;lat;u;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;u;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,11.1;sakarmakaH	xeKawA_hUz	see				
+6	wvAm	2	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,5	Apako	you				
+7	xIpwa-huwASa-vakwram	7	xIpwahuwASavakwraM	xIpwa-huwASa-vakwra{puM}{2;eka}/vakwra{napuM}{1;eka}/vakwra{napuM}{2;eka}	xIpwa-huwASa-vakwra{puM}{2;eka}	karmasamAnAXikaraNam,5	prajvaliwa_AgnirUpa_muKavAle	blaRing_qire_coming_ouw_oq_your_mouwh	<<xIpwa-huwASa>K3-vakwram>Bs6			
+7.1	(ca)	8	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,7	(Ora)	also				
+8	sva-wejasA	9	svawejasA	sva-wejas{napuM}{3;eka}	sva-wejas{napuM}{3;eka}	karaNam,11	apane_weja_se	by_your	<sva-wejasA>W6			
+9	viSvam	11	viSvamixaM	viSva{puM}{2;eka}/viSva{napuM}{1;eka}/viSva{napuM}{2;eka}/viSva{puM}{2;eka}	viSva{napuM}{2;eka}	karma,11	jagaw_ko	universe				
+10	ixam	10	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,9	isa	whis				
+11	wapanwam	12	wapanwam	wapaw{puM}{2;eka}	wap1{kqw_prawyayaH:Sawq;wapaz;BvAxiH;napuM}{2;eka}	viSeeRaNam,7	saMwapwa_karawe_hue	heawing				
+11.1	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	aBihiwakarwA,5;sakarmakaH	(mEM)	I				

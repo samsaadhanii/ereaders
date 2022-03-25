@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ixam	2	ixaM	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	karma,11	yaha_gIwArUpa_rahasyamaya_upaxeSa	whis				
+2	we	1	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	karwA,11	wuJe	you				
+3	na	4	nAwapaskAya	na{avya}	na{avya}	prawiReXaH,4	na	never				
+4	a-wapaskAya	5	0	awapaska{puM}{4;eka}/awapaska{napuM}{4;eka}	awapaska{puM}{4;eka}	su्psamucciwam,10	waparahiwa_manuRya_se	one_tho_is_now_auswere	<na-wapaskAya>Bsmn			
+5	na	6	nABakwAya	na{avya}	na{avya}	prawiReXaH,6	na	never				
+6	a-BakwAya	7	0	aBakwa{puM}{4;eka}/aBakwa{napuM}{4;eka}	na-Baj1{kqw_prawyayaH:kwa;Bajaz;BvAxiH;puM}{4;eka}	su्psamucciwam,10	Bakwirahiwa_se	one_tho_is_now_a_xevowee	<na-aBakwAya>Wn			
+7	kaxAcana	3	kaxAcana	kaxAcana{avya}	kaxAcana{avya}	aXikaraNam,11	kisI_BI_kAla_meM	aw_any_wime				
+8	na	9	na	na{avya}	na{avya}	prawiReXaH,10	na	never				
+9	ca	8	cASuSrURave	ca{avya}	ca{avya}	sambanXaH,11	Ora	also				
+10	a-SuSrURave	10	0	aSuSrURu{puM}{4;eka}	na-SuSrURu{puM}{4;eka}	sampraxAnam,11	binA_sunane_kI_icCAvAle_se	one_tho_is_now_engagex_in_xevowional_service	<na-SuSrURave>Wn			
+11	vAcyam	11	vAcyaM	vAcya{puM}{2;eka}/vAcya{napuM}{1;eka}/vAcya{napuM}{2;eka}	vac1{kqw_prawyayaH:Nyaw;vacaz;axAxiH;napuM}{1;eka}		kahanA_cAhiye	wo_be_spoken				
+12	na	16	na	na{avya}	na{avya}	prawiReXaH,16.1	nahIM	now				
+13	ca	12	ca	ca{avya}	ca{avya}	sambanXaH,16	Ora	also				
+14	mAm	14	mAM	asmax{2;eka}	asmax{2;eka}	karma,16	muJameM	unwo_Me				
+15	yaH	13	yoZByasUyawi	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,16;niwyasambanXaH,16.1	jo	never				
+16	aByasUyawi	15	0	aByasUyawi	aBi_asUya{karwari;lat;pra;eka;parasmEpaxI;asUya}	aBihiwakarwA,15;sakarmakaH	xoRaxqRti_raKawA_hE	envious				
+16.1	(wasmE)	17	(0)	(wax{puM}{4;eka}/wax{napuM}{4;eka})	(wax{puM}{4;eka})	su्psamucciwam,10	(usase)	you				

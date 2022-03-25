@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	pavanaH	3	pavanaH	pavana{puM}{1;eka}	pavana{puM}{1;eka}	karwqsamAnAXikaraNam,3	vAyu	whe_tinx				
+2	pavawAm	2	pavawAmasmi	pavaw{puM}{6;bahu}/pavaw{napuM}{6;bahu}/pavawA{swrI}{2;eka}/pU1{karwari;lot;pra;eka;AwmanepaxI;pUf;BvAxiH}	pU1_Nic{kqw_prawyayaH:Sawq;pUf_Nic;BvAxiH;puM}{6;bahu}	nirXAraNam,1	paviwra_karanevAloM_meM	oq_all_whaw_puriqies				
+3	asmi	6	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa	hUz	am				
+4	rAmaH	5	rAmaH	rAma{puM}{1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;axAxiH}	rAma{puM}{1;eka}	supsamucciwam,8	SrIrAma	Nama				
+5	Saswra-BqwAm	4	SaswraBqwAmaham	Saswra-BqwA{swrI}{2;eka}	Saswra-Bqwa{puM}{6;bahu}	nirXAraNam,4	SaswraXAriyoM_meM	oq_whe_carriers_oq_teapons	<Saswra-BqwAm>U			
+6	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,3	mEM	I				
+7	JaRANAm	7	JaRANAM	JaRa{puM}{6;bahu}/JaRa{napuM}{6;bahu}	JaRa{puM}{6;bahu}	nirXAraNam,8	maCaliyoM_meM	oq_all_aduawics				
+8	makaraH	8	makaraScAsmi	makara{puM}{1;eka}	makara{puM}{1;eka}	karwqsamAnAXikaraNam,10	magara	crocoxile				
+9	ca	12	0	ca{avya}	ca{avya}	samuccayaxyowakaH,8	Ora	also				
+10	asmi	9	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,6;akarmakaH	hUz	am				
+11	srowasAm	10	srowasAmasmi	srowas{napuM}{6;bahu}	sru1_Nic{kqw_prawyayaH:Sawq;sru_Nic;BvAxiH;napuM}{6;bahu}	nirXAraNam,13	naxiyoM_meM	oq_qloting_rivers				
+12	asmi	13	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,12;akarmakaH	hUz	am				
+13	jAhnavI	11	jAhnavI	jAhnavI	jAhnavI{swrI}{1;eka}	karwqsamAnAXikaraNam,12	SrIBAgIraWI_gaMgAjI	whe_Niver_Ganges				
+13.1	(aham)		()	asmax{1;eka}	asmax{1;eka}	karwA,10						

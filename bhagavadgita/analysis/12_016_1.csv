@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	an-apekRaH	2	anapekRaH	anapekRa{puM}{1;eka}	na-apekRa{puM}{1;eka}	sup_samucciwam,8	AkAMkRA_se_rahiwa	neuwral	<na-apekRaH>Bsmn			
+2	SuciH	3	SucirxakRa	Suci{puM}{1;eka}/Suci{swrI}{1;eka}	Suci{puM}{1;eka}	sup_samucciwam,8	bAhara-BIwara_se_SuxXa	pure				
+3	xakRaH	4	0	xakRa{puM}{1;eka}	xakRa{puM}{1;eka}	sup_samucciwam,8	cawura	eLperw				
+4	uxAsInaH	5	uxAsIno	uxAsIna{puM}{1;eka}	uxAsIna{puM}{1;eka}	sup_samucciwam,8	pakRapAwa_se_rahiwa	qree_qrom_care				
+5	gawa-vyaWaH	6	gawavyaWaH	gawavyaWa{puM}{1;eka}	gawa-vyaWa{puM}{1;eka}	sup_samucciwam,8	xuHKoM_se_CUtA_huA	qreex_qrom_all_xiswress	<gawa-vyaWaH>Bs5			
+6	sarva-AramBa-pariwyAgI	9	sarvAramBapariwyAgI	sarvAramBapariwyAgI	sarva-AramBa-pariwyAgin{puM}{1;eka}	sup_samucciwam,8	saba_AramBoM_kA_wyAgI	renouncer_oq_all_enxeavors	<<sarva-AramBa>K1-pariwyAgI>W6			
+7	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,8.1;niwyasambanXaH,9	jo_(puruRa)	anyone				
+8	max-BakwaH	10	maxBakwaH	maxBakwa{puM}{1;eka}	asmax-Bakwa{puM}{1;eka}	karwqsamAnAXikaraNam,8.1	merA_Bakwa	My_xevowee	<asmaw-BakwaH>W6			
+8.1	(aswi)	7	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,7;akarmakaH	(hE)	is				
+9	saH	8	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,11.1	vaha	he				
+10	me	11	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,11	muJako	me				
+11	priyaH	12	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	karwqsamAnAXikaraNam,11.1	priya	very_xear				
+11.1	(aswi)	13	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,9;akarmakaH	(hE)	is				

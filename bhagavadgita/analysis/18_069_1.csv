@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	7	na	na{avya}	na{avya}	prawiReXaH,8	nahIM	never				
+2	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,8	BI	anx				
+3	wasmAw	1	wasmAnmanuRyeRu	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,8	usase_baDa़kara	whereqore				
+4	manuRyeRu	4	0	manuRya{puM}{7;bahu}	manuRya{puM}{7;bahu}	nirXAraNam,5	manuRyoM_meM	among_mankinx				
+5	kaSciw	5	kaScinme	kaSciw{avya}/kiFciw{puM}{1;eka}	kiFciw{puM}{1;eka}	karwA,8	koI	anyone				
+6	me	2	0	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,7	merA	my				
+7	priya-kqwwamaH	3	priyakqwwamaH	priyakqwwama{puM}{1;eka}	priya-kqwwama{puM}{1;eka}	karwqsamAnAXikaraNam,8	priya_kArya_karanevAlA	more_xear	<priya-kqwwamaH>W7			
+8	BaviwA	16	BaviwA	as2{karwari;lut;pra;eka;parasmEpaxI;asaz;axAxiH}/as2{BAve;lut;pra;eka;AwmanepaxI;asaz;axAxiH}/BaviwA{swrI}{1;eka}/BU1{karwari;lut;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lut;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,5;akarmakaH	BaviRya_meM_hogA	till_become				
+9	na	15	na	na{avya}	na{avya}	prawiReXaH,8	nahIM	nor				
+10	ca	9	ca	ca{avya}	ca{avya}	sambanXaH,16	waWA	anx				
+11	me	12	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,14	merA	my				
+12	wasmAw	11	wasmAxanyaH	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{napuM}{5;eka}	hewuH,15.1	usase_baDa़kara	whan_him				
+13	anyaH	14	0	anya{puM}{1;eka}	anya{puM}{1;eka}	karwA,15.1	xUsarA_koI	owher				
+14	priya-waraH	13	priyawaro	priyawara{puM}{1;eka}	priya-wara{puM}{1;eka}	karwqsamAnAXikaraNam,15.1	priya	xearer				
+15	Buvi	10	Buvi	BU{swrI}{7;eka}	BU{swrI}{7;eka}	aXikaraNam,8	pqWvIBara_meM	in_whis_torlx				
+15.1	(aswi)	8	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13;akarmakaH	(hE)	is				

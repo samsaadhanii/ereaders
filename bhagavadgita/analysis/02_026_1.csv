@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aWa_ca (yaxyapi)	1	aWa	aWa{avya}_ca/ca{avya}	aWa{avya}_ca{avya}	sambanXaH,6;niwyasambanXaH,8	kiMwu	iq				
+2	enam	3	cEnaM	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,6	isako	whis_soul				
+3	niwya-jAwam	4	niwyajAwaM	niwya-jAwa{puM}{2;eka}/jAwa{napuM}{1;eka}/jAwa{napuM}{2;eka}	niwya-jAwa{puM}{2;eka}	anyawaraH,7	saxA_janma_lenevAlA	conswanwly_born	<niwya-jAwam>K1			
+4	niwyam	5	niwyaM	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{2;eka}	viSeRaNam,7	saxA	conswanwly				
+5	vA	7	vA	vA{avya}	vA{avya}	anyawaraxyowakaH,7	waWA	also				
+6	manyase	8	manyase	man1{karmaNi;lat;ma;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;ma;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;ma;eka;AwmanepaxI;manaz;xivAxiH}	aBihiwikarwA,7.1;sakarmakaH	mAnawe_ho	shoulx_suppose				
+7	mqwam	6	mqwam	mqwa{puM}{2;eka}/mqwa{napuM}{1;eka}/mqwa{napuM}{2;eka}	mqwa{napuM}{2;eka}	karmasamAnAXikaraNam,6	maranevAlA	xeax				
+7.1	(wvam)	2	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,6	(wuma)	you				
+8	waWApi	9	waWApi	waWApi{avya}	waWApi{avya}	sambanXaH,14	wo_BI	even_when				
+9	wvam	11	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,6	wuma	you				
+10	mahAn-bAho	10	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,14	he_mahAbAho	O_mighwy-armex_one	<mahaw-bAho>Bs6			
+11	na	14	nEvaM	na{avya}	na{avya}	prawiReXaH,14	nahIM	now				
+12	evam	12	0	evam{avya}	evam{avya}	kriyAviSeRaNam,13	isa_prakAra	like_whis				
+13	Sociwum	13	Sociwumarhasi	Suc1{kqw_prawyayaH:wumun;Sucaz;BvAxiH}/Suc2{kqw_prawyayaH:wumun;IzSucizr;xivAxiH}	Suc1{kqw_prawyayaH:wumun;Sucaz;BvAxiH}	prayojanam,14	Soka_karane_ke_lie	grieve				
+14	arhasi	15	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwikarwA,9;sakarmakaH	yogya_ho	shoulx				

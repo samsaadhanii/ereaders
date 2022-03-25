@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	karma-inxriyANi	3	karmenxriyANi	karman-inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}	karman-inxriya{napuM}{2;bahu}	karma,2	samaswa_inxriyoM_ko	whe_organs_oq_sense_anx_acwion	<karma-inxriyANi>W6			
+2	saMyamya	4	saMyamya	sam_yam1{kqw_prawyayaH:lyap;yamoz;BvAxiH}/sam_yam2{kqw_prawyayaH:lyap;yamaz;BvAxiH}/sam_yam3{kqw_prawyayaH:lyap;yamaz;curAxiH}	sam_yam1{avya;lyap;yamuz;:BvAxiH}	pUrvakAlaH,4	rokakara	ouwtarxly_reswraining				
+3	yaH	1	ya	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,8;niwyasambanXaH,10	jo	he_tho				
+4	Aswe	8	Aswe	As1{karwari;lat;pra;eka;AwmanepaxI;Asaz;axAxiH}	As1{karwari;lat;pra;eka;AwmanepaxI;Asaz;axAxiH}	aBihiwa_karwA,4;akarmakaH	rahawA_hE	siws				
+5	manasA	5	manasA	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	karaNam,6	mana_se	menwally				
+6	smaran	7	smaran	smaraw{puM}{1;eka}/smaraw{puM}{8;eka}	smq1{kqw_prawyayaH:Sawq;smq;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,4	cinwan_karawA	xtelling				
+7	inxriya-arWAn	6	inxriyArWAnvimUDAwmA	inxriya-arWa{puM}{2;bahu}	inxriya-arWa{puM}{2;bahu}	karma,6	inxriyoM_ke_viRayoM_kA	on_whe_objecws_oq_senses	<inxriya-arWAn>W6			
+8	vi-mUDa-AwmA	2		vimUDa-Awman{puM}{1;eka}	vimUDa-Awman{puM}{1;eka}	karwA,4	mUDa़buxXi_manuRya	whe_man_oq_xeluxex_inwellecw	<<vi-mUDa>Wp-AwmA>Bs6			
+9	miWyA-AcAraH	10	miWyAcAraH	miWyA-AcAra{puM}{1;eka}	miWyA-AcAra{puM}{1;eka}	karmasamAnAXikaraNam,11	miWyAcArI_arWAw_xamBI	a_hypocriwe	<miWyA-AcAraH>Bs6			
+10	saH	9	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,11	vaha	he				
+11	ucyawe	11	ucyawe	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karma,10;sakarmakaH	kahA_jAwA_hE	(he)is_callex				

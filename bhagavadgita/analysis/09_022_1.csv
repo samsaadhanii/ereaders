@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	an-anyAH	2	ananyAScinwayanwo	ananyA{swrI}{1;bahu}/ananyA{swrI}{2;bahu}/ananyA{swrI}{8;bahu}	ananya{puM}{1;bahu}	viSeRaNam,5	ananya_premI	no_owher	<na-anyAH>Bsmn			
+2	cinwayanwaH	5	0	cinwayaw{puM}{1;bahu}/cinwayaw{puM}{8;bahu}	cinw1{kqw_prawyayaH:Sawq;ciwiz;curAxiH;puM}{1;bahu}	samAnakAlaH,6	niranwara_cinwana_karawe_hue	concenwrawing				
+3	mAm	4	mAM	asmax{2;eka}	asmax{2;eka}	karma,2	muJako_(parameSvara_ko)	unwo_Me				
+4	ye	1	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,5;niwyasambanXaH,7	jo	tho				
+5	janAH	3	janAH	jana{puM}{1;bahu}/jana{puM}{8;bahu}	jana{puM}{1;bahu}	karwA,6	Bakwajana	persons				
+6	paryupAsawe	6	paryupAsawe	paryupAsawe	pari_upa_As1{karwari;lat;pra;bahu;AwmanepaxI;pari_upa_Asaz;axAxiH}	aBihiwa_karwA,5;akarmakaH	niRkAmaBAvase_Bajawe_hEM	properly_torship				
+7	weRAm	7	weRAM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	viSeRaNam,8	una	wheir				
+8	niwya-aBiyukwAnAm	8	niwyABiyukwAnAM	niwyABiyukwAnAm	niwya-aBi_yuj2{kqw_prawyayaH:kwa;aBi_yujizr;ruXAxiH;puM}{6;bahu}	RaRTIsambanXaH,9	niwya-niranwara_merA_cinwana_karanevAle_puruRoM_kA	altays_qiLex_in_xevowion	<niwya-aBiyukwAnAm>K1			
+9	yoga-kRemam	9	yogakRemaM	yoga-kRema{puM}{2;eka}/kRema{napuM}{1;eka}/kRema{napuM}{2;eka}	yoga-kRema{puM}{2;eka}	karma,10	yogakRema	reduiremenws	<yoga-kRemaM>Xs			
+10	vahAmi	11	vahAmyaham	vah1{karwari;lat;u;eka;parasmEpaxI;vahaz;BvAxiH}	vah1{karwari;lat;u;eka;parasmEpaxI;vahaz;BvAxiH}	aBihiwa_karwA,11; xvikarmakaH	prApwa_kara_xewA_hUz	carry				
+11	aham	10	0	asmax{1;eka}	asmax{1;eka}	karwA,10	mEM_(svayaM)	I				

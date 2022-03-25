@@ -1,0 +1,28 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mahaw-BUwAni	2	mahABUwAnyahafkAro	mahaw-BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}	mahax-BUwa{napuM}{1;bahu}	GatakaH,21	mahABUwa	greaw_elemenws	<mahaw-BUwAni>K1			
+1.1	(paFca)	1	(0)	(paFcan{1;bahu}/paFcan{2;bahu}/paFc2{karwari;lot;ma;eka;parasmEpaxI;paciz;curAxiH})	(paFcan{1;bahu})	viSeRaNam,1	(pAzca)	qive				
+2	ahafkAraH	3	0	ahafkAra{puM}{1;eka}	ahafkAra{puM}{1;eka}	GatakaH,21	ahaMkAra	qalse_ego				
+3	buxXiH	4	buxXiravyakwameva	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	GatakaH,21	buxXi	inwelligence				
+4	a-vyakwam	5	0	a-vyakwa{puM}{2;eka}/vyakwa{napuM}{1;eka}/vyakwa{napuM}{2;eka}	avyakwa{puM}{1;eka}	GatakaH,21	mUla_prakqwi	whe_unmaniqeswex	<na-vyakwam>Wn			
+5	eva	6	0	eva{avya}	eva{avya}	sambanXaH,6	BI	cerwainly				
+6	ca	7	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,4	Ora	also				
+7	inxriyANi	9	inxriyANi	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}	inxriya{napuM}{1;bahu}	GatakaH,21	inxriyAz	senses				
+8	xaSa	8	xaSEkaM	xaSan{1;bahu}/xaSan{2;bahu}/xaMS1{karwari;lot;ma;eka;parasmEpaxI;xaMSaz;BvAxiH}	xaSan{1;bahu}	viSeRaNam,7	xasa	wen				
+9	ekam	10	0	eka{puM}{2;eka}/eka{napuM}{1;eka}/eka{napuM}{2;eka}	eka{napuM}{1;eka}	viSeRaNam,9.1	eka	one				
+9.1	(manaH)	12	(0)	(manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka})	(manas{napuM}{1;eka})	GatakaH,21	(mana)	minx				
+10	ca	11	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,9.1	waWA	also				
+11	paFca	13	paFca	paFcan{1;bahu}/paFcan{2;bahu}/paFc2{karwari;lot;ma;eka;parasmEpaxI;paciz;curAxiH}	paFcan{1;bahu}	viSeRaNam,13	pAzca	qive				
+12	ca	14	cenxriyagocarAH	ca{avya}	ca{avya}	samuccayaxyowakaH,13	Ora	also				
+13	inxriya-gocarAH	15	0	inxriya-gocara{puM}{1;bahu}	inxriya-gocara{puM}{1;bahu}	GatakaH,21	inxriyoM_ke_viRaya	objecws_oq_whe_senses	<inxriya-gocarAH>W6			
+14	icCA	16	icCA	icCA{swrI}{1;eka}	icCA{swrI}{1;eka}	GatakaH,21	icCA	xesire				
+15	xveRaH	17	xveRaH	xveRa{puM}{1;eka}	xveRa{puM}{1;eka}	GatakaH,21	xveRa	hawrex				
+16	suKam	18	suKaM	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{1;eka}	GatakaH,21	suKa	happiness				
+17	xuHKam	19	xuHKaM	xuHKa{napuM}{1;eka}/xuHKa{napuM}{2;eka}	xuHKa{napuM}{1;eka}	GatakaH,21	xuHKa	xiswress				
+18	safGAwaH	20	safGAwaScewanA	safGAwa{puM}{1;eka}	safGAwa{puM}{1;eka}	GatakaH,21	sWUla_xeha_kA_piNda	whe_aggregawe				
+19	cewanA	21	0	cewanA{swrI}{1;eka}	cewanA{swrI}{1;eka}	GatakaH,21	cewanA	living_sympwoms				
+20	XqwiH	22	XqwiH	Xqwi{swrI}{1;eka}	Xqwi{swrI}{1;eka}	GatakaH,21	Xqwi	convicwion				
+21	ewaw	23	ewawkRewraM	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{1;eka}	karma,25	yaha	all_whis				
+22	kRewram	25	0	kRewra{napuM}{1;eka}/kRewra{napuM}{2;eka}	kRewra{napuM}{1;eka}	karmasamAnAXikaraNam,25	kRewra	whe_qielx_oq_acwiviwies				
+23	samAsena	26	samAsena	samAsa{puM}{3;eka}	samAsa{puM}{3;eka}	kriyAviSeRaNam,24	saMkRopa_meM	in_summary				
+24	sa-vikAram	24	savikAramuxAhqwam	sa-vikAra{puM}{2;eka}/vikAra{napuM}{1;eka}/vikAra{napuM}{2;eka}	sa-vikAra{napuM}{1;eka}	viSeRaNam,22	vikAroM_ke_sahiwa	inweracwion	<sa-vikAram>BvS			
+25	uxAhqwam	27	0	uxAhqwa{puM}{2;eka}/uxAhqwa{napuM}{1;eka}/uxAhqwa{napuM}{2;eka}	uw_Af_hq1{kqw_prawyayaH:kwa;uw_Af_hqF;BvAxiH;napuM}{1;eka}	aBihiwakarma,21;sakarmakaH	kahA_gayA_hE	eLempliqiex				

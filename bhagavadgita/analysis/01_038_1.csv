@@ -1,0 +1,22 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaxyapi	1	yaxyapyewe	yaxyapi{avya}	yaxyapi{avya}	sambanXaH,4	yaxyapi	even_whough				
+2	ewe	3	0	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{puM}{1;bahu}	karwA,4	ye_(loga)	whey				
+3	na	9	na	na{avya}	na{avya}	prawiReXaH,4	nahIM	shall_now				
+4	paSyanwi	10	paSyanwi	paSyaw{napuM}{1;bahu}/paSyaw{napuM}{2;bahu}/xqS1{karwari;lat;pra;bahu;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;bahu;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,2;sakarmakaH	xeKawe	perceive				
+5	loBa-upahawa-cewasaH	2	loBopahawacewasaH	loBa-upahawa-cewas{napuM}{5;eka}/cewas{napuM}{6;eka}	loBa-upahawa-cewas{puM}{1;bahu}	viSeRaNam,2	loBa_se_BraRtaciwwa_hue	tiwh_wheir_minx_blinxex_by_greex	<<loBa-upahawa>W3-cewasaH>Bs6			
+6	kula-kRaya-kqwam	4	kulakRayakqwaM	kula-kRaya-kqw{puM}{2;eka}/kqwa{puM}{2;eka}/kqwa{napuM}{1;eka}/kqwa{napuM}{2;eka}	kula-kRaya-kqw{puM}{2;eka}	viSeRaNam,7	kula_ke_nASa_se_uwpanna	in_xeswroying_wheir_otn_race	<<kula-kRaya>W6-kqwaM>W3			
+7	xoRam	5	xoRaM	xos{puM}{2;eka}/xoRa{puM}{2;eka}	xoRa{puM}{2;eka}	sup_samucciwam,10	xoRa_ko	evil				
+8	miwra-xrohe	7	miwraxrohe	miwra-xroha{puM}{7;eka}	miwra-xroha{puM}{7;eka}	viRayAXikaraNam,10	miwroM_se_viroXa_karane_meM	wreason_wo_qrienxs	<miwra-xrohe>W6			
+9	ca	6	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,8	Ora	anx				
+10	pAwakam	8	pAwakam	pAwaka{puM}{2;eka}/pAwaka{napuM}{1;eka}/pAwaka{napuM}{2;eka}	paw1_Nic{kqw_prawyayaH:Nvul;pawlq;BvAxiH;puM}{2;eka}	karma,4	pApa_ko	sin				
+11	kaWam	19	kaWaM	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,13	kyoM	thy				
+12	na	20	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	shoulx_now				
+13	jFeyam	21	jFeyamasmABiH	jFeya{puM}{2;eka}/jFeya{napuM}{1;eka}/jFeya{napuM}{2;eka}	jFA2{kqw_prawyayaH:yaw;jFA;kryAxiH;napuM}{1;eka}		vicAra_karanA_cAhiye	whink_oq				
+14	asmABiH	15	0	asmax{3;bahu}	asmax{3;bahu}	karwA,13	hamako	by_us				
+15	pApAw	17	pApAxasmAnnivarwiwum	pApa{puM}{5;eka}/pApa{napuM}{5;eka}	pApa{napuM}{5;eka}	apAxAnam,17	pApa_se	qrom_sins				
+16	asmAw	16	0	ixam{puM}{5;eka}/ixam{napuM}{5;eka}	ixam{napuM}{5;eka}	viSeRaNam,15	isa	qrom_whese				
+17	nivarwiwum	18	0	nivarwiwum	ni_vqw1{kqw_prawyayaH:wumun;ni_vqwuz;BvAxiH}	sahAyakakriyA,13	hatane_ke_liye	xesiswing_qrom_commiwwing				
+18	kula-kRaya-kqwam	12	kulakRayakqwaM	kula-kRaya-kqw{puM}{2;eka}/kqwa{puM}{2;eka}/kqwa{napuM}{1;eka}/kqwa{napuM}{2;eka}	kula-kRaya-kqw{puM}{2;eka}	viSeRaNam,19	kula_ke_nASa_se_uwpanna	accruing_qrom_whe_xeswrucwion_oq_oneZs_qamily	<<kula-kRaya>W6-kqwaM>W3			
+19	xoRam	13	xoRaM	xos{puM}{2;eka}/xoRa{puM}{2;eka}	xoRa{puM}{2;eka}	karma,13	xoRa_ko	qoul_xeex				
+20	prapaSyaxBiH	14	prapaSyaxBirjanArxana	prapaSyaw{puM}{3;bahu}/prapaSyaw{napuM}{3;bahu}	prapaSyaw{puM}{3;bahu}	viSeRaNam,14	jAnanevAle	by_whose_tho_can_see_clearly				
+21	janArxana	11	0	janArxana{puM}{8;eka}	janArxana{puM}{8;eka}	samboXyaH,13	he_janArxana	O_Krsna				

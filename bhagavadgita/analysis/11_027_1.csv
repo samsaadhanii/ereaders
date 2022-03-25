@@ -1,0 +1,31 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	amI	1	amI	axas{puM}{1;bahu}	axas{puM}{1;bahu}	viSeRaNam,5	ve	all_whose				
+2	ca	10	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora	also				
+3	wvAm	8	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	aBexaH,19	ApameM	you				
+4	XqwarARtrasya	4	XqwarARtrasya	XqwarARtra{puM}{6;eka}	XqwarARtra{puM}{6;eka}	RaRTIsambanXaH,5	XqwarARtra_ke	oq_Xhrwaraswra				
+5	puwrAH	5	puwrAH	puwra{puM}{1;bahu}/puwra{puM}{8;bahu}	puwra{puM}{1;bahu}	aBexaH,6	puwra	sons				
+6	sarve	2	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,22	saBI	all				
+7	saha	7	sahEvAvanipAlasafGEH	saha{avya}/saha{puM}{8;eka}	saha{avya}	sahArWa_xyowakaH,9	sahiwa	tiwh				
+8	eva	3	0	eva{avya}	eva{avya}	sambanXaH,7	hI	cerwainly				
+9	avani-pAla-safGEH	6	0	avani-pAla-safGa{puM}{3;bahu}	avani-pAla-safGa{puM}{3;bahu}	sahArWaH,22	rAjAoM_ke_samuxAya	whe_groups_oq_tarrior_kings	<<avani-pAla>W6-safGEH>W6			
+10	BIRmaH	11	BIRmo	BIRma{puM}{1;eka}	BIRma{puM}{1;eka}	sup_samucciwam ,6	BIRmapiwAmaha	Bhismaxeva				
+11	xroNaH	12	xroNaH	xroNa{puM}{1;eka}	xroNa{puM}{1;eka}	sup_samucciwam ,10	xroNAcArya	Xronacarya				
+12	sUwa-puwraH	15	sUwapuwraswaWAsO	sUwa-puwra{puM}{1;eka}	sUwa-puwra{puM}{1;eka}	sup_samucciwam ,10	karNa	Karna	<sUwa-puwraH>W6			
+13	waWA	13	0	waWA{avya}	waWA{avya}	samuccayaxyowakaH,9	waWA	also				
+14	asO	14	0	asu{puM}{7;eka}/asi{puM}{7;eka}/asi{swrI}{7;eka}/axas{puM}{1;eka}/axas{swrI}{1;eka}	axas{puM}{1;eka}	viSeRaNam,16	vaha	whaw				
+15	saha	19	sahAsmaxIyErapi	saha{avya}/saha{puM}{8;eka}	saha{avya}	sahArWa_xyowakaH,18	sahiwa	tiwh				
+16	asmaxIyEH	16	0	asmaxIya{napuM}{3;bahu}	asmaxIya{napuM}{3;bahu}	aBexaH,18	hamAre_pakRa_ke	our				
+17	api	17	0	api{avya}	api{avya}	sambanXaH,2	BI	also				
+18	yoXa-muKyEH	18	yoXamuKyEH	yoXa-muKya{puM}{3;bahu}/muKya{napuM}{3;bahu}	yoXa-muKya{puM}{3;bahu}	sup_samucciwam ,9	praXAna_yoxXAoM_ke	chieq_among_whe_tarriors	<yoXa-muKyEH>W6			
+19	vakwrANi	23	vakwrANi	vakwra{napuM}{1;bahu}/vakwra{napuM}{2;bahu}/vakwra{napuM}{8;bahu}	vakwra{napuM}{2;bahu}	karma,22	muKoM_meM	mouwhs				
+20	we	20	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,19	Apake	Four				
+21	wvaramANAH	24	wvaramANA	wvaramANAH	wvar1{kqw_prawyayaH:kwa;FiwvarAz;BvAxiH;puM}{1;bahu}	karwqsamAnAXikaraNam,22	bada़e_vega_se_xOda़we_hue	qearqul				
+22	viSanwi	25	viSanwi	viSaw{napuM}{1;bahu}/viSaw{napuM}{2;bahu}/viSaw{napuM}{8;bahu}	viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	aBihiwa_karwA,6	praveSa_kara_rahe_hEM	enwering				
+23	xaMRtrA-karAlAni	21	xaMRtrAkarAlAni	xaMRtrA-karAla{napuM}{1;bahu}/karAla{napuM}{2;bahu}/karAla{napuM}{8;bahu}	xaMRtrA-karAla{napuM}{2;bahu}	viSeRaNam,19	xADa़oM_ke_kAraNa_vikarAla	werrible_weewh	<xaMRtrA-karAlAni>W3			
+24	BayAnakAni	22	BayAnakAni	BayAnaka{napuM}{1;bahu}/BayAnaka{napuM}{2;bahu}/BayAnaka{napuM}{8;bahu}	BayAnaka{napuM}{2;bahu}	viSeRaNam,19	BayAnaka	very_qearqul				
+25	keciw	26	kecixvilagnA	keciw{avya}/kiFciw{puM}{1;bahu}/kiFciw{swrI}{1;xvi}/kiFciw{swrI}{2;xvi}/kiFciw{napuM}{1;xvi}/kiFciw{napuM}{2;xvi}	kiFciw{puM}{1;bahu}	viSeRaNam,26	kaI_eka	some_oq_whem				
+26	vi-lagnAH	31	0	vi-lagna{puM}{1;bahu}/lagna{puM}{8;bahu}/lagnA{swrI}{1;bahu}/lagnA{swrI}{2;bahu}/lagnA{swrI}{8;bahu}	vi_laj2{kqw_prawyayaH:kwa;vi_ozlajIz;wuxAxiH;puM}{1;bahu}	karma,28	lage_hue	being_awwackex	<vi-lagnAH>Wp			
+27	xaSana-anwareRu	30	xaSana-anwareRu	xaSana-anwara{sarvanAma;puM;7;bahu}/anwara{sarvanAma;napuM;7;bahu}/anwara{puM;7;bahu}/anwara{napuM;7;bahu}	xaSana-anwara{napuM;7;bahu}	aXikaraNam,29	xAzwoM_ke_bIca_meM	bewteen_whe_weewh	<xaSana-anwareRu>W6			
+28	sanxqSyanwe	32	sanxqSyanwe	sam_xqS1{karmaNi;lat;pra;bahu;AwmanepaxI;xqSizr;BvAxiH}	sam_xqS1{karwari;lat;pra;bahu;AwmanepaxI;sam_xqSizr;BvAxiH}	aBihiwa_karwA,29	xIKa_rahe_hEM	being_seen				
+29	cUrNiwEH	27	cUrNiwEruwwamAfgEH	cUrNiwa{puM}{3;bahu}/cUrNiwa{napuM}{3;bahu}	cUrNiwa{puM}{3;bahu}	karwA,28	cUrNa_hue	smashex				
+30	uwwama-afgEH	28	0	uwwama-afga{puM}{3;bahu}/afga{napuM}{3;bahu}	uwwama-afga{puM}{3;bahu}	karwA,29	siroM	by_whe_heax	<uwwama-afgEH>Bs6			

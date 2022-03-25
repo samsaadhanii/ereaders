@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	2	nAxawwe	na{avya}	na{avya}	prawiReXaH,4	na	never				
+2	Axawwe	9	0	Axawwa{puM}{7;eka}/Axawwa{napuM}{1;xvi}/Axawwa{napuM}{2;xvi}/Axawwa{napuM}{7;eka}/AxawwA{swrI}{1;xvi}/AxawwA{swrI}{2;xvi}	Af_xA3{karwari;lat;pra;eka;AwmanepaxI;Af_duxAF;juhowyAxiH}		grahaNa_karawA_hE	accepws				
+3	kasyaciw	3	kasyaciwpApaM	kasyaciw{avya}/kiFciw{puM}{6;eka}/kiFciw{napuM}{6;eka}	kiFciw{napuM}{6;eka}	RaRTIsambanXaH,4	kisIke	anyoneZs				
+4	pApam	4	0	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{2;eka}	karma,2	pApakarma_ko	sin				
+5	na	6	na	na{avya}	na{avya}	prawiReXaH,8	na	nor				
+6	ca	5	cEva	ca{avya}	ca{avya}	sup_samuccayaxyowakaH,4	Ora	also				
+7	eva	8	0	eva{avya}	eva{avya}	sambanXaH,8	hI	cerwainly				
+8	sukqwam	7	sukqwaM	sukqw{puM}{2;eka}/sukqwa{napuM}{1;eka}/sukqwa{napuM}{2;eka}	sukqw{napuM}{2;eka}	sup_samucciwam,4	SuBakarma_ko	pious_acwiviwies				
+9	viBuH	1	viBuH	viBu{puM}{1;eka}	viBu{puM}{1;eka}	karwA,2	sarvavyApi_parameSvara	whe_Supreme_Lorx				
+10	a-jFAnena	10	ajFAnenAvqwaM	ajFAna{napuM}{3;eka}	ajFAna{napuM}{3;eka}	karaNam,11	ajFAna_ke_xvArA	by_ignorance	<na-jFAnena>Wn			
+11	Avqwam	12	0	Avqw{swrI}{2;eka}/Af_vqw1{karwari;luf;u;eka;AwmanepaxI;vqwuz;BvAxiH}	Af_vqw1{karwari;luf;u;eka;AwmanepaxI;vqwuz;BvAxiH}		DakA_huA_hE	coverex				
+12	jFAnam	11	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karma,11	jFAna	knotlexge				
+13	wena	13	wena	wax{puM}{3;eka}/wax{napuM}{3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;wanAxiH}	wax{napuM}{3;eka}	karaNam,14	usIse	by_whaw				
+14	muhyanwi	15	muhyanwi	muhyaw{napuM}{1;bahu}/muhyaw{napuM}{2;bahu}/muhyaw{napuM}{8;bahu}/muhyanwI{swrI}{8;eka}	muh1{karwari;lat;pra;bahu;parasmEpaxI;muhaz;xivAxiH}	aBihiwakarwA,15;akarmakaH	mohiwa_ho_rahe_hEM	are_betilxerex				
+15	janwavaH	14	janwavaH	janwu{puM}{1;bahu}/janwu{puM}{8;bahu}	janwu{puM}{1;bahu}	karwA,14	saba_ajFAnI_manuRya	whe_living_enwiwies				

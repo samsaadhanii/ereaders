@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+7	arjuna	1		arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,6	he_arjuna	O_Arjuna				
+1	yaH	2	yaswvinxriyANi	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,10	jo_(puruRa)	he_tho				
+1	yaH	2	yaswvinxriyANi	yax{puM}{1;eka}	yax{puM}{1;eka}	niwyasambanXaH,11	jo_(puruRa)	he_tho				
+2	wu	3		wu{avya}	wu{avya}	sambanXaH,6	kiMwu	on_whe_owher_hanx				
+4	manasA	4	manasA	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	karaNam,5	mana_se	by_whe_poter_oq_his_till				
+3	inxriyANi	5		inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}	inxriya{napuM}{2;bahu}	karma,5	inxriyoM_ko	whe_organs_oq_sense_anx_acwion				
+5	niyamya	6	niyamyAraBaweZrjuna	ni_yam1{kqw_prawyayaH:lyap;yamoz;BvAxiH}/ni_yam2{kqw_prawyayaH:lyap;yamaz;BvAxiH}/ni_yam3{kqw_prawyayaH:lyap;yamaz;curAxiH}	ni_yam1{avya;lyap;yamuz;:BvAxiH}	pUrvakAlaH,6	vaSa_meM_karake	conwrolling				
+10	a-sakwaH	7		a-sakwa{puM}{1;eka}	asakwa{puM}{1;eka}	karwA,6	anAsakwa_huA	unawwachex	<na-sakwaH>Wn			
+9	karma-yogam	8	karmayogamasakwaH	karman-yoga{puM}{2;eka}	karman-yoga{puM}{2;eka}	karma,6	karmayoga_kA	whe_Foga_oq_selqless_Acwion	<karma-yogena>K6			
+8	karma-inxriyEH	9	karmenxriyEH	karman-inxriya{puM}{3;bahu}/inxriya{napuM}{3;bahu}	karman-inxriya{puM}{3;bahu}	karaNam,6	samaswa_inxriyoM_xvArA	whrough_whose_organs	<karma-inxriyEH>W6			
+6	AraBawe	10		AraBawe	Af_raB1{karwari;lat;pra;eka;AwmanepaxI;Af_raBaz;BvAxiH}	aBihiwa_karma,9;sakarmaka	AcaraNa_karawA_hE	unxerwakes				
+11	saH	11	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,12	vahI	he				
+12	viSiRyawe	12	viSiRyawe	viSiRyawA{swrI}{1;xvi}/viSiRyawA{swrI}{2;xvi}/viSiRyawA{swrI}{8;eka}/viSiRyawA{swrI}{8;xvi}/vi_SAs1{karmaNi;lat;pra;eka;AwmanepaxI;SAsuz;axAxiH}/vi_SiR2{karmaNi;lat;pra;eka;AwmanepaxI;SiRLz;ruXAxiH}	vi_SAs1{karwari;lat;pra;eka;AwmanepaxI;vi_SAsuz;axAxiH}	aBihiwa_karma,11;sakarmaka	SreRTa_hE	eLcels				

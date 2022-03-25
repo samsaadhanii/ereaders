@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	rasaH	4	rasoZhamapsu	rasa{puM}{1;eka}	rasa{puM}{1;eka}	karwqsamAnAXikaraNam,6	rasa	waswe				
+2	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,6	mEM	I				
+3	apsu	3	0	ap{swrI}{7;bahu}	ap{swrI}{7;bahu}	aXikaraNam,1	jala_meM	in_tawer				
+4	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,6	he_arjuna	O_son_oq_Kunwi				
+5	praBA	6	praBAsmi	praBA{swrI}{1;eka}	praBA{swrI}{1;eka}	sup_samucciwam,1	prakASa	whe_lighw				
+6	asmi	14	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}		hUz	am				
+7	SaSi-sUryayoH	5	SaSisUryayoH	SaSin-sUrya{puM}{6;xvi}/sUrya{puM}{7;xvi}/sUryA{swrI}{6;xvi}/sUryA{swrI}{7;xvi}	SaSin-sUrya{puM}{7;xvi}	aXikaraNam,5	canxramA_Ora_sUrya_meM	in_whe_sun_anx_whe_moon	<SaSi-sUryayoH>Xi			
+8	praNavaH	8	praNavaH	praNava{puM}{1;eka}	praNava{puM}{1;eka}	samucciwam,0	oMkAra	whe_lewwers_a-u-m				
+9	sarva-vexeRu	7	sarvavexeRu	sarva-vexa{puM}{7;bahu}	sarva-vexa{puM}{7;bahu}	aXikaraNam,8	sampUrNa_vexoM_meM	in_all_whe_Vexas	<sarva-vexeRu>K1			
+10	SabxaH	10	SabxaH	Sabxa{puM}{1;eka}	Sabxa{puM}{1;eka}	samucciwam,0	Sabxa	sounx_vibrawion				
+11	Ke	9	Ke	Ka{puM}{7;eka}/Ka{napuM}{1;xvi}/Ka{napuM}{2;xvi}/Ka{napuM}{7;eka}/Ka{napuM}{8;xvi}	Ka{napuM}{7;eka}	aXikaraNam,10	AkASa_meM	in_whe_ewher				
+12	pOruRam	13	pOruRaM	pOruRa{puM}{2;eka}/pOruRa{napuM}{1;eka}/pOruRa{napuM}{2;eka}	pOruRa{napuM}{1;eka}	samucciwam,0	puruRawva	abiliwy				
+13	nqRu	12	nqRu	nq{puM}{7;bahu}	nq{puM}{7;bahu}	aXikaraNam,12	puruRoM_meM	in_man				
+14	(ca)	11	(0)	(ca{avya})	(ca{avya})		(Ora)	also				

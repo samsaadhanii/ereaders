@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sarva-XarmAn	2	sarvaXarmAnpariwyajya	sarva-Xarma{puM}{2;bahu}	sarva-Xarma{puM}{2;bahu}	karma,2	sampUrNa_XarmoM_ko_arWAw_sampUrNa_karwavyakarmoM_ko	all_variewies_oq_religion	<sarva-XarmAn>K1			
+2	pariwyajya	3	0	pari_wyaj1{kqw_prawyayaH:lyap;wyajaz;BvAxiH}	pari_wyaj1{kqw_prawyayaH:lyap;pari_wyajaz;BvAxiH}	pUrvakAlaH,6	wyAgakara	abanxoning				
+3	mAm	5	mAmekaM	asmax{2;eka}	asmax{2;eka}	karma,6	muJa_sarvaSakwimAn_sarvAXAra_parameSvara_kI	unwo_Me				
+4	ekam	4	0	eka{puM}{2;eka}/eka{napuM}{1;eka}/eka{napuM}{2;eka}	eka{napuM}{2;eka}	viSeRaNam,3	eka	only				
+5	SaraNam	6	SaraNaM	SaraNa{napuM}{1;eka}/SaraNa{napuM}{2;eka}	SaraNa{napuM}{2;eka}	karma,6	SaraNa_meM	surrenxer				
+6	vraja	7	vraja	vraj1{karwari;lot;ma;eka;parasmEpaxI;vrajaz;BvAxiH}	vraj1{karwari;lot;ma;eka;parasmEpaxI;vrajaz;BvAxiH}	aBihiwakarwA,6.1;sakarmakaH	A_jA	go				
+6.1	(wvam)	1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,6	(wuma)	you				
+7	aham	8	ahaM	asmax{1;eka}	asmax{1;eka}	karwA,10	mEM	I				
+8	wvA	9	wvA	yuRmax{2;eka}	yuRmax{2;eka}	karma,10	wuJe	you				
+9	sarva-pApeByaH	10	sarvapApeByo	sarva-pApa{puM}{4;bahu}/pApa{puM}{5;bahu}/pApa{napuM}{4;bahu}/pApa{napuM}{5;bahu}	sarva-pApa{napuM}{5;bahu}	apAxAnam,10	sampUrNa_pApoM_se	qrom_all_sinqul_reacwions	<sarva-pApeByaH>K1			
+10	mokRayiRyAmi	11	mokRayiRyAmi	mokR1_Nic{karwari;lqt;u;eka;parasmEpaxI;mokRaz;curAxiH}	muc1 _Nic{karwari;lqt;u;eka;parasmEpaxI;mucLz_Nic;wuxAxiH}	aBihiwakarwA,7;sakarmakaH	mukwa_kara_xUzgA	xeliver				
+11	mA	13	mA	mA{avya}/mA{swrI}{1;eka}/asmax{2;eka}	mA{avya}	sambanXaH,12	mawa	now				
+12	SucaH	14	SucaH*	Suc{swrI}{1;bahu}/Suc{swrI}{2;bahu}/Suc{swrI}{5;eka}/Suc{swrI}{6;eka}/Suc{swrI}{8;bahu}	Suc1{karwari;laf;ma;eka;parasmEpaxI;Sucaz;BvAxiH}	aBihiwakarwA,12.1;akarmakaH	Soka_kara	torry				
+12.1	(wvam)	12	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wU)	you				

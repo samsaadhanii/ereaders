@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	evam	4	evamukwvArjunaH	evam{avya}	evam{avya}	kriyAviSeRaNam,2	isa_prakAra	whus				
+2	ukwvA	5	0	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	pUrvakAlaH,6	kahakara	having_spoken				
+3	arjunaH	3	0	arjuna{puM}{1;eka}	arjuna{puM}{1;eka}	karwA,6	arjuna	Arjuna				
+4	safKye	1	safKye	safKya{napuM}{1;xvi}/safKya{napuM}{2;xvi}/safKya{napuM}{7;eka}/safKyA{swrI}{1;xvi}/safKyA{swrI}{2;xvi}	safKya{napuM}{7;eka}	aXikaraNam,6	raNaBUmi_meM	on_whe_bawwleqielx				
+5	raWa-upasWe	9	raWopasWa	raWa-upasWa{puM}{7;eka}/upasWa{napuM}{1;xvi}/upasWa{napuM}{2;xvi}/upasWa{napuM}{7;eka}	raWa-upasWa{puM}{7;eka}	aXikaraNam,6	raWa_ke_piCale_BAga_meM	whe_hinxer_parw_oq_his_chariow	<raWa-upasWe>W6			
+6	upAviSaw	10	upAviSaw	upa_viS1{karwari;laf;pra;eka;parasmEpaxI;viSaz;wuxAxiH}	upa_viS1{karwari;laf;pra;eka;parasmEpaxI;upa_viSaz;wuxAxiH}	aBihiwakarwA,3	bETa_gayA	saw_xotn				
+7	visqjya	8	visqjya	vi_sqj1{kqw_prawyayaH:lyap;sqjaz;xivAxiH}/vi_sqj2{kqw_prawyayaH:lyap;sqjaz;wuxAxiH}	vi_sqj2{kqw_prawyayaH:lyap;vi_sqjaz;wuxAxiH}	pUrvakAlaH,6	wyAgakara	having_casw_asixe				
+8	sa-Saram	6	saSaraM	sa-Sara{puM}{2;eka}/Sara{napuM}{1;eka}/Sara{napuM}{2;eka}	sa-Sara{puM}{2;eka}	viSeRaNam,9	bANasahiwa	along_tiwh_arrots	<sa-SaraM>BvS			
+9	cApam	7	cApaM	cApa{puM}{2;eka}/cApa{napuM}{1;eka}/cApa{napuM}{2;eka}	cApa{napuM}{2;eka}	karma,7	XanuRa_ko	whe_bot				
+10	Soka-saMvigna-mAnasaH	2	SokasaMvignamAnasaH	Soka-saMvigna-mAnasa{puM}{1;eka}	Soka-saMvigna-mAnasa{puM}{1;eka}	viSeRaNam,3	Soka_se_uxvigna_manavAlA	those_minx_tas_agiwawex_by_grieq	<<Soka-saMvigna>W3-mAnasaH>Bs6			

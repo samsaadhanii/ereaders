@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wasmAw	1	wasmAxyasya	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,4	isaliye	whereqore				
+2	yasya	3	0	yax{puM}{6;eka}/yax{napuM}{6;eka}/yas1{karwari;lot;ma;eka;parasmEpaxI;yasuz;xivAxiH}	yax{puM}{6;eka}	RaRTIsaMbanXaH,6;niwyasaMbanXaH,8 	jisakI_(puruRa_kI)	he_those				
+3	mahaw-bAho	2	mahAbAho	mahaw-bAhu{puM}{8;eka}	mahaw-bAhu{puM}{8;eka}	samboXyaH,4.1	he_mahAbAho	O_mighwy-armex_one	<mahA-bAho>Bs6			
+4	nigqhIwAni	7	nigqhIwAni	nigqhIwa{napuM}{1;bahu}/nigqhIwa{napuM}{2;bahu}	ni_rah1{kqw_prawyayaH:kwa;ni_rahaz;BvAxiH;napuM}{1;bahu}	"	karwqsamAnAxikaraNam  ,4.1"	nigraha_kI_huI	reswrainex				
+4.1	(sanwi)	8	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,6;akarmakaH	(hEM)	are				
+5	sarvaSaH	6	sarvaSaH	sarvaSaH{avya}	sarvaSaH{avya}	kriyAviSeRaNam,4.1	saba_prakAra	complewely				
+6	inxriyANi	4	inxriyANInxriyArWeByaswasya	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}	inxriya{napuM}{1;bahu}	karwA,4.1	inxriyAz	senses				
+7	inxriya-arWeByaH	5	0	inxriya-arWa{puM}{4;bahu}/arWa{puM}{5;bahu}/arWa{napuM}{4;bahu}/arWa{napuM}{5;bahu}	inxriya-arWa{napuM}{5;bahu}	apAxAnam,4	inxriyoM_ke_viRayoM_se	qrom_wheir_objecws	<inxriya-arWeByaH>W6			
+8	wasya	9	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,9	usIkI	his				
+9	prajFA	10	prajFA	prajFA{swrI}{1;eka}	prajFA{swrI}{1;eka}	karwA,10.1	buxXi	minx				
+10	prawiRTiwA	11	prawiRTiwA	prawiRTiwA{swrI}{1;eka}/prawiRTiwA{swrI}{1;eka}	pra_sWA1{kqw_prawyayaH:kwa;pra_RTA;BvAxiH;swrI}{1;eka}	kriyAviSeRaNam,10.1	sWira	swable				
+10.1	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,9; akarmakaH	(hE)	is				

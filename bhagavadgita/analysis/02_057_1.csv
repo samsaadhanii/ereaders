@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaH	1	yaH	yax{puM}{1;eka}	yax{sarvanAma;puM;1;eka}	viSeRaNam,3;niwyasambanXaH,12	jo_(puruRa)	one_tho				
+2	sarvawra	2	sarvawrAnaBisnehaswawwawprApya	sarvawra{avya}	sarvawra{avya}	xeSAXikaraNam,9	sarvawra	everythere				
+3	an-aBisnehaH	3	0	anaBisneha{puM}{1;eka}	an-aBisneha{puM}{1;eka}	karwA,9	sneharahiwa_huA	unawwachex	<na-aBisnehaH>Wn			
+4	waw	4	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	vIpsA,5	usa	whaw				
+5	waw	5	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,6	usa	whaw				
+6	prApya	6	0	prApya{puM}{8;eka}/prApya{napuM}{8;eka}/pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap2{avya;lyap;ApLz;:curAxiH}	pUrvakAlaH,9	prApwa_hokara	meewing				
+7	SuBa-aSuBam	7	SuBASuBam	SuBa-aSuBa{puM}{2;eka}/aSuBa{napuM}{1;eka}/aSuBa{napuM}{2;eka}	SuBa-aSuBa{napuM}{2;eka}	karma,9	SuBa_yA_aSuBa_ko	tiwh_goox_or_evil	<SuBa-<na-SuBam>Wn>Xs			
+8	na	8	nABinanxawi	na{avya}	na{avya}	prawiReXaH,9	na	now				
+9	aBinanxawi	9	0	aBi_nanx1{karwari;lat;pra;eka;parasmEpaxI;tunaxiz;BvAxiH}	aBi_nax1{karwari;lat;pra;eka;parasmEpaxI;tunaxiz;:BvAxiH}	aBihiwa_karwA,3;sakarmaka	prasanna_howA_hE	rejoices				
+10	na	10	na	na{avya}	na{avya}	prawiReXaH,11	na	now				
+11	xveRti	11	xveRti	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	aBihiwa_karwA,1;sakarmaka	xveRa_karawA_hE	recoils				
+11.1	(yaH)	10	(0)	(yax{puM}{1;eka})	(yax{puM}{1;eka})	karwA,11;niwyasambanXaH,12	(jo)	one_tho				
+12	wasya	12	wasya	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,13	usakI	his				
+13	prajFA	13	prajFA	prajFA{swrI}{1;eka}	prajFA{swrI}{1;eka}	karwA,14	buxXi	minx				
+14	prawiRTiwA	14	prawiRTiwA	prawiRTiwA{swrI}{1;eka}/prawiRTiwA{swrI}{1;eka}	prawiRTiwA{swrI;1;eka(RWA1;kwa;RWA;:BvAxiH)}		sWira	swable				

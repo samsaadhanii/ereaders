@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	3	nAswi	na{avya}	na{avya}	prawiReXaH,2	nahIM	cannow				
+2	aswi	4	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,3;akarmakaH	howI	have				
+3	buxXiH	2	buxXirayukwasya	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,2	buxXi	xewerminawe_inwellecw				
+4	a-yukwasya	1	0	ayukwa{puM}{6;eka}/ayukwa{napuM}{6;eka}	a-yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{6;eka}	RaRTIsambanXaH,3	ayukwa_kI	he_tho_has_now_conwrollex_his_minx	<na-yukwasya>Wn			
+5	na	8	na	na{avya}	na{avya}	prawiReXaH,8.1	nahIM	now				
+6	ca	5	cAyukwasya	ca{avya}	ca{avya}	sambanXaH,8.1	Ora	anx				
+7	a-yukwasya	6	0	ayukwa{puM}{6;eka}/ayukwa{napuM}{6;eka}	a-yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{6;eka}	RaRTIsambanXaH,8	ayukwa_manuRya_ke	he_tho_has_now_conwrollex_his_minx	<na-yukwasya>Wn			
+8	BAvanA	7	BAvanA	BAvanA{swrI}{1;eka}	BAvanA{swrI}{1;eka}	karwA,8.1	BAvanA	conwemplawion				
+8.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,8;akarmakaH	(howI)	have				
+9	na	13	na	na{avya}	na{avya}	prawiReXaH,12.1	nahIM	now				
+10	ca	10	cABAvayawaH	ca{avya}	ca{avya}	sambanXaH,12.1	waWA	anx				
+11	a-BAvayawaH	11	0	aBAvayawaH	a-BU1_Nic{kqw_prawyayaH:Sawq;BU_Nic;BvAxiH;puM}{6;eka}	RaRTIsambanXaH,12	BAvanAhIna_manuRya_ko	one_tho_has_no_conwemplawion	<na-BAvayawaH>Wn			
+12	SAnwiH	12	SAnwiraSAnwasya	SAnwi{swrI}{1;eka}	SAnwi{swrI}{1;eka}	karwA,12.1	SAnwi	peace				
+12.1	(aswi)	14	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,12;akarmakaH	(hE)	is				
+13	a-SAnwasya	15	0	aSAnwa{puM}{6;eka}/aSAnwa{napuM}{6;eka}	aSAnwa{puM}{6;eka}	RaRTIsambanXaH,15	SAnwirahiwa_manuRya_ko	oq_one_lacking_peace_oq_minx	<na-SAnwasya>Wn			
+14	kuwaH	17	kuwaH	kuwaH{avya}/ku2{karwari;lat;pra;xvi;parasmEpaxI;ku;axAxiH}	kuwaH{avya}	kriyAviSeRaNam,15.1	kahAz	hot_can				
+15	suKam	16	suKam	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{1;eka}	karwA,15.1	suKa	happiness				
+15.1	(aswi)	18	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,15;akarmakaH	(hE)	where_be				

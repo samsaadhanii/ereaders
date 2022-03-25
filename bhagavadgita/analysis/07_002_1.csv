@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	jFAnam	5	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,6	wawwvajFAna_ko	phenomenal_knotlexge				
+2	we	2	weZhaM	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	prayojanam,6	were_liye	unwo_you				
+3	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,6	mEM	I				
+4	sa-vijFAnam	4	savijFAnamixaM	sa-vijFAna{napuM}{1;eka}/vijFAna{napuM}{2;eka}	sa-vijFAna{napuM}{2;eka}	viSeRaNam,1	vijFAnasahiwa	tiwh_noumenal_knotlexge	<sa-vijFAnam>BvS			
+5	ixam	3	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,1	isa	whis				
+6	vakRyAmi	7	vakRyAmyaSeRawaH	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}/vah1{karwari;lqt;u;eka;parasmEpaxI;vahaz;BvAxiH}/brU1{karwari;lqt;u;eka;parasmEpaxI;brUF;axAxiH}	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}	aBihiwa karwA,3	kahUzgA	shall_eLplain				
+7	a-SeRawaH	6	0	a-SeRawaH	aSeRawaH{wasil}	kriyAviSeRaNam,6	sampUrNawayA	in_qull	<na-SeRawaH>Wn			
+8	yaw	8	yaFjFAwvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,9	jisako	thich				
+9	jFAwvA	9	0	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,15	jAnakara	knoting				
+10	na	14	neha	na{avya}	na{avya}	prawiReXaH,15	nahIM	now				
+11	iha	10	0	iha{avya}	iha{avya}	aXikaraNam,15	saMsAra_meM	in_whis_torlx				
+12	BUyaH	11	BUyoZnyaFjFAwavyamavaSiRyawe	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,15	Pira	qurwher				
+13	anyaw	12	0	anyaw{avya}/anya{napuM}{1;eka}/anya{napuM}{2;eka}	anya{napuM}{2;eka}	viSeRaNam,14	Ora_kuCa_BI	anywhing_more				
+14	jFAwavyam	13	0	jFAwavya{puM}{2;eka}/jFAwavya{napuM}{1;eka}/jFAwavya{napuM}{2;eka}	jFA2{kqw_prawyayaH:wavyaw;jFA;kryAxiH;napuM}{2;eka}	karma,15	jAnaneyogya	knotable				
+15	avaSiRyawe	15	0	ava_SiR2{karmaNi;lat;pra;eka;AwmanepaxI;SiRLz;ruXAxiH}	ava_SiR2{karmaNi;lat;pra;eka;AwmanepaxI;SiRLz;ruXAxiH}	aBihiwakarma,15	SeRa_raha_jAwA	remains_wo_be_knotn				

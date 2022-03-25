@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aBisanXAya	8	aBisanXAya	aBisanXAya	aBi_sam_XA1{kqw_prawyayaH:lyap;aBi_sam_duXAF;juhowyAxiH}	pUrvakAlaH,9	xqRti_meM_raKakara	xesiring				
+2	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,1	paraMwu	buw				
+3	Palam	6	PalaM	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karma,1	Pala_ko	whe_resulw				
+4	xamBa-arWam	3	xamBArWamapi	xamBa-arWa{puM}{2;eka}/arWa{napuM}{1;eka}/arWa{napuM}{2;eka}	xamBa-arWa{puM}{2;eka}	prayojanam,9	kevala_xamBAcaraNa_ke_liye	qor_whe_sake_oq_prixe	<xamBa-arWam>W4			
+5	api	7	0	api{avya}	api{avya}	sambanXaH,3	BI	also				
+6	ca	5	cEva	ca{avya}	ca{avya}	sambanXaH,9	Ora	anx				
+7	eva	4	0	eva{avya}	eva{avya}	sambanXaH,4	hI	cerwainly				
+8	yaw	9	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	viSeRaNam,10.1	jo	whaw				
+9	ijyawe	11	ijyawe	ijyawA{swrI}{1;xvi}/ijyawA{swrI}{2;xvi}/ijyawA{swrI}{8;eka}/ijyawA{swrI}{8;xvi}/yaj1{karmaNi;lat;pra;eka;AwmanepaxI;yajaz;BvAxiH}	yaj1{karmaNi;lat;pra;eka;AwmanepaxI;yajaz;BvAxiH}	aBihiwakarma,10.1;sakarmakaH	kiyA_jAwA_hE	torship				
+10	Barawa-SreRTa	2	BarawaSreRTa	BarawaSreRTa{puM}{8;eka}	BarawaSreRTa{puM}{8;eka}	samboXyaH,9	he_arjuna	O_chieq_oq_whe_Bharawas	<Barawa-SreRTa>K1			
+10.1	(yajFaH)	10	(0)	(yajFa{puM}{1;eka})	(yajFa{puM}{1;eka})	karma,9	(yajFa)	sacriqice				
+11	wam	12	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	viSeRaNam,12	usa	whaw				
+12	yajFam	13	yajFaM	yajFa{puM}{2;eka}	yajFa{puM}{2;eka}	karma,13	yajFa_ko	sacriqice				
+13	vixXi	16	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,14.1;sakarmakaH	jAna	knot				
+14	rAjasam	14	rAjasam	rAjasa{puM}{2;eka}/rAjasa{napuM}{1;eka}/rAjasa{napuM}{2;eka}	rAjasa{puM}{2;eka}	karmasamAnAXikaraNam,13	rAjasa	in_whe_moxe_oq_passion				
+14.1	(wvam)	15	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,13	(wU)	you				

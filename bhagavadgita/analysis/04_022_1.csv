@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaxqcCA-lABa-sanwuRtaH	1	yaxqcCAlABasanwuRto	yaxqcCA-lABa-sanwuRta{puM}{1;eka}	yaxqcCA-lABa-sanwuRta{puM}{1;eka}	viSeRaNam,11.2	jo_binA_icCA_ke_apane-Apa_prApwa_hue_paxArWa_meM_saxA_saMwuRta_rahawA_hE	sawisqiex_in_whe_gain_awwainex_ouw_oq_iws_otn_accorx	<<yaxqcCA-lABa>W3-sanwuRtaH>W3			
+2	xvanxva-awIwaH	3	xvanxvAwIwo	xvanxva-awIwa{puM}{1;eka}	xvanxva-awIwa{puM}{1;eka}	viSeRaNam,11.2	jo_harRa-Soka_Axi_xvanxvoM_se_sarvaWA_awIwa_ho_gayA_hE	surpassex_xualiwy	<xvanxva-awIwaH>W2			
+3	vimawsaraH	2	vimawsaraH	vi-mawsara{puM}{1;eka}	vimawsara{puM}{1;eka}	viSeRaNam,11.2	jisameM_IrRyA_kA_sarvaWA_aBAva_ho_gayA_hE	qree_qrom_envy	<vi-mawsaraH>Bs5			
+4	samaH	7	samaH	sama{puM}{1;eka}/sama{puM}{1;eka}	sama{puM}{1;eka}	viSeRaNam,11.2	sama_rahanevAlA_karmayogI	sweaxy				
+5	sixXO	4	sixXAvasixXO	sixXa{puM}{1;xvi}/sixXa{puM}{2;xvi}/sixXi{swrI}{7;eka}	sixXi{swrI}{7;eka}	supsamucciwam,6	sixXi	in_success				
+6	a-sixXO	6		a-sixXa{puM}{1;xvi}/sixXa{puM}{2;xvi}/sixXi{swrI}{7;eka}	na-sixXi{swrI}{7;eka}	aXikaraNam,4	asixXi_meM	qailure	<na-sixXO>Wn			
+7	ca	5	ca	ca{avya}	ca{avya}	samuccayaxyowakam,6	Ora	also				
+8	kqwvA	10	kqwvApi	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,11	karawA_huA	xoing				
+9	api	11		api{avya}	api{avya}	sambanXaH,8	BI	alwhough				
+10	na	12	na	na{avya}	na{avya}	prawiReXaH,11	nahIM	never				
+11	nibaXyawe	13	nibaXyawe	ni_banX1{karmaNi;lat;pra;eka;AwmanepaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;eka;AwmanepaxI;ni_banXaz;kryAxiH}	aBihiwakarwA,11.2	bazXawA	is_aqqecwex				
+11.1	(karma)	9	()	(karman{napuM}{1;eka}/karman{napuM}{2;eka})	(karman{napuM}{2;eka})	karma,11	(karma_ko)	tork				
+11.2	(puruRaH)	8	()	(puruRa{puM}{1;eka})	(puruRa{puM}{1;eka})	karwA,11	(puruRa)	person				

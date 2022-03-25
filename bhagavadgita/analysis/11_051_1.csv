@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	xqRtvA	7	xqRtvexaM	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	pUrvakAlaH,9	xeKakara	seeing				
+2	ixam	3	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,4	isa	whis				
+3	mAnuRam	5	mAnuRaM	mAnuRa{puM}{2;eka}	mAnuRa{puM}{2;eka}	viSeRaNam,4	manuRya	human				
+4	rUpam	6	rUpaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,1	rUpa_ko	qorm				
+5	wava	2	wava	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,4	Apake	Four				
+6	sOmyam	4	sOmyaM	sOmya{puM}{2;eka}/sOmya{napuM}{1;eka}/sOmya{napuM}{2;eka}	sOmya{napuM}{2;eka}	viSeRaNam,4	awiSAnwa	very_beauwiqul				
+7	janArxana	1	janArxana	janArxana{puM}{8;eka}	janArxana{puM}{8;eka}	samboXyaH,9	he_janArxana	O_chaswiser_oq_whe_enemies				
+8	ixAnIm	8	ixAnImasmi	ixAnIm{avya}	ixAnIm{avya}	aXikaraNam,10	aba	jusw_not				
+9	asmi	15	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,13.2;akarmakaH	hUz	am				
+10	saMvqwwaH	11	saMvqwwaH	saMvqwwa{puM}{1;eka}	sam_vqw1{kqw_prawyayaH:kwa;sam_vqwuz;BvAxiH;puM}{1;eka}	supsamucciwam,13	ho_gayA	sewwlex				
+11	sa-cewAH	10	sacewAH	sa-cewA{swrI}{1;bahu}/cewA{swrI}{2;bahu}/cewA{swrI}{8;bahu}	sa-cewas{puM}{1;eka}	supsamucciwam,13	sWira-ciwwa	in_my_consciousness	<sa-cewAH>BvS			
+12	prakqwim	12	prakqwiM	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	karma,13	apanI_svABAvika_sWiwi_ko	my_otn_swawe				
+13	gawaH	13	gawaH	gaw{napuM}{5;eka}/gaw{napuM}{6;eka}/gawa{puM}{1;eka}	gam1{kqw_prawyayaH:kwa;gamLz;BvAxiH;puM}{1;eka}	karwqsamAnAXikaraNam,9	prApwa_ho_gayA	obwainex				
+13.2	(ca)	14	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,13	(Ora)	anx				
+13.2	(aham)	9	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,9	(mEM)	I				

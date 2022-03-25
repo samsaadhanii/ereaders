@@ -1,0 +1,24 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vAyuH	2	vAyuryamoZgnirvaruNaH	vAyu{puM}{1;eka}/vA1{karwari;viXilif;pra;bahu;parasmEpaxI;vA;axAxiH}	vAyu{puM}{1;eka}	supsamucciwam,8	vAyu	air				
+2	yamaH	3	0	yama{puM}{1;eka}	yama{puM}{1;eka}	supsamucciwam,8	yamarAja	conwroller				
+3	agniH	4	0	agni{puM}{1;eka}	agni{puM}{1;eka}	supsamucciwam,8	agni	qire				
+4	varuNaH	5	0	varuNa{puM}{1;eka}	varuNa{puM}{1;eka}	supsamucciwam,8	varuNa	tawer				
+5	SaSAfkaH	6	SaSAfkaH	SaSAfka{puM}{1;eka}	SaSAfka{puM}{1;eka}	supsamucciwam,8	canxramA	moon				
+6	prajA-pawiH	7	prajApawiswvaM	prajA-pawi{puM}{1;eka}	prajApawi{puM}{1;eka}	supsamucciwam,8	prajA_ke_svAmI_brahmA	Brahma	<prajA-pawiH>W6			
+7	wvam	1	0	yuRmax{1;eka}	yuRmax{1;eka}	karwA,9.1	Apa	you				
+8	prapiwAmahaH	8	prapiwAmahaSca	prapiwAmaha{puM}{1;eka}	prapiwAmaha{puM}{1;eka}	karwqsamAnAXikaraNam ,9.1	brahmA_ke_BI_piwA	granxqawher				
+9	ca	9	0	ca{avya}	ca{avya}	samuccayaxyowakaH,8	Ora	also				
+9.1	(asi)	10	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,7;akarmakaH	(hEM)	are				
+10	namaH	13	namo	namaH{avya}	namaH{avya}	vIpsA,11	namaskAra	oqqering_respecws				
+11	namaH	14	namasweZswu	namaH{avya}	namaH{avya}	karwA,13	namaskAra	again_my_respecws				
+12	we	16	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	prayojanam,13	Apake_liye	unwo_Fou				
+13	aswu	15	0	aswu{avya}/as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,11;akarmakaH	ho	are_being				
+14	sahasrakqwvaH	12	sahasrakqwvaH	sahasra{kqwvasuc}	sahasrakqwvas{avya}	kriyAviSeRaNam,13	hajAroM_bAra	a_whousanx_wimes				
+15	punaH	19	punaSca	punaH{avya}	punaH{avya}	kriyAviSeRaNam,20.1	bAra-bAra	anx_again				
+15.1	ca			ca{avya}	ca{avya}	sambanXaH,15						
+16	BUyaH	17	BUyoZpi	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,20.1	Pira	again				
+17	api	18	0	api{avya}	api{avya}	sambanXaH,16	BI	also				
+18	namaH	20	namo	namaH{avya}	namaH{avya}	vIpsA,19	namaskAra	oqqer_my_respecws				
+19	namaH	21	namaswe	namaH{avya}	namaH{avya}	karwA,21	namaskAra	oqqering_my_respecws				
+20	we	11	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	upapaxasambanXaH,19	Apake_liye	unwo_Fou				
+20.1	(aswu)	22	(0)	(aswu{avya}/as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,19	(ho)	are_being				

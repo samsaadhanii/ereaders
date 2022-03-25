@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaw	2	yawsAfKyEH	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,4;niwyasambanXaH,5	jo	thaw				
+2	sAfKyEH	1	0	sAfKya{puM}{3;bahu}/sAfKya{napuM}{3;bahu}	sAfKya{napuM}{3;bahu}	karwA,3	jFAnayogiyoM_xvArA	by_means_oq_Sankhya_philosophy				
+3	prApyawe	4	prApyawe	prApyawA{swrI}{1;xvi}/prApyawA{swrI}{2;xvi}/pra_Ap1{karmaNi;lat;pra;eka;AwmanepaxI;ApLz;svAxiH}	pra_Ap1{karmaNi;lat;pra;eka;AwmanepaxI;pra_ApLz;svAxiH}	aBihiwakarma,4	prApwa_kiyA_jAwA_hE	is_achievex				
+4	sWAnam	3	sWAnaM	sWAna{napuM}{1;eka}/sWAna{napuM}{2;eka}	sWAna{napuM}{2;eka}	karma,3	paramaXAma	place				
+5	waw	7	waxyogErapi	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,8	vahI	whaw				
+6	yogEH	5	0	yoga{puM}{3;bahu}	yoga{puM}{3;bahu}	karwA,8	karmayogiyoM_xvArA	by_xevowional_service				
+7	api	6	0	api{avya}	api{avya}	sambanXaH,6	BI	also				
+8	gamyawe	8	gamyawe	gamyawA{swrI}{1;xvi}/gamyawA{swrI}{2;xvi}/gam1{karmaNi;lat;pra;eka;AwmanepaxI;gamLz;BvAxiH}	gam1{karmaNi;lat;pra;eka;AwmanepaxI;gamLz;BvAxiH}	aBihiwakarma,5	prApwa_kiyA_jAwA_hE	can_awwain				
+9	ekam	13	ekaM	eka{puM}{2;eka}/eka{napuM}{1;eka}/eka{napuM}{2;eka}	eka{puM}{2;eka}	karmasamAnAXikaraNam,15	eka	one				
+10	sAfKyam	10	sAMKyaM	sAfKya{puM}{2;eka}/sAfKya{napuM}{1;eka}/sAfKya{napuM}{2;eka}	sAfKya{napuM}{2;eka}	supsamucciwam,12	jFAnayoga_ko	analywical_swuxy				
+11	ca	11	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora	anx				
+12	yogam	12	yogaM	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,15	karmayoga_ko	acwion_in_xevowion				
+13	ca	16	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,12	hI	anx				
+14	yaH	9	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,15;niwyasambanXaH,16	jo_(puruRa)	one_tho				
+15	paSyawi	14	paSyawi	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,14;sakarmakaH	xeKawA_hE	sees				
+16	saH	15	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,17	vaha	he				
+17	paSyawi	17	paSyawi	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,16;sakarmakaH	xeKawA_hE	acwually_sees				

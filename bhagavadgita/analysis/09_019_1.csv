@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wapAmi	2	wapAmyahamahaM	wap1{karwari;lat;u;eka;parasmEpaxI;wapaz;BvAxiH}/wap3{karwari;lat;u;eka;parasmEpaxI;wapaz;curAxiH}	wap1{karwari;lat;u;eka;parasmEpaxI;wapaz;BvAxiH}	aBihiwakarwA,2;akarmakaH	sUryarUpa_se_wapawA_hUz	give_heaw				
+2	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,1	mEM	I				
+3	aham	3	0	asmax{1;eka}	asmax{1;eka}	karwA,5	mEM	I				
+4	varRam	4	varRaM	varRa{puM}{2;eka}	varRa{puM}{2;eka}	karma,7	varRA_kA	rain				
+5	nigqhNAmi	5	nigqhNAmyuwsqjAmi	ni_grah1{karwari;lat;u;eka;uBayapaxI;grahaz;kryAxiH}	ni_grah1{karwari;lat;u;eka;parasmEpaxI;ni_grahaz;kryAxiH}	aBihiwakarwA,3;sakarmakaH	AkarRaNa_karawA_hUz	tiwhholx				
+6	uwsqjAmi	6	0	uwsqjAmi	uw_sqj2{karwari;lat;u;eka;parasmEpaxI;uw_sqjaz;wuxAxiH}	samucciwam,5	barasAwA_hUz	senx_qorwh				
+7	ca	7	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,5	Ora	anx				
+8	amqwam	10	amqwaM	a-mqwa{puM}{2;eka}/mqwa{napuM}{1;eka}/mqwa{napuM}{2;eka}	amqwa{napuM}{1;eka}	sup_samucciwam,14	amqwa	immorwaliwy				
+9	ca	11	cEva	ca{avya}	ca{avya}	samuccayaxyowakaH,8	Ora	anx				
+10	eva	12	0	eva{avya}	eva{avya}	sambanXaH,8	hI	cerwainly				
+11	mqwyuH	13	mqwyuSca	mqwyu{puM}{1;eka}	mqwyu{puM}{1;eka}	sup_samucciwam,14	mqwyu	xeawh				
+12	ca	14	0	ca{avya}	ca{avya}	samuccayaxyowakaH,11	Ora	anx				
+13	saw	15	saxasaccAhamarjuna	saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	saw{napuM}{1;eka}	sup_samucciwam,14	saw	being				
+14	a-saw	16	0	a-saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	asaw{napuM}{1;eka}	karwqsamAnAXikaraNam,17.1	asaw	nonbeing	<na-saw>Wn			
+15	ca	17	0	ca{avya}	ca{avya}	samuccayaxyowakaH,14	BI	anx				
+16	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,17.1	mEM	I				
+17	arjuna	8	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,17.1	he_arjuna	O_Arjuna				
+17.1	(asmi)	18	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,16;akarmakaH	(hUz)	am				

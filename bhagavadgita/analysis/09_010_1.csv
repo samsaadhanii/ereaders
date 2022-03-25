@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mayA	2	mayAXyakReNa	asmax{3;eka}	asmax{3;eka}	viSeRaNam,2	mere_xvArA	by_Me				
+2	aXyakReNa	3	0	aXyakRa{puM}{3;eka}/aXyakRa{napuM}{3;eka}	aXyakRa{puM}{3;eka}	karwA,4	aXiRTAwA_ke_sakASa_se	by_superinwenxence				
+3	prakqwiH	4	prakqwiH	prakqwi{swrI}{1;eka}	prakqwi{swrI}{1;eka}	karma,4	prakqwi	mawerial_nawure				
+4	sUyawe	6	sUyawe	sUyawA{swrI}{1;xvi}/sUyawA{swrI}{2;xvi}/sUyawA{swrI}{8;eka}/sUyawA{swrI}{8;xvi}/sU1{karmaNi;lat;pra;eka;AwmanepaxI;RUf;axAxiH}/sU2{karwari;lat;pra;eka;AwmanepaxI;RUf;xivAxiH}/sU2{karmaNi;lat;pra;eka;AwmanepaxI;RUf;xivAxiH}/sU3{karmaNi;lat;pra;eka;AwmanepaxI;RU;wuxAxiH}/su1{karmaNi;lat;pra;eka;AwmanepaxI;Ru;BvAxiH}/su2{karmaNi;lat;pra;eka;AwmanepaxI;Ru;axAxiH}/su3{karmaNi;lat;pra;eka;AwmanepaxI;RuF;svAxiH}	sU2{karwari;lat;pra;eka;AwmanepaxI;RUf;xivAxiH}	aBihiwakarma,3;sakarmakaH	racawI_hE	maniqesws				
+5	sa-cara-a-caram	5	sacarAcaram	sacarAcara{puM}{2;eka}/sacarAcara{napuM}{1;eka}/sacarAcara{napuM}{2;eka}	sacarAcara{napuM}{2;eka}	karmasamAnAXikaraNam,4	carAcarasahiwa_sarvajagaw_ko	tiwh_whe_moving_anx_whe_nonmoving	<sa-<cara-<na-caram>Wn>Xi>BvS			
+6	hewunA	8	hewunAnena	hewu{puM}{3;eka}	hewu{puM}{3;eka}	hewuH,10	hewu_se_hI	qor_whis_reason				
+7	anena	7	0	ana{puM}{3;eka}/ixam{puM}{3;eka}/ixam{napuM}{3;eka}	ixam{puM}{3;eka}	viSeRaNam,6	isa	whis				
+8	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_oq_Kunwi				
+9	jagaw	9	jagaxviparivarwawe	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{1;eka}	karwA,10	yaha_saMsAra-cakra	whe_cosmic_maniqeswawion				
+10	viparivarwawe	10	0	vi_pari_vqw1{karwari;lat;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	vi_pari_vqw1{karwari;lat;pra;eka;AwmanepaxI;vi_pari_vqwuz;BvAxiH}	aBihiwakarwA,9;akarmakaH	GUma_rahA_hE	is_torking				

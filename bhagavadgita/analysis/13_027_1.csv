@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	samam	8	samaM	samam{avya}/sama{puM}{2;eka}/sama{napuM}{1;eka}/sama{napuM}{2;eka}/sama{puM}{2;eka}	samam{avya}	kriyAviSeRaNam,4	samaBAva_se	edually				
+2	sarveRu	3	sarveRu	sarva{puM}{7;bahu}/sarva{napuM}{7;bahu}	sarva{puM}{7;bahu}	viSeRaNam,3	saba	in_all				
+3	BUweRu	4	BUweRu	BUwa{puM}{7;bahu}/BUwa{napuM}{7;bahu}	BUwa{puM}{7;bahu}	aXikaraNam,9	carAcara_BUwoM_meM	living_enwiwies				
+4	wiRTanwam	9	wiRTanwaM	wiRTaw{puM}{2;eka}	sWA1{kqw_prawyayaH:Sawq;RTA;BvAxiH;puM}{2;eka}	viSeRaNam,5	sWiwa	resixing				
+5	parama-ISvaram	5	parameSvaram	parama-ISvara{puM}{2;eka}	parameSvara{puM}{2;eka}	karma,9	parameSvara_ko	whe_Supersoul	<parama-ISvaram>K1			
+6	vinaSyawsu	2	vinaSyawsvavinaSyanwaM	vinaSyawsu	vi_naS1{kqw_prawyayaH:Sawq;vi_NaSaz;xivAxiH;puM}{7;bahu}	supsamucciwam,7	naRta_howe_hue	in_whe_xeswrucwible				
+7	a-vinaSyanwam	6	0	a-vinaSyanwam	na-vi_naS1{kqw_prawyayaH:Sawq;vi_NaSaz;xivAxiH;puM}{2;eka}	BAvalakRaNasapwamI_pUrvakAlaH,9	nASarahiwa	now_xeswroyex	<na-vinaSyanwaM>Wn			
+7.1	(ca)	7	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,7	(Ora)	anx				
+8	yaH	1	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,9; niwyasambanXaH,10	jo_(puruRa)	anyone				
+9	paSyawi	10	paSyawi	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,8;sakarmakaH	xeKawA_hE	sees				
+10	saH	11	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,11	vaha	he				
+11	paSyawi	12	paSyawi	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,10;sakarmakaH	xeKawA_hE	acwually_sees				

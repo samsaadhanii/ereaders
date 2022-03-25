@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	brahma	2	brahmArpaNaM	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwqsamAnAXikaraNam,2.1	brahma	whe_Supreme				
+2	arpaNam	1		arpaNa{napuM}{1;eka}/arpaNa{napuM}{2;eka}	arpaNa{napuM}{1;eka}	karwA,2.1	(jisa_yajFa_meM)_arpaNa_arWAw_sruvA_Axi	conwribuwion				
+2.1	(aswi)	3	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
+3	brahma	5	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwqsamAnAXikaraNam,4.1	brahma	spiriwual_in_nawure				
+4	haviH	4	havirbrahmAgnO	havis{napuM}{1;eka}/havis{napuM}{2;eka}	havis{napuM}{1;eka}	karwA,4.1	havana_kiye_jAne_yogya_xravya	buwwer				
+4.1	(aswi)	6	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hE)	is				
+5	brahma-agnO	8		brahmA-agni{puM}{7;eka}	brahma-agni{puM}{7;eka}	aXikaraNam,7	brahmarUpa_Agni_meM	spiriwual_in_whe_qire_oq_consummawion	<brahma-agnO>K6			
+6	brahmaNA	7	brahmaNA	brahman{puM}{3;eka}/brahman{napuM}{3;eka}	brahman{napuM}{3;eka}	karwA,7	brahmarUpa_karwA_ke_xvArA	by_whe_spiriw_soul				
+7	huwam	9	huwam	huwa{puM}{2;eka}/huwa{napuM}{1;eka}/huwa{napuM}{2;eka}	hu1{kqw_prawyayaH:kwa;hu;juhowyAxiH;napuM}{1;eka}		Ahuwi_xenArUpa_kriyA	oqqerex				
+8	brahma	12	brahmEva	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karma,11	brahma	spiriwual_kingxom				
+9	eva	13		eva{avya}	eva{avya}	sambanXaH,8	hI	cerwainly				
+10	wena	10	wena	wax{puM}{3;eka}/wax{napuM}{3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;wanAxiH}	wax{puM}{3;eka}	viSeRaNam,12	usa	by_him				
+11	ganwavyam	14	ganwavyaM	ganwavya{puM}{2;eka}/ganwavya{napuM}{1;eka}/ganwavya{napuM}{2;eka}	gam1{kqw_prawyayaH:wavyaw;gamLz;BvAxiH;napuM}{1;eka}		prApwa_kiye_jAneyogya_hE	wo_be_reachex				
+12	brahma-karma-samAXinA	11	brahmakarmasamAXinA	brahman-karman-samAXi{puM}{3;eka}	brahman-karman-samAXi{puM}{3;eka}	karwA,11	brahmakarma_meM_sWiwa_rahanevAle_yogI_xvArA	by_complewe_absorpwion_in_spiriwual_acwiviwies	<<brahma-karma>K6-samAXinA>Bs6			
