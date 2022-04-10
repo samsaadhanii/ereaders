@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	कः		को	किम्{सर्वनाम;पुं;1;एक}	किम्{सर्वनाम;पुं;1;एक}	कर्ता,15	कौन					
-2	नु		न्वस्मिन्	अनु-इदम्{सर्वनाम;पुं;7;एक}/इदम्{सर्वनाम;नपुं;7;एक}	नु{अव्य}	सम्बन्धः,16	अनु-इसमें					
-3	अस्मिन्			इदम्{सर्वनाम;पुं;7;एक}/इदम्{सर्वनाम;नपुं;7;एक}	अनु-इदम्{सर्वनाम;पुं;7;एक}	विशेषणम्,5	अनु-इसमें					
-4	साम्प्रतं		साम्प्रतं	साम्प्रतम्{अव्य}	साम्प्रतम्{अव्य}	कालाधिकरणम्,5	अब					
-5	लोके		लोके	लोक्1{कर्तरि;लट्;उ;एक;आत्मनेपदी;लोकृँ;:भ्वादिः}/लोक{पुं;7;एक}	लोक्1{पुं;7;एक}	अधिकरणम्,16	देखता_हूँ					
-6	गुणवान्		गुणवान्	गुण{मतुप्;पुं;1;एक}	गुण{मतुप्;पुं;1;एक}	कर्तृसमानाधिकरणम्,16	गुण					
-7	कः		कश्च	किम्{सर्वनाम;पुं;1;एक}	किम्{सर्वनाम;पुं;1;एक}	समुच्चितः,16	कौन					
-8	च			च{अव्य}	च{अव्य}	समुच्चयद्योतकः,7	और					
-9	वीर्यवान्		वीर्यवान्	वीर्यवत्{पुं;1;एक}	वीर्यवत्{पुं;1;एक}	कर्तृसमानाधिकरणम्,16	मजबूत					
-10	धर्मज्ञः		धर्मज्ञश्च	धर्मज्ञ{पुं;1;एक}	धर्मज्ञ{पुं;1;एक}	कर्तृसमानाधिकरणम्,16	धर्मज्ञ					
-11	च			च{अव्य}	च{अव्य}	समुच्चयद्योतकः,10	और					
-12	कृतज्ञः		कृतज्ञश्च	कृतज्ञ{पुं;1;एक}	कृतज्ञ{पुं;1;एक}	कर्तृसमानाधिकरणम्,16	कृतज्ञ					
-13	च			च{अव्य}	च{अव्य}	समुच्चयद्योतकः,12	और					
-14	सत्य-वाक्यः		सत्य-वाक्यो	सत्य-वाक्य{पुं;1;एक}	सत्य-वाक्य{पुं;1;एक}	कर्तृसमानाधिकरणम्,16	सत्य-वाक्य					
-15	दृढव्रतः		दृढव्रतः	दृढव्रत{पुं;1;एक}	दृढव्रत{पुं;1;एक}	कर्तृसमानाधिकरणम्,16	अडिग_भक्त					
-16	(अस्ति)					अभिहित_कर्ता;सकर्मक;1						
+1	kaH		ko	kim{sarvanAma;puM;1;eka}	kim{sarvanAma;puM;1;eka}	karwA,15	kOna					
+2	nu		nvasmin	anu-ixam{sarvanAma;puM;7;eka}/ixam{sarvanAma;napuM;7;eka}	nu{avya}	sambanXaH,16	anu-isameM					
+3	asmin			ixam{sarvanAma;puM;7;eka}/ixam{sarvanAma;napuM;7;eka}	anu-ixam{sarvanAma;puM;7;eka}	viSeRaNam,5	anu-isameM					
+4	sAmprawaM		sAmprawaM	sAmprawam{avya}	sAmprawam{avya}	kAlAXikaraNam,5	aba					
+5	loke		loke	lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;:BvAxiH}/loka{puM;7;eka}	lok1{puM;7;eka}	aXikaraNam,16	xeKawA_hUz					
+6	guNavAn		guNavAn	guNa{mawup;puM;1;eka}	guNa{mawup;puM;1;eka}	karwqsamAnAXikaraNam,16	guNa					
+7	kaH		kaSca	kim{sarvanAma;puM;1;eka}	kim{sarvanAma;puM;1;eka}	samucciwaH,16	kOna					
+8	ca			ca{avya}	ca{avya}	samuccayaxyowakaH,7	Ora					
+9	vIryavAn		vIryavAn	vIryavaw{puM;1;eka}	vIryavaw{puM;1;eka}	karwqsamAnAXikaraNam,16	majabUwa					
+10	XarmajFaH		XarmajFaSca	XarmajFa{puM;1;eka}	XarmajFa{puM;1;eka}	karwqsamAnAXikaraNam,16	XarmajFa					
+11	ca			ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora					
+12	kqwajFaH		kqwajFaSca	kqwajFa{puM;1;eka}	kqwajFa{puM;1;eka}	karwqsamAnAXikaraNam,16	kqwajFa					
+13	ca			ca{avya}	ca{avya}	samuccayaxyowakaH,12	Ora					
+14	sawya-vAkyaH		sawya-vAkyo	sawya-vAkya{puM;1;eka}	sawya-vAkya{puM;1;eka}	karwqsamAnAXikaraNam,16	sawya-vAkya					
+15	xqDavrawaH		xqDavrawaH	xqDavrawa{puM;1;eka}	xqDavrawa{puM;1;eka}	karwqsamAnAXikaraNam,16	adiga_Bakwa					
+16	(aswi)					aBihiwa_karwA;sakarmaka;1						

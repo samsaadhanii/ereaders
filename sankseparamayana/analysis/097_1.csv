@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	दश-वर्ष-सहस्राणि		दशवर्षसहस्राणि	दश-वर्ष-सहस्र{संख्येयम्;1;बहु}/सहस्र{संख्येयम्;2;बहु}/सहस्र{नपुं;8;बहु}/सहस्र{नपुं;1;बहु}/सहस्र{नपुं;2;बहु}	दश-वर्ष-सहस्र{नपुं;8;बहु}	विशेषणम्,5	दश-वर्ष-हजार		<<दश-वर्ष>K1-सहस्राणि>T6			
-2	दश-वर्ष-शतानि		दशवर्षशतानि	दश-वर्ष-शत{नपुं;1;बहु}/शत{नपुं;2;बहु}/शत{संख्येयम्;1;बहु}/शत{संख्येयम्;2;बहु}/शत{नपुं;8;बहु}	दश-वर्ष-शत{नपुं;8;बहु}	समुच्चितः,5	दश-वर्ष-शत		<<दश-वर्ष>K1-शतानि>T6			
-3	च		च	च{अव्य}	च{अव्य}	समुच्चयद्योतकः,5	भी					
-4	रामः		रामो	राम{पुं;1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	राम{पुं;1;एक}	कर्ता,8	राम					
-5	राज्यम्		राज्यमुपासित्वा	राज्य{नपुं;1;एक}/राज्य{नपुं;2;एक}	राज्य{नपुं;2;एक}	कर्म,6	राज्य					
-6	उपासित्वा			आस्1{अव्य;क्त्वा;आसँ;:अदादिः}	उप_आस्1{अव्य;क्त्वा;आसँ;:अदादिः}	पूर्वकालः,8	उपासना_करके					
-7	ब्रह्मलोकं		ब्रह्मलोकं	ब्रह्मलोक{पुं;2;एक}	ब्रह्मलोक{पुं;2;एक}	कर्म,8	ब्रह्मलोक					
-8	प्र-यास्यति		प्रयास्यति	प्र-या1{कर्तरि;लृट्;प्र;एक;परस्मैपदी;या;:अदादिः}	प्र-या1{कर्तरि;लृट्;प्र;एक;परस्मैपदी;या;:अदादिः}	अभिहित_कर्ता,4;सकर्मक	जाएगा					
+1	xaSa-varRa-sahasrANi		xaSavarRasahasrANi	xaSa-varRa-sahasra{saMKyeyam;1;bahu}/sahasra{saMKyeyam;2;bahu}/sahasra{napuM;8;bahu}/sahasra{napuM;1;bahu}/sahasra{napuM;2;bahu}	xaSa-varRa-sahasra{napuM;8;bahu}	viSeRaNam,5	xaSa-varRa-hajAra		<<xaSa-varRa>K1-sahasrANi>T6			
+2	xaSa-varRa-SawAni		xaSavarRaSawAni	xaSa-varRa-Sawa{napuM;1;bahu}/Sawa{napuM;2;bahu}/Sawa{saMKyeyam;1;bahu}/Sawa{saMKyeyam;2;bahu}/Sawa{napuM;8;bahu}	xaSa-varRa-Sawa{napuM;8;bahu}	samucciwaH,5	xaSa-varRa-Sawa		<<xaSa-varRa>K1-SawAni>T6			
+3	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,5	BI					
+4	rAmaH		rAmo	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	karwA,8	rAma					
+5	rAjyam		rAjyamupAsiwvA	rAjya{napuM;1;eka}/rAjya{napuM;2;eka}	rAjya{napuM;2;eka}	karma,6	rAjya					
+6	upAsiwvA			As1{avya;kwvA;Asaz;:axAxiH}	upa_As1{avya;kwvA;Asaz;:axAxiH}	pUrvakAlaH,8	upAsanA_karake					
+7	brahmalokaM		brahmalokaM	brahmaloka{puM;2;eka}	brahmaloka{puM;2;eka}	karma,8	brahmaloka					
+8	pra-yAsyawi		prayAsyawi	pra-yA1{karwari;lqt;pra;eka;parasmEpaxI;yA;:axAxiH}	pra-yA1{karwari;lqt;pra;eka;parasmEpaxI;yA;:axAxiH}	aBihiwa_karwA,4;sakarmaka	jAegA					

@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	न		न	न{अव्य}	न{अव्य}	प्रतिषेधः,3	नहीं					
-2	च		चाग्निजं	च{अव्य}	च{अव्य}	सम्बन्धः,3	और					
-3	अग्निजं			अग्नि-ज{पुं;2;एक}/अग्नि-ज{नपुं;1;एक}/अग्नि-ज{नपुं;2;एक}	अग्नि-ज{नपुं;1;एक}	कर्तृसमानाधिकरणम्,4	अग्नि_को		<अग्नि-जं>U			
-4	भयं		भयं	भय{नपुं;1;एक}/भय{नपुं;2;एक}	भय{नपुं;1;एक}	कर्ता,18	भय					
-5	किञ्चत्		किञ्चन्	किञ्चत्}	किञ्चत्{अव्य}	विशेषणम्,3						
-6	न		नाप्सु	न{अव्य}	न{अव्य}	प्रतिषेधः,8	नहीं					
-7	अप्सु			अप्{स्त्री;7;बहु}	अप्{स्त्री;7;बहु}	अधिकरणम्,8	पानी_में					
-8	मज्जन्ति		मज्जन्ति	मस्ज्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;टुमस्जोँ;:तुदादिः}	मस्ज्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;टुमस्जोँ;:तुदादिः}	अभिहित_कर्ता,9;सकर्मक	स्नान_करते_हैं					
-9	जन्तवः		जन्तवः	जन्तु{पुं;1;बहु}/जन्तु{पुं;8;बहु}	जन्तु{पुं;1;बहु}	कर्ता,8	जन्तु					
-10	न		न	न{अव्य}	न{अव्य}	प्रतिषेधः,11	नहीं					
-11	वातजं		वातजं	वात-ज{पुं;2;एक}/वात-ज{नपुं;1;एक}/वात-ज{नपुं;2;एक}	वात-ज{नपुं;1;एक}	कर्तृसमानाधिकरणम्,12	हवा_को		<वात-जं>U			
-12	भयं		भयं	भय{नपुं;1;एक}/भय{नपुं;2;एक}	भय{नपुं;1;एक}	कर्ता,19	भय					
-13	किञ्चत्		किञ्चिन्	किञ्चत्}	किञ्चत्{अव्य}	विशेषणम्,11						
-14	न		नापि	न{अव्य}	न{अव्य}	प्रतिषेधः,16	नहीं					
-15	अपि			अपि{अव्य}	अपि{अव्य}	सम्बन्धः,16	भी					
-16	ज्वर-कृतं		ज्वरकृतं	ज्वर-कृत्{पुं;2;एक}/कृत{नपुं;1;एक}/कृत{नपुं;2;एक}/ज्वर-कृत{पुं;2;एक(कृ3;क्त;डुकृञ्;:तनादिः)}/ज्वर-कृत{नपुं;1;एक(कृ3;क्त;डुकृञ्;:तनादिः)}/ज्वर-कृत{नपुं;2;एक(कृ3;क्त;डुकृञ्;:तनादिः)}/ज्वर-कृत{पुं;2;एक(कृ2;क्त;कृञ्;:स्वादिः)}/ज्वर-कृत{नपुं;1;एक(कृ2;क्त;कृञ्;:स्वादिः)}/ज्वर-कृत{नपुं;2;एक(कृ2;क्त;कृञ्;:स्वादिः)}/ज्वर-कृत{पुं;2;एक(कृ1;क्त;कृञ्;:भ्वादिः)}/ज्वर-कृत{नपुं;1;एक(कृ1;क्त;कृञ्;:भ्वादिः)}/ज्वर-कृत{नपुं;2;एक(कृ1;क्त;कृञ्;:भ्वादिः)}	ज्वर-कृत{नपुं;1;एक}	कर्तृसमानाधिकरणम्,12	ज्वर-कृत्_को		<ज्वर-कृतं>T3			
-17	तथा		तथा	तथा{अव्य}	तथा{अव्य}	सम्बन्धः,16	वैसे					
-18	(अस्ति)											
-19	(अस्ति)											
+1	na		na	na{avya}	na{avya}	prawiReXaH,3	nahIM					
+2	ca		cAgnijaM	ca{avya}	ca{avya}	sambanXaH,3	Ora					
+3	agnijaM			agni-ja{puM;2;eka}/agni-ja{napuM;1;eka}/agni-ja{napuM;2;eka}	agni-ja{napuM;1;eka}	karwqsamAnAXikaraNam,4	agni_ko		<agni-jaM>U			
+4	BayaM		BayaM	Baya{napuM;1;eka}/Baya{napuM;2;eka}	Baya{napuM;1;eka}	karwA,18	Baya					
+5	kiFcaw		kiFcan	kiFcaw}	kiFcaw{avya}	viSeRaNam,3						
+6	na		nApsu	na{avya}	na{avya}	prawiReXaH,8	nahIM					
+7	apsu			ap{swrI;7;bahu}	ap{swrI;7;bahu}	aXikaraNam,8	pAnI_meM					
+8	majjanwi		majjanwi	masj1{karwari;lat;pra;bahu;parasmEpaxI;tumasjoz;:wuxAxiH}	masj1{karwari;lat;pra;bahu;parasmEpaxI;tumasjoz;:wuxAxiH}	aBihiwa_karwA,9;sakarmaka	snAna_karawe_hEM					
+9	janwavaH		janwavaH	janwu{puM;1;bahu}/janwu{puM;8;bahu}	janwu{puM;1;bahu}	karwA,8	janwu					
+10	na		na	na{avya}	na{avya}	prawiReXaH,11	nahIM					
+11	vAwajaM		vAwajaM	vAwa-ja{puM;2;eka}/vAwa-ja{napuM;1;eka}/vAwa-ja{napuM;2;eka}	vAwa-ja{napuM;1;eka}	karwqsamAnAXikaraNam,12	havA_ko		<vAwa-jaM>U			
+12	BayaM		BayaM	Baya{napuM;1;eka}/Baya{napuM;2;eka}	Baya{napuM;1;eka}	karwA,19	Baya					
+13	kiFcaw		kiFcin	kiFcaw}	kiFcaw{avya}	viSeRaNam,11						
+14	na		nApi	na{avya}	na{avya}	prawiReXaH,16	nahIM					
+15	api			api{avya}	api{avya}	sambanXaH,16	BI					
+16	jvara-kqwaM		jvarakqwaM	jvara-kqw{puM;2;eka}/kqwa{napuM;1;eka}/kqwa{napuM;2;eka}/jvara-kqwa{puM;2;eka(kq3;kwa;dukqF;:wanAxiH)}/jvara-kqwa{napuM;1;eka(kq3;kwa;dukqF;:wanAxiH)}/jvara-kqwa{napuM;2;eka(kq3;kwa;dukqF;:wanAxiH)}/jvara-kqwa{puM;2;eka(kq2;kwa;kqF;:svAxiH)}/jvara-kqwa{napuM;1;eka(kq2;kwa;kqF;:svAxiH)}/jvara-kqwa{napuM;2;eka(kq2;kwa;kqF;:svAxiH)}/jvara-kqwa{puM;2;eka(kq1;kwa;kqF;:BvAxiH)}/jvara-kqwa{napuM;1;eka(kq1;kwa;kqF;:BvAxiH)}/jvara-kqwa{napuM;2;eka(kq1;kwa;kqF;:BvAxiH)}	jvara-kqwa{napuM;1;eka}	karwqsamAnAXikaraNam,12	jvara-kqw_ko		<jvara-kqwaM>T3			
+17	waWA		waWA	waWA{avya}	waWA{avya}	sambanXaH,16	vEse					
+18	(aswi)											
+19	(aswi)											

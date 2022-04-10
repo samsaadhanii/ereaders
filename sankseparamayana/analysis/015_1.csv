@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	सर्व-शास्त्रार्थ-तत्त्वज्ञः		सर्वशास्त्रार्थतत्त्वज्ञः	सर्व-शास्त्रार्थ-तत्त्वज्ञ{पुं;1;एक}	सर्व-शास्त्रार्थ-तत्त्वज्ञ{पुं;1;एक}	विधेय_विशेषणम्,7	सब-शास्त्रार्थ-दार्शनिक		<<<<सर्व-शास्त्र>K1अर्थ>T6-तत्त्व>T6ज्ञः>U			
-2	स्मृतिमान्		स्मृतिमान्	स्मृति{मतुप्;पुं;1;एक}	स्मृति{मतुप्;पुं;1;एक}	विधेय_विशेषणम्,7	स्मृति					
-3	प्रतिभानवान्		प्रतिभानवान्	प्रतिभानवान्}	प्रतिभानवान्}	विधेय_विशेषणम्,7						
-4	सर्व-लोक-प्रियः		सर्वलोकप्रियः	सर्व-लोक-प्री{नपुं;6;एक}/प्री{नपुं;5;एक}/प्रिय{पुं;1;एक}	सर्व-लोक-प्री{नपुं;6;एक}/प्रीनपुं;5;एक}/प्रियपुं;1;एक}	विधेय_विशेषणम्,7	सब-लोक-प्री_का		<<सर्व-लोक>K1-प्रियः>Bs6			
-5	साधुः		साधुरादीनात्मा	साधु{पुं;1;एक}	साधु{पुं;1;एक}	विधेय_विशेषणम्,7	साधु					
-6	अदीनात्मा			अदीनात्मा}	अदीनात्मा}	विधेय_विशेषणम्,7			<<न-दीन>Tn-आत्मा>Bs6			
-7	विचक्षणः		विचक्षणः	विचक्षण{पुं;1;एक}	विचक्षण{पुं;1;एक}	कर्ता,8	स्पष्टदर्शी					
-8	(अस्ति)			अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,7;सकर्मक	है					
+1	sarva-SAswrArWa-wawwvajFaH		sarvaSAswrArWawawwvajFaH	sarva-SAswrArWa-wawwvajFa{puM;1;eka}	sarva-SAswrArWa-wawwvajFa{puM;1;eka}	viXeya_viSeRaNam,7	saba-SAswrArWa-xArSanika		<<<<sarva-SAswra>K1arWa>T6-wawwva>T6jFaH>U			
+2	smqwimAn		smqwimAn	smqwi{mawup;puM;1;eka}	smqwi{mawup;puM;1;eka}	viXeya_viSeRaNam,7	smqwi					
+3	prawiBAnavAn		prawiBAnavAn	prawiBAnavAn}	prawiBAnavAn}	viXeya_viSeRaNam,7						
+4	sarva-loka-priyaH		sarvalokapriyaH	sarva-loka-prI{napuM;6;eka}/prI{napuM;5;eka}/priya{puM;1;eka}	sarva-loka-prI{napuM;6;eka}/prInapuM;5;eka}/priyapuM;1;eka}	viXeya_viSeRaNam,7	saba-loka-prI_kA		<<sarva-loka>K1-priyaH>Bs6			
+5	sAXuH		sAXurAxInAwmA	sAXu{puM;1;eka}	sAXu{puM;1;eka}	viXeya_viSeRaNam,7	sAXu					
+6	axInAwmA			axInAwmA}	axInAwmA}	viXeya_viSeRaNam,7			<<na-xIna>Tn-AwmA>Bs6			
+7	vicakRaNaH		vicakRaNaH	vicakRaNa{puM;1;eka}	vicakRaNa{puM;1;eka}	karwA,8	spaRtaxarSI					
+8	(aswi)			as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,7;sakarmaka	hE					

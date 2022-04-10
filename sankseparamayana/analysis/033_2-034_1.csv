@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	गते		गते	गति{स्त्री;8;एक}/गत{पुं;7;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}/गत{नपुं;1;द्वि(गम्1;क्त;गमॢँ;:भ्वादिः)}/गत{नपुं;2;द्वि(गम्1;क्त;गमॢँ;:भ्वादिः)}/गत{नपुं;7;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}/गता{स्त्री;1;द्वि(गम्1;क्त;गमॢँ;:भ्वादिः)}/गता{स्त्री;2;द्वि(गम्1;क्त;गमॢँ;:भ्वादिः)}	गत{पुं;7;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}	भावलक्षणसप्तमी_पूर्वकालः,10	गति					
-2	तु		तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,10	तो					
-3	तस्मिन्		तस्मिन्	तद्{सर्वनाम;नपुं;7;एक}/तद्{सर्वनाम;पुं;7;एक}	तद्सर्वनाम{पुं;7;एक}	कर्ता,1	उसमें					
-4	भरतः		भरतो	भरत{पुं;1;एक}/भृ1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;भृञ्;:भ्वादिः}/भरत्{पुं;2;बहु}/भरत्{पुं;5;एक}/भरत्{पुं;6;एक}/भरत्{नपुं;5;एक}/भरत्{नपुं;6;एक}	भरत{पुं;1;एक}	कर्म,7	भरत					
-5	वसिष्ठ-प्रमुखैः		वसिष्ठप्रमुखैर्द्विजैः	वसिष्ठ-प्रमुख{पुं;3;बहु}/प्रमुख{नपुं;3;बहु}	वसिष्ठ-प्रमुख{पुं;3;बहु}/प्रमुखनपुं;3;बहु}	विशेषणम्,6	वसिष्ठ-प्रमुखों_से		<वसिष्ठ-प्रमुखैः>Bs6			
-6	द्विजैः			द्विज{पुं;3;बहु}/द्विज{नपुं;3;बहु}	द्विज{पुं;3;बहु}	कर्ता,7	ब्राह्मणों_से					
-7	नि-युज्यमानः		नियुज्यमानो	नि-युज्यमान{पुं;1;एक(नि-युज्2;शानच्_लट्;कर्मणि;युजिँर्;:रुधादिः)}/नि-युज्यमान{पुं;1;एक(युज्1;शानच्_लट्;कर्तरि;युजँ;:दिवादिः)}/नि-युज्यमान{पुं;1;एक(युज्1;शानच्_लट्;कर्मणि;युजँ;:दिवादिः)}	नि-युज्यमान{पुं;1;एक(नि-युज्2;शानच्_लट्;कर्मणि;युजिँर्;:रुधादिः)}	वर्तमानसमानकालः,10						
-8	राज्याय		राज्याय	राज्य{नपुं;4;एक}	राज्य{नपुं;4;एक}	प्रयोजनम्,7	राज्य_को					
-9	न		नैच्छद्राज्यं	न{अव्य}	न{अव्य}	प्रतिषेधः,10						
-10	ऐच्छत्			इष्2{कर्तरि;लङ्;प्र;एक;परस्मैपदी;इषुँ;:तुदादिः}	इष्2{कर्तरि;लङ्;प्र;एक;परस्मैपदी;इषुँ;:तुदादिः}	अभिहित_कर्म,4;सकर्मक	इच्छा_नहीं_की					
-11	राज्यं			राज्य{नपुं;1;एक}/राज्य{नपुं;2;एक}	राज्य{नपुं;2;एक}	कर्म,10	राज्य					
-12	महा-बलः		महाबलः	महा-बल{पुं;1;एक}	महा-बल{पुं;1;एक}	विशेषणम्,4	गाय-बल		<महा-बलः>Bs6			
-13	सः		स	तद्{सर्वनाम;पुं;1;एक}	तद्{सर्वनाम;पुं;1;एक}	कर्ता,14	वह					
-14	जगाम		जगाम	गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;:भ्वादिः}/गम्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;गमॢँ;:भ्वादिः}	गम्1{कर्तरि;लिट्;प्र;ए;परस्मैपदी;गमॢँ;:भ्वादिः}	अभिहित_कर्ता,13;सकर्मक	गया					
-15	वनं		वनं	वन{नपुं;1;एक}/वन{नपुं;2;एक}	वन{नपुं;2;एक}	कर्म,14	वन					
-16	वीरः		वीरो	वीर{पुं;1;एक}	वीर{पुं;1;एक}	विशेषणम्,13	वीर					
-17	राम-पाद-प्रसादकः		रामपादप्रसादकः	राम-पाद-प्रसाद{क;पुं;1;एक}/प्रसादक{पुं;1;एक}	राम-पाद-प्रसादक{पुं;1;एक}	विधेय-विशेषणम्,13	राम-पैर-प्रसाद		<<राम-पाद>T6-प्रसादकः>U			
+1	gawe		gawe	gawi{swrI;8;eka}/gawa{puM;7;eka(gam1;kwa;gamLz;:BvAxiH)}/gawa{napuM;1;xvi(gam1;kwa;gamLz;:BvAxiH)}/gawa{napuM;2;xvi(gam1;kwa;gamLz;:BvAxiH)}/gawa{napuM;7;eka(gam1;kwa;gamLz;:BvAxiH)}/gawA{swrI;1;xvi(gam1;kwa;gamLz;:BvAxiH)}/gawA{swrI;2;xvi(gam1;kwa;gamLz;:BvAxiH)}	gawa{puM;7;eka(gam1;kwa;gamLz;:BvAxiH)}	BAvalakRaNasapwamI_pUrvakAlaH,10	gawi					
+2	wu		wu	wu{avya}	wu{avya}	sambanXaH,10	wo					
+3	wasmin		wasmin	wax{sarvanAma;napuM;7;eka}/wax{sarvanAma;puM;7;eka}	waxsarvanAma{puM;7;eka}	karwA,1	usameM					
+4	BarawaH		Barawo	Barawa{puM;1;eka}/Bq1{karwari;lat;pra;xvi;parasmEpaxI;BqF;:BvAxiH}/Baraw{puM;2;bahu}/Baraw{puM;5;eka}/Baraw{puM;6;eka}/Baraw{napuM;5;eka}/Baraw{napuM;6;eka}	Barawa{puM;1;eka}	karma,7	Barawa					
+5	vasiRTa-pramuKEH		vasiRTapramuKErxvijEH	vasiRTa-pramuKa{puM;3;bahu}/pramuKa{napuM;3;bahu}	vasiRTa-pramuKa{puM;3;bahu}/pramuKanapuM;3;bahu}	viSeRaNam,6	vasiRTa-pramuKoM_se		<vasiRTa-pramuKEH>Bs6			
+6	xvijEH			xvija{puM;3;bahu}/xvija{napuM;3;bahu}	xvija{puM;3;bahu}	karwA,7	brAhmaNoM_se					
+7	ni-yujyamAnaH		niyujyamAno	ni-yujyamAna{puM;1;eka(ni-yuj2;SAnac_lat;karmaNi;yujizr;:ruXAxiH)}/ni-yujyamAna{puM;1;eka(yuj1;SAnac_lat;karwari;yujaz;:xivAxiH)}/ni-yujyamAna{puM;1;eka(yuj1;SAnac_lat;karmaNi;yujaz;:xivAxiH)}	ni-yujyamAna{puM;1;eka(ni-yuj2;SAnac_lat;karmaNi;yujizr;:ruXAxiH)}	varwamAnasamAnakAlaH,10						
+8	rAjyAya		rAjyAya	rAjya{napuM;4;eka}	rAjya{napuM;4;eka}	prayojanam,7	rAjya_ko					
+9	na		nEcCaxrAjyaM	na{avya}	na{avya}	prawiReXaH,10						
+10	EcCaw			iR2{karwari;laf;pra;eka;parasmEpaxI;iRuz;:wuxAxiH}	iR2{karwari;laf;pra;eka;parasmEpaxI;iRuz;:wuxAxiH}	aBihiwa_karma,4;sakarmaka	icCA_nahIM_kI					
+11	rAjyaM			rAjya{napuM;1;eka}/rAjya{napuM;2;eka}	rAjya{napuM;2;eka}	karma,10	rAjya					
+12	mahA-balaH		mahAbalaH	mahA-bala{puM;1;eka}	mahA-bala{puM;1;eka}	viSeRaNam,4	gAya-bala		<mahA-balaH>Bs6			
+13	saH		sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,14	vaha					
+14	jagAma		jagAma	gam1{karwari;lit;pra;eka;parasmEpaxI;gamLz;:BvAxiH}/gam1{karwari;lit;u;eka;parasmEpaxI;gamLz;:BvAxiH}	gam1{karwari;lit;pra;e;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,13;sakarmaka	gayA					
+15	vanaM		vanaM	vana{napuM;1;eka}/vana{napuM;2;eka}	vana{napuM;2;eka}	karma,14	vana					
+16	vIraH		vIro	vIra{puM;1;eka}	vIra{puM;1;eka}	viSeRaNam,13	vIra					
+17	rAma-pAxa-prasAxakaH		rAmapAxaprasAxakaH	rAma-pAxa-prasAxa{ka;puM;1;eka}/prasAxaka{puM;1;eka}	rAma-pAxa-prasAxaka{puM;1;eka}	viXeya-viSeRaNam,13	rAma-pEra-prasAxa		<<rAma-pAxa>T6-prasAxakaH>U			

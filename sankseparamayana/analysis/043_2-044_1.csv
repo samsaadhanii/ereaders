@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	वसतः		वसतस्तस्य	वस्1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;वसँ;:भ्वादिः}/वसत्{पुं;2;बहु(वस्1;शतृ_लट्;वसँ;:भ्वादिः)}/वसत्{पुं;5;एक(वस्1;शतृ_लट्;वसँ;:भ्वादिः)}/वसत्{पुं;6;एक(वस्1;शतृ_लट्;वसँ;:भ्वादिः)}/वसत्{नपुं;5;एक(वस्1;शतृ_लट्;वसँ;:भ्वादिः)}/वसत्{नपुं;6;एक(वस्1;शतृ_लट्;वसँ;:भ्वादिः)}	वसत्{पुं;6;एक(वस्1;शतृ_लट्;वसँ;:भ्वादिः)}	वर्तमानसमानकालः,8	रहते_हैं					
-2	तस्य			तद्{सर्वनाम;पुं;6;एक}	तद्{सर्वनाम;नपुं;6;एक}/तद्सर्वनाम;पुं;6;एक}	विशेषणम्,3	उसका					
-3	रामस्य		रामस्य	राम{पुं;6;एक}	राम{पुं;6;एक}	षष्ठीसम्बन्धः,1	राम_का					
-4	वने		वने	वन{नपुं;1;द्वि}/वन{नपुं;2;द्वि}/वन{नपुं;8;द्वि}/वनि{पुं;8;एक}/वन{नपुं;7;एक}	वन{नपुं;7;एक}	अधिकरणम्,1	वन					
-5	वनचरैः		वनचरैः	वनचर{पुं;3;बहु}/वनचर{नपुं;3;बहु}	वनचर{पुं;3;बहु}	सहार्थः,1	वनचरों_से		<वन-चरैः>U			
-6	सह		सह	सह{अव्य}	सह{अव्य}	सहार्थ_द्योतकः,5	साथ					
-7	ऋषयः		ऋषयोऽभ्यागमन्सर्वे	ऋषि{पुं;1;बहु}/ऋषि{पुं;8;बहु}	ऋषि{पुं;1;बहु}/ऋषिपुं;8;बहु}	कर्ता,8	ऋषि					
-8	अभ्यागमन्			अभि_आङ्_गम्1{कर्तरि;लुङ्;प्र;बहु;परस्मैपदी;गमॢँ;:भ्वादिः}	अभि_आङ्_गम्1{कर्तरि;लुङ्;प्र;बहु;परस्मैपदी;गमॢँ;:भ्वादिः}	अभिहित_कर्ता,7;सकर्मक	अभि_आङ्_गम्1_प्प्_स्क्या					
-9	सर्वे			सर्व{सर्वनाम;पुं;1;बहु}/सर्व{सर्वनाम;नपुं;1;द्वि}/सर्व{सर्वनाम;नपुं;2;द्वि}/सर्वा{सर्वनाम;स्त्री;1;द्वि}/सर्वा{सर्वनाम;स्त्री;2;द्वि}	सर्व{सर्वनाम;पुं;1;बहु}	विशेषणम्,7	सब					
-10	वधाय		वधायासुररक्षसाम्	वध{पुं;4;एक}	वध{पुं;4;एक}	प्रयोजनम्,8	वध_को					
-11	असुर-रक्षसाम्			असुर-रक्षस्{नपुं;6;बहु}/रक्षस्{पुं;6;बहु}	असुर-रक्षस्{नपुं;6;बहु}	विशेषणम्,15	राक्षस-राक्षसों_का		<असुर-रक्षसाम्>Di			
-12	सः		स	तद्{सर्वनाम;पुं;1;एक}	तद्{सर्वनाम;पुं;1;एक}	कर्ता,14	वह					
-13	तेषां		तेषां	तद्{सर्वनाम;पुं;6;बहु}/तद्{सर्वनाम;नपुं;6;बहु}	तद्{सर्वनाम;पुं;6;बहु}	विशेषणम्,15	उनका					
-14	प्रति-शुश्राव		प्रतिशुश्राव	प्रति-श्रु1{कर्तरि;लिट्;उ;एक;परस्मैपदी;श्रु;:भ्वादिः}/श्रु1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;श्रु;:भ्वादिः}	प्रति-श्रु1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;श्रु;:भ्वादिः}	अभिहित_कर्ता,12;सकर्मक	सुना					
-15	राक्षसानां		राक्षसानां	राक्षस{पुं;6;बहु}	राक्षस{पुं;6;बहु}	षष्ठीसम्बन्धः,10	राक्षसों_के					
-16	तदा		तदा	तदा{अव्य}	तदा{अव्य}	कालाधिकरणम्,14	तब					
-17	वने		वने	वन{नपुं;1;द्वि}/वन{नपुं;2;द्वि}/वन{नपुं;8;द्वि}/वनि{पुं;8;एक}/वन{नपुं;7;एक}	वन{नपुं;7;एक}	अधिकरणम्,14	वन					
+1	vasawaH		vasawaswasya	vas1{karwari;lat;pra;xvi;parasmEpaxI;vasaz;:BvAxiH}/vasaw{puM;2;bahu(vas1;Sawq_lat;vasaz;:BvAxiH)}/vasaw{puM;5;eka(vas1;Sawq_lat;vasaz;:BvAxiH)}/vasaw{puM;6;eka(vas1;Sawq_lat;vasaz;:BvAxiH)}/vasaw{napuM;5;eka(vas1;Sawq_lat;vasaz;:BvAxiH)}/vasaw{napuM;6;eka(vas1;Sawq_lat;vasaz;:BvAxiH)}	vasaw{puM;6;eka(vas1;Sawq_lat;vasaz;:BvAxiH)}	varwamAnasamAnakAlaH,8	rahawe_hEM					
+2	wasya			wax{sarvanAma;puM;6;eka}	wax{sarvanAma;napuM;6;eka}/waxsarvanAma;puM;6;eka}	viSeRaNam,3	usakA					
+3	rAmasya		rAmasya	rAma{puM;6;eka}	rAma{puM;6;eka}	RaRTIsambanXaH,1	rAma_kA					
+4	vane		vane	vana{napuM;1;xvi}/vana{napuM;2;xvi}/vana{napuM;8;xvi}/vani{puM;8;eka}/vana{napuM;7;eka}	vana{napuM;7;eka}	aXikaraNam,1	vana					
+5	vanacarEH		vanacarEH	vanacara{puM;3;bahu}/vanacara{napuM;3;bahu}	vanacara{puM;3;bahu}	sahArWaH,1	vanacaroM_se		<vana-carEH>U			
+6	saha		saha	saha{avya}	saha{avya}	sahArWa_xyowakaH,5	sAWa					
+7	qRayaH		qRayoZByAgamansarve	qRi{puM;1;bahu}/qRi{puM;8;bahu}	qRi{puM;1;bahu}/qRipuM;8;bahu}	karwA,8	qRi					
+8	aByAgaman			aBi_Af_gam1{karwari;luf;pra;bahu;parasmEpaxI;gamLz;:BvAxiH}	aBi_Af_gam1{karwari;luf;pra;bahu;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,7;sakarmaka	aBi_Af_gam1_pp_skyA					
+9	sarve			sarva{sarvanAma;puM;1;bahu}/sarva{sarvanAma;napuM;1;xvi}/sarva{sarvanAma;napuM;2;xvi}/sarvA{sarvanAma;swrI;1;xvi}/sarvA{sarvanAma;swrI;2;xvi}	sarva{sarvanAma;puM;1;bahu}	viSeRaNam,7	saba					
+10	vaXAya		vaXAyAsurarakRasAm	vaXa{puM;4;eka}	vaXa{puM;4;eka}	prayojanam,8	vaXa_ko					
+11	asura-rakRasAm			asura-rakRas{napuM;6;bahu}/rakRas{puM;6;bahu}	asura-rakRas{napuM;6;bahu}	viSeRaNam,15	rAkRasa-rAkRasoM_kA		<asura-rakRasAm>Di			
+12	saH		sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,14	vaha					
+13	weRAM		weRAM	wax{sarvanAma;puM;6;bahu}/wax{sarvanAma;napuM;6;bahu}	wax{sarvanAma;puM;6;bahu}	viSeRaNam,15	unakA					
+14	prawi-SuSrAva		prawiSuSrAva	prawi-Sru1{karwari;lit;u;eka;parasmEpaxI;Sru;:BvAxiH}/Sru1{karwari;lit;pra;eka;parasmEpaxI;Sru;:BvAxiH}	prawi-Sru1{karwari;lit;pra;eka;parasmEpaxI;Sru;:BvAxiH}	aBihiwa_karwA,12;sakarmaka	sunA					
+15	rAkRasAnAM		rAkRasAnAM	rAkRasa{puM;6;bahu}	rAkRasa{puM;6;bahu}	RaRTIsambanXaH,10	rAkRasoM_ke					
+16	waxA		waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,14	waba					
+17	vane		vane	vana{napuM;1;xvi}/vana{napuM;2;xvi}/vana{napuM;8;xvi}/vani{puM;8;eka}/vana{napuM;7;eka}	vana{napuM;7;eka}	aXikaraNam,14	vana					

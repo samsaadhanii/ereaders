@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	दर्शयामास		दर्शयामास	दृश्1{णिजन्त;कर्तरि;लिट्;म;बहु;परस्मैपदी;दृशिँर्;:भ्वादिः}/दृश्1{णिजन्त;कर्तरि;लिट्;म;बहु;आत्मनेपदी;दृशिँर्;:भ्वादिः}/दृश्1{णिजन्त;कर्तरि;लिट्;प्र;एक;परस्मैपदी;दृशिँर्;:भ्वादिः}/दृश्1{णिजन्त;कर्तरि;लिट्;प्र;एक;आत्मनेपदी;दृशिँर्;:भ्वादिः}/दृश्1{णिजन्त;कर्तरि;लिट्;उ;एक;परस्मैपदी;दृशिँर्;:भ्वादिः}/दृश्1{णिजन्त;कर्तरि;लिट्;उ;एक;आत्मनेपदी;दृशिँर्;:भ्वादिः}/दृश्1{कर्तरि;णिजन्त;लिट्;प्र;एक;परस्मैपदी;दृश्;:भ्वदिः}	दृश्1{णिजन्त;कर्तरि;लिट्;प्र;एक;परस्मैपदी;दृशिँर्;:भ्वादिः}	अभिहित_कर्ता,4;सकर्मक						
-2	च		चात्मानं	च{अव्य}	च{अव्य}	सम्बन्धः,1	और					
-3	आत्मानं			आत्मन्{पुं;2;एक}	आत्मन्{पुं;2;एक}	कर्म,1	आत्मा_को					
-4	समुद्रः		समुद्रः	समुद्र{पुं;1;एक}	समुद्र{पुं;1;एक}	कर्ता,1	समुद्र					
-5	सरितां		सरितां	सरित्{स्त्री;6;बहु}	सरित्{स्त्री;6;बहु}	षष्ठीसम्बन्धः,6	नदियों_का					
-6	पतिः		पतिः	पति{पुं;1;एक}	पति{पुं;1;एक}	विशेषणम्,4	पति					
-7	समुद्र-वचनात्		समुद्रवचनातच्चैव	समुद्र-वचन{नपुं;5;एक}	समुद्र-वचन{नपुं;5;एक}	हेतुः,12	समुद्र-वचन_से		<समुद्र-वचनात्>T6			
-8	च			च{अव्य}	च{अव्य}	सम्बन्धः,7	और					
-9	एव			एव{अव्य}	एव{अव्य}	सम्बन्धः,7	ही					
-10	नलं		नलं	नल{पुं;2;एक}	नल{पुं;2;एक}	विशेषणम्,11	नल_को					
-11	सेतुम्		सेतुमकारयत्	सेतु{पुं;2;एक}/षि1{अव्य;तुमुन्;षिञ्;:स्वादिः}/षि2{अव्य;तुमुन्;षिञ्;:क्र्यादिः}	सेतु{पुं;2;एक}	कर्म,12	सेतु_को					
-12	अकारयत्			कृ2{णिजन्त;कर्तरि;लङ्;प्र;एक;परस्मैपदी;कृञ्;:स्वादिः}/कृ3{णिजन्त;कर्तरि;लङ्;प्र;एक;परस्मैपदी;डुकृञ्;:तनादिः}/कॄ1{णिजन्त;कर्तरि;लङ्;प्र;एक;परस्मैपदी;कॄ;:तुदादिः}/कॄ2{णिजन्त;कर्तरि;लङ्;प्र;एक;परस्मैपदी;कॄञ्;:क्र्यादिः}	कृ2{णिजन्त;कर्तरि;लङ्;प्र;एक;परस्मैपदी;कृञ्;:स्वादिः}	अभिहित_कर्ता,0;सकर्मक						
+1	xarSayAmAsa		xarSayAmAsa	xqS1{Nijanwa;karwari;lit;ma;bahu;parasmEpaxI;xqSizr;:BvAxiH}/xqS1{Nijanwa;karwari;lit;ma;bahu;AwmanepaxI;xqSizr;:BvAxiH}/xqS1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;xqSizr;:BvAxiH}/xqS1{Nijanwa;karwari;lit;pra;eka;AwmanepaxI;xqSizr;:BvAxiH}/xqS1{Nijanwa;karwari;lit;u;eka;parasmEpaxI;xqSizr;:BvAxiH}/xqS1{Nijanwa;karwari;lit;u;eka;AwmanepaxI;xqSizr;:BvAxiH}/xqS1{karwari;Nijanwa;lit;pra;eka;parasmEpaxI;xqS;:BvaxiH}	xqS1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;xqSizr;:BvAxiH}	aBihiwa_karwA,4;sakarmaka						
+2	ca		cAwmAnaM	ca{avya}	ca{avya}	sambanXaH,1	Ora					
+3	AwmAnaM			Awman{puM;2;eka}	Awman{puM;2;eka}	karma,1	AwmA_ko					
+4	samuxraH		samuxraH	samuxra{puM;1;eka}	samuxra{puM;1;eka}	karwA,1	samuxra					
+5	sariwAM		sariwAM	sariw{swrI;6;bahu}	sariw{swrI;6;bahu}	RaRTIsambanXaH,6	naxiyoM_kA					
+6	pawiH		pawiH	pawi{puM;1;eka}	pawi{puM;1;eka}	viSeRaNam,4	pawi					
+7	samuxra-vacanAw		samuxravacanAwaccEva	samuxra-vacana{napuM;5;eka}	samuxra-vacana{napuM;5;eka}	hewuH,12	samuxra-vacana_se		<samuxra-vacanAw>T6			
+8	ca			ca{avya}	ca{avya}	sambanXaH,7	Ora					
+9	eva			eva{avya}	eva{avya}	sambanXaH,7	hI					
+10	nalaM		nalaM	nala{puM;2;eka}	nala{puM;2;eka}	viSeRaNam,11	nala_ko					
+11	sewum		sewumakArayaw	sewu{puM;2;eka}/Ri1{avya;wumun;RiF;:svAxiH}/Ri2{avya;wumun;RiF;:kryAxiH}	sewu{puM;2;eka}	karma,12	sewu_ko					
+12	akArayaw			kq2{Nijanwa;karwari;laf;pra;eka;parasmEpaxI;kqF;:svAxiH}/kq3{Nijanwa;karwari;laf;pra;eka;parasmEpaxI;dukqF;:wanAxiH}/kQ1{Nijanwa;karwari;laf;pra;eka;parasmEpaxI;kQ;:wuxAxiH}/kQ2{Nijanwa;karwari;laf;pra;eka;parasmEpaxI;kQF;:kryAxiH}	kq2{Nijanwa;karwari;laf;pra;eka;parasmEpaxI;kqF;:svAxiH}	aBihiwa_karwA,0;sakarmaka						

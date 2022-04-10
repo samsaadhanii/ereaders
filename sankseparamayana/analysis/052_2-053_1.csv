@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	तेन		तेन	तद्{सर्वनाम;पुं;3;एक}/तद्{सर्वनाम;नपुं;3;एक}/तन्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;तनुँ;:तनादिः}	तद्{सर्वनाम;पुं;3;एक}	कर्ता,4	उससे					
-2	मायाविना		मायाविना	मायाविन्{पुं;3;एक}/मायाविन्{नपुं;3;एक}	मायाविन्{पुं;3;एक}	विशेषणम्,1	ऐन्द्रजालिक_से					
-3	दूरम्		दूरमपवाह्य	दूर{पुं;2;एक}/दूर{नपुं;1;एक}/दूर{नपुं;2;एक}	दूर{पुं;2;एक}/दूरनपुं;1;एक}/दूरनपुं;2;एक}	गौणकर्म,4	दूर_को					
-4	अपवाह्य			वाह्1{अव्य;ल्यप्;वाहृँ;:भ्वादिः}	अप_वाह्1{अव्य;ल्यप्;वाहृँ;:भ्वादिः}	पूर्वकालः,6						
-5	नृपात्मजौ		नृपात्मजौ	नृपात्मजौ}	नृपात्मजौ{पुं;1;द्वि}	मुख्यकर्म,4			<नृप-आत्मजौ>T6			
-6	जहार		जहार	हृ1{कर्तरि;लिट्;उ;एक;परस्मैपदी;हृञ्;:भ्वादिः}/हृ1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;हृञ्;:भ्वादिः}/हृ2{कर्तरि;लिट्;उ;एक;परस्मैपदी;हृ;:जुहोत्यादिः}/हृ2{कर्तरि;लिट्;प्र;एक;परस्मैपदी;हृ;:जुहोत्यादिः}	हृ1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;हृञ्;:भ्वादिः}	अभिहित_कर्ता,0स;सकर्मक	ले_गया					
-7	भार्यां		भार्यां	भार्या{स्त्री;2;एक}	भार्या{स्त्री;2;एक}	कर्म,6	पत्नी_को					
-8	रामस्य		रामस्य	राम{पुं;6;एक}	राम{पुं;6;एक}	षष्ठीसम्बन्धः,7	राम_का					
-9	गृध्रं		गृध्रं	गृध्र{पुं;2;एक}/गृध्र{नपुं;1;एक}/गृध्र{नपुं;2;एक}	गृध्र{पुं;2;एक}	कर्म,10	लोभी_को					
-10	हत्वा		हत्वा	हन्1{अव्य;क्त्वा;हनँ;:अदादिः}	हन्1{अव्य;क्त्वा;हनँ;:अदादिः}	पूर्वकालः,6						
-11	जटायुषम्		जटायुषम्	जटायुस्{पुं;2;एक}	जटायुस्{पुं;2;एक}	विशेषणम्,9	जटायुस्_को					
+1	wena		wena	wax{sarvanAma;puM;3;eka}/wax{sarvanAma;napuM;3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;:wanAxiH}	wax{sarvanAma;puM;3;eka}	karwA,4	usase					
+2	mAyAvinA		mAyAvinA	mAyAvin{puM;3;eka}/mAyAvin{napuM;3;eka}	mAyAvin{puM;3;eka}	viSeRaNam,1	EnxrajAlika_se					
+3	xUram		xUramapavAhya	xUra{puM;2;eka}/xUra{napuM;1;eka}/xUra{napuM;2;eka}	xUra{puM;2;eka}/xUranapuM;1;eka}/xUranapuM;2;eka}	gONakarma,4	xUra_ko					
+4	apavAhya			vAh1{avya;lyap;vAhqz;:BvAxiH}	apa_vAh1{avya;lyap;vAhqz;:BvAxiH}	pUrvakAlaH,6						
+5	nqpAwmajO		nqpAwmajO	nqpAwmajO}	nqpAwmajO{puM;1;xvi}	muKyakarma,4			<nqpa-AwmajO>T6			
+6	jahAra		jahAra	hq1{karwari;lit;u;eka;parasmEpaxI;hqF;:BvAxiH}/hq1{karwari;lit;pra;eka;parasmEpaxI;hqF;:BvAxiH}/hq2{karwari;lit;u;eka;parasmEpaxI;hq;:juhowyAxiH}/hq2{karwari;lit;pra;eka;parasmEpaxI;hq;:juhowyAxiH}	hq1{karwari;lit;pra;eka;parasmEpaxI;hqF;:BvAxiH}	aBihiwa_karwA,0sa;sakarmaka	le_gayA					
+7	BAryAM		BAryAM	BAryA{swrI;2;eka}	BAryA{swrI;2;eka}	karma,6	pawnI_ko					
+8	rAmasya		rAmasya	rAma{puM;6;eka}	rAma{puM;6;eka}	RaRTIsambanXaH,7	rAma_kA					
+9	gqXraM		gqXraM	gqXra{puM;2;eka}/gqXra{napuM;1;eka}/gqXra{napuM;2;eka}	gqXra{puM;2;eka}	karma,10	loBI_ko					
+10	hawvA		hawvA	han1{avya;kwvA;hanaz;:axAxiH}	han1{avya;kwvA;hanaz;:axAxiH}	pUrvakAlaH,6						
+11	jatAyuRam		jatAyuRam	jatAyus{puM;2;eka}	jatAyus{puM;2;eka}	viSeRaNam,9	jatAyus_ko					

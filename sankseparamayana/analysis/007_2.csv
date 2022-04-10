@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	मुने		मुने	मुनि{पुं;8;एक}	मुनि{पुं;8;एक}	सम्बोध्यः,2	मुनि					
-2	वक्ष्यामि		वक्ष्याम्यहं	वच्1{कर्तरि;लृट्;उ;एक;परस्मैपदी;वचँ;:अदादिः}/वह्1{कर्तरि;लृट्;उ;एक;परस्मैपदी;वहँ;:भ्वादिः}	वच्1{कर्तरि;लृट्;उ;एक;परस्मैपदी;वचँ;:अदादिः}	अभिहित_कर्ता,3;सकर्मक	बोलूँगा					
-3	अहं			अस्मद्{सर्वनाम;1;एक}	अस्मद्{सर्वनाम;1;एक}	कर्ता,2	मैं					
-4	तैः		तैर्युक्तः	तद्{सर्वनाम;पुं;3;बहु}/तद्{सर्वनाम;नपुं;3;बहु}	तद्{सर्वनाम;पुं;3;बहु}	करणम्,5	उनसे					
-5	युक्तः			युज्{अव्य;तसिल्}/युक्त{पुं;1;एक}	युक्त{पुं;1;एक}	विशेषणम्,6						
-6	नरः		नरः	नृ{पुं;1;बहु}/नर{पुं;1;एक}/नृ{पुं;8;बहु}	नर{पुं;1;एक}	विशेषणम्,7	मनुष्य					
-7	(कः)			किम्{सर्वनाम;पुं;1;एक}	किम्{सर्वनाम;पुं;1;एक}	कर्ता,8	कौन					
-8	(अस्ति)			अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	वाक्यकर्म,9	है					
-9	(इति)			इति{अव्य}	इति{अव्य}	वाक्यकर्मद्योतकः,2	ऐसा					
+1	mune		mune	muni{puM;8;eka}	muni{puM;8;eka}	samboXyaH,2	muni					
+2	vakRyAmi		vakRyAmyahaM	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;:axAxiH}/vah1{karwari;lqt;u;eka;parasmEpaxI;vahaz;:BvAxiH}	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;:axAxiH}	aBihiwa_karwA,3;sakarmaka	bolUzgA					
+3	ahaM			asmax{sarvanAma;1;eka}	asmax{sarvanAma;1;eka}	karwA,2	mEM					
+4	wEH		wEryukwaH	wax{sarvanAma;puM;3;bahu}/wax{sarvanAma;napuM;3;bahu}	wax{sarvanAma;puM;3;bahu}	karaNam,5	unase					
+5	yukwaH			yuj{avya;wasil}/yukwa{puM;1;eka}	yukwa{puM;1;eka}	viSeRaNam,6						
+6	naraH		naraH	nq{puM;1;bahu}/nara{puM;1;eka}/nq{puM;8;bahu}	nara{puM;1;eka}	viSeRaNam,7	manuRya					
+7	(kaH)			kim{sarvanAma;puM;1;eka}	kim{sarvanAma;puM;1;eka}	karwA,8	kOna					
+8	(aswi)			as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	vAkyakarma,9	hE					
+9	(iwi)			iwi{avya}	iwi{avya}	vAkyakarmaxyowakaH,2	EsA					

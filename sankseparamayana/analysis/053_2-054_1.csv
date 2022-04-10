@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	गृध्रं		गृध्रं	गृध्र{पुं;2;एक}/गृध्र{नपुं;1;एक}/गृध्र{नपुं;2;एक}	गृध्र{पुं;2;एक}	कर्म,4	लोभी_को					
-2	च		च	च{अव्य}	च{अव्य}	सम्बन्धः,1	और					
-3	निहतं		निहतं	नि_हन्1{कर्तरि;लोट्;म;द्वि;परस्मैपदी;हनँ;:अदादिः}/निहत{पुं;2;एक(हन्1;क्त;हनँ;:अदादिः)}/निहत{नपुं;1;एक(हन्1;क्त;हनँ;:अदादिः)}/निहत{नपुं;2;एक(हन्1;क्त;हनँ;:अदादिः)}	निहत{पुं;2;एक(हन्1;क्त;हनँ;:अदादिः)}	विशेषणम्,1	समूल_नष्ट_करो					
-4	दृष्ट्वा		दृष्ट्वा	दृश्1{अव्य;क्त्वा;दृशिँर्;:भ्वादिः}	दृश्1{अव्य;क्त्वा;दृशिँर्;:भ्वादिः}	पूर्वकालः,11						
-5	हृतां		हृतां	हृता{स्त्री;2;एक(हृ1;क्त;हृञ्;:भ्वादिः)}/हृता{स्त्री;2;एक(हृ2;क्त;हृ;:जुहोत्यादिः)}	हृता{स्त्री;2;एक(हृ1;क्त;हृञ्;:भ्वादिः)}	कर्म,6						
-6	श्रुत्वा		श्रुत्वा	श्रु1{अव्य;क्त्वा;श्रु;:भ्वादिः}	श्रु1{अव्य;क्त्वा;श्रु;:भ्वादिः}	पूर्वकालः,11						
-7	च		च	च{अव्य}	च{अव्य}	सम्बन्धः,6	और					
-8	मैथिलीम्		मैथिलीम्	मैथिली{स्त्री;2;एक}	मैथिली{स्त्री;2;एक}	विशेषणम्,5	सीता_को					
-9	राघवः		राघवः	राघव{पुं;1;एक}	राघव{पुं;1;एक}	कर्ता,11	रघुवंशी					
-10	शोक-संतप्तः		शोकसंतप्तो	शोक-सन्तप्त{पुं;1;एक}	शोक-सन्तप्त{पुं;1;एक}	विशेषणम्,9	शोक-गर्म		<शोक-संतप्तः>T3			
-11	वि-ललाप		विललापाकुलेन्द्रियः	वि-लप्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;लपँ;:भ्वादिः}/लप्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;लपँ;:भ्वादिः}	वि-लप्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;लपँ;:भ्वादिः}	अभिहित_कर्ता,9स;सकर्मक	स्पष्ट_बोला					
-12	आकुलेन्द्रियः			आकुलेन्द्रियः}	आकुलेन्द्रियः{पुं;1;एक}	विशेषणम्,9			<आकुल-इन्द्रियः>Bs6			
+1	gqXraM		gqXraM	gqXra{puM;2;eka}/gqXra{napuM;1;eka}/gqXra{napuM;2;eka}	gqXra{puM;2;eka}	karma,4	loBI_ko					
+2	ca		ca	ca{avya}	ca{avya}	sambanXaH,1	Ora					
+3	nihawaM		nihawaM	ni_han1{karwari;lot;ma;xvi;parasmEpaxI;hanaz;:axAxiH}/nihawa{puM;2;eka(han1;kwa;hanaz;:axAxiH)}/nihawa{napuM;1;eka(han1;kwa;hanaz;:axAxiH)}/nihawa{napuM;2;eka(han1;kwa;hanaz;:axAxiH)}	nihawa{puM;2;eka(han1;kwa;hanaz;:axAxiH)}	viSeRaNam,1	samUla_naRta_karo					
+4	xqRtvA		xqRtvA	xqS1{avya;kwvA;xqSizr;:BvAxiH}	xqS1{avya;kwvA;xqSizr;:BvAxiH}	pUrvakAlaH,11						
+5	hqwAM		hqwAM	hqwA{swrI;2;eka(hq1;kwa;hqF;:BvAxiH)}/hqwA{swrI;2;eka(hq2;kwa;hq;:juhowyAxiH)}	hqwA{swrI;2;eka(hq1;kwa;hqF;:BvAxiH)}	karma,6						
+6	SruwvA		SruwvA	Sru1{avya;kwvA;Sru;:BvAxiH}	Sru1{avya;kwvA;Sru;:BvAxiH}	pUrvakAlaH,11						
+7	ca		ca	ca{avya}	ca{avya}	sambanXaH,6	Ora					
+8	mEWilIm		mEWilIm	mEWilI{swrI;2;eka}	mEWilI{swrI;2;eka}	viSeRaNam,5	sIwA_ko					
+9	rAGavaH		rAGavaH	rAGava{puM;1;eka}	rAGava{puM;1;eka}	karwA,11	raGuvaMSI					
+10	Soka-saMwapwaH		SokasaMwapwo	Soka-sanwapwa{puM;1;eka}	Soka-sanwapwa{puM;1;eka}	viSeRaNam,9	Soka-garma		<Soka-saMwapwaH>T3			
+11	vi-lalApa		vilalApAkulenxriyaH	vi-lap1{karwari;lit;pra;eka;parasmEpaxI;lapaz;:BvAxiH}/lap1{karwari;lit;u;eka;parasmEpaxI;lapaz;:BvAxiH}	vi-lap1{karwari;lit;pra;eka;parasmEpaxI;lapaz;:BvAxiH}	aBihiwa_karwA,9sa;sakarmaka	spaRta_bolA					
+12	AkulenxriyaH			AkulenxriyaH}	AkulenxriyaH{puM;1;eka}	viSeRaNam,9			<Akula-inxriyaH>Bs6			

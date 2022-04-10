@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	समुद्रः		समुद्र	समुद्र{पुं;1;एक}	समुद्र{पुं;1;एक}	उपमानम्,3	समुद्र					
-2	इव		इव	इव{अव्य}	इव{अव्य}	उपमान_द्योतकः,1	जैसे					
-3	गाम्भीर्ये		गाम्भीर्ये	गाम्भीर्य{नपुं;1;द्वि}/गाम्भीर्य{नपुं;2;द्वि}/गाम्भीर्य{नपुं;8;द्वि}/गाम्भीर्य{नपुं;7;एक}	गाम्भीर्य{नपुं;7;एक}	अधिकरणम्,9	गहराई_में					
-4	धैर्येण		धैर्येण	धैर्य{नपुं;3;एक}	धैर्य{नपुं;3;एक}	हेतुः,9	धैर्य_से					
-5	हिमवान्		हिमवानिव	हिम{मतुप्;पुं;1;एक}	हिम{मतुप्;पुं;1;एक}	उपमानम्,4	हिम					
-6	इव			इव{अव्य}	इव{अव्य}	उपमान_द्योतकः,5	जैसे					
-7	विष्णुना		विष्णुना	विष्णु{पुं;3;एक}/विष्णु{नपुं;3;एक}	विष्णु{नपुं;3;एक}	तुलना_बिन्दुः,8	विष्णु_से					
-8	सदृशः		सदृशो	सदृश्{पुं;1;बहु}/सदृश्{पुं;2;बहु}/सदृश्{पुं;5;एक}/सदृश्{पुं;6;एक}/सदृश्{नपुं;1;बहु}/सदृश्{नपुं;2;बहु}/सदृश्{नपुं;5;एक}/सदृश्{नपुं;6;एक}/सदृश{पुं;1;एक}/सदृश्{पुं;8;बहु}/सदृश्{नपुं;8;बहु}	सदृश{पुं;1;एक}	कर्ता,9	समान					
-9	(अस्ति)			अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,8	है					
+1	samuxraH		samuxra	samuxra{puM;1;eka}	samuxra{puM;1;eka}	upamAnam,3	samuxra					
+2	iva		iva	iva{avya}	iva{avya}	upamAna_xyowakaH,1	jEse					
+3	gAmBIrye		gAmBIrye	gAmBIrya{napuM;1;xvi}/gAmBIrya{napuM;2;xvi}/gAmBIrya{napuM;8;xvi}/gAmBIrya{napuM;7;eka}	gAmBIrya{napuM;7;eka}	aXikaraNam,9	gaharAI_meM					
+4	XEryeNa		XEryeNa	XErya{napuM;3;eka}	XErya{napuM;3;eka}	hewuH,9	XErya_se					
+5	himavAn		himavAniva	hima{mawup;puM;1;eka}	hima{mawup;puM;1;eka}	upamAnam,4	hima					
+6	iva			iva{avya}	iva{avya}	upamAna_xyowakaH,5	jEse					
+7	viRNunA		viRNunA	viRNu{puM;3;eka}/viRNu{napuM;3;eka}	viRNu{napuM;3;eka}	wulanA_binxuH,8	viRNu_se					
+8	saxqSaH		saxqSo	saxqS{puM;1;bahu}/saxqS{puM;2;bahu}/saxqS{puM;5;eka}/saxqS{puM;6;eka}/saxqS{napuM;1;bahu}/saxqS{napuM;2;bahu}/saxqS{napuM;5;eka}/saxqS{napuM;6;eka}/saxqSa{puM;1;eka}/saxqS{puM;8;bahu}/saxqS{napuM;8;bahu}	saxqSa{puM;1;eka}	karwA,9	samAna					
+9	(aswi)			as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,8	hE					

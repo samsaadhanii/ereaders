@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	तस्य		तस्याभिषेकसम्भारान्	तद्{सर्वनाम;नपुं;6;एक}/तद्{सर्वनाम;पुं;6;एक}	तद्सर्वनाम{पुं;6;एक}	षष्ठीसम्बन्धः,2	उसका					
-2	अभिषेक-सम्भारान्			अभिषेक-सम्भार{पुं;2;बहु}	अभिषेक-सम्भार{पुं;2;बहु}	कर्म,3	अभिषेक-संग्रहों_को		<अभिषेक-सम्भारान्>T6			
-3	दृष्ट्वा		दृष्ट्वा	दृश्1{अव्य;क्त्वा;दृशिँर्;:भ्वादिः}	दृश्1{अव्य;क्त्वा;दृशिँर्;:भ्वादिः}	पूर्वकालः,12						
-4	भार्या		भार्याऽथ	भार्या{स्त्री;1;एक}	भार्या{स्त्री;1;एक}	विशेषणम्,6	पत्नी					
-5	अथ			अथ{अव्य}	अथ{अव्य}	सम्बन्धः,3	और					
-6	कैकयी		कैकयी	कैकयी{स्त्री;1;एक}	कैकयी{स्त्री;1;एक}	कर्ता,12	कैकयी					
-7	पूर्वं		पूर्वं	पूर्व{पुं;2;एक}/पूर्व{सर्वनाम;पुं;2;एक}/पूर्व{सर्वनाम;नपुं;1;एक}/पूर्व{सर्वनाम;नपुं;2;एक}	पूर्व{पुं;2;एक}	कालाधिकरणम्,8	पूर्व_को					
-8	दत्त-वरा		दत्तवरा	दा3{क्त;डुदाञ्;:जुहोत्यादिः}/दो1{क्त;दो;:दिवादिः}/दा1{क्त;दाण्;:भ्वादिः}/दे1{क्त;देङ्;:भ्वादिः-वरा;स्त्री;1;एक}	दे1क्त;देङ्;:भ्वादिः-वरा{स्त्री;1;एक}	विशेषणम्,6			<दत्त-वरा>Bs4			
-9	देवी		देवी	देवी{स्त्री;1;एक}	देवी{स्त्री;1;एक}	विशेषणम्,6	देवी					
-10	वरम्		वरमेनमयाचत	वरम्{अव्य}/वर{पुं;2;एक}/वर{नपुं;1;एक}/वर{नपुं;2;एक}	वर{पुं;2;एक}	मुख्यकर्म,12						
-11	एनम्			इदम्{सर्वनाम;पुं;2;एक}	इदम्{सर्वनाम;पुं;2;एक}	गौणकर्म,12	इसको					
-12	अयाचत			याच्1{कर्तरि;लङ्;म;बहु;परस्मैपदी;टुयाचृँ;:भ्वादिः}/याच्1{कर्तरि;लङ्;प्र;एक;आत्मनेपदी;टुयाचृँ;:भ्वादिः}	याच्1कर्तरि;लङ्;प्र;एक;आत्मनेपदी;टुयाचृँ;:भ्वादिः}	अभिहित_कर्ता,6	याचना_कीं					
-13	विवासनं		विवासनं	विवासन{नपुं;1;एक}/विवासन{नपुं;2;एक}	विवासनन{पुं;2;एक}	विशेषणम्,१०	देश_निर्वासन					
-14	च		च	च{अव्य}	च{अव्य}	समुच्चयद्योतकः,17	और					
-15	रामस्य		रामस्य	राम{पुं;6;एक}	राम{पुं;6;एक}	षष्ठीसम्बन्धः,13	राम_का					
-16	भरतस्य		भरतस्याभिषेचनम्	भरत{पुं;6;एक}	भरत{पुं;6;एक}	षष्ठीसम्बन्धः,17	भरत_का					
-17	अभिषेचनम्			अभिषेचन{नपुं;1;एक}/अभिषेचन{नपुं;2;एक}	अभिषेचन{नपुं;2;एक}	समुच्चितः,13	अभिषेचन					
+1	wasya		wasyABiRekasamBArAn	wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	waxsarvanAma{puM;6;eka}	RaRTIsambanXaH,2	usakA					
+2	aBiReka-samBArAn			aBiReka-samBAra{puM;2;bahu}	aBiReka-samBAra{puM;2;bahu}	karma,3	aBiReka-saMgrahoM_ko		<aBiReka-samBArAn>T6			
+3	xqRtvA		xqRtvA	xqS1{avya;kwvA;xqSizr;:BvAxiH}	xqS1{avya;kwvA;xqSizr;:BvAxiH}	pUrvakAlaH,12						
+4	BAryA		BAryAZWa	BAryA{swrI;1;eka}	BAryA{swrI;1;eka}	viSeRaNam,6	pawnI					
+5	aWa			aWa{avya}	aWa{avya}	sambanXaH,3	Ora					
+6	kEkayI		kEkayI	kEkayI{swrI;1;eka}	kEkayI{swrI;1;eka}	karwA,12	kEkayI					
+7	pUrvaM		pUrvaM	pUrva{puM;2;eka}/pUrva{sarvanAma;puM;2;eka}/pUrva{sarvanAma;napuM;1;eka}/pUrva{sarvanAma;napuM;2;eka}	pUrva{puM;2;eka}	kAlAXikaraNam,8	pUrva_ko					
+8	xawwa-varA		xawwavarA	xA3{kwa;duxAF;:juhowyAxiH}/xo1{kwa;xo;:xivAxiH}/xA1{kwa;xAN;:BvAxiH}/xe1{kwa;xef;:BvAxiH-varA;swrI;1;eka}	xe1kwa;xef;:BvAxiH-varA{swrI;1;eka}	viSeRaNam,6			<xawwa-varA>Bs4			
+9	xevI		xevI	xevI{swrI;1;eka}	xevI{swrI;1;eka}	viSeRaNam,6	xevI					
+10	varam		varamenamayAcawa	varam{avya}/vara{puM;2;eka}/vara{napuM;1;eka}/vara{napuM;2;eka}	vara{puM;2;eka}	muKyakarma,12						
+11	enam			ixam{sarvanAma;puM;2;eka}	ixam{sarvanAma;puM;2;eka}	gONakarma,12	isako					
+12	ayAcawa			yAc1{karwari;laf;ma;bahu;parasmEpaxI;tuyAcqz;:BvAxiH}/yAc1{karwari;laf;pra;eka;AwmanepaxI;tuyAcqz;:BvAxiH}	yAc1karwari;laf;pra;eka;AwmanepaxI;tuyAcqz;:BvAxiH}	aBihiwa_karwA,6	yAcanA_kIM					
+13	vivAsanaM		vivAsanaM	vivAsana{napuM;1;eka}/vivAsana{napuM;2;eka}	vivAsanana{puM;2;eka}	viSeRaNam,10	xeSa_nirvAsana					
+14	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,17	Ora					
+15	rAmasya		rAmasya	rAma{puM;6;eka}	rAma{puM;6;eka}	RaRTIsambanXaH,13	rAma_kA					
+16	Barawasya		BarawasyABiRecanam	Barawa{puM;6;eka}	Barawa{puM;6;eka}	RaRTIsambanXaH,17	Barawa_kA					
+17	aBiRecanam			aBiRecana{napuM;1;eka}/aBiRecana{napuM;2;eka}	aBiRecana{napuM;2;eka}	samucciwaH,13	aBiRecana					

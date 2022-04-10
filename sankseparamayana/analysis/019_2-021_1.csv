@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	तम्		तम्	तद्{सर्वनाम;पुं;2;एक}	तद्{सर्वनाम;पुं;2;एक}	विशेषणम्,3	उसको					
-2	एवं-गुण-सम्पन्नं		एवं-गुण-सम्पन्नं	एवं-गुण-सम्पन्न{पुं;2;एक(एवं-गुण-पद्1;क्त;पदँ;:दिवादिः)}/एवं-गुण-सम्पन्न{नपुं;1;एक(पद्1;क्त;पदँ;:दिवादिः)}/एवं-गुण-सम्पन्न{नपुं;2;एक(पद्1;क्त;पदँ;:दिवादिः)}	एवं-गुण-सम्पन्न{पुं;2;एक(एवं-गुण-पद्1;क्त;पदँ;:दिवादिः)}	विशेषणम्,3			<गुण-सम्पन्नं>T3			
-3	रामं		रामं	राम{पुं;2;एक}	राम{पुं;2;एक}	कर्म,17	राम_को					
-4	सत्य-पराक्रमम्		सत्य-पराक्रमम्	सत्य-पराक्रम{पुं;2;एक}	सत्य-पराक्रम{पुं;2;एक}	विशेषणम्,3	सत्य-पराक्रम_को		<सत्य-पराक्रमम्>Bs6			
-5	ज्येष्ठं		ज्येष्ठं	ज्येष्ठ{पुं;2;एक}/ज्येष्ठ{नपुं;1;एक}/ज्येष्ठ{नपुं;2;एक}	ज्येष्ठ{पुं;2;एक}	विशेषणम्,3	ज्येष्ठ_को					
-6	ज्येष्ठ-गुणैः		ज्येष्ठ-गुणैः	ज्येष्ठ-गुण{पुं;3;बहु}/गुण{नपुं;3;बहु}	ज्येष्ठ-गुण{पुं;3;बहु}/गुणनपुं;3;बहु}	हेतुः,7	ज्येष्ठ-गुणों_से					
-7	युक्तं		युक्तं	युक्त{पुं;2;एक}/युक्त{नपुं;1;एक}/युक्त{नपुं;2;एक}	युक्त{पुं;2;एक}	विशेषणम्,3	युक्त_को					
-8	प्रियं		प्रियं	प्रिय{पुं;2;एक}/प्रिय{नपुं;1;एक}/प्रिय{नपुं;2;एक}	प्रिय{पुं;2;एक}	विशेषणम्,3	प्रिय_को					
-9	दशरथः		दशरथः	दशरथ{पुं;1;एक}	दशरथ{पुं;1;एक}	कर्ता,17	दशरथ					
-10	सुतम्		सुतम्	सुत{पुं;2;एक}/षु2{कर्तरि;लोट्;म;द्वि;परस्मैपदी;षु;:अदादिः}/सुत{पुं;2;एक(षु3;क्त;षुञ्;:स्वादिः)}/सुत{नपुं;1;एक(षु3;क्त;षुञ्;:स्वादिः)}/सुत{नपुं;2;एक(षु3;क्त;षुञ्;:स्वादिः)}/सुत{पुं;2;एक(शु1;क्त;शु;:भ्वादिः)}/सुत{नपुं;1;एक(शु1;क्त;शु;:भ्वादिः)}/सुत{नपुं;2;एक(शु1;क्त;शु;:भ्वादिः)}/सुत{पुं;2;एक(षु2;क्त;षु;:अदादिः)}/सुत{नपुं;1;एक(षु2;क्त;षु;:अदादिः)}/सुत{नपुं;2;एक(षु2;क्त;षु;:अदादिः)}	सुत{पुं;2;एक}	विशेषणम्,3	पुत्र_को					
-11	प्रकृतीनां		प्रकृतीनां	प्रकृति{स्त्री;6;बहु}	प्रकृति{स्त्री;6;बहु}	षष्ठीसम्बन्धः,12	प्रकृति_का					
-12	हितैः		हितैः	हित{पुं;3;बहु(धा1;क्त;डुधाञ्;:जुहोत्यादिः)}/हित{नपुं;3;बहु(धा1;क्त;डुधाञ्;:जुहोत्यादिः)}/हित{पुं;3;बहु(हि1;क्त;हि;:स्वादिः)}/हित{नपुं;3;बहु(हि1;क्त;हि;:स्वादिः)}	हित{पुं;3;बहु(धा1;क्त;डुधाञ्;:जुहोत्यादिः)}	हेतुः,13						
-13	युक्तं		युक्तं	युक्त{पुं;2;एक}/युक्त{नपुं;1;एक}/युक्त{नपुं;2;एक}	युक्त{पुं;2;एक}/युक्तनपुं;1;एक}/युक्तनपुं;2;एक}	विशेषणम्,3	युक्त_को					
-14	प्रकृति-प्रिय-काम्यया		प्रकृति-प्रिय-काम्यया	प्रकृति-प्रिय-काम्या{स्त्री;3;एक(प्रकृति-प्रिय-कम्1;ण्यत्;कमुँ;:भ्वादिः)}	प्रकृति-प्रिय-काम्या{स्त्री;3;एक(प्रकृति-प्रिय-कम्1;ण्यत्;कमुँ;:भ्वादिः)}	हेतुः,7	प्रकृति-प्रिय-कामना_से		<<प्रकृति-प्रिय>T6-काम्यया>U			
-15	यौवराज्येन		यौवराज्येन	यौवराज्य{नपुं;3;एक}	यौवराज्य{नपुं;3;एक}	करणम्,16	युवराज_का_पद_या_अधिकार_से		<यौव-राज्येन>K1			
-16	संयोक्तुम्		संयोक्तुम्	युज्1{अव्य;तुमुन्;युजँ;:दिवादिः}	सम्_युज्1{अव्य;तुमुन्;युजँ;:दिवादिः}	प्रयोजनम्,17			<सम्-योक्तुम्>Tp			
-17	ऐच्छत्		ऐच्छत्	इष्2{कर्तरि;लङ्;प्र;एक;परस्मैपदी;इषुँ;:तुदादिः}	इष्2{कर्तरि;लङ्;प्र;एक;परस्मैपदी;इषुँ;:तुदादिः}	अभिहित_कर्ता,9;सकर्मक	इच्छा_की					
-18	प्रीत्या		प्रीत्या	प्रीति{स्त्री;3;एक}	प्रीति{स्त्री;3;एक}	क्रियाविशेषणम्,17	प्रसन्नता_से					
-19	मही-पतिः		मही-पतिः	मही-पति{पुं;1;एक}	मही-पति{पुं;1;एक}	विशेषणम्,9	पृथ्वी-पति		<मही-पतिः>T6			
+1	wam		wam	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,3	usako					
+2	evaM-guNa-sampannaM		evaM-guNa-sampannaM	evaM-guNa-sampanna{puM;2;eka(evaM-guNa-pax1;kwa;paxaz;:xivAxiH)}/evaM-guNa-sampanna{napuM;1;eka(pax1;kwa;paxaz;:xivAxiH)}/evaM-guNa-sampanna{napuM;2;eka(pax1;kwa;paxaz;:xivAxiH)}	evaM-guNa-sampanna{puM;2;eka(evaM-guNa-pax1;kwa;paxaz;:xivAxiH)}	viSeRaNam,3			<guNa-sampannaM>T3			
+3	rAmaM		rAmaM	rAma{puM;2;eka}	rAma{puM;2;eka}	karma,17	rAma_ko					
+4	sawya-parAkramam		sawya-parAkramam	sawya-parAkrama{puM;2;eka}	sawya-parAkrama{puM;2;eka}	viSeRaNam,3	sawya-parAkrama_ko		<sawya-parAkramam>Bs6			
+5	jyeRTaM		jyeRTaM	jyeRTa{puM;2;eka}/jyeRTa{napuM;1;eka}/jyeRTa{napuM;2;eka}	jyeRTa{puM;2;eka}	viSeRaNam,3	jyeRTa_ko					
+6	jyeRTa-guNEH		jyeRTa-guNEH	jyeRTa-guNa{puM;3;bahu}/guNa{napuM;3;bahu}	jyeRTa-guNa{puM;3;bahu}/guNanapuM;3;bahu}	hewuH,7	jyeRTa-guNoM_se					
+7	yukwaM		yukwaM	yukwa{puM;2;eka}/yukwa{napuM;1;eka}/yukwa{napuM;2;eka}	yukwa{puM;2;eka}	viSeRaNam,3	yukwa_ko					
+8	priyaM		priyaM	priya{puM;2;eka}/priya{napuM;1;eka}/priya{napuM;2;eka}	priya{puM;2;eka}	viSeRaNam,3	priya_ko					
+9	xaSaraWaH		xaSaraWaH	xaSaraWa{puM;1;eka}	xaSaraWa{puM;1;eka}	karwA,17	xaSaraWa					
+10	suwam		suwam	suwa{puM;2;eka}/Ru2{karwari;lot;ma;xvi;parasmEpaxI;Ru;:axAxiH}/suwa{puM;2;eka(Ru3;kwa;RuF;:svAxiH)}/suwa{napuM;1;eka(Ru3;kwa;RuF;:svAxiH)}/suwa{napuM;2;eka(Ru3;kwa;RuF;:svAxiH)}/suwa{puM;2;eka(Su1;kwa;Su;:BvAxiH)}/suwa{napuM;1;eka(Su1;kwa;Su;:BvAxiH)}/suwa{napuM;2;eka(Su1;kwa;Su;:BvAxiH)}/suwa{puM;2;eka(Ru2;kwa;Ru;:axAxiH)}/suwa{napuM;1;eka(Ru2;kwa;Ru;:axAxiH)}/suwa{napuM;2;eka(Ru2;kwa;Ru;:axAxiH)}	suwa{puM;2;eka}	viSeRaNam,3	puwra_ko					
+11	prakqwInAM		prakqwInAM	prakqwi{swrI;6;bahu}	prakqwi{swrI;6;bahu}	RaRTIsambanXaH,12	prakqwi_kA					
+12	hiwEH		hiwEH	hiwa{puM;3;bahu(XA1;kwa;duXAF;:juhowyAxiH)}/hiwa{napuM;3;bahu(XA1;kwa;duXAF;:juhowyAxiH)}/hiwa{puM;3;bahu(hi1;kwa;hi;:svAxiH)}/hiwa{napuM;3;bahu(hi1;kwa;hi;:svAxiH)}	hiwa{puM;3;bahu(XA1;kwa;duXAF;:juhowyAxiH)}	hewuH,13						
+13	yukwaM		yukwaM	yukwa{puM;2;eka}/yukwa{napuM;1;eka}/yukwa{napuM;2;eka}	yukwa{puM;2;eka}/yukwanapuM;1;eka}/yukwanapuM;2;eka}	viSeRaNam,3	yukwa_ko					
+14	prakqwi-priya-kAmyayA		prakqwi-priya-kAmyayA	prakqwi-priya-kAmyA{swrI;3;eka(prakqwi-priya-kam1;Nyaw;kamuz;:BvAxiH)}	prakqwi-priya-kAmyA{swrI;3;eka(prakqwi-priya-kam1;Nyaw;kamuz;:BvAxiH)}	hewuH,7	prakqwi-priya-kAmanA_se		<<prakqwi-priya>T6-kAmyayA>U			
+15	yOvarAjyena		yOvarAjyena	yOvarAjya{napuM;3;eka}	yOvarAjya{napuM;3;eka}	karaNam,16	yuvarAja_kA_paxa_yA_aXikAra_se		<yOva-rAjyena>K1			
+16	saMyokwum		saMyokwum	yuj1{avya;wumun;yujaz;:xivAxiH}	sam_yuj1{avya;wumun;yujaz;:xivAxiH}	prayojanam,17			<sam-yokwum>Tp			
+17	EcCaw		EcCaw	iR2{karwari;laf;pra;eka;parasmEpaxI;iRuz;:wuxAxiH}	iR2{karwari;laf;pra;eka;parasmEpaxI;iRuz;:wuxAxiH}	aBihiwa_karwA,9;sakarmaka	icCA_kI					
+18	prIwyA		prIwyA	prIwi{swrI;3;eka}	prIwi{swrI;3;eka}	kriyAviSeRaNam,17	prasannawA_se					
+19	mahI-pawiH		mahI-pawiH	mahI-pawi{puM;1;eka}	mahI-pawi{puM;1;eka}	viSeRaNam,9	pqWvI-pawi		<mahI-pawiH>T6			

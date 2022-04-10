@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	सः		स	तद्{सर्वनाम;पुं;1;एक}	तद्{सर्वनाम;पुं;1;एक}	कर्ता,4	वह					
-2	च		च	च{अव्य}	च{अव्य}	सम्बन्धः,1	और					
-3	सर्वान्		सर्वान्	सर्व{सर्वनाम;पुं;2;बहु}	सर्व{सर्वनाम;पुं;2;बहु}	विशेषणम्,5	सब_को					
-4	समानीय		समानीय	णी1{अव्य;ल्यप्;णीञ्;:भ्वादिः}	सम्_आङ्_णी1{अव्य;ल्यप्;णीञ्;:भ्वादिः}	पूर्वकालः,8			<सम्-आ-नीय>Tg			
-5	वानरान्		वानरान्	वानर{पुं;2;बहु}	वानर{पुं;2;बहु}	कर्म,4	बन्दरों_को					
-6	वानरर्षभः		वानरर्षभः	वानरर्षभः}	वानरर्षभः{पुं;1;एक}	विशेषणम्,1			<वानर-ऋषभः>K2			
-7	दिशः		दिशः	दिश्{स्त्री;1;बहु}/दिश्{स्त्री;2;बहु}/दिश्{स्त्री;5;एक}/दिश्{स्त्री;6;एक}/दिश्{स्त्री;8;बहु}	दिश्{स्त्री;2;बहु}	कर्म,8	स्थानें					
-8	प्रस्थापयामास		प्रस्थापयामास	प्र_ष्था1{णिजन्त;कर्तरि;लिट्;प्र;एक;परस्मैपदी;ष्था;:भ्वादिः}	प्र_ष्था1{णिजन्त;कर्तरि;लिट्;प्र;एक;परस्मैपदी;ष्था;:भ्वादिः}	अभिहित_कर्ता,1;सकर्मक						
-9	दिदृक्षुः		दिदृक्षुर्जनकात्मजाम्	दिदृक्षुः}	दिदृक्षुः{पुं;1;एक}	विधेय-विशेषणम्,1						
-10	जनकात्मजाम्			जनकात्मजा{स्त्री;2;एक}	जनकात्मजा{स्त्री;2;एक}	कर्म,9	सीता_को		<जनक-आत्मजाम्>			
+1	saH		sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,4	vaha					
+2	ca		ca	ca{avya}	ca{avya}	sambanXaH,1	Ora					
+3	sarvAn		sarvAn	sarva{sarvanAma;puM;2;bahu}	sarva{sarvanAma;puM;2;bahu}	viSeRaNam,5	saba_ko					
+4	samAnIya		samAnIya	NI1{avya;lyap;NIF;:BvAxiH}	sam_Af_NI1{avya;lyap;NIF;:BvAxiH}	pUrvakAlaH,8			<sam-A-nIya>Tg			
+5	vAnarAn		vAnarAn	vAnara{puM;2;bahu}	vAnara{puM;2;bahu}	karma,4	banxaroM_ko					
+6	vAnararRaBaH		vAnararRaBaH	vAnararRaBaH}	vAnararRaBaH{puM;1;eka}	viSeRaNam,1			<vAnara-qRaBaH>K2			
+7	xiSaH		xiSaH	xiS{swrI;1;bahu}/xiS{swrI;2;bahu}/xiS{swrI;5;eka}/xiS{swrI;6;eka}/xiS{swrI;8;bahu}	xiS{swrI;2;bahu}	karma,8	sWAneM					
+8	prasWApayAmAsa		prasWApayAmAsa	pra_RWA1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;RWA;:BvAxiH}	pra_RWA1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;RWA;:BvAxiH}	aBihiwa_karwA,1;sakarmaka						
+9	xixqkRuH		xixqkRurjanakAwmajAm	xixqkRuH}	xixqkRuH{puM;1;eka}	viXeya-viSeRaNam,1						
+10	janakAwmajAm			janakAwmajA{swrI;2;eka}	janakAwmajA{swrI;2;eka}	karma,9	sIwA_ko		<janaka-AwmajAm>			

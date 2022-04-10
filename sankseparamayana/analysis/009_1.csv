@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	(सः)			तद्{सर्वनाम;पुं;1;एक}	तद्{सर्वनाम;पुं;1;एक}	विशेषणम्,2	वह					
-2	(रामः)			राम{पुं;1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	राम{पुं;1;एक}	कर्ता,13	राम					
-3	बुद्धिमान्		बुद्धिमान्	बुद्धि{मतुप्;पुं;1;एक}	बुद्धि{मतुप्;पुं;1;एक}	विशेषणम्,10	बुद्धि					
-4	नीतिमान्		नीतिमान्	नीति{मतुप्;पुं;1;एक}	नीति{मतुप्;पुं;1;एक}	विशेषणम्,10	नीति					
-5	वाग्ग्मी		वाग्ग्मी	वाग्ग्मी}	वाग्ग्मी{पुं;1;एक}	विशेषणम्,10						
-6	श्रीमान्		श्रीमाञ्छत्रुनिबर्हणः	श्रीमत्{पुं;1;एक}/श्री{मतुप्;पुं;1;एक}	श्रीमत्{पुं;1;एक}	विशेषणम्,10	श्री_मान्					
-7	शत्रु-नि-बर्हणः			शत्रु-नि-बर्हणः}	शत्रु-नि-बर्हणः{पुं;1;एक}	विशेषणम्,10	शत्रु-नि-		<शत्रु-निबर्हणः>U			
-8	विपु-लांसः		विपुलांसो	विपु-लांसः}	विपु-लांसः(पुं;1;एक}	विशेषणम्,10	विपु-		<विपु-लांसः>Bs6			
-9	महा-बाहुः		महाबाहुः	महा-बाहु{पुं;1;एक}	महा-बाहु{पुं;1;एक}	विशेषणम्,10	गाय-भुजा		<महा-बाहुः>Bs6			
-10	कम्बु-ग्रीवः		कम्बुग्रीवो	कम्बु-ग्रीव{पुं;1;एक}	कम्बु-ग्रीव{पुं;1;एक}	समुच्चितः,2	शंख-गर्दन		<कम्बु-ग्रीवः>Bsu			
-11	महा-हनुः		महाहनुः	महा-हनु{स्त्री;1;एक}/हनु{पुं;1;एक}	महा-हनु{पुं;1;एक}	विधेय_विशेषणम्,2	गाय-जीवन_पर_आघात_करने_वाली_चीज		<महा-हनुः>K1			
-12	(च)			च{अव्य}	च{अव्य}	समुच्चयद्योतकः,11	और					
-13	(अस्ति)			अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,2	है					
+1	(saH)			wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,2	vaha					
+2	(rAmaH)			rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	karwA,13	rAma					
+3	buxXimAn		buxXimAn	buxXi{mawup;puM;1;eka}	buxXi{mawup;puM;1;eka}	viSeRaNam,10	buxXi					
+4	nIwimAn		nIwimAn	nIwi{mawup;puM;1;eka}	nIwi{mawup;puM;1;eka}	viSeRaNam,10	nIwi					
+5	vAggmI		vAggmI	vAggmI}	vAggmI{puM;1;eka}	viSeRaNam,10						
+6	SrImAn		SrImAFCawrunibarhaNaH	SrImaw{puM;1;eka}/SrI{mawup;puM;1;eka}	SrImaw{puM;1;eka}	viSeRaNam,10	SrI_mAn					
+7	Sawru-ni-barhaNaH			Sawru-ni-barhaNaH}	Sawru-ni-barhaNaH{puM;1;eka}	viSeRaNam,10	Sawru-ni-		<Sawru-nibarhaNaH>U			
+8	vipu-lAMsaH		vipulAMso	vipu-lAMsaH}	vipu-lAMsaH(puM;1;eka}	viSeRaNam,10	vipu-		<vipu-lAMsaH>Bs6			
+9	mahA-bAhuH		mahAbAhuH	mahA-bAhu{puM;1;eka}	mahA-bAhu{puM;1;eka}	viSeRaNam,10	gAya-BujA		<mahA-bAhuH>Bs6			
+10	kambu-grIvaH		kambugrIvo	kambu-grIva{puM;1;eka}	kambu-grIva{puM;1;eka}	samucciwaH,2	SaMKa-garxana		<kambu-grIvaH>Bsu			
+11	mahA-hanuH		mahAhanuH	mahA-hanu{swrI;1;eka}/hanu{puM;1;eka}	mahA-hanu{puM;1;eka}	viXeya_viSeRaNam,2	gAya-jIvana_para_AGAwa_karane_vAlI_cIja		<mahA-hanuH>K1			
+12	(ca)			ca{avya}	ca{avya}	samuccayaxyowakaH,11	Ora					
+13	(aswi)			as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,2	hE					

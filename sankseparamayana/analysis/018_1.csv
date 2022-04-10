@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	विष्णुना		विष्णुना	विष्णु{पुं;3;एक}/विष्णु{नपुं;3;एक}	विष्णु{नपुं;3;एक}	तुलना_बिन्दुः,2	विष्णु_से					
-2	सदृशः		सदृशो	सदृश्{पुं;1;बहु}/सदृश्{पुं;2;बहु}/सदृश्{पुं;5;एक}/सदृश्{पुं;6;एक}/सदृश्{नपुं;1;बहु}/सदृश्{नपुं;2;बहु}/सदृश्{नपुं;5;एक}/सदृश्{नपुं;6;एक}/सदृश{पुं;1;एक}/सदृश्{पुं;8;बहु}/सदृश्{नपुं;8;बहु}	सदृश{पुं;1;एक}	विधेय_विशेषणम्,11	समान					
-3	वीर्ये		वीर्ये	वीर्य{नपुं;1;द्वि}/वीर्य{नपुं;2;द्वि}/वीर1{कर्मणि;लट्;उ;एक;आत्मनेपदी;वीर;:चुरादिः}/वीर्य{नपुं;8;द्वि}/वीर्य{नपुं;7;एक}/वीर्य{पुं;7;एक(वीर1;यत्;वीर;:चुरादिः)}/वीर्य{नपुं;1;द्वि(वीर1;यत्;वीर;:चुरादिः)}/वीर्य{नपुं;2;द्वि(वीर1;यत्;वीर;:चुरादिः)}/वीर्य{नपुं;7;एक(वीर1;यत्;वीर;:चुरादिः)}/वीर्या{स्त्री;1;द्वि(वीर1;यत्;वीर;:चुरादिः)}/वीर्या{स्त्री;2;द्वि(वीर1;यत्;वीर;:चुरादिः)}	वीर्य{नपुं;7;एक(वीर1;यत्;वीर;:चुरादिः)}	अधिकरणम्,2	शूरवीरते_में					
-4	सोमवत्		सोमवत्	सोम{अव्य;वत्}/सोमन्{अव्य;वत्}/सोम{मतुप्;नपुं;1;एक}/सोम{मतुप्;नपुं;2;एक}/सोमन्{मतुप्;नपुं;1;एक}/सोमन्{मतुप्;नपुं;2;एक}	सोमन्{मतुप्;नपुं;1;एक}	तुलना_बिन्दुः,5	सोमन्					
-5	प्रिय-दर्शनः		प्रियदर्शनः	प्रिय-दर्शन{पुं;1;एक}	प्रिय-दर्शन{पुं;1;एक}	विधेय_विशेषणम्,11	प्रिय-दर्शन		<प्रिय-दर्शनः>Bs6			
-6	कालाग्नि-सदृशः		कालाग्निसदृशः	कालाग्नि-सदृश्{पुं;1;बहु}/सदृश्{पुं;2;बहु}/सदृश्{पुं;5;एक}/सदृश्{पुं;6;एक}/सदृश्{नपुं;1;बहु}/सदृश्{नपुं;2;बहु}/सदृश्{नपुं;5;एक}/सदृश्{नपुं;6;एक}/सदृश्{पुं;8;बहु}/सदृश्{नपुं;8;बहु}/सदृश{पुं;1;एक}	कालाग्नि-सदृश्{नपुं;6;एक}	विधेय_विशेषणम्,11	सृष्टि_के_अन्त_में_प्रलयाग्निः-समान_के		<<काल-अग्नि>K1-सदृशः>T3			
-7	क्रोधे		क्रोधे	क्रोध{नपुं;1;द्वि}/क्रोध{नपुं;2;द्वि}/क्रोध{नपुं;8;द्वि}/क्रोध{पुं;7;एक}/क्रोध{नपुं;7;एक}	क्रोध{नपुं;7;एक}	अधिकरणम्,6	क्रोध_में					
-8	क्षमया		क्षमया	क्षमा{स्त्री;3;एक}	क्षमा{स्त्री;3;एक}	तुलना_बिन्दुः,9	क्षमा_से					
-9	पृथिवी-समः		पृथिवीसमः	पृथिवी-सम{सर्वनाम;पुं;1;एक}/सम{पुं;1;एक}	पृथिवी-सम{पुं;1;एक}	विधेय_विशेषणम्,11	पृथ्वी-समान		<पृथिवी-समः>T3			
-10	(अस्ति)			अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,11;सकर्मक	अस्2_प्प्_स्क्ता_है					
-11	(रामः)				रामः{पुं;1;एक}कर्ता,10	कर्ता,10						
+1	viRNunA		viRNunA	viRNu{puM;3;eka}/viRNu{napuM;3;eka}	viRNu{napuM;3;eka}	wulanA_binxuH,2	viRNu_se					
+2	saxqSaH		saxqSo	saxqS{puM;1;bahu}/saxqS{puM;2;bahu}/saxqS{puM;5;eka}/saxqS{puM;6;eka}/saxqS{napuM;1;bahu}/saxqS{napuM;2;bahu}/saxqS{napuM;5;eka}/saxqS{napuM;6;eka}/saxqSa{puM;1;eka}/saxqS{puM;8;bahu}/saxqS{napuM;8;bahu}	saxqSa{puM;1;eka}	viXeya_viSeRaNam,11	samAna					
+3	vIrye		vIrye	vIrya{napuM;1;xvi}/vIrya{napuM;2;xvi}/vIra1{karmaNi;lat;u;eka;AwmanepaxI;vIra;:curAxiH}/vIrya{napuM;8;xvi}/vIrya{napuM;7;eka}/vIrya{puM;7;eka(vIra1;yaw;vIra;:curAxiH)}/vIrya{napuM;1;xvi(vIra1;yaw;vIra;:curAxiH)}/vIrya{napuM;2;xvi(vIra1;yaw;vIra;:curAxiH)}/vIrya{napuM;7;eka(vIra1;yaw;vIra;:curAxiH)}/vIryA{swrI;1;xvi(vIra1;yaw;vIra;:curAxiH)}/vIryA{swrI;2;xvi(vIra1;yaw;vIra;:curAxiH)}	vIrya{napuM;7;eka(vIra1;yaw;vIra;:curAxiH)}	aXikaraNam,2	SUravIrawe_meM					
+4	somavaw		somavaw	soma{avya;vaw}/soman{avya;vaw}/soma{mawup;napuM;1;eka}/soma{mawup;napuM;2;eka}/soman{mawup;napuM;1;eka}/soman{mawup;napuM;2;eka}	soman{mawup;napuM;1;eka}	wulanA_binxuH,5	soman					
+5	priya-xarSanaH		priyaxarSanaH	priya-xarSana{puM;1;eka}	priya-xarSana{puM;1;eka}	viXeya_viSeRaNam,11	priya-xarSana		<priya-xarSanaH>Bs6			
+6	kAlAgni-saxqSaH		kAlAgnisaxqSaH	kAlAgni-saxqS{puM;1;bahu}/saxqS{puM;2;bahu}/saxqS{puM;5;eka}/saxqS{puM;6;eka}/saxqS{napuM;1;bahu}/saxqS{napuM;2;bahu}/saxqS{napuM;5;eka}/saxqS{napuM;6;eka}/saxqS{puM;8;bahu}/saxqS{napuM;8;bahu}/saxqSa{puM;1;eka}	kAlAgni-saxqS{napuM;6;eka}	viXeya_viSeRaNam,11	sqRti_ke_anwa_meM_pralayAgniH-samAna_ke		<<kAla-agni>K1-saxqSaH>T3			
+7	kroXe		kroXe	kroXa{napuM;1;xvi}/kroXa{napuM;2;xvi}/kroXa{napuM;8;xvi}/kroXa{puM;7;eka}/kroXa{napuM;7;eka}	kroXa{napuM;7;eka}	aXikaraNam,6	kroXa_meM					
+8	kRamayA		kRamayA	kRamA{swrI;3;eka}	kRamA{swrI;3;eka}	wulanA_binxuH,9	kRamA_se					
+9	pqWivI-samaH		pqWivIsamaH	pqWivI-sama{sarvanAma;puM;1;eka}/sama{puM;1;eka}	pqWivI-sama{puM;1;eka}	viXeya_viSeRaNam,11	pqWvI-samAna		<pqWivI-samaH>T3			
+10	(aswi)			as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,11;sakarmaka	as2_pp_skwA_hE					
+11	(rAmaH)				rAmaH{puM;1;eka}karwA,10	karwA,10						

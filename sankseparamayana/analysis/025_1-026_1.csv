@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	तं		तं	तद्{सर्वनाम;पुं;2;एक}	तद्{सर्वनाम;पुं;2;एक}	विशेषणम्,10	उसको					
-2	व्रजन्तं		व्रजन्तं	व्रजत्{पुं;2;एक(व्रज्1;शतृ_लट्;व्रजँ;:भ्वादिः)}	व्रजत्{पुं;2;एक(व्रज्1;शतृ_लट्;व्रजँ;:भ्वादिः)}	विशेषणम्,10	घूमने_को					
-3	प्रियः		प्रियो	प्री{नपुं;6;एक}/प्री{नपुं;5;एक}/प्रिय{पुं;1;एक}	प्रिय{पुं;1;एक}	विशेषणम्,5	प्री_का					
-4	भ्राता		भ्राता	भ्रातृ{पुं;1;एक}	भ्रातृ{पुं;1;एक}	विशेषणम्,5	भाई					
-5	लक्ष्मणः		लक्ष्मणोऽनुजगाम	लक्ष्मण{पुं;1;एक}	लक्ष्मण{पुं;1;एक}	कर्ता,6	लक्ष्मण					
-6	अनु-जगाम			अनु-गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;:भ्वादिः}/गम्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;गमॢँ;:भ्वादिः}	अनु-गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;:भ्वादिः}	अभिहित_कर्ता,5;सकर्मक	गया					
-7	स्नेहात्		स्नेहाद्विनयसम्पन्नः	स्नेह{पुं;5;एक}	स्नेह{पुं;5;एक}	हेतुः,13	स्नेह_से					
-8	विनय-सम्पन्नः			विनय-सम्पन्न{पुं;1;एक(विनय-पद्1;क्त;पदँ;:दिवादिः)}	विनय-सम्पन्न{पुं;1;एक(विनय-पद्1;क्त;पदँ;:दिवादिः)}	विशेषणम्,5	विनय-सम्पन्न		<विनय-सम्पन्नः>T3			
-9	सुमित्रानन्द-वर्धनः		सुमित्रानन्दवर्धनः	सुमित्रानन्द-वर्धन{पुं;1;एक}	सुमित्रानन्द-वर्धन{पुं;1;एक}	विशेषणम्,5	सुमित्रानन्द-वर्धन		<सुमित्रा-<आनन्द-वर्धनः>T6>T6			
-10	भ्रातरं		भ्रातरं	भ्रातृ{पुं;2;एक}	भ्रातृ{पुं;2;एक}	कर्म,6	भाई_को					
-11	दयितः		दयितो	दयित{पुं;1;एक(दय्1;क्त;दयँ;:भ्वादिः)}	दयित{पुं;1;एक(दय्1;क्त;दयँ;:भ्वादिः)}	विशेषणम्,5	दान-दिया_हुआ					
-12	भ्रातुः		भ्रातुः	भ्रातृ{पुं;5;एक}/भ्रातृ{पुं;6;एक}	भ्रातृ{पुं;6;एक}	षष्ठीसम्बन्धः,11	भाई_से					
-13	सौभ्रात्रम्		सौभ्रात्रमनुदर्शयन्	सौभ्रात्र{नपुं;1;एक}/सौभ्रात्र{नपुं;2;एक}	सौभ्रात्र{नपुं;2;एक}	कर्म,14	सौभ्रात्र		<सौ-भ्रात्रम्>K1			
-14	अनु-दर्शयन्			अनु-दर्शयन्}	अनु-दर्शयन्{पुं;1;एक(अनु-दृश्1;शतृ_लट्;दृश़़;:चुरादिः)}	वर्तमानसमानकालः,6	अनु-					
+1	waM		waM	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	viSeRaNam,10	usako					
+2	vrajanwaM		vrajanwaM	vrajaw{puM;2;eka(vraj1;Sawq_lat;vrajaz;:BvAxiH)}	vrajaw{puM;2;eka(vraj1;Sawq_lat;vrajaz;:BvAxiH)}	viSeRaNam,10	GUmane_ko					
+3	priyaH		priyo	prI{napuM;6;eka}/prI{napuM;5;eka}/priya{puM;1;eka}	priya{puM;1;eka}	viSeRaNam,5	prI_kA					
+4	BrAwA		BrAwA	BrAwq{puM;1;eka}	BrAwq{puM;1;eka}	viSeRaNam,5	BAI					
+5	lakRmaNaH		lakRmaNoZnujagAma	lakRmaNa{puM;1;eka}	lakRmaNa{puM;1;eka}	karwA,6	lakRmaNa					
+6	anu-jagAma			anu-gam1{karwari;lit;pra;eka;parasmEpaxI;gamLz;:BvAxiH}/gam1{karwari;lit;u;eka;parasmEpaxI;gamLz;:BvAxiH}	anu-gam1{karwari;lit;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,5;sakarmaka	gayA					
+7	snehAw		snehAxvinayasampannaH	sneha{puM;5;eka}	sneha{puM;5;eka}	hewuH,13	sneha_se					
+8	vinaya-sampannaH			vinaya-sampanna{puM;1;eka(vinaya-pax1;kwa;paxaz;:xivAxiH)}	vinaya-sampanna{puM;1;eka(vinaya-pax1;kwa;paxaz;:xivAxiH)}	viSeRaNam,5	vinaya-sampanna		<vinaya-sampannaH>T3			
+9	sumiwrAnanxa-varXanaH		sumiwrAnanxavarXanaH	sumiwrAnanxa-varXana{puM;1;eka}	sumiwrAnanxa-varXana{puM;1;eka}	viSeRaNam,5	sumiwrAnanxa-varXana		<sumiwrA-<Ananxa-varXanaH>T6>T6			
+10	BrAwaraM		BrAwaraM	BrAwq{puM;2;eka}	BrAwq{puM;2;eka}	karma,6	BAI_ko					
+11	xayiwaH		xayiwo	xayiwa{puM;1;eka(xay1;kwa;xayaz;:BvAxiH)}	xayiwa{puM;1;eka(xay1;kwa;xayaz;:BvAxiH)}	viSeRaNam,5	xAna-xiyA_huA					
+12	BrAwuH		BrAwuH	BrAwq{puM;5;eka}/BrAwq{puM;6;eka}	BrAwq{puM;6;eka}	RaRTIsambanXaH,11	BAI_se					
+13	sOBrAwram		sOBrAwramanuxarSayan	sOBrAwra{napuM;1;eka}/sOBrAwra{napuM;2;eka}	sOBrAwra{napuM;2;eka}	karma,14	sOBrAwra		<sO-BrAwram>K1			
+14	anu-xarSayan			anu-xarSayan}	anu-xarSayan{puM;1;eka(anu-xqS1;Sawq_lat;xqSa़़;:curAxiH)}	varwamAnasamAnakAlaH,6	anu-					

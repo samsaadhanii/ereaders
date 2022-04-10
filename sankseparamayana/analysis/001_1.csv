@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	तपः-स्वाध्याय-निरतं		तपःस्वाध्यायनिरतं	तपः-स्वाध्याय-निरत{पुं;2;एक(तपः-स्वाध्याय-रम्1;क्त;रमुँ;:भ्वादिः)}/तपः-स्वाध्याय-निरत{नपुं;1;एक(रम्1;क्त;रमुँ;:भ्वादिः)}/तपः-स्वाध्याय-निरत{नपुं;2;एक(रम्1;क्त;रमुँ;:भ्वादिः)}	तपः-स्वाध्याय-निरतनपुं;2;एक(रम्1;क्त;रमुँ;:भ्वादिः)}	विशेषणम्,5			<<तपस्-स्वाध्याय>Di-निरतं>T7			
-2	तपस्वी		तपस्वी	तपस्विन्{पुं;1;एक}	तपस्विन्{पुं;1;एक}	विशेषणम्,7	तपस्वी					
-3	वाक्-विदां		वाक्-विदां	वाक्-विद्{पुं;6;बहु}/विद्{नपुं;6;बहु}/विद्{स्त्री;6;बहु}/विदा{स्त्री;2;एक}	वाक्-विद्{पुं;6;बहु}	षष्ठीसम्बन्धः,4	वाक्-विदों_का		<वाक्-विदां>U			
-4	वरं		वरं	वरम्{अव्य}/वर{पुं;2;एक}/वर{नपुं;1;एक}/वर{नपुं;2;एक}	वरपुं;2;एक}	विशेषणम्,5						
-5	नारदं		नारदं	नारद{पुं;2;एक}	नारद{पुं;2;एक}	कर्म,6	नारद_को					
-6	परि-पप्रच्छ		परि-पप्रच्छ	परि-प्रछ्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;प्रछँ;:तुदादिः}/प्रछ्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;प्रछँ;:तुदादिः}/प्रछ्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;प्रछँ;:तुदादिः}	परि-प्रछ्1कर्तरि;लिट्;प्र;एक;परस्मैपदी;प्रछँ;:तुदादिः}	अभिहित_कर्ता;सकर्मक;7	पूछा					
-7	वाल्मीकिः		वाल्मीकिर्मुनि-पुङ्गवम्	वाल्मीकि{पुं;1;एक}	वाल्मीकि{पुं;1;एक}	कर्ता,6	वाल्मीकि					
-8	मुनि-पुङ्गवम्			मुनि-पुङ्गव{पुं;2;एक}	मुनि-पुङ्गव{पुं;2;एक}	विशेषणम्,5	मुनि-श्रेष्ठ_को		<मुनि-पुङ्गवम्>T7			
+1	wapaH-svAXyAya-nirawaM		wapaHsvAXyAyanirawaM	wapaH-svAXyAya-nirawa{puM;2;eka(wapaH-svAXyAya-ram1;kwa;ramuz;:BvAxiH)}/wapaH-svAXyAya-nirawa{napuM;1;eka(ram1;kwa;ramuz;:BvAxiH)}/wapaH-svAXyAya-nirawa{napuM;2;eka(ram1;kwa;ramuz;:BvAxiH)}	wapaH-svAXyAya-nirawanapuM;2;eka(ram1;kwa;ramuz;:BvAxiH)}	viSeRaNam,5			<<wapas-svAXyAya>Di-nirawaM>T7			
+2	wapasvI		wapasvI	wapasvin{puM;1;eka}	wapasvin{puM;1;eka}	viSeRaNam,7	wapasvI					
+3	vAk-vixAM		vAk-vixAM	vAk-vix{puM;6;bahu}/vix{napuM;6;bahu}/vix{swrI;6;bahu}/vixA{swrI;2;eka}	vAk-vix{puM;6;bahu}	RaRTIsambanXaH,4	vAk-vixoM_kA		<vAk-vixAM>U			
+4	varaM		varaM	varam{avya}/vara{puM;2;eka}/vara{napuM;1;eka}/vara{napuM;2;eka}	varapuM;2;eka}	viSeRaNam,5						
+5	nAraxaM		nAraxaM	nAraxa{puM;2;eka}	nAraxa{puM;2;eka}	karma,6	nAraxa_ko					
+6	pari-papracCa		pari-papracCa	pari-praC1{karwari;lit;u;eka;parasmEpaxI;praCaz;:wuxAxiH}/praC1{karwari;lit;ma;bahu;parasmEpaxI;praCaz;:wuxAxiH}/praC1{karwari;lit;pra;eka;parasmEpaxI;praCaz;:wuxAxiH}	pari-praC1karwari;lit;pra;eka;parasmEpaxI;praCaz;:wuxAxiH}	aBihiwa_karwA;sakarmaka;7	pUCA					
+7	vAlmIkiH		vAlmIkirmuni-pufgavam	vAlmIki{puM;1;eka}	vAlmIki{puM;1;eka}	karwA,6	vAlmIki					
+8	muni-pufgavam			muni-pufgava{puM;2;eka}	muni-pufgava{puM;2;eka}	viSeRaNam,5	muni-SreRTa_ko		<muni-pufgavam>T7			

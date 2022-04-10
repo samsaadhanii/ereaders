@@ -1,6 +1,6 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	परं		परं	परम्{अव्य}/पर{पुं;2;एक}/पर{नपुं;1;एक}/पर{नपुं;2;एक}/पर{सर्वनाम;पुं;2;एक}/पर{सर्वनाम;नपुं;1;एक}/पर{सर्वनाम;नपुं;2;एक}	पर{सर्वनाम;नपुं;1;एक}	विशेषणम्,2	पर					
-2	कौतूहलं		कौतूहलं	कौतूहल{नपुं;1;एक}/कौतूहल{नपुं;2;एक}	कौतूहल{नपुं;1;एक}	कर्ता,5	जिज्ञासा					
-3	हि		हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,2	हि					
-4	मे		मे	अस्मद्{सर्वनाम;6;एक}/अस्मद्{सर्वनाम;4;एक}	अस्मद्{सर्वनाम;4;एक}	षष्ठीसम्बन्धः,2	मेरे_लिये					
-5	(अस्ति)			अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,2	है					
+1	paraM		paraM	param{avya}/para{puM;2;eka}/para{napuM;1;eka}/para{napuM;2;eka}/para{sarvanAma;puM;2;eka}/para{sarvanAma;napuM;1;eka}/para{sarvanAma;napuM;2;eka}	para{sarvanAma;napuM;1;eka}	viSeRaNam,2	para					
+2	kOwUhalaM		kOwUhalaM	kOwUhala{napuM;1;eka}/kOwUhala{napuM;2;eka}	kOwUhala{napuM;1;eka}	karwA,5	jijFAsA					
+3	hi		hi	hi{avya}	hi{avya}	sambanXaH,2	hi					
+4	me		me	asmax{sarvanAma;6;eka}/asmax{sarvanAma;4;eka}	asmax{sarvanAma;4;eka}	RaRTIsambanXaH,2	mere_liye					
+5	(aswi)			as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,2	hE					

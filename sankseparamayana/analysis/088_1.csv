@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	पुनः		पुनराख्यायिकां	पुनः{अव्य}	पुनः{अव्य}	क्रियाविशेषणम्,10	फिर					
-2	आख्यायिकां			आख्यायिका{स्त्री;2;एक}/आख्यायिका{स्त्री;2;एक(ख्या1;ण्वुल्;ख्या;:अदादिः)}	आख्यायिका{स्त्री;2;एक(ख्या1;ण्वुल्;ख्या;:अदादिः)}	कर्म,3						
-3	जल्पन्		जल्पन्	जल्पत्{पुं;1;एक(जल्प्1;शतृ_लट्;जल्पँ;:भ्वादिः)}	जल्पत्{पुं;1;एक(जल्प्1;शतृ_लट्;जल्पँ;:भ्वादिः)}	वर्तमानसमानकालः,10	बोलता_हुआ					
-4	सुग्रीव-सहितः		सुग्रीवसहितस्तदा	सुग्रीव-सहितृ{पुं;8;एक}/सहितृ{नपुं;8;एक}/सहित{पुं;1;एक}	सुग्रीव-सहित{पुं;1;एक}	कर्ता,10	सुग्रीव-साथ		<सुग्रीव-सहितः>T3			
-5	तदा			तदा{अव्य}	तदा{अव्य}	कालाधिकरणम्,3	तब					
-6	पुष्पकं		पुष्पकं	पुष्प{क;पुं;2;एक}/पुष्प{क;नपुं;1;एक}/पुष्प{क;नपुं;2;एक}/पुष्पक{पुं;2;एक(पुष्प्1;ण्वुल्;पुष्पँ;:दिवादिः)}/पुष्पक{नपुं;1;एक(पुष्प्1;ण्वुल्;पुष्पँ;:दिवादिः)}/पुष्पक{नपुं;2;एक(पुष्प्1;ण्वुल्;पुष्पँ;:दिवादिः)}	पुष्पक{नपुं;2;एक(पुष्प्1;ण्वुल्;पुष्पँ;:दिवादिः)}	विशेषणम्,7	पुष्पक					
-7	तत्		तत्समारुह्य	तत्{अव्य}/तद्{सर्वनाम;नपुं;1;एक}/तद्{सर्वनाम;नपुं;2;एक}	तद्{सर्वनाम;नपुं;2;एक}	कर्म,8	वह					
-8	सम्-आरुह्य			सम्-रुह्1{अव्य;ल्यप्;रुहँ;:भ्वादिः}	सम्-आङ्_रुह्1{अव्य;ल्यप्;रुहँ;:भ्वादिः}	पूर्वकालः,10	चढ_कर		<सम्-आ-रुह्य>Tg			
-9	नन्दि-ग्रामं		नन्दि-ग्रामं	नन्दि-ग्राम{पुं;2;एक}/ग्राम{नपुं;1;एक}/ग्राम{नपुं;2;एक}	नन्दि-ग्राम{नपुं;2;एक}	कर्म,10	नन्दि-ग्राम_को		<नन्दि-ग्रामं>K1			
-10	ययौ		ययौ	या1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;या;:अदादिः}/या1{कर्तरि;लिट्;उ;एक;परस्मैपदी;या;:अदादिः}/ययि{पुं;7;एक}	या1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;या;:अदादिः}	अभिहित_कर्ता,4;सकर्मक	गया					
-11	तदा		तदा	तदा{अव्य}	तदा{अव्य}	कालाधिकरणम्,10	तब					
+1	punaH		punarAKyAyikAM	punaH{avya}	punaH{avya}	kriyAviSeRaNam,10	Pira					
+2	AKyAyikAM			AKyAyikA{swrI;2;eka}/AKyAyikA{swrI;2;eka(KyA1;Nvul;KyA;:axAxiH)}	AKyAyikA{swrI;2;eka(KyA1;Nvul;KyA;:axAxiH)}	karma,3						
+3	jalpan		jalpan	jalpaw{puM;1;eka(jalp1;Sawq_lat;jalpaz;:BvAxiH)}	jalpaw{puM;1;eka(jalp1;Sawq_lat;jalpaz;:BvAxiH)}	varwamAnasamAnakAlaH,10	bolawA_huA					
+4	sugrIva-sahiwaH		sugrIvasahiwaswaxA	sugrIva-sahiwq{puM;8;eka}/sahiwq{napuM;8;eka}/sahiwa{puM;1;eka}	sugrIva-sahiwa{puM;1;eka}	karwA,10	sugrIva-sAWa		<sugrIva-sahiwaH>T3			
+5	waxA			waxA{avya}	waxA{avya}	kAlAXikaraNam,3	waba					
+6	puRpakaM		puRpakaM	puRpa{ka;puM;2;eka}/puRpa{ka;napuM;1;eka}/puRpa{ka;napuM;2;eka}/puRpaka{puM;2;eka(puRp1;Nvul;puRpaz;:xivAxiH)}/puRpaka{napuM;1;eka(puRp1;Nvul;puRpaz;:xivAxiH)}/puRpaka{napuM;2;eka(puRp1;Nvul;puRpaz;:xivAxiH)}	puRpaka{napuM;2;eka(puRp1;Nvul;puRpaz;:xivAxiH)}	viSeRaNam,7	puRpaka					
+7	waw		wawsamAruhya	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	wax{sarvanAma;napuM;2;eka}	karma,8	vaha					
+8	sam-Aruhya			sam-ruh1{avya;lyap;ruhaz;:BvAxiH}	sam-Af_ruh1{avya;lyap;ruhaz;:BvAxiH}	pUrvakAlaH,10	caDa_kara		<sam-A-ruhya>Tg			
+9	nanxi-grAmaM		nanxi-grAmaM	nanxi-grAma{puM;2;eka}/grAma{napuM;1;eka}/grAma{napuM;2;eka}	nanxi-grAma{napuM;2;eka}	karma,10	nanxi-grAma_ko		<nanxi-grAmaM>K1			
+10	yayO		yayO	yA1{karwari;lit;pra;eka;parasmEpaxI;yA;:axAxiH}/yA1{karwari;lit;u;eka;parasmEpaxI;yA;:axAxiH}/yayi{puM;7;eka}	yA1{karwari;lit;pra;eka;parasmEpaxI;yA;:axAxiH}	aBihiwa_karwA,4;sakarmaka	gayA					
+11	waxA		waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,10	waba					

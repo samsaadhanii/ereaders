@@ -1,25 +1,25 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	वार्यमाणः		वार्यमाणः	वार्यमाण{पुं;1;एक(वृ3;शानच्_लट्;कर्मणि;वृञ्;:चुरादिः)}	वार्यमाण{पुं;1;एक(वृ3;शानच्_लट्;कर्मणि;वृञ्;:चुरादिः)}	वर्तमानसमानकालः,19						
-2	सु-बहुशः		सुबहुशो	सु-बहुशः{अव्य}	सु-बहुशः{अव्य}	क्रियाविशेषणम्,1	सु-बार_बार		<सु-बहुशः>K3			
-3	मारीचेन		मारीचेन	मारीच{पुं;3;एक}	मारीच{पुं;3;एक}	कर्ता,1	मारीच_से					
-4	सः		स	तद्{सर्वनाम;पुं;1;एक}	तद्{सर्वनाम;पुं;1;एक}	विशेषणम्,10	वह					
-5	रावण		रावण	रावण{पुं;8;एक}	रावण{पुं;8;एक}	सम्बोध्यः,9	रावण					
-6	न		न	न{अव्य}	न{अव्य}	प्रतिषेधः,9	नहीं					
-7	विरोधः		विरोधो	विरोध{पुं;1;एक}/विरोध{पुं;1;एक(रुध्1;घञ्;रुधिँर्;:रुधादिः)}	विरोध{पुं;1;एक}	कर्म,9	विरोध					
-8	बलवता		बलवता	बल{मतुप्;पुं;3;एक}/बल{मतुप्;नपुं;3;एक}	बल{मतुप्;पुं;3;एक}	विशेषणम्,11	बल_से					
-9	क्षमः		क्षमो	क्षम{पुं;1;एक}	क्षम{पुं;1;एक}	वाक्यकर्म,24	योग्य					
-10	रावणः		रावणः	रावण{पुं;1;एक}	रावण{पुं;1;एक}	कर्म,1	रावण					
-11	तेन		तेन	तद्{सर्वनाम;पुं;3;एक}/तद्{सर्वनाम;नपुं;3;एक}/तन्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;तनुँ;:तनादिः}	तद्{सर्वनाम;पुं;3;एक}	कर्ता,9	उससे					
-12	ते		ते	तद्{सर्वनाम;पुं;1;बहु}/तद्{सर्वनाम;नपुं;1;द्वि}/तद्{सर्वनाम;नपुं;2;द्वि}/तद्{सर्वनाम;स्त्री;1;द्वि}/तद्{सर्वनाम;स्त्री;2;द्वि}/युष्मद्{सर्वनाम;4;एक}/युष्मद्{सर्वनाम;6;एक}	तद्-युष्मद्{सर्वनाम;6;एक}	षष्ठीसम्बन्धः,7	वे					
-13	अनादृत्य		अनादृत्य	अनादृत्य}	अनादृत्य}	पूर्वकालः,19			<न-आदृत्य>Tn			
-14	तु		तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,13	तो					
-15	तत्		तद्वाक्यं	तत्{अव्य}/तद्{सर्वनाम;नपुं;1;एक}/तद्{सर्वनाम;नपुं;2;एक}	तद्सर्वनाम;{नपुं;2;एक}	विशेषणम्,16						
-16	वाक्यं			वाक्य{नपुं;1;एक}/वाक्य{नपुं;2;एक}	वाक्य{नपुं;2;एक}	कर्म,13	वाक्य					
-17	रावणः		रावणः	रावण{पुं;1;एक}	रावण{पुं;1;एक}	कर्ता,19	रावण					
-18	काल-चोदितः		कालचोदितः	काल-चोदित{पुं;1;एक(काल-चुद्1;क्त;चुदँ;:चुरादिः)}	काल-चोदित{पुं;1;एक(काल-चुद्1;क्त;चुदँ;:चुरादिः)}	विशेषणम्,17	समय-प्रेरणा_किया_हुआ		<काल-चोदितः>T3			
-19	जगाम		जगाम	गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;:भ्वादिः}/गम्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;गमॢँ;:भ्वादिः}	गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;:भ्वादिः}	अभिहित_कर्ता,17;सकर्मक	गया					
-20	सह-मारीचः		सहमारीचस्तस्याश्रमपदं	सह{अव्य-मारीच;पुं;1;एक}	सह{अव्य-मारीच;पुं;1;एक}	सहार्थः,22	सह-मारीच		<सह-मारीचः>Bvs			
-21	तस्य			तद्{सर्वनाम;नपुं;6;एक}/तद्{सर्वनाम;पुं;6;एक}	तद्सर्वनाम{पुं;6;एक}	षष्ठीसम्बन्धः,22	उसका					
-22	आश्रम-पदं			आश्रम-पद्{पुं;2;एक}/पद{नपुं;1;एक}/पद{नपुं;2;एक}/पद{पुं;2;एक}	आश्रम-पद{नपुं;2;एक}	कर्म,19	आश्रम-पैर_को		<आश्रम-पदं>T6			
-23	तदा		तदा	तदा{अव्य}	तदा{अव्य}	अधिकरणम्,19	तब					
-24	(इति)				इति{अव्य}	वाक्यकर्मद्योतकः,1						
+1	vAryamANaH		vAryamANaH	vAryamANa{puM;1;eka(vq3;SAnac_lat;karmaNi;vqF;:curAxiH)}	vAryamANa{puM;1;eka(vq3;SAnac_lat;karmaNi;vqF;:curAxiH)}	varwamAnasamAnakAlaH,19						
+2	su-bahuSaH		subahuSo	su-bahuSaH{avya}	su-bahuSaH{avya}	kriyAviSeRaNam,1	su-bAra_bAra		<su-bahuSaH>K3			
+3	mArIcena		mArIcena	mArIca{puM;3;eka}	mArIca{puM;3;eka}	karwA,1	mArIca_se					
+4	saH		sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,10	vaha					
+5	rAvaNa		rAvaNa	rAvaNa{puM;8;eka}	rAvaNa{puM;8;eka}	samboXyaH,9	rAvaNa					
+6	na		na	na{avya}	na{avya}	prawiReXaH,9	nahIM					
+7	viroXaH		viroXo	viroXa{puM;1;eka}/viroXa{puM;1;eka(ruX1;GaF;ruXizr;:ruXAxiH)}	viroXa{puM;1;eka}	karma,9	viroXa					
+8	balavawA		balavawA	bala{mawup;puM;3;eka}/bala{mawup;napuM;3;eka}	bala{mawup;puM;3;eka}	viSeRaNam,11	bala_se					
+9	kRamaH		kRamo	kRama{puM;1;eka}	kRama{puM;1;eka}	vAkyakarma,24	yogya					
+10	rAvaNaH		rAvaNaH	rAvaNa{puM;1;eka}	rAvaNa{puM;1;eka}	karma,1	rAvaNa					
+11	wena		wena	wax{sarvanAma;puM;3;eka}/wax{sarvanAma;napuM;3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;:wanAxiH}	wax{sarvanAma;puM;3;eka}	karwA,9	usase					
+12	we		we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax-yuRmax{sarvanAma;6;eka}	RaRTIsambanXaH,7	ve					
+13	anAxqwya		anAxqwya	anAxqwya}	anAxqwya}	pUrvakAlaH,19			<na-Axqwya>Tn			
+14	wu		wu	wu{avya}	wu{avya}	sambanXaH,13	wo					
+15	waw		waxvAkyaM	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waxsarvanAma;{napuM;2;eka}	viSeRaNam,16						
+16	vAkyaM			vAkya{napuM;1;eka}/vAkya{napuM;2;eka}	vAkya{napuM;2;eka}	karma,13	vAkya					
+17	rAvaNaH		rAvaNaH	rAvaNa{puM;1;eka}	rAvaNa{puM;1;eka}	karwA,19	rAvaNa					
+18	kAla-coxiwaH		kAlacoxiwaH	kAla-coxiwa{puM;1;eka(kAla-cux1;kwa;cuxaz;:curAxiH)}	kAla-coxiwa{puM;1;eka(kAla-cux1;kwa;cuxaz;:curAxiH)}	viSeRaNam,17	samaya-preraNA_kiyA_huA		<kAla-coxiwaH>T3			
+19	jagAma		jagAma	gam1{karwari;lit;pra;eka;parasmEpaxI;gamLz;:BvAxiH}/gam1{karwari;lit;u;eka;parasmEpaxI;gamLz;:BvAxiH}	gam1{karwari;lit;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,17;sakarmaka	gayA					
+20	saha-mArIcaH		sahamArIcaswasyASramapaxaM	saha{avya-mArIca;puM;1;eka}	saha{avya-mArIca;puM;1;eka}	sahArWaH,22	saha-mArIca		<saha-mArIcaH>Bvs			
+21	wasya			wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	waxsarvanAma{puM;6;eka}	RaRTIsambanXaH,22	usakA					
+22	ASrama-paxaM			ASrama-pax{puM;2;eka}/paxa{napuM;1;eka}/paxa{napuM;2;eka}/paxa{puM;2;eka}	ASrama-paxa{napuM;2;eka}	karma,19	ASrama-pEra_ko		<ASrama-paxaM>T6			
+23	waxA		waxA	waxA{avya}	waxA{avya}	aXikaraNam,19	waba					
+24	(iwi)				iwi{avya}	vAkyakarmaxyowakaH,1						

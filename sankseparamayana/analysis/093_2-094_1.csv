@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	नगराणि		नगराणि	नगर{नपुं;1;बहु}/नगर{नपुं;2;बहु}/नगर{नपुं;8;बहु}	नगर{नपुं;1;बहु}	समुच्चितः,4	नगर					
-2	च		च	च{अव्य}	च{अव्य}	समुच्चयद्योतकः,1	और					
-3	राष्ट्राणि		राष्ट्राणि	राष्ट्र{नपुं;1;बहु}/राष्ट्र{नपुं;2;बहु}/राष्ट्र{नपुं;8;बहु}	राष्ट्र{नपुं;1;बहु}	समुच्चितः,1	राष्ट्र					
-4	धन-धान्य-युतानि		धनधान्ययुतानि	धन-युत{नपुं;1;बहु(धन-धन्1;ण्यत्;धनँ;:जुहोत्यादिः-यु1;क्त;यु;:अदादिः)}/धन-युत{नपुं;2;बहु(यु1;क्त;यु;:अदादिः)}/धन-युत{नपुं;1;बहु(यु2;क्त;युञ्;:क्र्यादिः)}/धन-युत{नपुं;2;बहु(यु2;क्त;युञ्;:क्र्यादिः)}	धन-युत{नपुं;1;बहु(धन-धन्1;ण्यत्;धनँ;:जुहोत्यादिः-यु1;क्त;यु;:अदादिः)}	कर्ता,13			<धन-धान्य>Di-युतानि>Bv			
-5	च		च	च{अव्य}	च{अव्य}	सम्बन्धः,4	और					
-6	नित्यं		नित्यं	नित्य{पुं;2;एक}/नित्य{नपुं;1;एक}/नित्य{नपुं;2;एक}	नित्य{नपुं;2;एक}	कालाधिकरणम्,12	नित्य_को					
-7	प्रमुदिताः		प्रमुदिताः	प्रमुदित{पुं;1;बहु(मुद्1;क्त;मुदँ;:भ्वादिः)}/प्रमुदिता{स्त्री;1;बहु(मुद्1;क्त;मुदँ;:भ्वादिः)}/प्रमुदिता{स्त्री;2;बहु(मुद्1;क्त;मुदँ;:भ्वादिः)}	प्रमुदित{पुं;1;बहु(मुद्1;क्त;मुदँ;:भ्वादिः)}	विधेय-विशेषणम्,8			<प्र-मुदिताः>Tp			
-8	सर्वे		सर्वे	सर्व{सर्वनाम;पुं;1;बहु}/सर्व{सर्वनाम;नपुं;1;द्वि}/सर्व{सर्वनाम;नपुं;2;द्वि}/सर्वा{सर्वनाम;स्त्री;1;द्वि}/सर्वा{सर्वनाम;स्त्री;2;द्वि}	सर्व{सर्वनाम;पुं;1;बहु}	कर्ता,12	सब					
-9	यथा		यथा	यथा{अव्य}	यथा{अव्य}	प्रतियोगी,10	जैसे					
-10	कृत-युगे		कृतयुगे	कृ3{क्त;डुकृञ्;:तनादिः}/कृ2{क्त;कृञ्;:स्वादिः}/कृ1{क्त;कृञ्;:भ्वादिः-युग;नपुं;1;द्वि}/युग{नपुं;2;द्वि}/युग{नपुं;8;द्वि}/युग{नपुं;7;एक}/युग{पुं;7;एक}/युगा{स्त्री;8;एक}/युगा{स्त्री;8;द्वि}/युगा{स्त्री;1;द्वि}/युगा{स्त्री;2;द्वि}	कृ3-युग{नपुं;7;एक}	अधिकरणम्,12			<कृत-युगे>K1			
-11	तथा		तथा	तथा{अव्य}	तथा{अव्य}	अनुयोगी,7	वैसे					
-12	(सन्ति)			अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;:अदादिः}/सत्{नपुं;8;बहु}/सत्{नपुं;1;बहु(अस्2;शतृ_लट्;असँ;:अदादिः)}/सत्{नपुं;2;बहु(अस्2;शतृ_लट्;असँ;:अदादिः)}	अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,4;सकर्मक	हैं					
-13	(सन्ति)					अभिहित_कर्ता,8;सकर्मक						
+1	nagarANi		nagarANi	nagara{napuM;1;bahu}/nagara{napuM;2;bahu}/nagara{napuM;8;bahu}	nagara{napuM;1;bahu}	samucciwaH,4	nagara					
+2	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,1	Ora					
+3	rARtrANi		rARtrANi	rARtra{napuM;1;bahu}/rARtra{napuM;2;bahu}/rARtra{napuM;8;bahu}	rARtra{napuM;1;bahu}	samucciwaH,1	rARtra					
+4	Xana-XAnya-yuwAni		XanaXAnyayuwAni	Xana-yuwa{napuM;1;bahu(Xana-Xan1;Nyaw;Xanaz;:juhowyAxiH-yu1;kwa;yu;:axAxiH)}/Xana-yuwa{napuM;2;bahu(yu1;kwa;yu;:axAxiH)}/Xana-yuwa{napuM;1;bahu(yu2;kwa;yuF;:kryAxiH)}/Xana-yuwa{napuM;2;bahu(yu2;kwa;yuF;:kryAxiH)}	Xana-yuwa{napuM;1;bahu(Xana-Xan1;Nyaw;Xanaz;:juhowyAxiH-yu1;kwa;yu;:axAxiH)}	karwA,13			<Xana-XAnya>Di-yuwAni>Bv			
+5	ca		ca	ca{avya}	ca{avya}	sambanXaH,4	Ora					
+6	niwyaM		niwyaM	niwya{puM;2;eka}/niwya{napuM;1;eka}/niwya{napuM;2;eka}	niwya{napuM;2;eka}	kAlAXikaraNam,12	niwya_ko					
+7	pramuxiwAH		pramuxiwAH	pramuxiwa{puM;1;bahu(mux1;kwa;muxaz;:BvAxiH)}/pramuxiwA{swrI;1;bahu(mux1;kwa;muxaz;:BvAxiH)}/pramuxiwA{swrI;2;bahu(mux1;kwa;muxaz;:BvAxiH)}	pramuxiwa{puM;1;bahu(mux1;kwa;muxaz;:BvAxiH)}	viXeya-viSeRaNam,8			<pra-muxiwAH>Tp			
+8	sarve		sarve	sarva{sarvanAma;puM;1;bahu}/sarva{sarvanAma;napuM;1;xvi}/sarva{sarvanAma;napuM;2;xvi}/sarvA{sarvanAma;swrI;1;xvi}/sarvA{sarvanAma;swrI;2;xvi}	sarva{sarvanAma;puM;1;bahu}	karwA,12	saba					
+9	yaWA		yaWA	yaWA{avya}	yaWA{avya}	prawiyogI,10	jEse					
+10	kqwa-yuge		kqwayuge	kq3{kwa;dukqF;:wanAxiH}/kq2{kwa;kqF;:svAxiH}/kq1{kwa;kqF;:BvAxiH-yuga;napuM;1;xvi}/yuga{napuM;2;xvi}/yuga{napuM;8;xvi}/yuga{napuM;7;eka}/yuga{puM;7;eka}/yugA{swrI;8;eka}/yugA{swrI;8;xvi}/yugA{swrI;1;xvi}/yugA{swrI;2;xvi}	kq3-yuga{napuM;7;eka}	aXikaraNam,12			<kqwa-yuge>K1			
+11	waWA		waWA	waWA{avya}	waWA{avya}	anuyogI,7	vEse					
+12	(sanwi)			as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;:axAxiH}/saw{napuM;8;bahu}/saw{napuM;1;bahu(as2;Sawq_lat;asaz;:axAxiH)}/saw{napuM;2;bahu(as2;Sawq_lat;asaz;:axAxiH)}	as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,4;sakarmaka	hEM					
+13	(sanwi)					aBihiwa_karwA,8;sakarmaka						

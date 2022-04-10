@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	तं		तं	तद्{सर्वनाम;पुं;2;एक}	तद्{सर्वनाम;पुं;2;एक}	कर्म,2	उसको					
-2	निहत्य		निहत्य	हन्1{अव्य;ल्यप्;हनँ;:अदादिः}	नि_हन्1{अव्य;ल्यप्;हनँ;:अदादिः}	पूर्वकालः,4			<नि-हत्य>Tg			
-3	महा-बाहुः		महाबाहुर्ददाह	महा-बाहु{पुं;1;एक}	महा-बाहु{पुं;1;एक}	कर्ता,4	गाय-भुजा		<महा-बाहुः>Bs6			
-4	ददाह			दह्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;दहँ;:भ्वादिः}/दह्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;दहँ;:भ्वादिः}	दह्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;दहँ;:भ्वादिः}	अभिहित_कर्ता,3;सकर्मक	जलाया					
-5	स्वर्		स्वर्गतश्च	स्वर्{अव्य}	स्वर्{अव्य}	कर्म,6	स्वर्					
-6	गतः			गत{पुं;1;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}	गत{पुं;1;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}	समुच्चितः,4	गया_हुआ					
-7	च			च{अव्य}	च{अव्य}	समुच्चयद्योतकः,6	और					
-8	सः		सः	तद्{सर्वनाम;पुं;1;एक}	तद्{सर्वनाम;पुं;1;एक}	कर्ता,6	वह					
+1	waM		waM	wax{sarvanAma;puM;2;eka}	wax{sarvanAma;puM;2;eka}	karma,2	usako					
+2	nihawya		nihawya	han1{avya;lyap;hanaz;:axAxiH}	ni_han1{avya;lyap;hanaz;:axAxiH}	pUrvakAlaH,4			<ni-hawya>Tg			
+3	mahA-bAhuH		mahAbAhurxaxAha	mahA-bAhu{puM;1;eka}	mahA-bAhu{puM;1;eka}	karwA,4	gAya-BujA		<mahA-bAhuH>Bs6			
+4	xaxAha			xah1{karwari;lit;pra;eka;parasmEpaxI;xahaz;:BvAxiH}/xah1{karwari;lit;u;eka;parasmEpaxI;xahaz;:BvAxiH}	xah1{karwari;lit;pra;eka;parasmEpaxI;xahaz;:BvAxiH}	aBihiwa_karwA,3;sakarmaka	jalAyA					
+5	svar		svargawaSca	svar{avya}	svar{avya}	karma,6	svar					
+6	gawaH			gawa{puM;1;eka(gam1;kwa;gamLz;:BvAxiH)}	gawa{puM;1;eka(gam1;kwa;gamLz;:BvAxiH)}	samucciwaH,4	gayA_huA					
+7	ca			ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora					
+8	saH		saH	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,6	vaha					

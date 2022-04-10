@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	राघव-प्रत्ययार्थं		राघवप्रत्ययार्थं	राघव-प्रत्यय{अव्य;अर्थम्}	राघव-प्रत्यय{अव्य;अर्थम्}	प्रयोजनम्,6	रघुवंशी-		<राघव-<प्रत्यय-अर्थं>T4>T6			
-2	तु		तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,1	तो					
-3	दुन्दुभेः		दुन्दुभेः	दुन्दुभि{पुं;5;एक}/दुन्दुभि{पुं;6;एक}	दुन्दुभि{पुं;6;एक}	षष्ठीसम्बन्धः,4	कृष्ण_से					
-4	कायम्		कायमुत्तमम्	काय{पुं;2;एक}/काय{नपुं;1;एक}/काय{नपुं;2;एक}	काय{पुं;2;एक}	कर्म,6	शरीर_को					
-5	उत्तमम्			उत्तम{पुं;2;एक}/उत्तम{नपुं;1;एक}/उत्तम{नपुं;2;एक}	उत्तम{पुं;2;एक}	विशेषणम्,4	अच्छे_को					
-6	दर्शयामास		दर्शयामास	दृश्1{णिजन्त;कर्तरि;लिट्;म;बहु;परस्मैपदी;दृशिँर्;:भ्वादिः}/दृश्1{णिजन्त;कर्तरि;लिट्;म;बहु;आत्मनेपदी;दृशिँर्;:भ्वादिः}/दृश्1{णिजन्त;कर्तरि;लिट्;प्र;एक;परस्मैपदी;दृशिँर्;:भ्वादिः}/दृश्1{णिजन्त;कर्तरि;लिट्;प्र;एक;आत्मनेपदी;दृशिँर्;:भ्वादिः}/दृश्1{णिजन्त;कर्तरि;लिट्;उ;एक;परस्मैपदी;दृशिँर्;:भ्वादिः}/दृश्1{णिजन्त;कर्तरि;लिट्;उ;एक;आत्मनेपदी;दृशिँर्;:भ्वादिः}/दृश्1{कर्तरि;णिजन्त;लिट्;प्र;एक;परस्मैपदी;दृश्;:भ्वदिः}	दृश्1{णिजन्त;कर्तरि;लिट्;प्र;एक;परस्मैपदी;दृशिँर्;:भ्वादिः}	अभिहित_कर्ता,7;सकर्मक						
-7	सुग्रीवः		सुग्रीवो	सुग्रीव{पुं;1;एक}	सुग्रीव{पुं;1;एक}	कर्ता,6	सुग्रीव					
-8	महा-पर्वत-संनिभम्		महापर्वतसंनिभम्	महा-पर्वत-सन्निभ{पुं;2;एक}/सन्निभ{नपुं;1;एक}/सन्निभ{नपुं;2;एक}	महा-पर्वत-सन्निभ{पुं;2;एक}	विशेषणम्,4	गाय-पर्वत-सन्निभ_को		<महत्-पर्वत>K1-संनिभम्>Bs6			
+1	rAGava-prawyayArWaM		rAGavaprawyayArWaM	rAGava-prawyaya{avya;arWam}	rAGava-prawyaya{avya;arWam}	prayojanam,6	raGuvaMSI-		<rAGava-<prawyaya-arWaM>T4>T6			
+2	wu		wu	wu{avya}	wu{avya}	sambanXaH,1	wo					
+3	xunxuBeH		xunxuBeH	xunxuBi{puM;5;eka}/xunxuBi{puM;6;eka}	xunxuBi{puM;6;eka}	RaRTIsambanXaH,4	kqRNa_se					
+4	kAyam		kAyamuwwamam	kAya{puM;2;eka}/kAya{napuM;1;eka}/kAya{napuM;2;eka}	kAya{puM;2;eka}	karma,6	SarIra_ko					
+5	uwwamam			uwwama{puM;2;eka}/uwwama{napuM;1;eka}/uwwama{napuM;2;eka}	uwwama{puM;2;eka}	viSeRaNam,4	acCe_ko					
+6	xarSayAmAsa		xarSayAmAsa	xqS1{Nijanwa;karwari;lit;ma;bahu;parasmEpaxI;xqSizr;:BvAxiH}/xqS1{Nijanwa;karwari;lit;ma;bahu;AwmanepaxI;xqSizr;:BvAxiH}/xqS1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;xqSizr;:BvAxiH}/xqS1{Nijanwa;karwari;lit;pra;eka;AwmanepaxI;xqSizr;:BvAxiH}/xqS1{Nijanwa;karwari;lit;u;eka;parasmEpaxI;xqSizr;:BvAxiH}/xqS1{Nijanwa;karwari;lit;u;eka;AwmanepaxI;xqSizr;:BvAxiH}/xqS1{karwari;Nijanwa;lit;pra;eka;parasmEpaxI;xqS;:BvaxiH}	xqS1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;xqSizr;:BvAxiH}	aBihiwa_karwA,7;sakarmaka						
+7	sugrIvaH		sugrIvo	sugrIva{puM;1;eka}	sugrIva{puM;1;eka}	karwA,6	sugrIva					
+8	mahA-parvawa-saMniBam		mahAparvawasaMniBam	mahA-parvawa-sanniBa{puM;2;eka}/sanniBa{napuM;1;eka}/sanniBa{napuM;2;eka}	mahA-parvawa-sanniBa{puM;2;eka}	viSeRaNam,4	gAya-parvawa-sanniBa_ko		<mahaw-parvawa>K1-saMniBam>Bs6			

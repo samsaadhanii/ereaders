@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	सर्वदा		सर्वदाभिगतः	सर्वदा{अव्य}	सर्वदा{अव्य}	कालाधिकरणम्,2	हमेशा					
-2	अभिगतः			अभिगत{पुं;1;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}	अभिगत{पुं;1;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}	विधेय_विशेषणम्,7	ण्थ्या_हुआ		<अभि-गतः>Tp			
-3	सद्भिः		सद्भिः	सत्{पुं;3;बहु}/सत्{नपुं;3;बहु(अस्2;शतृ_लट्;असँ;:अदादिः)}/सत्{पुं;3;बहु(अस्2;शतृ_लट्;असँ;:अदादिः)}	सत्{पुं;3;बहु(अस्2;शतृ_लट्;असँ;:अदादिः)}	कर्ता,8	सज्जनों_से					
-4	समुद्रः		समुद्र	समुद्र{पुं;1;एक}	समुद्र{पुं;1;एक}	कर्म,2	समुद्र					
-5	इव		इव	इव{अव्य}	इव{अव्य}	उपमान_द्योतकः,7	जैसे					
-6	सिन्धुभिः		सिन्धुभिः	सिन्धु{पुं;3;बहु}	सिन्धु{पुं;3;बहु}	कर्ता,2	सागर_से					
-7	(भवति)			भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;:भ्वादिः}/भवती{स्त्री;8;एक}/भवत्{सर्वनाम;पुं;7;एक}/भवत्{पुं;7;एक}	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;:भ्वादिः}	अभिहित_कर्ता,2	होता_है					
-8	(अभिगतः)			अभिगत{पुं;1;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}	अभिगत{पुं;1;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}	उपमानम्,5	ण्थ्या_हुआ					
+1	sarvaxA		sarvaxABigawaH	sarvaxA{avya}	sarvaxA{avya}	kAlAXikaraNam,2	hameSA					
+2	aBigawaH			aBigawa{puM;1;eka(gam1;kwa;gamLz;:BvAxiH)}	aBigawa{puM;1;eka(gam1;kwa;gamLz;:BvAxiH)}	viXeya_viSeRaNam,7	NWyA_huA		<aBi-gawaH>Tp			
+3	saxBiH		saxBiH	saw{puM;3;bahu}/saw{napuM;3;bahu(as2;Sawq_lat;asaz;:axAxiH)}/saw{puM;3;bahu(as2;Sawq_lat;asaz;:axAxiH)}	saw{puM;3;bahu(as2;Sawq_lat;asaz;:axAxiH)}	karwA,8	sajjanoM_se					
+4	samuxraH		samuxra	samuxra{puM;1;eka}	samuxra{puM;1;eka}	karma,2	samuxra					
+5	iva		iva	iva{avya}	iva{avya}	upamAna_xyowakaH,7	jEse					
+6	sinXuBiH		sinXuBiH	sinXu{puM;3;bahu}	sinXu{puM;3;bahu}	karwA,2	sAgara_se					
+7	(Bavawi)			BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}/BavawI{swrI;8;eka}/Bavaw{sarvanAma;puM;7;eka}/Bavaw{puM;7;eka}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,2	howA_hE					
+8	(aBigawaH)			aBigawa{puM;1;eka(gam1;kwa;gamLz;:BvAxiH)}	aBigawa{puM;1;eka(gam1;kwa;gamLz;:BvAxiH)}	upamAnam,5	NWyA_huA					

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	एतत्		एतदाख्यानमायुष्यं	एतद्{सर्वनाम;नपुं;1;एक}/एतद्{सर्वनाम;नपुं;2;एक}	एतद्{सर्वनाम;नपुं;2;एक}	विशेषणम्,5	यह					
-2	आख्यानम्			आख्यान{नपुं;1;एक(ख्या1;ल्युट्;ख्या;:अदादिः)}/आख्यान{नपुं;2;एक(ख्या1;ल्युट्;ख्या;:अदादिः)}	आख्यान{नपुं;1;एक(ख्या1;ल्युट्;ख्या;:अदादिः)}	विशेषणम्,5						
-3	आयुष्यं			आयुष्य{पुं;2;एक}/आयुष्य{नपुं;1;एक}/आयुष्य{नपुं;2;एक}	आयुष्य{नपुं;2;एक}	विशेषणम्,5	आयुष्य_को					
-4	पठन्		पठन्	पठत्{पुं;1;एक(पठ्1;शतृ_लट्;पठँ;:भ्वादिः)}	पठत्{पुं;1;एक(पठ्1;शतृ_लट्;पठँ;:भ्वादिः)}	वर्तमानसमानकालः,11	पढता_हुआ					
-5	रामायणं		रामायणं	रामायण{नपुं;1;एक}/रामायण{नपुं;2;एक}	रामायण{नपुं;2;एक}	कर्म,4	रामायण		<राम-अयणं>U>Bs6			
-6	नरः		नरः	नृ{पुं;1;बहु}/नर{पुं;1;एक}/नृ{पुं;8;बहु}	नर{पुं;1;एक}	कर्ता,9	मनुष्य					
-7	सपुत्र-पौत्रः		सपुत्रपौत्रः	सपुत्र-पौत्र{पुं;1;एक}	सपुत्र-पौत्र{पुं;1;एक}	सहार्थः,6	सपुत्र-पोता		<स-<पुत्र-पौत्रः>Di>-Bs6			
-8	सगणः		सगणः	सगण{पुं;1;एक}	सगण{पुं;1;एक}	सहार्थः,6	शिव		<स-गणः>Bvs			
-9	प्रेत्य		प्रेत्य	इ1{अव्य;ल्यप्;इण्;:अदादिः}	प्र_इ1{अव्य;ल्यप्;इण्;:अदादिः}	पूर्वकालः,11			<प्र-इत्य>Tg			
-10	स्वर्गे		स्वर्गे	स्वर्ग{पुं;7;एक}	स्वर्ग{पुं;7;एक}	अधिकरणम्,11	स्वर्ग_में					
-11	महीयते		महीयते	महीयते}	महीयते{कर्मणि;लट्;प्र;एक}	अभिहित_कर्म,6;सकर्मक						
+1	ewaw		ewaxAKyAnamAyuRyaM	ewax{sarvanAma;napuM;1;eka}/ewax{sarvanAma;napuM;2;eka}	ewax{sarvanAma;napuM;2;eka}	viSeRaNam,5	yaha					
+2	AKyAnam			AKyAna{napuM;1;eka(KyA1;lyut;KyA;:axAxiH)}/AKyAna{napuM;2;eka(KyA1;lyut;KyA;:axAxiH)}	AKyAna{napuM;1;eka(KyA1;lyut;KyA;:axAxiH)}	viSeRaNam,5						
+3	AyuRyaM			AyuRya{puM;2;eka}/AyuRya{napuM;1;eka}/AyuRya{napuM;2;eka}	AyuRya{napuM;2;eka}	viSeRaNam,5	AyuRya_ko					
+4	paTan		paTan	paTaw{puM;1;eka(paT1;Sawq_lat;paTaz;:BvAxiH)}	paTaw{puM;1;eka(paT1;Sawq_lat;paTaz;:BvAxiH)}	varwamAnasamAnakAlaH,11	paDawA_huA					
+5	rAmAyaNaM		rAmAyaNaM	rAmAyaNa{napuM;1;eka}/rAmAyaNa{napuM;2;eka}	rAmAyaNa{napuM;2;eka}	karma,4	rAmAyaNa		<rAma-ayaNaM>U>Bs6			
+6	naraH		naraH	nq{puM;1;bahu}/nara{puM;1;eka}/nq{puM;8;bahu}	nara{puM;1;eka}	karwA,9	manuRya					
+7	sapuwra-pOwraH		sapuwrapOwraH	sapuwra-pOwra{puM;1;eka}	sapuwra-pOwra{puM;1;eka}	sahArWaH,6	sapuwra-powA		<sa-<puwra-pOwraH>Di>-Bs6			
+8	sagaNaH		sagaNaH	sagaNa{puM;1;eka}	sagaNa{puM;1;eka}	sahArWaH,6	Siva		<sa-gaNaH>Bvs			
+9	prewya		prewya	i1{avya;lyap;iN;:axAxiH}	pra_i1{avya;lyap;iN;:axAxiH}	pUrvakAlaH,11			<pra-iwya>Tg			
+10	svarge		svarge	svarga{puM;7;eka}	svarga{puM;7;eka}	aXikaraNam,11	svarga_meM					
+11	mahIyawe		mahIyawe	mahIyawe}	mahIyawe{karmaNi;lat;pra;eka}	aBihiwa_karma,6;sakarmaka						

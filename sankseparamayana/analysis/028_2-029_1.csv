@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	पौरैः		पौरैरनुगतो	पौर{पुं;3;बहु}/पौर{नपुं;3;बहु}	पौर{पुं;3;बहु}	कर्ता,2	पौरों_से					
-2	अनुगतः			अनुग{अव्य;तसिल्}/अनुगत{पुं;1;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}	अनुगत{पुं;1;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}	अभिहित_कर्म,3;सकर्मक			<अनु-गतः>Tp			
-3	दूरं		दूरं	दूर{पुं;2;एक}/दूर{नपुं;1;एक}/दूर{नपुं;2;एक}	दूर{नपुं;2;एक}	कर्म,2	दूर_को					
-4	पित्रा		पित्रा	पितृ{पुं;3;एक}	पितृ{पुं;3;एक}	विशेषणम्,5	पिता_से					
-5	दशरथेन		दशरथेन	दशरथ{पुं;3;एक}/दशरथ{नपुं;3;एक}	दशरथ{पुं;3;एक}	समुच्चितः,1	दशरथ_से					
-6	च		च	च{अव्य}	च{अव्य}	समुच्चयद्योतकः,5	और					
-7	शृङ्गवेर-पुरे		शृङ्गवेरपुरे	शृङ्गवेर-पुर्{स्त्री;4;एक}/पुरि{स्त्री;8;एक}/पुर{पुं;7;एक}/पुर{नपुं;8;द्वि}/पुर{नपुं;1;द्वि}/पुर{नपुं;2;द्वि}/पुर{नपुं;7;एक}/पुरि{पुं;8;एक}/पुरि{नपुं;8;एक}/पुरि{नपुं;1;एक}/पुरि{नपुं;2;एक}/पुरा{स्त्री;8;एक}/पुरा{स्त्री;8;द्वि}/पुरा{स्त्री;1;द्वि}/पुरा{स्त्री;2;द्वि}	शृङ्गवेर-पुर{नपुं;7;एक}	अधिकरणम्,12	शृङ्गवेर-नगर_को		<शृङ्गवेर-पुरे>K1			
-8	सूतं		सूतं	सूत{पुं;2;एक}/सूत{पुं;2;एक(षू3;क्त;षू;:तुदादिः)}/सूत{नपुं;1;एक(षू3;क्त;षू;:तुदादिः)}/सूत{नपुं;2;एक(षू3;क्त;षू;:तुदादिः)}/सूत{पुं;2;एक(षू1;क्त;षूङ्;:अदादिः)}/सूत{नपुं;1;एक(षू1;क्त;षूङ्;:अदादिः)}/सूत{नपुं;2;एक(षू1;क्त;षूङ्;:अदादिः)}/सूत{पुं;2;एक(षू2;क्त;षूङ्;:दिवादिः)}/सूत{नपुं;1;एक(षू2;क्त;षूङ्;:दिवादिः)}/सूत{नपुं;2;एक(षू2;क्त;षूङ्;:दिवादिः)}	सूत{पुं;2;एक}	कर्म,10	सूत_को					
-9	गङ्गा-कूले		गङ्गाकूले	गङ्गा-कूल{नपुं;1;द्वि}/कूल{नपुं;2;द्वि}/कूल{नपुं;8;द्वि}/कूल{नपुं;7;एक}/कूल{पुं;7;एक}/कूला{स्त्री;8;एक}/कूला{स्त्री;8;द्वि}/कूला{स्त्री;1;द्वि}/कूला{स्त्री;2;द्वि}	गङ्गा-कूल{नपुं;7;एक}	अधिकरणम्,10	गङ्गा-किनारे		<गङ्गा-कूले>T6			
-10	व्यसर्जयत्		व्यसर्जयत्	वि_सृ2{कर्तरि;लङ्;प्र;एक;परस्मैपदी;सृज्;:तुदादिः}	वि_सृ2{कर्तरि;लङ्;प्र;एक;परस्मैपदी;सृज्;:तुदादिः}	अभिहित_कर्ता,17;सकर्मक	वि_सृ2_प्प्_स्क्या					
-11	गुहम्		गुहमासाद्य	गुह{पुं;2;एक}	गुह{पुं;2;एक}	कर्म,12	गुह_को					
-12	आसाद्य			आङ्_षद्1{अव्य;णिजन्त;ल्यप्;षदॢ;:भ्वादिः}	आङ्_षद्1{अव्य;णिजन्त;ल्यप्;षदॢ;:भ्वादिः}	पूर्वकालः,10			<आ-साद्य>Tg			
-13	धर्मात्मा		धर्मात्मा	धर्मात्मन्{पुं;1;एक}	धर्मात्मन्{पुं;1;एक}	कर्ता,10	धर्मात्मा		<धर्म-आत्मा>Bs6			
-14	निषादाधि-पतिं		निषादाधिपतिं	निषादाधि-पति{पुं;2;एक}	निषादाधि-पति{पुं;2;एक}	विशेषणम्,11	निषादाधि-पति_को		<निषाद-अधिपतिं>T6			
-15	प्रियम्		प्रियम्	प्रिय{पुं;2;एक}/प्रिय{नपुं;1;एक}/प्रिय{नपुं;2;एक}	प्रिय{पुं;2;एक}	विशेषणम्,11	प्रिय_को					
+1	pOrEH		pOrEranugawo	pOra{puM;3;bahu}/pOra{napuM;3;bahu}	pOra{puM;3;bahu}	karwA,2	pOroM_se					
+2	anugawaH			anuga{avya;wasil}/anugawa{puM;1;eka(gam1;kwa;gamLz;:BvAxiH)}	anugawa{puM;1;eka(gam1;kwa;gamLz;:BvAxiH)}	aBihiwa_karma,3;sakarmaka			<anu-gawaH>Tp			
+3	xUraM		xUraM	xUra{puM;2;eka}/xUra{napuM;1;eka}/xUra{napuM;2;eka}	xUra{napuM;2;eka}	karma,2	xUra_ko					
+4	piwrA		piwrA	piwq{puM;3;eka}	piwq{puM;3;eka}	viSeRaNam,5	piwA_se					
+5	xaSaraWena		xaSaraWena	xaSaraWa{puM;3;eka}/xaSaraWa{napuM;3;eka}	xaSaraWa{puM;3;eka}	samucciwaH,1	xaSaraWa_se					
+6	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,5	Ora					
+7	Sqfgavera-pure		Sqfgaverapure	Sqfgavera-pur{swrI;4;eka}/puri{swrI;8;eka}/pura{puM;7;eka}/pura{napuM;8;xvi}/pura{napuM;1;xvi}/pura{napuM;2;xvi}/pura{napuM;7;eka}/puri{puM;8;eka}/puri{napuM;8;eka}/puri{napuM;1;eka}/puri{napuM;2;eka}/purA{swrI;8;eka}/purA{swrI;8;xvi}/purA{swrI;1;xvi}/purA{swrI;2;xvi}	Sqfgavera-pura{napuM;7;eka}	aXikaraNam,12	Sqfgavera-nagara_ko		<Sqfgavera-pure>K1			
+8	sUwaM		sUwaM	sUwa{puM;2;eka}/sUwa{puM;2;eka(RU3;kwa;RU;:wuxAxiH)}/sUwa{napuM;1;eka(RU3;kwa;RU;:wuxAxiH)}/sUwa{napuM;2;eka(RU3;kwa;RU;:wuxAxiH)}/sUwa{puM;2;eka(RU1;kwa;RUf;:axAxiH)}/sUwa{napuM;1;eka(RU1;kwa;RUf;:axAxiH)}/sUwa{napuM;2;eka(RU1;kwa;RUf;:axAxiH)}/sUwa{puM;2;eka(RU2;kwa;RUf;:xivAxiH)}/sUwa{napuM;1;eka(RU2;kwa;RUf;:xivAxiH)}/sUwa{napuM;2;eka(RU2;kwa;RUf;:xivAxiH)}	sUwa{puM;2;eka}	karma,10	sUwa_ko					
+9	gafgA-kUle		gafgAkUle	gafgA-kUla{napuM;1;xvi}/kUla{napuM;2;xvi}/kUla{napuM;8;xvi}/kUla{napuM;7;eka}/kUla{puM;7;eka}/kUlA{swrI;8;eka}/kUlA{swrI;8;xvi}/kUlA{swrI;1;xvi}/kUlA{swrI;2;xvi}	gafgA-kUla{napuM;7;eka}	aXikaraNam,10	gafgA-kinAre		<gafgA-kUle>T6			
+10	vyasarjayaw		vyasarjayaw	vi_sq2{karwari;laf;pra;eka;parasmEpaxI;sqj;:wuxAxiH}	vi_sq2{karwari;laf;pra;eka;parasmEpaxI;sqj;:wuxAxiH}	aBihiwa_karwA,17;sakarmaka	vi_sq2_pp_skyA					
+11	guham		guhamAsAxya	guha{puM;2;eka}	guha{puM;2;eka}	karma,12	guha_ko					
+12	AsAxya			Af_Rax1{avya;Nijanwa;lyap;RaxL;:BvAxiH}	Af_Rax1{avya;Nijanwa;lyap;RaxL;:BvAxiH}	pUrvakAlaH,10			<A-sAxya>Tg			
+13	XarmAwmA		XarmAwmA	XarmAwman{puM;1;eka}	XarmAwman{puM;1;eka}	karwA,10	XarmAwmA		<Xarma-AwmA>Bs6			
+14	niRAxAXi-pawiM		niRAxAXipawiM	niRAxAXi-pawi{puM;2;eka}	niRAxAXi-pawi{puM;2;eka}	viSeRaNam,11	niRAxAXi-pawi_ko		<niRAxa-aXipawiM>T6			
+15	priyam		priyam	priya{puM;2;eka}/priya{napuM;1;eka}/priya{napuM;2;eka}	priya{puM;2;eka}	viSeRaNam,11	priya_ko					

@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	(सः)			तद्{सर्वनाम;पुं;1;एक}	तद्{सर्वनाम;पुं;1;एक}	विशेषणम्,2	वह					
-2	(रामः)			राम{पुं;1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	राम{पुं;1;एक}	कर्ता,12	राम					
-3	महा-उरस्कः		महोरस्को	महा-उरस्{क;पुं;1;एक}	महा-उरस्{क;पुं;1;एक}	विशेषणम्,6	गाय-उरस्		<महा-उरस्कः>Bs6			
-4	महा-इष्वासः		महेष्वासो	महा-इष्वास{पुं;1;एक}	महा-इष्वास{पुं;1;एक}	विशेषणम्,6	गाय-धनुर्धारी		<महा-इष्वासः>Bs6			
-5	गूढ-जत्रुः		गूढजत्रुररिन्दमः	गुह्1{क्त;गुहूँ;:भ्वादिः-जत्रु;पुं;1;एक}	गुह्1{क्त;गुहूँ;:भ्वादिः-जत्रु;पुं;1;एक}	विशेषणम्,6	गुह्1-जत्रु		<गूढ-जत्रुः>Bs6			
-6	अरिन्-दमः			अरिन्-दम{पुं;1;एक}	अरिन्-दम{पुं;1;एक}	समुच्चितः,10	अरिन्-दम		<अरि-दमः>U			
-7	आजानु-बाहुः		आजानुबाहुः	आजानु-बाहु{पुं;1;एक}	आजानु-बाहु{पुं;1;एक}	विशेषणम्,9	आजानु-भुजा		<आ-जानु>A1-बाहुः>Bs6			
-8	सु-शिराः		सुशिराः	सु-शिर{पुं;1;बहु}/शिर{पुं;8;बहु}/शिरा{स्त्री;8;बहु}/शिरा{स्त्री;1;बहु}/शिरा{स्त्री;2;बहु}/शिरस्{पुं;1;एक}	सु-शिरस्{पुं;1;एक}	विशेषणम्,9	सु-शिरस्		<सु-शिराः>Bsmg			
-9	सु-ललाटः		सुललाटः	सु-ललाट{पुं;1;एक}	सु-ललाट{पुं;1;एक}	समुच्चितः,10	सु-ललाट		<सु-ललाटः>Bsmg			
-10	सु-विक्रमः		सुविक्रमः	सु-विक्रम{पुं;1;एक(सु-क्रम्1;घञ्;क्रमुँ;:भ्वादिः)}/विक्रम{पुं;1;एक}	सु-विक्रम{पुं;1;एक}	विधेय_विशेषणम्,2	सु-विक्रम		<सु-विक्रमः>Bsmg			
-11	(च)			च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,10	और					
-12	(अस्ति)			अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,2	है					
+1	(saH)			wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viSeRaNam,2	vaha					
+2	(rAmaH)			rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	karwA,12	rAma					
+3	mahA-uraskaH		mahorasko	mahA-uras{ka;puM;1;eka}	mahA-uras{ka;puM;1;eka}	viSeRaNam,6	gAya-uras		<mahA-uraskaH>Bs6			
+4	mahA-iRvAsaH		maheRvAso	mahA-iRvAsa{puM;1;eka}	mahA-iRvAsa{puM;1;eka}	viSeRaNam,6	gAya-XanurXArI		<mahA-iRvAsaH>Bs6			
+5	gUDa-jawruH		gUDajawrurarinxamaH	guh1{kwa;guhUz;:BvAxiH-jawru;puM;1;eka}	guh1{kwa;guhUz;:BvAxiH-jawru;puM;1;eka}	viSeRaNam,6	guh1-jawru		<gUDa-jawruH>Bs6			
+6	arin-xamaH			arin-xama{puM;1;eka}	arin-xama{puM;1;eka}	samucciwaH,10	arin-xama		<ari-xamaH>U			
+7	AjAnu-bAhuH		AjAnubAhuH	AjAnu-bAhu{puM;1;eka}	AjAnu-bAhu{puM;1;eka}	viSeRaNam,9	AjAnu-BujA		<A-jAnu>A1-bAhuH>Bs6			
+8	su-SirAH		suSirAH	su-Sira{puM;1;bahu}/Sira{puM;8;bahu}/SirA{swrI;8;bahu}/SirA{swrI;1;bahu}/SirA{swrI;2;bahu}/Siras{puM;1;eka}	su-Siras{puM;1;eka}	viSeRaNam,9	su-Siras		<su-SirAH>Bsmg			
+9	su-lalAtaH		sulalAtaH	su-lalAta{puM;1;eka}	su-lalAta{puM;1;eka}	samucciwaH,10	su-lalAta		<su-lalAtaH>Bsmg			
+10	su-vikramaH		suvikramaH	su-vikrama{puM;1;eka(su-kram1;GaF;kramuz;:BvAxiH)}/vikrama{puM;1;eka}	su-vikrama{puM;1;eka}	viXeya_viSeRaNam,2	su-vikrama		<su-vikramaH>Bsmg			
+11	(ca)			ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora					
+12	(aswi)			as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,2	hE					

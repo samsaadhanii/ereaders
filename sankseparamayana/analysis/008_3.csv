@@ -1,8 +1,8 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	नियत-आत्मा		नियतात्मा	यत्1{घञ्;यतीँ;:भ्वादिः-आत्मन्;पुं;1;एक}	नि_यत्1{घञ्;यतीँ;:भ्वादिः-आत्मन्;पुं;1;एक}	विशेषणम्,2	यत्1-आत्मा		<नियत-आत्मा>Bs6			
-2	महा-वीर्यः		महावीर्यो	महा-वीर्य{पुं;1;एक(महा-वीर1;यत्;वीर;:चुरादिः)}	महा-वीर्य{पुं;1;एक(महा-वीर1;यत्;वीर;:चुरादिः)}	कर्ता,7	गाय-		<महा-वीर्यः>Bs6			
-3	द्युतिमान्		द्युतिमान्	द्युति{मतुप्;पुं;1;एक}	द्युति{मतुप्;पुं;1;एक}	समुच्चितः,5	द्युति					
-4	धृतिमान्		धृतिमान्	धृति{मतुप्;पुं;1;एक}	धृति{मतुप्;पुं;1;एक}	समुच्चितः,5	धृति					
-5	वशी		वशी	वशि{पुं;1;द्वि}/वशि{पुं;2;द्वि}/वशिन्{पुं;1;एक}/वशि{पुं;8;द्वि}	वशिन्{पुं;1;एक}	विधेय_विशेषणम्,2	जिसने_वश_कर_लिया_है_वह					
-6	(च)			च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और					
-7	(अस्ति)			अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,2	है					
+1	niyawa-AwmA		niyawAwmA	yaw1{GaF;yawIz;:BvAxiH-Awman;puM;1;eka}	ni_yaw1{GaF;yawIz;:BvAxiH-Awman;puM;1;eka}	viSeRaNam,2	yaw1-AwmA		<niyawa-AwmA>Bs6			
+2	mahA-vIryaH		mahAvIryo	mahA-vIrya{puM;1;eka(mahA-vIra1;yaw;vIra;:curAxiH)}	mahA-vIrya{puM;1;eka(mahA-vIra1;yaw;vIra;:curAxiH)}	karwA,7	gAya-		<mahA-vIryaH>Bs6			
+3	xyuwimAn		xyuwimAn	xyuwi{mawup;puM;1;eka}	xyuwi{mawup;puM;1;eka}	samucciwaH,5	xyuwi					
+4	XqwimAn		XqwimAn	Xqwi{mawup;puM;1;eka}	Xqwi{mawup;puM;1;eka}	samucciwaH,5	Xqwi					
+5	vaSI		vaSI	vaSi{puM;1;xvi}/vaSi{puM;2;xvi}/vaSin{puM;1;eka}/vaSi{puM;8;xvi}	vaSin{puM;1;eka}	viXeya_viSeRaNam,2	jisane_vaSa_kara_liyA_hE_vaha					
+6	(ca)			ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora					
+7	(aswi)			as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,2	hE					

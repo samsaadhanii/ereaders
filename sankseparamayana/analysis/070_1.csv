@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ततः		ततः	ततः{अव्य}	ततः{अव्य}	अपादानम्,3	वहाँ_से					
-2	सुग्रीव-वचनात्		सुग्रीववचनाद्धत्वा	सुग्रीव-वचन{नपुं;5;एक}	सुग्रीव-वचन{नपुं;5;एक}	अपादानम्,3	सुग्रीव-वचन_से		<सुग्रीव-वचनात्>T6			
-3	हत्वा			हन्1{अव्य;क्त्वा;हनँ;:अदादिः}	हन्1{अव्य;क्त्वा;हनँ;:अदादिः}	पूर्वकालः,10						
-4	वालिनम्		वालिनमाहवे	वालिन्{पुं;2;एक}	वालिन्{पुं;2;एक}	कर्म,3	वाली_को					
-5	आहवे			आहव{पुं;7;एक(हु1;घञ्;हु;:जुहोत्यादिः)}	आहव{पुं;7;एक(हु1;घञ्;हु;:जुहोत्यादिः)}	अधिकरणम्,3	युद्ध_में					
-6	सुग्रीवम्		सुग्रीवमेव	सुग्रीव{पुं;2;एक}/सुग्रीव{नपुं;1;एक}/सुग्रीव{नपुं;2;एक}	सुग्रीव{पुं;2;एक}/सुग्रीवनपुं;1;एक}/सुग्रीवनपुं;2;एक}	कर्म,10	सुग्रीव_को					
-7	एव			एव{अव्य}	एव{अव्य}	सम्बन्धः,6	ही		<तद्-राज्ये>T7			
-8	तद्राज्ये		तद्राज्ये	तद्राज्ये}	तद्राज्ये}	अधिकरणम्,10						
-9	राघवः		राघवः	राघव{पुं;1;एक}	राघव{पुं;1;एक}	कर्ता,10	रघुवंशी					
-10	प्रत्यपादयत्		प्रत्यपादयत्	प्रति_पद्1{णिजन्त;कर्तरि;लङ्;प्र;एक;परस्मैपदी;पदँ;:दिवादिः}	प्रति_पद्1{णिजन्त;कर्तरि;लङ्;प्र;एक;परस्मैपदी;पदँ;:दिवादिः}	अभिहित_कर्ता,9;सकर्मक						
+1	wawaH		wawaH	wawaH{avya}	wawaH{avya}	apAxAnam,3	vahAz_se					
+2	sugrIva-vacanAw		sugrIvavacanAxXawvA	sugrIva-vacana{napuM;5;eka}	sugrIva-vacana{napuM;5;eka}	apAxAnam,3	sugrIva-vacana_se		<sugrIva-vacanAw>T6			
+3	hawvA			han1{avya;kwvA;hanaz;:axAxiH}	han1{avya;kwvA;hanaz;:axAxiH}	pUrvakAlaH,10						
+4	vAlinam		vAlinamAhave	vAlin{puM;2;eka}	vAlin{puM;2;eka}	karma,3	vAlI_ko					
+5	Ahave			Ahava{puM;7;eka(hu1;GaF;hu;:juhowyAxiH)}	Ahava{puM;7;eka(hu1;GaF;hu;:juhowyAxiH)}	aXikaraNam,3	yuxXa_meM					
+6	sugrIvam		sugrIvameva	sugrIva{puM;2;eka}/sugrIva{napuM;1;eka}/sugrIva{napuM;2;eka}	sugrIva{puM;2;eka}/sugrIvanapuM;1;eka}/sugrIvanapuM;2;eka}	karma,10	sugrIva_ko					
+7	eva			eva{avya}	eva{avya}	sambanXaH,6	hI		<wax-rAjye>T7			
+8	waxrAjye		waxrAjye	waxrAjye}	waxrAjye}	aXikaraNam,10						
+9	rAGavaH		rAGavaH	rAGava{puM;1;eka}	rAGava{puM;1;eka}	karwA,10	raGuvaMSI					
+10	prawyapAxayaw		prawyapAxayaw	prawi_pax1{Nijanwa;karwari;laf;pra;eka;parasmEpaxI;paxaz;:xivAxiH}	prawi_pax1{Nijanwa;karwari;laf;pra;eka;parasmEpaxI;paxaz;:xivAxiH}	aBihiwa_karwA,9;sakarmaka						

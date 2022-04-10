@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	सुग्रीवः		सुग्रीवश्चापि	सुग्रीव{पुं;1;एक}	सुग्रीव{पुं;1;एक}	कर्ता,6	सुग्रीव					
-2	च			च{अव्य}	च{अव्य}	सम्बन्धः,1	और					
-3	अपि			अपि{अव्य}	अपि{अव्य}	सम्बन्धः,1	भी					
-4	तत्		तत्सर्वं	तत्{अव्य}/तद्{सर्वनाम;नपुं;1;एक}/तद्{सर्वनाम;नपुं;2;एक}	तद्सर्वनाम{नपुं;2;एक}	कर्म,6						
-5	सर्वं			सर्व{सर्वनाम;पुं;2;एक}/सर्व{सर्वनाम;नपुं;1;एक}/सर्व{सर्वनाम;नपुं;2;एक}	सर्वसर्वनाम{नपुं;2;एक}	विशेषणम्,4	सब_को					
-6	श्रुत्वा		श्रुत्वा	श्रु1{अव्य;क्त्वा;श्रु;:भ्वादिः}	श्रु1{अव्य;क्त्वा;श्रु;:भ्वादिः}	पूर्वकालः,9						
-7	रामस्य		रामस्य	राम{पुं;6;एक}	राम{पुं;6;एक}	षष्ठीसम्बन्धः,4	राम_का					
-8	वानरः		वानरः	वानर{पुं;1;एक}	वानर{पुं;1;एक}	विशेषणम्,1	बन्दर					
-9	चकार		चकार	कृ1{कर्तरि;लिट्;उ;एक;परस्मैपदी;कृञ्;:भ्वादिः}/कृ1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;कृञ्;:भ्वादिः}/कृ2{कर्तरि;लिट्;उ;एक;परस्मैपदी;कृञ्;:स्वादिः}/कृ2{कर्तरि;लिट्;प्र;एक;परस्मैपदी;कृञ्;:स्वादिः}/कृ3{कर्तरि;लिट्;उ;एक;परस्मैपदी;डुकृञ्;:तनादिः}/कृ3{कर्तरि;लिट्;प्र;एक;परस्मैपदी;डुकृञ्;:तनादिः}/कॄ1{कर्तरि;लिट्;उ;एक;परस्मैपदी;कॄ;:तुदादिः}/कॄ1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;कॄ;:तुदादिः}/कॄ2{कर्तरि;लिट्;उ;एक;परस्मैपदी;कॄञ्;:क्र्यादिः}/कॄ2{कर्तरि;लिट्;प्र;एक;परस्मैपदी;कॄञ्;:क्र्यादिः}/च-कार{पुं;8;एक}	कृ1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;कृञ्;:भ्वादिः}	अभिहित_कर्ता,1;सकर्मक	किया					
-10	सख्यं		सख्यं	सखी{स्त्री;2;एक}/सख्य{नपुं;1;एक}/सख्य{नपुं;2;एक}	सख्य{नपुं;2;एक}	कर्म,9	सखी_को					
-11	रामेण		रामेण	राम{पुं;3;एक}	राम{पुं;3;एक}	सहार्थः,9	राम_से					
-12	प्रीतः		प्रीतश्चैवाग्निसाक्षिकम्	प्री{अव्य;तसिल्}/प्रीत{पुं;1;एक(प्री1;क्त;प्रीङ्;:दिवादिः)}/प्रीत{पुं;1;एक(प्री2;क्त;प्रीञ्;:क्र्यादिः)}	प्रीत{पुं;1;एक(प्री2;क्त;प्रीञ्;:क्र्यादिः)}	विशेषणम्,1						
-13	च			च{अव्य}	च{अव्य}	सम्बन्धः,12	और					
-14	एव			एव{अव्य}	एव{अव्य}	सम्बन्धः,12	ही					
-15	अग्नि-साक्षिकम्			अग्नि-साक्षिन्{क;पुं;2;एक}/साक्षिन्{क;नपुं;1;एक}/साक्षिन्{क;नपुं;2;एक}	साक्षिन्क{नपुं;2;एक}	विशेषणम्,10	अग्नि-साक्षी_को		<अग्नि-साक्षिकम्>Bs6			
+1	sugrIvaH		sugrIvaScApi	sugrIva{puM;1;eka}	sugrIva{puM;1;eka}	karwA,6	sugrIva					
+2	ca			ca{avya}	ca{avya}	sambanXaH,1	Ora					
+3	api			api{avya}	api{avya}	sambanXaH,1	BI					
+4	waw		wawsarvaM	waw{avya}/wax{sarvanAma;napuM;1;eka}/wax{sarvanAma;napuM;2;eka}	waxsarvanAma{napuM;2;eka}	karma,6						
+5	sarvaM			sarva{sarvanAma;puM;2;eka}/sarva{sarvanAma;napuM;1;eka}/sarva{sarvanAma;napuM;2;eka}	sarvasarvanAma{napuM;2;eka}	viSeRaNam,4	saba_ko					
+6	SruwvA		SruwvA	Sru1{avya;kwvA;Sru;:BvAxiH}	Sru1{avya;kwvA;Sru;:BvAxiH}	pUrvakAlaH,9						
+7	rAmasya		rAmasya	rAma{puM;6;eka}	rAma{puM;6;eka}	RaRTIsambanXaH,4	rAma_kA					
+8	vAnaraH		vAnaraH	vAnara{puM;1;eka}	vAnara{puM;1;eka}	viSeRaNam,1	banxara					
+9	cakAra		cakAra	kq1{karwari;lit;u;eka;parasmEpaxI;kqF;:BvAxiH}/kq1{karwari;lit;pra;eka;parasmEpaxI;kqF;:BvAxiH}/kq2{karwari;lit;u;eka;parasmEpaxI;kqF;:svAxiH}/kq2{karwari;lit;pra;eka;parasmEpaxI;kqF;:svAxiH}/kq3{karwari;lit;u;eka;parasmEpaxI;dukqF;:wanAxiH}/kq3{karwari;lit;pra;eka;parasmEpaxI;dukqF;:wanAxiH}/kQ1{karwari;lit;u;eka;parasmEpaxI;kQ;:wuxAxiH}/kQ1{karwari;lit;pra;eka;parasmEpaxI;kQ;:wuxAxiH}/kQ2{karwari;lit;u;eka;parasmEpaxI;kQF;:kryAxiH}/kQ2{karwari;lit;pra;eka;parasmEpaxI;kQF;:kryAxiH}/ca-kAra{puM;8;eka}	kq1{karwari;lit;pra;eka;parasmEpaxI;kqF;:BvAxiH}	aBihiwa_karwA,1;sakarmaka	kiyA					
+10	saKyaM		saKyaM	saKI{swrI;2;eka}/saKya{napuM;1;eka}/saKya{napuM;2;eka}	saKya{napuM;2;eka}	karma,9	saKI_ko					
+11	rAmeNa		rAmeNa	rAma{puM;3;eka}	rAma{puM;3;eka}	sahArWaH,9	rAma_se					
+12	prIwaH		prIwaScEvAgnisAkRikam	prI{avya;wasil}/prIwa{puM;1;eka(prI1;kwa;prIf;:xivAxiH)}/prIwa{puM;1;eka(prI2;kwa;prIF;:kryAxiH)}	prIwa{puM;1;eka(prI2;kwa;prIF;:kryAxiH)}	viSeRaNam,1						
+13	ca			ca{avya}	ca{avya}	sambanXaH,12	Ora					
+14	eva			eva{avya}	eva{avya}	sambanXaH,12	hI					
+15	agni-sAkRikam			agni-sAkRin{ka;puM;2;eka}/sAkRin{ka;napuM;1;eka}/sAkRin{ka;napuM;2;eka}	sAkRinka{napuM;2;eka}	viSeRaNam,10	agni-sAkRI_ko		<agni-sAkRikam>Bs6			

@@ -1,29 +1,29 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	गुहेन		गुहेन	गुह{पुं;3;एक}	गुह{पुं;3;एक}	सहार्थः,2	गुह_से					
-2	सहितः		सहितो	सहितृ{पुं;8;एक}/सहितृ{नपुं;8;एक}/सहित{पुं;1;एक}	सहित{पुं;1;एक}	विधेय-विशेषणम्,3	सहितृ					
-3	रामः		रामो	राम{पुं;1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	राम{पुं;1;एक}	विधेय-विशेषणम्,7	राम					
-4	लक्ष्मणेन		लक्ष्मणेन	लक्ष्मण{पुं;3;एक}	लक्ष्मण{पुं;3;एक}	सहार्थः,2	लक्ष्मण_से					
-5	च		च	च{अव्य}	च{अव्य}	समुच्चयद्योतकः,6	और					
-6	सीतया		सीतया	सीता{स्त्री;3;एक}	सीता{स्त्री;3;एक}	समुच्चितः,4	सीता_से					
-7	ते		ते	तद्{सर्वनाम;पुं;1;बहु}/तद्{सर्वनाम;नपुं;1;द्वि}/तद्{सर्वनाम;नपुं;2;द्वि}/तद्{सर्वनाम;स्त्री;1;द्वि}/तद्{सर्वनाम;स्त्री;2;द्वि}/युष्मद्{सर्वनाम;4;एक}/युष्मद्{सर्वनाम;6;एक}	तद्{सर्वनाम;पुं;1;बहु}	कर्ता,10	वे					
-8	वनेन		वनेन	वन{नपुं;3;एक}	वन{नपुं;3;एक}	करणम्_वीप्सा,9	वन_से					
-9	वनं		वनं	वन{नपुं;1;एक}/वन{नपुं;2;एक}	वन{नपुं;2;एक}	कर्म,10	वन					
-10	गत्वा		गत्वा	गम्1{अव्य;क्त्वा;गमॢँ;:भ्वादिः}	गम्1{अव्य;क्त्वा;गमॢँ;:भ्वादिः}	पूर्वकालः,27						
-11	नदीः		नदीस्तीर्त्वा	नदी{स्त्री;2;बहु}	नदी{स्त्री;2;बहु}	कर्म,12	नदियों_को					
-12	तीर्त्वा			तॄ1{अव्य;क्त्वा;तॄ;:भ्वादिः}	तॄ1{अव्य;क्त्वा;तॄ;:भ्वादिः}	पूर्वकालः,27						
-13	बहूदकाः		बहूदकाः	बहूदक{पुं;1;बहु}	बहूदक{पुं;1;बहु}	विशेषणम्,11	बहूदक		<बहु-उदकाः>Bs6			
-14	चित्रकूटम्		चित्रकूटमनुप्राप्य	चित्रकूट{पुं;2;एक}/चित्रकूट{नपुं;1;एक}/चित्रकूट{नपुं;2;एक}	चित्रकूट{पुं;2;एक}	कर्म,15	चित्रकूट_को					
-15	अनु-प्राप्य			अनु-आप्1{अव्य;ल्यप्;आपॢँ;:स्वादिः}/आप्1{अव्य;ल्यप्;आपॢँ;:स्वादिः}/आप्2{अव्य;ल्यप्;आपॢँ;:चुरादिः}/आप्2{अव्य;ल्यप्;आपॢँ;:चुरादिः}	अनु-प्र_आप्1{अव्य;ल्यप्;आपॢँ;:स्वादिः}	पूर्वकालः,27			<अनु-प्राप्य>A1			
-16	भरद्वाजस्य		भरद्वाजस्य	भरद्वाज{पुं;6;एक}	भरद्वाज{पुं;6;एक}	षष्ठीसम्बन्धः,17	भरद्वाज_का					
-17	शासनात्		शासनात्	शासन{नपुं;5;एक}/शासन{नपुं;5;एक(शास्1;ल्युट्;शासुँ;:अदादिः)}	शासन{नपुं;5;एक}	हेतुः,18	शासन_से					
-18	रम्यम्		रम्यमावसथं	रम्य{पुं;2;एक}/रम्य{नपुं;1;एक}/रम्य{नपुं;2;एक}	रम्य{पुं;2;एक}	विशेषणम्,19	रम्य_को					
-19	आवसथं			आवसथ{पुं;2;एक}	आवसथ{पुं;2;एक}	कर्म,20	आवसथ_को					
-20	कृत्वा		कृत्वा	कृ2{अव्य;क्त्वा;कृञ्;:स्वादिः}/कृ3{अव्य;क्त्वा;डुकृञ्;:तनादिः}/कृ1{अव्य;क्त्वा;कृञ्;:भ्वादिः}	कृ2{अव्य;क्त्वा;कृञ्;:स्वादिः}	पूर्वकालः,27						
-21	रममाणाः		रममाणा	रममाण{पुं;1;बहु(रम्1;शानच्_लट्;कर्तरि;रमुँ;:भ्वादिः)}/रममाणा{स्त्री;1;बहु(रम्1;शानच्_लट्;कर्तरि;रमुँ;:भ्वादिः)}/रममाणा{स्त्री;2;बहु(रम्1;शानच्_लट्;कर्तरि;रमुँ;:भ्वादिः)}	रममाण{पुं;1;बहु(रम्1;शानच्_लट्;कर्तरि;रमुँ;:भ्वादिः)}	वर्तमानसमानकालः,27						
-22	वने		वने	वन{नपुं;1;द्वि}/वन{नपुं;2;द्वि}/वन{नपुं;8;द्वि}/वनि{पुं;8;एक}/वन{नपुं;7;एक}	वन{नपुं;7;एक}	अधिकरणम्,21	वन					
-23	त्रयः		त्रयः	त्रि{पुं;1;बहु}/त्रि{संख्येयम्;पुं;1;बहु}/त्रय{पुं;1;एक}/त्रि{पुं;8;बहु}	त्रि{पुं;1;बहु}	विशेषणम्,26	तीन					
-24	देव-गन्धर्व-सङ्काशाः		देवगन्धर्वसङ्काशास्तत्र	देव-गन्धर्व-सङ्काश{पुं;1;बहु}/सङ्काश{पुं;8;बहु}/सङ्काशा{स्त्री;8;बहु}/सङ्काशा{स्त्री;1;बहु}/सङ्काशा{स्त्री;2;बहु}	देव-गन्धर्व-सङ्काश{पुं;1;बहु}	विधेय-विशेषणम्,26	देव-गन्धर्व-सदृश		<<देव-गन्धर्व>Di-सङ्काशाः>Bsu			
-25	तत्र			तत्र{अव्य}	तत्र{अव्य}	अधिकरणम्,27	वहाँ					
-26	ते		ते	तद्{सर्वनाम;पुं;1;बहु}/तद्{सर्वनाम;नपुं;1;द्वि}/तद्{सर्वनाम;नपुं;2;द्वि}/तद्{सर्वनाम;स्त्री;1;द्वि}/तद्{सर्वनाम;स्त्री;2;द्वि}/युष्मद्{सर्वनाम;4;एक}/युष्मद्{सर्वनाम;6;एक}	तद्{सर्वनाम;पुं;1;बहु}	कर्ता,27	वे					
-27	न्यवसन्		न्यवसन्	नि_वस्1{कर्तरि;लङ्;प्र;बहु;परस्मैपदी;वसँ;:भ्वादिः}	नि_वस्1{कर्तरि;लङ्;प्र;बहु;परस्मैपदी;वसँ;:भ्वादिः}	अभिहित_कर्ता,26	निवास_किया					
-28	सुखम्		सुखम्	सुखम्{अव्य}/सुख{पुं;2;एक}/सुख{नपुं;1;एक}/सुख{नपुं;2;एक}	सुख{नपुं;2;एक}	कर्म,27						
+1	guhena		guhena	guha{puM;3;eka}	guha{puM;3;eka}	sahArWaH,2	guha_se					
+2	sahiwaH		sahiwo	sahiwq{puM;8;eka}/sahiwq{napuM;8;eka}/sahiwa{puM;1;eka}	sahiwa{puM;1;eka}	viXeya-viSeRaNam,3	sahiwq					
+3	rAmaH		rAmo	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	viXeya-viSeRaNam,7	rAma					
+4	lakRmaNena		lakRmaNena	lakRmaNa{puM;3;eka}	lakRmaNa{puM;3;eka}	sahArWaH,2	lakRmaNa_se					
+5	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora					
+6	sIwayA		sIwayA	sIwA{swrI;3;eka}	sIwA{swrI;3;eka}	samucciwaH,4	sIwA_se					
+7	we		we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	karwA,10	ve					
+8	vanena		vanena	vana{napuM;3;eka}	vana{napuM;3;eka}	karaNam_vIpsA,9	vana_se					
+9	vanaM		vanaM	vana{napuM;1;eka}/vana{napuM;2;eka}	vana{napuM;2;eka}	karma,10	vana					
+10	gawvA		gawvA	gam1{avya;kwvA;gamLz;:BvAxiH}	gam1{avya;kwvA;gamLz;:BvAxiH}	pUrvakAlaH,27						
+11	naxIH		naxIswIrwvA	naxI{swrI;2;bahu}	naxI{swrI;2;bahu}	karma,12	naxiyoM_ko					
+12	wIrwvA			wQ1{avya;kwvA;wQ;:BvAxiH}	wQ1{avya;kwvA;wQ;:BvAxiH}	pUrvakAlaH,27						
+13	bahUxakAH		bahUxakAH	bahUxaka{puM;1;bahu}	bahUxaka{puM;1;bahu}	viSeRaNam,11	bahUxaka		<bahu-uxakAH>Bs6			
+14	ciwrakUtam		ciwrakUtamanuprApya	ciwrakUta{puM;2;eka}/ciwrakUta{napuM;1;eka}/ciwrakUta{napuM;2;eka}	ciwrakUta{puM;2;eka}	karma,15	ciwrakUta_ko					
+15	anu-prApya			anu-Ap1{avya;lyap;ApLz;:svAxiH}/Ap1{avya;lyap;ApLz;:svAxiH}/Ap2{avya;lyap;ApLz;:curAxiH}/Ap2{avya;lyap;ApLz;:curAxiH}	anu-pra_Ap1{avya;lyap;ApLz;:svAxiH}	pUrvakAlaH,27			<anu-prApya>A1			
+16	BaraxvAjasya		BaraxvAjasya	BaraxvAja{puM;6;eka}	BaraxvAja{puM;6;eka}	RaRTIsambanXaH,17	BaraxvAja_kA					
+17	SAsanAw		SAsanAw	SAsana{napuM;5;eka}/SAsana{napuM;5;eka(SAs1;lyut;SAsuz;:axAxiH)}	SAsana{napuM;5;eka}	hewuH,18	SAsana_se					
+18	ramyam		ramyamAvasaWaM	ramya{puM;2;eka}/ramya{napuM;1;eka}/ramya{napuM;2;eka}	ramya{puM;2;eka}	viSeRaNam,19	ramya_ko					
+19	AvasaWaM			AvasaWa{puM;2;eka}	AvasaWa{puM;2;eka}	karma,20	AvasaWa_ko					
+20	kqwvA		kqwvA	kq2{avya;kwvA;kqF;:svAxiH}/kq3{avya;kwvA;dukqF;:wanAxiH}/kq1{avya;kwvA;kqF;:BvAxiH}	kq2{avya;kwvA;kqF;:svAxiH}	pUrvakAlaH,27						
+21	ramamANAH		ramamANA	ramamANa{puM;1;bahu(ram1;SAnac_lat;karwari;ramuz;:BvAxiH)}/ramamANA{swrI;1;bahu(ram1;SAnac_lat;karwari;ramuz;:BvAxiH)}/ramamANA{swrI;2;bahu(ram1;SAnac_lat;karwari;ramuz;:BvAxiH)}	ramamANa{puM;1;bahu(ram1;SAnac_lat;karwari;ramuz;:BvAxiH)}	varwamAnasamAnakAlaH,27						
+22	vane		vane	vana{napuM;1;xvi}/vana{napuM;2;xvi}/vana{napuM;8;xvi}/vani{puM;8;eka}/vana{napuM;7;eka}	vana{napuM;7;eka}	aXikaraNam,21	vana					
+23	wrayaH		wrayaH	wri{puM;1;bahu}/wri{saMKyeyam;puM;1;bahu}/wraya{puM;1;eka}/wri{puM;8;bahu}	wri{puM;1;bahu}	viSeRaNam,26	wIna					
+24	xeva-ganXarva-safkASAH		xevaganXarvasafkASAswawra	xeva-ganXarva-safkASa{puM;1;bahu}/safkASa{puM;8;bahu}/safkASA{swrI;8;bahu}/safkASA{swrI;1;bahu}/safkASA{swrI;2;bahu}	xeva-ganXarva-safkASa{puM;1;bahu}	viXeya-viSeRaNam,26	xeva-ganXarva-saxqSa		<<xeva-ganXarva>Di-safkASAH>Bsu			
+25	wawra			wawra{avya}	wawra{avya}	aXikaraNam,27	vahAz					
+26	we		we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	karwA,27	ve					
+27	nyavasan		nyavasan	ni_vas1{karwari;laf;pra;bahu;parasmEpaxI;vasaz;:BvAxiH}	ni_vas1{karwari;laf;pra;bahu;parasmEpaxI;vasaz;:BvAxiH}	aBihiwa_karwA,26	nivAsa_kiyA					
+28	suKam		suKam	suKam{avya}/suKa{puM;2;eka}/suKa{napuM;1;eka}/suKa{napuM;2;eka}	suKa{napuM;2;eka}	karma,27						

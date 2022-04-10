@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ततः		ततः	ततः{अव्य}	ततः{अव्य}	कालाधिकरणम्,9	वहाँ_से					
-2	प्रीत-मनाः		प्रीतमनास्तेन	प्री1{क्त;प्रीङ्;:दिवादिः}/प्री2{क्त;प्रीञ्;:क्र्यादिः-मन;पुं;8;बहु}/मन{पुं;1;बहु}/मना{स्त्री;8;बहु}/मना{स्त्री;1;बहु}/मना{स्त्री;2;बहु}/मनस्{पुं;1;एक}	प्री1{मनस्पुं;1;एक}	विधेय-विशेषणम्,6			<प्रीत-मनाः>Bs6			
-3	तेन			तद्{सर्वनाम;पुं;3;एक}/तद्{सर्वनाम;नपुं;3;एक}/तन्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;तनुँ;:तनादिः}	तद्{सर्वनाम;पुं;3;एक}	हेतुः,4	उससे					
-4	विश्वस्तः		विश्वस्तः	विश्वस्त{पुं;1;एक(श्वस्1;क्त;श्वसँ;:अदादिः)}	विश्वस्त{पुं;1;एक(श्वस्1;क्त;श्वसँ;:अदादिः)}	विधेय-विशेषणम्,6	विश्वस्त					
-5	सः		सः	तद्{सर्वनाम;पुं;1;एक}	तद्{सर्वनाम;पुं;1;एक}	विधेय-विशेषणम्,6	वह					
-6	महा-कपिः		महाकपिः	महा-कपि{पुं;1;एक}	महा-कपि{पुं;1;एक}	कर्ता,9	गाय-बंदर		<महा-कपिः>K1			
-7	किष्किन्धां		किष्किन्धां	किष्किन्धा{स्त्री;2;एक}	किष्किन्धा{स्त्री;2;एक}	विशेषणम्,11	किष्किन्धा_को					
-8	राम-सहितः		रामसहितो	राम-सहितृ{पुं;8;एक}/सहितृ{नपुं;8;एक}/सहित{पुं;1;एक}	राम-सहित{पुं;1;एक}	विधेय-विशेषणम्,6	राम-सहितृ		<राम-सहितः>T3			
-9	जगाम		जगाम	गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;:भ्वादिः}/गम्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;गमॢँ;:भ्वादिः}	गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;:भ्वादिः}	अभिहित_कर्ता,6;सकर्मक	गया					
-10	च		च	च{अव्य}	च{अव्य}	सम्बन्धः,9	और					
-11	गुहां		गुहां	गुहा{स्त्री;2;एक}	गुहा{स्त्री;2;एक}	कर्म,9	गुफा_को					
-12	तदा		तदा	तदा{अव्य}	तदा{अव्य}	सम्बन्धः,8	तब					
+1	wawaH		wawaH	wawaH{avya}	wawaH{avya}	kAlAXikaraNam,9	vahAz_se					
+2	prIwa-manAH		prIwamanAswena	prI1{kwa;prIf;:xivAxiH}/prI2{kwa;prIF;:kryAxiH-mana;puM;8;bahu}/mana{puM;1;bahu}/manA{swrI;8;bahu}/manA{swrI;1;bahu}/manA{swrI;2;bahu}/manas{puM;1;eka}	prI1{manaspuM;1;eka}	viXeya-viSeRaNam,6			<prIwa-manAH>Bs6			
+3	wena			wax{sarvanAma;puM;3;eka}/wax{sarvanAma;napuM;3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;:wanAxiH}	wax{sarvanAma;puM;3;eka}	hewuH,4	usase					
+4	viSvaswaH		viSvaswaH	viSvaswa{puM;1;eka(Svas1;kwa;Svasaz;:axAxiH)}	viSvaswa{puM;1;eka(Svas1;kwa;Svasaz;:axAxiH)}	viXeya-viSeRaNam,6	viSvaswa					
+5	saH		saH	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	viXeya-viSeRaNam,6	vaha					
+6	mahA-kapiH		mahAkapiH	mahA-kapi{puM;1;eka}	mahA-kapi{puM;1;eka}	karwA,9	gAya-baMxara		<mahA-kapiH>K1			
+7	kiRkinXAM		kiRkinXAM	kiRkinXA{swrI;2;eka}	kiRkinXA{swrI;2;eka}	viSeRaNam,11	kiRkinXA_ko					
+8	rAma-sahiwaH		rAmasahiwo	rAma-sahiwq{puM;8;eka}/sahiwq{napuM;8;eka}/sahiwa{puM;1;eka}	rAma-sahiwa{puM;1;eka}	viXeya-viSeRaNam,6	rAma-sahiwq		<rAma-sahiwaH>T3			
+9	jagAma		jagAma	gam1{karwari;lit;pra;eka;parasmEpaxI;gamLz;:BvAxiH}/gam1{karwari;lit;u;eka;parasmEpaxI;gamLz;:BvAxiH}	gam1{karwari;lit;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,6;sakarmaka	gayA					
+10	ca		ca	ca{avya}	ca{avya}	sambanXaH,9	Ora					
+11	guhAM		guhAM	guhA{swrI;2;eka}	guhA{swrI;2;eka}	karma,9	guPA_ko					
+12	waxA		waxA	waxA{avya}	waxA{avya}	sambanXaH,8	waba					

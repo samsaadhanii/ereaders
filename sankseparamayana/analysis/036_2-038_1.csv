@@ -1,26 +1,26 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	रामः		रामोऽपि	राम{पुं;1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	राम{पुं;1;एक}	कर्ता,8	राम					
-2	अपि			अपि{अव्य}	अपि{अव्य}	सम्बन्धः,10	भी					
-3	परम-उदारः		परमोदारः	परम-उत्_ऋ2{कर्तरि;लुङ्;म;एक;परस्मैपदी;ऋ;:जुहोत्यादिः}/परम-उदार{पुं;1;एक(ऋ1;घञ्;ऋ;:भ्वादिः)}/परम-उदार{पुं;1;एक(ऋ2;घञ्;ऋ;:जुहोत्यादिः)}	परम-उदार{पुं;1;एक(ऋ1;घञ्;ऋ;:भ्वादिः)}	विशेषणम्,1	उत्_ऋ2_प्प्_स्क्या		<परम-उदारः>K1			
-4	सुमुखः		सुमुखः	सुमुख{पुं;1;एक}	सुमुख{पुं;1;एक}	विशेषणम्,1	सुहावना		<सु-मुखः>Bsmg			
-5	सु-महा-यशाः		सुमहायशाः	सु-महा-यशस्{पुं;1;एक}	सु-महा-यशस्{पुं;1;एक}	विशेषणम्,1	सु-गाय-यशस्		<<सु-महा>K3-यशाः>Bs6			
-6	न		न	न{अव्य}	न{अव्य}	प्रतिषेधः,8	नहीं					
-7	च		चैच्छत्	च{अव्य}	च{अव्य}	सम्बन्धः,8	और					
-8	ऐच्छत्			इष्2{कर्तरि;लङ्;प्र;एक;परस्मैपदी;इषुँ;:तुदादिः}	इष्2{कर्तरि;लङ्;प्र;एक;परस्मैपदी;इषुँ;:तुदादिः}	अभिहित_कर्ता,1;सकर्मक	इच्छा_की					
-9	पितुः		पितुरादेशाद्राज्यं	पितृ{पुं;5;एक}/पितृ{पुं;6;एक}	पितृ{पुं;6;एक}	षष्ठीसम्बन्धः,10	पिता_से					
-10	आदेशात्			आदेश{पुं;5;एक(दिश्1;घञ्;दिशँ;:तुदादिः)}	आदेश{पुं;5;एक(दिश्1;घञ्;दिशँ;:तुदादिः)}	हेतुः,8	आदेश_से					
-11	राज्यं			राज्य{नपुं;1;एक}/राज्य{नपुं;2;एक}	राज्य{नपुं;2;एक}	कर्म,8	राज्य					
-12	रामः		रामो	राम{पुं;1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	राम{पुं;1;एक}	कर्ता,22	राम					
-13	महाबलः		महाबलः	महाबल{पुं;1;एक}	महाबल{पुं;1;एक}	विशेषणम्,12	बहुत_मजबूत		<महा-बलः>Bs6			
-14	पादुके		पादुके	पादुक{नपुं;1;द्वि}/पादुक{नपुं;2;द्वि}/पादुका{स्त्री;1;द्वि}/पादुका{स्त्री;2;द्वि}/पादुक{नपुं;8;द्वि}/पादुका{स्त्री;8;एक}/पादुका{स्त्री;8;द्वि}/पादुक{पुं;7;एक}/पादुक{नपुं;7;एक}	पादुका{स्त्री;2;द्वि}	कर्म,19	खडाऊँ					
-15	च		चास्य	च{अव्य}	च{अव्य}	समुच्चयद्योतकः,14	और					
-16	अस्य			इदम्{सर्वनाम;पुं;6;एक}/इदम्{सर्वनाम;नपुं;6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;:दिवादिः}	इदम्{सर्वनाम;पुं;6;एक}	षष्ठीसम्बन्धः,14	इसका					
-17	राज्याय		राज्याय	राज्य{नपुं;4;एक}	राज्य{नपुं;4;एक}	सम्प्रदानम्,19	राज्य_को					
-18	न्यासं		न्यासं	न्यास{पुं;2;एक}	न्यास{पुं;2;एक}	कर्म,19	धरोहर_को					
-19	दत्त्वा		दत्त्वा	दा1{अव्य;क्त्वा;दाण्;:भ्वादिः}	दा1{अव्य;क्त्वा;दाण्;:भ्वादिः}	पूर्वकालः,22						
-20	पुनः		पुनः	पुनः{अव्य}	पुनः{अव्य}	वीप्सा,21	फिर					
-21	पुनः		पुनः	पुनः{अव्य}	पुनः{अव्य}	वीप्सा,22	फिर					
-22	नि-वर्तयामास		निवर्तयामास	नि-वृत्1{णिजन्त;कर्तरि;लिट्;म;बहु;परस्मैपदी;वृतुँ;:भ्वादिः}/वृत्1{णिजन्त;कर्तरि;लिट्;म;बहु;आत्मनेपदी;वृतुँ;:भ्वादिः}/वृत्1{णिजन्त;कर्तरि;लिट्;प्र;एक;परस्मैपदी;वृतुँ;:भ्वादिः}/वृत्1{णिजन्त;कर्तरि;लिट्;प्र;एक;आत्मनेपदी;वृतुँ;:भ्वादिः}/वृत्1{णिजन्त;कर्तरि;लिट्;उ;एक;परस्मैपदी;वृतुँ;:भ्वादिः}/वृत्1{णिजन्त;कर्तरि;लिट्;उ;एक;आत्मनेपदी;वृतुँ;:भ्वादिः}/वृत्3{णिजन्त;कर्तरि;लिट्;म;बहु;परस्मैपदी;वृतुँ;:चुरादिः}/वृत्3{णिजन्त;कर्तरि;लिट्;म;बहु;आत्मनेपदी;वृतुँ;:चुरादिः}/वृत्3{णिजन्त;कर्तरि;लिट्;प्र;एक;परस्मैपदी;वृतुँ;:चुरादिः}/वृत्3{णिजन्त;कर्तरि;लिट्;प्र;एक;आत्मनेपदी;वृतुँ;:चुरादिः}/वृत्3{णिजन्त;कर्तरि;लिट्;उ;एक;परस्मैपदी;वृतुँ;:चुरादिः}/वृत्3{णिजन्त;कर्तरि;लिट्;उ;एक;आत्मनेपदी;वृतुँ;:चुरादिः}	वृत्1णिजन्त;कर्तरि;लिट्;प्र;एक;परस्मैपदी;वृतुँ;:भ्वादिः}	अभिहित_कर्ता,12;सकर्मक						
-23	ततः		ततो	ततः{अव्य}	ततः{अव्य}	अपादानम्,22	वहाँ_से					
-24	भरतं		भरतं	भरत{पुं;2;एक}	भरत{पुं;2;एक}/भृ1कर्तरि;लोट्;म;द्वि;परस्मैपदी;भृञ्;:भ्वादिः}	कर्म,22	भरत_को					
-25	भरताग्रजः		भरताग्रजः	भरताग्रज{पुं;1;एक}	भरताग्रज{पुं;1;एक}	विशेषणम्,12	भरताग्रज		<भरत-अग्रजः>T6			
+1	rAmaH		rAmoZpi	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	karwA,8	rAma					
+2	api			api{avya}	api{avya}	sambanXaH,10	BI					
+3	parama-uxAraH		paramoxAraH	parama-uw_q2{karwari;luf;ma;eka;parasmEpaxI;q;:juhowyAxiH}/parama-uxAra{puM;1;eka(q1;GaF;q;:BvAxiH)}/parama-uxAra{puM;1;eka(q2;GaF;q;:juhowyAxiH)}	parama-uxAra{puM;1;eka(q1;GaF;q;:BvAxiH)}	viSeRaNam,1	uw_q2_pp_skyA		<parama-uxAraH>K1			
+4	sumuKaH		sumuKaH	sumuKa{puM;1;eka}	sumuKa{puM;1;eka}	viSeRaNam,1	suhAvanA		<su-muKaH>Bsmg			
+5	su-mahA-yaSAH		sumahAyaSAH	su-mahA-yaSas{puM;1;eka}	su-mahA-yaSas{puM;1;eka}	viSeRaNam,1	su-gAya-yaSas		<<su-mahA>K3-yaSAH>Bs6			
+6	na		na	na{avya}	na{avya}	prawiReXaH,8	nahIM					
+7	ca		cEcCaw	ca{avya}	ca{avya}	sambanXaH,8	Ora					
+8	EcCaw			iR2{karwari;laf;pra;eka;parasmEpaxI;iRuz;:wuxAxiH}	iR2{karwari;laf;pra;eka;parasmEpaxI;iRuz;:wuxAxiH}	aBihiwa_karwA,1;sakarmaka	icCA_kI					
+9	piwuH		piwurAxeSAxrAjyaM	piwq{puM;5;eka}/piwq{puM;6;eka}	piwq{puM;6;eka}	RaRTIsambanXaH,10	piwA_se					
+10	AxeSAw			AxeSa{puM;5;eka(xiS1;GaF;xiSaz;:wuxAxiH)}	AxeSa{puM;5;eka(xiS1;GaF;xiSaz;:wuxAxiH)}	hewuH,8	AxeSa_se					
+11	rAjyaM			rAjya{napuM;1;eka}/rAjya{napuM;2;eka}	rAjya{napuM;2;eka}	karma,8	rAjya					
+12	rAmaH		rAmo	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	karwA,22	rAma					
+13	mahAbalaH		mahAbalaH	mahAbala{puM;1;eka}	mahAbala{puM;1;eka}	viSeRaNam,12	bahuwa_majabUwa		<mahA-balaH>Bs6			
+14	pAxuke		pAxuke	pAxuka{napuM;1;xvi}/pAxuka{napuM;2;xvi}/pAxukA{swrI;1;xvi}/pAxukA{swrI;2;xvi}/pAxuka{napuM;8;xvi}/pAxukA{swrI;8;eka}/pAxukA{swrI;8;xvi}/pAxuka{puM;7;eka}/pAxuka{napuM;7;eka}	pAxukA{swrI;2;xvi}	karma,19	KadAUz					
+15	ca		cAsya	ca{avya}	ca{avya}	samuccayaxyowakaH,14	Ora					
+16	asya			ixam{sarvanAma;puM;6;eka}/ixam{sarvanAma;napuM;6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;:xivAxiH}	ixam{sarvanAma;puM;6;eka}	RaRTIsambanXaH,14	isakA					
+17	rAjyAya		rAjyAya	rAjya{napuM;4;eka}	rAjya{napuM;4;eka}	sampraxAnam,19	rAjya_ko					
+18	nyAsaM		nyAsaM	nyAsa{puM;2;eka}	nyAsa{puM;2;eka}	karma,19	Xarohara_ko					
+19	xawwvA		xawwvA	xA1{avya;kwvA;xAN;:BvAxiH}	xA1{avya;kwvA;xAN;:BvAxiH}	pUrvakAlaH,22						
+20	punaH		punaH	punaH{avya}	punaH{avya}	vIpsA,21	Pira					
+21	punaH		punaH	punaH{avya}	punaH{avya}	vIpsA,22	Pira					
+22	ni-varwayAmAsa		nivarwayAmAsa	ni-vqw1{Nijanwa;karwari;lit;ma;bahu;parasmEpaxI;vqwuz;:BvAxiH}/vqw1{Nijanwa;karwari;lit;ma;bahu;AwmanepaxI;vqwuz;:BvAxiH}/vqw1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;vqwuz;:BvAxiH}/vqw1{Nijanwa;karwari;lit;pra;eka;AwmanepaxI;vqwuz;:BvAxiH}/vqw1{Nijanwa;karwari;lit;u;eka;parasmEpaxI;vqwuz;:BvAxiH}/vqw1{Nijanwa;karwari;lit;u;eka;AwmanepaxI;vqwuz;:BvAxiH}/vqw3{Nijanwa;karwari;lit;ma;bahu;parasmEpaxI;vqwuz;:curAxiH}/vqw3{Nijanwa;karwari;lit;ma;bahu;AwmanepaxI;vqwuz;:curAxiH}/vqw3{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;vqwuz;:curAxiH}/vqw3{Nijanwa;karwari;lit;pra;eka;AwmanepaxI;vqwuz;:curAxiH}/vqw3{Nijanwa;karwari;lit;u;eka;parasmEpaxI;vqwuz;:curAxiH}/vqw3{Nijanwa;karwari;lit;u;eka;AwmanepaxI;vqwuz;:curAxiH}	vqw1Nijanwa;karwari;lit;pra;eka;parasmEpaxI;vqwuz;:BvAxiH}	aBihiwa_karwA,12;sakarmaka						
+23	wawaH		wawo	wawaH{avya}	wawaH{avya}	apAxAnam,22	vahAz_se					
+24	BarawaM		BarawaM	Barawa{puM;2;eka}	Barawa{puM;2;eka}/Bq1karwari;lot;ma;xvi;parasmEpaxI;BqF;:BvAxiH}	karma,22	Barawa_ko					
+25	BarawAgrajaH		BarawAgrajaH	BarawAgraja{puM;1;eka}	BarawAgraja{puM;1;eka}	viSeRaNam,12	BarawAgraja		<Barawa-agrajaH>T6			

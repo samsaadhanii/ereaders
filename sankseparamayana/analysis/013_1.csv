@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	प्रजा-पति-समः		प्रजापतिसमः	प्रजा-पति-सम{सर्वनाम;पुं;1;एक}/सम{पुं;1;एक}	प्रजा-पति-सम{पुं;1;एक}	विशेषणम्,2	प्रजा-पति-समान		<<प्रजा-पति>T6-समः>T3			
-2	श्रीमान्		श्रीमान्	श्रीमत्{पुं;1;एक}/श्री{मतुप्;पुं;1;एक}	श्रीमत्{पुं;1;एक}	कर्ता,9	श्री_मान्					
-3	धाता		धाता	धातृ{पुं;1;एक}/धा1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;डुधाञ्;:जुहोत्यादिः}/धा1{कर्तरि;लुट्;प्र;एक;आत्मनेपदी;डुधाञ्;:जुहोत्यादिः}/धा1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;डुधाञ्;:जुहोत्यादिः}/धे1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;धेट्;:भ्वादिः}/धे1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;धेट्;:भ्वादिः}	धातृ{पुं;1;एक}	विधेय_विशेषणम्,2	पिएगा					
-4	रिपु-निषूदनः		रिपुनिषूदनः	रिपु-निषूदन{पुं;1;एक}	रिपु-निषूदन{पुं;1;एक}	विधेय_विशेषणम्,2	शत्रु-निषूदन		<रिपु-निषूदनः>U			
-5	रक्षिता		रक्षिता	रक्ष्1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;रक्षँ;:भ्वादिः}/रक्ष्1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;रक्षँ;:भ्वादिः}/रक्षितृ{पुं;1;एक(रक्ष्1;तृच्;रक्षँ;:भ्वादिः)}/रक्षिता{स्त्री;1;एक(रक्ष्1;क्त;रक्षँ;:भ्वादिः)}	रक्षिता{स्त्री;1;एक(रक्ष्1;क्त;रक्षँ;:भ्वादिः)}	विधेय_विशेषणम्,2	रक्षित					
-6	जीव-लोकस्य		जीवलोकस्य	जीव-लोक{पुं;6;एक}	जीव-लोक{पुं;6;एक}	षष्ठीसम्बन्धः,5	जीव-लोक		<जीव-लोकस्य>T6			
-7	धर्मस्य		धर्मस्य	धर्म{पुं;6;एक}	धर्म{पुं;6;एक}	षष्ठीसम्बन्धः,8	धर्म_की					
-8	परि-रक्षिता		परिरक्षिता	परि-रक्ष्1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;रक्षँ;:भ्वादिः}/रक्ष्1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;रक्षँ;:भ्वादिः}/परि-रक्षितृ{पुं;1;एक(रक्ष्1;तृच्;रक्षँ;:भ्वादिः)}/परि-रक्षिता{स्त्री;1;एक(रक्ष्1;क्त;रक्षँ;:भ्वादिः)}	परि-रक्षिता{स्त्री;1;एक(परि-रक्ष्1;क्त;रक्षँ;:भ्वादिः)}	विधेय_विशेषणम्,2	परि-रक्षित		<परि-रक्षिता>Tp			
-9	(अस्ति)			अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,2;सकर्मक	अस्2_प्प्_स्क्ती_है					
+1	prajA-pawi-samaH		prajApawisamaH	prajA-pawi-sama{sarvanAma;puM;1;eka}/sama{puM;1;eka}	prajA-pawi-sama{puM;1;eka}	viSeRaNam,2	prajA-pawi-samAna		<<prajA-pawi>T6-samaH>T3			
+2	SrImAn		SrImAn	SrImaw{puM;1;eka}/SrI{mawup;puM;1;eka}	SrImaw{puM;1;eka}	karwA,9	SrI_mAn					
+3	XAwA		XAwA	XAwq{puM;1;eka}/XA1{karwari;lut;pra;eka;parasmEpaxI;duXAF;:juhowyAxiH}/XA1{karwari;lut;pra;eka;AwmanepaxI;duXAF;:juhowyAxiH}/XA1{karmaNi;lut;pra;eka;AwmanepaxI;duXAF;:juhowyAxiH}/Xe1{karwari;lut;pra;eka;parasmEpaxI;Xet;:BvAxiH}/Xe1{karmaNi;lut;pra;eka;AwmanepaxI;Xet;:BvAxiH}	XAwq{puM;1;eka}	viXeya_viSeRaNam,2	piegA					
+4	ripu-niRUxanaH		ripuniRUxanaH	ripu-niRUxana{puM;1;eka}	ripu-niRUxana{puM;1;eka}	viXeya_viSeRaNam,2	Sawru-niRUxana		<ripu-niRUxanaH>U			
+5	rakRiwA		rakRiwA	rakR1{karwari;lut;pra;eka;parasmEpaxI;rakRaz;:BvAxiH}/rakR1{karmaNi;lut;pra;eka;AwmanepaxI;rakRaz;:BvAxiH}/rakRiwq{puM;1;eka(rakR1;wqc;rakRaz;:BvAxiH)}/rakRiwA{swrI;1;eka(rakR1;kwa;rakRaz;:BvAxiH)}	rakRiwA{swrI;1;eka(rakR1;kwa;rakRaz;:BvAxiH)}	viXeya_viSeRaNam,2	rakRiwa					
+6	jIva-lokasya		jIvalokasya	jIva-loka{puM;6;eka}	jIva-loka{puM;6;eka}	RaRTIsambanXaH,5	jIva-loka		<jIva-lokasya>T6			
+7	Xarmasya		Xarmasya	Xarma{puM;6;eka}	Xarma{puM;6;eka}	RaRTIsambanXaH,8	Xarma_kI					
+8	pari-rakRiwA		parirakRiwA	pari-rakR1{karwari;lut;pra;eka;parasmEpaxI;rakRaz;:BvAxiH}/rakR1{karmaNi;lut;pra;eka;AwmanepaxI;rakRaz;:BvAxiH}/pari-rakRiwq{puM;1;eka(rakR1;wqc;rakRaz;:BvAxiH)}/pari-rakRiwA{swrI;1;eka(rakR1;kwa;rakRaz;:BvAxiH)}	pari-rakRiwA{swrI;1;eka(pari-rakR1;kwa;rakRaz;:BvAxiH)}	viXeya_viSeRaNam,2	pari-rakRiwa		<pari-rakRiwA>Tp			
+9	(aswi)			as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,2;sakarmaka	as2_pp_skwI_hE					

@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	अनुमान्य		अनुमान्य	मान्1{अव्य;ल्यप्;मानँ;:भ्वादिः}/मान्2{अव्य;ल्यप्;मानँ;:चुरादिः}	अनु_मान्1{अव्य;ल्यप्;मानँ;:भ्वादिः}	पूर्वकालः,5			<अनु-मान्य>Tg			
-2	तदा		तदा	तदा{अव्य}	तदा{अव्य}	कालाधिकरणम्,5	तब					
-3	तारां		तारां	तारा{स्त्री;2;एक}	तारा{स्त्री;2;एक}	कर्म,5	तारा_को					
-4	सुग्रीवेण		सुग्रीवेण	सुग्रीव{पुं;3;एक}/सुग्रीव{नपुं;3;एक}	सुग्रीव{पुं;3;एक}	करणम्,5	सुग्रीव_से					
-5	समागतः		समागतः	समागत{पुं;1;एक}	समागत{पुं;1;एक(गम्1;क्त;गमॢ;:भ्वादिः)}	वर्तमानसमानकालः,6	आया_हुवा		<सम्-आ-गतः>Tp			
-6	नि-जघान		निजघान	नि-हन्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;हनँ;:अदादिः}/हन्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;हनँ;:अदादिः}	नि-हन्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;हनँ;:अदादिः}	अभिहित_कर्ता,12;सकर्मक	मारा					
-7	च		च	च{अव्य}	च{अव्य}	सम्बन्धः,12	और					
-8	तत्र		तत्रैनं	तत्र{अव्य}	तत्र{अव्य}	अधिकरणम्,11	वहाँ					
-9	एनं			इदम्{सर्वनाम;पुं;2;एक}	इदम्{सर्वनाम;पुं;2;एक}	कर्म,6	इसको					
-10	शरेण		शरेणैकेन	शर{पुं;3;एक}/शर{नपुं;3;एक}	शर{पुं;3;एक}	करणम्,6	बाण_से					
-11	एकेन			एक{संख्येयम्;पुं;3;एक}/एक{संख्येयम्;नपुं;3;एक}	एक{संख्येयम्;पुं;3;एक}	विशेषणम्,10	एक_से					
-12	राघवः		राघवः	राघव{पुं;1;एक}	राघव{पुं;1;एक}	कर्ता,6	रघुवंशी					
+1	anumAnya		anumAnya	mAn1{avya;lyap;mAnaz;:BvAxiH}/mAn2{avya;lyap;mAnaz;:curAxiH}	anu_mAn1{avya;lyap;mAnaz;:BvAxiH}	pUrvakAlaH,5			<anu-mAnya>Tg			
+2	waxA		waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,5	waba					
+3	wArAM		wArAM	wArA{swrI;2;eka}	wArA{swrI;2;eka}	karma,5	wArA_ko					
+4	sugrIveNa		sugrIveNa	sugrIva{puM;3;eka}/sugrIva{napuM;3;eka}	sugrIva{puM;3;eka}	karaNam,5	sugrIva_se					
+5	samAgawaH		samAgawaH	samAgawa{puM;1;eka}	samAgawa{puM;1;eka(gam1;kwa;gamL;:BvAxiH)}	varwamAnasamAnakAlaH,6	AyA_huvA		<sam-A-gawaH>Tp			
+6	ni-jaGAna		nijaGAna	ni-han1{karwari;lit;pra;eka;parasmEpaxI;hanaz;:axAxiH}/han1{karwari;lit;u;eka;parasmEpaxI;hanaz;:axAxiH}	ni-han1{karwari;lit;pra;eka;parasmEpaxI;hanaz;:axAxiH}	aBihiwa_karwA,12;sakarmaka	mArA					
+7	ca		ca	ca{avya}	ca{avya}	sambanXaH,12	Ora					
+8	wawra		wawrEnaM	wawra{avya}	wawra{avya}	aXikaraNam,11	vahAz					
+9	enaM			ixam{sarvanAma;puM;2;eka}	ixam{sarvanAma;puM;2;eka}	karma,6	isako					
+10	SareNa		SareNEkena	Sara{puM;3;eka}/Sara{napuM;3;eka}	Sara{puM;3;eka}	karaNam,6	bANa_se					
+11	ekena			eka{saMKyeyam;puM;3;eka}/eka{saMKyeyam;napuM;3;eka}	eka{saMKyeyam;puM;3;eka}	viSeRaNam,10	eka_se					
+12	rAGavaH		rAGavaH	rAGava{puM;1;eka}	rAGava{puM;1;eka}	karwA,6	raGuvaMSI					

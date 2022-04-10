@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	तेन		तेन	तद्{सर्वनाम;पुं;3;एक}/तद्{सर्वनाम;नपुं;3;एक}/तन्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;तनुँ;:तनादिः}	तद्{सर्वनाम;पुं;3;एक}	कर्ता,6	उससे					
-2	तत्र		तत्रैव	तत्र{अव्य}	तत्र{अव्य}	अधिकरणम्,4	वहाँ					
-3	एव			एव{अव्य}	एव{अव्य}	सम्बन्धः,4	ही					
-4	वसता		वसता	वसत्{पुं;3;एक(वस्1;शतृ_लट्;वसँ;:भ्वादिः)}/वसत्{नपुं;3;एक(वस्1;शतृ_लट्;वसँ;:भ्वादिः)}	वसत्{पुं;3;एक(वस्1;शतृ_लट्;वसँ;:भ्वादिः)}	वर्तमानसमानकालः,6						
-5	जन-स्थान-निवासिनी		जनस्थाननिवासिनी	जन-ष्था1{ल्युट्;ष्था;:भ्वादिः-निवासिनी;स्त्री;1;एक}	जन-ष्था1{ल्युट्;ष्था;:भ्वादिः-निवासिनी;स्त्री;1;एक}	विशेषणम्,7	जन-ष्था1-निवासिनी		<<जन-स्थान>T6-निवासिनी>T7			
-6	विरूपिता		विरूपिता	विरूपिन्{तल्;स्त्री;1;एक}	विरूपिन्{तल्;स्त्री;1;एक}	अभिहित_कर्म,7;सकर्मक	विरूपिन्					
-7	शूर्पणखा		शूर्पणखा	शूर्पणखा{स्त्री;1;एक}	शूर्पणखा{स्त्री;1;एक}	कर्म,6	शूर्पणखा					
-8	राक्षसी		राक्षसी	राक्षसी{स्त्री;1;एक}	राक्षसी{स्त्री;1;एक}	विशेषणम्,7	राक्षसी					
-9	काम-रूपिणी		कामरूपिणी	काम-रूपिन्{नपुं;1;द्वि}/रूपिन्{नपुं;2;द्वि}/रूपिन्{नपुं;8;द्वि}	काम-रूपिन्{स्त्री;1;एक}	विशेषणम्,7	काम-रूपी		<काम-रूपिणी>Bs6			
+1	wena		wena	wax{sarvanAma;puM;3;eka}/wax{sarvanAma;napuM;3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;:wanAxiH}	wax{sarvanAma;puM;3;eka}	karwA,6	usase					
+2	wawra		wawrEva	wawra{avya}	wawra{avya}	aXikaraNam,4	vahAz					
+3	eva			eva{avya}	eva{avya}	sambanXaH,4	hI					
+4	vasawA		vasawA	vasaw{puM;3;eka(vas1;Sawq_lat;vasaz;:BvAxiH)}/vasaw{napuM;3;eka(vas1;Sawq_lat;vasaz;:BvAxiH)}	vasaw{puM;3;eka(vas1;Sawq_lat;vasaz;:BvAxiH)}	varwamAnasamAnakAlaH,6						
+5	jana-sWAna-nivAsinI		janasWAnanivAsinI	jana-RWA1{lyut;RWA;:BvAxiH-nivAsinI;swrI;1;eka}	jana-RWA1{lyut;RWA;:BvAxiH-nivAsinI;swrI;1;eka}	viSeRaNam,7	jana-RWA1-nivAsinI		<<jana-sWAna>T6-nivAsinI>T7			
+6	virUpiwA		virUpiwA	virUpin{wal;swrI;1;eka}	virUpin{wal;swrI;1;eka}	aBihiwa_karma,7;sakarmaka	virUpin					
+7	SUrpaNaKA		SUrpaNaKA	SUrpaNaKA{swrI;1;eka}	SUrpaNaKA{swrI;1;eka}	karma,6	SUrpaNaKA					
+8	rAkRasI		rAkRasI	rAkRasI{swrI;1;eka}	rAkRasI{swrI;1;eka}	viSeRaNam,7	rAkRasI					
+9	kAma-rUpiNI		kAmarUpiNI	kAma-rUpin{napuM;1;xvi}/rUpin{napuM;2;xvi}/rUpin{napuM;8;xvi}	kAma-rUpin{swrI;1;eka}	viSeRaNam,7	kAma-rUpI		<kAma-rUpiNI>Bs6			

@@ -1,7 +1,7 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	त्वं		त्वं	युष्मद्{सर्वनाम;1;एक}	युष्मद्{सर्वनाम;1;एक}	कर्ता,3	तुम					
-2	समर्थः		समर्थोऽसि	समर्थ{पुं;1;एक(अर्थ1;घञ्;अर्थ;:चुरादिः)}	समर्थ{पुं;1;एक(अर्थ1;घञ्;अर्थ;:चुरादिः)}	विशेषणम्,1	समर्थ		<सम्-अर्थः>Tp			
-3	असि			अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,1	हो					
-4	ज्ञातुम्		ज्ञातुमेवं-विधं	ज्ञा1{अव्य;तुमुन्;ज्ञा;:क्र्यादिः}	ज्ञा1{अव्य;तुमुन्;ज्ञा;:क्र्यादिः}	पूर्वकालः,3						
-5	एवं-विधं			एवं-विध{पुं;2;एक}/विध{नपुं;1;एक}/विध{नपुं;2;एक}	एवं-विध{पुं;2;एक}	विशेषणम्,6	एवं-प्रकार_को		<एवं-विधं>Bs6			
-6	नरम्		नरम्	नृ{पुं;2;एक}/नर{पुं;2;एक}	नृ{पुं;2;एक}	कर्म,4	मनुष्य_को					
+1	wvaM		wvaM	yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,3	wuma					
+2	samarWaH		samarWoZsi	samarWa{puM;1;eka(arWa1;GaF;arWa;:curAxiH)}	samarWa{puM;1;eka(arWa1;GaF;arWa;:curAxiH)}	viSeRaNam,1	samarWa		<sam-arWaH>Tp			
+3	asi			as2{karwari;lat;ma;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,1	ho					
+4	jFAwum		jFAwumevaM-viXaM	jFA1{avya;wumun;jFA;:kryAxiH}	jFA1{avya;wumun;jFA;:kryAxiH}	pUrvakAlaH,3						
+5	evaM-viXaM			evaM-viXa{puM;2;eka}/viXa{napuM;1;eka}/viXa{napuM;2;eka}	evaM-viXa{puM;2;eka}	viSeRaNam,6	evaM-prakAra_ko		<evaM-viXaM>Bs6			
+6	naram		naram	nq{puM;2;eka}/nara{puM;2;eka}	nq{puM;2;eka}	karma,4	manuRya_ko					

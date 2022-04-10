@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	पठन्		पठन्	पठत्{पुं;1;एक(पठ्1;शतृ_लट्;पठँ;:भ्वादिः)}	पठत्{पुं;1;एक(पठ्1;शतृ_लट्;पठँ;:भ्वादिः)}	वर्तमानसमानकालः,4	पढता_हुआ					
-2	द्विजः		द्विजो	द्विज{पुं;1;एक}	द्विज{पुं;1;एक}	कर्ता,4	ब्राह्मण					
-3	वाक्-ऋषभत्वम्		वाग्ऋषभत्वमीयात्	वाक्-ऋषभ{त्व;नपुं;1;एक}/ऋषभ{त्व;नपुं;2;एक}	वाक्-ऋषभत्व{नपुं;2;एक}	कर्म,4	वाक्-ऋषभ					
-4	ईयात्			इ1{कर्तरि;आशीर्लिङ्;प्र;एक;परस्मैपदी;इण्;:अदादिः}	इ1{कर्तरि;आशीर्लिङ्;प्र;एक;परस्मैपदी;इण्;:अदादिः}	अभिहित_कर्ता,2;सकर्मक	जाये					
-5	स्यात्		स्यात्	अस्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	सम्बन्धः,6	हो					
-6	क्षत्रियः		क्षत्रियो	क्षत्रिय{पुं;1;एक}	क्षत्रिय{पुं;1;एक}	कर्ता,8	क्षत्रिय					
-7	भूमि-पतित्वम्		भूमिपतित्वमीयात्	भूमि-पति{त्व;नपुं;1;एक}/पति{त्व;नपुं;2;एक}	भूमि-पतित्व{नपुं;2;एक}	कर्म,8	भूमि-पति		<भूमि-पतित्वम्>T6			
-8	ईयात्			इ1{कर्तरि;आशीर्लिङ्;प्र;एक;परस्मैपदी;इण्;:अदादिः}	इ1{कर्तरि;आशीर्लिङ्;प्र;एक;परस्मैपदी;इण्;:अदादिः}	अभिहित_कर्ता,6;सकर्मक	जाये					
-9	वणिक्		वणिग्जनः	वणिज्{पुं;1;एक}/वणिज्{पुं;8;एक}	वणिज्{पुं;1;एक}	विशेषणम्,10	सौदागर					
-10	जनः			जन{पुं;1;एक}	जन{पुं;1;एक}	कर्ता,12	जन					
-11	पण्य-फलत्वम्		पण्यफलत्वमीयाज्जनश्च	पण्1{यत्;पणँ;:भ्वादिः-फलत्वम्}	पण्1-यत्;पणँ;:भ्वादिः-फलत्वम्{नपुं;2;एक}	कर्म,12	पण्1-		<पण्य-फलत्वम्>T6			
-12	ईयात्			इ1{कर्तरि;आशीर्लिङ्;प्र;एक;परस्मैपदी;इण्;:अदादिः}	इ1{कर्तरि;आशीर्लिङ्;प्र;एक;परस्मैपदी;इण्;:अदादिः}	अभिहित_कर्ता,10;सकर्मक	जाये					
-13	जनः			जन{पुं;1;एक}	जन{पुं;1;एक}	कर्ता,18	जन					
-14	च			च{अव्य}	च{अव्य}	सम्बन्धः,18	और					
-15	शूद्रः		शूद्रोऽपि	शूद्र{पुं;1;एक}	शूद्र{पुं;1;एक}	विशेषणम्,13	शूद्र					
-16	अपि			अपि{अव्य}	अपि{अव्य}	सम्बन्धः,18	भी					
-17	महत्त्वम्		महत्त्वमीयात्	महत्त्व{नपुं;1;एक}/महत्त्व{नपुं;2;एक}	महत्त्व{नपुं;2;एक}	कर्म,18	महत्त्व					
-18	ईयात्			इ1{कर्तरि;आशीर्लिङ्;प्र;एक;परस्मैपदी;इण्;:अदादिः}	इ1{कर्तरि;आशीर्लिङ्;प्र;एक;परस्मैपदी;इण्;:अदादिः}	अभिहित_कर्ता,13;सकर्मक	जाये					
+1	paTan		paTan	paTaw{puM;1;eka(paT1;Sawq_lat;paTaz;:BvAxiH)}	paTaw{puM;1;eka(paT1;Sawq_lat;paTaz;:BvAxiH)}	varwamAnasamAnakAlaH,4	paDawA_huA					
+2	xvijaH		xvijo	xvija{puM;1;eka}	xvija{puM;1;eka}	karwA,4	brAhmaNa					
+3	vAk-qRaBawvam		vAgqRaBawvamIyAw	vAk-qRaBa{wva;napuM;1;eka}/qRaBa{wva;napuM;2;eka}	vAk-qRaBawva{napuM;2;eka}	karma,4	vAk-qRaBa					
+4	IyAw			i1{karwari;ASIrlif;pra;eka;parasmEpaxI;iN;:axAxiH}	i1{karwari;ASIrlif;pra;eka;parasmEpaxI;iN;:axAxiH}	aBihiwa_karwA,2;sakarmaka	jAye					
+5	syAw		syAw	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;:axAxiH}	sambanXaH,6	ho					
+6	kRawriyaH		kRawriyo	kRawriya{puM;1;eka}	kRawriya{puM;1;eka}	karwA,8	kRawriya					
+7	BUmi-pawiwvam		BUmipawiwvamIyAw	BUmi-pawi{wva;napuM;1;eka}/pawi{wva;napuM;2;eka}	BUmi-pawiwva{napuM;2;eka}	karma,8	BUmi-pawi		<BUmi-pawiwvam>T6			
+8	IyAw			i1{karwari;ASIrlif;pra;eka;parasmEpaxI;iN;:axAxiH}	i1{karwari;ASIrlif;pra;eka;parasmEpaxI;iN;:axAxiH}	aBihiwa_karwA,6;sakarmaka	jAye					
+9	vaNik		vaNigjanaH	vaNij{puM;1;eka}/vaNij{puM;8;eka}	vaNij{puM;1;eka}	viSeRaNam,10	sOxAgara					
+10	janaH			jana{puM;1;eka}	jana{puM;1;eka}	karwA,12	jana					
+11	paNya-Palawvam		paNyaPalawvamIyAjjanaSca	paN1{yaw;paNaz;:BvAxiH-Palawvam}	paN1-yaw;paNaz;:BvAxiH-Palawvam{napuM;2;eka}	karma,12	paN1-		<paNya-Palawvam>T6			
+12	IyAw			i1{karwari;ASIrlif;pra;eka;parasmEpaxI;iN;:axAxiH}	i1{karwari;ASIrlif;pra;eka;parasmEpaxI;iN;:axAxiH}	aBihiwa_karwA,10;sakarmaka	jAye					
+13	janaH			jana{puM;1;eka}	jana{puM;1;eka}	karwA,18	jana					
+14	ca			ca{avya}	ca{avya}	sambanXaH,18	Ora					
+15	SUxraH		SUxroZpi	SUxra{puM;1;eka}	SUxra{puM;1;eka}	viSeRaNam,13	SUxra					
+16	api			api{avya}	api{avya}	sambanXaH,18	BI					
+17	mahawwvam		mahawwvamIyAw	mahawwva{napuM;1;eka}/mahawwva{napuM;2;eka}	mahawwva{napuM;2;eka}	karma,18	mahawwva					
+18	IyAw			i1{karwari;ASIrlif;pra;eka;parasmEpaxI;iN;:axAxiH}	i1{karwari;ASIrlif;pra;eka;parasmEpaxI;iN;:axAxiH}	aBihiwa_karwA,13;sakarmaka	jAye					

@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ताम्		तामुवाच	तद्{सर्वनाम;स्त्री;2;एक}/ता{स्त्री;2;एक}	तद्{सर्वनाम;स्त्री;2;एक}	मुख्यकर्म,2	उसको					
-2	उवाच			वच्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;वचँ;:अदादिः}/वच्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;वचँ;:अदादिः}	वच्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;वचँ;:अदादिः}	अभिहित_कर्ता,4;सकर्मक	बोला					
-3	ततः		ततो	ततः{अव्य}	ततः{अव्य}	सम्बन्धः,2	वहाँ_से					
-4	रामः		रामः	राम{पुं;1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	राम{पुं;1;एक}	कर्ता,2	राम					
-5	परुषं		परुषं	परुष{पुं;2;एक}/परुष{नपुं;1;एक}/परुष{नपुं;2;एक}	परुष{नपुं;2;एक}	गौणकर्म,2	कठोर_को					
-6	जन-संसदि		जनसंसदि	जन-संसद्{स्त्री;7;एक}	जन-संसद्{स्त्री;7;एक}	अधिकरणम्,2	जन-सभा_में		<जन-संसदि>T6			
-7	अमृष्यमाणा		अमृष्यमाणा	अमृष्यमाणा}	अमृष्यमाणा{स्त्री;1;एक}	विशेषणम्,9			<न-मृष्यमाणा>Tn			
-8	सा		सा	तद्{सर्वनाम;स्त्री;1;एक}	तद्{सर्वनाम;स्त्री;1;एक}	विशेषणम्,9	वह					
-9	सीता		सीता	सीता{स्त्री;1;एक}	सीता{स्त्री;1;एक}	कर्ता,10	सीता					
-10	विवेश		विवेश	विश्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;विशँ;:तुदादिः}/विश्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;विशँ;:तुदादिः}	विश्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;विशँ;:तुदादिः}	अभिहित_कर्ता,9;सकर्मक	अन्दर_प्रवेश_किया					
-11	ज्वलनं		ज्वलनं	ज्वलन{पुं;2;एक}/ज्वलन{नपुं;1;एक(ज्वल्1;ल्युट्;ज्वलँ;:भ्वादिः)}/ज्वलन{नपुं;2;एक(ज्वल्1;ल्युट्;ज्वलँ;:भ्वादिः)}	ज्वलन{नपुं;2;एक(ज्वल्1;ल्युट्;ज्वलँ;:भ्वादिः)}	कर्म,10	आग_को					
-12	सती		सती	सती{स्त्री;1;एक}/सति{स्त्री;1;द्वि}/सति{स्त्री;2;द्वि}/सति{स्त्री;8;द्वि}	सती{स्त्री;1;एक}	विशेषणम्,9	सती					
+1	wAm		wAmuvAca	wax{sarvanAma;swrI;2;eka}/wA{swrI;2;eka}	wax{sarvanAma;swrI;2;eka}	muKyakarma,2	usako					
+2	uvAca			vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}/vac1{karwari;lit;u;eka;parasmEpaxI;vacaz;:axAxiH}	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;:axAxiH}	aBihiwa_karwA,4;sakarmaka	bolA					
+3	wawaH		wawo	wawaH{avya}	wawaH{avya}	sambanXaH,2	vahAz_se					
+4	rAmaH		rAmaH	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	karwA,2	rAma					
+5	paruRaM		paruRaM	paruRa{puM;2;eka}/paruRa{napuM;1;eka}/paruRa{napuM;2;eka}	paruRa{napuM;2;eka}	gONakarma,2	kaTora_ko					
+6	jana-saMsaxi		janasaMsaxi	jana-saMsax{swrI;7;eka}	jana-saMsax{swrI;7;eka}	aXikaraNam,2	jana-saBA_meM		<jana-saMsaxi>T6			
+7	amqRyamANA		amqRyamANA	amqRyamANA}	amqRyamANA{swrI;1;eka}	viSeRaNam,9			<na-mqRyamANA>Tn			
+8	sA		sA	wax{sarvanAma;swrI;1;eka}	wax{sarvanAma;swrI;1;eka}	viSeRaNam,9	vaha					
+9	sIwA		sIwA	sIwA{swrI;1;eka}	sIwA{swrI;1;eka}	karwA,10	sIwA					
+10	viveSa		viveSa	viS1{karwari;lit;pra;eka;parasmEpaxI;viSaz;:wuxAxiH}/viS1{karwari;lit;u;eka;parasmEpaxI;viSaz;:wuxAxiH}	viS1{karwari;lit;pra;eka;parasmEpaxI;viSaz;:wuxAxiH}	aBihiwa_karwA,9;sakarmaka	anxara_praveSa_kiyA					
+11	jvalanaM		jvalanaM	jvalana{puM;2;eka}/jvalana{napuM;1;eka(jval1;lyut;jvalaz;:BvAxiH)}/jvalana{napuM;2;eka(jval1;lyut;jvalaz;:BvAxiH)}	jvalana{napuM;2;eka(jval1;lyut;jvalaz;:BvAxiH)}	karma,10	Aga_ko					
+12	sawI		sawI	sawI{swrI;1;eka}/sawi{swrI;1;xvi}/sawi{swrI;2;xvi}/sawi{swrI;8;xvi}	sawI{swrI;1;eka}	viSeRaNam,9	sawI					

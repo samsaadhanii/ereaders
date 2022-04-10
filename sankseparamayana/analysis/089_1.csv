@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	नन्दि-ग्रामे		नन्दिग्रामे	नन्दि-ग्राम{पुं;7;एक}/ग्राम{नपुं;8;द्वि}/ग्राम{नपुं;1;द्वि}/ग्राम{नपुं;2;द्वि}/ग्राम{नपुं;7;एक}/ग्रामा{स्त्री;8;एक}/ग्रामा{स्त्री;8;द्वि}/ग्रामा{स्त्री;1;द्वि}/ग्रामा{स्त्री;2;द्वि}	नन्दि-ग्राम{पुं;7;एक}	अधिकरणम्,2	नन्दि-गाँव_में		<नन्दि-ग्रामे>K1			
-2	जटां		जटां	जटा{स्त्री;2;एक}	जटा{स्त्री;2;एक}	कर्म,3	जटा_को					
-3	हित्वा		हित्वा	धा1{अव्य;क्त्वा;डुधाञ्;:जुहोत्यादिः}/हा2{अव्य;क्त्वा;ओँहाक्;:जुहोत्यादिः}	हा2{अव्य;क्त्वा;ओँहाक्;:जुहोत्यादिः}	पूर्वकालः,12						
-4	भ्रातृभिः		भ्रातृभिः	भ्रातृ{पुं;3;बहु}	भ्रातृ{पुं;3;बहु}	करणम्_वीप्सा,5	भाइयों_से					
-5	सहितः		सहितोऽनघः	सहितृ{पुं;8;एक}/सहितृ{नपुं;8;एक}/सहित{पुं;1;एक}	सहित{पुं;1;एक}	विशेषणम्,7	सहितृ					
-6	अनघः			अनघ{पुं;1;एक}	अनघ{पुं;1;एक}	विशेषणम्,7	अनघ		<न-अघः>Bsmn			
-7	रामः		रामः	राम{पुं;1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	राम{पुं;1;एक}	कर्ता,12	राम					
-8	सीताम्		सीतामनुप्राप्य	सीता{स्त्री;2;एक}	सीता{स्त्री;2;एक}	कर्म,9	सीता_को					
-9	अनु-प्राप्य			अनु-आप्1{अव्य;ल्यप्;आपॢँ;:स्वादिः}/आप्1{अव्य;ल्यप्;आपॢँ;:स्वादिः}/आप्2{अव्य;ल्यप्;आपॢँ;:चुरादिः}/आप्2{अव्य;ल्यप्;आपॢँ;:चुरादिः}	अनु-प्र_आप्1{अव्य;ल्यप्;आपॢँ;:स्वादिः}	पूर्वकालः,12			<अनु-प्राप्य>A1			
-10	राज्यं		राज्यं	राज्य{नपुं;1;एक}/राज्य{नपुं;2;एक}	राज्य{नपुं;2;एक}	कर्म,12	राज्य					
-11	पुनः		पुनरवाप्तवान्	पुनः{अव्य}	पुनः{अव्य}	क्रियाविशेषणम्,12	फिर					
-12	अवाप्तवान्			अवाप्तवान्}	अवाप्तवान्{अव्य;क्तवत्;आपॢँ;:स्वादिः}	अभिहित_कर्ता,7;सकर्मक						
+1	nanxi-grAme		nanxigrAme	nanxi-grAma{puM;7;eka}/grAma{napuM;8;xvi}/grAma{napuM;1;xvi}/grAma{napuM;2;xvi}/grAma{napuM;7;eka}/grAmA{swrI;8;eka}/grAmA{swrI;8;xvi}/grAmA{swrI;1;xvi}/grAmA{swrI;2;xvi}	nanxi-grAma{puM;7;eka}	aXikaraNam,2	nanxi-gAzva_meM		<nanxi-grAme>K1			
+2	jatAM		jatAM	jatA{swrI;2;eka}	jatA{swrI;2;eka}	karma,3	jatA_ko					
+3	hiwvA		hiwvA	XA1{avya;kwvA;duXAF;:juhowyAxiH}/hA2{avya;kwvA;ozhAk;:juhowyAxiH}	hA2{avya;kwvA;ozhAk;:juhowyAxiH}	pUrvakAlaH,12						
+4	BrAwqBiH		BrAwqBiH	BrAwq{puM;3;bahu}	BrAwq{puM;3;bahu}	karaNam_vIpsA,5	BAiyoM_se					
+5	sahiwaH		sahiwoZnaGaH	sahiwq{puM;8;eka}/sahiwq{napuM;8;eka}/sahiwa{puM;1;eka}	sahiwa{puM;1;eka}	viSeRaNam,7	sahiwq					
+6	anaGaH			anaGa{puM;1;eka}	anaGa{puM;1;eka}	viSeRaNam,7	anaGa		<na-aGaH>Bsmn			
+7	rAmaH		rAmaH	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	karwA,12	rAma					
+8	sIwAm		sIwAmanuprApya	sIwA{swrI;2;eka}	sIwA{swrI;2;eka}	karma,9	sIwA_ko					
+9	anu-prApya			anu-Ap1{avya;lyap;ApLz;:svAxiH}/Ap1{avya;lyap;ApLz;:svAxiH}/Ap2{avya;lyap;ApLz;:curAxiH}/Ap2{avya;lyap;ApLz;:curAxiH}	anu-pra_Ap1{avya;lyap;ApLz;:svAxiH}	pUrvakAlaH,12			<anu-prApya>A1			
+10	rAjyaM		rAjyaM	rAjya{napuM;1;eka}/rAjya{napuM;2;eka}	rAjya{napuM;2;eka}	karma,12	rAjya					
+11	punaH		punaravApwavAn	punaH{avya}	punaH{avya}	kriyAviSeRaNam,12	Pira					
+12	avApwavAn			avApwavAn}	avApwavAn{avya;kwavaw;ApLz;:svAxiH}	aBihiwa_karwA,7;sakarmaka						

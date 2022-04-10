@@ -1,6 +1,6 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	शबर्या		शबर्या	शबरी{स्त्री;3;एक}	शबरी{स्त्री;3;एक}	कर्ता,2	शबरी_से					
-2	पूजितः		पूजितः	पूजित{पुं;1;एक(पूज्1;क्त;पूजँ;:चुरादिः)}	पूजित{पुं;1;एक(पूज्1;क्त;पूजँ;:चुरादिः)}	अभिहित_कर्म,1;सकर्मक	पूजित					
-3	सम्यक्		सम्यग्	सम्यक्{अव्य}	सम्यक्{अव्य}	क्रियाविशेषणम्,2	ठीक					
-4	रामः		रामो	राम{पुं;1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	कर्म,2	देते_हैं					
-5	दशरथ-आत्मजः		दशरथात्मजः	दशरथ-आत्मज{पुं;1;एक}/आत्म-ज{पुं;1;एक}	दशरथ-आत्म-ज{पुं;1;एक}	विशेषणम्,4	दशरथ-आत्म		<दशरथ-आत्मजः>T6			
+1	SabaryA		SabaryA	SabarI{swrI;3;eka}	SabarI{swrI;3;eka}	karwA,2	SabarI_se					
+2	pUjiwaH		pUjiwaH	pUjiwa{puM;1;eka(pUj1;kwa;pUjaz;:curAxiH)}	pUjiwa{puM;1;eka(pUj1;kwa;pUjaz;:curAxiH)}	aBihiwa_karma,1;sakarmaka	pUjiwa					
+3	samyak		samyag	samyak{avya}	samyak{avya}	kriyAviSeRaNam,2	TIka					
+4	rAmaH		rAmo	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	karma,2	xewe_hEM					
+5	xaSaraWa-AwmajaH		xaSaraWAwmajaH	xaSaraWa-Awmaja{puM;1;eka}/Awma-ja{puM;1;eka}	xaSaraWa-Awma-ja{puM;1;eka}	viSeRaNam,4	xaSaraWa-Awma		<xaSaraWa-AwmajaH>T6			

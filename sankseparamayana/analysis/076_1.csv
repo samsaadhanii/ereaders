@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	अस्त्रेण		अस्त्रेणोन्मुक्तमात्मानं	अस्त्र{नपुं;3;एक}	अस्त्र{नपुं;3;एक}	करणम्,2	अस्त्र_से					
-2	उन्मुक्तम्			उन्मुक्तम्}	उन्मुक्तम्{पुं;2;एक}	कर्म,4						
-3	आत्मानं			आत्मन्{पुं;2;एक}	आत्मन्{पुं;2;एक}	विशेषणम्,2	आत्मा_को					
-4	ज्ञात्वा		ज्ञात्वा	ज्ञा2{अव्य;क्त्वा;ज्ञा;:क्र्यादिः}/ज्ञा1{अव्य;क्त्वा;ज्ञा;:भ्वादिः}	ज्ञा2{अव्य;क्त्वा;ज्ञा;:क्र्यादिः}	पूर्वकालः,14						
-5	पैतामहात्		पैतामहाद्वरात्	पैतामह{नपुं;5;एक}	पैतामह{नपुं;5;एक}	विशेषणम्,6	पैतामह_से					
-6	वरात्			वर{पुं;5;एक}/वर{नपुं;5;एक}	वर{पुं;5;एक}	हेतुः,2	श्रेष्ठ_से					
-7	मर्षयन्		मर्षयन्	मर्षयत्{पुं;1;एक(मृष्3;शतृ_लट्;मृषँ;:चुरादिः)}	मर्षयत्{पुं;1;एक(मृष्3;शतृ_लट्;मृषँ;:चुरादिः)}	वर्तमानसमानकालः,14	सहन_करता_हुआ					
-8	राक्षसान्		राक्षसान्	राक्षस{पुं;2;बहु}	राक्षस{पुं;2;बहु}	कर्म,7	राक्षसों_को					
-9	वीरः		वीरो	वीर{पुं;1;एक}	वीर{पुं;1;एक}	कर्ता,14	वीर					
-10	यन्त्रिणः		यन्त्रिणस्तान्	यन्त्रिन्{पुं;1;बहु}/यन्त्रिन्{पुं;2;बहु}/यन्त्रिन्{पुं;5;एक}/यन्त्रिन्{पुं;6;एक}/यन्त्रिन्{नपुं;5;एक}/यन्त्रिन्{नपुं;6;एक}/यन्त्रिन्{पुं;8;बहु}	यन्त्रिन्{पुं;2;बहु}	विशेषणम्,8	जो_जीन_व_साज_से_सुसज्जित_हो					
-11	तान्			तद्{सर्वनाम;पुं;2;बहु}	तद्{सर्वनाम;पुं;2;बहु}	विशेषणम्,8	उनको					
-12	यदृच्छया		यदृच्छया	यदृच्छा{स्त्री;3;एक}	यदृच्छा{स्त्री;3;एक}	हेतुः,7	स्वेच्छा_से					
-13	(रावणं)			रावण{पुं;2;एक}	रावण{पुं;2;एक}	कर्म,14	रावण_को					
-14	(प्राप्तवान्)			प्राप्तवत्{पुं;1;एक(आप्1;क्तवतु;आपॢँ;:स्वादिः)}	प्राप्तवत्{पुं;1;एक(आप्1;क्तवतु;आपॢँ;:स्वादिः)}	अभिहित_कर्ता,9;सकर्मक	प्राप्त_हुआ					
+1	aswreNa		aswreNonmukwamAwmAnaM	aswra{napuM;3;eka}	aswra{napuM;3;eka}	karaNam,2	aswra_se					
+2	unmukwam			unmukwam}	unmukwam{puM;2;eka}	karma,4						
+3	AwmAnaM			Awman{puM;2;eka}	Awman{puM;2;eka}	viSeRaNam,2	AwmA_ko					
+4	jFAwvA		jFAwvA	jFA2{avya;kwvA;jFA;:kryAxiH}/jFA1{avya;kwvA;jFA;:BvAxiH}	jFA2{avya;kwvA;jFA;:kryAxiH}	pUrvakAlaH,14						
+5	pEwAmahAw		pEwAmahAxvarAw	pEwAmaha{napuM;5;eka}	pEwAmaha{napuM;5;eka}	viSeRaNam,6	pEwAmaha_se					
+6	varAw			vara{puM;5;eka}/vara{napuM;5;eka}	vara{puM;5;eka}	hewuH,2	SreRTa_se					
+7	marRayan		marRayan	marRayaw{puM;1;eka(mqR3;Sawq_lat;mqRaz;:curAxiH)}	marRayaw{puM;1;eka(mqR3;Sawq_lat;mqRaz;:curAxiH)}	varwamAnasamAnakAlaH,14	sahana_karawA_huA					
+8	rAkRasAn		rAkRasAn	rAkRasa{puM;2;bahu}	rAkRasa{puM;2;bahu}	karma,7	rAkRasoM_ko					
+9	vIraH		vIro	vIra{puM;1;eka}	vIra{puM;1;eka}	karwA,14	vIra					
+10	yanwriNaH		yanwriNaswAn	yanwrin{puM;1;bahu}/yanwrin{puM;2;bahu}/yanwrin{puM;5;eka}/yanwrin{puM;6;eka}/yanwrin{napuM;5;eka}/yanwrin{napuM;6;eka}/yanwrin{puM;8;bahu}	yanwrin{puM;2;bahu}	viSeRaNam,8	jo_jIna_va_sAja_se_susajjiwa_ho					
+11	wAn			wax{sarvanAma;puM;2;bahu}	wax{sarvanAma;puM;2;bahu}	viSeRaNam,8	unako					
+12	yaxqcCayA		yaxqcCayA	yaxqcCA{swrI;3;eka}	yaxqcCA{swrI;3;eka}	hewuH,7	svecCA_se					
+13	(rAvaNaM)			rAvaNa{puM;2;eka}	rAvaNa{puM;2;eka}	karma,14	rAvaNa_ko					
+14	(prApwavAn)			prApwavaw{puM;1;eka(Ap1;kwavawu;ApLz;:svAxiH)}	prApwavaw{puM;1;eka(Ap1;kwavawu;ApLz;:svAxiH)}	aBihiwa_karwA,9;sakarmaka	prApwa_huA					

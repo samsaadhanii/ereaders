@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	प्रविश्य		प्रविश्य	विश्1{अव्य;ल्यप्;विशँ;:तुदादिः}	प्र_विश्1{अव्य;ल्यप्;विशँ;:तुदादिः}	पूर्वकालः,10			<प्र-विश्य>Tg			
-2	तु		तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,1	तो					
-3	महारण्यं		महारण्यं	महारण्य{नपुं;1;एक}/महारण्य{नपुं;2;एक}	महारण्य{नपुं;2;एक}	कर्म,1	महारण्य		<महा-अरण्यं>K1			
-4	रामः		रामो	राम{पुं;1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	राम{पुं;1;एक}	कर्ता,10	राम					
-5	राजीवलोचनः		राजीवलोचनः	राजीवलोचनः}	राजीवलोचनः{पुं;1;एक}	विशेषणम्,4			<राजीव-लोचनः>Bs6			
-6	विराधं		विराधं	विराध{पुं;2;एक(राध्2;घञ्;राधँ;:स्वादिः)}/विराध{पुं;2;एक(राध्1;घञ्;राधोँ;:दिवादिः)}	विराध{पुं;2;एक(राध्2;घञ्;राधँ;:स्वादिः)}	कर्म,8						
-7	राक्षसं		राक्षसं	राक्षस{पुं;2;एक}	राक्षस{पुं;2;एक}	विशेषणम्,6	राक्षस_को					
-8	हत्वा		हत्वा	हन्1{अव्य;क्त्वा;हनँ;:अदादिः}	हन्1{अव्य;क्त्वा;हनँ;:अदादिः}	पूर्वकालः,10						
-9	शर-भङ्गं		शरभङ्गं	शर-भङ्ग{पुं;2;एक}/भङ्ग{नपुं;1;एक}/भङ्ग{नपुं;2;एक}	शर-भङ्ग{पुं;2;एक}	मुख्यकर्म,10	बाण-भङ्ग_को					
-10	ददर्श		ददर्श	दृश्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;दृशिँर्;:भ्वादिः}/दृश्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;दृशिँर्;:भ्वादिः}	दृश्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;दृशिँर्;:भ्वादिः}	अभिहित_कर्ता,3;सकर्मक	देखा					
-11	ह		ह	ह{अव्य}	ह{अव्य}	सम्बन्धः,10	ह					
-12	सु-तीक्ष्णं		सुतीक्ष्णं	सु-तीक्ष्ण{पुं;2;एक}/तीक्ष्ण{नपुं;1;एक}/तीक्ष्ण{नपुं;2;एक}	सु-तीक्ष्ण{पुं;2;एक}	विशेषणम्,9	सु-तेज_को		<सु-तीक्ष्णं>K1			
-13	च		चाप्यगस्त्यं	च{अव्य}	च{अव्य}	सम्बन्धः,9	और					
-14	अपि			अपि{अव्य}	अपि{अव्य}	सम्बन्धः,10	भी					
-15	अगस्त्यं			अगस्त्य{पुं;2;एक}	अगस्त्य{पुं;2;एक}	गौणकर्म,10	अगस्त्य_को					
-16	च		च	च{अव्य}	च{अव्य}	समुच्चयद्योतकः,15	और					
-17	अगस्त्य-भ्रातरं		अगस्त्यभ्रातरं	अगस्त्य-भ्रातृ{पुं;2;एक}/भ्रातृ{स्त्री;2;एक}	अगस्त्य-भ्रातृ{पुं;2;एक}	समुच्चितः,15	अगस्त्य-भाई_को		<अगस्त्य-भ्रातरं>T6			
-18	तथा		तथा	तथा{अव्य}	तथा{अव्य}	सम्बन्धः,15	वैसे					
+1	praviSya		praviSya	viS1{avya;lyap;viSaz;:wuxAxiH}	pra_viS1{avya;lyap;viSaz;:wuxAxiH}	pUrvakAlaH,10			<pra-viSya>Tg			
+2	wu		wu	wu{avya}	wu{avya}	sambanXaH,1	wo					
+3	mahAraNyaM		mahAraNyaM	mahAraNya{napuM;1;eka}/mahAraNya{napuM;2;eka}	mahAraNya{napuM;2;eka}	karma,1	mahAraNya		<mahA-araNyaM>K1			
+4	rAmaH		rAmo	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	karwA,10	rAma					
+5	rAjIvalocanaH		rAjIvalocanaH	rAjIvalocanaH}	rAjIvalocanaH{puM;1;eka}	viSeRaNam,4			<rAjIva-locanaH>Bs6			
+6	virAXaM		virAXaM	virAXa{puM;2;eka(rAX2;GaF;rAXaz;:svAxiH)}/virAXa{puM;2;eka(rAX1;GaF;rAXoz;:xivAxiH)}	virAXa{puM;2;eka(rAX2;GaF;rAXaz;:svAxiH)}	karma,8						
+7	rAkRasaM		rAkRasaM	rAkRasa{puM;2;eka}	rAkRasa{puM;2;eka}	viSeRaNam,6	rAkRasa_ko					
+8	hawvA		hawvA	han1{avya;kwvA;hanaz;:axAxiH}	han1{avya;kwvA;hanaz;:axAxiH}	pUrvakAlaH,10						
+9	Sara-BafgaM		SaraBafgaM	Sara-Bafga{puM;2;eka}/Bafga{napuM;1;eka}/Bafga{napuM;2;eka}	Sara-Bafga{puM;2;eka}	muKyakarma,10	bANa-Bafga_ko					
+10	xaxarSa		xaxarSa	xqS1{karwari;lit;u;eka;parasmEpaxI;xqSizr;:BvAxiH}/xqS1{karwari;lit;pra;eka;parasmEpaxI;xqSizr;:BvAxiH}	xqS1{karwari;lit;pra;eka;parasmEpaxI;xqSizr;:BvAxiH}	aBihiwa_karwA,3;sakarmaka	xeKA					
+11	ha		ha	ha{avya}	ha{avya}	sambanXaH,10	ha					
+12	su-wIkRNaM		suwIkRNaM	su-wIkRNa{puM;2;eka}/wIkRNa{napuM;1;eka}/wIkRNa{napuM;2;eka}	su-wIkRNa{puM;2;eka}	viSeRaNam,9	su-weja_ko		<su-wIkRNaM>K1			
+13	ca		cApyagaswyaM	ca{avya}	ca{avya}	sambanXaH,9	Ora					
+14	api			api{avya}	api{avya}	sambanXaH,10	BI					
+15	agaswyaM			agaswya{puM;2;eka}	agaswya{puM;2;eka}	gONakarma,10	agaswya_ko					
+16	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,15	Ora					
+17	agaswya-BrAwaraM		agaswyaBrAwaraM	agaswya-BrAwq{puM;2;eka}/BrAwq{swrI;2;eka}	agaswya-BrAwq{puM;2;eka}	samucciwaH,15	agaswya-BAI_ko		<agaswya-BrAwaraM>T6			
+18	waWA		waWA	waWA{avya}	waWA{avya}	sambanXaH,15	vEse					

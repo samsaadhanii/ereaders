@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	स्वस्य		स्वस्य	स्व{पुं;6;एक}/स्व{नपुं;6;एक}/स्व{सर्वनाम;पुं;6;एक}/स्व{सर्वनाम;नपुं;6;एक}/अस्3{अव्य;ल्यप्;असुँ;:दिवादिः}/अस्1{अव्य;ल्यप्;असँ;:भ्वादिः}/अस्2{अव्य;ल्यप्;असँ;:अदादिः}	स्व{पुं;6;एक}	विशेषणम्,2	अपना					
-2	धर्मस्य		धर्मस्य	धर्म{पुं;6;एक}	धर्म{पुं;6;एक}	षष्ठीसम्बन्धः,5	धर्म_का					
-3	स्वजनस्य		स्वजनस्य	स्वजन{पुं;6;एक}	स्वजन{पुं;6;एक}	समुच्चितः,2	अपना_लोग_के		<स्व-जनस्य>T6			
-4	च		च	च{अव्य}	च{अव्य}	समुच्चयद्योतकः,3	और					
-5	रक्षिता		रक्षिता	रक्ष्1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;रक्षँ;:भ्वादिः}/रक्ष्1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;रक्षँ;:भ्वादिः}/रक्षितृ{पुं;1;एक(रक्ष्1;तृच्;रक्षँ;:भ्वादिः)}/रक्षिता{स्त्री;1;एक(रक्ष्1;क्त;रक्षँ;:भ्वादिः)}	रक्षितृ{पुं;1;एक(रक्ष्1;तृच्;रक्षँ;:भ्वादिः)}	कर्ता,6	रक्षा_करेगा					
-6	(अस्ति)			अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,5;सकर्मक	है					
-7	वेद-वेदाङ्ग-तत्त्वज्ञः		वेदवेदाङ्गतत्त्वज्ञो	वेद-वेदाङ्ग-तत्त्वज्ञ{पुं;1;एक}	वेद-वेदाङ्ग-तत्त्वज्ञ{पुं;1;एक}	कर्ता,11	वेद-वेदांग-दार्शनिक		<<<वेद-<वेद-अङ्ग>T6>Di-तत्त्व>T6-ज्ञः>U			
-8	धनुर्वेदे		धनुर्वेदे	धनुर्वेद{पुं;7;एक}	धनुर्वेद{पुं;7;एक}	समुच्चितः,10	धनुर्वेद_में		<धनुस्-र्वेदे>T6			
-9	च		च	च{अव्य}	च{अव्य}	समुच्चयद्योतकः,8	और					
-10	निष्ठितः		निष्ठितः	निष्ठितः}	निष्ठितः{पुं;7;एक}	विधेय_विशेषणम्,7						
-11	(अस्ति)			अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,7;सकर्मक	है					
+1	svasya		svasya	sva{puM;6;eka}/sva{napuM;6;eka}/sva{sarvanAma;puM;6;eka}/sva{sarvanAma;napuM;6;eka}/as3{avya;lyap;asuz;:xivAxiH}/as1{avya;lyap;asaz;:BvAxiH}/as2{avya;lyap;asaz;:axAxiH}	sva{puM;6;eka}	viSeRaNam,2	apanA					
+2	Xarmasya		Xarmasya	Xarma{puM;6;eka}	Xarma{puM;6;eka}	RaRTIsambanXaH,5	Xarma_kA					
+3	svajanasya		svajanasya	svajana{puM;6;eka}	svajana{puM;6;eka}	samucciwaH,2	apanA_loga_ke		<sva-janasya>T6			
+4	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,3	Ora					
+5	rakRiwA		rakRiwA	rakR1{karwari;lut;pra;eka;parasmEpaxI;rakRaz;:BvAxiH}/rakR1{karmaNi;lut;pra;eka;AwmanepaxI;rakRaz;:BvAxiH}/rakRiwq{puM;1;eka(rakR1;wqc;rakRaz;:BvAxiH)}/rakRiwA{swrI;1;eka(rakR1;kwa;rakRaz;:BvAxiH)}	rakRiwq{puM;1;eka(rakR1;wqc;rakRaz;:BvAxiH)}	karwA,6	rakRA_karegA					
+6	(aswi)			as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,5;sakarmaka	hE					
+7	vexa-vexAfga-wawwvajFaH		vexavexAfgawawwvajFo	vexa-vexAfga-wawwvajFa{puM;1;eka}	vexa-vexAfga-wawwvajFa{puM;1;eka}	karwA,11	vexa-vexAMga-xArSanika		<<<vexa-<vexa-afga>T6>Di-wawwva>T6-jFaH>U			
+8	Xanurvexe		Xanurvexe	Xanurvexa{puM;7;eka}	Xanurvexa{puM;7;eka}	samucciwaH,10	Xanurvexa_meM		<Xanus-rvexe>T6			
+9	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,8	Ora					
+10	niRTiwaH		niRTiwaH	niRTiwaH}	niRTiwaH{puM;7;eka}	viXeya_viSeRaNam,7						
+11	(aswi)			as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,7;sakarmaka	hE					

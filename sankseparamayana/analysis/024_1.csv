@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	सः		स	तद्{सर्वनाम;पुं;1;एक}	तद्{सर्वनाम;पुं;1;एक}	कर्ता,2	वह					
-2	जगाम		जगाम	गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;:भ्वादिः}/गम्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;गमॢँ;:भ्वादिः}	गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;:भ्वादिः}	अभिहित_कर्ता,1;सकर्मक	गया					
-3	वनं		वनं	वन{नपुं;1;एक}/वन{नपुं;2;एक}	वन{नपुं;2;एक}	कर्म,2	वन					
-4	वीरः		वीरः	वीर{पुं;1;एक}	वीर{पुं;1;एक}	विशेषणम्,1	वीर					
-5	प्रतिज्ञाम्		प्रतिज्ञामनुपालयन्	प्रतिज्ञा{स्त्री;2;एक}	प्रतिज्ञा{स्त्री;2;एक}	कर्म,6	प्रतिज्ञा_को					
-6	अनु-पालयन्			अनु-पालयत्{पुं;1;एक(अनु-पाल्1;शतृ_लट्;पालँ;:चुरादिः)}	अनु-पालयत्{पुं;1;एक(अनु-पाल्1;शतृ_लट्;पालँ;:चुरादिः)}	वर्तमानसमानकालः,2	अनु-पालन_करता_हुआ					
-7	पितुः		पितुः	पितृ{पुं;5;एक}/पितृ{पुं;6;एक}	पितृ{पुं;6;एक}	षष्ठीसम्बन्धः,8	पिता_से					
-8	वचन-निर्देशात्		वचननिर्देशात्	वच्1{ल्युट्;वचँ;:अदादिः}/ब्रू1{ल्युट्;ब्रूञ्;:अदादिः-निर्देश;पुं;5;एक}/निर्देश{नपुं;5;एक}	वच्1{ल्युट्;ब्रूञ्;:अदादिः-निर्देश;पुं;5;एक}	हेतुः,3			<वचन-निर्देशात्>K1			
-9	कैकेय्याः		कैकेय्याः	कैकेयी{स्त्री;5;एक}/कैकेयी{स्त्री;6;एक}	कैकेयी{स्त्री;6;एक}	षष्ठीसम्बन्धः,10	कैकेयी_से					
-10	प्रिय-कारणात्		प्रियकारणात्	प्रिय-कारण{पुं;5;एक}/कारण{नपुं;5;एक}	प्रिय-कारण{पुं;5;एक}	हेतुः,3	प्रिय-कारण_से		<प्रिय-कारणात्>K1			
+1	saH		sa	wax{sarvanAma;puM;1;eka}	wax{sarvanAma;puM;1;eka}	karwA,2	vaha					
+2	jagAma		jagAma	gam1{karwari;lit;pra;eka;parasmEpaxI;gamLz;:BvAxiH}/gam1{karwari;lit;u;eka;parasmEpaxI;gamLz;:BvAxiH}	gam1{karwari;lit;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,1;sakarmaka	gayA					
+3	vanaM		vanaM	vana{napuM;1;eka}/vana{napuM;2;eka}	vana{napuM;2;eka}	karma,2	vana					
+4	vIraH		vIraH	vIra{puM;1;eka}	vIra{puM;1;eka}	viSeRaNam,1	vIra					
+5	prawijFAm		prawijFAmanupAlayan	prawijFA{swrI;2;eka}	prawijFA{swrI;2;eka}	karma,6	prawijFA_ko					
+6	anu-pAlayan			anu-pAlayaw{puM;1;eka(anu-pAl1;Sawq_lat;pAlaz;:curAxiH)}	anu-pAlayaw{puM;1;eka(anu-pAl1;Sawq_lat;pAlaz;:curAxiH)}	varwamAnasamAnakAlaH,2	anu-pAlana_karawA_huA					
+7	piwuH		piwuH	piwq{puM;5;eka}/piwq{puM;6;eka}	piwq{puM;6;eka}	RaRTIsambanXaH,8	piwA_se					
+8	vacana-nirxeSAw		vacananirxeSAw	vac1{lyut;vacaz;:axAxiH}/brU1{lyut;brUF;:axAxiH-nirxeSa;puM;5;eka}/nirxeSa{napuM;5;eka}	vac1{lyut;brUF;:axAxiH-nirxeSa;puM;5;eka}	hewuH,3			<vacana-nirxeSAw>K1			
+9	kEkeyyAH		kEkeyyAH	kEkeyI{swrI;5;eka}/kEkeyI{swrI;6;eka}	kEkeyI{swrI;6;eka}	RaRTIsambanXaH,10	kEkeyI_se					
+10	priya-kAraNAw		priyakAraNAw	priya-kAraNa{puM;5;eka}/kAraNa{napuM;5;eka}	priya-kAraNa{puM;5;eka}	hewuH,3	priya-kAraNa_se		<priya-kAraNAw>K1			

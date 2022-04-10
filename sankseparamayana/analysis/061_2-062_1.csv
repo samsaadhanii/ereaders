@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ततः		ततो	ततः{अव्य}	ततः{अव्य}	सम्बन्धः,6	वहाँ_से					
-2	वानर-राजेन		वानरराजेन	वानर-रा-ज{नपुं;3;एक}/राज{पुं;3;एक}/राज{नपुं;3;एक}	राज{पुं;3;एक}	कर्ता,6	बन्दर-रे_से		<वानर-राजेन>T6			
-3	वैरानु-कथनं		वैरानुकथनं	वैरानु-कथन{नपुं;1;एक}/कथन{नपुं;2;एक}	वैरानु-कथन{नपुं;2;एक}	कर्म,6	वैरानु-कथन		<वैर-अनुकथनं>T6			
-4	प्रति		प्रति	प्रति{अव्य}	प्रति{अव्य}	सम्बन्धः,3	ओर					
-5	रामाय		रामायावेदितं	राम{पुं;4;एक}	राम{पुं;4;एक}	सम्प्रदानम्,6	राम_को					
-6	आ-वेदितं			आ-वेदित{पुं;2;एक(आ-विद्5;क्त;विदँ;:चुरादिः)}/आ-वेदित{नपुं;1;एक(विद्5;क्त;विदँ;:चुरादिः)}/आ-वेदित{नपुं;2;एक(विद्5;क्त;विदँ;:चुरादिः)}	आ-वेदित{नपुं;1;एक(विद्5;क्त;विदँ;:चुरादिः)}	अभिहित_कर्म,2;सकर्मक						
-7	सर्वं		सर्वं	सर्व{सर्वनाम;पुं;2;एक}/सर्व{सर्वनाम;नपुं;1;एक}/सर्व{सर्वनाम;नपुं;2;एक}	सर्व;सर्वनाम{नपुं;2;एक}	विशेषणम्,3	सब_को					
-8	प्रणयात्		प्रणयात्	प्रणय{पुं;5;एक}	प्रणय{पुं;5;एक}	अपादानम्,6	विवाह_करने_से					
-9	दुःखितेन		दुःखितेन	दुःखित{पुं;3;एक(दुःख1;क्त;दुःख;:चुरादिः)}/दुःखित{नपुं;3;एक(दुःख1;क्त;दुःख;:चुरादिः)}	दुःखित{पुं;3;एक(दुःख1;क्त;दुःख;:चुरादिः)}	विशेषणम्,2						
-10	च		च	च{अव्य}	च{अव्य}	सम्बन्धः,9	और					
-11	प्रति-ज्ञातं		प्रतिज्ञातं	प्रति-ज्ञात{पुं;2;एक}/ज्ञात{नपुं;1;एक}/ज्ञात{नपुं;2;एक}/प्रति-ज्ञात{पुं;2;एक(ज्ञा1;क्त;ज्ञा;:भ्वादिः)}/प्रति-ज्ञात{नपुं;1;एक(ज्ञा1;क्त;ज्ञा;:भ्वादिः)}/प्रति-ज्ञात{नपुं;2;एक(ज्ञा1;क्त;ज्ञा;:भ्वादिः)}	प्रति-ज्ञात{नपुं;1;एक}	अभिहित_कर्म,13;सकर्मक	प्रति-ज्ञात_को		<प्रति-ज्ञातं>Tp			
-12	च		च	च{अव्य}	च{अव्य}	सम्बन्धः,11	और					
-13	रामेण		रामेण	राम{पुं;3;एक}	राम{पुं;3;एक}	कर्ता,11	राम_से					
-14	तदा		तदा	तदा{अव्य}	तदा{अव्य}	अधिकरणम्,11	तब					
-15	वालि-वधं		वालिवधं	वालि-वध{पुं;2;एक}/वध{नपुं;1;एक}/वध{नपुं;2;एक}	वालि-वध{पुं;2;एक}	कर्म,11	वालि-वध_को		<वालि-वधं>T6			
-16	प्रति		प्रति	प्रति{अव्य}	प्रति{अव्य}	सम्बन्धः,15	ओर					
+1	wawaH		wawo	wawaH{avya}	wawaH{avya}	sambanXaH,6	vahAz_se					
+2	vAnara-rAjena		vAnararAjena	vAnara-rA-ja{napuM;3;eka}/rAja{puM;3;eka}/rAja{napuM;3;eka}	rAja{puM;3;eka}	karwA,6	banxara-re_se		<vAnara-rAjena>T6			
+3	vErAnu-kaWanaM		vErAnukaWanaM	vErAnu-kaWana{napuM;1;eka}/kaWana{napuM;2;eka}	vErAnu-kaWana{napuM;2;eka}	karma,6	vErAnu-kaWana		<vEra-anukaWanaM>T6			
+4	prawi		prawi	prawi{avya}	prawi{avya}	sambanXaH,3	ora					
+5	rAmAya		rAmAyAvexiwaM	rAma{puM;4;eka}	rAma{puM;4;eka}	sampraxAnam,6	rAma_ko					
+6	A-vexiwaM			A-vexiwa{puM;2;eka(A-vix5;kwa;vixaz;:curAxiH)}/A-vexiwa{napuM;1;eka(vix5;kwa;vixaz;:curAxiH)}/A-vexiwa{napuM;2;eka(vix5;kwa;vixaz;:curAxiH)}	A-vexiwa{napuM;1;eka(vix5;kwa;vixaz;:curAxiH)}	aBihiwa_karma,2;sakarmaka						
+7	sarvaM		sarvaM	sarva{sarvanAma;puM;2;eka}/sarva{sarvanAma;napuM;1;eka}/sarva{sarvanAma;napuM;2;eka}	sarva;sarvanAma{napuM;2;eka}	viSeRaNam,3	saba_ko					
+8	praNayAw		praNayAw	praNaya{puM;5;eka}	praNaya{puM;5;eka}	apAxAnam,6	vivAha_karane_se					
+9	xuHKiwena		xuHKiwena	xuHKiwa{puM;3;eka(xuHKa1;kwa;xuHKa;:curAxiH)}/xuHKiwa{napuM;3;eka(xuHKa1;kwa;xuHKa;:curAxiH)}	xuHKiwa{puM;3;eka(xuHKa1;kwa;xuHKa;:curAxiH)}	viSeRaNam,2						
+10	ca		ca	ca{avya}	ca{avya}	sambanXaH,9	Ora					
+11	prawi-jFAwaM		prawijFAwaM	prawi-jFAwa{puM;2;eka}/jFAwa{napuM;1;eka}/jFAwa{napuM;2;eka}/prawi-jFAwa{puM;2;eka(jFA1;kwa;jFA;:BvAxiH)}/prawi-jFAwa{napuM;1;eka(jFA1;kwa;jFA;:BvAxiH)}/prawi-jFAwa{napuM;2;eka(jFA1;kwa;jFA;:BvAxiH)}	prawi-jFAwa{napuM;1;eka}	aBihiwa_karma,13;sakarmaka	prawi-jFAwa_ko		<prawi-jFAwaM>Tp			
+12	ca		ca	ca{avya}	ca{avya}	sambanXaH,11	Ora					
+13	rAmeNa		rAmeNa	rAma{puM;3;eka}	rAma{puM;3;eka}	karwA,11	rAma_se					
+14	waxA		waxA	waxA{avya}	waxA{avya}	aXikaraNam,11	waba					
+15	vAli-vaXaM		vAlivaXaM	vAli-vaXa{puM;2;eka}/vaXa{napuM;1;eka}/vaXa{napuM;2;eka}	vAli-vaXa{puM;2;eka}	karma,11	vAli-vaXa_ko		<vAli-vaXaM>T6			
+16	prawi		prawi	prawi{avya}	prawi{avya}	sambanXaH,15	ora					

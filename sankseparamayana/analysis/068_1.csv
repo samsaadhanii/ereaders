@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ततः		ततोऽगर्जद्धरिवरः	ततः{अव्य}	ततः{अव्य}	अपादानम्_वीप्सा,4	वहाँ_से					
-2	अगर्जत्			गृज्1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;गृजँ;:भ्वादिः}/गर्ज्1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;गर्जँ;:भ्वादिः}	गृज्1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;गृजँ;:भ्वादिः}	अभिहित_कर्ता,6;सकर्मक	गरजा					
-3	हरि-वरः			हरि-वर{पुं;1;एक}	हरि-वर{पुं;1;एक}	विशेषणम्,4	हरि-श्रेष्ठ		<हरि-वरः>T6			
-4	सुग्रीवः		सुग्रीवो	सुग्रीव{पुं;1;एक}	सुग्रीव{पुं;1;एक}	कर्ता,2	सुग्रीव					
-5	हेम-पिङ्गलः		हेमपिङ्गलः	हेम-पिङ्गल{पुं;1;एक}	हेम-पिङ्गल{पुं;1;एक}	विशेषणम्,4	सोना-पिङ्गल		<हेम-पिङ्गलः>Bsu			
-6	तेन		तेन	तद्{सर्वनाम;पुं;3;एक}/तद्{सर्वनाम;नपुं;3;एक}/तन्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;तनुँ;:तनादिः}	तद्{सर्वनाम;पुं;3;एक}	विशेषणम्,7	उससे					
-7	नादेन		नादेन	नाद{पुं;3;एक}	नाद{पुं;3;एक}	करणम्,9	नाद_से					
-8	महता		महता	महत्{पुं;3;एक}/महत्{नपुं;3;एक}	महत्{पुं;3;एक}	विशेषणम्,7	महान्_से					
-9	निर्-जगाम		निर्जगाम	निर्-गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;:भ्वादिः}/गम्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;गमॢँ;:भ्वादिः}	निर्-गम्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;गमॢँ;:भ्वादिः}	अभिहित_कर्ता,6;सकर्मक	गया					
-10	हरीश्वरः		हरीश्वरः	हरीश्वरः}	हरीश्वरः{पुं;1;एक}	कर्ता,9			<हरीश्वरः>T6			
+1	wawaH		wawoZgarjaxXarivaraH	wawaH{avya}	wawaH{avya}	apAxAnam_vIpsA,4	vahAz_se					
+2	agarjaw			gqj1{karwari;laf;pra;eka;parasmEpaxI;gqjaz;:BvAxiH}/garj1{karwari;laf;pra;eka;parasmEpaxI;garjaz;:BvAxiH}	gqj1{karwari;laf;pra;eka;parasmEpaxI;gqjaz;:BvAxiH}	aBihiwa_karwA,6;sakarmaka	garajA					
+3	hari-varaH			hari-vara{puM;1;eka}	hari-vara{puM;1;eka}	viSeRaNam,4	hari-SreRTa		<hari-varaH>T6			
+4	sugrIvaH		sugrIvo	sugrIva{puM;1;eka}	sugrIva{puM;1;eka}	karwA,2	sugrIva					
+5	hema-pifgalaH		hemapifgalaH	hema-pifgala{puM;1;eka}	hema-pifgala{puM;1;eka}	viSeRaNam,4	sonA-pifgala		<hema-pifgalaH>Bsu			
+6	wena		wena	wax{sarvanAma;puM;3;eka}/wax{sarvanAma;napuM;3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;:wanAxiH}	wax{sarvanAma;puM;3;eka}	viSeRaNam,7	usase					
+7	nAxena		nAxena	nAxa{puM;3;eka}	nAxa{puM;3;eka}	karaNam,9	nAxa_se					
+8	mahawA		mahawA	mahaw{puM;3;eka}/mahaw{napuM;3;eka}	mahaw{puM;3;eka}	viSeRaNam,7	mahAn_se					
+9	nir-jagAma		nirjagAma	nir-gam1{karwari;lit;pra;eka;parasmEpaxI;gamLz;:BvAxiH}/gam1{karwari;lit;u;eka;parasmEpaxI;gamLz;:BvAxiH}	nir-gam1{karwari;lit;pra;eka;parasmEpaxI;gamLz;:BvAxiH}	aBihiwa_karwA,6;sakarmaka	gayA					
+10	harISvaraH		harISvaraH	harISvaraH}	harISvaraH{puM;1;eka}	karwA,9			<harISvaraH>T6			

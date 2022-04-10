@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	गते		गते	गति{स्त्री;8;एक}/गत{पुं;7;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}/गत{नपुं;1;द्वि(गम्1;क्त;गमॢँ;:भ्वादिः)}/गत{नपुं;2;द्वि(गम्1;क्त;गमॢँ;:भ्वादिः)}/गत{नपुं;7;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}/गता{स्त्री;1;द्वि(गम्1;क्त;गमॢँ;:भ्वादिः)}/गता{स्त्री;2;द्वि(गम्1;क्त;गमॢँ;:भ्वादिः)}	गत{पुं;7;एक(गम्1;क्त;गमॢँ;:भ्वादिः)}	भावलक्षणसप्तमी_पूर्वकालः,18	गति					
-2	तु		तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,1	तो					
-3	भरते		भरते	भृ1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;भृञ्;:भ्वादिः}/भरत्{पुं;4;एक}/भरत्{नपुं;4;एक}/भरत{पुं;7;एक}	भरत{पुं;7;एक}	कर्ता,1	पूर्ण_करता_है					
-4	श्रीमान्		श्रीमान्	श्रीमत्{पुं;1;एक}/श्री{मतुप्;पुं;1;एक}	श्रीमत्{पुं;1;एक}	विशेषणम्,7	श्री_मान्					
-5	सत्य-सन्धः		सत्यसन्धो	सत्य-सन्ध{पुं;1;एक}	सत्य-सन्ध{पुं;1;एक}	विशेषणम्,7	सत्य-मेल		<सत्य-सन्धः>Bs6			
-6	जितेन्द्रियः		जितेन्द्रियः	जितेन्द्रिय{पुं;1;एक}	जितेन्द्रिय{पुं;1;एक}	विशेषणम्,7	जितेन्द्रिय		<जित-इन्द्रियः>Bs3			
-7	रामः		रामस्तु	राम{पुं;1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;:अदादिः}	राम{पुं;1;एक}	कर्ता,18	राम					
-8	तु			तु{अव्य}	तु{अव्य}	सम्बन्धः,10	तो					
-9	पुनः		पुनरालक्ष्य	पुनः{अव्य}	पुनः{अव्य}	वीप्सा,10	फिर					
-10	आ-लक्ष्य			आ-लक्ष्य{नपुं;8;एक}	आ-लक्ष्य{नपुं;8;एक}	पूर्वकालः,18	आ-लक्ष्य		<आ-लक्ष्य>Tg			
-11	नागरस्य		नागरस्य	नागर{पुं;6;एक}/नागर{नपुं;6;एक}	नागर{नपुं;6;एक}	विशेषणम्,12	नागर_का					
-12	जनस्य		जनस्य	जन{पुं;6;एक}	जन{पुं;6;एक}	षष्ठीसम्बन्धः,15	जन_के					
-13	च		च	च{अव्य}	च{अव्य}	सम्बन्धः,12	और					
-14	तत्र		तत्रागमनमेकाग्रो	तत्र{अव्य}	तत्र{अव्य}	अधिकरणम्,10	वहाँ					
-15	आगमनम्			आगमन{नपुं;1;एक(गम्1;ल्युट्;गमॢँ;:भ्वादिः)}/आगमन{नपुं;2;एक(गम्1;ल्युट्;गमॢँ;:भ्वादिः)}	आगमन{नपुं;2;एक(गम्1;ल्युट्;गमॢँ;:भ्वादिः)}	कर्म,10						
-16	एकाग्रः			एकाग्र{पुं;1;एक}	एकाग्र{पुं;1;एक}	विशेषणम्,7	एकाग्र		<एक-अग्रः>Bs6			
-17	दण्डकान्		दण्डकान्	दण्ड{क;पुं;2;बहु}/दण्डक{पुं;2;बहु(दण्ड1;ण्वुल्;दण्ड;:चुरादिः)}	दण्डक{पुं;2;बहु(दण्ड1;ण्वुल्;दण्ड;:चुरादिः)}	कर्म,18	दण्डों_को					
-18	प्र-विवेश		प्रविवेश	प्र-विश्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;विशँ;:तुदादिः}/विश्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;विशँ;:तुदादिः}	प्र-विश्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;विशँ;:तुदादिः}	अभिहित_कर्ता,7;सकर्मक	अन्दर_प्रवेश_किया		<प्र-विवेश>Tg			
-19	ह		ह	ह{अव्य}	ह{अव्य}	सम्बन्धः,18	ह					
+1	gawe		gawe	gawi{swrI;8;eka}/gawa{puM;7;eka(gam1;kwa;gamLz;:BvAxiH)}/gawa{napuM;1;xvi(gam1;kwa;gamLz;:BvAxiH)}/gawa{napuM;2;xvi(gam1;kwa;gamLz;:BvAxiH)}/gawa{napuM;7;eka(gam1;kwa;gamLz;:BvAxiH)}/gawA{swrI;1;xvi(gam1;kwa;gamLz;:BvAxiH)}/gawA{swrI;2;xvi(gam1;kwa;gamLz;:BvAxiH)}	gawa{puM;7;eka(gam1;kwa;gamLz;:BvAxiH)}	BAvalakRaNasapwamI_pUrvakAlaH,18	gawi					
+2	wu		wu	wu{avya}	wu{avya}	sambanXaH,1	wo					
+3	Barawe		Barawe	Bq1{karwari;lat;pra;eka;AwmanepaxI;BqF;:BvAxiH}/Baraw{puM;4;eka}/Baraw{napuM;4;eka}/Barawa{puM;7;eka}	Barawa{puM;7;eka}	karwA,1	pUrNa_karawA_hE					
+4	SrImAn		SrImAn	SrImaw{puM;1;eka}/SrI{mawup;puM;1;eka}	SrImaw{puM;1;eka}	viSeRaNam,7	SrI_mAn					
+5	sawya-sanXaH		sawyasanXo	sawya-sanXa{puM;1;eka}	sawya-sanXa{puM;1;eka}	viSeRaNam,7	sawya-mela		<sawya-sanXaH>Bs6			
+6	jiwenxriyaH		jiwenxriyaH	jiwenxriya{puM;1;eka}	jiwenxriya{puM;1;eka}	viSeRaNam,7	jiwenxriya		<jiwa-inxriyaH>Bs3			
+7	rAmaH		rAmaswu	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	karwA,18	rAma					
+8	wu			wu{avya}	wu{avya}	sambanXaH,10	wo					
+9	punaH		punarAlakRya	punaH{avya}	punaH{avya}	vIpsA,10	Pira					
+10	A-lakRya			A-lakRya{napuM;8;eka}	A-lakRya{napuM;8;eka}	pUrvakAlaH,18	A-lakRya		<A-lakRya>Tg			
+11	nAgarasya		nAgarasya	nAgara{puM;6;eka}/nAgara{napuM;6;eka}	nAgara{napuM;6;eka}	viSeRaNam,12	nAgara_kA					
+12	janasya		janasya	jana{puM;6;eka}	jana{puM;6;eka}	RaRTIsambanXaH,15	jana_ke					
+13	ca		ca	ca{avya}	ca{avya}	sambanXaH,12	Ora					
+14	wawra		wawrAgamanamekAgro	wawra{avya}	wawra{avya}	aXikaraNam,10	vahAz					
+15	Agamanam			Agamana{napuM;1;eka(gam1;lyut;gamLz;:BvAxiH)}/Agamana{napuM;2;eka(gam1;lyut;gamLz;:BvAxiH)}	Agamana{napuM;2;eka(gam1;lyut;gamLz;:BvAxiH)}	karma,10						
+16	ekAgraH			ekAgra{puM;1;eka}	ekAgra{puM;1;eka}	viSeRaNam,7	ekAgra		<eka-agraH>Bs6			
+17	xaNdakAn		xaNdakAn	xaNda{ka;puM;2;bahu}/xaNdaka{puM;2;bahu(xaNda1;Nvul;xaNda;:curAxiH)}	xaNdaka{puM;2;bahu(xaNda1;Nvul;xaNda;:curAxiH)}	karma,18	xaNdoM_ko					
+18	pra-viveSa		praviveSa	pra-viS1{karwari;lit;pra;eka;parasmEpaxI;viSaz;:wuxAxiH}/viS1{karwari;lit;u;eka;parasmEpaxI;viSaz;:wuxAxiH}	pra-viS1{karwari;lit;pra;eka;parasmEpaxI;viSaz;:wuxAxiH}	aBihiwa_karwA,7;sakarmaka	anxara_praveSa_kiyA		<pra-viveSa>Tg			
+19	ha		ha	ha{avya}	ha{avya}	sambanXaH,18	ha					

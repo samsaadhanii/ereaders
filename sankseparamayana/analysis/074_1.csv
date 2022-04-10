@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	नि-वेदयित्वा		निवेदयित्वाभिज्ञानं	नि-विद्5{अव्य;क्त्वा;विदँ;:चुरादिः}	नि-विद्5{अव्य;क्त्वा;विदँ;:चुरादिः}	पूर्वकालः,9						
-2	अभि-ज्ञानं			अभि-ज्ञान{नपुं;1;एक}/ज्ञान{नपुं;2;एक}	अभि-ज्ञान{नपुं;2;एक}	कर्म,1	अभि-ज्ञान		<अभि-ज्ञानं>Tp			
-3	प्र-वृत्तिं		प्रवृत्तिं	प्र-वृत्ति{स्त्री;2;एक}/वृत्ति{पुं;2;एक}	प्र-वृत्ति{स्त्री;2;एक}	कर्म,4	प्र-अस्तित्व_को					
-4	वि-निवेद्य		विनिवेद्य	वि-विद्3{अव्य;ल्यप्;विदॢँ;:तुदादिः}/विद्1{अव्य;ल्यप्;विदँ;:अदादिः}	वि-नि_विद्3{अव्य;ल्यप्;विदॢँ;:तुदादिः}	पूर्वकालः,9			<वि-नि-वेद्य>Tg			
-5	च		च	च{अव्य}	च{अव्य}	सम्बन्धः,4	और					
-6	समाश्वास्य		समाश्वास्य	समाश्वास्य}	समाश्वास्य{अव्य;ल्यप्}	पूर्वकालः,9			<सम-आ-श्वास्य>Tg			
-7	च		च	च{अव्य}	च{अव्य}	सम्बन्धः,6	और					
-8	वैदेहीं		वैदेहीं	वैदेही{स्त्री;2;एक}	वैदेही{स्त्री;2;एक}	कर्म,6	सीता_को					
-9	मर्दयामास		मर्दयामास	मृद्1{णिजन्त;कर्तरि;लिट्;म;बहु;परस्मैपदी;मृदँ;:क्र्यादिः}/मृद्1{णिजन्त;कर्तरि;लिट्;म;बहु;आत्मनेपदी;मृदँ;:क्र्यादिः}/मृद्1{णिजन्त;कर्तरि;लिट्;प्र;एक;परस्मैपदी;मृदँ;:क्र्यादिः}/मृद्1{णिजन्त;कर्तरि;लिट्;प्र;एक;आत्मनेपदी;मृदँ;:क्र्यादिः}/मृद्1{णिजन्त;कर्तरि;लिट्;उ;एक;परस्मैपदी;मृदँ;:क्र्यादिः}/मृद्1{णिजन्त;कर्तरि;लिट्;उ;एक;आत्मनेपदी;मृदँ;:क्र्यादिः}	मृद्1{णिजन्त;कर्तरि;लिट्;प्र;एक;परस्मैपदी;मृदँ;:क्र्यादिः}	अभिहित_कर्ता,0;सकर्मक						
-10	तोरणम्		तोरणम्	तोरण{पुं;2;एक}/तोरण{नपुं;1;एक(तुर्1;ल्युट्;तुरँ;:जुहोत्यादिः)}/तोरण{नपुं;2;एक(तुर्1;ल्युट्;तुरँ;:जुहोत्यादिः)}	तोरण{नपुं;2;एक(तुर्1;ल्युट्;तुरँ;:जुहोत्यादिः)}	कर्म,9	तोरण_को					
+1	ni-vexayiwvA		nivexayiwvABijFAnaM	ni-vix5{avya;kwvA;vixaz;:curAxiH}	ni-vix5{avya;kwvA;vixaz;:curAxiH}	pUrvakAlaH,9						
+2	aBi-jFAnaM			aBi-jFAna{napuM;1;eka}/jFAna{napuM;2;eka}	aBi-jFAna{napuM;2;eka}	karma,1	aBi-jFAna		<aBi-jFAnaM>Tp			
+3	pra-vqwwiM		pravqwwiM	pra-vqwwi{swrI;2;eka}/vqwwi{puM;2;eka}	pra-vqwwi{swrI;2;eka}	karma,4	pra-aswiwva_ko					
+4	vi-nivexya		vinivexya	vi-vix3{avya;lyap;vixLz;:wuxAxiH}/vix1{avya;lyap;vixaz;:axAxiH}	vi-ni_vix3{avya;lyap;vixLz;:wuxAxiH}	pUrvakAlaH,9			<vi-ni-vexya>Tg			
+5	ca		ca	ca{avya}	ca{avya}	sambanXaH,4	Ora					
+6	samASvAsya		samASvAsya	samASvAsya}	samASvAsya{avya;lyap}	pUrvakAlaH,9			<sama-A-SvAsya>Tg			
+7	ca		ca	ca{avya}	ca{avya}	sambanXaH,6	Ora					
+8	vExehIM		vExehIM	vExehI{swrI;2;eka}	vExehI{swrI;2;eka}	karma,6	sIwA_ko					
+9	marxayAmAsa		marxayAmAsa	mqx1{Nijanwa;karwari;lit;ma;bahu;parasmEpaxI;mqxaz;:kryAxiH}/mqx1{Nijanwa;karwari;lit;ma;bahu;AwmanepaxI;mqxaz;:kryAxiH}/mqx1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;mqxaz;:kryAxiH}/mqx1{Nijanwa;karwari;lit;pra;eka;AwmanepaxI;mqxaz;:kryAxiH}/mqx1{Nijanwa;karwari;lit;u;eka;parasmEpaxI;mqxaz;:kryAxiH}/mqx1{Nijanwa;karwari;lit;u;eka;AwmanepaxI;mqxaz;:kryAxiH}	mqx1{Nijanwa;karwari;lit;pra;eka;parasmEpaxI;mqxaz;:kryAxiH}	aBihiwa_karwA,0;sakarmaka						
+10	woraNam		woraNam	woraNa{puM;2;eka}/woraNa{napuM;1;eka(wur1;lyut;wuraz;:juhowyAxiH)}/woraNa{napuM;2;eka(wur1;lyut;wuraz;:juhowyAxiH)}	woraNa{napuM;2;eka(wur1;lyut;wuraz;:juhowyAxiH)}	karma,9	woraNa_ko					
