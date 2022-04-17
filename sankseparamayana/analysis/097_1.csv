@@ -1,7 +1,7 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	xaSa-varRa-sahasrANi		xaSavarRasahasrANi	xaSa-varRa-sahasra{saMKyeyam;1;bahu}/sahasra{saMKyeyam;2;bahu}/sahasra{napuM;8;bahu}/sahasra{napuM;1;bahu}/sahasra{napuM;2;bahu}	xaSa-varRa-sahasra{napuM;8;bahu}	viSeRaNam,5	xaSa-varRa-hajAra		<<xaSa-varRa>K1-sahasrANi>T6			
 2	xaSa-varRa-SawAni		xaSavarRaSawAni	xaSa-varRa-Sawa{napuM;1;bahu}/Sawa{napuM;2;bahu}/Sawa{saMKyeyam;1;bahu}/Sawa{saMKyeyam;2;bahu}/Sawa{napuM;8;bahu}	xaSa-varRa-Sawa{napuM;8;bahu}	samucciwaH,5	xaSa-varRa-Sawa		<<xaSa-varRa>K1-SawAni>T6			
-3	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,5	BI					
+3	ca		ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	BI					
 4	rAmaH		rAmo	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	karwA,8	rAma					
 5	rAjyam		rAjyamupAsiwvA	rAjya{napuM;1;eka}/rAjya{napuM;2;eka}	rAjya{napuM;2;eka}	karma,6	rAjya					
 6	upAsiwvA			As1{avya;kwvA;Asaz;:axAxiH}	upa_As1{avya;kwvA;Asaz;:axAxiH}	pUrvakAlaH,8	upAsanA_karake					

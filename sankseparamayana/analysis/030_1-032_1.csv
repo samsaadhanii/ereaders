@@ -1,7 +1,7 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	guhena		guhena	guha{puM;3;eka}	guha{puM;3;eka}	sahArWaH,2	guha_se					
-2	sahiwaH		sahiwo	sahiwq{puM;8;eka}/sahiwq{napuM;8;eka}/sahiwa{puM;1;eka}	sahiwa{puM;1;eka}	viXeya-viSeRaNam,3	sahiwq					
-3	rAmaH		rAmo	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	viXeya-viSeRaNam,7	rAma					
+2	sahiwaH		sahiwo	sahiwq{puM;8;eka}/sahiwq{napuM;8;eka}/sahiwa{puM;1;eka}	sahiwa{puM;1;eka}	viXeya_viSeRaNam,3	sahiwq					
+3	rAmaH		rAmo	rAma{puM;1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;:axAxiH}	rAma{puM;1;eka}	viXeya_viSeRaNam,7	rAma					
 4	lakRmaNena		lakRmaNena	lakRmaNa{puM;3;eka}	lakRmaNa{puM;3;eka}	sahArWaH,2	lakRmaNa_se					
 5	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora					
 6	sIwayA		sIwayA	sIwA{swrI;3;eka}	sIwA{swrI;3;eka}	samucciwaH,4	sIwA_se					
@@ -22,7 +22,7 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 21	ramamANAH		ramamANA	ramamANa{puM;1;bahu(ram1;SAnac_lat;karwari;ramuz;:BvAxiH)}/ramamANA{swrI;1;bahu(ram1;SAnac_lat;karwari;ramuz;:BvAxiH)}/ramamANA{swrI;2;bahu(ram1;SAnac_lat;karwari;ramuz;:BvAxiH)}	ramamANa{puM;1;bahu(ram1;SAnac_lat;karwari;ramuz;:BvAxiH)}	varwamAnasamAnakAlaH,27						
 22	vane		vane	vana{napuM;1;xvi}/vana{napuM;2;xvi}/vana{napuM;8;xvi}/vani{puM;8;eka}/vana{napuM;7;eka}	vana{napuM;7;eka}	aXikaraNam,21	vana					
 23	wrayaH		wrayaH	wri{puM;1;bahu}/wri{saMKyeyam;puM;1;bahu}/wraya{puM;1;eka}/wri{puM;8;bahu}	wri{puM;1;bahu}	viSeRaNam,26	wIna					
-24	xeva-ganXarva-safkASAH		xevaganXarvasafkASAswawra	xeva-ganXarva-safkASa{puM;1;bahu}/safkASa{puM;8;bahu}/safkASA{swrI;8;bahu}/safkASA{swrI;1;bahu}/safkASA{swrI;2;bahu}	xeva-ganXarva-safkASa{puM;1;bahu}	viXeya-viSeRaNam,26	xeva-ganXarva-saxqSa		<<xeva-ganXarva>Di-safkASAH>Bsu			
+24	xeva-ganXarva-safkASAH		xevaganXarvasafkASAswawra	xeva-ganXarva-safkASa{puM;1;bahu}/safkASa{puM;8;bahu}/safkASA{swrI;8;bahu}/safkASA{swrI;1;bahu}/safkASA{swrI;2;bahu}	xeva-ganXarva-safkASa{puM;1;bahu}	viXeya_viSeRaNam,26	xeva-ganXarva-saxqSa		<<xeva-ganXarva>Di-safkASAH>Bsu			
 25	wawra			wawra{avya}	wawra{avya}	aXikaraNam,27	vahAz					
 26	we		we	wax{sarvanAma;puM;1;bahu}/wax{sarvanAma;napuM;1;xvi}/wax{sarvanAma;napuM;2;xvi}/wax{sarvanAma;swrI;1;xvi}/wax{sarvanAma;swrI;2;xvi}/yuRmax{sarvanAma;4;eka}/yuRmax{sarvanAma;6;eka}	wax{sarvanAma;puM;1;bahu}	karwA,27	ve					
 27	nyavasan		nyavasan	ni_vas1{karwari;laf;pra;bahu;parasmEpaxI;vasaz;:BvAxiH}	ni_vas1{karwari;laf;pra;bahu;parasmEpaxI;vasaz;:BvAxiH}	aBihiwa_karwA,26	nivAsa_kiyA					

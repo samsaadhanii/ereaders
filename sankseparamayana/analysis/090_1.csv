@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	prahqRta-muxiwaH		prahqRtamuxiwo	muxiwa{puM;1;eka(hqR2;kwa;hqRaz;:xivAxiH-mux1;kwa;muxaz;:BvAxiH)}	muxiwa-muxiwa{puM;1;eka(muxiwa-hqR2;kwa;hqRaz;:xivAxiH-mux1;kwa;muxaz;:BvAxiH)}	viXeya-viSeRaNam,2	muxiwa-NWyA_huA		<prahqRta-muxiwaH>K3			
+1	prahqRta-muxiwaH		prahqRtamuxiwo	muxiwa{puM;1;eka(hqR2;kwa;hqRaz;:xivAxiH-mux1;kwa;muxaz;:BvAxiH)}	muxiwa-muxiwa{puM;1;eka(muxiwa-hqR2;kwa;hqRaz;:xivAxiH-mux1;kwa;muxaz;:BvAxiH)}	viXeya_viSeRaNam,2	muxiwa-NWyA_huA		<prahqRta-muxiwaH>K3			
 2	lokaH		lokawuRtaH	loka{puM;1;eka}	loka{puM;1;eka}	karwA,11	loka					
-3	wuRtaH			wuR{avya;wasil}/wuRta{puM;1;eka(wuR1;kwa;wuRaz;:xivAxiH)}	wuRta{puM;1;eka(wuR1;kwa;wuRaz;:xivAxiH)}	viXeya-viSeRaNam,2						
-4	puRtaH		puRtaH	puRta{puM;1;eka(puR2;kwa;puRaz;:xivAxiH)}	puRta{puM;1;eka(puR2;kwa;puRaz;:xivAxiH)}	viXeya-viSeRaNam,2	puRta					
-5	su-XArmikaH		suXArmikaH	su-XArmika{puM;1;eka}	su-XArmika{puM;1;eka}	viXeya-viSeRaNam,2	su-XArmika		<su-XArmikaH>K1			
-6	nirAmayaH		nirAmayo	nirAmaya{puM;1;eka}	nirAmaya{puM;1;eka}	viXeya-viSeRaNam,2	nirAmaya		<nir-AmayaH>Bsmg			
+3	wuRtaH			wuR{avya;wasil}/wuRta{puM;1;eka(wuR1;kwa;wuRaz;:xivAxiH)}	wuRta{puM;1;eka(wuR1;kwa;wuRaz;:xivAxiH)}	viXeya_viSeRaNam,2						
+4	puRtaH		puRtaH	puRta{puM;1;eka(puR2;kwa;puRaz;:xivAxiH)}	puRta{puM;1;eka(puR2;kwa;puRaz;:xivAxiH)}	viXeya_viSeRaNam,2	puRta					
+5	su-XArmikaH		suXArmikaH	su-XArmika{puM;1;eka}	su-XArmika{puM;1;eka}	viXeya_viSeRaNam,2	su-XArmika		<su-XArmikaH>K1			
+6	nirAmayaH		nirAmayo	nirAmaya{puM;1;eka}	nirAmaya{puM;1;eka}	viXeya_viSeRaNam,2	nirAmaya		<nir-AmayaH>Bsmg			
 7	hI		hyarogaSca	hI{avya}	hI{avya}	sambanXaH,2	WakAvata					
-8	arogaH			aroga{puM;1;eka}	aroga{puM;1;eka}	viXeya-viSeRaNam,2	aroga		<na-rogaH>Tn			
+8	arogaH			aroga{puM;1;eka}	aroga{puM;1;eka}	viXeya_viSeRaNam,2	aroga		<na-rogaH>Tn			
 9	ca			ca{avya}	ca{avya}	sambanXaH,11	Ora					
-10	xurBikRa-Baya-varjiwaH		xurBikRaBayavarjiwaH	xurBikRa-Baya-varjiwa{puM;1;eka(xurBikRa-Baya-vqj4;kwa;vqjIz;:curAxiH)}	xurBikRa-Baya-varjiwa{puM;1;eka(xurBikRa-Baya-vqj4;kwa;vqjIz;:curAxiH)}	viXeya-viSeRaNam,2	akAla-Baya-varjiwa		<<<xur-BikRa>A1-Baya>Di-varjiwaH>T3			
+10	xurBikRa-Baya-varjiwaH		xurBikRaBayavarjiwaH	xurBikRa-Baya-varjiwa{puM;1;eka(xurBikRa-Baya-vqj4;kwa;vqjIz;:curAxiH)}	xurBikRa-Baya-varjiwa{puM;1;eka(xurBikRa-Baya-vqj4;kwa;vqjIz;:curAxiH)}	viXeya_viSeRaNam,2	akAla-Baya-varjiwa		<<<xur-BikRa>A1-Baya>Di-varjiwaH>T3			
 11	(BaviRyawi)			BU1{karwari;lqt;pra;eka;parasmEpaxI;BU;:BvAxiH}/BaviRyaw{puM;7;eka}/BaviRyaw{napuM;7;eka}	BU1{karwari;lqt;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,2;sakarmaka	hogA					

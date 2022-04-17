@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	cAriwreNa		cAriwreNa	cAriwra{napuM;3;eka}	cAriwra{napuM;3;eka}	hewuH,5	cAriwra_se					
-2	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,3	Ora					
+2	ca		ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora					
 3	kaH		kaH	kim{sarvanAma;puM;1;eka}	kim{sarvanAma;puM;1;eka}	karwA,5	kOna					
 4	yukwaH		yukwaH	yuj{avya;wasil}/yukwa{puM;1;eka}	yuj{avya;wasil}/yukwapuM;1;eka}	samucciwaH,3						
 5	(aswi)		aswi	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA;sakarmaka;3	hE					
 6	sarva-BUweRu		sarva-BUweRu	sarva-BUwa{napuM;7;bahu}	sarva-BUwa{napuM;7;bahu}	aXikaraNam,9	saba-prANiyoM_meM					
 7	kaH		kaH	kim{sarvanAma;puM;1;eka}	kim{sarvanAma;puM;1;eka}	karwA,9	kOna					
-8	hiwaH		hiwaH	hiwa{puM;1;eka(XA1;kwa;duXAF;:juhowyAxiH)}/hiwa{puM;1;eka(hi1;kwa;hi;:svAxiH)}	hiwa{puM;1;eka(XA1;kwa;duXAF;:juhowyAxiH)}/hiwapuM;1;eka(hi1;kwa;hi;:svAxiH)}	karwqsamAnAXikaraNam,9						
+8	hiwaH		hiwaH	hiwa{puM;1;eka(XA1;kwa;duXAF;:juhowyAxiH)}/hiwa{puM;1;eka(hi1;kwa;hi;:svAxiH)}	hiwa{puM;1;eka(XA1;kwa;duXAF;:juhowyAxiH)}/hiwapuM;1;eka(hi1;kwa;hi;:svAxiH)}	viXeya_viSeRaNam,9						
 9	(aswi)		aswi	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA;sakarmaka;7	hE					
-10	vixvAn		vixvAn	vixvas{puM;1;eka}	vixvas{puM;1;eka}	karwqsamAnAXikaraNam,12	vixvAn					
+10	vixvAn		vixvAn	vixvas{puM;1;eka}	vixvas{puM;1;eka}	viXeya_viSeRaNam,12	vixvAn					
 11	kaH		kaH	kim{sarvanAma;puM;1;eka}	kim{sarvanAma;puM;1;eka}	karwA,12	kOna					
 12	(aswi)		aswi	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA;sakarmaka;11	hE					
 13	kaH		kaH	kim{sarvanAma;puM;1;eka}	kim{sarvanAma;puM;1;eka}	karwA,19	kOna					
 14	samarWaH		samarWaH	samarWa{puM;1;eka(arWa1;GaF;arWa;:curAxiH)}	samarWa{puM;1;eka(arWa1;GaF;arWa;:curAxiH)}	samucciwaH,13	samarWa					
-15	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,13	Ora					
-16	kaH		kaH	kim{sarvanAma;puM;1;eka}	kim{sarvanAma;puM;1;eka}	karwqsamAnAXikaraNam,19	kOna					
-17	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,16	Ora					
+15	ca		ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,13	Ora					
+16	kaH		kaH	kim{sarvanAma;puM;1;eka}	kim{sarvanAma;puM;1;eka}	viXeya_viSeRaNam,19	kOna					
+17	ca		ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,16	Ora					
 18	eka-priya-xarSanaH		eka-priya-xarSanaH	eka-priya-xarSana{puM;1;eka}	eka-priya-xarSana{puM;1;eka}	samucciwaH,16	eka-priya-xarSana					
 19	(aswi)		aswi	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA;sakarmaka;13	hE					

@@ -4,14 +4,14 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 3	asmin			ixam{sarvanAma;puM;7;eka}/ixam{sarvanAma;napuM;7;eka}	anu-ixam{sarvanAma;puM;7;eka}	viSeRaNam,5	anu-isameM					
 4	sAmprawaM		sAmprawaM	sAmprawam{avya}	sAmprawam{avya}	kAlAXikaraNam,5	aba					
 5	loke		loke	lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;:BvAxiH}/loka{puM;7;eka}	lok1{puM;7;eka}	aXikaraNam,16	xeKawA_hUz					
-6	guNavAn		guNavAn	guNa{mawup;puM;1;eka}	guNa{mawup;puM;1;eka}	karwqsamAnAXikaraNam,16	guNa					
+6	guNavAn		guNavAn	guNa{mawup;puM;1;eka}	guNa{mawup;puM;1;eka}	viXeya_viSeRaNam,16	guNa					
 7	kaH		kaSca	kim{sarvanAma;puM;1;eka}	kim{sarvanAma;puM;1;eka}	samucciwaH,16	kOna					
-8	ca			ca{avya}	ca{avya}	samuccayaxyowakaH,7	Ora					
-9	vIryavAn		vIryavAn	vIryavaw{puM;1;eka}	vIryavaw{puM;1;eka}	karwqsamAnAXikaraNam,16	majabUwa					
-10	XarmajFaH		XarmajFaSca	XarmajFa{puM;1;eka}	XarmajFa{puM;1;eka}	karwqsamAnAXikaraNam,16	XarmajFa					
-11	ca			ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora					
-12	kqwajFaH		kqwajFaSca	kqwajFa{puM;1;eka}	kqwajFa{puM;1;eka}	karwqsamAnAXikaraNam,16	kqwajFa					
-13	ca			ca{avya}	ca{avya}	samuccayaxyowakaH,12	Ora					
-14	sawya-vAkyaH		sawya-vAkyo	sawya-vAkya{puM;1;eka}	sawya-vAkya{puM;1;eka}	karwqsamAnAXikaraNam,16	sawya-vAkya					
-15	xqDavrawaH		xqDavrawaH	xqDavrawa{puM;1;eka}	xqDavrawa{puM;1;eka}	karwqsamAnAXikaraNam,16	adiga_Bakwa					
+8	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,7	Ora					
+9	vIryavAn		vIryavAn	vIryavaw{puM;1;eka}	vIryavaw{puM;1;eka}	viXeya_viSeRaNam,16	majabUwa					
+10	XarmajFaH		XarmajFaSca	XarmajFa{puM;1;eka}	XarmajFa{puM;1;eka}	viXeya_viSeRaNam,16	XarmajFa					
+11	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora					
+12	kqwajFaH		kqwajFaSca	kqwajFa{puM;1;eka}	kqwajFa{puM;1;eka}	viXeya_viSeRaNam,16	kqwajFa					
+13	ca			ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora					
+14	sawya-vAkyaH		sawya-vAkyo	sawya-vAkya{puM;1;eka}	sawya-vAkya{puM;1;eka}	viXeya_viSeRaNam,16	sawya-vAkya					
+15	xqDavrawaH		xqDavrawaH	xqDavrawa{puM;1;eka}	xqDavrawa{puM;1;eka}	viXeya_viSeRaNam,16	adiga_Bakwa					
 16	(aswi)					aBihiwa_karwA;sakarmaka;1						

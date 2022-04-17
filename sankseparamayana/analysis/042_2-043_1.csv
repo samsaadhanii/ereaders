@@ -3,11 +3,11 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 2	ca			ca{avya}	ca{avya}	sambanXaH,4	Ora					
 3	eva			eva{avya}	eva{avya}	sambanXaH,4	hI					
 4	jagrAha		jagrAhEnxraM	grah1{karwari;lit;pra;eka;parasmEpaxI;grahaz;:kryAxiH}/grah1{karwari;lit;u;eka;parasmEpaxI;grahaz;:kryAxiH}	grah1{karwari;lit;pra;eka;parasmEpaxI;grahaz;:kryAxiH}	aBihiwa_karwA,9;sakarmaka	liyA					
-5	EnxraM			Enxra{puM;2;eka}/Enxra{napuM;1;eka}/Enxra{napuM;2;eka}	Enxra{napuM;2;eka}	viXeya-viSeRaNam,6	Enxra_ko					
+5	EnxraM			Enxra{puM;2;eka}/Enxra{napuM;1;eka}/Enxra{napuM;2;eka}	Enxra{napuM;2;eka}	viXeya_viSeRaNam,6	Enxra_ko					
 6	SarAsanam		SarAsanam	SarAsana{napuM;1;eka}/SarAsana{napuM;2;eka}	SarAsana{napuM;2;eka}	karma,4	XanuRa		<SarA-Asanam>Bs6			
 7	KadgaM		KadgaM	Kadga{puM;2;eka}	Kadga{puM;2;eka}	samucciwaH,6	walavAra_ko					
-8	ca		ca	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora					
+8	ca		ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora					
 9	parama-prIwaH		paramaprIwaswUNI	parama-prI{avya;wasil}/parama-prIwa{puM;1;eka(prI1;kwa;prIf;:xivAxiH)}/parama-prIwa{puM;1;eka(prI2;kwa;prIF;:kryAxiH)}	parama-prIwa{puM;1;eka(prI1;kwa;prIf;:xivAxiH)}	karwA,4	parama-		<parama-prIwaH>K1			
 10	wUNI			wUNI{swrI;1;eka}	wUNI{puM;2;xvi}	samucciwaH,7	warakasa					
-11	ca		cAkRayasAyakO	ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora					
+11	ca		cAkRayasAyakO	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora					
 12	akRaya-sAyakO			akRaya-sAyaka{puM;1;xvi}/sAyaka{puM;2;xvi}/akRaya-sAyaka{puM;1;xvi(Ri1;Nvul;RiF;:svAxiH)}/akRaya-sAyaka{puM;2;xvi(Ri1;Nvul;RiF;:svAxiH)}/akRaya-sAyaka{puM;1;xvi(Ro1;Nvul;Ro;:xivAxiH)}/akRaya-sAyaka{puM;2;xvi(Ro1;Nvul;Ro;:xivAxiH)}/akRaya-sAyaka{puM;1;xvi(sE1;Nvul;sE;:BvAxiH)}/akRaya-sAyaka{puM;2;xvi(sE1;Nvul;sE;:BvAxiH)}/akRaya-sAyaka{puM;1;xvi(Ri2;Nvul;RiF;:kryAxiH)}/akRaya-sAyaka{puM;2;xvi(Ri2;Nvul;RiF;:kryAxiH)}	akRaya-sAyaka{puM;2;xvi}	viSeRaNam,10	akRaya-bANa		<akRaya-sAyakO>Bs6			
