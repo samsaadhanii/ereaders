@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	Avqwam	10	AvqwaM	Avqw{swrI}{2;eka}/Af_vqw1{karwari;luf;u;eka;AwmanepaxI;vqwuz;BvAxiH}	Af_vq2{kqw_prawyayaH:kwa;Af_vqF;svAxiH;napuM}{1;eka}	sambanXaH,10.1;aBihiwa_karma,2	DakA_huA	coverex				
+1	Avqwam	10	AvqwaM	Avqw{swrI}{2;eka}/Af_vqw1{karwari;luf;u;eka;AwmanepaxI;vqwuz;BvAxiH}	Af_vq2{kqw_prawyayaH:kwa;Af_vqF;svAxiH;napuM}{1;eka}	sambanXaH,10.1;aBihiwa_karma,2	DakA_huA	covered				
 2	jFAnam	9	jFAnamewena	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,1	jFAna	pure_consciousness				
-3	ewena	3	0	ewax{puM}{3;eka}/ewax{napuM}{3;eka}	ewax{napuM}{3;eka}	viSeRaNam,5	isa	by_whis				
-4	jFAninaH	6	jFAnino	jFAnin{puM}{1;bahu}/jFAnin{puM}{2;bahu}/jFAnin{puM}{5;eka}/jFAnin{puM}{6;eka}/jFAnin{puM}{8;bahu}	jFAnin{puM}{6;eka}	RaRTIsambanXaH,5	jFAniyoM_ke	oq_whe_knoter				
-5	niwya-vEriNA	7	niwyavEriNA	niwyavEriNA	niwyavErin{napuM}{3;eka}	viSeRaNam,9	niwya_vErI_ke_xvArA_(manuRya_kA)	ewernal_enemy	<niwya-vEriNA>K1			
-6	kAma-rUpeNa	5	kAmarUpeNa	kAma-rUpa{napuM}{3;eka}	kAma-rUpa{napuM}{3;eka}	viSeRaNam,5	kAmarUpa	in_whe_qorm_oq_lusw	<kAma-rUpeNa>Bs6			
-7	kOnweya	2	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,10.1	he_arjuna	O_son_oq_Kunwi				
-8	xuR-pUreNa	4	xuRpUreNAnalena	xuRpUra{puM}{3;eka}/xuRpUra{napuM}{3;eka}	xuRpUra{napuM}{3;eka}	viSeRaNam,9	na_pUrNa_honevAle	never_wo_be_sawisqiex	<xuR-pUreNa>Wp			
-9	analena	8	0	anala{puM}{3;eka}	anala{puM}{3;eka}	karwA,1	agni_ke	by_whe_qire				
+3	ewena	3	0	ewax{puM}{3;eka}/ewax{napuM}{3;eka}	ewax{napuM}{3;eka}	viSeRaNam,5	isa	by_this				
+4	jFAninaH	6	jFAnino	jFAnin{puM}{1;bahu}/jFAnin{puM}{2;bahu}/jFAnin{puM}{5;eka}/jFAnin{puM}{6;eka}/jFAnin{puM}{8;bahu}	jFAnin{puM}{6;eka}	RaRTIsambanXaH,5	jFAniyoM_ke	of_the_knower				
+5	niwya-vEriNA	7	niwyavEriNA	niwyavEriNA	niwyavErin{napuM}{3;eka}	viSeRaNam,9	niwya_vErI_ke_xvArA_(manuRya_kA)	eternal_enemy	<niwya-vEriNA>K1			
+6	kAma-rUpeNa	5	kAmarUpeNa	kAma-rUpa{napuM}{3;eka}	kAma-rUpa{napuM}{3;eka}	viSeRaNam,5	kAmarUpa	in_the_form_of_lust	<kAma-rUpeNa>Bs6			
+7	kOnweya	2	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,10.1	he_arjuna	O_son_of_Kunti				
+8	xuR-pUreNa	4	xuRpUreNAnalena	xuRpUra{puM}{3;eka}/xuRpUra{napuM}{3;eka}	xuRpUra{napuM}{3;eka}	viSeRaNam,9	na_pUrNa_honevAle	never_to_be_satisfied	<xuR-pUreNa>Tp			
+9	analena	8	0	anala{puM}{3;eka}	anala{puM}{3;eka}	karwA,1	agni_ke	by_the_fire				
 10	ca	1	ca	ca{avya}	ca{avya}	sambanXaH,1	Ora	also				
 10.1	(aswi)	11	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwAH,1;akarmakaH	(hE)	is				

@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ewaw	2	ewacCruwvA	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,3	isa	whus				
+1	ewaw	2	ewacCruwvA	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,3	isa	thus				
 2	SruwvA	4	0	Sru1{avya;kwvA;Sru;:BvAxiH}	Sru1{avya;kwvA;Sru;:BvAxiH}	pUrvakAlaH,11	sunakara	hearing				
 3	vacanam	3	vacanaM	vacana{napuM}{1;eka}/vacana{napuM}{2;eka}	vacana{napuM}{2;eka}	karma,2	vacana_ko	speech				
-4	keSavasya	1	keSavasya	keSava{puM}{6;eka}	keSava{puM}{6;eka}	RaRTIsambanXaH,3	keSavaBagavAn_ke	oq_Krsna				
-5	kqwa-aFjaliH	5	kqwAFjalirvepamAnaH	kqwa-aFjali{puM}{1;eka}	kqwa-aFjali{puM}{1;eka}	viSeRaNam,7	hAWa_joda़kara	tiwh_qolxex_hanxs	<kqwa-aFjaliH>Bs3			
-6	vepamAnaH	6	0	vepamAna{puM}{1;eka}	vep1{kqw_prawyayaH:SAnac;tuvepqz;BvAxiH;puM}{1;eka}	viSeRaNam,7	kAzpawA_huA	wrembling				
+4	keSavasya	1	keSavasya	keSava{puM}{6;eka}	keSava{puM}{6;eka}	RaRTIsambanXaH,3	keSavaBagavAn_ke	of_Krsna				
+5	kqwa-aFjaliH	5	kqwAFjalirvepamAnaH	kqwa-aFjali{puM}{1;eka}	kqwa-aFjali{puM}{1;eka}	viSeRaNam,7	hAWa_joda़kara	with_folded_hands	<kqwa-aFjaliH>Bs3			
+6	vepamAnaH	6	0	vepamAna{puM}{1;eka}	vep1{kqw_prawyayaH:SAnac;tuvepqz;BvAxiH;puM}{1;eka}	viSeRaNam,7	kAzpawA_huA	trembling				
 7	kirItI	8	kirItI	kirItin{puM}{1;eka}	kirItin{puM}{1;eka}	karwA,11	mukutaXArI_arjuna	Arjuna				
-8	namaskqwvA	9	namaskqwvA	kq3{avya;kwvA;dukqF;:wanAxiH}	namas_kq3{avya;kwvA;dukqF;:wanAxiH}	pUrvakAlaH,11	namaskAra_karake	oqqering_obeisances				
+8	namaskqwvA	9	namaskqwvA	kq3{avya;kwvA;dukqF;:wanAxiH}	namas_kq3{avya;kwvA;dukqF;:wanAxiH}	pUrvakAlaH,11	namaskAra_karake	offering_obeisances				
 9	BUyaH	10	BUya	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,15	Pira	again				
 10	eva	11	evAha	eva{avya}	eva{avya}	sambanXaH,9	BI	also				
-11	Aha	15	0	brU1{karwari;lit;pra;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,7	bolA	saix				
-12	kqRNam	14	kqRNaM	kqRNa{puM}{2;eka}/kqRNa{napuM}{1;eka}/kqRNa{napuM}{2;eka}	kqRNa{puM}{2;eka}	karma,11	BagavAn_SrIkqRNa_ke_prawi	unwo_Krsna				
-13	sa-gaxgaxam	13	sagaxgaxaM	sa-gaxgaxa{puM}{2;eka}	sa-gaxgaxa{napuM}{2;eka}	kriyAviSeRaNam,11	gaxgaxa_vANI_se	qalwering	<sa-gaxgaxam>BvS			
-14	BIwa-BIwaH	7	BIwaBIwaH	BIwa-BIwa{puM}{1;eka}	BIwa-BIwa{puM}{1;eka}	viSeRaNam,7	awyanwa_BayaBIwa_hokara	qearqul	<BIwa-BIwaH>W5			
-15	praNamya	12	praNamya	Nam1{avya;lyap;Namaz;:BvAxiH}	pra_Nam1{avya;lyap;Namaz;:BvAxiH}	pUrvakAlaH,11	praNAma_karake	oqqering_obeisances				
+11	Aha	15	0	brU1{karwari;lit;pra;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,7	bolA	said				
+12	kqRNam	14	kqRNaM	kqRNa{puM}{2;eka}/kqRNa{napuM}{1;eka}/kqRNa{napuM}{2;eka}	kqRNa{puM}{2;eka}	karma,11	BagavAn_SrIkqRNa_ke_prawi	unto_Krsna				
+13	sa-gaxgaxam	13	sagaxgaxaM	sa-gaxgaxa{puM}{2;eka}	sa-gaxgaxa{napuM}{2;eka}	kriyAviSeRaNam,11	gaxgaxa_vANI_se	faltering	<sa-gaxgaxam>BvS			
+14	BIwa-BIwaH	7	BIwaBIwaH	BIwa-BIwa{puM}{1;eka}	BIwa-BIwa{puM}{1;eka}	viSeRaNam,7	awyanwa_BayaBIwa_hokara	fearful	<BIwa-BIwaH>T5			
+15	praNamya	12	praNamya	Nam1{avya;lyap;Namaz;:BvAxiH}	pra_Nam1{avya;lyap;Namaz;:BvAxiH}	pUrvakAlaH,11	praNAma_karake	offering_obeisances				

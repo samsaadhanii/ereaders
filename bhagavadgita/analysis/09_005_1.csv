@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	na	3	na	na{avya}	na{avya}	prawiReXaH,4.1	nahIM	never				
 2	ca	10	ca	ca{avya}	ca{avya}	sambanXaH,4.1	Ora	also				
-3	maw-sWAni	2	mawsWAni	asmax-sWa{napuM}{1;bahu}/sWa{napuM}{2;bahu}/sWa{napuM}{8;bahu}/sWAnin{napuM}{1;eka}/sWAnin{napuM}{2;eka}	asmax-sWa{napuM}{1;bahu}	karwqsamAnAXikaraNam,4.1	muJameM_sWiwa	siwuawex_in_Me	<asmaw-sWAni>U			
-4	BUwAni	1	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{1;bahu}	karwA,4.1	ve_saba_BUwa	all_creawion				
+3	maw-sWAni	2	mawsWAni	asmax-sWa{napuM}{1;bahu}/sWa{napuM}{2;bahu}/sWa{napuM}{8;bahu}/sWAnin{napuM}{1;eka}/sWAnin{napuM}{2;eka}	asmax-sWa{napuM}{1;bahu}	karwqsamAnAXikaraNam,4.1	muJameM_sWiwa	situated_in_Me	<asmaw-sWAni>U			
+4	BUwAni	1	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{1;bahu}	karwA,4.1	ve_saba_BUwa	all_creation				
 4.1	(sanwi)	4	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hEM)	are				
-5	paSya	8	paSya	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}		xeKa	jusw_see				
+5	paSya	8	paSya	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}		xeKa	just_see				
 6	me	5	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,7	merI	my				
-7	yogam	7	yogamESvaram	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,5	yogaSakwi_ko	myswic_poter				
+7	yogam	7	yogamESvaram	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,5	yogaSakwi_ko	mystic_power				
 8	ESvaram	6	0	ESvara{puM}{2;eka}/ESvara{napuM}{1;eka}/ESvara{napuM}{2;eka}	ESvara{puM}{2;eka}	viSeRaNam,7	ISvarIya	inconceivable				
-9	BUwa-Bqw	9	BUwaBqnna	BUwa-Bqw{napuM}/Bqw{puM}/Bqw{napuM}/Bqw{puM}	BUwa-Bqw{puM}{1;eka}	su्p_samucciwam,15	BUwoM_kA_XAraNa-poRaNa_karanevAlA	mainwainer_oq_all_living_enwiwies	<BUwa-Bqw>U			
+9	BUwa-Bqw	9	BUwaBqnna	BUwa-Bqw{napuM}/Bqw{puM}/Bqw{napuM}/Bqw{puM}	BUwa-Bqw{puM}{1;eka}	su्p_samucciwam,15	BUwoM_kA_XAraNa-poRaNa_karanevAlA	maintainer_of_all_living_entities	<BUwa-Bqw>U			
 10	na	16	0	na{avya}	na{avya}	prawiReXaH,15.1	nahIM	never				
 11	ca	12	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,15	BI	also				
-12	BUwa-sWaH	15	BUwasWo	BUwa-sWa{puM}{1;eka}	BUwa-sWa{puM}{1;eka}	su्p_samucciwam,15	BUwoM_meM_sWiwa	in_whe_cosmic_maniqeswawion	<BUwa-sWaH>U			
+12	BUwa-sWaH	15	BUwasWo	BUwa-sWa{puM}{1;eka}	BUwa-sWa{puM}{1;eka}	su्p_samucciwam,15	BUwoM_meM_sWiwa	in_the_cosmic_manifestation	<BUwa-sWaH>U			
 13	mama	13	mamAwmA	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,14	merA	my				
-14	AwmA	14	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,15.1	AwmA	selq				
-15	BUwa-BAvanaH	11	BUwaBAvanaH	BUwa-BAvana{puM}{1;eka}	BUwa-BAvana{puM}{1;eka}	karwqsamAnAXikaraNam,15.1	BUwoM_ko_uwpanna_karanevAlA	whe_source_oq_all_maniqeswawions	<BUwa-BAvanaH>U			
+14	AwmA	14	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,15.1	AwmA	self				
+15	BUwa-BAvanaH	11	BUwaBAvanaH	BUwa-BAvana{puM}{1;eka}	BUwa-BAvana{puM}{1;eka}	karwqsamAnAXikaraNam,15.1	BUwoM_ko_uwpanna_karanevAlA	the_source_of_all_manifestations	<BUwa-BAvanaH>U			
 15.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				

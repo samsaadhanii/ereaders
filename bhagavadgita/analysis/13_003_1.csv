@@ -1,0 +1,34 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	waw	1	wawkRewraM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,2	vaha	that				
+2	kRewram	2	0	kRewra{napuM}{1;eka}/kRewra{napuM}{2;eka}	kRewra{napuM}{1;eka}	karwA,10.1	kRewra	field_of_activities				
+3	yaw	3	yacca	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	supsamucciwam,10	jo	as				
+4	ca	4	0	ca{avya}	ca{avya}	samuccayaxyowakaH,3	Ora	also				
+5	yAxqk	5	yAxqkca	yAxqS{napuM}{1;eka}/yAxqS{napuM}{8;eka}	yAxqS{napuM}{1;eka}	supsamucciwam,10	jEsA	as_it_is				
+6	ca	6	0	ca{avya}	ca{avya}	samuccayaxyowakaH,5	waWA	also				
+7	yaw-vikAri	7	yaxvikAri	yax-vikArin{napuM}{1;eka}/vikArin{napuM}{2;eka}	yax-vikArin{napuM}{1;eka}	supsamucciwam,8	jina_vikAroMvAlA	that_which_changes	<yaw-vikAri>T3			
+8	yawaH	8	yawaSca	yawaH{avya}/yawa{puM}{1;eka}	yawaH{avya}	supsamucciwam,10	jisa_kAraNa_se	from_which				
+9	ca	10	0	ca{avya}	ca{avya}	samuccayaxyowakaH8	Ora	also				
+10	yaw	9	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwqsamAnAXikaraNam,10.1	jo	which				
+10.1	(aswi)	11	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
+11	saH	12	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,15.1	vaha	he				
+12	ca	13	0	ca{avya}	ca{avya}	sambanXaH,11	waWA	also				
+13	yaH	14	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	supsamucciwam,14	jo	one_who_is				
+14	yaw-praBAvaH	15	yawpraBAvaSca	yax-praBAva{puM}{1;eka}	yax-praBAva{puM}{1;eka}	karwqsamAnAXikaraNam,15.1	jisa_praBAvavAlA	that_which_influences	<yaw-praBAvaH>Bs6			
+15	ca	16	ca	ca{avya}	ca{avya}	samu्ccayaxyowakaH,14	Ora	also				
+15.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hE)	is				
+16	waw	30	wawsamAsena	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,19	vaha	that				
+17	samAsena	32	0	samAsa{puM}{3;eka}	samAsa{puM}{3;eka}	kriyAviSeRaNam,19	saMkRepa_meM	in_summary				
+18	me	31	me	asmax{6;eka}	asmax{6;eka}	apAxAnam,19	muJase	from_Me				
+19	SqNu	33	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}		suna	understand				
+20	qRiBiH	18	qRiBirbahuXA	qRi{puM}{3;bahu}	qRi{puM}{3;bahu}	karwA,22	qRiyoM_xvArA	by_the_wise_sages				
+21	bahuXA	19	0	bahuXA{avya}	bahuXA{avya}	kriyAviSeRaNam,22	bahuwa_bAra	in_many_ways				
+22	gIwam	20	gIwaM	gIwa{puM}{2;eka}/gIwa{napuM}{1;eka}/gIwa{napuM}{2;eka}	gE1{kqw_prawyayaH:kwa;gE;BvAxiH;napuM}{1;eka}	viSeRaNam,16	kahA_gayA_hE	described				
+23	CanxoBiH	22	CanxoBirviviXEH	Canxas{napuM}{3;bahu}	Canxas{napuM}{3;bahu}	supsamucciwam,29	vexamanwroM_xvArA	Vedic_hymns				
+24	viviXEH	21	0	viviXa{puM}{3;bahu}/viviXa{napuM}{3;bahu}	viviXa{napuM}{3;bahu}	viSeRaNam,23	viviXa	in_various				
+25	pqWak	23	pqWak	pqWak{avya}	pqWak{avya}	kriyAviSeRaNam,	viBAgapUrvaka	variously				
+26	brahma-sUwra-paxEH	24	brahmasUwrapaxEScEva	brahman-sUwra-paxa{napuM}{3;bahu}	brahman-sUwra-paxa{napuM}{3;bahu}	supsamucciwam,29	brahmasUwra_ke_paxoM_xvArA	with_the_Vedanta_aphorisms	<<brahma-sUwra>T6-paxEH>T6			
+27	ca	27	0	ca{avya}	ca{avya}	samuccayaxyowakaH,29	waWA	also				
+28	eva	28	0	eva{avya}	eva{avya}	sambanXaH,27	BI	certainly				
+29	hewumaxBiH	26	hewumaxBirviniSciwEH	hewumaw{puM}{3;bahu}/hewumaw{napuM}{3;bahu}	hewumaw{napuM}{3;bahu}	karaNam,30.1	yukwiyukwa	with_cause_and_effect				
+30	viniSciwEH	25	0	viniSciwa{puM}{3;bahu}/viniSciwa{napuM}{3;bahu}	viniSciwa{napuM}{3;bahu}	viSeRaNam,29	BalIBAzwi_niScaya_kiye_hue	ascertain				
+30.1	(gIwam)	29	(0)	(gIwa{puM}{2;eka}/gIwa{napuM}{1;eka}/gIwa{napuM}{2;eka})	(gE1{kqw_prawyayaH:kwa;gE;BvAxiH;napuM}{1;eka})	viSeRaNam,16	(kahA_gayA_hE)	described				

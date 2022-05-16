@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaw	1	yaxyaxviBUwimawsawwvaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	vIpsA,2	jo	thawever				
-2	yaw	2	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,8.1;niwyasambanXaH,10	jo	thawever				
+1	yaw	1	yaxyaxviBUwimawsawwvaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	vIpsA,2	jo	whatever				
+2	yaw	2	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,8.1;niwyasambanXaH,10	jo	whatever				
 3	vi-BUwimaw	4	0	vi-BUwi-asmax{5;eka}	viBUwimaw{napuM}{1;eka}	anyawaraH,6	viBUwiyukwa_arWAw_ESvaryayukwa	having_opulences	<vi-BUwi>Bvp^maw			
-4	sawwvam	8	0	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	anyawaraH,6	vaswu	eLiswence				
-5	*SrImaw	5	SrImaxUrjiwameva	SrI-asmax{5;eka}	SrImaw{napuM}{1;eka}	anyawaraH,6	kAnwiyukwa	beauwiqul				
+4	sawwvam	8	0	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	anyawaraH,6	vaswu	existence				
+5	*SrImaw	5	SrImaxUrjiwameva	SrI-asmax{5;eka}	SrImaw{napuM}{1;eka}	anyawaraH,6	kAnwiyukwa	beautiful				
 6	Urjiwam	7	0	Urjiwa{puM}{2;eka}/Urjiwa{napuM}{1;eka}/Urjiwa{napuM}{2;eka}	Urjiwa{napuM}{1;eka}	karwqsamAnAXikaraNam,8.1	Sakwiyukwa	glorious				
-7	eva	3	0	eva{avya}	eva{avya}	sambanXaH,6	BI	cerwainly				
+7	eva	3	0	eva{avya}	eva{avya}	sambanXaH,6	BI	certainly				
 8	vA	6	vA	vA{avya}	vA{avya}	anyawaraxyowakaH,6	Ora	or				
 8.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
 9	waw	10	wawwaxevAvagacCa	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	vIpsA,10	usako	all				
-10	waw	11	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,12	usako	whose				
-11	eva	15	0	eva{avya}	eva{avya}	sambanXaH,10	hI	cerwainly				
-12	avagacCa	17	0	ava_gam1{karwari;lot;ma;eka;parasmEpaxI;gamLz;BvAxiH}	ava_gam1{karwari;lot;ma;eka;parasmEpaxI;ava_gamLz;BvAxiH}	aBihiwAkarwA,13;sakarmakaH	jAna	musw_knot				
+10	waw	11	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,12	usako	those				
+11	eva	15	0	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
+12	avagacCa	17	0	ava_gam1{karwari;lot;ma;eka;parasmEpaxI;gamLz;BvAxiH}	ava_gam1{karwari;lot;ma;eka;parasmEpaxI;ava_gamLz;BvAxiH}	aBihiwAkarwA,13;sakarmakaH	jAna	must_know				
 13	wvam	16	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,12	wU	you				
 14	mama	12	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,15	mere	my				
-15	wejaH	13	wejoMZSasamBavam	wejoMZSasamBavam	wejas-aMSa-sam_BU1{kqw_prawyayaH:ac;sam_BU;BvAxiH;napuM}{2;eka}	karmasamAnAXikaraNam,12	weja_ke_aMSa_kI_aBivyakwi	born_oq_parw_splenxor	<<weja-aMSa>W6-samBavam>Bs6			
+15	wejaH	13	wejoMZSasamBavam	wejoMZSasamBavam	wejas-aMSa-sam_BU1{kqw_prawyayaH:ac;sam_BU;BvAxiH;napuM}{2;eka}	karmasamAnAXikaraNam,12	weja_ke_aMSa_kI_aBivyakwi	born_of_part_splendor	<<weja-aMSa>T6-samBavam>Bs6			
 16	aMSa-samBavam	14				viSeRaNam,15						

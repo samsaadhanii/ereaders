@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wasmAw	1	wasmAnnArhA	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{napuM}{5;eka}	hewuH,5	awaeva	whereqore				
+1	wasmAw	1	wasmAnnArhA	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{napuM}{5;eka}	hewuH,5	awaeva	therefore				
 2	na	6	0	na{avya}	na{avya}	prawiReXaH,5	nahIM	never				
-3	arhAH	8	arhAH	arha{puM}{1;bahu}/arhA{swrI}{1;bahu}/arhA{swrI}{2;bahu}	arh1{kqw_prawyayaH:ac;arhaz;BvAxiH;puM}{1;bahu}	karwA,3.1	yogya_hEM	xeserving_wo_kill				
+3	arhAH	8	arhAH	arha{puM}{1;bahu}/arhA{swrI}{1;bahu}/arhA{swrI}{2;bahu}	arh1{kqw_prawyayaH:ac;arhaz;BvAxiH;puM}{1;bahu}	karwA,3.1	yogya_hEM	deserving_to_kill				
 3.1	(smaH)	8.1	()	as2{karwari;lat;u;bahu;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;bahu;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,3						
-4	vayam	3	vayaM	asmax{1;bahu}	asmax{1;bahu}	karwA,3	hama	te				
-5	hanwum	7	hanwuM		han1{kqw_prawyayaH:wumun;hanaz;axAxiH}	sahAyakakriyA,3	mArane_ke_liye	xeserving_wo_kill				
-6	XArwarARtrAn	5	XArwarARtrAnsvabAnXavAn	XArwarARtra{puM}{2;bahu}	XArwarARtra{puM}{2;bahu}	karma,5	XqwarARtra_ke_puwroM_ko	whe_sons_oq_Xhrwaraswra				
-7	sva-bAnXavAn	4	0	sva-bAnXava{puM}{2;bahu}	sva-bAnXava{puM}{2;bahu}	viSeRaNam,6	apane_hI_bAnXava	our_relawions	<sva-bAnXavAn>W6			
-8	sva-janam	10	svajanaM	sva-jana{puM}{2;eka}	sva-jana{puM}{2;eka}	karma,11	apane_hI_kutumba_ko	our_otn_kinsmen	<sva-janaM>W6			
-9	hi	9	hi	hi{avya}	hi{avya}	sambanXaH,13	kyoMki	cerwainly				
-10	kaWam	12	kaWaM	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,13	kEse	hot				
+4	vayam	3	vayaM	asmax{1;bahu}	asmax{1;bahu}	karwA,3	hama	we				
+5	hanwum	7	hanwuM		han1{kqw_prawyayaH:wumun;hanaz;axAxiH}	sahAyakakriyA,3	mArane_ke_liye	deserving_to_kill				
+6	XArwarARtrAn	5	XArwarARtrAnsvabAnXavAn	XArwarARtra{puM}{2;bahu}	XArwarARtra{puM}{2;bahu}	karma,5	XqwarARtra_ke_puwroM_ko	the_sons_of_Dhrtarastra				
+7	sva-bAnXavAn	4	0	sva-bAnXava{puM}{2;bahu}	sva-bAnXava{puM}{2;bahu}	viSeRaNam,6	apane_hI_bAnXava	our_relations	<sva-bAnXavAn>T6			
+8	sva-janam	10	svajanaM	sva-jana{puM}{2;eka}	sva-jana{puM}{2;eka}	karma,11	apane_hI_kutumba_ko	our_own_kinsmen	<sva-janaM>T6			
+9	hi	9	hi	hi{avya}	hi{avya}	sambanXaH,13	kyoMki	certainly				
+10	kaWam	12	kaWaM	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,13	kEse	how				
 11	hawvA	11	hawvA	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	pUrvakAlaH,13	mArakara	by_killing				
 12	suKinaH	13	suKinaH	suKI{napuM}{5;eka}/suKI{napuM}{6;eka}/suKin{puM}{1;bahu}/suKin{puM}{2;bahu}/suKin{puM}{5;eka}/suKin{puM}{6;eka}/suKin{napuM}{5;eka}/suKin{napuM}{6;eka}	suKin{puM}{1;bahu}	karwA,13	suKI	happy				
 13	syAma	14	syAma	so1{karwari;lot;u;bahu;parasmEpaxI;Ro;xivAxiH}/as2{karwari;viXilif;u;bahu;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;u;bahu;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,14.1	hoMge	become				
-14	mAXava	2	mAXava	mAXava{puM}{8;eka}	mAXava{puM}{8;eka}	samboXyaH,5	he_mAXava	O_Krsna_husbanx_oq_whe_goxxess_oq_qorwune				
-14.1	(vayam)	9.1	(vayaM)	asmax{1;bahu}	asmax{1;bahu}	karwA,13	hama	te				
+14	mAXava	2	mAXava	mAXava{puM}{8;eka}	mAXava{puM}{8;eka}	samboXyaH,5	he_mAXava	O_Krsna_husband_of_the_goddess_of_fortune				
+14.1	(vayam)	9.1	(vayaM)	asmax{1;bahu}	asmax{1;bahu}	karwA,13	hama	we				

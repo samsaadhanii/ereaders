@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxi	3	yaxi	yaxi{avya}	yaxi{avya}	prawiyogI,5;niwyasambanXaH,15	yaxi	iq				
-2	hi	1	hyahaM	hi{avya}	hi{avya}	saMbanXa,3	kyoMki	cerwainly				
+1	yaxi	3	yaxi	yaxi{avya}	yaxi{avya}	prawiyogI,5;niwyasambanXaH,15	yaxi	if				
+2	hi	1	hyahaM	hi{avya}	hi{avya}	saMbanXa,3	kyoMki	certainly				
 3	aham	4	0	asmax{1;eka}	asmax{1;eka}	karwA,5	mEM	I				
-4	na	9	na	na{avya}	na{avya}	prawiReXaH,5	na	xo_now				
-5	varweyam	10	varweyaM	varweyam	vqw1{karwari;viXilif;u;eka;AwmanepaxI;vqwuz;BvAxiH}	aBihiwa_karwA,3;akarmakaH	barawUz	whus_engage				
+4	na	9	na	na{avya}	na{avya}	prawiReXaH,5	na	do_not				
+5	varweyam	10	varweyaM	varweyam	vqw1{karwari;viXilif;u;eka;AwmanepaxI;vqwuz;BvAxiH}	aBihiwa_karwA,3;akarmakaH	barawUz	thus_engage				
 6	jAwu	5	jAwu	jAwu{avya}	jAwu{avya}	kriyAviSeRaNam,5	kaxAciw	ever				
-7	karmaNi	8	karmaNyawanxriwaH	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,5	karmoM_meM	in_whe_perqormance_oq_prescribex_xuwies				
-8	a-wanxriwaH	6	0	a-wanxriwa{puM}{1;eka}	awanxriwa{puM}{1;eka}	karwqsamAnAXikaraNam,8.1	sAvaXAna_hokara	tiwh_greaw_care	<na-wanxriwaH>Wn			
+7	karmaNi	8	karmaNyawanxriwaH	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,5	karmoM_meM	in_the_performance_of_prescribed_duties				
+8	a-wanxriwaH	6	0	a-wanxriwa{puM}{1;eka}	awanxriwa{puM}{1;eka}	karwqsamAnAXikaraNam,8.1	sAvaXAna_hokara	with_great_care	<na-wanxriwaH>Tn			
 8.1	(san)	7	()	as1{kqw_prawyayaH:Sawq;as;axAxiH;puM}{1;eka}	as1{kqw_prawyayaH:Sawq;as;axAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,5						
 9	mama	14	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,10	mere	my				
-10	varwma	15	varwmAnuvarwanwe	varwman{napuM}{1;eka}/varwman{napuM}{2;eka}/varwman{napuM}{8;eka}	varwman{napuM}{2;eka}	karma,11	mArga_kA	pawh				
-11	anuvarwanwe	16	0	anu_vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	anu_vqw1{karwari;lat;pra;bahu;AwmanepaxI;anu_vqwuz;BvAxiH}	aBihiwa_karwA,12;akarmakaH	anusaraNa_karawe_hEM	toulx_qollot				
+10	varwma	15	varwmAnuvarwanwe	varwman{napuM}{1;eka}/varwman{napuM}{2;eka}/varwman{napuM}{8;eka}	varwman{napuM}{2;eka}	karma,11	mArga_kA	path				
+11	anuvarwanwe	16	0	anu_vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	anu_vqw1{karwari;lat;pra;bahu;AwmanepaxI;anu_vqwuz;BvAxiH}	aBihiwa_karwA,12;akarmakaH	anusaraNa_karawe_hEM	would_follow				
 12	manuRyAH	12	manuRyAH	manuRya{puM}{1;bahu}/manuRya{puM}{8;bahu}	manuRya{puM}{1;bahu}	karwA,11	manuRya	all_men				
-13	pArWa	2	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,11	he_pArWa	O_son_oq_Prwha				
-14	sarvaSaH	13	sarvaSaH	sarvaSaH{avya}	sarvaSaH{avya}	kriyAviSeRaNam,11	saba_prakAra_se	in_all_respecws				
-15	(warhi)	11	(0)	(warhi{avya})	(warhi{avya})	anuyogI,11	(wo)	in_oneZs_prescribex_xuwy				
+13	pArWa	2	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,11	he_pArWa	O_son_of_Prtha				
+14	sarvaSaH	13	sarvaSaH	sarvaSaH{avya}	sarvaSaH{avya}	kriyAviSeRaNam,11	saba_prakAra_se	in_all_respects				
+15	(warhi)	11	(0)	(warhi{avya})	(warhi{avya})	anuyogI,11	(wo)	in_one's_prescribed_duty				

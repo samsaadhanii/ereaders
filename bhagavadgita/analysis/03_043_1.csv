@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	evam	1	evaM	evam{avya}	evam{avya}	kriyAviSeRaNam,4	isa_prakAra	whus				
-2	buxXeH	2	buxXeH	buxXi{swrI}{5;eka}/buxXi{swrI}{6;eka}	buxXi{swrI}{5;eka}	upapaxasambanXaH,3	buxXi_se	oq_inwelligence				
+1	evam	1	evaM	evam{avya}	evam{avya}	kriyAviSeRaNam,4	isa_prakAra	thus				
+2	buxXeH	2	buxXeH	buxXi{swrI}{5;eka}/buxXi{swrI}{6;eka}	buxXi{swrI}{5;eka}	upapaxasambanXaH,3	buxXi_se	of_intelligence				
 3	param	3	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	karma,4	para	superior				
-4	buxXvA	4	buxXvA	buX1{kqw_prawyayaH:kwvA;buXir;BvAxi}	buX2{kqw_prawyayaH:kwvA;buXizr;BvAxiH}	pUrvakAlaH,8	jAnakara	so_knoting				
-5	saMswaBya	7	saMswaByAwmAnamAwmanA	saMswaBya	sam_swamB1{kqw_prawyayaH:lyap;sam_RtaBiz;BvAxiH}	pUrvakAlaH,8	vaSa_meM_karake	by_sweaxying				
-6	AwmAnam	6	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,5	mana_ko	oq_whe_minx				
-7	AwmanA	5	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,5	buxXi_ke_xvArA	by_xeliberawe_inwelligence				
-8	jahi	13	jahi	han1{karwari;lot;ma;eka;parasmEpaxI;hanaz;axAxiH}	han1{karwari;lot;ma;eka;parasmEpaxI;hanaz;axAxiH}	aBihiwa_karwA,12.1;sakarmakaH	mAra_dAla	conduer				
-9	Sawrum	12	SawruM	Sawru{puM}{2;eka}	Sawru{puM}{2;eka}	karma,8	Sawru_ko	whe_enemy				
-10	mahAn-bAho	8	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,8	he_mahAbAho	O_mighwy-armex_one	<mahaw-bAho>Bs6			
-11	kAma-rUpam	10	kAmarUpaM	kAma-rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	kAma-rUpa{puM}{1;eka}	viSeRaNam,9	kAmarUpa	whe_qorm_oq_lusw	<kAma-rUpam>Bs6			
-12	xurAsaxam	11	xurAsaxam	xurAsaxa{puM}{2;eka}	xurAsaxa{puM}{2;eka}	viSeRaNam,9	xurjaya	qormixable				
+4	buxXvA	4	buxXvA	buX1{kqw_prawyayaH:kwvA;buXir;BvAxi}	buX2{kqw_prawyayaH:kwvA;buXizr;BvAxiH}	pUrvakAlaH,8	jAnakara	so_knowing				
+5	saMswaBya	7	saMswaByAwmAnamAwmanA	saMswaBya	sam_swamB1{kqw_prawyayaH:lyap;sam_RtaBiz;BvAxiH}	pUrvakAlaH,8	vaSa_meM_karake	by_steadying				
+6	AwmAnam	6	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,5	mana_ko	of_the_mind				
+7	AwmanA	5	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,5	buxXi_ke_xvArA	by_deliberate_intelligence				
+8	jahi	13	jahi	han1{karwari;lot;ma;eka;parasmEpaxI;hanaz;axAxiH}	han1{karwari;lot;ma;eka;parasmEpaxI;hanaz;axAxiH}	aBihiwa_karwA,12.1;sakarmakaH	mAra_dAla	conquer				
+9	Sawrum	12	SawruM	Sawru{puM}{2;eka}	Sawru{puM}{2;eka}	karma,8	Sawru_ko	the_enemy				
+10	mahAn-bAho	8	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,8	he_mahAbAho	O_mighty-armed_one	<mahaw-bAho>Bs6			
+11	kAma-rUpam	10	kAmarUpaM	kAma-rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	kAma-rUpa{puM}{1;eka}	viSeRaNam,9	kAmarUpa	the_form_of_lust	<kAma-rUpam>Bs6			
+12	xurAsaxam	11	xurAsaxam	xurAsaxa{puM}{2;eka}	xurAsaxa{puM}{2;eka}	viSeRaNam,9	xurjaya	formidable				
 12.1	(wvam)	9	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wU)	you				

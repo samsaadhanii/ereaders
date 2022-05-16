@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xevAn	3	xevAnBAvayawAnena	xeva{puM}{2;bahu}	xeva{puM}{2;bahu}	prayojyakarwA,2	xevawAoM_ko	whe_goxs				
-2	BAvayawa	4	0	Buv1{karwari;lot;ma;bahu;parasmEpaxI;Buvoz;curAxiH}/BU1_Nic{karwari;lot;ma;bahu;parasmEpaxI;BU;BvAxiH}/BU2_Nic{karwari;lot;ma;bahu;parasmEpaxI;BU;curAxiH}	BU1_Nic{karwari;lot;ma;bahu;parasmEpaxI;BU_Nic;BvAxiH}	aBihiwa_karwA,3.1;sakarmaka	unnawa_karo	qoswer				
-3	anena	2	0	ana{puM}{3;eka}/ixam{puM}{3;eka}/ixam{napuM}{3;eka}	ixam{puM}{3;eka}	karaNam,2	isa_yajFa_ke_xvArA	whrough_whis_sacriqice				
+1	xevAn	3	xevAnBAvayawAnena	xeva{puM}{2;bahu}	xeva{puM}{2;bahu}	prayojyakarwA,2	xevawAoM_ko	the_gods				
+2	BAvayawa	4	0	Buv1{karwari;lot;ma;bahu;parasmEpaxI;Buvoz;curAxiH}/BU1_Nic{karwari;lot;ma;bahu;parasmEpaxI;BU;BvAxiH}/BU2_Nic{karwari;lot;ma;bahu;parasmEpaxI;BU;curAxiH}	BU1_Nic{karwari;lot;ma;bahu;parasmEpaxI;BU_Nic;BvAxiH}	aBihiwa_karwA,3.1;sakarmaka	unnawa_karo	foster				
+3	anena	2	0	ana{puM}{3;eka}/ixam{puM}{3;eka}/ixam{napuM}{3;eka}	ixam{puM}{3;eka}	karaNam,2	isa_yajFa_ke_xvArA	through_this_sacrifice				
 3.1	(yUyam)	1	(0)	(yuRmax{1;bahu})	(yuRmax{1;bahu})	prayojakakarwA,2	(wumaloga)	you				
-4	we	5	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	viSeRaNam,5	ve	whose				
-5	xevAH	6	xevA	xeva{puM}{1;bahu}/xeva{puM}{8;bahu}	xeva{puM}{1;bahu}	karwA,6	xevawA	goxs				
-6	BAvayanwu	8	BAvayanwu	Buv1{karwari;lot;pra;bahu;parasmEpaxI;Buvoz;curAxiH}/BU1_Nic{karwari;lot;pra;bahu;parasmEpaxI;BU;BvAxiH}/BU2_Nic{karwari;lot;pra;bahu;parasmEpaxI;BU;curAxiH}	BU1_Nic{karwari;lot;pra;bahu;parasmEpaxI;BU_Nic;BvAxiH}	aBihiwa_karwA,5;sakarmaka	unnawa_kareM	lew_be_gracious				
-7	vaH	7	vaH	va{puM}{1;eka}/yuRmax{2;bahu}/yuRmax{4;bahu}/yuRmax{6;bahu}	yuRmax{2;bahu}	karma,6	wumalogoM_ko	wo_you				
+4	we	5	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	viSeRaNam,5	ve	those				
+5	xevAH	6	xevA	xeva{puM}{1;bahu}/xeva{puM}{8;bahu}	xeva{puM}{1;bahu}	karwA,6	xevawA	gods				
+6	BAvayanwu	8	BAvayanwu	Buv1{karwari;lot;pra;bahu;parasmEpaxI;Buvoz;curAxiH}/BU1_Nic{karwari;lot;pra;bahu;parasmEpaxI;BU;BvAxiH}/BU2_Nic{karwari;lot;pra;bahu;parasmEpaxI;BU;curAxiH}	BU1_Nic{karwari;lot;pra;bahu;parasmEpaxI;BU_Nic;BvAxiH}	aBihiwa_karwA,5;sakarmaka	unnawa_kareM	let_be_gracious				
+7	vaH	7	vaH	va{puM}{1;eka}/yuRmax{2;bahu}/yuRmax{4;bahu}/yuRmax{6;bahu}	yuRmax{2;bahu}	karma,6	wumalogoM_ko	to_you				
 7.1	(yUyam)	9	(0)	(yuRmax{1;bahu})	(yuRmax{1;bahu})	karwA,12	(wumaloga)	you				
-8	parasparam	10	parasparaM	parasparam{avya}/paraspara{puM}{2;eka}/paraspara{napuM}{1;eka}/paraspara{napuM}{2;eka}	parasparam{avya}	kriyAviSeRaNam,9	eka-xUsare_ko	muwual				
-8.1	(evam)	12	(0)	(evam{avya})	(evam{avya})	kriyAviSeRaNam,9	(isa_prakAra)	mainwain				
-9	BAvayanwaH	11	BAvayanwaH	BAvayanwaH	BU1_Nic{kqw_prawyayaH:Sawq;BU_Nic;BvAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,12	unnawa_karawe_hue	qoswering				
-10	SreyaH	14	SreyaH	Sreya{puM}{1;eka}/Sreyas{napuM}{1;eka}/Sreyas{napuM}{2;eka}/Sreyas{napuM}{8;eka}	Sreyas{napuM}{2;eka}	viSeRaNam,11	aXika AnanxaxAyaka	goox				
-11	param	13	paramavApsyaWa	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	karma,12	paramAwmA_ko	whe_highesw				
-12	avApsyaWa	15	0	ava_Ap1{karwari;lqt;ma;bahu;parasmEpaxI;ApLz;svAxiH}	ava_Ap1{karwari;lqt;ma;bahu;parasmEpaxI;ava_ApLz;svAxiH}	aBihiwa_karwA,7.1;sakarmaka	prApwa_ho_jAoge	till_awwain				
+8	parasparam	10	parasparaM	parasparam{avya}/paraspara{puM}{2;eka}/paraspara{napuM}{1;eka}/paraspara{napuM}{2;eka}	parasparam{avya}	kriyAviSeRaNam,9	eka-xUsare_ko	mutual				
+8.1	(evam)	12	(0)	(evam{avya})	(evam{avya})	kriyAviSeRaNam,9	(isa_prakAra)	maintain				
+9	BAvayanwaH	11	BAvayanwaH	BAvayanwaH	BU1_Nic{kqw_prawyayaH:Sawq;BU_Nic;BvAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,12	unnawa_karawe_hue	fostering				
+10	SreyaH	14	SreyaH	Sreya{puM}{1;eka}/Sreyas{napuM}{1;eka}/Sreyas{napuM}{2;eka}/Sreyas{napuM}{8;eka}	Sreyas{napuM}{2;eka}	viSeRaNam,11	aXika AnanxaxAyaka	good				
+11	param	13	paramavApsyaWa	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	karma,12	paramAwmA_ko	the_highest				
+12	avApsyaWa	15	0	ava_Ap1{karwari;lqt;ma;bahu;parasmEpaxI;ApLz;svAxiH}	ava_Ap1{karwari;lqt;ma;bahu;parasmEpaxI;ava_ApLz;svAxiH}	aBihiwa_karwA,7.1;sakarmaka	prApwa_ho_jAoge	will_attain				

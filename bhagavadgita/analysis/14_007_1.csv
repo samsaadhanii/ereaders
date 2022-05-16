@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	rajaH	4	rajo	rajas{puM}{8;eka}/rajas{napuM}{1;eka}/rajas{napuM}{2;eka}/rajas{napuM}{8;eka}	rajas{napuM}{2;eka}	karma,3	rajoguNa_ko	whe_moxe_oq_passion				
-2	rAga-Awmakam	3	rAgAwmakaM	rAgAwmaka{puM}{2;eka}/rAgAwmaka{napuM}{1;eka}/rAgAwmaka{napuM}{2;eka}	rAgAwmaka{napuM}{2;eka}	viSeRaNam,1	rAgarUpa	born_oq_xesire_or_lusw	<rAga-AwmakaM>Bs6			
-3	vixXi	6	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,4.1;sakarmakaH	jAna	knot				
-4	wqRNA-safga-samuxBavam	5	wqRNAsafgasamuxBavam	wqRNA-safga-samuxBava{puM}{2;eka}	wqRNA-safga-samuxBava{puM}{2;eka}	karmasamAnAXikaraNam,3	kAmanA_Ora_Asakwi_se_uwpanna	proxucex_oq_lusw_anx_associawion	<<wqRNA-safga>Xi-samuxBavam>W3			
+1	rajaH	4	rajo	rajas{puM}{8;eka}/rajas{napuM}{1;eka}/rajas{napuM}{2;eka}/rajas{napuM}{8;eka}	rajas{napuM}{2;eka}	karma,3	rajoguNa_ko	the_mode_of_passion				
+2	rAga-Awmakam	3	rAgAwmakaM	rAgAwmaka{puM}{2;eka}/rAgAwmaka{napuM}{1;eka}/rAgAwmaka{napuM}{2;eka}	rAgAwmaka{napuM}{2;eka}	viSeRaNam,1	rAgarUpa	born_of_desire_or_lust	<rAga-AwmakaM>Bs6			
+3	vixXi	6	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,4.1;sakarmakaH	jAna	know				
+4	wqRNA-safga-samuxBavam	5	wqRNAsafgasamuxBavam	wqRNA-safga-samuxBava{puM}{2;eka}	wqRNA-safga-samuxBava{puM}{2;eka}	karmasamAnAXikaraNam,3	kAmanA_Ora_Asakwi_se_uwpanna	produced_of_lust_and_association	<<wqRNA-safga>Di-samuxBavam>T3			
 4.1	(wvam)	2	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,3	(wuma)	you				
-5	waw	7	wannibaXnAwi	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,9.1	vaha	whaw				
-6	nibaXnAwi	11	0	ni_banX1{karwari;lat;pra;eka;parasmEpaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;eka;parasmEpaxI;ni_banXaz;kryAxiH}	aBihiwakarwA,9.1;sakarmakaH	bAzXawA_hE	binxs				
-7	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,3	he_arjuna	O_son_oq_Kunwi				
-8	karma-safgena	10	karmasafgena	karman-safga{puM}{3;eka}	karman-safga{puM}{3;eka}	karaNam,6	karmoM_ke_Ora_unake_Pala_ke_sambanXa_se	by_associawion_tiwh_qruiwive_acwiviwy	<karma-safgena>W7			
-9	xehinam	9	xehinam	xehin{puM}{2;eka}	xehin{puM}{2;eka}	karma,6	isa_jIvAwmA_ko	whe_emboxiex				
-9.1	(rajaH)	8	(0)	(rajas{puM}{8;eka}/rajas{napuM}{1;eka}/rajas{napuM}{2;eka}/rajas{napuM}{8;eka})	(rajas{napuM}{1;eka})	karwA,6	(rajoguNa_ko)	moxe_oq_passion				
+5	waw	7	wannibaXnAwi	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,9.1	vaha	that				
+6	nibaXnAwi	11	0	ni_banX1{karwari;lat;pra;eka;parasmEpaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;eka;parasmEpaxI;ni_banXaz;kryAxiH}	aBihiwakarwA,9.1;sakarmakaH	bAzXawA_hE	binds				
+7	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,3	he_arjuna	O_son_of_Kunti				
+8	karma-safgena	10	karmasafgena	karman-safga{puM}{3;eka}	karman-safga{puM}{3;eka}	karaNam,6	karmoM_ke_Ora_unake_Pala_ke_sambanXa_se	by_association_with_fruitive_activity	<karma-safgena>T7			
+9	xehinam	9	xehinam	xehin{puM}{2;eka}	xehin{puM}{2;eka}	karma,6	isa_jIvAwmA_ko	the_embodied				
+9.1	(rajaH)	8	(0)	(rajas{puM}{8;eka}/rajas{napuM}{1;eka}/rajas{napuM}{2;eka}/rajas{napuM}{8;eka})	(rajas{napuM}{1;eka})	karwA,6	(rajoguNa_ko)	mode_of_passion				

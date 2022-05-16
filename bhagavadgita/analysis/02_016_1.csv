@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	na	3	nAsawo	na{avya}	na{avya}	prawiReXaH,3	nahIM	no				
-2	a-sawaH	1	0	asaw{puM}{2;bahu}/asaw{puM}{5;eka}/asaw{puM}{6;eka}/asaw{napuM}{5;eka}/asaw{napuM}{6;eka}/as1{karwari;lat;pra;xvi;parasmEpaxI;asaz;BvAxiH}	a-saw{puM}{6;eka}	RaRTIsambanXaH,4	asaw_kI	whe_unreal	<na-sawaH>Wn			
+2	a-sawaH	1	0	asaw{puM}{2;bahu}/asaw{puM}{5;eka}/asaw{puM}{6;eka}/asaw{napuM}{5;eka}/asaw{napuM}{6;eka}/as1{karwari;lat;pra;xvi;parasmEpaxI;asaz;BvAxiH}	a-saw{puM}{6;eka}	RaRTIsambanXaH,4	asaw_kI	the_unreal	<na-sawaH>Tn			
 3	vixyawe	4	vixyawe	vixyawA{swrI}{1;xvi}/vixyawA{swrI}{2;xvi}/vixyawA{swrI}{8;eka}/vixyawA{swrI}{8;xvi}/vix1{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;axAxiH}/vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix2{BAve;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix4{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;ruXAxiH}/vix3{karmaNi;lat;pra;eka;AwmanepaxI;vixLz;wuxAxiH}	vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}	aBihiwakarwA,4;akarmakaH	hE	has				
-4	BAvaH	2	BAvo	BAva{puM}{1;eka}/BA1{karwari;lat;u;xvi;parasmEpaxI;BA;axAxiH}	BAva{puM}{1;eka}	karwA,3	sawwA	eLiswence				
+4	BAvaH	2	BAvo	BAva{puM}{1;eka}/BA1{karwari;lat;u;xvi;parasmEpaxI;BA;axAxiH}	BAva{puM}{1;eka}	karwA,3	sawwA	existence				
 5	na	7	nABAvo	na{avya}	na{avya}	prawiReXaH,7	nahIM	never				
-6	a-BAvaH	6	0	aBAva{puM}{1;eka}	aBAva{puM}{1;eka}	karwA,7	aBAva	ceases	<na-BAvaH>Wn			
-7	vixyawe	8	vixyawe	vixyawA{swrI}{1;xvi}/vixyawA{swrI}{2;xvi}/vixyawA{swrI}{8;eka}/vixyawA{swrI}{8;xvi}/vix1{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;axAxiH}/vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix2{BAve;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix4{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;ruXAxiH}/vix3{karmaNi;lat;pra;eka;AwmanepaxI;vixLz;wuxAxiH}	vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}	aBihiwakarwA,6;akarmakaH	hE	wo_be				
-8	sawaH	5	sawaH	saw{puM}{1;bahu}/saw{puM}{2;bahu}/saw{puM}{5;eka}/saw{puM}{6;eka}/saw{puM}{8;bahu}/saw{swrI}{1;bahu}/saw{swrI}{2;bahu}/saw{swrI}{5;eka}/saw{swrI}{6;eka}/saw{swrI}{8;bahu}/saw{napuM}{5;eka}/saw{napuM}{6;eka}/sawa{puM}{1;eka}	saw{puM}{6;eka}	RaRTIsambanXaH,6	saw_kA	whe_real				
-9	uBayoH	12	uBayorapi	uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}	uBa{puM}{6;xvi}	RaRTIsambanXaH,12	xonoM_kA	oq_whe_wto				
+6	a-BAvaH	6	0	aBAva{puM}{1;eka}	aBAva{puM}{1;eka}	karwA,7	aBAva	ceases	<na-BAvaH>Tn			
+7	vixyawe	8	vixyawe	vixyawA{swrI}{1;xvi}/vixyawA{swrI}{2;xvi}/vixyawA{swrI}{8;eka}/vixyawA{swrI}{8;xvi}/vix1{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;axAxiH}/vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix2{BAve;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix4{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;ruXAxiH}/vix3{karmaNi;lat;pra;eka;AwmanepaxI;vixLz;wuxAxiH}	vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}	aBihiwakarwA,6;akarmakaH	hE	to_be				
+8	sawaH	5	sawaH	saw{puM}{1;bahu}/saw{puM}{2;bahu}/saw{puM}{5;eka}/saw{puM}{6;eka}/saw{puM}{8;bahu}/saw{swrI}{1;bahu}/saw{swrI}{2;bahu}/saw{swrI}{5;eka}/saw{swrI}{6;eka}/saw{swrI}{8;bahu}/saw{napuM}{5;eka}/saw{napuM}{6;eka}/sawa{puM}{1;eka}	saw{puM}{6;eka}	RaRTIsambanXaH,6	saw_kA	the_real				
+9	uBayoH	12	uBayorapi	uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}	uBa{puM}{6;xvi}	RaRTIsambanXaH,12	xonoM_kA	of_the_two				
 10	api	13	0	api{avya}	api{avya}	sambanXaH,9	hI	verily				
-11	xqRtaH	15	xqRtoZnwaswvanayoswawwvaxarSiBiH	xqRta{puM}{1;eka}	xqS1{kqw_prawyayaH:kwa;xqSizr;BvAxiH;puM}{1;eka}	aBihiwakarma,12;sakarmakaH	xeKA_gayA_hE	perceivex				
-12	anwaH	14	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	karma,11	wawwva	whe_realiwy				
-13	wu	10	0	wu{avya}	wu{avya}	sambanXaH,15	wo	whus				
-14	anayoH	11	0	ana{puM}{6;xvi}/ana{puM}{7;xvi}/ixam{puM}{6;xvi}/ixam{puM}{7;xvi}/ixam{swrI}{6;xvi}/ixam{swrI}{7;xvi}/ixam{napuM}{6;xvi}/ixam{napuM}{7;xvi}	ixam{puM}{6;xvi}	viSeRaNam,9	ina	oq_whem				
-15	wawwva-xarSiBiH	9	0	wawwva-xarSin{puM}{3;bahu}	wawwva-xarSin{puM}{3;bahu}	karwA,11	wawwvajFAnI_puruRoM_xvArA	by_whe_seers_oq_wruwh	<wawwva-xarSiBiH>W6			
+11	xqRtaH	15	xqRtoZnwaswvanayoswawwvaxarSiBiH	xqRta{puM}{1;eka}	xqS1{kqw_prawyayaH:kwa;xqSizr;BvAxiH;puM}{1;eka}	aBihiwakarma,12;sakarmakaH	xeKA_gayA_hE	perceived				
+12	anwaH	14	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	karma,11	wawwva	the_reality				
+13	wu	10	0	wu{avya}	wu{avya}	sambanXaH,15	wo	thus				
+14	anayoH	11	0	ana{puM}{6;xvi}/ana{puM}{7;xvi}/ixam{puM}{6;xvi}/ixam{puM}{7;xvi}/ixam{swrI}{6;xvi}/ixam{swrI}{7;xvi}/ixam{napuM}{6;xvi}/ixam{napuM}{7;xvi}	ixam{puM}{6;xvi}	viSeRaNam,9	ina	of_them				
+15	wawwva-xarSiBiH	9	0	wawwva-xarSin{puM}{3;bahu}	wawwva-xarSin{puM}{3;bahu}	karwA,11	wawwvajFAnI_puruRoM_xvArA	by_the_seers_of_truth	<wawwva-xarSiBiH>T6			

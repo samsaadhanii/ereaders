@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wawra	6	wawrEvaM	wawra{avya}	wawra{avya}	aXikaraNam,9	usa_viRaya_meM_yAnI_karmoM_ke_hone_meM	where				
-2	evam	2	0	evam{avya}	evam{avya}	sambanXaH,3	EsA	cerwainly				
+1	wawra	6	wawrEvaM	wawra{avya}	wawra{avya}	aXikaraNam,9	usa_viRaya_meM_yAnI_karmoM_ke_hone_meM	there				
+2	evam	2	0	evam{avya}	evam{avya}	sambanXaH,3	EsA	certainly				
 3	sawi	3	sawi	saw{puM}{7;eka}/saw{swrI}{7;eka}/saw{napuM}{7;eka}	saw{napuM}{7;eka}	BAvalakRaNasapwamI,9	hone_para_BI	being				
-4	karwAram	9	karwAramAwmAnaM	karwq{puM}{2;eka}	karwq{puM}{2;eka}	karmasamAnAXikaraNam,9	karwA	oq_whe_torker				
-5	AwmAnam	8	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,9	AwmA_ko	whe_selq				
+4	karwAram	9	karwAramAwmAnaM	karwq{puM}{2;eka}	karwq{puM}{2;eka}	karmasamAnAXikaraNam,9	karwA	of_the_worker				
+5	AwmAnam	8	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,9	AwmA_ko	the_self				
 6	kevalam	7	kevalaM	kevala{puM}{2;eka}/kevala{napuM}{1;eka}/kevala{napuM}{2;eka}	kevala{napuM}{2;eka}	kriyAviSeRaNam,9	kevala_SuxXasvarUpa	only				
-7	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,8	paraMwu	buw				
-8	yaH	4	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,9; niwyasambanXaH,12	jo	anyone				
-9	paSyawi	10	paSyawyakqwabuxXiwvAnna	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/paSyaw{puM}{7;eka}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,8	samaJawA_hE	sees				
-10	a-kqwa-buxXiwvAw	5	0	akqwabuxXiwva{napuM}{5;eka}	na-kqwa-buxXiwva{napuM}{5;eka}	hewuH,9	aSuxXabuxXi_hone_ke_kAraNa	xue_wo_uninwelligence	<na-<kqwa-buxXiwvAw>Bs6>Wn			
+7	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,8	paraMwu	but				
+8	yaH	4	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,9;niwyasambanXaH,12	jo	anyone				
+9	paSyawi	10	paSyawyakqwabuxXiwvAnna	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/paSyaw{puM}{7;eka}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,8;sakarmakaH	samaJawA_hE	sees				
+10	a-kqwa-buxXiwvAw	5	0	akqwabuxXiwva{napuM}{5;eka}	na-kqwa-buxXiwva{napuM}{5;eka}	hewuH,9	aSuxXabuxXi_hone_ke_kAraNa	due_to_unintelligence	<na-<kqwa-buxXiwvAw>Bs6>Tn			
 11	na	13	0	na{avya}	na{avya}	prawiReXaH,13	nahIM	never				
 12	saH	11	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,14	vaha	he				
-13	paSyawi	14	paSyawi	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/paSyaw{puM}{7;eka}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,14	yaWArWa_samaJawA	sees				
-14	xur-mawiH	12	xurmawiH	xurmawi{puM}{1;eka}/xurmawi{swrI}{1;eka}	xur-mawi{puM}{1;eka}	karwA,13	malina_buxXivAlA	qoolish	<xur-mawiH>Bs6			
+13	paSyawi	14	paSyawi	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/paSyaw{puM}{7;eka}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,14;sakarmakaH	yaWArWa_samaJawA	sees				
+14	xur-mawiH	12	xurmawiH	xurmawi{puM}{1;eka}/xurmawi{swrI}{1;eka}	xur-mawi{puM}{1;eka}	karwA,13	malina_buxXivAlA	foolish	<xur-mawiH>Bs6			

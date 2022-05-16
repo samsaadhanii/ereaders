@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	na	6	nAnyaM	na{avya}	na{avya}	prawiReXaH,7	nahIM	never				
-2	anyam	4	0	anya{napuM}{1;eka}/anya{napuM}{2;eka}/anya{puM}{2;eka}	anya{puM}{2;eka}	viSeRaNam,4	anya_kisIko	owher_whan				
-3	guNeByaH	3	guNeByaH	guNa{puM}{4;bahu}/guNa{puM}{5;bahu}	guNa{puM}{5;bahu}	apAxAnam,7	wInoM_guNoM_ke_awirikwa	qrom_whe_dualiwies				
-4	karwAram	5	karwAraM	karwq{puM}{2;eka}	karwq{puM}{2;eka}	karma,7	karwA	whe_perqormer				
-5	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,7;niwyasambanXaH,14.1	jisa_samaya	then				
-6	xraRtA	2	xraRtAZnupaSyawi	xqS1{karwari;lut;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/xqS1{karmaNi;lut;pra;eka;AwmanepaxI;xqSizr;BvAxiH}	xqRtq{puM}{1;eka}	karwA,7	xraRtA	he_tho_sees				
+2	anyam	4	0	anya{napuM}{1;eka}/anya{napuM}{2;eka}/anya{puM}{2;eka}	anya{puM}{2;eka}	viSeRaNam,4	anya_kisIko	other_than				
+3	guNeByaH	3	guNeByaH	guNa{puM}{4;bahu}/guNa{puM}{5;bahu}	guNa{puM}{5;bahu}	apAxAnam,7	wInoM_guNoM_ke_awirikwa	from_the_qualities				
+4	karwAram	5	karwAraM	karwq{puM}{2;eka}	karwq{puM}{2;eka}	karma,7	karwA	the_performer				
+5	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,7;niwyasambanXaH,14.1	jisa_samaya	when				
+6	xraRtA	2	xraRtAZnupaSyawi	xqS1{karwari;lut;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/xqS1{karmaNi;lut;pra;eka;AwmanepaxI;xqSizr;BvAxiH}	xqRtq{puM}{1;eka}	karwA,7	xraRtA	he_who_sees				
 7	anupaSyawi	7	0	anu_xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	anu_xqS1{karwari;lat;pra;eka;parasmEpaxI;anu_xqSizr;BvAxiH}	samucciwam,9	xeKawA	sees_properly				
-8	guNeByaH	10	guNeByaSca	guNa{puM}{4;bahu}/guNa{puM}{5;bahu}	guNa{puM}{5;bahu}	apAxAnam,11	wInoM_guNoM_se	qrom_whe_moxes_oq_nawure				
+8	guNeByaH	10	guNeByaSca	guNa{puM}{4;bahu}/guNa{puM}{5;bahu}	guNa{puM}{5;bahu}	apAxAnam,11	wInoM_guNoM_se	from_the_modes_of_nature				
 9	ca	8	0	ca{avya}	ca{avya}	sambanXaH,11	Ora	also				
-10	param	11	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	karma,11	awyanwa_pare	wranscenxenwal				
-11	vewwi	12	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	samucciwam,9	wawwva_se_jAnawA_hE	knot				
-12	max-BAvam	15	maxBAvaM	maxBAva{puM}{2;eka}	asmax-BAva{puM}{2;eka}	karma,14	mere_svarUpa_ko	My_spiriwual_nawure	<asmaw-BAvaM>W7			
+10	param	11	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	karma,11	awyanwa_pare	transcendental				
+11	vewwi	12	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	samucciwam,9	wawwva_se_jAnawA_hE	know				
+12	max-BAvam	15	maxBAvaM	maxBAva{puM}{2;eka}	asmax-BAva{puM}{2;eka}	karma,14	mere_svarUpa_ko	My_spiritual_nature	<asmaw-BAvaM>T7			
 13	saH	14	soZXigacCawi	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,14	vaha	he				
-14	aXigacCawi	16	0	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}	aBihiwakarwA,13;sakarmakaH	prApwa_howA_hE	is_promowex				
-14.1	(waxA)	13	(0)	(waxA{avya})	(waxA{avya})	kAlAXikaraN, 14	(waba)	aw_whaw_wime				
+14	aXigacCawi	16	0	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}	aBihiwakarwA,13;sakarmakaH	prApwa_howA_hE	is_promoted				
+14.1	(waxA)	13	(0)	(waxA{avya})	(waxA{avya})	kAlAXikaraN, 14	(waba)	at_that_time				

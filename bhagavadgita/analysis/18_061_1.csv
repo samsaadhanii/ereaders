@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ISvaraH	4	ISvaraH	ISvara{puM}{1;eka}	ISvara{puM}{1;eka}	karwA,5	anwaryAmI_parameSvara	whe_Supreme_Lorx				
-2	sarva-BUwAnAm	7	sarvaBUwAnAM	sarvaBUwa{puM}{6;bahu}/sarvaBUwa{napuM}{6;bahu}/sarvaBUwA{swrI}{6;bahu}	sarva-BUwa{puM}{6;bahu}	RaRTIsambanXaH,3	saba_prANiyoM_ke	oq_all_living_enwiwies	<sarva-BUwAnAM>K1			
-3	hqx-xeSe	8	hqxxeSeZrjuna	hqxxeSa{puM}{7;eka}	hqx-xeSa{puM}{7;eka}	aXikaraNam,5	hqxaya_meM	in_whe_locawion_oq_whe_hearw	<hqw-xeSe>W6			
+1	ISvaraH	4	ISvaraH	ISvara{puM}{1;eka}	ISvara{puM}{1;eka}	karwA,5	anwaryAmI_parameSvara	the_Supreme_Lord				
+2	sarva-BUwAnAm	7	sarvaBUwAnAM	sarvaBUwa{puM}{6;bahu}/sarvaBUwa{napuM}{6;bahu}/sarvaBUwA{swrI}{6;bahu}	sarva-BUwa{puM}{6;bahu}	RaRTIsambanXaH,3	saba_prANiyoM_ke	of_all_living_entities	<sarva-BUwAnAM>K1			
+3	hqx-xeSe	8	hqxxeSeZrjuna	hqxxeSa{puM}{7;eka}	hqx-xeSa{puM}{7;eka}	aXikaraNam,5	hqxaya_meM	in_the_location_of_the_heart	<hqw-xeSe>T6			
 4	arjuna	1	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,5	he_arjuna	O_Arjuna				
-5	wiRTawi	9	wiRTawi	sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}/wiRTaw{puM}{7;eka}/wiRTaw{napuM}{7;eka}	sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}	aBihiwakarwA,1;akarmakaH	sWiwa_hE	resixes				
-6	BrAmayan	6	BrAmayansarvaBUwAni	BrAmayan	Bram2_Nic{kqw_prawyayaH:Sawq;Bramuz_Nic;xivAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,5	BramaNa_karAwA_huA	causing_wo_wravel				
-7	sarva-BUwAni	3	0	sarvaBUwa{napuM}{1;bahu}/sarvaBUwa{napuM}{2;bahu}	sarvaBUwa{napuM}{2;bahu}	karma,6	sampUrNa_prANiyoM_ko	all_living_enwiwies	<sarva-BUwAni>K1			
-8	yanwra-ArUDAni	2	yanwrArUDAni	yanwra-ArUDa{napuM}{1;bahu}/ArUDa{napuM}{2;bahu}	yanwra-Af_ruh1{kqw_prawyayaH:kwa;Af_ruhaz;BvAxiH}{2;bahu}	viSeRaNam,7	SarIrarUpa_yanwra_meM_ArUDa़_hue	being_so_placex_in_machine	<yanwra-ArUDAni>W7			
-9	mAyayA	5	mAyayA	mAyA{swrI}{3;eka}	mAyA{swrI}{3;eka}	karaNam,6	apanI_mAyA_se	unxer_whe_spell_oq_mawerial_energy				
+5	wiRTawi	9	wiRTawi	sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}/wiRTaw{puM}{7;eka}/wiRTaw{napuM}{7;eka}	sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}	aBihiwakarwA,1;akarmakaH	sWiwa_hE	resides				
+6	BrAmayan	6	BrAmayansarvaBUwAni	BrAmayan	Bram2_Nic{kqw_prawyayaH:Sawq;Bramuz_Nic;xivAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,5	BramaNa_karAwA_huA	causing_to_travel				
+7	sarva-BUwAni	3	0	sarvaBUwa{napuM}{1;bahu}/sarvaBUwa{napuM}{2;bahu}	sarvaBUwa{napuM}{2;bahu}	karma,6	sampUrNa_prANiyoM_ko	all_living_entities	<sarva-BUwAni>K1			
+8	yanwra-ArUDAni	2	yanwrArUDAni	yanwra-ArUDa{napuM}{1;bahu}/ArUDa{napuM}{2;bahu}	yanwra-Af_ruh1{kqw_prawyayaH:kwa;Af_ruhaz;BvAxiH}{2;bahu}	viSeRaNam,7	SarIrarUpa_yanwra_meM_ArUDa़_hue	being_so_placed_in_machine	<yanwra-ArUDAni>T7			
+9	mAyayA	5	mAyayA	mAyA{swrI}{3;eka}	mAyA{swrI}{3;eka}	karaNam,6	apanI_mAyA_se	under_the_spell_of_material_energy				

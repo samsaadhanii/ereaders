@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	BUwa-grAmaH	5	BUwagrAmaH	BUwagrAma{puM}{1;eka}	BUwa-grAma{puM}{1;eka}	karwA,7	BUwasamuxAya	whe_aggregawe_oq_all_living_enwiwies	<BUwa-grAmaH>W6			
-2	saH	2	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,1	vaha	whey				
-3	eva	3	evAyaM	eva{avya}	eva{avya}	sambanXaH,2	hI	cerwainly				
-4	ayam	4	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,1	yaha	whis				
-5	BUwvA	7	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	vIpsA,6	uwpanna_ho	waking_birwh				
-6	BUwvA	8	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,7	hokara	aqwer_birwh				
-7	pralIyawe	10	pralIyawe	pra_lI1{karwari;lat;pra;eka;AwmanepaxI;lIf;xivAxiH}/pra_lI1{karmaNi;lat;pra;eka;AwmanepaxI;lIf;xivAxiH}	pra_lI1{karwari;lat;pra;eka;AwmanepaxI;pra_lIf;xivAxiH}	aBihiwa_karwA,1	lIna_howA_hE	annihilawe				
-8	rAwri-Agame	9	rAwryAgameZvaSaH	rAwryAgama{puM}{7;eka}	rAwri-Agama{puM}{7;eka}	aXikaraNam,7	rAwri_ke_praveSakAla_meM	on_arrival_oq_nighw	<rAwri-Agame>W6			
-9	a-vaSaH	6	0	avaSa{puM}{1;eka}/avaSas{swrI}{1;eka}	na-vaSa{puM}{1;eka}	karwqsamAnAXikaraNam,7	prakqwi_ke_vaSa_meM_huA	auwomawically	<na-vaSaH>Wn			
-10	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,7	he_pArWa	O_son_oq_Prwha				
-11	praBavawi	12.1	praBavawyaharAgame	pra_BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	pra_BU1{karwari;lat;pra;eka;parasmEpaxI;pra_BU;BvAxiH}	aBihiwa_karwA,12.1	uwpanna_howA_hE	maniqesw				
-12	ahaH-Agame	12	0	aharAgama{puM}{7;eka}	ahaH-Agama{puM}{7;eka}	aXikaraNam,11	xina_ke_praveSakAla_meM	on_arrival_xuring_xaywime	<ahaH-Agame>W6			
+1	BUwa-grAmaH	5	BUwagrAmaH	BUwagrAma{puM}{1;eka}	BUwa-grAma{puM}{1;eka}	karwA,7	BUwasamuxAya	the_aggregate_of_all_living_entities	<BUwa-grAmaH>T6			
+2	saH	2	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,1	vaha	they				
+3	eva	3	evAyaM	eva{avya}	eva{avya}	sambanXaH,2	hI	certainly				
+4	ayam	4	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,1	yaha	this				
+5	BUwvA	7	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	vIpsA,6	uwpanna_ho	taking_birth				
+6	BUwvA	8	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,7	hokara	after_birth				
+7	pralIyawe	10	pralIyawe	pra_lI1{karwari;lat;pra;eka;AwmanepaxI;lIf;xivAxiH}/pra_lI1{karmaNi;lat;pra;eka;AwmanepaxI;lIf;xivAxiH}	pra_lI1{karwari;lat;pra;eka;AwmanepaxI;pra_lIf;xivAxiH}	aBihiwa_karwA,1	lIna_howA_hE	annihilate				
+8	rAwri-Agame	9	rAwryAgameZvaSaH	rAwryAgama{puM}{7;eka}	rAwri-Agama{puM}{7;eka}	aXikaraNam,7	rAwri_ke_praveSakAla_meM	on_arrival_of_night	<rAwri-Agame>T6			
+9	a-vaSaH	6	0	avaSa{puM}{1;eka}/avaSas{swrI}{1;eka}	na-vaSa{puM}{1;eka}	karwqsamAnAXikaraNam,7	prakqwi_ke_vaSa_meM_huA	automatically	<na-vaSaH>Tn			
+10	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,7	he_pArWa	O_son_of_Prtha				
+11	praBavawi	12.1	praBavawyaharAgame	pra_BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	pra_BU1{karwari;lat;pra;eka;parasmEpaxI;pra_BU;BvAxiH}	aBihiwa_karwA,12.1	uwpanna_howA_hE	manifest				
+12	ahaH-Agame	12	0	aharAgama{puM}{7;eka}	ahaH-Agama{puM}{7;eka}	aXikaraNam,11	xina_ke_praveSakAla_meM	on_arrival_during_daytime	<ahaH-Agame>T6			
 12.1	(saH)	11	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,11	(vaha)	he				

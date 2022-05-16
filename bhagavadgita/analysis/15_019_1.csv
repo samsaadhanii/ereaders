@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaH	2	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,4	jo	anyone				
-2	mAm	4	mAmevamasammUDo	asmax{2;eka}	asmax{2;eka}	viSeRaNam,6	muJako	unwo_Me				
-3	evam	5	0	evam{avya}	evam{avya}	sambanXaH,5	isa_prakAra_(wawwva_se)	cerwainly				
-4	a-sammUDaH	3	0	asammUDaH{puM}{1;eka}	na-sammUDa{puM}{1;eka}	karwA,5	jFAnI_puruRa	tiwhouw_a_xoubw	<na-sammUDaH>Wn			
-5	jAnAwi	7	jAnAwi	jFA1{karwari;lat;pra;eka;parasmEpaxI;jFA;BvAxiH}/jFA2{karwari;lat;pra;eka;parasmEpaxI;jFA;kryAxiH}	jFA2{karwari;lat;pra;eka;parasmEpaxI;jFA;kryAxiH}	prawiyogI,1	jAnawA_hE	knots				
-6	puruRa-uwwamam	6	puruRowwamam	puruRa-uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	puruRa-uwwama{puM}{2;eka}	karma,5	puruRowwama	whe_Supreme_Personaliwy_oq_Goxheax	<puruRa-uwwamam>W7			
+1	yaH	2	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,4;niwyasambanXaH,7	jo	anyone				
+2	mAm	4	mAmevamasammUDo	asmax{2;eka}	asmax{2;eka}	viSeRaNam,6	muJako	unto_Me				
+3	evam	5	0	evam{avya}	evam{avya}	sambanXaH,5	isa_prakAra_(wawwva_se)	certainly				
+4	a-sammUDaH	3	0	asammUDaH{puM}{1;eka}	na-sammUDa{puM}{1;eka}	karwA,5	jFAnI_puruRa	without_a_doubt	<na-sammUDaH>Tn			
+5	jAnAwi	7	jAnAwi	jFA1{karwari;lat;pra;eka;parasmEpaxI;jFA;BvAxiH}/jFA2{karwari;lat;pra;eka;parasmEpaxI;jFA;kryAxiH}	jFA2{karwari;lat;pra;eka;parasmEpaxI;jFA;kryAxiH}	aBihiwakarwA,4;sakarmakaH	jAnawA_hE	knows				
+6	puruRa-uwwamam	6	puruRowwamam	puruRa-uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	puruRa-uwwama{puM}{2;eka}	karma,5	puruRowwama	the_Supreme_Personality_of_Godhead	<puruRa-uwwamam>T7			
 7	saH	8	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,8	vaha	he				
-8	sarva-vix	9	sarvavixBajawi	sarva-vix{puM}{1;eka}/vix{swrI}{1;eka}	sarva-vix{puM}{1;eka}	karwA,9	sarvajFa_puruRa	knoter_oq_everywhing	<sarva-viw>U			
-9	Bajawi	12	0	Baj1{karwari;lat;pra;eka;parasmEpaxI;Bajaz;BvAxiH}	Baj1{karwari;lat;pra;eka;parasmEpaxI;Bajaz;BvAxiH}	aBihiwakarwA,7;sakarmakaH	BajawA_hE	renxers_xevowional_service				
-10	mAm	11	mAM	asmax{2;eka}	asmax{2;eka}	karma,9	muJa_vAsuxeva_parameSvara_ko	unwo_Me				
-11	sarva-BAvena	10	sarvaBAvena	sarva-BAva{puM}{3;eka}	sarva-BAva{puM}{3;eka}	kriyAviSeRaNam,9	saba_prakAra_se_niranwara	in_all_respecws	<sarva-BAvena>K1			
-12	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,9	he_BArawa	O_son_oq_Bharawa				
+8	sarva-vix	9	sarvavixBajawi	sarva-vix{puM}{1;eka}/vix{swrI}{1;eka}	sarva-vix{puM}{1;eka}	karwA,9	sarvajFa_puruRa	knower_of_everything	<sarva-viw>U			
+9	Bajawi	12	0	Baj1{karwari;lat;pra;eka;parasmEpaxI;Bajaz;BvAxiH}	Baj1{karwari;lat;pra;eka;parasmEpaxI;Bajaz;BvAxiH}	aBihiwakarwA,7;sakarmakaH	BajawA_hE	renders_devotional_service				
+10	mAm	11	mAM	asmax{2;eka}	asmax{2;eka}	karma,9	muJa_vAsuxeva_parameSvara_ko	unto_Me				
+11	sarva-BAvena	10	sarvaBAvena	sarva-BAva{puM}{3;eka}	sarva-BAva{puM}{3;eka}	kriyAviSeRaNam,9	saba_prakAra_se_niranwara	in_all_respects	<sarva-BAvena>K1			
+12	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,9	he_BArawa	O_son_of_Bharata				

@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	bIjam	6	bIjaM	bIja{napuM}{1;eka}/bIja{napuM}{2;eka}	bIja{napuM}{2;eka}	karmasamAnAXikaraNam,4	bIja	whe_seex				
-2	mAm	3	mAM	asmax{2;eka}	asmax{2;eka}	karma,4	muJako	unwo_Me				
-3	sarva-BUwAnAm	4	sarvaBUwAnAM	sarva-BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}	sarva-BUwa{puM}{6;bahu}	RaRTIsambanXaH,1	sampUrNa_BUwoM_kA	oq_all_living_enwiwies	<sarva-BUwAnAM>K1			
-4	vixXi	7	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,6.1;sakarmakaH	jAna	wry_wo_unxerswanx				
-5	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_oq_Prwha				
-6	sanAwanam	5	sanAwanam	sanAwana{puM}{2;eka}	sanAwana{puM}{2;eka}	viSeRaNam,1	sanAwana	original_ewernal				
+1	bIjam	6	bIjaM	bIja{napuM}{1;eka}/bIja{napuM}{2;eka}	bIja{napuM}{2;eka}	karmasamAnAXikaraNam,4	bIja	the_seed				
+2	mAm	3	mAM	asmax{2;eka}	asmax{2;eka}	karma,4	muJako	unto_Me				
+3	sarva-BUwAnAm	4	sarvaBUwAnAM	sarva-BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}	sarva-BUwa{puM}{6;bahu}	RaRTIsambanXaH,1	sampUrNa_BUwoM_kA	of_all_living_entities	<sarva-BUwAnAM>K1			
+4	vixXi	7	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,6.1;sakarmakaH	jAna	try_to_understand				
+5	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_of_Prtha				
+6	sanAwanam	5	sanAwanam	sanAwana{puM}{2;eka}	sanAwana{puM}{2;eka}	viSeRaNam,1	sanAwana	original_eternal				
 6.1	(wvam)	2	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wU)	you				
-7	buxXiH	10	buxXirbuxXimawAmasmi	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwqsamAnAXikaraNam,9	buxXi	inwelligence				
-8	buxXimawAm	9	0	buxXimaw{puM}{6;bahu}/buxXimaw{napuM}{6;bahu}	buxXimaw{puM}{6;bahu}	RaRTIsambanXaH,7	buxXimAnoM_kI	oq_whe_inwelligenw				
+7	buxXiH	10	buxXirbuxXimawAmasmi	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwqsamAnAXikaraNam,9	buxXi	intelligence				
+8	buxXimawAm	9	0	buxXimaw{puM}{6;bahu}/buxXimaw{napuM}{6;bahu}	buxXimaw{puM}{6;bahu}	RaRTIsambanXaH,7	buxXimAnoM_kI	of_the_intelligent				
 9	asmi	14	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,12;akarmakaH	hUz	am				
-10	wejaH	13	wejaswejasvinAmaham	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{1;eka}	sup_samucciwam,7	weja	protess				
-11	wejasvinAm	12	0	wejasvin{puM}{6;bahu}	wejasvin{puM}{6;bahu}	RaRTIsambanXaH,10	wejasviyoM_kA	oq_whe_poterqul				
-11.1	(ca)	11	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,7	(Ora)	anx				
+10	wejaH	13	wejaswejasvinAmaham	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{1;eka}	sup_samucciwam,7	weja	prowess				
+11	wejasvinAm	12	0	wejasvin{puM}{6;bahu}	wejasvin{puM}{6;bahu}	RaRTIsambanXaH,10	wejasviyoM_kA	of_the_powerful				
+11.1	(ca)	11	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,7	(Ora)	and				
 12	aham	8	0	asmax{1;eka}	asmax{1;eka}	karwA,9	mEM	I				

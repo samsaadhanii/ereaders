@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	prajahAwi	7	prajahAwi	pra_hA1{karwari;lat;pra;eka;AwmanepaxI;ozhAf;juhowyAxiH}/pra_hA2{karwari;lat;pra;eka;parasmEpaxI;ozhAk;juhowyAxiH}	pra_hA2{karwari;lat;pra;eka;parasmEpaxI;pra_ozhAf;juhowyAxiH}	aBihiwa_karma,3;sakarmaka	BalIBAzwi_wyAga_xewA_hE	whoroughly_casws_oqq				
-2	yaxA	6	yaxA	yaxA{avya}	yaxA{avya}	niwya_sambanXaH,12	jisa_kAla_meM	then				
+1	prajahAwi	7	prajahAwi	pra_hA1{karwari;lat;pra;eka;AwmanepaxI;ozhAf;juhowyAxiH}/pra_hA2{karwari;lat;pra;eka;parasmEpaxI;ozhAk;juhowyAxiH}	pra_hA2{karwari;lat;pra;eka;parasmEpaxI;pra_ozhAf;juhowyAxiH}	aBihiwa_karma,3;sakarmaka	BalIBAzwi_wyAga_xewA_hE	thoroughly_casts_off				
+2	yaxA	6	yaxA	yaxA{avya}	yaxA{avya}	niwya_sambanXaH,12	jisa_kAla_meM	when				
 3	kAmAn	4	kAmAnsarvAnpArWa	kAma{puM}{2;bahu}	kAma{puM}{2;bahu}	karma,1	kAmanAoM_ko	cravings				
 4	sarvAn	5	0	sarva{puM}{2;bahu}	sarva{puM}{2;bahu}	viSeRaNam,3	saBI	all				
-5	pArWa	1	0	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,1	he_arjuna	O_son_oq_Prwha				
-6	mana-gawAn	3	manogawAn	manogawa{puM}{2;bahu}	manaH-gawa{puM}{2;bahu}	viSeRaNam,3	mana_meM_sWiwa	oq_whe_minx	<manaH-gawAn>W7			
-7	Awmani	11	AwmanyevawmanA	Awman{puM}{7;eka}	Awman{puM}{7;eka}	aXikaraNam,10	AwmA_meM	in_whe_Selq				
-8	eva	12	0	eva{avya}	eva{avya}	sambanXaH,7	hI	cerwainly				
-9	AwmanA	10	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,10	AwmA_se	whrough_whe_joy_oq_whe_Selq				
-10	wuRtaH	14	wuRtaH	wuRta{puM}{1;eka}	wuR1{kqw_prawyayaH:kwa;wuRaz;xivAxiH;puM}{1;eka}	karma,13	saMwuRta	sawisqiex				
-11	sWiwa-prajFaH	13	sWiwaprajFaswaxocyawe	sWiwaprajFa{puM}{1;eka}	sWiwa-prajFa{puM}{1;eka}	karmasamAnAXikaraNam,10	sWiwaprajFa	swable_oq_minx	<sWiwa-prajFaH>Bs6			
-12	waxA	8	0	waxA{avya}	waxA{avya}	kAlAXikaraNam,10	usa_kAla_meM	when				
+5	pArWa	1	0	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,1	he_arjuna	O_son_of_Prtha				
+6	mana-gawAn	3	manogawAn	manogawa{puM}{2;bahu}	manaH-gawa{puM}{2;bahu}	viSeRaNam,3	mana_meM_sWiwa	of_the_mind	<manaH-gawAn>T7			
+7	Awmani	11	AwmanyevawmanA	Awman{puM}{7;eka}	Awman{puM}{7;eka}	aXikaraNam,10	AwmA_meM	in_the_Self				
+8	eva	12	0	eva{avya}	eva{avya}	sambanXaH,7	hI	certainly				
+9	AwmanA	10	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,10	AwmA_se	through_the_joy_of_the_Self				
+10	wuRtaH	14	wuRtaH	wuRta{puM}{1;eka}	wuR1{kqw_prawyayaH:kwa;wuRaz;xivAxiH;puM}{1;eka}	karma,13	saMwuRta	satisfied				
+11	sWiwa-prajFaH	13	sWiwaprajFaswaxocyawe	sWiwaprajFa{puM}{1;eka}	sWiwa-prajFa{puM}{1;eka}	karmasamAnAXikaraNam,10	sWiwaprajFa	stable_of_mind	<sWiwa-prajFaH>Bs6			
+12	waxA	8	0	waxA{avya}	waxA{avya}	kAlAXikaraNam,10	usa_kAla_meM	then				
 12.1	(saH)	9	()		wax{sarvanAma;puM;1;eka}	karwA,10						
 12.2	(iwi)	15	()		iwi{avya	vAkyakarmaxyowakaH,10						
-13	ucyawe	16	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karma,10;sakarmaka	kahA_jAwA_hE	is_callex				
+13	ucyawe	16	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karma,10;sakarmaka	kahA_jAwA_hE	is_called				
 14	(naraH)	2	(0)	(nq{puM}{1;bahu}/nq{puM}{8;bahu}/nara{puM}{1;eka})	(nara{puM}{1;eka})	karwA,1	(manuRya)	man				

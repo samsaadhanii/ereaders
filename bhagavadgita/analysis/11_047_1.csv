@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	mayA	3	mayA	asmax{3;eka}	asmax{3;eka}	karwA,8	mEMne	by_Me				
 2	prasannena	2	prasannena	prasanna{puM}{3;eka}/prasanna{napuM}{3;eka}	prasanna{puM}{3;eka}	viSeRaNam,1	anugrahapUrvaka	happily				
-3	wava	13	wavArjunexaM	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,13.1	wumhAre	unwo_you				
+3	wava	13	wavArjunexaM	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,15.1	wumhAre	unto_you				
 4	arjuna	1	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,8	he_arjuna	O_Arjuna				
-5	ixam	5	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,6	yaha	whis				
-6	rUpam	12	rUpaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,8	rUpa	qorm				
-7	param	7	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	viSeRaNam,6	parama	wranscenxenwal				
-8	xarSiwam	15	xarSiwamAwmayogAw	xarSiwa{puM}{2;eka}	xqS1_Nic{kqw_prawyayaH:kwa;xqSizr_Nic;BvAxiH;napuM}{1;eka}	aBihiwakarma,6;sakarmakaH	xiKalAyA_hE	shotn				
-9	Awma-yogAw	4	0	Awman-yoga{puM}{5;eka}	Awman-yoga{puM}{5;eka}	hewuH,8	apanI_yoga_Sakwi_ke_praBAva_se	by_my_inwernal_powency	<Awma-yogAw>W6			
-10	wejomayam	8	wejomayaM	wejomaya{puM}{2;eka}/wejomaya{napuM}{1;eka}/wejomaya{napuM}{2;eka}	wejomaya{napuM}{2;eka}	viSeRaNam,6	wejomaya	qull_oq_eqqulgence				
-11	viSvam	11	viSvamananwamAxyaM	viSva{puM}{2;eka}/viSva{napuM}{1;eka}/viSva{napuM}{2;eka}/viSva{puM}{2;eka}	viSva{napuM}{2;eka}	viSeRaNam,6	virAt	whe_enwire_universe				
-12	an-anwam	10	0	anaw{puM}{2;eka}/ananwa{puM}{2;eka}	ananwa{puM}{2;eka}	viSeRaNam,6	sImArahiwa	unlimiwex	<na-anwam>Bsmn			
+5	ixam	5	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,6	yaha	this				
+6	rUpam	12	rUpaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,8	rUpa	form				
+7	param	7	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	viSeRaNam,6	parama	transcendental				
+8	xarSiwam	15	xarSiwamAwmayogAw	xarSiwa{puM}{2;eka}	xqS1_Nic{kqw_prawyayaH:kwa;xqSizr_Nic;BvAxiH;napuM}{1;eka}	aBihiwakarma,6;sakarmakaH	xiKalAyA_hE	shown				
+9	Awma-yogAw	4	0	Awman-yoga{puM}{5;eka}	Awman-yoga{puM}{5;eka}	hewuH,8	apanI_yoga_Sakwi_ke_praBAva_se	by_my_internal_potency	<Awma-yogAw>T6			
+10	wejomayam	8	wejomayaM	wejomaya{puM}{2;eka}/wejomaya{napuM}{1;eka}/wejomaya{napuM}{2;eka}	wejomaya{napuM}{2;eka}	viSeRaNam,6	wejomaya	full_of_effulgence				
+11	viSvam	11	viSvamananwamAxyaM	viSva{puM}{2;eka}/viSva{napuM}{1;eka}/viSva{napuM}{2;eka}/viSva{puM}{2;eka}	viSva{napuM}{2;eka}	viSeRaNam,6	virAt	the_entire_universe				
+12	an-anwam	10	0	anaw{puM}{2;eka}/ananwa{puM}{2;eka}	ananwa{puM}{2;eka}	viSeRaNam,6	sImArahiwa	unlimited	<na-anwam>Bsmn			
 13	Axyam	9	0	Axya{puM}{2;eka}/Axya{napuM}{1;eka}/Axya{napuM}{2;eka}	Axya{napuM}{2;eka}	viSeRaNam,6	sabakA_Axi	original				
-14	yaw	16	yanme	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karwA,18.1;niwyasambanXaH,6	jise	whaw_thich				
+14	yaw	16	yanme	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karwA,18.1;niwyasambanXaH,6	jise	that_which				
 15	me	6	0	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,6	merA	my				
 15.1	(sammuKe)	14	(0)	(sammuKa{puM}{7;eka}/sammuKa{napuM}{1;xvi}/sammuKa{napuM}{2;xvi}/sammuKa{napuM}{7;eka}/sammuKa{napuM}{8;xvi})	(sammuKa{puM}{7;eka})	aXikaraNam,8	(sammuKa)	I				
-16	wvaw-anyena	17	wvaxanyena	wvaxanya{puM}{3;eka}/wvaxanya{napuM}{3;eka}	wvax-anya{puM}{3;eka}	karwA,18	were_awirikwa_xUsare_kisIne	besixes_you				
+16	wvaw-anyena	17	wvaxanyena	wvaxanya{puM}{3;eka}/wvaxanya{napuM}{3;eka}	wvax-anya{puM}{3;eka}	karwA,18	were_awirikwa_xUsare_kisIne	besides_you				
 17	na	18	na	na{avya}	na{avya}	prawiReXaH,18.1	nahIM	no_one				
 18	xqRta-pUrvam	19	xqRtapUrvam	xqRtapUrva{napuM}{1;eka}/xqRtapUrva{napuM}{2;eka}	xqRta-pUrva{napuM}{1;eka}	karwqsamAnAXikaraNam,18.1	pahale_xeKA	previously_seen	<xqRta-pUrvam>K1			
-18.1	(AsIwa)	20	(0)	(As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH})	(As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH})	aBihiwakarwA,14;sakarmakaH	(WA)	hax				
+18.1	(AsIwa)	20	(0)	(As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH})	(As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH})	aBihiwakarwA,14;sakarmakaH	(WA)	had				

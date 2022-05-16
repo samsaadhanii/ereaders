@@ -1,25 +1,25 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	BavAn	1	BavAnBIRmaSca	Bava{puM}{2;bahu}/Bavaw{puM}{1;eka}	Bavaw{puM}{1;eka}	GatakaH,22	Apa_(xroNAcArya)	yourselq				
-2	BIRmaH	2	0	BIRma{puM}{1;eka}	BIRma{puM}{1;eka}	GatakaH,22	piwAmaha_BIRma	Granxqawher_Bhisma				
-3	ca	3	0	ca{avya}	ca{avya}	samuccayaxyowakaH,2	Ora	anx				
+1	BavAn	1	BavAnBIRmaSca	Bava{puM}{2;bahu}/Bavaw{puM}{1;eka}	Bavaw{puM}{1;eka}	GatakaH,22	Apa_(xroNAcArya)	yourself				
+2	BIRmaH	2	0	BIRma{puM}{1;eka}	BIRma{puM}{1;eka}	GatakaH,22	piwAmaha_BIRma	Grandfather_Bhisma				
+3	ca	3	0	ca{avya}	ca{avya}	samuccayaxyowakaH,2	Ora	and				
 4	karNaH	4	karNaSca	karNa{puM}{1;eka}	karNa{puM}{1;eka}	GatakaH,22	karNa	Karna				
 5	ca	5	0	ca{avya}	ca{avya}	samuccayaxyowakaH,4	Ora	also				
 6	kqpaH	6	kqpaSca	kqpa{puM}{1;eka}	kqpa{puM}{1;eka}	GatakaH,22	kqpAcArya	Krpa				
-7	ca	7	0	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora	anx				
-8	samiwiFjayaH	8	samiwiFjayaH	samiwiFjaya{puM}{1;eka}	samiwiFjaya{puM}{1;eka}	viSeRaNam,6	saMgrAmavijayI	ever_vicworious				
-9	aSvawWAmA	9	aSvawWAmA	aSvawWAman{puM}{1;eka}	aSvawWAman{puM}{1;eka}	GatakaH,22	aSvawWAmA	Asvawwhama				
+7	ca	7	0	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora	and				
+8	samiwiFjayaH	8	samiwiFjayaH	samiwiFjaya{puM}{1;eka}	samiwiFjaya{puM}{1;eka}	viSeRaNam,6	saMgrAmavijayI	ever_victorious				
+9	aSvawWAmA	9	aSvawWAmA	aSvawWAman{puM}{1;eka}	aSvawWAman{puM}{1;eka}	GatakaH,22	aSvawWAmA	Asvatthama				
 10	vikarNaH	10	vikarNaSca	vikarNa{puM}{1;eka}	vikarNa{puM}{1;eka}	GatakaH,22	vikarNa	Vikarna				
-11	ca	11	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,10	waWA	as_tell_as				
-12	sOmaxawwiH	12	sOmaxawwiswaWEva	sOmaxawwi{puM}{1;eka}	sOmaxawwi{puM}{1;eka}	GatakaH,22	somaxawwakA_puwra_BUriSravA	whe_son_oq_Somaxawwa				
-13	waWEva	13	0	        waWEva{avya}	        waWEva{avya}	sambanXaH,15	vEse	as_tell_as				
-14	ca	15	ca	ca{avya}	ca{avya}	sambanXaH,23.1	Ora	anx				
-15	anye	16	anye	anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anya{napuM}{7;eka}/anya{puM}{1;bahu}/anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/an1{BAve;lat;u;eka;AwmanepaxI;anaz;axAxiH}	anya{puM}{1;bahu}	viSeRaNam,18	Ora loga BI 	many_owhers				
+11	ca	11	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,10	waWA	as_well_as				
+12	sOmaxawwiH	12	sOmaxawwiswaWEva	sOmaxawwi{puM}{1;eka}	sOmaxawwi{puM}{1;eka}	GatakaH,22	somaxawwakA_puwra_BUriSravA	the_son_of_Somadatta				
+13	waWEva	13	0	        waWEva{avya}	        waWEva{avya}	sambanXaH,15	vEse	as_well_as				
+14	ca	15	ca	ca{avya}	ca{avya}	sambanXaH,23.1	Ora	and				
+15	anye	16	anye	anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anya{napuM}{7;eka}/anya{puM}{1;bahu}/anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/an1{BAve;lat;u;eka;AwmanepaxI;anaz;axAxiH}	anya{puM}{1;bahu}	viSeRaNam,18	Ora loga BI 	many_others				
 16	ca	17	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,18	Ora	also				
-17	bahavaH	18	bahavaH	bahu{puM}{1;bahu}/bahu{swrI}{1;bahu}/bahu{swrI}{2;bahu}	bahu{puM}{1;bahu}	wIvrawAxarSI,18	bahuwa_se	in_greaw_numbers				
+17	bahavaH	18	bahavaH	bahu{puM}{1;bahu}/bahu{swrI}{1;bahu}/bahu{swrI}{2;bahu}	bahu{puM}{1;bahu}	wIvrawAxarSI,18	bahuwa_se	in_great_numbers				
 18	SUrAH	19	SUrA	SUra{puM}{1;bahu}/SUrA{swrI}{1;bahu}/SUrA{swrI}{2;bahu}	SUra{puM}{1;bahu}	GatakaH,22	SUravIra	heroes				
-19	maw-arWe	21	maxarWe	asmax-arWa{puM}{7;eka}/arWa{napuM}{1;xvi}/arWa{napuM}{2;xvi}/arWa{napuM}{7;eka}	asmax-arWa{puM}{7;eka}	prayojanam,20	mere_liye	qor_my_sake	<asmaw-arWe>W4			
-20	wyakwa-jIviwAH	22	wyakwajIviwAH	wyakwa-jIviwa{puM}{1;bahu}/jIviwA{swrI}{1;bahu}/jIviwA{swrI}{2;bahu}	wyakwa-jIviwa{puM}{1;bahu}	viSeRaNam,18	jIvana_kI_ASA_wyAga_xenevAle	preparex_wo_risk_liqe	<wyakwa-jIviwAH>Bs3			
-21	nAnA-Saswra-praharaNAH	23	nAnASaswrapraharaNAH	nAnA-Saswra-praharaNa{puM}{1;bahu}	nAnA-Saswra-praharaNa{puM}{1;bahu}	viSeRaNam,18	aneka_prakAra_ke_SaswrAswroM_se_susajjiwa	eduippex_tiwh_various_teapons_anx_missiles	<<nAnA-Saswra>Km-praharaNAH>Bs6			
-22	sarve	20	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,23.1	saba_ke_saba	all_oq_whem				
-23	yuxXa-viSAraxAH	24	yuxXaviSAraxAH	yuxXa-viSAraxa{puM}{1;bahu}/viSAraxA{swrI}{1;bahu}/viSAraxA{swrI}{2;bahu}	yuxXa-viSAraxa{puM}{1;bahu}	viSeRaNam,18	yuxXa_meM_cawura	skillex_in_tarqare	<yuxXa-viSAraxAH>W7			
+19	maw-arWe	21	maxarWe	asmax-arWa{puM}{7;eka}/arWa{napuM}{1;xvi}/arWa{napuM}{2;xvi}/arWa{napuM}{7;eka}	asmax-arWa{puM}{7;eka}	prayojanam,20	mere_liye	for_my_sake	<asmaw-arWe>T4			
+20	wyakwa-jIviwAH	22	wyakwajIviwAH	wyakwa-jIviwa{puM}{1;bahu}/jIviwA{swrI}{1;bahu}/jIviwA{swrI}{2;bahu}	wyakwa-jIviwa{puM}{1;bahu}	viSeRaNam,18	jIvana_kI_ASA_wyAga_xenevAle	prepared_to_risk_life	<wyakwa-jIviwAH>Bs3			
+21	nAnA-Saswra-praharaNAH	23	nAnASaswrapraharaNAH	nAnA-Saswra-praharaNa{puM}{1;bahu}	nAnA-Saswra-praharaNa{puM}{1;bahu}	viSeRaNam,18	aneka_prakAra_ke_SaswrAswroM_se_susajjiwa	equipped_with_various_weapons_and_missiles	<<nAnA-Saswra>Km-praharaNAH>Bs6			
+22	sarve	20	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,23.1	saba_ke_saba	all_of_them				
+23	yuxXa-viSAraxAH	24	yuxXaviSAraxAH	yuxXa-viSAraxa{puM}{1;bahu}/viSAraxA{swrI}{1;bahu}/viSAraxA{swrI}{2;bahu}	yuxXa-viSAraxa{puM}{1;bahu}	viSeRaNam,18	yuxXa_meM_cawura	skilled_in_warfare	<yuxXa-viSAraxAH>T7			
 23.1	(sanwi)	25	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,22;akarmakaH	(hEM)	are				

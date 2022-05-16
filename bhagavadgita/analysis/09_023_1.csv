@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ye	2	yeZpyanyaxevawA	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,4;niwyasambanXaH,8	jo_(sakAma)	whose				
+1	ye	2	yeZpyanyaxevawA	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,4;niwyasambanXaH,8	jo_(sakAma)	those				
 2	api	3	0	api{avya}	api{avya}	sambanXaH,4	 BI 	also				
-3	anya-xevawAH	7	0	anyaxevawa{puM}{1;bahu}/anyaxevawa{puM}{8;bahu}/anyaxevawA{swrI}{1;bahu}/anyaxevawA{swrI}{2;bahu}/anyaxevawA{swrI}{8;bahu}	anya-xevawA{swrI}{2;bahu}	karma,5	 anya_ xevawAoM ko	owher_xemigoxs	<anya-xevawAH>K1			
-4	BakwAH	4	BakwA	Bakwa{puM}{1;bahu}/Bakwa{puM}{8;bahu}/BakwA{swrI}{1;bahu}/BakwA{swrI}{2;bahu}/BakwA{swrI}{8;bahu}	Bakwa{puM}{1;bahu}	karwA,5	Bakwa	xevowees				
-5	yajanwe	8	yajanwe	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	aBihiwa_karwA,4;sakarmakaH	pUjawe_hEM	torship				
-6	SraxXayA	5	SraxXayAnviwAH	SraxXA{swrI}{3;eka}	SraxXA{swrI}{3;eka}	karaNam,5	SraxXA_se	qaiwh				
-7	anviwAH	6	0	anviwa{puM}{1;bahu}/anviwa{puM}{8;bahu}/anviwA{swrI}{1;bahu}/anviwA{swrI}{2;bahu}/anviwA{swrI}{8;bahu}	anviwa{puM}{1;bahu}	sambanXaH,6	yukwa	tiwh				
-8	we	9	weZpi	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	karwA,13	ve	whey				
+3	anya-xevawAH	7	0	anyaxevawa{puM}{1;bahu}/anyaxevawa{puM}{8;bahu}/anyaxevawA{swrI}{1;bahu}/anyaxevawA{swrI}{2;bahu}/anyaxevawA{swrI}{8;bahu}	anya-xevawA{swrI}{2;bahu}	karma,5	 anya_ xevawAoM ko	other_demigods	<anya-xevawAH>K1			
+4	BakwAH	4	BakwA	Bakwa{puM}{1;bahu}/Bakwa{puM}{8;bahu}/BakwA{swrI}{1;bahu}/BakwA{swrI}{2;bahu}/BakwA{swrI}{8;bahu}	Bakwa{puM}{1;bahu}	karwA,5	Bakwa	devotees				
+5	yajanwe	8	yajanwe	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	aBihiwa_karwA,4;sakarmakaH	pUjawe_hEM	worship				
+6	SraxXayA	5	SraxXayAnviwAH	SraxXA{swrI}{3;eka}	SraxXA{swrI}{3;eka}	karaNam,5	SraxXA_se	faith				
+7	anviwAH	6	0	anviwa{puM}{1;bahu}/anviwa{puM}{8;bahu}/anviwA{swrI}{1;bahu}/anviwA{swrI}{2;bahu}/anviwA{swrI}{8;bahu}	anviwa{puM}{1;bahu}	sambanXaH,6	yukwa	with				
+8	we	9	weZpi	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	karwA,13	ve	they				
 9	api	10	0	api{avya}	api{avya}	sambanXaH,8	BI	also				
 10	mAm	11	mAmeva	asmax{2;eka}	asmax{2;eka}	karma,13	merA 	me				
 11	eva	12	0	eva{avya}	eva{avya}	sambanXaH,10	hI	even				
-12	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,5	he_arjuna	O_son_oq_Kunwi				
-13	yajanwi	14	yajanwyaviXipUrvakam	yajaw{napuM}{1;bahu}/yajaw{napuM}{2;bahu}/yajaw{napuM}{8;bahu}/yajanwI{swrI}{8;eka}/yaj1{karwari;lat;pra;bahu;parasmEpaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;parasmEpaxI;yajaz;BvAxiH}	aBihiwa_karwA,8;sakarmakaH	 pUjana_ karawe hE	sacriqice				
-14	a-viXi-pUrvakam	13	0	a-viXi-pUrvakam	na-viXi-pUrvaka{avya}	kriyAviSeRaNam,13	aviXipUrvaka ( ajFAnapUrvaka )	in_a_trong_tay	<na-<viXi-pUrvakam>Bs6>Wn			
+12	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,5	he_arjuna	O_son_of_Kunti				
+13	yajanwi	14	yajanwyaviXipUrvakam	yajaw{napuM}{1;bahu}/yajaw{napuM}{2;bahu}/yajaw{napuM}{8;bahu}/yajanwI{swrI}{8;eka}/yaj1{karwari;lat;pra;bahu;parasmEpaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;parasmEpaxI;yajaz;BvAxiH}	aBihiwa_karwA,8;sakarmakaH	 pUjana_ karawe hE	sacrifice				
+14	a-viXi-pUrvakam	13	0	a-viXi-pUrvakam	na-viXi-pUrvaka{avya}	kriyAviSeRaNam,13	aviXipUrvaka ( ajFAnapUrvaka )	in_a_wrong_way	<na-<viXi-pUrvakam>Bs6>Tn			

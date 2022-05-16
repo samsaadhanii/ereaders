@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaw	2	yawwu	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,4;niwyasambanXaH,10	jo	whaw				
-2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,8	paraMwu	buw				
-3	kAma-ipsunA	6	kAmepsunA	kAmepsu{puM}{3;eka}	kAma-ipsu{puM}{3;eka}	suup_anyawaraH,5	BogoM_ko_cAhanevAle_puruRa_xvArA	tiwh_qruiwive_resulw	<kAma-ipsunA>W2			
-4	karma	3	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8	karma	tork				
-5	sa-ahafkAreNa	8	sAhafkAreNa	sAhafkAra{puM}{3;eka}/sAhafkAra{napuM}{3;eka}	sa-ahafkAra{puM}{3;eka}	hewuH,8	ahaMkArayukwa_puruRa_xvArA	tiwh_ego	<sa-ahafkAreNa>BvS			
+1	yaw	2	yawwu	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,4;niwyasambanXaH,10	jo	that				
+2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,8	paraMwu	but				
+3	kAma-ipsunA	6	kAmepsunA	kAmepsu{puM}{3;eka}	kAma-ipsu{puM}{3;eka}	suup_anyawaraH,5	BogoM_ko_cAhanevAle_puruRa_xvArA	with_fruitive_result	<kAma-ipsunA>T2			
+4	karma	3	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8	karma	work				
+5	sa-ahafkAreNa	8	sAhafkAreNa	sAhafkAra{puM}{3;eka}/sAhafkAra{napuM}{3;eka}	sa-ahafkAra{puM}{3;eka}	hewuH,8	ahaMkArayukwa_puruRa_xvArA	with_ego	<sa-ahafkAreNa>BvS			
 6	vA	7	vA	vA{avya}	vA{avya}	anyawaraxyowakaH,5	yA	or				
 7	punaH	5	punaH	punaH{avya}	punaH{avya}	kriyAviSeRaNam,8	waWA	again				
-8	kriyawe	9	kriyawe	kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwa_karma,4	kiyA_jAwA_hE	is_perqormex				
-9	bahula-AyAsam	4	bahulAyAsaM	bahula-AyAsam	bahula-AyAsa{puM}{2;eka}	viSeRaNam,4	bahuwa_pariSrama_se_yukwa	tiwh_greaw_labor	<bahula-AyAsaM>Bs7			
-10	waw	10	waxrAjasamuxAhqwam	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,12	vaha_karma	whaw				
-11	rAjasam	11	0	rAjasa{puM}{2;eka}/rAjasa{napuM}{1;eka}/rAjasa{napuM}{2;eka}	rAjasa{napuM}{2;eka}	karmasamAnAXikaraNam,12	rAjasa	in_whe_moxe_oq_passion				
-12	uxAhqwam	12	0	uxAhqwa{puM}{2;eka}/uxAhqwa{napuM}{1;eka}/uxAhqwa{napuM}{2;eka}_(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	uw_Af_hq1{kqw_prawyayaH:kwa;uw_Af_hqF;BvAxiH;napuM}{1;eka}_(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karma,10	kahA_gayA_hE	is_saix_wo_be				
+8	kriyawe	9	kriyawe	kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwa_karma,4	kiyA_jAwA_hE	is_performed				
+9	bahula-AyAsam	4	bahulAyAsaM	bahula-AyAsam	bahula-AyAsa{puM}{2;eka}	viSeRaNam,4	bahuwa_pariSrama_se_yukwa	with_great_labor	<bahula-AyAsaM>Bs7			
+10	waw	10	waxrAjasamuxAhqwam	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,12	vaha_karma	that				
+11	rAjasam	11	0	rAjasa{puM}{2;eka}/rAjasa{napuM}{1;eka}/rAjasa{napuM}{2;eka}	rAjasa{napuM}{2;eka}	karmasamAnAXikaraNam,12	rAjasa	in_the_mode_of_passion				
+12	uxAhqwam	12	0	uxAhqwa{puM}{2;eka}/uxAhqwa{napuM}{1;eka}/uxAhqwa{napuM}{2;eka}_(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	uw_Af_hq1{kqw_prawyayaH:kwa;uw_Af_hqF;BvAxiH;napuM}{1;eka}_(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karma,10	kahA_gayA_hE	is_said_to_be				

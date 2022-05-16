@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sawwva-anurUpA	4	sawwvAnurUpA	sawwva-anurUpA{swrI}{1;eka}	sawwva-anurUpA{swrI}{1;eka}	karwqsamAnAXikaraNam,4	unake_anwaHkaraNa_ke_anurUpa	accorxing_wo_whe_eLiswence	<sawwva-anurUpA>W6			
-2	sarvasya	2	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,3	saBI_manuRyoM_kI	oq_everyone				
-3	SraxXA	3	SraxXA	SraxXA{swrI}{1;eka}	SraxXA{swrI}{1;eka}	karwA,4	SraxXA	qaiwh				
+1	sawwva-anurUpA	4	sawwvAnurUpA	sawwva-anurUpA{swrI}{1;eka}	sawwva-anurUpA{swrI}{1;eka}	karwqsamAnAXikaraNam,4	unake_anwaHkaraNa_ke_anurUpa	according_to_the_existence	<sawwva-anurUpA>T6			
+2	sarvasya	2	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,3	saBI_manuRyoM_kI	of_everyone				
+3	SraxXA	3	SraxXA	SraxXA{swrI}{1;eka}	SraxXA{swrI}{1;eka}	karwA,4	SraxXA	faith				
 4	Bavawi	5	Bavawi	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,3;akarmakaH	howI_hE	becomes				
-5	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,4	he_BArawa	O_son_oq_Bharawa				
-6	SraxXA-mayaH	8	SraxXAmayoZyaM	SraxXAmaya{puM}{1;eka}	SraxXAmaya{puM}{1;eka}	karwqsamAnAXikaraNam,8.1	SraxXAmaya	qull_oq_qaiwh	<SraxXA-mayaH>Bs7			
-7	ayam	6	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,8	yaha	whis				
-8	puruRaH	7	puruRo	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	karwA,8.1	puruRa	living_enwiwy				
+5	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,4	he_BArawa	O_son_of_Bharata				
+6	SraxXA-mayaH	8	SraxXAmayoZyaM	SraxXAmaya{puM}{1;eka}	SraxXAmaya{puM}{1;eka}	karwqsamAnAXikaraNam,8.1	SraxXAmaya	full_of_faith	<SraxXA-mayaH>Bs7			
+7	ayam	6	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,8	yaha	this				
+8	puruRaH	7	puruRo	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	karwA,8.1	puruRa	living_entity				
 8.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,8;akarmakaH	(hE)	is				
-9	yaH	10	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,10.1; niwyasambanXaH,11	jo_(puruRa)	anyone				
-10	yaw-SraxXaH	11	yacCraxXaH	yax-SraxXaH	yax-SraxXa{puM}{1;eka}	karwqsamAnAXikaraNam,10.1	jEsI_SraxXAvAlA	like_whaw_qaiwh	<yaw-SraxXaH>Bs6			
+9	yaH	10	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,10.1;niwyasambanXaH,11	jo_(puruRa)	anyone				
+10	yaw-SraxXaH	11	yacCraxXaH	yax-SraxXaH	yax-SraxXa{puM}{1;eka}	karwqsamAnAXikaraNam,10.1	jEsI_SraxXAvAlA	like_that_faith	<yaw-SraxXaH>Bs6			
 10.1	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,9;akarmakaH	(hE)	is				
 11	saH	13	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwqsamAnAXikaraNam,13.1	vaha	he				
-12	eva	14	eva	eva{avya}	eva{avya}	sambanXaH,11	BI	cerwainly				
-13	saH	15	saH	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,13.1	vahI	whaw				
+12	eva	14	eva	eva{avya}	eva{avya}	sambanXaH,11	BI	certainly				
+13	saH	15	saH	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,13.1	vahI	that				
 13.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13;akarmakaH	(hE)	is				

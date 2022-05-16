@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	banXuH	9	banXurAwmAwmanaswasya	banXu{puM}{1;eka}	banXu{puM}{1;eka}	karwqsamAnAXikaraNam,9.1	miwra	qrienx				
-2	AwmA	7	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,9.1	Apa	minx				
-3	AwmanaH	6	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,2	jIvAwmA_kA	oq_whe_living_enwiwy				
-4	wasya	5	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	viSeRaNam,3	usa	oq_him				
-5	yena	1	yenAwmEvAwmanA	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	viSeRaNam,8;niwyasambanXaH,4	jisa	by_thom				
-6	AwmA	3	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karma,9	mana_Ora_inxriyoM_sahiwa_SarIra	minx				
-7	eva	8	0	eva{avya}	eva{avya}	sambanXaH,2	hI	cerwainly				
-8	AwmanA	2	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,9	jIvAwmA_xvArA	by_whe_living_enwiwy				
-9	jiwaH	4	jiwaH	jiw{puM}{1;bahu}/jiw{puM}{2;bahu}/jiw{puM}{5;eka}/jiw{puM}{6;eka}/jiwa{puM}{1;eka}	ji1{kqw_prawyayaH:kwa;ji;BvAxiH;puM}{1;eka}	aBihiwakarma,6;sakarmakaH	jIwA_huA_hE	conduerex				
+1	banXuH	9	banXurAwmAwmanaswasya	banXu{puM}{1;eka}	banXu{puM}{1;eka}	karwqsamAnAXikaraNam,9.1	miwra	friend				
+2	AwmA	7	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,9.1	Apa	mind				
+3	AwmanaH	6	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,2	jIvAwmA_kA	of_the_living_entity				
+4	wasya	5	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	viSeRaNam,3	usa	of_him				
+5	yena	1	yenAwmEvAwmanA	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	viSeRaNam,8;niwyasambanXaH,4	jisa	by_whom				
+6	AwmA	3	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karma,9	mana_Ora_inxriyoM_sahiwa_SarIra	mind				
+7	eva	8	0	eva{avya}	eva{avya}	sambanXaH,2	hI	certainly				
+8	AwmanA	2	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,9	jIvAwmA_xvArA	by_the_living_entity				
+9	jiwaH	4	jiwaH	jiw{puM}{1;bahu}/jiw{puM}{2;bahu}/jiw{puM}{5;eka}/jiw{puM}{6;eka}/jiwa{puM}{1;eka}	ji1{kqw_prawyayaH:kwa;ji;BvAxiH;puM}{1;eka}	aBihiwakarma,6;sakarmakaH	jIwA_huA_hE	conquered				
 9.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,6;akarmakaH	(hE)	is				
-10	an-AwmanaH	12	anAwmanaswu	an-{avya}-Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	na-Awman{puM}{6;eka}	RaRTIsambanXaH,14	jisake_xvArA_mana_waWA_inxriyoM_sahiwa_SarIra_nahIM_jIwA_gayA_hE_usake_liye	oq_one_tho_has_qailex_wo_conwrol_whe_minx	<na-AwmanaH>Bsmn			
-11	wu	11	0	wu{avya}	wu{avya}	sambanXaH,13	Ora	buw				
-12	Sawruwve	16	Sawruwve	Sawruwva{napuM}{1;xvi}/Sawruwva{napuM}{2;xvi}/Sawruwva{napuM}{7;eka}	Sawruwva{napuM}{7;eka}	aXikaraNam,13	SawruwA_meM	because_oq_enmiwy				
+10	an-AwmanaH	12	anAwmanaswu	an-{avya}-Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	na-Awman{puM}{6;eka}	RaRTIsambanXaH,14	jisake_xvArA_mana_waWA_inxriyoM_sahiwa_SarIra_nahIM_jIwA_gayA_hE_usake_liye	of_one_who_has_failed_to_control_the_mind	<na-AwmanaH>Bsmn			
+11	wu	11	0	wu{avya}	wu{avya}	sambanXaH,13	Ora	but				
+12	Sawruwve	16	Sawruwve	Sawruwva{napuM}{1;xvi}/Sawruwva{napuM}{2;xvi}/Sawruwva{napuM}{7;eka}	Sawruwva{napuM}{7;eka}	aXikaraNam,13	SawruwA_meM	because_of_enmity				
 13	varwewa	17	varwewAwmEva	vqw1{karwari;viXilif;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	vqw1{karwari;viXilif;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	aBihiwakarwA,13;akarmakaH	barawawA_hE	remains				
-14	AwmA	13	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,13	Apa	whe_very_minx				
-15	eva	14	0	eva{avya}	eva{avya}	sambanXaH,14	hI	oq_whe_conxiwionex_soul				
+14	AwmA	13	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,13	Apa	the_very_mind				
+15	eva	14	0	eva{avya}	eva{avya}	sambanXaH,14	hI	of_the_conditioned_soul				
 16	Sawruvaw	15	Sawruvaw	Sawru{vaw}	Sawruvaw{avya}	kriyAviSeRaNam,13	Sawru_ke_saxqSa	as_an_enemy				

@@ -1,37 +1,37 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kavim	2	kaviM	kavi{puM}{2;eka}	kavi{puM}{2;eka}	viSeRaNam,13.3	sarvajFa	one_tho_knots_everywhing				
-2	purANam	3	purANamanuSAsiwAramaNoraNIyAMsamanusmarexyaH	purANa{napuM}{1;eka}/purANa{napuM}{2;eka}	purANa{puM}{2;eka}	viSeRaNam,13.3	anAxi	whe_olxesw				
-3	anuSAsiwAram	4	0	anuSAsiwq{puM}{2;eka}	anu_SAs1{kqw_prawyayaH:wqc;anu_SAsuz;axAxiH;puM}{2;eka}	viSeRaNam,13.3	sabake_niyanwA	whe_conwroller				
-4	aNoH	5	0	aNu{puM}{5;eka}/aNu{puM}{6;eka}	aNu{puM}{6;eka}	RaRTIsambanXaH,5	sUkRma_se	oq_whe_awom				
-5	aNIyAMsam	6	0	aNIyas{puM}{2;eka}	aNIyas{puM}{2;eka}	viSeRaNam,13.3	awi_sUkRma	smaller_whan				
-6	anusmarew	16	0	anu_smq1{karwari;viXilif;pra;eka;parasmEpaxI;smq;BvAxiH}/anu_smq2{karwari;viXilif;pra;eka;parasmEpaxI;smq;BvAxiH}	anu_smq1{karwari;viXilif;pra;eka;parasmEpaxI;anu_smq;BvAxiH}	aBihiwakarwA.7;sakarmakaH	smaraNa_karawA_hE	altays_whinking				
-7	yaH	1	0	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,6;niwyasambanXaH,27	jo_(puruRa)	one_tho				
-8	sarvasya	7	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,9	sabake	oq_everywhing				
-9	XAwAram	8	XAwAramacinwyarUpamAxiwyavarNaM	XAwq{puM}{2;eka}	XAwq{puM}{2;eka}	viSeRaNam,13.3	XAraNa-poRaNa_karanevAle	whe_mainwainer				
-10	a-cinwya-rUpam	9	0	acinwya-rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	acinwya-rUpa{puM}{2;eka}	viSeRaNam,13.3	acinwya-svarUpa	inconceivable_qorm	<<na-cinwya>Wn-rUpam>Bs6			
-11	Axiwya-varNam	10	0	AxiwyavarNa{puM}{2;eka}/AxiwyavarNa{napuM}{1;eka}/AxiwyavarNa{napuM}{2;eka}	Axiwya-varNa{puM}{2;eka}	viSeRaNam,13.3	sUrya_ke_saxqSa_niwya_cewana_prakASarUpa	illuminawex_like_whe_sun	<Axiwya-varNam>Bsu			
-12	wamasaH	11	wamasaH	wamas{napuM}{5;eka}/wamas{napuM}{6;eka}/wamasa{puM}{1;eka}	wamas{napuM}{5;eka}	upapaxasambanXaH,13	avixyA_se	oq_whe_xarkness				
-13	paraswAw	12	paraswAw	paraswAw{avya}	paraswAw{avya}	aXikaraNam,13.1	para	wranscenxenwal				
+1	kavim	2	kaviM	kavi{puM}{2;eka}	kavi{puM}{2;eka}	viSeRaNam,13.3	sarvajFa	one_who_knows_everything				
+2	purANam	3	purANamanuSAsiwAramaNoraNIyAMsamanusmarexyaH	purANa{napuM}{1;eka}/purANa{napuM}{2;eka}	purANa{puM}{2;eka}	viSeRaNam,13.3	anAxi	the_oldest				
+3	anuSAsiwAram	4	0	anuSAsiwq{puM}{2;eka}	anu_SAs1{kqw_prawyayaH:wqc;anu_SAsuz;axAxiH;puM}{2;eka}	viSeRaNam,13.3	sabake_niyanwA	the_controller				
+4	aNoH	5	0	aNu{puM}{5;eka}/aNu{puM}{6;eka}	aNu{puM}{6;eka}	RaRTIsambanXaH,5	sUkRma_se	of_the_atom				
+5	aNIyAMsam	6	0	aNIyas{puM}{2;eka}	aNIyas{puM}{2;eka}	viSeRaNam,13.3	awi_sUkRma	smaller_than				
+6	anusmarew	16	0	anu_smq1{karwari;viXilif;pra;eka;parasmEpaxI;smq;BvAxiH}/anu_smq2{karwari;viXilif;pra;eka;parasmEpaxI;smq;BvAxiH}	anu_smq1{karwari;viXilif;pra;eka;parasmEpaxI;anu_smq;BvAxiH}	aBihiwakarwA.7;sakarmakaH	smaraNa_karawA_hE	always_thinking				
+7	yaH	1	0	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,6;niwyasambanXaH,27	jo_(puruRa)	one_who				
+8	sarvasya	7	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,9	sabake	of_everything				
+9	XAwAram	8	XAwAramacinwyarUpamAxiwyavarNaM	XAwq{puM}{2;eka}	XAwq{puM}{2;eka}	viSeRaNam,13.3	XAraNa-poRaNa_karanevAle	the_maintainer				
+10	a-cinwya-rUpam	9	0	acinwya-rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	acinwya-rUpa{puM}{2;eka}	viSeRaNam,13.3	acinwya-svarUpa	inconceivable_form	<<na-cinwya>Tn-rUpam>Bs6			
+11	Axiwya-varNam	10	0	AxiwyavarNa{puM}{2;eka}/AxiwyavarNa{napuM}{1;eka}/AxiwyavarNa{napuM}{2;eka}	Axiwya-varNa{puM}{2;eka}	viSeRaNam,13.3	sUrya_ke_saxqSa_niwya_cewana_prakASarUpa	illuminated_like_the_sun	<Axiwya-varNam>Bsu			
+12	wamasaH	11	wamasaH	wamas{napuM}{5;eka}/wamas{napuM}{6;eka}/wamasa{puM}{1;eka}	wamas{napuM}{5;eka}	upapaxasambanXaH,13	avixyA_se	of_the_darkness				
+13	paraswAw	12	paraswAw	paraswAw{avya}	paraswAw{avya}	aXikaraNam,13.1	para	transcendental				
 13.1	(sWiwam)	13	(0)	(sWiwa{puM}{2;eka}/sWiwa{napuM}{1;eka}/sWiwa{napuM}{2;eka})	(sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{2;eka})	viSeRaNam,13.3	(sWiwa)					
-13.2	(paramam)	14	(0)	(paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka})	(parama{napuM}{2;eka})	viSeRaNam,13.3	(parama)	whe_Supreme				
-13.3	(puruRam)	15	(0)	(puruRa{puM}{2;eka})	(puruRa{puM}{2;eka})	karma,6	(puruRa_ko)	Personaliwy_oq_Goxheax				
-14	prayANa-kAle	20	prayANakAle	prayANakAla{puM}{7;eka}	prayANa-kAla{puM}{7;eka}	aXikaraNam,25	anwakAla_meM	aw_whe_wime_oq_xeawh	<prayANa-kAle>W6			
-15	manasA	29	manasAcalena	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	karaNam,15.1	mana_se	by_whe_minx				
+13.2	(paramam)	14	(0)	(paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka})	(parama{napuM}{2;eka})	viSeRaNam,13.3	(parama)	the_Supreme				
+13.3	(puruRam)	15	(0)	(puruRa{puM}{2;eka})	(puruRa{puM}{2;eka})	karma,6	(puruRa_ko)	Personality_of_Godhead				
+14	prayANa-kAle	20	prayANakAle	prayANakAla{puM}{7;eka}	prayANa-kAla{puM}{7;eka}	aXikaraNam,25	anwakAla_meM	at_the_time_of_death	<prayANa-kAle>T6			
+15	manasA	29	manasAcalena	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	karaNam,15.1	mana_se	by_the_mind				
 15.1	(smaran)	30	(0)	(smaraw{puM}{1;eka}/smaraw{puM}{8;eka})	(smq1{kqw_prawyayaH:Sawq;smq;BvAxiH;puM}{1;eka})	varwamAnasamAnakAlaH,31	(smaraNa_karawA_huA)	remembering				
-16	a-calena	28	0	acala{puM}{3;eka}	acala{napuM}{3;eka}	viSeRaNam,15	niScala	tiwhouw_being_xeviawex	<na-calena>Wn			
-17	BakwyA	18	BakwyA	Bakwi{swrI}{3;eka}	Bakwi{swrI}{3;eka}	hewuH,18	Bakwi_se	in_qull_xevowion				
-18	yukwaH	19	yukwo	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	karwA,31	yukwa	engagex				
-19	yoga-balena	21	yogabalena	yogabala{napuM}{3;eka}	yoga-bala{napuM}{3;eka}	karaNam,25	yogabala_se	by_whe_poter_oq_myswic_yoga	<yoga-balena>W6			
+16	a-calena	28	0	acala{puM}{3;eka}	acala{napuM}{3;eka}	viSeRaNam,15	niScala	without_being_deviated	<na-calena>Tn			
+17	BakwyA	18	BakwyA	Bakwi{swrI}{3;eka}	Bakwi{swrI}{3;eka}	hewuH,18	Bakwi_se	in_full_devotion				
+18	yukwaH	19	yukwo	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	karwA,31	yukwa	engaged				
+19	yoga-balena	21	yogabalena	yogabala{napuM}{3;eka}	yoga-bala{napuM}{3;eka}	karaNam,25	yogabala_se	by_the_power_of_mystic_yoga	<yoga-balena>T6			
 20	ca	27	cEva	ca{avya}	ca{avya}	sambanXaH,25	Pira	also				
-21	eva	35	0	eva{avya}	eva{avya}	sambanXaH,30	hI	cerwainly				
-22	BruvoH	22	BruvormaXye	BrU{swrI}{6;xvi}/BrU{swrI}{7;xvi}	BrU{swrI}{6;xvi}	RaRTIsambanXaH,23	BqkutI_ke	bewteen_whe_wto_eyebrots				
+21	eva	35	0	eva{avya}	eva{avya}	sambanXaH,30	hI	certainly				
+22	BruvoH	22	BruvormaXye	BrU{swrI}{6;xvi}/BrU{swrI}{7;xvi}	BrU{swrI}{6;xvi}	RaRTIsambanXaH,23	BqkutI_ke	between_the_two_eyebrows				
 23	maXye	23	0	maXya{puM}{7;eka}/maXya{napuM}{1;xvi}/maXya{napuM}{2;xvi}/maXya{napuM}{7;eka}/maXya{napuM}{8;xvi}/maXyA{swrI}{1;xvi}/maXyA{swrI}{2;xvi}/maXyA{swrI}{8;eka}/maXyA{swrI}{8;xvi}	maXya{puM}{7;eka}	aXikaraNam,25	maXya_meM	in				
-24	prANam	24	prANamAveSya	prANa{puM}{2;eka}	prANa{puM}{2;eka}	karma,25	prANa_ko	whe_liqe_air				
-25	AveSya	26	0	AveSya	Af_viS1{kqw_prawyayaH:lyap;Af_viSaz;wuxAxiH}	pUrvakAlaH,31	sWApiwa_karake	eswablishing				
-26	samyak	25	samyak	samyak{avya}	samyak{avya}	kriyAviSeRaNam,25	acCI_prakAra	complewely				
+24	prANam	24	prANamAveSya	prANa{puM}{2;eka}	prANa{puM}{2;eka}	karma,25	prANa_ko	the_life_air				
+25	AveSya	26	0	AveSya	Af_viS1{kqw_prawyayaH:lyap;Af_viSaz;wuxAxiH}	pUrvakAlaH,31	sWApiwa_karake	establishing				
+26	samyak	25	samyak	samyak{avya}	samyak{avya}	kriyAviSeRaNam,25	acCI_prakAra	completely				
 27	saH	17	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,18	vaha	he				
-28	wam	31	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	viSeRaNam,30	usa	whaw				
-29	param	33	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{puM}{2;eka}	viSeRaNam,30	parama	wranscenxenwal				
-30	puruRam	34	puruRamupEwi	puruRa{puM}{2;eka}	puruRa{puM}{2;eka}	karma,31	puruRa_paramAwmA_ko	Personaliwy_oq_Goxheax				
+28	wam	31	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	viSeRaNam,30	usa	that				
+29	param	33	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{puM}{2;eka}	viSeRaNam,30	parama	transcendental				
+30	puruRam	34	puruRamupEwi	puruRa{puM}{2;eka}	puruRa{puM}{2;eka}	karma,31	puruRa_paramAwmA_ko	Personality_of_Godhead				
 31	upEwi	36	0	upa_i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	upa_i1{karwari;lat;pra;eka;parasmEpaxI;upa_iN;axAxiH}		prApwa_howA_hE	achieves				
-32	xivyam	32	xivyam	xivya{puM}{2;eka}/xivya{napuM}{1;eka}/xivya{napuM}{2;eka}	xivya{puM}{2;eka}	viSeRaNam,30	xivyarUpa	in_whe_spiriwual_kingxom				
+32	xivyam	32	xivyam	xivya{puM}{2;eka}/xivya{napuM}{1;eka}/xivya{napuM}{2;eka}	xivya{puM}{2;eka}	viSeRaNam,30	xivyarUpa	in_the_spiritual_kingdom				

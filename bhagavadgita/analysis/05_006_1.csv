@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sannyAsaH(sannyAsaM)	4	sannyAsaswu	sannyAsa{puM}{1;eka}	sannyAsa{puM}{2;eka}	karma,5	saMnyAsa	whe_renouncex_orxer_oq_liqe				
-2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,1	paraMwu	buw				
-3	mahAn-bAho	2	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,6.1	he_arjuna	O_mighwy-armex_one	<mahA-bAho>Bs6			
-4	xuHKam	6	xuHKamApwumayogawaH	xuHKa{napuM}{1;eka}/xuHKa{napuM}{2;eka}	xuHKa{napuM}{1;eka}	karwA,6.1	kaTina	xiswress				
-5	Apwum	5	0	Ap1{kqw_prawyayaH:wumun;ApLz;svAxiH}	Ap1{kqw_prawyayaH:wumun;ApLz;svAxiH}	sahAyakakriyA,6.1	prApwa_honA	aqqlicws_one_tiwh				
-6	a-yogawaH	3	0	ayoga{wasil}	ayogawaH{wasil}	hewuH,5	karmayoga_ke_binA	tiwhouw_xevowional_service	<na-yogawaH>Wn			
+1	sannyAsaH(sannyAsaM)	4	sannyAsaswu	sannyAsa{puM}{1;eka}	sannyAsa{puM}{2;eka}	karma,5	saMnyAsa	the_renounced_order_of_life				
+2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,1	paraMwu	but				
+3	mahAn-bAho	2	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,6.1	he_arjuna	O_mighty-armed_one	<mahA-bAho>Bs6			
+4	xuHKam	6	xuHKamApwumayogawaH	xuHKa{napuM}{1;eka}/xuHKa{napuM}{2;eka}	xuHKa{napuM}{1;eka}	karwA,6.1	kaTina	distress				
+5	Apwum	5	0	Ap1{kqw_prawyayaH:wumun;ApLz;svAxiH}	Ap1{kqw_prawyayaH:wumun;ApLz;svAxiH}	sahAyakakriyA,6.1	prApwa_honA	afflicts_one_with				
+6	a-yogawaH	3	0	ayoga{wasil}	ayogawaH{wasil}	hewuH,5	karmayoga_ke_binA	without_devotional_service	<na-yogawaH>Tn			
 6.1	(aswi)	7	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hE)	is				
-7	yoga-yukwaH	9	yogayukwo	yoga-yukwa{puM}{1;eka}	yoga-yukwa{puM}{1;eka}	viSeRaNam,8	karmayogI	engagex_in_xevowional_service	<yoga-yukwaH>W3			
-8	muniH	8	munirbrahma	muni{puM}{1;eka}	muni{puM}{1;eka}	karwA,11	muni	a_whinker				
-9	brahma	10	0	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{2;eka}	karma,11	parabrahma_paramAwmA_ko	whe_Supreme				
-10	nacireNa	11	nacireNAXigacCawi	na-cireNa{avya}/cira{napuM}{3;eka}	na-cira{napuM}{3;eka}	kriyAviSeRaNam,11	SIGra_hI	tiwhouw_xelay				
-11	aXigacCawi	12	0	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}	aBihiwakarwA,8;sakarmakaH	prApwa_ho_jAwA_hE	awwains				
+7	yoga-yukwaH	9	yogayukwo	yoga-yukwa{puM}{1;eka}	yoga-yukwa{puM}{1;eka}	viSeRaNam,8	karmayogI	engaged_in_devotional_service	<yoga-yukwaH>T3			
+8	muniH	8	munirbrahma	muni{puM}{1;eka}	muni{puM}{1;eka}	karwA,11	muni	a_thinker				
+9	brahma	10	0	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{2;eka}	karma,11	parabrahma_paramAwmA_ko	the_Supreme				
+10	nacireNa	11	nacireNAXigacCawi	na-cireNa{avya}/cira{napuM}{3;eka}	na-cira{napuM}{3;eka}	kriyAviSeRaNam,11	SIGra_hI	without_delay				
+11	aXigacCawi	12	0	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}	aBihiwakarwA,8;sakarmakaH	prApwa_ho_jAwA_hE	attains				

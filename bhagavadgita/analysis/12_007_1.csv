@@ -1,23 +1,23 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ye	2	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,6;niwyasambanXaH,14	jo	one_tho				
-2	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,1	paraMwu	buw				
-3	sarvANi	4	sarvANi	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarvANI{swrI}{8;eka}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{2;bahu}	viSeRaNam,4	sampUrNa	everywhing				
-4	karmANi	5	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}	karman{napuM}{2;bahu}	karma,6	karmoM_ko	acwiviwies				
-5	mayi	6	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,6	muJameM	unwo_Me				
+1	ye	2	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,6;niwyasambanXaH,14	jo	one_who				
+2	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,1	paraMwu	but				
+3	sarvANi	4	sarvANi	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarvANI{swrI}{8;eka}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{2;bahu}	viSeRaNam,4	sampUrNa	everything				
+4	karmANi	5	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}	karman{napuM}{2;bahu}	karma,6	karmoM_ko	activities				
+5	mayi	6	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,6	muJameM	unto_Me				
 6	sannyasya	7	sannyasya	sam_ni_as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	sam_ni_as1{kqw_prawyayaH:lyap;sam_ni_asaz;BvAxiH}	pUrvakAlaH,13	arpaNa_karake	giving_up				
-7	maw-parAH	3	mawparAH	mawpara{puM}{1;bahu}/mawparA{swrI}{1;bahu}/mawparA{swrI}{2;bahu}	asmaw-para{puM}{1;bahu}	viSeRaNam,1 	mere_parAyaNa_rahanevAle_Bakwajana	being_awwachex_wo_Me	<asmaw-parAH>Bs6			
-8	an-anyena	10	ananyenEva	ananya{puM}{3;eka}/ananya{napuM}{3;eka}	ananya{puM}{3;eka}	viSeRaNam,10	ananya	tiwhouw_xivision	<na-anyena>Bsmn			
-9	eva	9	0	eva{avya}	eva{avya}	sambanXaH,11	hI	cerwainly				
-10	yogena	11	yogena	yoga{puM}{3;eka}	yoga{puM}{3;eka}	karaNam,12	Bakwiyoga_se	by_pracwice_oq_such_bhakwi-yoga				
-11	mAm	8	mAM	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	unwo_Me				
-12	XyAyanwaH	12	XyAyanwa	XyAyaw{puM}{1;bahu}/XyAyaw{puM}{1;bahu}	XyE1{kqw_prawyayaH:Sawq;XyE;BvAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,13	niranwara_cinwana_karawe_hue	mexiwawing				
-13	upAsawe	13	upAsawe	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;Asaz;axAxiH}	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;upa_Asaz;axAxiH}	aBihiwakarwA,1;sakarmakaH	Bajawe_hEM	torship				
-14	weRAm	15	weRAmahaM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	viSeRaNam,22	una	oq_whem				
+7	maw-parAH	3	mawparAH	mawpara{puM}{1;bahu}/mawparA{swrI}{1;bahu}/mawparA{swrI}{2;bahu}	asmaw-para{puM}{1;bahu}	viSeRaNam,1	mere_parAyaNa_rahanevAle_Bakwajana	being_attached_to_Me	<asmaw-parAH>Bs6			
+8	an-anyena	10	ananyenEva	ananya{puM}{3;eka}/ananya{napuM}{3;eka}	ananya{puM}{3;eka}	viSeRaNam,10	ananya	without_division	<na-anyena>Bsmn			
+9	eva	9	0	eva{avya}	eva{avya}	sambanXaH,11	hI	certainly				
+10	yogena	11	yogena	yoga{puM}{3;eka}	yoga{puM}{3;eka}	karaNam,12	Bakwiyoga_se	by_practice_of_such_bhakti-yoga				
+11	mAm	8	mAM	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	unto_Me				
+12	XyAyanwaH	12	XyAyanwa	XyAyaw{puM}{1;bahu}/XyAyaw{puM}{1;bahu}	XyE1{kqw_prawyayaH:Sawq;XyE;BvAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,13	niranwara_cinwana_karawe_hue	meditating				
+13	upAsawe	13	upAsawe	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;Asaz;axAxiH}	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;upa_Asaz;axAxiH}	aBihiwakarwA,1;sakarmakaH	Bajawe_hEM	worship				
+14	weRAm	15	weRAmahaM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	viSeRaNam,22	una	of_them				
 15	aham	18	0	asmax{1;eka}	asmax{1;eka}	karwA,18	mEM	I				
-16	samuxXarwA	21	samuxXarwA	samuxXarwq{puM}{1;eka}/sam_ux_Xq1{karwari;lut;pra;eka;uBayapaxI;XqF;BvAxiH}/sam_ux_Xq1{karmaNi;lut;pra;eka;AwmanepaxI;XqF;BvAxiH}	samuxXarwq{puM}{1;eka}	karwqsamAnAXikaraNam,18	uxXAra_karanevAlA	xeliverer				
-17	mqwyu-saMsAra-sAgarAw	20	mqwyusaMsArasAgarAw	mqwyusaMsArasAgarAw	mqwyu-saMsAra-sAgara{puM}{5;eka}	apAxAnam,16	mqwyurUpa_saMsArasamuxra_se	qrom_whe_ocean_oq_xeawh_anx_mawerial_eLiswence	<<mqwyu-saMsAra>Km-sAgarAw>K6			
+16	samuxXarwA	21	samuxXarwA	samuxXarwq{puM}{1;eka}/sam_ux_Xq1{karwari;lut;pra;eka;uBayapaxI;XqF;BvAxiH}/sam_ux_Xq1{karmaNi;lut;pra;eka;AwmanepaxI;XqF;BvAxiH}	samuxXarwq{puM}{1;eka}	karwqsamAnAXikaraNam,18	uxXAra_karanevAlA	deliverer				
+17	mqwyu-saMsAra-sAgarAw	20	mqwyusaMsArasAgarAw	mqwyusaMsArasAgarAw	mqwyu-saMsAra-sAgara{puM}{5;eka}	apAxAnam,16	mqwyurUpa_saMsArasamuxra_se	from_the_ocean_of_death_and_material_existence	<<mqwyu-saMsAra>Km-sAgarAw>K6			
 18	BavAmi	22	BavAmi	BU1{karwari;lat;u;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;u;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,15;akarmakaH	howA_hUz	become				
-19	nacirAw	19	nacirAwpArWa	nacira{napuM}{5;eka}	nacirAw{avya}	kriyAviSeRaNam,18	SIGra_hI	now_a_long_wime				
-20	pArWa	14	0	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,18	he_arjuna	O_son_oq_Prwha				
-21	mayi	16	mayyAveSiwacewasAm	asmax{7;eka}	asmax{7;eka}	aXikaraNam,22	muJameM	unwo_Me				
-22	AveSiwa-cewasAm	17	0	AveSiwacewasAm	AveSiwa-cewas{napuM}{6;bahu}	RaRTIsambanXaH,16	ciwwa_lagAnevAle_premI_BakwoM_kA	oq_whose_minxs_are_qiLex	<AveSiwa-cewasAm>Bs3			
+19	nacirAw	19	nacirAwpArWa	nacira{napuM}{5;eka}	nacirAw{avya}	kriyAviSeRaNam,18	SIGra_hI	not_a_long_time				
+20	pArWa	14	0	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,18	he_arjuna	O_son_of_Prtha				
+21	mayi	16	mayyAveSiwacewasAm	asmax{7;eka}	asmax{7;eka}	aXikaraNam,22	muJameM	unto_Me				
+22	AveSiwa-cewasAm	17	0	AveSiwacewasAm	AveSiwa-cewas{napuM}{6;bahu}	RaRTIsambanXaH,16	ciwwa_lagAnevAle_premI_BakwoM_kA	of_those_minds_are_fixed	<AveSiwa-cewasAm>Bs3			

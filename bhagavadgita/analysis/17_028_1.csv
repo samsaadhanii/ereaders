@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-SraxXayA	2	aSraxXayA	a-SraxXA{swrI}{3;eka}	na-SraxXA{swrI}{3;eka}	kriyAviSeRaNam,6	binA_SraxXA_ke_kiyA_huA	tiwhouw_qaiwh	<na-SraxXayA>Wn			
-2	huwam	3	huwaM	huwa{puM}{2;eka}/huwa{napuM}{1;eka}/huwa{napuM}{2;eka}	hu1{kqw_prawyayaH:kwa;hu;juhowyAxiH;napuM}{1;eka}	samucciwam,6	havana	oqqerex_in_sacriqice				
+1	a-SraxXayA	2	aSraxXayA	a-SraxXA{swrI}{3;eka}	na-SraxXA{swrI}{3;eka}	kriyAviSeRaNam,6	binA_SraxXA_ke_kiyA_huA	without_faith	<na-SraxXayA>Tn			
+2	huwam	3	huwaM	huwa{puM}{2;eka}/huwa{napuM}{1;eka}/huwa{napuM}{2;eka}	hu1{kqw_prawyayaH:kwa;hu;juhowyAxiH;napuM}{1;eka}	samucciwam,6	havana	offered_in_sacrifice				
 3	xawwam	4	xawwaM	xawwa{puM}{2;eka}/xawwa{napuM}{1;eka}/xawwa{napuM}{2;eka}/xA3{karwari;lot;ma;xvi;parasmEpaxI;duxAF;juhowyAxiH}	xA3{kqw_prawyayaH:kwa;duxAF;juhowyAxiH;napuM}{1;eka}	samucciwam,6	xiyA_huA_xAna	given				
 4	wapaH	6	wapaswapwaM	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	karma,5	wapa	penance				
-5	wapwam	5	0	wapwa{puM}{2;eka}/wapwa{napuM}{1;eka}/wapwa{napuM}{2;eka}	wap1{kqw_prawyayaH:kwa;wapaz;BvAxiH;napuM}{1;eka}	samucciwam,6	wapA_huA	eLecuwex				
-6	kqwam	10	kqwaM	kqw{puM}{2;eka}/kqwa{puM}{2;eka}/kqwa{napuM}{1;eka}/kqwa{napuM}{2;eka}	kq3{kqw_prawyayaH:kwa;dukqF;wanAxiH;napuM}{1;eka}	karma,11	kiyA_huA	perqormex				
+5	wapwam	5	0	wapwa{puM}{2;eka}/wapwa{napuM}{1;eka}/wapwa{napuM}{2;eka}	wap1{kqw_prawyayaH:kwa;wapaz;BvAxiH;napuM}{1;eka}	samucciwam,6	wapA_huA	executed				
+6	kqwam	10	kqwaM	kqw{puM}{2;eka}/kqwa{puM}{2;eka}/kqwa{napuM}{1;eka}/kqwa{napuM}{2;eka}	kq3{kqw_prawyayaH:kwa;dukqF;wanAxiH;napuM}{1;eka}	karma,11	kiyA_huA	performed				
 7	ca	7	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora	also				
-8	yaw	9	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karma,6;niwyasambanXaH,11.1	jo	whaw				
-9	a-saw	12	asaxiwyucyawe	a-saw{puM}{1;eka}/saw{swrI}{1;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}	asaw{napuM}{1;eka}	karmasamAnAXikaraNam,11	ZasawZ	QALSE	<na-saw>Wn			
-10	iwi	13	0	iwi{avya}	iwi{avya}	karmasamAnAXikaraNaxyowakaH,9	isa_prakAra	whus				
-11	ucyawe	14	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,11.1	kahA_jAwA_hE	is_saix_wo_be				
-11.1	(waw)	11	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{1;eka})	karma,11	(vaha_samaswa)	whaw				
-12	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,11	he_arjuna	O_son_oq_Prwha				
+8	yaw	9	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karma,6;niwyasambanXaH,11.1	jo	that				
+9	a-saw	12	asaxiwyucyawe	a-saw{puM}{1;eka}/saw{swrI}{1;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}	asaw{napuM}{1;eka}	karmasamAnAXikaraNam,11	'asaw'	FALSE	<na-saw>Tn			
+10	iwi	13	0	iwi{avya}	iwi{avya}	karmasamAnAXikaraNaxyowakaH,9	isa_prakAra	thus				
+11	ucyawe	14	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,11.1	kahA_jAwA_hE	is_said_to_be				
+11.1	(waw)	11	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{1;eka})	karma,11	(vaha_samaswa)	that				
+12	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,11	he_arjuna	O_son_of_Prtha				
 13	na	20	na	na{avya}	na{avya}	prawiReXaH,16	na	never				
 14	ca	19	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,18	Ora	also				
-15	waw	15	wawprewya	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,18.1	vaha	whaw				
-16	prewya	21	0	pra_i1{kqw_prawyayaH:lyap;pra_iN;axAxiH}	pra_i1{kqw_prawyayaH:lyap;pra_iN;axAxiH}	supsamucciwam,18	marane_ke_bAxa	aqwer_xeawh				
+15	waw	15	wawprewya	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,18.1	vaha	that				
+16	prewya	21	0	pra_i1{kqw_prawyayaH:lyap;pra_iN;axAxiH}	pra_i1{kqw_prawyayaH:lyap;pra_iN;axAxiH}	supsamucciwam,18	marane_ke_bAxa	after_death				
 17	*no	16	no	no{avya}	no{avya}	prawiReXaH,18.1	na	nor				
-18	iha	17	iha	iha{avya}	iha{avya}	aXikaraNam,18.1	yahAz	in_whis_liqe				
+18	iha	17	iha	iha{avya}	iha{avya}	aXikaraNam,18.1	yahAz	in_this_life				
 18.1	(aswi)	22	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,15;akarmakaH	(hE)	is				

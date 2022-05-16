@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SreyAn	5	SreyAnsvaXarmo	Sreya{puM}{2;bahu}/Sreyas{puM}{1;eka}	Sreyas{puM}{1;eka}	karwqsamAnAXikaraNam,5.1	SreRTa	bewwer				
-2	sva-XarmaH	4	0	svaXarma{puM}{1;eka}	svaXarma{puM}{1;eka}	karwA,5.1	apanA_Xarma	oneZs_otn_occupawion	<sva-XarmaH>W6			
-3	vi-guNaH	3	viguNaH	viguNa{puM}{1;eka}	viguNa{puM}{1;eka}	viSeRaNam,2	guNarahiwa	imperqecwly_perqormex	<vi-guNaH>Bs5			
-4	para-XarmAw	2	paraXarmAwsvanuRTiwAw	paraXarma{puM}{5;eka}	para-Xarma{puM}{5;eka}	wulanAbinxuH,2	xUsare_ke_Xarma_se	anowherZs_occupawion	<para-XarmAw>W6			
-5	sva-anuRTiwAw	1	0	svanuRTiwa{puM}{5;eka}/svanuRTiwa{napuM}{5;eka}	sva-anuRTiwa{puM}{5;eka}	viSeRaNam,4	acCI_prakAra_AcaraNa_kiye_hue	perqecwly_xone	<sva-anuRTiwAw>Wp			
+1	SreyAn	5	SreyAnsvaXarmo	Sreya{puM}{2;bahu}/Sreyas{puM}{1;eka}	Sreyas{puM}{1;eka}	karwqsamAnAXikaraNam,5.1	SreRTa	better				
+2	sva-XarmaH	4	0	svaXarma{puM}{1;eka}	svaXarma{puM}{1;eka}	karwA,5.1	apanA_Xarma	one's_own_occupation	<sva-XarmaH>T6			
+3	vi-guNaH	3	viguNaH	viguNa{puM}{1;eka}	viguNa{puM}{1;eka}	viSeRaNam,2	guNarahiwa	imperfectly_performed	<vi-guNaH>Bs5			
+4	para-XarmAw	2	paraXarmAwsvanuRTiwAw	paraXarma{puM}{5;eka}	para-Xarma{puM}{5;eka}	wulanAbinxuH,2	xUsare_ke_Xarma_se	another's_occupation	<para-XarmAw>T6			
+5	sva-anuRTiwAw	1	0	svanuRTiwa{puM}{5;eka}/svanuRTiwa{napuM}{5;eka}	sva-anuRTiwa{puM}{5;eka}	viSeRaNam,4	acCI_prakAra_AcaraNa_kiye_hue	perfectly_done	<sva-anuRTiwAw>Tp			
 5.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
-6	sva-BAva-niyawam	7	svaBAvaniyawaM	svaBAva-niyawa{puM}{2;eka}/niyawa{napuM}{1;eka}/niyawa{napuM}{2;eka}	svaBAva-niyawa{napuM}{2;eka}	viSeRaNam,7	svaBAva_se_niyawa_kiye_hue	prescribex_xuwies_accorxing_wo_oneZs_nawure	<<sva-BAva>W6-niyawam>W3			
-7	karma	8	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8	svaXarmarUpa_karma_ko	tork				
-8	kurvan	9	kurvannApnowi	kurvaw{puM}{1;eka}/kurvaw{puM}{1;eka}	kq3{kqw_prawyayaH:Sawq;dukqF;wanAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,10	karawA_huA	perqorming				
+6	sva-BAva-niyawam	7	svaBAvaniyawaM	svaBAva-niyawa{puM}{2;eka}/niyawa{napuM}{1;eka}/niyawa{napuM}{2;eka}	svaBAva-niyawa{napuM}{2;eka}	viSeRaNam,7	svaBAva_se_niyawa_kiye_hue	prescribed_duties_according_to_one's_nature	<<sva-BAva>T6-niyawam>T3			
+7	karma	8	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8	svaXarmarUpa_karma_ko	work				
+8	kurvan	9	kurvannApnowi	kurvaw{puM}{1;eka}/kurvaw{puM}{1;eka}	kq3{kqw_prawyayaH:Sawq;dukqF;wanAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,10	karawA_huA	performing				
 9	na	12	0	na{avya}	na{avya}	prawiReXaH,10	nahIM	never				
 10	Apnowi	13	0	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	aBihiwakarwA,11.1;sakarmakaH	prApwa_howA	achieve				
-11	kilbiRam	11	kilbiRam	kilbiRa{napuM}{1;eka}/kilbiRa{napuM}{2;eka}	kilbiRa{napuM}{2;eka}	karma,10	pApa_ko	sinqul_reacwions				
+11	kilbiRam	11	kilbiRam	kilbiRa{napuM}{1;eka}/kilbiRa{napuM}{2;eka}	kilbiRa{napuM}{2;eka}	karma,10	pApa_ko	sinful_reactions				
 11.1	(manuRyaH)	10	(0)	(manuRya{puM}{1;eka})	(manuRya{puM}{1;eka})	karwA,10	(manuRya)	man				

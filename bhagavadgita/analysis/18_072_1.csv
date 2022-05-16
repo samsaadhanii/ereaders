@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kacciw	2	kaccixewacCruwaM	kacciw{avya}	kacciw{avya}	sambanXaH,3	kyA	thewher				
-2	ewaw	3	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	karma,3	isa_gIwASAswra_ko	whis				
-3	Sruwam	7	0	Sruwa{puM}{2;eka}/Sruwa{napuM}{1;eka}/Sruwa{napuM}{2;eka}	Sru1{kqw_prawyayaH:kwa;Sru;BvAxiH;napuM}{1;eka}	aBihiwakarma,2;sakarmakaH	SravaNa_kiyA	hearx				
-4	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,3	he_pArWa	O_son_oq_Prwha				
+1	kacciw	2	kaccixewacCruwaM	kacciw{avya}	kacciw{avya}	sambanXaH,3	kyA	whether				
+2	ewaw	3	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	karma,3	isa_gIwASAswra_ko	this				
+3	Sruwam	7	0	Sruwa{puM}{2;eka}/Sruwa{napuM}{1;eka}/Sruwa{napuM}{2;eka}	Sru1{kqw_prawyayaH:kwa;Sru;BvAxiH;napuM}{1;eka}	aBihiwakarma,2;sakarmakaH	SravaNa_kiyA	heard				
+4	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,3	he_pArWa	O_son_of_Prtha				
 5	wvayA	4	wvayEkAgreNa	yuRmax{3;eka}	yuRmax{3;eka}	karwA,3	wUne	by_you				
-6	ekAgreNa	5	0	ekAgra{puM}{3;eka}/ekAgra{napuM}{3;eka}	ekAgra{puM}{3;eka}	viSeRaNam,7	ekAgra	tiwh_qull_awwenwion				
-7	cewasA	6	cewasA	cewas{napuM}{3;eka}	cewas{napuM}{3;eka}	kriyAviSeRaNam,3	ciwwa_se	by_whe_minx				
-8	kacciw	9	kaccixajFAnasammohaH	kacciw{avya}	kacciw{avya}	sambanXaH,10	kyA	thewher				
-9	a-jFAna-sammohaH	11	0	ajFAna-sammoha{puM}{1;eka}	ajFAna-sammoha{puM}{1;eka}	karwA,10	ajFAnajaniwa_moha	ignoranw_illusion	<<na-jFAna>Wn-sammohaH>W5			
-10	praNaRtaH	12	pranaRtaswe	pranaRta{puM}{1;eka}	pra_naS1{kqw_prawyayaH:kwa;pra_NaSaz;xivAxiH;puM}{1;eka}	aBihiwakarwA,9;akarmakaH	naRta_ho_gayA	xispellex				
-11	we	10	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,9	werA	oq_you				
-12	XanaFjaya	8	XanaFjaya	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,10	he_XanaMjaya	O_condueror_oq_tealwh_(Arjuna)				
+6	ekAgreNa	5	0	ekAgra{puM}{3;eka}/ekAgra{napuM}{3;eka}	ekAgra{puM}{3;eka}	viSeRaNam,7	ekAgra	with_full_attention				
+7	cewasA	6	cewasA	cewas{napuM}{3;eka}	cewas{napuM}{3;eka}	kriyAviSeRaNam,3	ciwwa_se	by_the_mind				
+8	kacciw	9	kaccixajFAnasammohaH	kacciw{avya}	kacciw{avya}	sambanXaH,10	kyA	whether				
+9	a-jFAna-sammohaH	11	0	ajFAna-sammoha{puM}{1;eka}	ajFAna-sammoha{puM}{1;eka}	karwA,10	ajFAnajaniwa_moha	ignorant_illusion	<<na-jFAna>Tn-sammohaH>T5			
+10	praNaRtaH	12	pranaRtaswe	pranaRta{puM}{1;eka}	pra_naS1{kqw_prawyayaH:kwa;pra_NaSaz;xivAxiH;puM}{1;eka}	aBihiwakarwA,9;akarmakaH	naRta_ho_gayA	dispelled				
+11	we	10	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,9	werA	of_you				
+12	XanaFjaya	8	XanaFjaya	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,10	he_XanaMjaya	O_conqueror_of_wealth_(Arjuna)				

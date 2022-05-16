@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	aho	1	aho	aho{avya}	aho{avya}	vismayaxyowakaH,5.1	hA	alas				
-2	bawa	2	bawa	bawa{avya}	bawa{avya}	vismayaxyowakaH,5.1	Soka	thaw_a_piwy				
-3	mahaw	5	mahawpApaM	mahaw{napuM}{1;eka}/mahaw{napuM}{2;eka}	mahaw{napuM}{2;eka}	viSeRaNam,4	mahAn	greaw				
+2	bawa	2	bawa	bawa{avya}	bawa{avya}	vismayaxyowakaH,5.1	Soka	what_a_pity				
+3	mahaw	5	mahawpApaM	mahaw{napuM}{1;eka}/mahaw{napuM}{2;eka}	mahaw{napuM}{2;eka}	viSeRaNam,4	mahAn	great				
 4	pApam	6	0	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{2;eka}	karma,5	pApa	sin				
-5	karwum	7	karwuM_vyavasiwA	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	sahAyakakriyA,5.1	karane_ko_wEyAra_ho_gaye_hEM	sew_our_minx_on_whe_commission_oq				
+5	karwum	7	karwuM_vyavasiwA	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	sahAyakakriyA,5.1	karane_ko_wEyAra_ho_gaye_hEM	set_our_mind_on_the_commission_of				
 5.1	vyavasiwAH	7.1		vi_ava_si1{kqw_prawyayaH:kwa;vi_ava_RiF;svAxiH;puM}{1;bahu}	vi_ava_si1{kqw_prawyayaH:kwa;vi_ava_RiF;svAxiH;puM}{1;bahu}	aBihiwakarwA,6						
-6	vayam	4	vayam	asmax{1;bahu}	asmax{1;bahu}	karwA,5.1	hama	te				
-7	yaw	3	yaxrAjyasuKaloBena	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	???	jo	whough				
-8	rAjya-suKa-loBena	8	0	rAjya-suKa-loBa{puM}{3;eka}/loBa{napuM}{3;eka}	rAjya-suKa-loBa{puM}{3;eka}	hewuH,9	rAjya_Ora_suKa_ke_loBa_se	xue_wo_lusw_qor_whrone_anx_enjoymenw	<<rAjya-suKa>W6-loBena>W7			
-9	hanwum	10	hanwuM	han1{kqw_prawyayaH:wumun;hanaz;axAxiH}	han1{kqw_prawyayaH:wumun;hanaz;axAxiH}	sahAyakakriyA,9.1	mArane_ke_liye_uxyawa_ho_gaye_hEM	are_inwenw_on_killing				
+6	vayam	4	vayam	asmax{1;bahu}	asmax{1;bahu}	karwA,5.1	hama	we				
+7	yaw	3	yaxrAjyasuKaloBena	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	sambanXaH,9.1	jo	though				
+8	rAjya-suKa-loBena	8	0	rAjya-suKa-loBa{puM}{3;eka}/loBa{napuM}{3;eka}	rAjya-suKa-loBa{puM}{3;eka}	hewuH,9	rAjya_Ora_suKa_ke_loBa_se	due_to_lust_for_throne_and_enjoyment	<<rAjya-suKa>T6-loBena>T7			
+9	hanwum	10	hanwuM	han1{kqw_prawyayaH:wumun;hanaz;axAxiH}	han1{kqw_prawyayaH:wumun;hanaz;axAxiH}	sahAyakakriyA,9.1	mArane_ke_liye_uxyawa_ho_gaye_hEM	are_intent_on_killing				
 9.1	uxyawAH	10.1		ux_yam2{kqw_prawyayaH:kwa;ux_yamaz;BvAxiH;puM}{1;bahu}	ux_yam2{kqw_prawyayaH:kwa;ux_yamaz;BvAxiH;puM}{1;bahu}							
-10	sva-janam	9	svajanamuxyawAH	sva-jana{puM}{2;eka}	sva-jana{puM}{2;eka}	sahAyakakriyA,9	svajanoM_ko	our_otn_kinsmen	<sva-janam>W6			
+10	sva-janam	9	svajanamuxyawAH	sva-jana{puM}{2;eka}	sva-jana{puM}{2;eka}	karma,9.1	svajanoM_ko	our_own_kinsmen	<sva-janam>T6			

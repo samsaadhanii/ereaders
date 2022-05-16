@@ -1,0 +1,25 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	xroNam	1	xroNaM	xroNa{puM}{2;eka}/xroNa{napuM}{1;eka}/xroNa{napuM}{2;eka}	xroNa{puM}{2;eka}	supsamucciwam,11	xroNAcArya	Drona				
+2	ca	2	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,1	Ora	also				
+3	BIRmam	3	BIRmaM	BIRma{puM}{2;eka}/BIRma{napuM}{1;eka}/BIRma{napuM}{2;eka}	BIRma{puM}{2;eka}	supsamucciwam,11	BIRmapiwAmaha	Bhisma				
+4	ca	4	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,3	waWA	also				
+5	jayaxraWam	5	jayaxraWaM	jayaxraWa{puM}{2;eka}	jayaxraWa{puM}{2;eka}	supsamucciwam,11	jayaxraWa	Jayadratha				
+6	ca	6	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,5	Ora	also				
+7	karNam	7	karNaM	karNa{puM}{2;eka}	karNa{puM}{2;eka}	supsamucciwam,11	karNa	Karna				
+8	waWA	8	waWAnyAnapi	waWA{avya}	waWA{avya}	sambanXaH,13	waWA	also				
+9	anyAn	9	0	anya{puM}{2;bahu}	anya{puM}{2;bahu}	viSeRaNam,11	anya	others				
+10	api	10	0	api{avya}	api{avya}	sambanXaH,9	BI	certainly				
+11	yoXa-vIrAn	13	yoXavIrAn	yoXavIra{puM}{2;bahu}	yoXa-vIra{puM}{2;bahu}	karma,15	SUravIra_yoxXAoM_ko	great_warriors	<yoXa-vIrAn>T6			
+12	mayA	11	mayA	asmax{3;eka}	asmax{3;eka}	karwA,13	mere_xvArA	by_Me				
+13	hawAn	12	hawAMswvaM	hawa{puM}{2;bahu}	han1{kqw_prawyayaH:kwa;hanaz;axAxiH;puM}{2;bahu}	viSeRaNam,11	mAre_hue	already_killed				
+14	wvam	14	0	yuRmax{1;eka}	yuRmax{1;eka}	karwA,15	wU	you				
+15	jahi	15	jahi	han1{karwari;lot;ma;eka;parasmEpaxI;hanaz;axAxiH}	han1{karwari;lot;ma;eka;parasmEpaxI;hanaz;axAxiH}	aBihiwa_karwA,14;sakarmakaH	mAra	become_victorious				
+16	mA	16	mA	mA{avya}/mA{swrI}{1;eka}/asmax{2;eka}	mA{avya}	prawiReXaH,17	mawa	never				
+17	vyaWiRTAH	17	vyaWiRTA	vyaWiRTa{puM}{1;bahu}	vyaW1{karwari;luf;ma;eka;AwmanepaxI;vyaWaz;BvAxiH}	aBihiwa_karwA,17.1;akarmakaH	Baya_kara	be_disturbed				
+17.1	(wvam)		(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,17	wuma	you				
+18	yuxXyasva	22	yuxXyasva	yuxXyasva	yuX1{karwari;lot;ma;eka;AwmanepaxI;yuXaz;xivAxiH}	aBihiwa_karwA,18.1;akarmakaH	yuxXa_karo	just_fight				
+18.1	(wvam)	21	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,18	wuma	you				
+19	jewAsi	20	jewAsi	ji1{karwari;lut;ma;eka;parasmEpaxI;ji;BvAxiH}	ji1{karwari;lut;ma;eka;parasmEpaxI;ji;BvAxiH}	aBihiwa_karwA,21.1	jIwegA	just_conquer				
+20	raNe	18	raNe	raNa{puM}{7;eka}/raNa{napuM}{1;xvi}/raNa{napuM}{2;xvi}/raNa{napuM}{7;eka}/raNa{napuM}{8;xvi}	raNa{napuM}{7;eka}	xeSAXikaraNam,19	yuxXa_meM	in_the_fight				
+21	sapawnAn	19	sapawnAn	sapawna{puM}{2;bahu}	sapawna{puM}{2;bahu}	karma,19	vEriyoM_ko	enemies				
+21.1	(wvam)	21	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,19	wuma	you				

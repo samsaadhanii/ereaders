@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,4;niwyasambanXaH,11	jaba	then				
-2	BUwa-pqWagBAvam	3	BUwapqWagBAvamekasWamanupaSyawi	BUwa-pqWak-{avya}-BAva{puM}{2;eka}	BUwa-pqWak-BAva{puM}{2;eka}	karma,4	BUwoM_ke_pqWak_pqWak_BAva_ko	seperawex_ixenwiwies_oq_living_ixenwiwies	<BUwa-pqWakBAvam>W6			
-3	eka-sWam	4	0	eka-sWa{puM}{2;eka}/sWa{napuM}{1;eka}/sWa{napuM}{2;eka}	eka-sWa{puM}{2;eka}	samucciwam,7	eka_paramAwmA_meM_hI_sWiwa	siwuawex_in_one	<eka-sWam>U			
-4	anupaSyawi	9	0	anu_xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	anu_xqS1{karwari;lat;pra;eka;parasmEpaxI;anu_xqSizr;BvAxiH}	aBihiwakarwA,4.1;sakarmakaH	xeKawA_hE	wries_wo_see_whrough_auwhoriwy				
+1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,4;niwyasambanXaH,11	jaba	when				
+2	BUwa-pqWagBAvam	3	BUwapqWagBAvamekasWamanupaSyawi	BUwa-pqWak-{avya}-BAva{puM}{2;eka}	BUwa-pqWak-BAva{puM}{2;eka}	karma,4	BUwoM_ke_pqWak_pqWak_BAva_ko	seperated_identities_of_living_identities	<BUwa-pqWakBAvam>T6			
+3	eka-sWam	4	0	eka-sWa{puM}{2;eka}/sWa{napuM}{1;eka}/sWa{napuM}{2;eka}	eka-sWa{puM}{2;eka}	samucciwam,7	eka_paramAwmA_meM_hI_sWiwa	situated_in_one	<eka-sWam>U			
+4	anupaSyawi	9	0	anu_xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	anu_xqS1{karwari;lat;pra;eka;parasmEpaxI;anu_xqSizr;BvAxiH}	aBihiwakarwA,4.1;sakarmakaH	xeKawA_hE	tries_to_see_through_authority				
 4.1	(saH)	2	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,4	(vaha)	he				
-5	wawaH	6	wawa	wawaH{avya}	wawaH{avya}	apAxAnam,8	usa_paramAwmA_se	whereaqwer				
-6	eva	7	eva	eva{avya}	eva{avya}	sambanXaH,5	hI	cerwainly				
+5	wawaH	6	wawa	wawaH{avya}	wawaH{avya}	apAxAnam,8	usa_paramAwmA_se	thereafter				
+6	eva	7	eva	eva{avya}	eva{avya}	sambanXaH,5	hI	certainly				
 7	ca	5	ca	ca{avya}	ca{avya}	karmasamAnAXikaraNam,4	waWA	also				
-8	viswAram	8	viswAraM	viswAra{puM}{2;eka}	viswAra{puM}{2;eka}	samucciwam,7	sampUrNa_BUwoM_kA_viswAra	eLpanxex				
-9	brahma	12	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karma,10	saccixAnanxaGana_brahma_ko	whe_Absoluwe				
-10	sampaxyawe	13	sampaxyawe	sam_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/sam_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	sam_pax1{karwari;lat;pra;eka;AwmanepaxI;sam_paxaz;xivAxiH}	aBihiwakarwA,11.1;sakarmakaH	prApwa_ho_jAwA_hE	awwains				
-11	waxA	10	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,10	usI_kRaNa	aw_whaw_wime				
+8	viswAram	8	viswAraM	viswAra{puM}{2;eka}	viswAra{puM}{2;eka}	samucciwam,7	sampUrNa_BUwoM_kA_viswAra	expanded				
+9	brahma	12	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karma,10	saccixAnanxaGana_brahma_ko	the_Absolute				
+10	sampaxyawe	13	sampaxyawe	sam_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/sam_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	sam_pax1{karwari;lat;pra;eka;AwmanepaxI;sam_paxaz;xivAxiH}	aBihiwakarwA,11.1;sakarmakaH	prApwa_ho_jAwA_hE	attains				
+11	waxA	10	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,10	usI_kRaNa	at_that_time				
 11.1	(saH)	11	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,10	(vaha)	he				

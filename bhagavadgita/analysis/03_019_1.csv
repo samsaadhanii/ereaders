@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wasmAw	1	wasmAxasakwaH	wax{sarvanAma;puM;5;eka}/wax{sarvanAma;napuM;5;eka}	wax{sarvanAma;napuM;5;eka}	hewuH,2	isaliye	whereqore				
-2	a-sakwaH	2	0	a-sakwa{puM;1;eka(a-Rac2;kwa;Racaz;:BvAxiH)}	a-sakwa{puM;1;eka(a-Rac2;kwa;Racaz;:BvAxiH)}	viSeRaNam,2.1	Asakwi_se_rahiwa_hokara	tiwhouw_awwachmenw	<na-sakwaH>Wn			
+1	wasmAw	1	wasmAxasakwaH	wax{sarvanAma;puM;5;eka}/wax{sarvanAma;napuM;5;eka}	wax{sarvanAma;napuM;5;eka}	hewuH,2	isaliye	therefore				
+2	a-sakwaH	2	0	a-sakwa{puM;1;eka(a-Rac2;kwa;Racaz;:BvAxiH)}	a-sakwa{puM;1;eka(a-Rac2;kwa;Racaz;:BvAxiH)}	viSeRaNam,2.1	Asakwi_se_rahiwa_hokara	without_attachment	<na-sakwaH>Tn			
 2.1	(wvam)	3	(0)	yuRmax{sarvanAma;1;eka}	yuRmax{sarvanAma;1;eka}	karwA,6	(wuma)	you				
-3	sawawam	4	sawawaM	kArya{puM;2;eka}/kArya{napuM;1;eka}/kArya{napuM;2;eka}	kArya{napuM;2;eka}	kriyAviSeRaNam,6	niranwara	conswanwly				
-4	kAryam	5	kAryaM	karman{napuM;1;eka}/karman{napuM;2;eka}	karman{napuM;2;eka}	viSeRaNam,5	karwavya	as_xuwy				
-5	karma	6	karma	sawawam{avya}/sawawa{puM;2;eka}/sawawa{napuM;1;eka}/sawawa{napuM;2;eka}	sawawam{avya}	karma,6	karma_ko	tork				
-6	samAcara	7	samAcara	sam_Af_car1{karwari;lot;ma;eka;parasmEpaxI;sam_Af_cara1;:BvAxiH}	sam_Af_car1{karwari;lot;ma;eka;parasmEpaxI;sam_Af_cara1;:BvAxiH}	aBihiwa_karwA,2.1;sakarmakaH	BalIBAzwi_karawA_raha	perqorm				
-7	a-sakwaH	9	asakwo	a-sakwa{puM;1;eka(a-Rac2;kwa;Racaz;:BvAxiH)}	a-sakwa{puM;1;eka(a-Rac2;kwa;Racaz;:BvAxiH)}	viSeRaNam,9	Asakwi_se_rahiwa_hokara	nonawwachex	<na-sakwaH>Wn			
-8	hi	8	hyAcarankarma	hi{avya}	hi{avya}	sambanXaH,12	kyoMki	cerwainly				
-9	Acaran	11	0	Af_car1{karwari;laf;pra;bahu;parasmEpaxI;caraz;:BvAxiH}/Acaraw{puM;1;eka(car1;Sawq_lat;caraz;:BvAxiH)}	Acaraw{puM;1;eka(car1;Sawq_lat;caraz;:BvAxiH)}	varwamAnasamAnakAlaH,12	karawA_huA	perqorming				
-10	karma	10	0	karman{napuM;1;eka}/karman{napuM;2;eka}	karman{napuM;2;eka}	karma,9	karma	tork				
-11	param	13	paramApnowi	param{avya}/para{puM;2;eka}/para{napuM;1;eka}/para{napuM;2;eka}/para{sarvanAma;puM;2;eka}/para{sarvanAma;napuM;1;eka}/para{sarvanAma;napuM;2;eka}	para{sarvanAma;napuM;2;eka}	karma,12	paramAwmA_ko	whe_Supreme				
+3	sawawam	4	sawawaM	kArya{puM;2;eka}/kArya{napuM;1;eka}/kArya{napuM;2;eka}	kArya{napuM;2;eka}	kriyAviSeRaNam,6	niranwara	constantly				
+4	kAryam	5	kAryaM	karman{napuM;1;eka}/karman{napuM;2;eka}	karman{napuM;2;eka}	viSeRaNam,5	karwavya	as_duty				
+5	karma	6	karma	sawawam{avya}/sawawa{puM;2;eka}/sawawa{napuM;1;eka}/sawawa{napuM;2;eka}	sawawam{avya}	karma,6	karma_ko	work				
+6	samAcara	7	samAcara	sam_Af_car1{karwari;lot;ma;eka;parasmEpaxI;sam_Af_cara1;:BvAxiH}	sam_Af_car1{karwari;lot;ma;eka;parasmEpaxI;sam_Af_cara1;:BvAxiH}	aBihiwa_karwA,2.1;sakarmakaH	BalIBAzwi_karawA_raha	perform				
+7	a-sakwaH	9	asakwo	a-sakwa{puM;1;eka(a-Rac2;kwa;Racaz;:BvAxiH)}	a-sakwa{puM;1;eka(a-Rac2;kwa;Racaz;:BvAxiH)}	viSeRaNam,9	Asakwi_se_rahiwa_hokara	nonattached	<na-sakwaH>Tn			
+8	hi	8	hyAcarankarma	hi{avya}	hi{avya}	sambanXaH,12	kyoMki	certainly				
+9	Acaran	11	0	Af_car1{karwari;laf;pra;bahu;parasmEpaxI;caraz;:BvAxiH}/Acaraw{puM;1;eka(car1;Sawq_lat;caraz;:BvAxiH)}	Acaraw{puM;1;eka(car1;Sawq_lat;caraz;:BvAxiH)}	varwamAnasamAnakAlaH,12	karawA_huA	performing				
+10	karma	10	0	karman{napuM;1;eka}/karman{napuM;2;eka}	karman{napuM;2;eka}	karma,9	karma	work				
+11	param	13	paramApnowi	param{avya}/para{puM;2;eka}/para{napuM;1;eka}/para{napuM;2;eka}/para{sarvanAma;puM;2;eka}/para{sarvanAma;napuM;1;eka}/para{sarvanAma;napuM;2;eka}	para{sarvanAma;napuM;2;eka}	karma,12	paramAwmA_ko	the_Supreme				
 12	Apnowi	14	0	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;:svAxiH}	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;:svAxiH}	aBihiwa_karwA,13;sakarmakaH	prApwa_ho_jAwA_hE	achieves				
 13	pUruRaH	12	pUruRaH	pUruRa{puM}{1;eka}	pUruRa{puM;1;eka}	karwA,12	manuRya	a_man				

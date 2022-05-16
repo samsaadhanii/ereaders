@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wawra	2	wawra	wawra{avya}	wawra{avya}	aXikaraNam,7	unameM_(wInoM_guNoM_meM)	whereaqwer				
-2	sawwvam	3	sawwvaM	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	karwA,7	sawwvaguNa	moxe_oq_gooxness				
-3	nir-malawvAw	4	nirmalawvAwprakASakamanAmayam	nirmalawva{napuM}{5;eka}	nir-malawva{napuM}{5;eka}	hewuH,7	nirmala_hone_ke_kAraNa	being_puresw_in_whe_mawerial_torlx	<nir-malawvAw>Bvp			
-4	prakASakam	5	0	prakASaka{puM}{2;eka}/prakASaka{napuM}{1;eka}/prakASaka{napuM}{2;eka}	prakASaka{napuM}{1;eka}	supsamucciwam,5	prakASa_karanevAlA	illuminawing				
-5	an-Amayam	6	0	anAmaya{puM}{2;eka}/anAmaya{napuM}{1;eka}/anAmaya{napuM}{2;eka}	anAmaya{napuM}{1;eka}	karwqsamAnAXikaraNam,5.2	vikArarahiwa	tiwhouw_any_sinqul_reacwion	<na-Amayam>Bsmn			
+1	wawra	2	wawra	wawra{avya}	wawra{avya}	aXikaraNam,7	unameM_(wInoM_guNoM_meM)	thereafter				
+2	sawwvam	3	sawwvaM	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	karwA,7	sawwvaguNa	mode_of_goodness				
+3	nir-malawvAw	4	nirmalawvAwprakASakamanAmayam	nirmalawva{napuM}{5;eka}	nir-malawva{napuM}{5;eka}	hewuH,7	nirmala_hone_ke_kAraNa	being_purest_in_the_material_world	<nir-malawvAw>Bvp			
+4	prakASakam	5	0	prakASaka{puM}{2;eka}/prakASaka{napuM}{1;eka}/prakASaka{napuM}{2;eka}	prakASaka{napuM}{1;eka}	supsamucciwam,5	prakASa_karanevAlA	illuminating				
+5	an-Amayam	6	0	anAmaya{puM}{2;eka}/anAmaya{napuM}{1;eka}/anAmaya{napuM}{2;eka}	anAmaya{napuM}{1;eka}	karwqsamAnAXikaraNam,5.2	vikArarahiwa	without_any_sinful_reaction	<na-Amayam>Bsmn			
 5.1	(ca)	7	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,5	(Ora)	also				
 5.2	(aswi)	8	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;sakarmakaH	(hE)	is				
-6	suKa-safgena	10	suKasafgena	suKa-safga{puM}{3;eka}	suKa-safga{puM}{3;eka}	karaNam,7	suKa_ke_sambanXa_se	tiwh_associawion_oq_happiness	<suKa-safgena>W3			
-7	baXnAwi	13	baXnAwi	banX1{karwari;lat;pra;eka;parasmEpaxI;banXaz;kryAxiH}	banX1{karwari;lat;pra;eka;parasmEpaxI;banXaz;kryAxiH}	aBihiwakarwA,10.1;sakarmakaH	bAzXawA_hE	conxiwions				
-8	jFAna-safgena	12	jFAnasafgena	jFAna-safga{puM}{3;eka}	jFAna-safga{puM}{3;eka}	sup_samucciwam,6	jFAna_ke_sambanXa_se	tiwh_associawion_oq_knotlexge	<jFAna-safgena>W7			
+6	suKa-safgena	10	suKasafgena	suKa-safga{puM}{3;eka}	suKa-safga{puM}{3;eka}	karaNam,7	suKa_ke_sambanXa_se	with_association_of_happiness	<suKa-safgena>T3			
+7	baXnAwi	13	baXnAwi	banX1{karwari;lat;pra;eka;parasmEpaxI;banXaz;kryAxiH}	banX1{karwari;lat;pra;eka;parasmEpaxI;banXaz;kryAxiH}	aBihiwakarwA,10.1;sakarmakaH	bAzXawA_hE	conditions				
+8	jFAna-safgena	12	jFAnasafgena	jFAna-safga{puM}{3;eka}	jFAna-safga{puM}{3;eka}	sup_samucciwam,6	jFAna_ke_sambanXa_se	with_association_of_knowledge	<jFAna-safgena>T7			
 9	ca	11	cAnaGa	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora	also				
 10	an-aGa	1	0	anaGa{puM}{8;eka}/anaGa{napuM}{8;eka}	anaGa{puM}{8;eka}	samboXyaH,7	he_niRpApa	O_sinless_one	<na-aGa>Bsmn			
-10.1	(sawwvam)	9	(0)	(sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka})	(sawwva{napuM}{1;eka})	karwA,7	(sawwva)	moxe_oq_gooxness				
+10.1	(sawwvam)	9	(0)	(sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka})	(sawwva{napuM}{1;eka})	karwA,7	(sawwva)	mode_of_goodness				

@@ -1,14 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	jFAna-yajFena	3	jFAnayajFena	jFAna-yajFa{puM}{3;eka}	jFAna-yajFa{puM}{3;eka}	karaNam,4	jFAnayajFa_ke_xvArA	by_culwivawion_oq_knotlexge	<jFAna-yajFena>K6			
-2	ca	7	cApyanye	ca{avya}	api{avya}_ca{avya}	sambanXaH,6	Ora_BI	cerwainly_also				
-2.1	api			api{avya}	api{avya}	sambanXaH,2						
-3	anye	1	0	anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anya{napuM}{7;eka}/anya{napuM}{8;xvi}/anya{puM}{1;bahu}/anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/anyA{swrI}{8;eka}/anyA{swrI}{8;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/an1{BAve;lat;u;eka;AwmanepaxI;anaz;axAxiH}	anya{puM}{1;bahu}	karwA,6	xUsare_jFAnayogI	owhers				
-4	yajanwaH	5	yajanwo	yajaw{puM}{1;bahu}/yajaw{puM}{8;bahu}	yaj1{kqw_prawyayaH:Sawq;yajaz;BvAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,6	pUjana_karawe_hue	torshiping				
+1	jFAna-yajFena	3	jFAnayajFena	jFAna-yajFa{puM}{3;eka}	jFAna-yajFa{puM}{3;eka}	karaNam,4	jFAnayajFa_ke_xvArA	by_cultivation_of_knowledge	<jFAna-yajFena>K6			
+2	ca	4	cApyanye	ca{avya}	api{avya}_ca{avya}	sambanXaH,6	Ora_BI	certainly_also				
+2.1	api	5		api{avya}	api{avya}	sambanXaH,2						
+3	anye	1	0	anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anya{napuM}{7;eka}/anya{napuM}{8;xvi}/anya{puM}{1;bahu}/anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/anyA{swrI}{8;eka}/anyA{swrI}{8;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/an1{BAve;lat;u;eka;AwmanepaxI;anaz;axAxiH}	anya{puM}{1;bahu}	karwA,6	xUsare_jFAnayogI	others				
+4	yajanwaH	6	yajanwo	yajaw{puM}{1;bahu}/yajaw{puM}{8;bahu}	yaj1{kqw_prawyayaH:Sawq;yajaz;BvAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,6	pUjana_karawe_hue	worshiping				
 5	mAm	2	mAmupAsawe	asmax{2;eka}	asmax{2;eka}	karma,4	muJako	me				
-6	upAsawe	12	0	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;Asaz;axAxiH}	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;upa_Asaz;axAxiH}	aBihiwakarwA,3;sakarmakaH	upAsanA_karawe_hEM	torship				
-7	ekawvena	4	ekawvena	ekawva{napuM}{3;eka}/ekawva{napuM}{3;eka}	ekawva{napuM}{3;eka}	kriyAviSeRaNam,4	aBinna-BAva_se	in_oneness				
-8	pqWakwvena	11	pqWakwvena	pqWakwva{napuM}{3;eka}	pqWakwva{napuM}{3;eka}	kriyAviSeRaNam,4	pqWak-BAva_se	in_xualiwy				
-9	bahuXA	9	bahuXA	bahuXA{avya}	bahuXA{avya}	kriyAviSeRaNam,6	bahuwa_prakAra_se_sWiwa	xiversiwy				
-10	viSvawaH-muKam	10	viSvawomuKam	viSvawar-muKa{puM}{2;eka}/muKa{napuM}{1;eka}/muKa{napuM}{2;eka}	viSvawaH-muKa{puM}{2;eka}	kriyAviSeRaNam,6	muJa_virAtsvarUpa_parameSvara_kI	in_whe_universal_qorm	<viSvawaH-muKam>Bs6			
-10.1	(anye)	8	(0)	(anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anya{napuM}{7;eka}/anya{napuM}{8;xvi}/anya{puM}{1;bahu}/anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/anyA{swrI}{8;eka}/anyA{swrI}{8;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/an1{BAve;lat;u;eka;AwmanepaxI;anaz;axAxiH})	(anya{puM}{1;bahu})	karwA,10.2	(xUsare_manuRya)	owhers				
-10.2	(upAsawe)	6	(0)	(upa_As1{karwari;lat;pra;bahu;AwmanepaxI;Asaz;axAxiH})	(upa_As1{karwari;lat;pra;bahu;AwmanepaxI;upa_Asaz;axAxiH})	aBihiwakarwA,10.1;sakarmakaH	(upAsanA_karawe_hEM)	torship				
+6	upAsawe	11	0	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;Asaz;axAxiH}	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;upa_Asaz;axAxiH}	aBihiwakarwA,3;sakarmakaH	upAsanA_karawe_hEM	worship				
+7	ekawvena	7	ekawvena	ekawva{napuM}{3;eka}/ekawva{napuM}{3;eka}	ekawva{napuM}{3;eka}	kriyAviSeRaNam,4	aBinna-BAva_se	in_oneness				
+8	pqWakwvena	8	pqWakwvena	pqWakwva{napuM}{3;eka}	pqWakwva{napuM}{3;eka}	kriyAviSeRaNam,4	pqWak-BAva_se	in_duality				
+9	bahuXA	9	bahuXA	bahuXA{avya}	bahuXA{avya}	kriyAviSeRaNam,6	bahuwa_prakAra_se_sWiwa	diversity				
+10	viSvawaH-muKam	10	viSvawomuKam	viSvawar-muKa{puM}{2;eka}/muKa{napuM}{1;eka}/muKa{napuM}{2;eka}	viSvawaH-muKa{puM}{2;eka}	kriyAviSeRaNam,6	muJa_virAtsvarUpa_parameSvara_kI	in_the_universal_form	<viSvawaH-muKam>Bs6			

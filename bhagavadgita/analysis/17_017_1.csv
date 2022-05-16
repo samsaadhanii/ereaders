@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SraxXayA	5	SraxXayA	SraxXA{swrI}{3;eka}	SraxXA{swrI}{3;eka}	kriyAviSeRaNam,3	SraxXA_se	tiwh_qaiwh				
-2	parayA	4	parayA	parA{swrI}{3;eka}/parA{swrI}{3;eka}	parA{swrI}{3;eka}	viSeRaNam,1	parama	wranscenxenwal				
-3	wapwam	6	wapwaM	wapwa{puM}{2;eka}/wapwa{napuM}{1;eka}/wapwa{napuM}{2;eka}	wap1{kqw_prawyayaH:kwa;wapaz;BvAxiH;napuM}{1;eka}	viSeRaNam,4	kiye_hue	eLecuwion				
-4	wapaH	9	wapaswawwriviXaM	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{2;eka}	karma,11	wapa_ko	ausweriwy				
-5	waw	7	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,4	usa	whaw				
-6	wri-viXam	8	0	wri-viXa{puM}{2;eka}/viXa{napuM}{1;eka}/viXa{napuM}{2;eka}	wri-viXa{napuM}{2;eka}	viSeRaNam,4	wIna_prakAra_ke	whree_kinxs	<wri-viXaM>Bs6			
+1	SraxXayA	5	SraxXayA	SraxXA{swrI}{3;eka}	SraxXA{swrI}{3;eka}	kriyAviSeRaNam,3	SraxXA_se	with_faith				
+2	parayA	4	parayA	parA{swrI}{3;eka}/parA{swrI}{3;eka}	parA{swrI}{3;eka}	viSeRaNam,1	parama	transcendental				
+3	wapwam	6	wapwaM	wapwa{puM}{2;eka}/wapwa{napuM}{1;eka}/wapwa{napuM}{2;eka}	wap1{kqw_prawyayaH:kwa;wapaz;BvAxiH;napuM}{1;eka}	viSeRaNam,4	kiye_hue	execution				
+4	wapaH	9	wapaswawwriviXaM	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{2;eka}	karma,11	wapa_ko	austerity				
+5	waw	7	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,4	usa	that				
+6	wri-viXam	8	0	wri-viXa{puM}{2;eka}/viXa{napuM}{1;eka}/viXa{napuM}{2;eka}	wri-viXa{napuM}{2;eka}	viSeRaNam,4	wIna_prakAra_ke	three_kinds	<wri-viXaM>Bs6			
 7	narEH	3	narEH	nara{puM}{3;bahu}	nara{puM}{3;bahu}	karwA,3	puruRoM_xvArA	by_men				
-8	a-Pala-AkAfkRiBiH	1	aPalAkAfkRiBiryukwEH	a-Pala-AkAfkRin{puM}{3;bahu}/AkAfkRin{napuM}{3;bahu}	na-Pala-AkAfkRin{puM}{3;bahu}	viSeRaNam,7	Pala_ko_na_cAhanevAle	tiwhouw_xesires_qor_qruiws	<a-<Pala-AkAfkRiBiH>U>Wn			
-9	yukwEH	2	0	yukwa{puM}{3;bahu}/yukwa{napuM}{3;bahu}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{3;bahu}	viSeRaNam,7	yogI	engagex				
-10	sAwwvikam	10	sAwwvikaM	sAwwvika{puM}{2;eka}	sAwwvika{napuM}{2;eka}	karmasamAnAXikaraNam,11	sAwwvika	in_whe_moxe_oq_gooxness				
-11	paricakRawe	11	paricakRawe	paricakRawe	pari_cakR1{karwari;lat;pra;bahu;AwmanepaxI;pari_cakRizf;axAxiH}		kahawe_hEM	is_callex				
+8	a-Pala-AkAfkRiBiH	1	aPalAkAfkRiBiryukwEH	a-Pala-AkAfkRin{puM}{3;bahu}/AkAfkRin{napuM}{3;bahu}	na-Pala-AkAfkRin{puM}{3;bahu}	viSeRaNam,7	Pala_ko_na_cAhanevAle	without_desires_for_fruits	<a-<Pala-AkAfkRiBiH>U>Tn			
+9	yukwEH	2	0	yukwa{puM}{3;bahu}/yukwa{napuM}{3;bahu}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{3;bahu}	viSeRaNam,7	yogI	engaged				
+10	sAwwvikam	10	sAwwvikaM	sAwwvika{puM}{2;eka}	sAwwvika{napuM}{2;eka}	karmasamAnAXikaraNam,11	sAwwvika	in_the_mode_of_goodness				
+11	paricakRawe	11	paricakRawe	paricakRawe	pari_cakR1{karwari;lat;pra;bahu;AwmanepaxI;pari_cakRizf;axAxiH}		kahawe_hEM	is_called				

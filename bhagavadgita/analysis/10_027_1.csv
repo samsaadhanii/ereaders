@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	uccEHSravasam	5	uccEHSravasamaSvAnAM	uccEHSravasa{puM}{2;eka}	uccEHSravasa{puM}{2;eka}	supsamucciwam,10	uccEHSravA_nAmaka_Goda़A	Uccaihsrava				
 2	aSvAnAm	3	0	aSva{puM}{6;bahu}	aSva{puM}{6;bahu}	nirXAraNam,1	Goda़oM_meM	among_horses				
-3	vixXi	2	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,10.1;akarmakaH	jAna	knot				
+3	vixXi	2	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,10.1;akarmakaH	jAna	know				
 4	mAm	3	mAmamqwoxBavam	asmax{2;eka}	asmax{2;eka}	karma,3	muJako	me				
-5	amqwa-uxBavam	4	0	a-mqwa-uxBava{puM}{2;eka}	amqwa-uxBava{puM}{2;eka}	viSeRaNam,1	amqwa_ke_sAWa_uwpanna_honevAlA	proxucex_qrom_whe_churning_oq_whe_ocean	<amqwa-uxBavam>W5			
-6	ErAvawam	7	ErAvawaM	ErAvawa{puM}{2;eka}	ErAvawa{puM}{2;eka}	supsamucciwam,10	ErAvawa_nAmaka_hAWI	Airavawa				
-7	gaja-inxrANAm	6	gajenxrANAM	gaja-inxra{puM}{6;bahu}	gajenxra{puM}{6;bahu}	nirXAraNam,6	SreRTa_hAWiyoM_meM	oq_elephanws	<gaja-inxrANAM>W7			
+5	amqwa-uxBavam	4	0	a-mqwa-uxBava{puM}{2;eka}	amqwa-uxBava{puM}{2;eka}	viSeRaNam,1	amqwa_ke_sAWa_uwpanna_honevAlA	produced_from_the_churning_of_the_ocean	<amqwa-uxBavam>T5			
+6	ErAvawam	7	ErAvawaM	ErAvawa{puM}{2;eka}	ErAvawa{puM}{2;eka}	supsamucciwam,10	ErAvawa_nAmaka_hAWI	Airavata				
+7	gaja-inxrANAm	6	gajenxrANAM	gaja-inxra{puM}{6;bahu}	gajenxra{puM}{6;bahu}	nirXAraNam,6	SreRTa_hAWiyoM_meM	of_elephants	<gaja-inxrANAM>T7			
 8	narANAm	9	narANAM	nara{puM}{6;bahu}	nara{puM}{6;bahu}	nirXAraNam,10	manuRyoM_meM	among_human_beings				
-9	ca	8	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora	anx				
-10	nara-aXipam	10	narAXipam	nara-aXipa{puM}{2;eka}	narAXipa{puM}{2;eka}	karmasamAnAXikaraNam,3	rAjA	whe_king	<nara-aXipam>W7			
-10.1	(wvaM)	1	(0)	yuRmax	yuRmax	karwA,3	(wuma)	you				
+9	ca	8	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora	and				
+10	nara-aXipam	10	narAXipam	nara-aXipa{puM}{2;eka}	narAXipa{puM}{2;eka}	karmasamAnAXikaraNam,3	rAjA	the_king	<nara-aXipam>T7			
+10.1	(wvaM)	1	(0)	yuRmax{1;eka}	yuRmax{1;eka}	karwA,3	(wuma)	you				

@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	eRA	2	eRA	ewax{swrI}{1;eka}	ewax{swrI}{1;eka}	karwA,4.1	yaha	such				
-2	brAhmI	3	brAhmI	brAhmI{swrI}{1;eka}	brAhmI{swrI}{1;eka}	viSeRaNam,3	brahma_ko_prApwa_puruRa_kI	oq_whe_Gox-realiRex_soul				
-3	sWiwiH	4	sWiwiH	sWiwi{swrI}{1;eka}	sWiwi{swrI}{1;eka}	karwqsamAnAXikaraNam,4.1	sWiwi	swawe				
-4	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,4.1	he_arjuna	O_son_oq_Prwha				
+2	brAhmI	3	brAhmI	brAhmI{swrI}{1;eka}	brAhmI{swrI}{1;eka}	viSeRaNam,3	brahma_ko_prApwa_puruRa_kI	of_the_God-realized_soul				
+3	sWiwiH	4	sWiwiH	sWiwi{swrI}{1;eka}	sWiwi{swrI}{1;eka}	karwqsamAnAXikaraNam,4.1	sWiwi	state				
+4	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,4.1	he_arjuna	O_son_of_Prtha				
 4.1	(aswi)	5	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,1;akarmakaH	(hE)	is				
-5	na	9	nEnAM	na{avya}	na{avya}	prawiReXaH,8	nahIM	now				
-6	enAm	7	0	ixam{swrI}{2;eka}	ixam{swrI}{2;eka}	karma,7	isako (isa sWiwiko )	whis_(swawe)				
-7	prApya	8	prApya	prApya{puM}{8;eka}/prApya{napuM}{8;eka}/pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,8	prApwa_hokara	having_reachex				
-8	vimuhyawi	10	vimuhyawi	vi_muh1{karwari;lat;pra;eka;parasmEpaxI;muhaz;xivAxiH}	vi_muh1{karwari;lat;pra;eka;parasmEpaxI;vi_muhaz;xivAxiH}	aBihiwa_karwA,8;akarmakaH	mohiwa_howe	xeluxex				
+5	na	9	nEnAM	na{avya}	na{avya}	prawiReXaH,8	nahIM	not				
+6	enAm	7	0	ixam{swrI}{2;eka}	ixam{swrI}{2;eka}	karma,7	isako (isa sWiwiko )	this_(state)				
+7	prApya	8	prApya	prApya{puM}{8;eka}/prApya{napuM}{8;eka}/pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,8	prApwa_hokara	having_reached				
+8	vimuhyawi	10	vimuhyawi	vi_muh1{karwari;lat;pra;eka;parasmEpaxI;muhaz;xivAxiH}	vi_muh1{karwari;lat;pra;eka;parasmEpaxI;vi_muhaz;xivAxiH}	aBihiwa_karwA,8;akarmakaH	mohiwa_howe	deluded				
 8.1	(saH)	6	(0)	(wax {puM}{1;eka})	(wax{puM}{1;eka})	karwA,8	(vaha)	he				
-9	sWiwvA	15	sWiwvAsyAmanwakAleZpi	sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH}	sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH}	pUrvakAlaH,14	sWiwa_hokara	eswablishex				
-10	asyAm	14	0	asi{swrI}{7;eka}/ixam{swrI}{7;eka}	ixam{swrI}{7;eka}	aXikaraNam,14	isameM	in_whis				
-11	anwa-kAle	12	0	anwakAla{puM}{7;eka}	anwa-kAla{puM}{7;eka}	aXikaraNam,14	anwakAla_meM	aw_whe_lasw_momenw	<anwa-kAle>W6			
+9	sWiwvA	15	sWiwvAsyAmanwakAleZpi	sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH}	sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH}	pUrvakAlaH,14	sWiwa_hokara	established				
+10	asyAm	14	0	asi{swrI}{7;eka}/ixam{swrI}{7;eka}	ixam{swrI}{7;eka}	aXikaraNam,14	isameM	in_this				
+11	anwa-kAle	12	0	anwakAla{puM}{7;eka}	anwa-kAla{puM}{7;eka}	aXikaraNam,14	anwakAla_meM	at_the_last_moment	<anwa-kAle>T6			
 12	api	13	0	api{avya}	api{avya}	sambanXaH,11	BI	even				
-13	brahma-nirvANam	16	brahmanirvANamqcCawi	brahman-nirvANam	brahman-nirvANa{napuM}{2;eka}	karma,14	brahmAnanxa_ko	Brahmic_Bliss	<brahma-nirvANam>W7			
-14	qcCawi	17	0	qcCaw{puM}{7;eka}/qcCaw{napuM}{7;eka}/q1{karwari;lat;pra;eka;parasmEpaxI;q;BvAxiH}/qC1{karwari;lat;pra;eka;parasmEpaxI;qCaz;wuxAxiH}	q1{karwari;lat;pra;eka;parasmEpaxI;q;BvAxiH}	aBihiwa_karwA,14.1;sakarmakaH	prApwa_ho_jAwA_hE	awwains				
+13	brahma-nirvANam	16	brahmanirvANamqcCawi	brahman-nirvANam	brahman-nirvANa{napuM}{2;eka}	karma,14	brahmAnanxa_ko	Brahmic_Bliss	<brahma-nirvANam>T7			
+14	qcCawi	17	0	qcCaw{puM}{7;eka}/qcCaw{napuM}{7;eka}/q1{karwari;lat;pra;eka;parasmEpaxI;q;BvAxiH}/qC1{karwari;lat;pra;eka;parasmEpaxI;qCaz;wuxAxiH}	q1{karwari;lat;pra;eka;parasmEpaxI;q;BvAxiH}	aBihiwa_karwA,14.1;sakarmakaH	prApwa_ho_jAwA_hE	attains				
 14.1	(saH)	11	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,14	(vaha)	he				

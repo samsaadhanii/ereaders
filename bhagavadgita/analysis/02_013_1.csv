@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xehinaH	2	xehinoZsminyaWA	xehin{puM}{1;bahu}/xehin{puM}{2;bahu}/xehin{puM}{5;eka}/xehin{puM}{6;eka}/xehin{puM}{8;bahu}/xehin{napuM}{5;eka}/xehin{napuM}{6;eka}	xehin{puM}{6;eka}	RaRTIsambanXaH,4	jIvAwmA_kI	wo_whe_soul				
-2	asmin	3	0	ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{napuM}{7;eka}	viSeRaNam,4	isa	in_whis				
-3	yaWA	1	0	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,7.2;niwyasambanXaH,8	jEse	jusw_as				
-4	xehe	4	xehe	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xeha{napuM}{8;xvi}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{puM}{7;eka}	aXikaraNam,7.2	xeha_meM	in_whis_boxy				
-5	kOmAram	5	kOmAraM	kOmAra{puM}{2;eka}	kOmAra{napuM}{2;eka}	sup_ samucciwam,7	bacapana	chilxhoox				
-6	yOvanam	6	yOvanaM	yOvana{napuM}{1;eka}/yOvana{napuM}{2;eka}	yOvana{napuM}{2;eka}	sup_ samucciwam,7	yuvAvasWA	youwh				
-7	jarA	8	jarA	jarA{swrI}{1;eka}	jarA{swrI}{1;eka}	karwA,7.2	vqxXAvasWA	olx_age				
-7.1	(ca)	7	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,7	(Ora)	anx				
+1	xehinaH	2	xehinoZsminyaWA	xehin{puM}{1;bahu}/xehin{puM}{2;bahu}/xehin{puM}{5;eka}/xehin{puM}{6;eka}/xehin{puM}{8;bahu}/xehin{napuM}{5;eka}/xehin{napuM}{6;eka}	xehin{puM}{6;eka}	RaRTIsambanXaH,4	jIvAwmA_kI	to_the_soul				
+2	asmin	3	0	ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{napuM}{7;eka}	viSeRaNam,4	isa	in_this				
+3	yaWA	1	0	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,7.2;niwyasambanXaH,8	jEse	just_as				
+4	xehe	4	xehe	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xeha{napuM}{8;xvi}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{puM}{7;eka}	aXikaraNam,7.2	xeha_meM	in_this_body				
+5	kOmAram	5	kOmAraM	kOmAra{puM}{2;eka}	kOmAra{napuM}{2;eka}	sup_ samucciwam,7	bacapana	childhood				
+6	yOvanam	6	yOvanaM	yOvana{napuM}{1;eka}/yOvana{napuM}{2;eka}	yOvana{napuM}{2;eka}	sup_ samucciwam,7	yuvAvasWA	youth				
+7	jarA	8	jarA	jarA{swrI}{1;eka}	jarA{swrI}{1;eka}	karwA,7.2	vqxXAvasWA	old_age				
+7.1	(ca)	7	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,7	(Ora)	and				
 7.2	(Bavawi)	12	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,7	(howI_hE)	becomes				
 8	waWA	10	waWA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,9.1	vEse_hI	even_so				
-9	xeha-anwara-prApwiH	11	xehAnwaraprApwirXIraswawra	xehAnwara-prApwi{swrI}{1;eka}	xehAnwara-prApwi{swrI}{1;eka}	karwA,9.1	anya_SarIra_kI_prApwi	awwains_anowher_boxy	<<xeha-anwara>W6-prApwiH>W6			
-9.1	(Bavawi)	9	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,9	(howI_hE)	is				
-10	XIraH	14	0	XIra{puM}{1;eka}	XIra{puM}{1;eka}	karwA,13	XIra_puruRa	whe_tise_man				
-11	wawra	13	0	wawra{avya}	wawra{avya}	aXikaraNam,13	usameM_(viRaya_meM)	whereupon				
-12	na	15	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	xoes_now				
-13	muhyawi	16	muhyawi	muhyaw{puM}{7;eka}/muhyaw{napuM}{7;eka}/muh1{karwari;lat;pra;eka;parasmEpaxI;muh;xivAxiH}	muh1{karwari;lat;pra;eka;parasmEpaxI;muhaz;xivAxiH}	aBihiwakarwA,10	mohiwa_howA_hE	gew_xeluxex				
+9	xeha-anwara-prApwiH	11	xehAnwaraprApwirXIraswawra	xehAnwara-prApwi{swrI}{1;eka}	xehAnwara-prApwi{swrI}{1;eka}	karwA,9.1	anya_SarIra_kI_prApwi	attains_another_body	<<xeha-anwara>T6-prApwiH>T6			
+9.1	(Bavawi)	9	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,9;akarmakaH	(howI_hE)	is				
+10	XIraH	14	0	XIra{puM}{1;eka}	XIra{puM}{1;eka}	karwA,13	XIra_puruRa	the_wise_man				
+11	wawra	13	0	wawra{avya}	wawra{avya}	aXikaraNam,13	usameM_(viRaya_meM)	thereupon				
+12	na	15	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	does_not				
+13	muhyawi	16	muhyawi	muhyaw{puM}{7;eka}/muhyaw{napuM}{7;eka}/muh1{karwari;lat;pra;eka;parasmEpaxI;muh;xivAxiH}	muh1{karwari;lat;pra;eka;parasmEpaxI;muhaz;xivAxiH}	aBihiwakarwA,10;akarmakaH	mohiwa_howA_hE	get_deluded				

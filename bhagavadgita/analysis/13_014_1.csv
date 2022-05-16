@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sarva-inxriya-guNa-ABAsam	2	sarvenxriyaguNABAsaM	sarva-inxriya-guNa-ABAsa{puM}{2;eka}	sarva-inxriya-guNa-ABAsa{napuM}{1;eka}	supsamu्cciwam,8	sampUrNa_inxriyoM_ke_viRayoM_ko_jAnanevAlA	original_source_of_qualities_of_all_senses	<<<sarva-inxriya>K1-guNa>T6-ABAsaM>T6			
+2	sarva-inxriya-vivarjiwam	3	sarvenxriyavivarjiwam	sarva-inxriya-vivarjiwa{puM}{2;eka}/vivarjiwa{napuM}{1;eka}/vivarjiwa{napuM}{2;eka}	sarva-inxriya-vi_vqj3{kqw_prawyayaH:kwa;vi_vqjIz;curAxiH;napuM}{1;eka}	supsamu्cciwam,8	saba_inxriyoM_se_rahiwa	being_without_all_senses	<<sarva-inxriya>K1-vivarjiwam>T3			
+3	a-sakwam	4	asakwaM	a-sakwa{puM}{2;eka}/sakwa{napuM}{1;eka}/sakwa{napuM}{2;eka}	asakwa{napuM}{1;eka}	supsamu्cciwam,8	Asakwirahiwa	without_attachment	<na-sakwaM>Tn			
+4	sarva-Bqw	5	sarvaBqccEva	sarva-Bqw{napuM}/Bqw{puM}/Bqw{napuM}/Bqw{puM}	sarva-Bqw{puM}{1;eka}	supsamu्cciwam,8	sabakA_XAraNa-poRaNa_karanevAlA	maintainer_of_everyone	<sarva-Bqw>U			
+5	ca	6	0	ca{avya}	ca{avya}	samuccayaxyowakaH,4	waWA	also				
+6	eva	7	0	eva{avya}	eva{avya}	sambanXaH,5	BI	certainly				
+7	nir-guNam	8	nirguNaM	nir-{avya}-guNa{puM}{2;eka}	nir-guNa{puM}{1;eka}	supsamu्cciwam,8	nirguNa_honepara	without_material_qualities	<nir-guNaM>Bvp			
+8	guNa-Bokwq	9	guNaBokwq	guNa-Bokwq{puM}/Bokwq{puM}	guNa-Bokwq{puM}{1;eka}	karwqsamAnAXikaraNam,9.2	guNoM_ko_BoganevAlA	simultaneously_master_of_the_gunas	<guNa-Bokwq>T6			
+9	ca	10	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,8	Ora	also				
+9.1	(waw)	1	()	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,9.2	vaha	that				
+9.2	(aswi)	11	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,9.1;akarmakaH	(hE)	is				

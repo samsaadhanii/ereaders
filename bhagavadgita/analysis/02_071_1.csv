@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	vihAya	5	vihAya	vi_hA1{kqw_prawyayaH:lyap;ozhAf;juhowyAxiH}/vi_hA2{kqw_prawyayaH:lyap;ozhAk;juhowyAxiH}	vi_hA2{kqw_prawyayaH:lyap;vi_ozhAf;juhowyAxiH}	pUrvakAlaH,6	wyAgakara	has_given_up				
-2	kAmAn	4	kAmAnyaH	kAma{puM}{2;bahu}	kAma{puM}{2;bahu}	karma,1	kAmanAoM_ko	xesires				
-3	yaH	1	0	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,5;niwyasambanXaH,10	jo	he_tho				
+2	kAmAn	4	kAmAnyaH	kAma{puM}{2;bahu}	kAma{puM}{2;bahu}	karma,1	kAmanAoM_ko	desires				
+3	yaH	1	0	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,5;niwyasambanXaH,10	jo	he_who				
 4	sarvAn	3	sarvAnpumAMScarawi	sarva{puM}{2;bahu}	sarva{puM}{2;bahu}	viSeRaNam,2	sampUrNa	all				
 5	pumAn	2	0	pumaw{puM}{1;eka}	pumaw{puM}{1;eka}	karwA,6	puruRa	person				
 6	carawi	11	0	caraw{puM}{7;eka}/caraw{napuM}{7;eka}/car1{karwari;lat;pra;eka;parasmEpaxI;caraz;BvAxiH}	car1{karwari;lat;pra;eka;parasmEpaxI;caraz;BvAxiH}	aBihiwa_karwA,5;akarmakaH	vicarawA_hE	moves				
-7	nis-spqhaH	6	niHspqhaH	niHspqha{puM}{1;eka}	niHspqha{puM}{1;eka}	sup_samucciwam,9	spqhArahiwa_huA	qree_qrom_whirsw_qor_enjoymenw	<nis-spqhaH>Bvp			
-8	nir-mamaH	7	nirmamo	nirmama{puM}{1;eka}	nirmama{puM}{1;eka}	sup_samucciwam,9	mamawArahiwa	qree_qrom_awwachmenw	<nir-mamaH>Bvp			
-9	nir-ahafkAraH	9	nirahafkAraH	nirahafkAra{puM}{1;eka}	nir-ahafkAra{puM}{1;eka}	karwqsamAnAXikaraNam,9.2	ahaMkArarahiwa	qree_qrom_egoism	<nir-ahafkAraH>Bvp			
-9.1	(ca)	8	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,9	(Ora)	anx				
+7	nis-spqhaH	6	niHspqhaH	niHspqha{puM}{1;eka}	niHspqha{puM}{1;eka}	sup_samucciwam,9	spqhArahiwa_huA	free_from_thirst_for_enjoyment	<nis-spqhaH>Bvp			
+8	nir-mamaH	7	nirmamo	nirmama{puM}{1;eka}	nirmama{puM}{1;eka}	sup_samucciwam,9	mamawArahiwa	free_from_attachment	<nir-mamaH>Bvp			
+9	nir-ahafkAraH	9	nirahafkAraH	nirahafkAra{puM}{1;eka}	nir-ahafkAra{puM}{1;eka}	karwqsamAnAXikaraNam,9.2	ahaMkArarahiwa	free_from_egoism	<nir-ahafkAraH>Bvp			
+9.1	(ca)	8	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,9	(Ora)	and				
 9.2	(san)	10	()	as1{kqw_prawyayaH:Sawq;smq;axAxiH;puM}{1;eka}	as1{kqw_prawyayaH:Sawq;smq;axAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,6	(howe_hue)	being_so				
 10	saH	12	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,12	vahI	he				
 11	SAnwim	13	SAnwimaXigacCawi	SAnwi{swrI}{2;eka}	SAnwi{swrI}{2;eka}	karma,12	SAnwi_ko	peace				
-12	aXigacCawi	14	0	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}	aBihiwa_karwA,10;sakarmakaH	prApwa_howA_hE	awwains				
+12	aXigacCawi	14	0	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}	aBihiwa_karwA,10;sakarmakaH	prApwa_howA_hE	attains				

@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	gawa-safgasya	1	gawasafgasya	gawa-safga{puM}{6;eka}	gawa-safga{puM}{6;eka}	viSeRaNam,3	jisakI_Asakwi_sarvaWA_naRta_ho_gayI_hE	unawwachex_wo_whe_moxes_oq_mawerial_nawure	<gawa-safgasya>Bs5			
-2	mukwasya	2	mukwasya	mukwa{puM}{6;eka}/mukwa{napuM}{6;eka}	muc1{kqw_prawyayaH:kwa;mucLz;wuxAxiH;napuM}{6;eka}	viSeRaNam,3	jo_xehABimAna_Ora_mamawA_se_rahiwa_ho_gayA_hE	oq_whe_liberawex				
-3	jFAna-avasWiwa-cewasaH	3	jFAnAvasWiwacewasaH	jFAna-avasWiwa-cewas{napuM}{5;eka}/cewas{napuM}{6;eka}	jFAna-avasWiwa-cewas{napuM}{6;eka}	karwA,5	jisakA_ciwwa_niranwara_paramAwmA_ke_jFAna_meM_sWiwa_rahawA_hE	oq_such_tisxom_siwuawex_in_wranscenxence	<<jFAna-avasWiwa>W7-cewasaH>Bs6			
-4	yajFAya	4	yajFAyAcarawaH	yajFa{puM}{4;eka}	yajFa{puM}{4;eka}	prayojanam,5	yajFasampAxana_ke_liye_(karma)	qor_whe_sake_oq_Fajna				
-5	AcarawaH	5		Af_car1{karwari;lat;pra;xvi;parasmEpaxI;caraz;BvAxiH}	Af_car1{karwari;lat;pra;xvi;parasmEpaxI;Af_caraz;BvAxiH}	samAnakAlaH,8	karanevAle_manuRya_ke	so_acwive				
-6	karma	7	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8	karma	tork				
-7	samagram	6	samagraM	samagra{puM}{2;eka}/samagra{napuM}{1;eka}/samagra{napuM}{2;eka}	samagra{napuM}{2;eka}	viSeRaNam,6	sampUrNa	in_wowal				
-8	pravilIyawe	8	pravilIyawe	vi_lI1{karwari;lat;pra;eka;AwmanepaxI;lIf;xivAxiH}/vi_lI1{karmaNi;lat;pra;eka;AwmanepaxI;lIf;xivAxiH}	pra_vi_lI1{karwari;lat;pra;eka;AwmanepaxI;pra_vi_lIf;xivAxiH}		BalIBAzwi_vilIna_ho_jAwe_hEM	merges_enwirely				
+1	gawa-safgasya	1	gawasafgasya	gawa-safga{puM}{6;eka}	gawa-safga{puM}{6;eka}	viSeRaNam,3	jisakI_Asakwi_sarvaWA_naRta_ho_gayI_hE	unattached_to_the_modes_of_material_nature	<gawa-safgasya>Bs5			
+2	mukwasya	2	mukwasya	mukwa{puM}{6;eka}/mukwa{napuM}{6;eka}	muc1{kqw_prawyayaH:kwa;mucLz;wuxAxiH;napuM}{6;eka}	viSeRaNam,3	jo_xehABimAna_Ora_mamawA_se_rahiwa_ho_gayA_hE	of_the_liberated				
+3	jFAna-avasWiwa-cewasaH	3	jFAnAvasWiwacewasaH	jFAna-avasWiwa-cewas{napuM}{5;eka}/cewas{napuM}{6;eka}	jFAna-avasWiwa-cewas{napuM}{6;eka}	karwA,5	jisakA_ciwwa_niranwara_paramAwmA_ke_jFAna_meM_sWiwa_rahawA_hE	of_such_wisdom_situated_in_transcendence	<<jFAna-avasWiwa>T7-cewasaH>Bs6			
+4	yajFAya	4	yajFAyAcarawaH	yajFa{puM}{4;eka}	yajFa{puM}{4;eka}	prayojanam,5	yajFasampAxana_ke_liye_(karma)	for_the_sake_of_Yajna				
+5	AcarawaH	5		Af_car1{karwari;lat;pra;xvi;parasmEpaxI;caraz;BvAxiH}	Af_car1{karwari;lat;pra;xvi;parasmEpaxI;Af_caraz;BvAxiH}	samAnakAlaH,8	karanevAle_manuRya_ke	so_active				
+6	karma	7	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8	karma	work				
+7	samagram	6	samagraM	samagra{puM}{2;eka}/samagra{napuM}{1;eka}/samagra{napuM}{2;eka}	samagra{napuM}{2;eka}	viSeRaNam,6	sampUrNa	in_total				
+8	pravilIyawe	8	pravilIyawe	vi_lI1{karwari;lat;pra;eka;AwmanepaxI;lIf;xivAxiH}/vi_lI1{karmaNi;lat;pra;eka;AwmanepaxI;lIf;xivAxiH}	pra_vi_lI1{karwari;lat;pra;eka;AwmanepaxI;pra_vi_lIf;xivAxiH}		BalIBAzwi_vilIna_ho_jAwe_hEM	merges_entirely				

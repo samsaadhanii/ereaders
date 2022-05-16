@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	vyAsa-prasAxAw	1	vyAsaprasAxAcCruwavAnewaxguhyamahaM	vyAsa-prasAxa{puM}{5;eka}	vyAsa-prasAxa{puM}{5;eka}	hewuH,2	SrIvyAsajI_kI_kqpA_se	by_whe_mercy_oq_Vyasaxeva	<vyAsa-prasAxAw>W6			
-2	SruwavAn	12	0	Sruwavaw{puM}{1;eka}	Sru1{kqw_prawyayaH:kwavawu;Sru;BvAxiH;puM}{1;eka}	aBihiwakarwA,5;sakarmakaH	sunA_hE	hearx				
-3	ewaw	3	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,7	isa	whis				
-4	guhyam	5	0	guhya{puM}{2;eka}/guhya{napuM}{1;eka}/guhya{napuM}{2;eka}	guhya{napuM}{2;eka}	viSeRaNam,7	gopanIya	conqixenwial				
+1	vyAsa-prasAxAw	1	vyAsaprasAxAcCruwavAnewaxguhyamahaM	vyAsa-prasAxa{puM}{5;eka}	vyAsa-prasAxa{puM}{5;eka}	hewuH,2	SrIvyAsajI_kI_kqpA_se	by_the_mercy_of_Vyasadeva	<vyAsa-prasAxAw>T6			
+2	SruwavAn	12	0	Sruwavaw{puM}{1;eka}	Sru1{kqw_prawyayaH:kwavawu;Sru;BvAxiH;puM}{1;eka}	aBihiwakarwA,5;sakarmakaH	sunA_hE	heard				
+3	ewaw	3	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,7	isa	this				
+4	guhyam	5	0	guhya{puM}{2;eka}/guhya{napuM}{1;eka}/guhya{napuM}{2;eka}	guhya{napuM}{2;eka}	viSeRaNam,7	gopanIya	confidential				
 5	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,2	mEMne	I				
-6	param	4	param	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	viSeRaNam,7	parama	whe_supreme				
-7	yogam	6	yogaM	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,11	yoga_ko	myswicism				
-8	yoga-ISvarAw	9	yogeSvarAwkqRNAwsAkRAwkaWayawaH	yogeSvara{puM}{5;eka}	yogeSvara{puM}{5;eka}	viSeRaNam,9	yogeSvara	qrom_whe_maswer_oq_all_myswicism	<yoga-ISvarAw>W6			
-9	kqRNAw	10	0	kqRNa{puM}{5;eka}/kqRNa{napuM}{5;eka}	kqRNa{puM}{5;eka}	apAxAnam,11	BagavAn_SrIkqRNa_se	qrom_Krsna				
-10	sAkRAw	11	0	sAkRAw{avya}	sAkRAw{avya}	kriyAviSeRaNam,2	prawyakRa	xirecwly				
+6	param	4	param	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	viSeRaNam,7	parama	the_supreme				
+7	yogam	6	yogaM	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,11	yoga_ko	mysticism				
+8	yoga-ISvarAw	9	yogeSvarAwkqRNAwsAkRAwkaWayawaH	yogeSvara{puM}{5;eka}	yogeSvara{puM}{5;eka}	viSeRaNam,9	yogeSvara	from_the_master_of_all_mysticism	<yoga-ISvarAw>T6			
+9	kqRNAw	10	0	kqRNa{puM}{5;eka}/kqRNa{napuM}{5;eka}	kqRNa{puM}{5;eka}	apAxAnam,2	BagavAn_SrIkqRNa_se	from_Krsna				
+10	sAkRAw	11	0	sAkRAw{avya}	sAkRAw{avya}	kriyAviSeRaNam,2	prawyakRa	directly				
 11	kaWayawaH	7	0	kaWayaw{puM}{2;bahu}/kaWayaw{puM}{5;eka}/kaWayaw{puM}{6;eka}/kaWayaw{napuM}{5;eka}/kaWayaw{napuM}{6;eka}/kaWa1{karwari;lat;pra;xvi;parasmEpaxI;kaWa;curAxiH}/kaWa1_Nic{karwari;lat;pra;xvi;parasmEpaxI;kaWa;curAxiH}	kaWa1{kqw_prawyayaH:Sawq;kaWa;curAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,2	kahawe_hue	speaking				
 12	svayam	8	svayam	svayam{avya}	svayam{avya}	viSeRaNam,9	svayaM	personally				

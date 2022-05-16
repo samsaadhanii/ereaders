@@ -1,24 +1,24 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sarvasya	2	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,4	saba_prANiyoM_ke	oq_all_living_beings				
-2	ca	6	cAhaM	ca{avya}	ca{avya}	samuccayaxyowakaH,5	waWA	anx				
+1	sarvasya	2	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,4	saba_prANiyoM_ke	of_all_living_beings				
+2	ca	6	cAhaM	ca{avya}	ca{avya}	samuccayaxyowakaH,5	waWA	and				
 3	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,5	mEM	I				
-4	hqxi	3	hqxi	hqx{napuM}{7;eka}/hqxaya{napuM}{7;eka}	hqx{napuM}{7;eka}	aXikaraNam,5	hqxaya_meM	in_whe_hearw				
-5	sanniviRtaH	4	sanniviRto	sanniviRta{puM}{1;eka}	sam_ni_viR2{kqw_prawyayaH:kwa;sam_ni_viRLz;juhowyAxiH;puM}{1;eka}	samucciwam,21.1	anwaryAmIrUpa_se_sWiwa	being_siwuawex				
-6	mawwaH	7	mawwaH	mawwa{puM}{1;eka}	mawwa{wasil}	apAxAnam,10.1	muJase	qrom_Me				
+4	hqxi	3	hqxi	hqx{napuM}{7;eka}/hqxaya{napuM}{7;eka}	hqx{napuM}{7;eka}	aXikaraNam,5	hqxaya_meM	in_the_heart				
+5	sanniviRtaH	4	sanniviRto	sanniviRta{puM}{1;eka}	sam_ni_viR2{kqw_prawyayaH:kwa;sam_ni_viRLz;juhowyAxiH;puM}{1;eka}	samucciwam,21.1	anwaryAmIrUpa_se_sWiwa	being_situated				
+6	mawwaH	7	mawwaH	mawwa{puM}{1;eka}	mawwa{wasil}	apAxAnam,10.1	muJase	from_Me				
 7	smqwiH	8	smqwirjFAnamapohanaM	smqwi{swrI}{1;eka}	smqwi{swrI}{1;eka}	supsamucciwam,9	smqwi	remembrance				
-8	jFAnam	9	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	supsamucciwam,9	jFAna	knotlexge				
-9	apohanam	11	0	apohana{napuM}{1;eka}/apohana{napuM}{2;eka}	apohana{napuM}{1;eka}	karwA,10.1	apohana	qorgewqulness				
-10	ca	10	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,10.1	Ora	anx				
+8	jFAnam	9	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	supsamucciwam,9	jFAna	knowledge				
+9	apohanam	11	0	apohana{napuM}{1;eka}/apohana{napuM}{2;eka}	apohana{napuM}{1;eka}	karwA,10.1	apohana	forgetfulness				
+10	ca	10	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,10.1	Ora	and				
 10.1	(Bavawi)	12	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	samucciwam,21.1	(howA_hE)	becomes				
-11	vexEH	15	vexESca	vexa{puM}{3;bahu}	vexa{puM}{3;bahu}	karaNam,16	vexoM_xvArA	by_whe_Vexas				
+11	vexEH	15	vexESca	vexa{puM}{3;bahu}	vexa{puM}{3;bahu}	karaNam,16	vexoM_xvArA	by_the_Vedas				
 12	ca	13	0	ca{avya}	ca{avya}	samuccayaxyowakaH,16	Ora	also				
 13	sarvEH	14	sarvErahameva	sarva{puM}{3;bahu}/sarva{napuM}{3;bahu}	sarva{puM}{3;bahu}	viSeRaNam,11	saba	all				
 14	aham	16	0	asmax{1;eka}	asmax{1;eka}	karma,16	mEM	I				
-15	eva	17	0	eva{avya}	eva{avya}	sambanXaH,14	hI	cerwainly				
-16	vexyaH	18	vexyo	vexI{swrI}{1;bahu}/vexya{puM}{1;eka}	vix1{kqw_prawyayaH:Nyaw;vixaz;axAxiH;puM}{1;eka}	samucciwam,21.1	jAnane_ke_yogya	knotable				
-17	vexa-anwa-kqw	21	vexAnwakqxvexavixeva	vexAnwa-kqw{puM}{1;eka}	vexAnwa-kqw{puM}{1;eka}	supsamucciwam,20	vexAnwa_kA_karwA	whe_compiler_oq_whe_Vexanwa	<<vexa-anwa>W6-kqw>U			
-18	vexa-viw	23	0	vexa-vix{napuM}{1;eka}	vexa-vix{puM}{1;eka}	karwqsamAnAXikaraNam,21.1	vexoM_ko_jAnanevAlA	whe_knoter_oq_whe_Vexas	<vexa-viw>U			
-19	eva	24	0	eva{avya}	eva{avya}	sambanXaH,18	hI	cerwainly				
-20	ca	22	cAham	ca{avya}	ca{avya}	samuccayaxyowakaH,21.1	Ora	anx				
+15	eva	17	0	eva{avya}	eva{avya}	sambanXaH,14	hI	certainly				
+16	vexyaH	18	vexyo	vexI{swrI}{1;bahu}/vexya{puM}{1;eka}	vix1{kqw_prawyayaH:Nyaw;vixaz;axAxiH;puM}{1;eka}	samucciwam,21.1	jAnane_ke_yogya	knowable				
+17	vexa-anwa-kqw	21	vexAnwakqxvexavixeva	vexAnwa-kqw{puM}{1;eka}	vexAnwa-kqw{puM}{1;eka}	supsamucciwam,20	vexAnwa_kA_karwA	the_compiler_of_the_Vedanta	<<vexa-anwa>T6-kqw>U			
+18	vexa-viw	23	0	vexa-vix{napuM}{1;eka}	vexa-vix{puM}{1;eka}	karwqsamAnAXikaraNam,21.1	vexoM_ko_jAnanevAlA	the_knower_of_the_Vedas	<vexa-viw>U			
+19	eva	24	0	eva{avya}	eva{avya}	sambanXaH,18	hI	certainly				
+20	ca	22	cAham	ca{avya}	ca{avya}	samuccayaxyowakaH,21.1	Ora	and				
 21	aham	20	0	asmax{1;eka}	asmax{1;eka}	karwA,21.1	mEM	I				
 21.1	(asmi)	25	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,21;akarmakaH	(hUz)	am				

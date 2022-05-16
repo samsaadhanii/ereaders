@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,5;niwyasambanXaH,6	jisa_kAla_meM	then				
+1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,5;niwyasambanXaH,6	jisa_kAla_meM	when				
 2	we	2	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,4	wumhArI	your				
-3	moha-kalilam	4	mohakalilaM	moha-kalila{puM}{2;eka}/kalila{napuM}{1;eka}/kalila{napuM}{2;eka}	moha-kalila{napuM}{2;eka}	karma,5	moharUpa_xalaxala_ko	mire_oq_xelusion	<moha-kalilaM>K6			
-4	buxXiH	3	buxXirvyawiwariRyawi	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,5	buxXi	minx				
-5	vyawiwariRyawi	5	0	vi_awi_wQ1{karwari;lqt;pra;eka;parasmEpaxI;wQ;BvAxiH}	vi_awi_wQ1{karwari;lqt;pra;eka;parasmEpaxI;vi_awi_wQ;BvAxiH}	aBihiwakarwA,4;sakarmakaH	BalIBAzwi_pAra_kara_jAyagI	qully_crossex				
-6	waxA	6	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,7	usa_samaya	when				
-7	ganwAsi	11	ganwAsi	gam1{karwari;lut;ma;eka;parasmEpaxI;gamLz;BvAxiH}	gam1{karwari;lut;ma;eka;parasmEpaxI;gamLz;BvAxiH}	aBihiwakarwA,8.1;sakarmakaH	prApwa_ho_jAoge	grot				
-8	nirvexam	10	nirvexaM	nirvexa{puM}{2;eka}	nirvexa{puM}{2;eka}	karma,7	vErAgya_ko	inxiqqerenw				
-9	Srowavyasya	7	Srowavyasya	Srowavya{puM}{6;eka}/Srowavya{napuM}{6;eka}	Sru1{kqw_prawyayaH:wavyaw;Sru;BvAxiH;napuM}{6;eka}	samucciwam,11	sunane_meM_AnevAle	whose_whaw_are_yew_wo_be_hearx_oq				
-10	Sruwasya	8	Sruwasya	Sruwa{puM}{6;eka}/Sruwa{napuM}{6;eka}	Sru1{kqw_prawyayaH:kwa;Sru;BvAxiH;napuM}{6;eka}	samucciwam,11	sune_hue	whe_neLw_whaw_have_been_hearx_oq				
-11	ca	9	ca	ca{avya}	ca{avya}	RaRTIsambanXaH,8	Ora	as_tell_as				
+3	moha-kalilam	4	mohakalilaM	moha-kalila{puM}{2;eka}/kalila{napuM}{1;eka}/kalila{napuM}{2;eka}	moha-kalila{napuM}{2;eka}	karma,5	moharUpa_xalaxala_ko	mire_of_delusion	<moha-kalilaM>K6			
+4	buxXiH	3	buxXirvyawiwariRyawi	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,5	buxXi	mind				
+5	vyawiwariRyawi	5	0	vi_awi_wQ1{karwari;lqt;pra;eka;parasmEpaxI;wQ;BvAxiH}	vi_awi_wQ1{karwari;lqt;pra;eka;parasmEpaxI;vi_awi_wQ;BvAxiH}	aBihiwakarwA,4;sakarmakaH	BalIBAzwi_pAra_kara_jAyagI	fully_crossed				
+6	waxA	6	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,7	usa_samaya	then				
+7	ganwAsi	11	ganwAsi	gam1{karwari;lut;ma;eka;parasmEpaxI;gamLz;BvAxiH}	gam1{karwari;lut;ma;eka;parasmEpaxI;gamLz;BvAxiH}	aBihiwakarwA,8.1;sakarmakaH	prApwa_ho_jAoge	grow				
+8	nirvexam	10	nirvexaM	nirvexa{puM}{2;eka}	nirvexa{puM}{2;eka}	karma,7	vErAgya_ko	indifferent				
+9	Srowavyasya	7	Srowavyasya	Srowavya{puM}{6;eka}/Srowavya{napuM}{6;eka}	Sru1{kqw_prawyayaH:wavyaw;Sru;BvAxiH;napuM}{6;eka}	samucciwam,11	sunane_meM_AnevAle	those_that_are_yet_to_be_heard_of				
+10	Sruwasya	8	Sruwasya	Sruwa{puM}{6;eka}/Sruwa{napuM}{6;eka}	Sru1{kqw_prawyayaH:kwa;Sru;BvAxiH;napuM}{6;eka}	samucciwam,11	sune_hue	the_next_that_have_been_heard_of				
+11	ca	9	ca	ca{avya}	ca{avya}	RaRTIsambanXaH,8	Ora	as_well_as				
 8.1	(wvam)	6.1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,7	(wuma)	you				

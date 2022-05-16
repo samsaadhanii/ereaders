@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yajFa-xAna-wapaH-karma	1	yajFaxAnawapaHkarma	yajFa-xAna-wapas-karman{napuM}{1;eka}/karman{napuM}{2;eka}	yajFa-xAna-wapas-karman{napuM}{1;eka}	karma,3	yajFa_xAna_Ora_waparUpa_karma	acwiviwies_oq_sacriqice_chariwy_anx_penance	<<yajFa-xAna-wapaH>Xi-karma>K7			
+1	yajFa-xAna-wapaH-karma	1	yajFaxAnawapaHkarma	yajFa-xAna-wapas-karman{napuM}{1;eka}/karman{napuM}{2;eka}	yajFa-xAna-wapas-karman{napuM}{1;eka}	karma,3	yajFa_xAna_Ora_waparUpa_karma	activities_of_sacrifice_charity_and_penance	<<yajFa-xAna-wapaH>Di-karma>K7			
 2	na	2	na	na{avya}	na{avya}	prawiReXaH,3	nahIM	never				
-3	wyAjyam	3	wyAjyaM	wyAjya{puM}{2;eka}	wyaj1{kqw_prawyayaH:Nyaw;wyajaz;BvAxiH;puM}{2;eka}	aBihiwa_karma,1	wyAga_karane_ke_yogya	wo_be_given_up				
-4	kAryam	5	kAryameva	kArya{napuM}{2;eka}	kArya{napuM}{1;eka}	aBihiwa_karma,6	karwavya	musw_be_xone				
-5	eva	6	0	eva{avya}	eva{avya}	sambanXaH,4	avaSya	cerwainly				
-6	waw	4	waw	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,4	vaha	whaw				
-7	yajFaH	7	yajFo	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	sup_samucciwam,9	yajFa	sacriqice				
-8	xAnam	8	xAnaM	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{1;eka}	sup_samucciwam,9	xAna	chariwy				
+3	wyAjyam	3	wyAjyaM	wyAjya{puM}{2;eka}	wyaj1{kqw_prawyayaH:Nyaw;wyajaz;BvAxiH;puM}{2;eka}	aBihiwa_karma,1	wyAga_karane_ke_yogya	to_be_given_up				
+4	kAryam	5	kAryameva	kArya{napuM}{2;eka}	kArya{napuM}{1;eka}	aBihiwa_karma,6	karwavya	must_be_done				
+5	eva	6	0	eva{avya}	eva{avya}	sambanXaH,4	avaSya	certainly				
+6	waw	4	waw	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,4	vaha	that				
+7	yajFaH	7	yajFo	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	sup_samucciwam,9	yajFa	sacrifice				
+8	xAnam	8	xAnaM	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{1;eka}	sup_samucciwam,9	xAna	charity				
 9	wapaH	9	wapaScEva	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	karwA,13.1	wapa	penance				
 10	ca	10	0	ca{avya}	ca{avya}	samuccayaxyowakaH,9	Ora	also				
-11	eva	11	0	eva{avya}	eva{avya}	sambanXaH,10	hI	cerwainly				
-12	pAvanAni	13	pAvanAni	pAvana{napuM}{1;bahu}/pAvana{napuM}{2;bahu}	pAvana{napuM}{1;bahu}	karwqsamAnAXikaraNam,13.1	paviwra_karanevAle	puriqying				
-13	manIRiNAm	12	manIRiNAm	manIRin{puM}{6;bahu}	manIRin{puM}{6;bahu}	RaRTIsambanXaH,12	buxXimAn_puruRoM_ko	even_oq_whe_greaw_souls				
+11	eva	11	0	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
+12	pAvanAni	13	pAvanAni	pAvana{napuM}{1;bahu}/pAvana{napuM}{2;bahu}	pAvana{napuM}{1;bahu}	karwqsamAnAXikaraNam,13.1	paviwra_karanevAle	purifying				
+13	manIRiNAm	12	manIRiNAm	manIRin{puM}{6;bahu}	manIRin{puM}{6;bahu}	RaRTIsambanXaH,12	buxXimAn_puruRoM_ko	even_of_the_great_souls				
 13.1	(sanwi)	14	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,9	(hEM)	are				

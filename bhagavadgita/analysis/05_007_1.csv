@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yoga-yukwaH	5	yogayukwo	yoga-yukwa{puM}{1;eka}	yoga-yukwa{puM}{1;eka}	karwA,9	karmayogI	engagex_in_xevowional_service	<yoga-yukwaH>W3			
-2	viSuxXa-AwmA	1	viSuxXAwmA	viSuxXa-Awman{puM}{1;eka}	viSuxXa-Awman{puM}{1;eka}	viSeRaNam,1	viSuxXa_anwaHkaraNavAlA_hE	a_puriqiex_soul	<viSuxXa-AwmA>Bs6			
-3	vijiwa-AwmA	2	vijiwAwmA	vijiwa-Awman{puM}{1;eka}	vijiwa-Awman{puM}{1;eka}	viSeRaNam,1	jisakA_mana_apane_vaSa_meM_hE	selq-conwrollex	<vijiwa-AwmA>Bs3			
-4	jiwa-inxriyaH	3	jiwenxriyaH	jiwa-inxriya{puM}{1;eka}	jiwa-inxriya{puM}{1;eka}	viSeRaNam,1	jo_jiwenxriya	having_conduerex_whe_senses	<jiwa-inxriyaH>Bs3			
-5	sarva-BUwa-Awma-BUwa-AwmA	4	sarvaBUwAwmaBUwAwmA	sarva-BUwa-AwmaBUwa-Awman{puM}{1;eka}	sarva-BUwa-Awma-BUwa-Awman{puM}{1;eka}	viSeRaNam,1	sampUrNa_prANiyoM_kA_AwmarUpa_paramAwmA_hI_jisakA_AwmA_hE	compassionawe_wo_all_living_enwiwies	<<<sarva-BUwa>K1-<Awma-BUwa>K6>W6-AwmA>Bs6			
-6	kurvan	7	kurvannapi	kurvaw{puM}{1;eka}/kurvaw{puM}{1;eka}	kq3{kqw_prawyayaH:Sawq;dukqF;wanAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,9	karawA_huA	engagex_in_tork				
-7	api	8	0	api{avya}	api{avya}	sambanXaH,6	BI	alwhough				
+1	yoga-yukwaH	5	yogayukwo	yoga-yukwa{puM}{1;eka}	yoga-yukwa{puM}{1;eka}	karwA,9	karmayogI	engaged_in_devotional_service	<yoga-yukwaH>T3			
+2	viSuxXa-AwmA	1	viSuxXAwmA	viSuxXa-Awman{puM}{1;eka}	viSuxXa-Awman{puM}{1;eka}	viSeRaNam,1	viSuxXa_anwaHkaraNavAlA_hE	a_purified_soul	<viSuxXa-AwmA>Bs6			
+3	vijiwa-AwmA	2	vijiwAwmA	vijiwa-Awman{puM}{1;eka}	vijiwa-Awman{puM}{1;eka}	viSeRaNam,1	jisakA_mana_apane_vaSa_meM_hE	self-controlled	<vijiwa-AwmA>Bs3			
+4	jiwa-inxriyaH	3	jiwenxriyaH	jiwa-inxriya{puM}{1;eka}	jiwa-inxriya{puM}{1;eka}	viSeRaNam,1	jo_jiwenxriya	having_conquered_the_senses	<jiwa-inxriyaH>Bs3			
+5	sarva-BUwa-Awma-BUwa-AwmA	4	sarvaBUwAwmaBUwAwmA	sarva-BUwa-AwmaBUwa-Awman{puM}{1;eka}	sarva-BUwa-Awma-BUwa-Awman{puM}{1;eka}	viSeRaNam,1	sampUrNa_prANiyoM_kA_AwmarUpa_paramAwmA_hI_jisakA_AwmA_hE	compassionate_to_all_living_entities	<<<sarva-BUwa>K1-<Awma-BUwa>K6>T6-AwmA>Bs6			
+6	kurvan	7	kurvannapi	kurvaw{puM}{1;eka}/kurvaw{puM}{1;eka}	kq3{kqw_prawyayaH:Sawq;dukqF;wanAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,9	karawA_huA	engaged_in_work				
+7	api	8	0	api{avya}	api{avya}	sambanXaH,6	BI	although				
 8	na	9	na	na{avya}	na{avya}	prawiReXaH,9	nahIM	never				
-9	lipyawe	10	lipyawe	lip1{karmaNi;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	lip1{karwari;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	aBihiwakarwA,1;akarmakaH	lipwa_howA	is_enwanglex				
-9.1	(karma)	6	(0)	(karman{napuM}{1;eka}/karman{napuM}{2;eka})	(karman{napuM}{2;eka})	karma,6	(karma)	tork				
+9	lipyawe	10	lipyawe	lip1{karmaNi;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	lip1{karwari;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	aBihiwakarwA,1;akarmakaH	lipwa_howA	is_entangled				
+9.1	(karma)	6	(0)	(karman{napuM}{1;eka}/karman{napuM}{2;eka})	(karman{napuM}{2;eka})	karma,6	(karma)	work				

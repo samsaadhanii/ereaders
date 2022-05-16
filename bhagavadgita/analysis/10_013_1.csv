@@ -1,32 +1,34 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	param	2	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{1;eka}	viSeRaNam,2	parama	supreme				
-2	brahma	3	brahma	brahma{napuM}{8;eka}/brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwqsamAnAXikaraNam,7.1	brahma	wruwh				
+2	brahma	3	brahma	brahma{napuM}{8;eka}/brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	supsamucciwam,5	brahma	truth				
 3	param	4	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{1;eka}	viSeRaNam,4	parama	supreme				
-4	XAma	5	XAma	XAman{napuM}{1;eka}/XAman{napuM}{2;eka}/XAman{napuM}{8;eka}	XAman{napuM}{1;eka}	samucciwam,7.1	XAma	suswenance				
-5	paviwram	8	paviwraM	paviwra{puM}{2;eka}	paviwra{puM}{1;eka}	sup_samucciwam,7.1	paviwra	puresw				
-6	paramam	7	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{1;eka}	viSeRaNam,5	parama	supreme				
-7	BavAn	1	BavAn	Bava{puM}{2;bahu}/Bavaw{puM}{1;eka}	Bavaw{puM}{1;eka}	karwA,7.1	Apa	Fourselq				
+4	XAma	5	XAma	XAman{napuM}{1;eka}/XAman{napuM}{2;eka}/XAman{napuM}{8;eka}	XAman{napuM}{1;eka}	supsamucciwam,5	XAma	sustenance				
+5	paviwram	7	paviwraM	paviwra{puM}{2;eka}	paviwra{puM}{1;eka}	karwqsamAnAXikaraNam,7.1	paviwra	purest				
+6	paramam	6	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{1;eka}	viSeRaNam,5	parama	supreme				
+7	BavAn	1	BavAn	Bava{puM}{2;bahu}/Bavaw{puM}{1;eka}	Bavaw{puM}{1;eka}	karwA,7.1	Apa	Yourself				
 7.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,7;akarmakaH	(hE)	is				
-7.2	(ca)		()	ca{avya}	ca{avya}	samuccayaxyowakaH,7.1	Ora	also				
-8	puruRam	15	puruRam	puruRa{puM}{2;eka}	puruRa{puM}{2;eka}	karmasamucciwam,14	puruRa	personaliwy				
-9	SASvawam	13	SASvawaM	SASvawa{puM}{2;eka}/SASvawa{napuM}{1;eka}/SASvawa{napuM}{2;eka}	SASvawa{puM}{2;eka}	karmasamucciwam,14	sanAwana	original				
-10	xivyam	14	xivyamAxixevamajaM	xivya{puM}{2;eka}/xivya{napuM}{1;eka}/xivya{napuM}{2;eka}	xivya{puM}{2;eka}	viSeRaNam,8	xivya	wranscenxenwal				
-11	Axi-xevam	16	0	Axin-xeva{puM}{2;eka}	Axi-xeva{puM}{2;eka}	karmasamucciwam,14	xevoM_kA_BI_Axixeva	original_Lorx	<Axi-xevam>K1			
-12	a-jam	17	0	a-ja{puM}{2;eka}	aja{puM}{2;eka}	karmasamucciwam,14	ajanmA	unborn	<na-jam>U			
-13	viBum	19	viBum	viBu{puM}{2;eka}	viBu{puM}{2;eka}	karmasamucciwam,14	sarvavyApI	greawesw				
-14	AhuH	20	AhuswvAmqRayaH	ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;bahu;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,16;xvikarmakaH	kahawe_hEM	say				
-15	wvAm	10	0	yuRmax{2;eka}	yuRmax{2;eka}	karma,14	Apako	unwo_Fou				
-16	qRayaH	12	0	qRi{puM}{1;bahu}/qRi{puM}{8;bahu}	qRi{puM}{1;bahu}	karwA,14	qRigaNa	sages				
-17	sarve	11	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	viSeRaNam,16	saba	all				
-17.1	(ca)	18	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,14	(Ora)	anx				
-18	xeva-qRiH	22	xevarRirnAraxaswaWA	xeva-qRi{puM}{1;eka}	xeva-qRi{puM}{1;eka}	viSeRaNam,19	xevarRi	whe_sage_among_whe_xemigoxs	<xeva-qRiH>K1			
-19	nAraxaH	23	0	nAraxa{puM}{1;eka}	nAraxa{puM}{1;eka}	karwrusamAnARikaraNam,27	nAraxa	faraxa				
-20	waWA	21	0	waWA{avya}	waWA{avya}	sambanXaH,27	vEse_hI	also				
-21	asiwaH	24	asiwo	asiwa{puM}{1;eka}/asiwq{puM}{8;eka}/asiwq{napuM}{8;eka}	asiwa{puM}{1;eka}	samucciwam,27	asiwa	Asiwa				
-22	xevalaH	25	xevalo	xevala{puM}{1;eka}	xevala{puM}{1;eka}	samucciwam,27	xevala_qRi	Xevala				
-23	vyAsaH	26	vyAsaH	vyAsa{puM}{1;eka}	vyAsa{puM}{1;eka}	samucciwam,27	maharRi_vyAsa	Vyasa				
-24	svayam	28	svayaM	svayam{avya}	svayam{avya}	karwA,27	svayaM_Apa	personally				
-25	ca	27	cEva	ca{avya}	ca{avya}	samuccayaxyowakaH,27	Ora	also				
-26	eva	29	0	eva{avya}	eva{avya}	sambanXaH,24	BI	cerwainly				
-27	bravIRi	31	bravIRi	brU1{karwari;lat;ma;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;ma;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,24;xvikarmakaH	kahawe_hEM	eLplaining				
-28	me	30	me	asmax{6;eka}	asmax{4;eka}	sampraxAnam,27	mere_prawi	unwo_me				
+7.2	(ca)	8	()	ca{avya}	ca{avya}	samuccayaxyowakaH,7.1	Ora	also				
+8	puruRam	21	puruRam	puruRa{puM}{2;eka}	puruRa{puM}{2;eka}	supsamucciwam,13	puruRa	personality				
+9	SASvawam	22	SASvawaM	SASvawa{puM}{2;eka}/SASvawa{napuM}{1;eka}/SASvawa{napuM}{2;eka}	SASvawa{puM}{2;eka}	supsamucciwam,13	sanAwana	original				
+10	xivyam	20	xivyamAxixevamajaM	xivya{puM}{2;eka}/xivya{napuM}{1;eka}/xivya{napuM}{2;eka}	xivya{puM}{2;eka}	viSeRaNam,8	xivya	transcendental				
+11	Axi-xevam	23	0	Axin-xeva{puM}{2;eka}	Axi-xeva{puM}{2;eka}	supsamucciwam,13	xevoM_kA_BI_Axixeva	original_Lord	<Axi-xevam>K1			
+12	a-jam	24	0	a-ja{puM}{2;eka}	aja{puM}{2;eka}	supsamucciwam,13	ajanmA	unborn	<na-jam>U			
+13	viBum	25	viBum	viBu{puM}{2;eka}	viBu{puM}{2;eka}	karmasamAnAXikaraNam,14	sarvavyApI	greatest				
+13.1	(ca)	26	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,13	(Ora)	and				
+14	AhuH	27	AhuswvAmqRayaH	ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;bahu;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,16;xvikarmakaH	kahawe_hEM	say				
+15	wvAm	19	0	yuRmax{2;eka}	yuRmax{2;eka}	karma,14	Apako	unto_You				
+16	qRayaH	17	0	qRi{puM}{1;bahu}/qRi{puM}{8;bahu}	qRi{puM}{1;bahu}	karwA,14	qRigaNa	sages				
+17	sarve	16	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	viSeRaNam,16	saba	all				
+17.1	(ca)	18	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,16	(Ora)	and				
+18	xeva-qRiH	14	xevarRirnAraxaswaWA	xeva-qRi{puM}{1;eka}	xeva-qRi{puM}{1;eka}	viSeRaNam,19	xevarRi	the_sage_among_the_demigods	<xeva-qRiH>K1			
+19	nAraxaH	15	0	nAraxa{puM}{1;eka}	nAraxa{puM}{1;eka}	supsamucciwam,16	nAraxa	Narada				
+20	waWA	13	0	waWA{avya}	waWA{avya}	samuccayaxyowakaH,19	vEse_hI	also				
+21	asiwaH	10	asiwo	asiwa{puM}{1;eka}/asiwq{puM}{8;eka}/asiwq{napuM}{8;eka}	asiwa{puM}{1;eka}	supsamucciwam,16	asiwa	Asita				
+22	xevalaH	11	xevalo	xevala{puM}{1;eka}	xevala{puM}{1;eka}	supsamucciwam,16	xevala_qRi	Devala				
+23	vyAsaH	12	vyAsaH	vyAsa{puM}{1;eka}	vyAsa{puM}{1;eka}	supsamucciwam,16	maharRi_vyAsa	Vyasa				
+24	svayam	29	svayaM	svayam{avya}	svayam{avya}	kriyAviSeRaNam,27	svayaM_Apa	personally				
+25	ca	30	cEva	ca{avya}	ca{avya}	samuccayaxyowakaH,27	Ora	also				
+26	eva	31	0	eva{avya}	eva{avya}	sambanXaH,24	BI	certainly				
+27	bravIRi	33	bravIRi	brU1{karwari;lat;ma;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;ma;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,28.1;xvikarmakaH	kahawe_hEM	explaining				
+28	me	32	me	asmax{6;eka}	asmax{4;eka}	sampraxAnam,27	mere_prawi	unto_me				
+28.1	(wvam)	28	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,27	(wuma)	you				

@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ewaw	2	ewanme	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,3	isa	whis				
+1	ewaw	2	ewanme	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,3	isa	this				
 2	me	3	0	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,3	mere	my				
-3	saMSayam	4	saMSayaM	saMSaya{puM}{2;eka}	saMSaya{puM}{2;eka}	karma,5.1	saMSaya_ko	xoubw				
+3	saMSayam	4	saMSayaM	saMSaya{puM}{2;eka}	saMSaya{puM}{2;eka}	karma,5.1	saMSaya_ko	doubt				
 4	kqRNa	1	kqRNa	kqRNa{puM}{8;eka}/kqRNa{napuM}{8;eka}	kqRNa{puM}{8;eka}	samboXyaH,5.1	he_SrIkqRNa	O_Krsna				
-5	Cewwum	6	CewwumarhasyaSeRawaH	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	Cix1{kqw_prawyayaH:wumun;Cixizr;ruXAxiH}_arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	sahAyakakriyA,5.1	Cexana_karane_ke_liye_yogya_hEM	redueswex_wo_xispel				
-5.1	arhasi	7				aBihiwa_karwA						
-6	a-SeRawaH	5	0	a-SeRawaH	aSeRawaH{wasil}	kriyAviSeRaNam,5.1	sampUrNarUpa_se	complewely	<na-SeRawaH>Wn			
-7	wvaw	10	wvaxanyaH	yuRmax{5;eka}	yuRmax{5;eka}	sanxarBa_binxuH,8	Apake_sivA	whan_Fou				
-8	anyaH	11	0	anya{puM}{1;eka}	anya{puM}{1;eka}	karwA,14	xUsarA	tiwhouw				
-9	saMSayasya	15	saMSayasyAsya	saMSaya{puM}{6;eka}	saMSaya{puM}{6;eka}	RaRTIsambanXaH,11	saMSaya_kA	oq_whe_xoubw				
-10	asya	14	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	viSeRaNam,9	isa	oq_whis				
+5	Cewwum	6	CewwumarhasyaSeRawaH	Cix1{kqw_prawyayaH:wumun;Cixizr;ruXAxiH}	Cix1{kqw_prawyayaH:wumun;Cixizr;ruXAxiH}	sahAyakakriyA,5.1	Cexana_karane_ke_liye_yogya_hEM	requested_to_dispel				
+5.1	arhasi	7		arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}		aBihiwa_karwA						
+6	a-SeRawaH	5	0	a-SeRawaH	aSeRawaH{wasil}	kriyAviSeRaNam,5.1	sampUrNarUpa_se	completely	<na-SeRawaH>Tn			
+7	wvaw	10	wvaxanyaH	yuRmax{5;eka}	yuRmax{5;eka}	sanxarBa_binxuH,8	Apake_sivA	than_You				
+8	anyaH	11	0	anya{puM}{1;eka}	anya{puM}{1;eka}	karwA,14	xUsarA	without				
+9	saMSayasya	15	saMSayasyAsya	saMSaya{puM}{6;eka}	saMSaya{puM}{6;eka}	RaRTIsambanXaH,11	saMSaya_kA	of_the_doubt				
+10	asya	14	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	viSeRaNam,9	isa	of_this				
 11	CewwA	13	CewwA	CewwA{swrI}{1;eka}/Cewwq{puM}{1;eka}/Cix1{karwari;lut;pra;eka;parasmEpaxI;Cixizr;ruXAxiH}/Cix1{karwari;lut;pra;eka;AwmanepaxI;Cixizr;ruXAxiH}/Cix1{karmaNi;lut;pra;eka;AwmanepaxI;Cixizr;ruXAxiH}	Cix1{kqw_prawyayaH:kwa;Cixizr;ruXAxiH;swrI}{1;eka}	karwqsamAnAXikaraNam.14	Cexana_karanevAlA	remover				
 12	na	9	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	never				
-13	hi	8	hyupapaxyawe	hi{avya}	hi{avya}	viSeRaNasUcakam,8	kyoMki	cerwainly				
-14	upapaxyawe	12	0	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/upa_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;upa_paxaz;xivAxiH}	aBihiwa_karwA,8	milanA_samBava_hE	wo_be_qounx				
+13	hi	8	hyupapaxyawe	hi{avya}	hi{avya}	viSeRaNasUcakam,8	kyoMki	certainly				
+14	upapaxyawe	12	0	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/upa_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;upa_paxaz;xivAxiH}	aBihiwa_karwA,8	milanA_samBava_hE	to_be_found				

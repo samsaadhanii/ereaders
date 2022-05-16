@@ -1,20 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wapasviByaH	1	wapasviByoZXiko	wapasvin{puM}{4;bahu}/wapasvin{puM}{5;bahu}	wapasvin{puM}{5;bahu}	viBakwam,2	wapasviyoM_se	whan_whe_ascewic				
-2	aXikaH	2	0	aXika{puM}{1;eka}	aXika{puM}{1;eka}	karmasamAnAXikaraNam,3.1	SreRTa	greawer				
-3	yogI	3	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karma,3.1	yogI	whe_yogi				
-3.1	(mawaH)		()	mawa{puM;1;eka(+man2;kwa;manuz;:wanAxiH)}	mawa{puM;1;eka(+man2;kwa;manuz;:wanAxiH)}	aBihiwakarma,3						
-4	jFAniByaH	4	jFAniByoZpi	jFAnin{puM}{4;bahu}/jFAnin{puM}{5;bahu}	jFAnin{puM}{5;bahu}	viBakwam,7	SAswrajFAniyoM_se	whan_whe_tise				
+1	wapasviByaH	1	wapasviByoZXiko	wapasvin{puM}{4;bahu}/wapasvin{puM}{5;bahu}	wapasvin{puM}{5;bahu}	viBakwam,2	wapasviyoM_se	than_the_ascetic				
+2	aXikaH	2	0	aXika{puM}{1;eka}	aXika{puM}{1;eka}	karmasamAnAXikaraNam,3.1	SreRTa	greater				
+3	yogI	3	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karma,3.1	yogI	the_yogi				
+3.1	(mawaH)		()	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	aBihiwakarma,3						
+4	jFAniByaH	4	jFAniByoZpi	jFAnin{puM}{4;bahu}/jFAnin{puM}{5;bahu}	jFAnin{puM}{5;bahu}	viBakwam,7	SAswrajFAniyoM_se	than_the_wise				
 5	api	5	0	api{avya}	api{avya}	sambanXaH,4	BI	also				
-6	mawaH	11	mawoZXikaH	"mawa{puM;1;eka(+man2;kwa;manuz;:wanAxiH)}
-"	mawa{puM;1;eka(+man2;kwa;manuz;:wanAxiH)}		mAnA_gayA_hE	consixerex				
-7	aXikaH	6	0	aXika{puM}{1;eka}	aXika{puM}{1;eka}	karmasamAnAXikaraNam,6	SreRTa	greawer_whan				
+6	mawaH	11	mawoZXikaH	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}		mAnA_gayA_hE	considered				
+7	aXikaH	6	0	aXika{puM}{1;eka}	aXika{puM}{1;eka}	karmasamAnAXikaraNam,6	SreRTa	greater_than				
 7.1	(yogI)		()	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karma,6						
-8	karmiByaH	7	karmiByaScAXiko	karmin{puM}{4;bahu}/karmin{puM}{5;bahu}	karmin{puM}{5;bahu}	viBakwam,10	sakAma_karma_karanevAloM_se_BI	whan_whe_qruiwive_torker				
+8	karmiByaH	7	karmiByaScAXiko	karmin{puM}{4;bahu}/karmin{puM}{5;bahu}	karmin{puM}{5;bahu}	viBakwam,10	sakAma_karma_karanevAloM_se_BI	than_the_fruitive_worker				
 9	ca	8	ca	ca{avya}	ca{avya}	sambanXaH,11	Ora	also				
-10	aXikaH	9	0	aXika{puM}{1;eka}	aXika{puM}{1;eka}	karmasamAnAXikaraNam,11.1	SreRTa	greawer_whan				
-11	yogI	10	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karma,11.1	yogI	whe_yogi				
-11.1	(mawaH)		()	mawa{puM;1;eka(+man2;kwa;manuz;:wanAxiH)}	mawa{puM;1;eka(+man2;kwa;manuz;:wanAxiH)}	aBihiwakarma,11						
-12	wasmAw	12	wasmAxyogI	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wasmAw{avya}	hewuH,14	isase	whereqore				
-13	yogI	13	0	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karwqsamAnAXikaraNam,14	yogI	a_wranscenxenwalisw				
-14	Bava	14	BavArjuna	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,13;akarmakaH	ho	jusw_become				
+10	aXikaH	9	0	aXika{puM}{1;eka}	aXika{puM}{1;eka}	karmasamAnAXikaraNam,11.1	SreRTa	greater_than				
+11	yogI	10	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karma,11.1	yogI	the_yogi				
+11.1	(mawaH)		()	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	aBihiwakarma,11						
+12	wasmAw	12	wasmAxyogI	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wasmAw{avya}	hewuH,14	isase	therefore				
+13	yogI	13	0	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karwqsamAnAXikaraNam,14	yogI	a_transcendentalist				
+14	Bava	14	BavArjuna	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,13;akarmakaH	ho	just_become				
 15	arjuna	15		arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,14	he_arjuna	O_Arjuna				

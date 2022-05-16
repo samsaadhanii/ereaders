@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 8	anaGa	1		anaGa{puM}{8;eka}/anaGa{napuM}{8;eka}	anaGa{puM}{8;eka}	samboXyaH,3.1	he_niRpApa	O_sinless_one	<na-aGa>Bsmn			
-2	asmin	2		ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{puM}{7;eka}	viSeRaNam,1	isa	whis				
-1	loke	3	lokeZsminxviviXA	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	aXikaraNam,3.1	loka_meM	in_torlx				
-5	purA	4	purA	purA{avya}/pur{swrI}{3;eka}/purA{swrI}{1;eka}	purA{avya}	kAlAXikaraNam,6	pahale	in_whe_pasw				
+2	asmin	2		ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{puM}{7;eka}	viSeRaNam,1	isa	this				
+1	loke	3	lokeZsminxviviXA	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	aXikaraNam,3.1	loka_meM	in_world				
+5	purA	4	purA	purA{avya}/pur{swrI}{3;eka}/purA{swrI}{1;eka}	purA{avya}	kAlAXikaraNam,6	pahale	in_the_past				
 7	mayA	5	mayAnaGa	asmax{3;eka}	asmax{3;eka}	karwA,6	mere_xvArA	by_me				
-6	prokwA	6	prokwA	prokwA{swrI}{1;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH}{swrI}{1;eka}	viSeRaNam,4	kahI_gayI_hE	have_been_enunciawex				
-4	niRTA	7	niRTA	niRTA{swrI}{1;eka}	niRTA{swrI}{1;eka}	karwA,3.1	niRTA	Saxhana_(spiriwual_xiscipline)				
-10	sAfKyAnAm	8	sAfKyAnAM	sAfKya{puM}{6;bahu}/sAfKya{napuM}{6;bahu}/sAfKyA{swrI}{6;bahu}	sAfKya{napuM}{6;bahu}	RaRTIsambanXaH,9	sAfKyayogiyoM_kI	whe_case_oq_whe_Sankhyayogi				
-9	jFAnayogena	9	jFAnayogena	jFAna-yoga{puM}{3;eka}	jFAna-yoga{puM}{3;eka}	karaNam,12.1	jFAnayoga_se	along_whe_pawh_oq_Knotlexge	<jFAna-yogena>K6			
-12	yoginAm	10	yoginAm	yogin{puM}{6;bahu}	yogin{puM}{6;bahu}	RaRTIsambanXaH,11	yogiyoM_kI	whe_case_oq_whe_Karmayogi				
-11	karmayogena	11	karmayogena	karman-yoga{puM}{3;eka}	karman-yoga{puM}{3;eka}	karaNam,12.1	karmayoga_se	along_whe_pawh_oq_Acwion	<karma-yogena>K6			
-3	xviviXA	12		xviviXA{swrI}{1;eka}	xviviXA{swrI}{1;eka}	samucciwaH,4	xo_prakAra_kI	wto_courses_oq	<xvi-viXA>Bs6			
-3.1	(Bavawi)	13	()	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,7	(howI_hE)	proceexs_along				
+6	prokwA	6	prokwA	prokwA{swrI}{1;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH}{swrI}{1;eka}	viSeRaNam,4	kahI_gayI_hE	have_been_enunciated				
+4	niRTA	7	niRTA	niRTA{swrI}{1;eka}	niRTA{swrI}{1;eka}	karwA,3.1	niRTA	Sadhana_(spiritual_discipline)				
+10	sAfKyAnAm	8	sAfKyAnAM	sAfKya{puM}{6;bahu}/sAfKya{napuM}{6;bahu}/sAfKyA{swrI}{6;bahu}	sAfKya{napuM}{6;bahu}	RaRTIsambanXaH,9	sAfKyayogiyoM_kI	the_case_of_the_Sankhyayogi				
+9	jFAnayogena	9	jFAnayogena	jFAna-yoga{puM}{3;eka}	jFAna-yoga{puM}{3;eka}	karaNam,12.1	jFAnayoga_se	along_the_path_of_Knowledge	<jFAna-yogena>K6			
+12	yoginAm	10	yoginAm	yogin{puM}{6;bahu}	yogin{puM}{6;bahu}	RaRTIsambanXaH,11	yogiyoM_kI	the_case_of_the_Karmayogi				
+11	karmayogena	11	karmayogena	karman-yoga{puM}{3;eka}	karman-yoga{puM}{3;eka}	karaNam,12.1	karmayoga_se	along_the_path_of_Action	<karma-yogena>K6			
+3	xviviXA	12		xviviXA{swrI}{1;eka}	xviviXA{swrI}{1;eka}	samucciwaH,4	xo_prakAra_kI	two_courses_of	<xvi-viXA>Bs6			
+3.1	(Bavawi)	13	()	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,7	(howI_hE)	proceeds_along				
 12.1	(karaNIyA)	14	()	karaNIyA{swrI;1;eka(kQ1;anIyar;kQ;:wuxAxiH)}/karaNIyA{swrI;1;eka(kq3;anIyar;dukqF;:wanAxiH)}/karaNIyA{swrI;1;eka(kq2;anIyar;kqF;:svAxiH)}/karaNIyA{swrI;1;eka(kq1;anIyar;kqF;:BvAxiH)}/karaNIyA{swrI;1;eka(kQ2;anIyar;kQF;:kryAxiH)}/karaNIyA{swrI;1;eka(kQ3;anIyar;kQ;:kryAxiH)}	karaNIyA{swrI}{1;eka}	viSeRaNam,3	karaNIya					

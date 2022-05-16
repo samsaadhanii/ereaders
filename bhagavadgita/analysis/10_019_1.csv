@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	hanwa	2	hanwa	hanwa{avya}	hanwa{avya}	sambanXaH,3	aba	yes				
-2	we	8	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,3	were_liye	unwo_you				
+2	we	8	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,3	were_liye	unto_you				
 3	kaWayiRyAmi	10	kaWayiRyAmi	kaWa1{karwari;lqt;u;eka;AwmanepaxI;kaWa;curAxiH}/kaWa1_Nic{karwari;lqt;u;eka;parasmEpaxI;kaWa;curAxiH}	kaWa1{karwari;lqt;u;eka;parasmEpaxI;kaWa;curAxiH}	aBihiwa_karwA,8.1;sakarmakaH	kahUzgA	shall_speak				
-4	xivyAH	4	xivyA	xivya{puM}{1;bahu}/xivya{puM}{8;bahu}/xivyA{swrI}{1;bahu}/xivyA{swrI}{2;bahu}/xivyA{swrI}{8;bahu}	xivya{puM}{1;bahu}	viSeRaNam,6	xivya	xivine				
-5	hi	11	hyAwmaviBUwayaH	hi{avya}	hi{avya}	sambanXaH,10	kyoMki	cerwainly				
-6	Awma-vi-BUwayaH	5	0	Awman-vi-BUwi{swrI}{1;bahu}/BUwi{swrI}{8;bahu}	Awman-viBUwi{puM}{1;bahu}	karwA,6.1	viBUwiyAz	personal_opulences	<Awma-<vi-BUwayaH>Bvp>W6			
+4	xivyAH	4	xivyA	xivya{puM}{1;bahu}/xivya{puM}{8;bahu}/xivyA{swrI}{1;bahu}/xivyA{swrI}{2;bahu}/xivyA{swrI}{8;bahu}	xivya{puM}{1;bahu}	viSeRaNam,6	xivya	divine				
+5	hi	11	hyAwmaviBUwayaH	hi{avya}	hi{avya}	sambanXaH,10	kyoMki	certainly				
+6	Awma-vi-BUwayaH	5	0	Awman-vi-BUwi{swrI}{1;bahu}/BUwi{swrI}{8;bahu}	Awman-viBUwi{puM}{1;bahu}	karwA,6.1	viBUwiyAz	personal_opulences	<Awma-<vi-BUwayaH>Bvp>T6			
 6.1	(sanwi)	6	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,6;akarmakaH	(hEM)	are				
 6.2	(mama)	3	(0)	(asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH})	(asmax{6;eka})	RaRTIsambanXaH,6	(merI)	my				
 7	prAXAnyawaH	9	prAXAnyawaH	prAXAnya{wasil}	prAXAnya{avya}	kriyAviSeRaNam,3	praXAnawA_se	principally				
-8	kuru-SreRTa	1	kuruSreRTa	kuru-SreRTa{puM}{8;eka}/SreRTa{napuM}{8;eka}	kuru-SreRTa{puM}{8;eka}	samboXyaH,3	he_kuruSreRTa	O_besw_oq_whe_Kurus	<kuru-SreRTa>W7			
+8	kuru-SreRTa	1	kuruSreRTa	kuru-SreRTa{puM}{8;eka}/SreRTa{napuM}{8;eka}	kuru-SreRTa{puM}{8;eka}	samboXyaH,3	he_kuruSreRTa	O_best_of_the_Kurus	<kuru-SreRTa>T7			
 8.1	(aham)	7	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,3	(mEM)	I				
-9	na	15	nAswyanwo	na{avya}	na{avya}	prawiReXaH,10	nahIM	now				
+9	na	15	nAswyanwo	na{avya}	na{avya}	prawiReXaH,10	nahIM	not				
 10	aswi	16	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,11;akarmakaH	hE	is				
-11	anwaH	14	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	karwA,10	anwa	limiw				
-12	viswarasya	13	viswarasya	viswara{puM}{6;eka}/viswara{napuM}{6;eka}	viswara{puM}{6;eka}	RaRTIsambanXaH,11	viswAra_kA	wo_whe_eLwenw				
+11	anwaH	14	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	karwA,10	anwa	limit				
+12	viswarasya	13	viswarasya	viswara{puM}{6;eka}/viswara{napuM}{6;eka}	viswara{puM}{6;eka}	RaRTIsambanXaH,11	viswAra_kA	to_the_extent				
 13	me	12	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,12	mere	my				

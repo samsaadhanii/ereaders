@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yasmAw	1	yasmAnnoxvijawe	yasmAw{avya}/yax{puM}{5;eka}/yax{napuM}{5;eka}	yax{puM}{5;eka}	apAxAnam,3;niwyasambanXaH,13	jisase	qrom_thom				
+1	yasmAw	1	yasmAnnoxvijawe	yasmAw{avya}/yax{puM}{5;eka}/yax{napuM}{5;eka}	yax{puM}{5;eka}	apAxAnam,3;niwyasambanXaH,13	jisase	from_whom				
 2	na	3	0	na{avya}	na{avya}	prawiReXaH,3	nahIM	never				
-3	uxvijawe	4	0	vij2{karwari;lat;pra;eka;AwmanepaxI;ozvijIz;wuxAxiH}	ux_vij2{karwari;lat;pra;eka;AwmanepaxI;ux_ozvijIz;wuxAxiH}	aBihikarwA,4;akarmakaH	uxvega_ko_prApwa_howA	agiwawes				
+3	uxvijawe	4	0	vij2{karwari;lat;pra;eka;AwmanepaxI;ozvijIz;wuxAxiH}	ux_vij2{karwari;lat;pra;eka;AwmanepaxI;ux_ozvijIz;wuxAxiH}	aBihiwakarwA,4;akarmakaH	uxvega_ko_prApwa_howA	agitates				
 4	lokaH	2	loko	loka{puM}{1;eka}	loka{puM}{1;eka}	karwA,3	koI_BI_jIva	persons				
-5	lokAw	7	lokAnnoxvijawe	loka{puM}{5;eka}	loka{puM}{5;eka}	apAxAnam,7	kisI_jIva_se	qrom_persons				
+5	lokAw	7	lokAnnoxvijawe	loka{puM}{5;eka}	loka{puM}{5;eka}	apAxAnam,7	kisI_jIva_se	from_persons				
 6	na	8	0	na{avya}	na{avya}	prawiReXaH,7	nahIM	never				
-7	uxvijawe	9	0	vij2{karwari;lat;pra;eka;AwmanepaxI;ozvijIz;wuxAxiH}	ux_vij2{karwari;lat;pra;eka;AwmanepaxI;ux_ozvijIz;wuxAxiH}	aBihiwakarwA,9;akarmakaH	uxvega_ko_prApwa_howA	xiswurbex				
+7	uxvijawe	9	0	vij2{karwari;lat;pra;eka;AwmanepaxI;ozvijIz;wuxAxiH}	ux_vij2{karwari;lat;pra;eka;AwmanepaxI;ux_ozvijIz;wuxAxiH}	aBihiwakarwA,9;akarmakaH	uxvega_ko_prApwa_howA	disturbed				
 8	ca	5	ca	ca{avya}	ca{avya}	sambanXaH,7	Ora	also				
 9	yaH	6	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,7;niwyasambanXaH,13	jo	anyone				
-10	harRa-a-marRa-BayaH-uxvegEH	12	harRAmarRaBayoxvegErmukwo	harRAmarRaBayoxvegEH	harRa-amarRa-Baya-uxvega{puM}{3;bahu}	karaNam,11	harRa_amarRa_Baya_Ora_uxvegAxi_se	tiwh_happiness_xiswress_qear_anx_anLiewy	<harRa-<a-marRaH>Wn-Baya-uxvegEH>Xi			
-11	mukwaH	13	0	mukwa{puM}{1;eka}	muc1{kqw_prawyayaH:kwa;mucLz;wuxAxiH;puM}{1;eka}	karwqsamAnAXikaraNam,12.1	rahiwa	qreex				
-12	yaH	11	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,11;niwyasambanXaH,13	jo	tho				
+10	harRa-a-marRa-BayaH-uxvegEH	12	harRAmarRaBayoxvegErmukwo	harRAmarRaBayoxvegEH	harRa-amarRa-Baya-uxvega{puM}{3;bahu}	karaNam,11	harRa_amarRa_Baya_Ora_uxvegAxi_se	with_happiness_distress_fear_and_anxiety	<harRa-<a-marRaH>Tn-Baya-uxvegEH>Di			
+11	mukwaH	13	0	mukwa{puM}{1;eka}	muc1{kqw_prawyayaH:kwa;mucLz;wuxAxiH;puM}{1;eka}	karwqsamAnAXikaraNam,12.1	rahiwa	freed				
+12	yaH	11	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,11;niwyasambanXaH,13	jo	who				
 12.1	(aswi)	14	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				
 13	saH	15	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,16.1	vaha	anyone				
 14	ca	10	ca	ca{avya}	ca{avya}	sambanXaH,13	waWA	also				
 15	me	16	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,16	muJako	Mine				
-16	priyaH	17	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	karwqsamAnAXikaraNam,16.1	priya	very_xear				
-16.1	(aswi)	18	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihikarwA,13;akarmakaH	(hE)	is				
+16	priyaH	17	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	karwqsamAnAXikaraNam,16.1	priya	very_dear				
+16.1	(aswi)	18	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13;akarmakaH	(hE)	is				

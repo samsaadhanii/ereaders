@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	apAne	1		apAna{puM}{7;eka}	apAna{puM}{7;eka}	aXikaraNam,2						
+2	juhvawi	3		(juhvaw{puM}{7;eka}/juhvaw{napuM}{7;eka}/hu1{karwari;lat;pra;bahu;parasmEpaxI;hu;juhowyAxiH})	(hu1{karwari;lat;pra;bahu;parasmEpaxI;hu;juhowyAxiH})	samucciwam,7.1	(havana_karawe_hEM)	offers				
+3	prANaM	2		prANa{puM}{2;eka}	prANa{puM}{2;eka}	karma,2						
+4	prANe	6	prANeZpAnaM	prANa{puM}{7;eka}	prANa{puM}{7;eka}	aXikaraNam,7.1						
+5	apAnaM	7		apAna{puM}{2;eka}	apAna{puM}{2;eka}	karma,7.1						
+6	waWA	4	waWApare	waWA{avya}	waWA{avya}	samuccayaxyowakaH,7.1	vEse_hI	as_also				
+7	apare	5		apara{puM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/apara{napuM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}	apara{puM}{1;bahu}	karwA,2	xUsare_(kiwane_hI_yogIjana)	others				
+7.1	(juhvawi)	8	()	(juhvaw{puM}{7;eka}/juhvaw{napuM}{7;eka}/hu1{karwari;lat;pra;bahu;parasmEpaxI;hu;juhowyAxiH})	(hu1{karwari;lat;pra;bahu;parasmEpaxI;hu;juhowyAxiH})	aBihiwakarwA,7;akarmakaH	(havana_karawe_hEM)	offers				
+8	prANa-apAna-gawI	10	prANApAnagawI	prANa-apAna-gawi{swrI}{1;xvi}/gawi{swrI}{2;xvi}	prANa-apAna-gawi{swrI}{2;xvi}	karma,9	prANa_Ora_apAna_kI_gawi_ko	movement_of_air_going_outward_and_air_going_downward	<<prANa-apAna>Di-gawI>T6			
+9	ruxXvA	11	ruxXvA	ruX1{kqw_prawyayaH:kwvA;ruXir;ruXAxiH}	ruX1{kqw_prawyayaH:kwvA;ruXizr;ruXAxiH}	pUrvakAlaH,15	rokakara	checking				
+10	prANAyAma-parAyaNAH	12	prANAyAmaparAyaNAH	prANAyAma-parAyaNA{swrI}{1;bahu}/parAyaNA{swrI}{2;bahu}/parAyaNA{swrI}{8;bahu}	prANAyAma-parAyaNa{puM}{1;bahu}	karwqsamAnAXikaraNam,10.2	prANAyAmaparAyaNa_puruRa	so_inclined_in_trance_induced_by_stopping_all_breathing	<prANAyAma-parAyaNAH>Bs6			
+10.1	apare	9		apara{puM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/apara{napuM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}	apara{puM}{1;bahu}	karwA,10.2	xUsare_(kiwane_hI_yogIjana)	others				
+10.2	(wiRTanwi)	13	()	(RWA1{karwari;lat;pra;bahu;parasmEpaxI;RWA;BvAxiH}/wiRTanwI{swrI}{8;eka})	(RWA1{karwari;lat;pra;bahu;parasmEpaxI;RWA;BvAxiH}	aBihiwakarwA,10.1;akarmakaH						

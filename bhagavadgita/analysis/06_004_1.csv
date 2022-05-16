@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,7	jisa_kAla_meM	then				
-2	hi	7	hi	hi{avya}	hi{avya}	sambanXaH,6	hI	cerwainly				
-3	na	2	nenxriyArWeRu	na{avya}	na{avya}	prawiReXaH,4	na	now				
-4	inxriya-arWeRu	3	0	inxriya-arWa{puM}{7;bahu}/arWa{napuM}{7;bahu}	inxriya-arWa{puM}{7;bahu}	supsamucciwam,6	inxriyoM_ke_BogoM_meM	in_sense_grawiqicawion	<inxriya-arWeRu>W6			
+1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,7	jisa_kAla_meM	when				
+2	hi	7	hi	hi{avya}	hi{avya}	sambanXaH,6	hI	certainly				
+3	na	2	nenxriyArWeRu	na{avya}	na{avya}	prawiReXaH,4	na	not				
+4	inxriya-arWeRu	3	0	inxriya-arWa{puM}{7;bahu}/arWa{napuM}{7;bahu}	inxriya-arWa{puM}{7;bahu}	supsamucciwam,6	inxriyoM_ke_BogoM_meM	in_sense_gratification	<inxriya-arWeRu>T6			
 5	na	5	na	na{avya}	na{avya}	prawiReXaH,6	na	never				
-6	karmasu	6	karmasvanuRajjawe	karman{napuM}{7;bahu}	karman{napuM}{7;bahu}	aXikaraNam,7	karmoM_meM	in_qruiwive_acwiviwies				
-6.1	(ca)	4	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,6	(Ora)	also				
-7	anuRajjawe	8	0	anuRajjawe	anu_sasj1{karwari;lat;pra;eka;AwmanepaxI;anu_Rasjaz;BvAxiH}		Asakwa_howA_hE	xoes_necessarily_engage				
-8	sarva-safkalpa-sannyAsI	10	sarvasafkalpasannyAsI	sarva-safkalpa-sannyAsin{puM}{1;eka}	sarva-safkalpa-sannyAsin{puM}{1;eka}	karma,11	sarvasaMkalpoM_kA_wyAgI_puruRa	renouncer_oq_all_mawerial_xesires	<<sarva-safkalpa>K1-sannyAsI>Bs6			
-9	yoga-ArUDaH	11	yogArUDaswaxocyawe	yoga-ArUDa{puM}{1;eka}	yoga-ArUDa{puM}{1;eka}	karmasamAnAXikaraNam,11	yogArUDa़	elevawex_in_yoga	<yoga-ArUDaH>W2			
-10	waxA	9	0	waxA{avya}	waxA{avya}	kAlAXikaraNam,11	usa_kAla_meM	aw_whaw_wime				
-11	ucyawe	12	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,8;sakarmakaH	kahA_jAwA_hE	is_saix_wo_be				
+6	karmasu	6	karmasvanuRajjawe	karman{napuM}{7;bahu}	karman{napuM}{7;bahu}	aXikaraNam,7	karmoM_meM	in_fruitive_activities				
+6.1	(ca)	4	(0)	ca{avya}	ca{avya}	samuccayaxyowakaH,6	(Ora)	also				
+7	anuRajjawe	8	0	anuRajjawe	anu_sasj1{karwari;lat;pra;eka;AwmanepaxI;anu_Rasjaz;BvAxiH}		Asakwa_howA_hE	does_necessarily_engage				
+8	sarva-safkalpa-sannyAsI	10	sarvasafkalpasannyAsI	sarva-safkalpa-sannyAsin{puM}{1;eka}	sarva-safkalpa-sannyAsin{puM}{1;eka}	karma,11	sarvasaMkalpoM_kA_wyAgI_puruRa	renouncer_of_all_material_desires	<<sarva-safkalpa>K1-sannyAsI>Bs6			
+9	yoga-ArUDaH	11	yogArUDaswaxocyawe	yoga-ArUDa{puM}{1;eka}	yoga-ArUDa{puM}{1;eka}	karmasamAnAXikaraNam,11	yogArUDa़	elevated_in_yoga	<yoga-ArUDaH>T2			
+10	waxA	9	0	waxA{avya}	waxA{avya}	kAlAXikaraNam,11	usa_kAla_meM	at_that_time				
+11	ucyawe	12	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,8;sakarmakaH	kahA_jAwA_hE	is_said_to_be				

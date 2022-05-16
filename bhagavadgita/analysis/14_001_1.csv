@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	param	4	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	viSeRaNam,5	parama	wranscenxenwal				
+1	param	4	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	viSeRaNam,5	parama	transcendental				
 2	BUyaH	6	BUyaH	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}	BUyaH{avya}	kriyAviSeRaNam,3	Pira	again				
 3	pravakRyAmi	7	pravakRyAmi	pra_vah1{karwari;lqt;u;eka;uBayapaxI;vahaz;BvAxiH}	pra_vac1{karwari;lqt;u;eka;parasmEpaxI;pra_vacaz;axAxiH}	aBihiwakarwA,6.1;sakarmakaH	kahUzgA	shall_speak				
-4	jFAnAnAm	2	jFAnAnAM	jFAna{napuM}{6;bahu}	jFAna{napuM}{6;bahu}	nirXAraNam,5	jFAnoM_meM_BI	oq_all_knotlexge				
-5	jFAnam	5	jFAnamuwwamam	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,3	jFAna_ko	knotlexge				
-6	uwwamam	3	0	uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	uwwama{napuM}{2;eka}	viSeRaNam,5	awi_uwwama	whe_supreme				
+4	jFAnAnAm	2	jFAnAnAM	jFAna{napuM}{6;bahu}	jFAna{napuM}{6;bahu}	nirXAraNam,5	jFAnoM_meM_BI	of_all_knowledge				
+5	jFAnam	5	jFAnamuwwamam	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,3	jFAna_ko	knowledge				
+6	uwwamam	3	0	uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	uwwama{napuM}{2;eka}	viSeRaNam,5	awi_uwwama	the_supreme				
 6.1	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,3	(mEM)	I				
-7	yaw	8	yaFjFAwvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	karma,8	jisako	thich				
-8	jFAwvA	9	0	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,14	jAnakara	knoting				
-9	munayaH	11	munayaH	muni{puM}{1;bahu}/muni{puM}{8;bahu}	muni{puM}{1;bahu}	karwA,14	munijana	whe_sages				
+7	yaw	8	yaFjFAwvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	karma,8	jisako	which				
+8	jFAwvA	9	0	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,14	jAnakara	knowing				
+9	munayaH	11	munayaH	muni{puM}{1;bahu}/muni{puM}{8;bahu}	muni{puM}{1;bahu}	karwA,14	munijana	the_sages				
 10	sarve	10	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	viSeRaNam,9	saba	all				
-11	parAm	13	parAM	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	viSeRaNam,12	parama	wranscenxenwal				
-12	sixXim	14	sixXimiwo	sixXi{swrI}{2;eka}	sixXi{swrI}{2;eka}	karma,14	sixXi_ko	perqecwion				
-13	iwaH	12	0	iwaH{avya}/iwa{puM}{1;eka}/i1{karwari;lat;pra;xvi;parasmEpaxI;iN;axAxiH}	iwaH{avya}	apAxAnam,14	yahAz_se	qrom_whis_torlx				
-14	gawAH	15	gawAH	gawa{puM}{1;bahu}/gawa{puM}{8;bahu}/gawA{swrI}{1;bahu}/gawA{swrI}{2;bahu}/gawA{swrI}{8;bahu}/gawA{swrI}{1;bahu}/gawA{swrI}{2;bahu}/gawA{swrI}{8;bahu}	gam1{kqw_prawyayaH:kwa;gamLz;BvAxiH}	aBihiwakarwA,9;sakarmakaH	prApwa_ho_gaye_hEM	awwainex				
+11	parAm	13	parAM	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	viSeRaNam,12	parama	transcendental				
+12	sixXim	14	sixXimiwo	sixXi{swrI}{2;eka}	sixXi{swrI}{2;eka}	karma,14	sixXi_ko	perfection				
+13	iwaH	12	0	iwaH{avya}/iwa{puM}{1;eka}/i1{karwari;lat;pra;xvi;parasmEpaxI;iN;axAxiH}	iwaH{avya}	apAxAnam,14	yahAz_se	from_this_world				
+14	gawAH	15	gawAH	gawa{puM}{1;bahu}/gawa{puM}{8;bahu}/gawA{swrI}{1;bahu}/gawA{swrI}{2;bahu}/gawA{swrI}{8;bahu}/gawA{swrI}{1;bahu}/gawA{swrI}{2;bahu}/gawA{swrI}{8;bahu}	gam1{kqw_prawyayaH:kwa;gamLz;BvAxiH}	aBihiwakarwA,9;sakarmakaH	prApwa_ho_gaye_hEM	attained				

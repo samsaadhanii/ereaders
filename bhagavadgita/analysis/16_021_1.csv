@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wri-viXam	6	wriviXaM	wriviXa{puM}{2;eka}/wriviXa{napuM}{1;eka}/wriviXa{napuM}{2;eka}	wriviXa{napuM}{1;eka}	viSeRaNam,4	wIna_prakAra_ke	three_kinds_of	<wri-viXaM>Bs6			
+2	narakasya	7	narakasyexaM	naraka{puM}{6;eka}/naraka{napuM}{6;eka}	naraka{puM}{6;eka}	RaRTIsambanXaH,4	naraka_ke	hellish				
+3	ixam	5	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,4	ye	this				
+4	xvAram	8	xvAraM	xvAr{swrI}{2;eka}/xvAra{napuM}{1;eka}/xvAra{napuM}{2;eka}	xvAra{napuM}{1;eka}	karwA,10.1	xvAra	gate				
+5	nASanam	10	nASanamAwmanaH	nASana{puM}{2;eka}/nASana{napuM}{1;eka}/nASana{napuM}{2;eka}	nASana{napuM}{1;eka}	karwqsamAnAXikaraNam,10.1	nASa_karanevAle	destructive				
+6	AwmanaH	9	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	karwA,5	AwmA_kA	of_the_self				
+7	kAmaH	1	kAmaH	kAma{puM}{1;eka}	kAma{puM}{1;eka}	GatakaH,4	kAma	lust				
+8	kroXaH	2	kroXaswaWA	kroXa{puM}{1;eka}	kroXa{puM}{1;eka}	GatakaH,4	kroXa	anger				
+9	waWA	3	0	waWA{avya}	waWA{avya}	samuccayaxyowakaH,10	waWA	as_well_as				
+10	loBaH	4	loBaswasmAxewawwrayaM	loBa{puM}{1;eka}	loBa{puM}{1;eka}	GatakaH,4	loBa	greed				
+10.1	(Bavawi)	11	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})		(hEM)	becomes				
+11	wasmAw	12	0	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wasmAw{avya}	hewuH,13	awaeva	therefore				
+12	ewaw	13	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,12	ina	these				
+13	wrayam	14	0	wraya{puM}{2;eka}/wraya{napuM}{1;eka}/wraya{napuM}{2;eka}	wraya{napuM}{2;eka}	karma,13	wInoM_ko	three				
+14	wyajew	15	wyajew	wyaj1{karwari;viXilif;pra;eka;parasmEpaxI;wyajaz;BvAxiH}	wyaj1{karwari;viXilif;pra;eka;parasmEpaxI;wyajaz;BvAxiH}		wyAga_xenA_cAhiye	must_give_up				

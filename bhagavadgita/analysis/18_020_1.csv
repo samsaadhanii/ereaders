@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sarva-BUweRu	3	sarvaBUweRu	sarvaBUwa{puM}{7;bahu}/sarvaBUwa{napuM}{7;bahu}	sarva-BUwa{napuM}{7;bahu}	aXikaraNam,6	saba_BUwoM_meM	in_all_living_enwiwies	<sarva-BUweRu>K1			
-2	yena	1	yenEkaM	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	karaNam,6	jisase	by_thom				
+1	sarva-BUweRu	3	sarvaBUweRu	sarvaBUwa{puM}{7;bahu}/sarvaBUwa{napuM}{7;bahu}	sarva-BUwa{napuM}{7;bahu}	aXikaraNam,6	saba_BUwoM_meM	in_all_living_entities	<sarva-BUweRu>K1			
+2	yena	1	yenEkaM	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	karaNam,6	jisase	by_whom				
 3	ekam	4	0	eka{puM}{2;eka}/eka{napuM}{1;eka}/eka{napuM}{2;eka}	eka{puM}{2;eka}	viSeRaNam,4	eka	one				
-4	BAvam	6	BAvamavyayamIkRawe	BAva{puM}{2;eka}	BAva{puM}{2;eka}	karma,6	paramAwmaBAva_ko	siwuawion				
+4	BAvam	6	BAvamavyayamIkRawe	BAva{puM}{2;eka}	BAva{puM}{2;eka}	karma,6	paramAwmaBAva_ko	situation				
 5	a-vyayam	5	0	avyaya{puM}{2;eka}/vye1{karwari;laf;u;eka;parasmEpaxI;vyeF;BvAxiH}/vyay1{karwari;laf;u;eka;parasmEpaxI;vyayaz;BvAxiH}	avyaya{puM}{2;eka}	viSeRaNam,4	avinASI	imperishable	<na-vyayam>Bsmn			
-6	IkRawe	9	0	IkRawA{swrI}{1;xvi}/IkRawA{swrI}{2;xvi}/IkR1{karwari;lat;pra;eka;AwmanepaxI;IkRaz;BvAxiH}	IkR1{karwari;lat;pra;eka;AwmanepaxI;IkRaz;BvAxiH}	aBihiwa_karwA,8.1	xeKawA_hE	xoes_see				
-7	a-viBakwam	7	aviBakwaM	aviBakwa{puM}{2;eka}/aviBakwa{napuM}{1;eka}/aviBakwa{napuM}{2;eka}	na-vi_Baj1{kqw_prawyayaH:kwa;vi_Bajaz;BvAxiH;napuM}{2;eka}	karmasamAnAXikaraNam,6	viBAgarahiwa	unxivixex	<na-viBakwaM>Wn			
-8	viBakweRu	2	viBakweRu	viBakwa{puM}{7;bahu}/viBakwa{napuM}{7;bahu}	vi_Baj1{kqw_prawyayaH:kwa;vi_Bajaz;BvAxiH;puM}{7;bahu}	viSeRaNam,1	pqWak-pqWak	in_whe_numberless_xivixex				
+6	IkRawe	9	0	IkRawA{swrI}{1;xvi}/IkRawA{swrI}{2;xvi}/IkR1{karwari;lat;pra;eka;AwmanepaxI;IkRaz;BvAxiH}	IkR1{karwari;lat;pra;eka;AwmanepaxI;IkRaz;BvAxiH}	aBihiwa_karwA,8.1	xeKawA_hE	does_see				
+7	a-viBakwam	7	aviBakwaM	aviBakwa{puM}{2;eka}/aviBakwa{napuM}{1;eka}/aviBakwa{napuM}{2;eka}	na-vi_Baj1{kqw_prawyayaH:kwa;vi_Bajaz;BvAxiH;napuM}{2;eka}	karmasamAnAXikaraNam,6	viBAgarahiwa	undivided	<na-viBakwaM>Tn			
+8	viBakweRu	2	viBakweRu	viBakwa{puM}{7;bahu}/viBakwa{napuM}{7;bahu}	vi_Baj1{kqw_prawyayaH:kwa;vi_Bajaz;BvAxiH;puM}{7;bahu}	viSeRaNam,1	pqWak-pqWak	in_the_numberless_divided				
 8.1	(manuRyaH)	8	()	manuRya{puM}{1;eka}	manuRya{puM}{1;eka}	karwA,6						
-9	waw	11	wajjFAnaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,10	usa	whaw				
-10	jFAnam	12	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,11	jFAna_ko	knotlexge				
-11	vixXi	14	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,12.1;sakarmakaH	jAna	knot				
-12	sAwwvikam	13	sAwwvikam	sAwwvika{puM}{2;eka}	sAwwvika{napuM}{2;eka}	karmasamAnAXikaraNam,11	sAwwvika	in_whe_moxe_oq_gooxness				
+9	waw	11	wajjFAnaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,10	usa	that				
+10	jFAnam	12	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,11	jFAna_ko	knowledge				
+11	vixXi	14	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,12.1;sakarmakaH	jAna	know				
+12	sAwwvikam	13	sAwwvikam	sAwwvika{puM}{2;eka}	sAwwvika{napuM}{2;eka}	karmasamAnAXikaraNam,11	sAwwvika	in_the_mode_of_goodness				
 12.1	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wU)	you				

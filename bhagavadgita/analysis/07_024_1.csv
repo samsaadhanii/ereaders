@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-vyakwam	8	avyakwaM	a-vyakwa{puM}{2;eka}/vyakwa{napuM}{1;eka}/vyakwa{napuM}{2;eka}	avyakwa{puM}{2;eka}	viSeRaNam,5	mana-inxriyoM_se_pare	nonmaniqeswex	<na-vyakwaM>Bsmn			
-2	vyakwim	10	vyakwimApannaM	vyakwi{swrI}{2;eka}	vyakwi{swrI}{2;eka}	karma,3	vyakwi-BAva_ko	personaliwy				
-3	Apannam	11	0	Apanna{puM}{2;eka}/Apanna{napuM}{1;eka}/Apanna{napuM}{2;eka}	A_paw2{kqw_prawyayaH:kwa;jFA;xIvAxi;puM}{2;eka}	karmasamAnAXikaraNam,4	prApwa_huA	achievex				
-4	manyanwe	12	manyanwe	man1{karmaNi;lat;pra;bahu;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;bahu;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;pra;bahu;AwmanepaxI;manaz;xivAxiH}	aBihiwa_karwA,6	mAnawe_hEM	whink				
-5	mAm	9	mAmabuxXayaH	asmax{2;eka}	asmax{2;eka}	karma,4	muJa_saccixAnanxaGana_paramAwmA_ko	unwo_Me				
-6	a-buxXayaH	1	0	a-buxXi{swrI}{1;bahu}/buxXi{swrI}{8;bahu}	na-buxXi{swrI}{1;bahu}	karwA,4	buxXihIna_puruRa	less_inwelligenw_persons	<na-buxXayaH>Bsmn			
+1	a-vyakwam	8	avyakwaM	a-vyakwa{puM}{2;eka}/vyakwa{napuM}{1;eka}/vyakwa{napuM}{2;eka}	avyakwa{puM}{2;eka}	viSeRaNam,5	mana-inxriyoM_se_pare	nonmanifested	<na-vyakwaM>Bsmn			
+2	vyakwim	10	vyakwimApannaM	vyakwi{swrI}{2;eka}	vyakwi{swrI}{2;eka}	karma,3	vyakwi-BAva_ko	personality				
+3	Apannam	11	0	Apanna{puM}{2;eka}/Apanna{napuM}{1;eka}/Apanna{napuM}{2;eka}	A_paw2{kqw_prawyayaH:kwa;jFA;xIvAxi;puM}{2;eka}	karmasamAnAXikaraNam,4	prApwa_huA	achieved				
+4	manyanwe	12	manyanwe	man1{karmaNi;lat;pra;bahu;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;bahu;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;pra;bahu;AwmanepaxI;manaz;xivAxiH}	aBihiwa_karwA,6;sakarmakaH	mAnawe_hEM	think				
+5	mAm	9	mAmabuxXayaH	asmax{2;eka}	asmax{2;eka}	karma,4	muJa_saccixAnanxaGana_paramAwmA_ko	unto_Me				
+6	a-buxXayaH	1	0	a-buxXi{swrI}{1;bahu}/buxXi{swrI}{8;bahu}	na-buxXi{swrI}{1;bahu}	karwA,4	buxXihIna_puruRa	less_intelligent_persons	<na-buxXayaH>Bsmn			
 7	param	5	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{puM}{2;eka}	viSeRaNam,8	parama	supreme				
-8	BAvam	6	BAvamajAnanwo	BAva{puM}{2;eka}	BAva{puM}{2;eka}	karma,9	BAva_ko	swawe_oq_being				
-9	a-jAnanwaH	7	0	a-jAnanwaH	na-jFA2{kqw_prawyayaH:Sawq;jFA;kryAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,4	na_jAnawe_hue	tiwhouw_knoting	<na-jAnanwaH>Wn			
+8	BAvam	6	BAvamajAnanwo	BAva{puM}{2;eka}	BAva{puM}{2;eka}	karma,9	BAva_ko	state_of_being				
+9	a-jAnanwaH	7	0	a-jAnanwaH	na-jFA2{kqw_prawyayaH:Sawq;jFA;kryAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,4	na_jAnawe_hue	without_knowing	<na-jAnanwaH>Tn			
 10	mama	2	mamAvyayamanuwwamam	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,8	mere	my				
 11	a-vyayam	4	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	avyaya{puM}{2;eka}	viSeRaNam,8	avinASI	imperishable	<na-vyayam>Bsmn			
-12	an-uwwamam	3	0	an-{avya}-uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	anuwwama{puM}{2;eka}	viSeRaNam,8	anuwwama	whe_qinesw	<na-uwwamam>Bsmn			
+12	an-uwwamam	3	0	an-{avya}-uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	anuwwama{puM}{2;eka}	viSeRaNam,8	anuwwama	the_finest	<na-uwwamam>Bsmn			

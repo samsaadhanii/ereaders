@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaH	1	yoZnwaHsuKoZnwarArAmaswaWAnwarjyowireva	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,4.1;niwyasambanXaH,8	jo_(puruRa)	one_tho				
-2	anwar-suKaH	3	0	anwaH-suKa{puM}{1;eka}	anwar-suKa{puM}{1;eka}	supsamucciwam,3	anwarAwmA_meM_hI_suKavAlA_hE	happy_qrom_tiwhin	<anwar-suKaH>Bs6			
-3	anwar-ArAmaH	4	0	anwara-ArAma{puM}{1;eka}	anwar-ArAma{puM}{1;eka}	karwqsamAnAXikaraNam,4.1	AwmA_meM_hI_ramaNa_karanevAlA_hE	acwive_tiwhin	<anwar-ArAmaH>Bs6			
-4	waWA	5	0	waWA{avya}	waWA{avya}	samuccayaxyowakaH,3	waWA	as_tell_as				
+1	yaH	1	yoZnwaHsuKoZnwarArAmaswaWAnwarjyowireva	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,4.1;niwyasambanXaH,8	jo_(puruRa)	one_who				
+2	anwar-suKaH	3	0	anwaH-suKa{puM}{1;eka}	anwar-suKa{puM}{1;eka}	supsamucciwam,3	anwarAwmA_meM_hI_suKavAlA_hE	happy_from_within	<anwar-suKaH>Bs6			
+3	anwar-ArAmaH	4	0	anwara-ArAma{puM}{1;eka}	anwar-ArAma{puM}{1;eka}	karwqsamAnAXikaraNam,4.1	AwmA_meM_hI_ramaNa_karanevAlA_hE	active_within	<anwar-ArAmaH>Bs6			
+4	waWA	5	0	waWA{avya}	waWA{avya}	samuccayaxyowakaH,3	waWA	as_well_as				
 4.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,1;akarmakaH	(hE)	is				
-5	anwar-jyowiH	8	0	anwa-rjyowiH	anwar-jyowi{puM}{1;eka}	karwqsamAnAXikaraNam,7.1	AwmA_meM_hI_jFAnavAlA	aiming_tiwhin	<anwar-jyowiH>Bs6			
-6	eva	2	0	eva{avya}	eva{avya}	sambanXaH,5	niScaya_karake	cerwainly				
+5	anwar-jyowiH	8	0	anwa-rjyowiH	anwar-jyowi{puM}{1;eka}	karwqsamAnAXikaraNam,7.1	AwmA_meM_hI_jFAnavAlA	aiming_within	<anwar-jyowiH>Bs6			
+6	eva	2	0	eva{avya}	eva{avya}	sambanXaH,5	niScaya_karake	certainly				
 7	yaH	6	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,7.1;niwyasambanXaH,8	jo	anyone				
 7.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,7;akarmakaH	(hE)	is				
 8	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,9	vaha	he				
-9	yogI	12	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karwA,12	sAMKyayogI	myswic				
-10	brahma-nirvANam	13	brahmanirvANam	brahman-nirvANam	brahma-nirvANa{napuM}{2;eka}	karma,12	SAnwa_parabrahma_ko	liberawex_in_whe_Supreme	<brahma-nirvANam>W7			
-11	brahma-BUwaH	11	brahmaBUwoZXigacCawi	brahman-BUwa{puM}{1;eka}	brahman-BUwa{puM}{1;eka}	viSeRaNam,9	saccixAnanxaGana_parabrahma_paramAwmA_ke_sAWa_ekIBAva_ko_prApwa	selq-realiRex	<brahma-BUwaH>W7			
-12	aXigacCawi	14	0	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}	aBihiwakarwA,9;sakarmakaH	prApwa_howA_hE	awwains				
+9	yogI	12	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karwA,12	sAMKyayogI	mystic				
+10	brahma-nirvANam	13	brahmanirvANam	brahman-nirvANam	brahma-nirvANa{napuM}{2;eka}	karma,12	SAnwa_parabrahma_ko	liberated_in_the_Supreme	<brahma-nirvANam>T7			
+11	brahma-BUwaH	11	brahmaBUwoZXigacCawi	brahman-BUwa{puM}{1;eka}	brahman-BUwa{puM}{1;eka}	viSeRaNam,9	saccixAnanxaGana_parabrahma_paramAwmA_ke_sAWa_ekIBAva_ko_prApwa	self-realized	<brahma-BUwaH>T7			
+12	aXigacCawi	14	0	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}	aBihiwakarwA,9;sakarmakaH	prApwa_howA_hE	attains				

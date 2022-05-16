@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	yaH	1	ya	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,6;niwyasambanXaH,11	jo_(puruRa)	anyone				
-2	imam	6	imaM	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,4	isa	whis				
-3	paramam	7	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{2;eka}	viSeRaNam,4	parama	mosw				
-4	guhyam	8	guhyaM	guhya{puM}{2;eka}/guhya{napuM}{1;eka}/guhya{napuM}{2;eka}	guhya{napuM}{2;eka}	karma,6	rahasyayukwa_gIwASAswra_ko	conqixenwial				
-5	max-BakweRu	9	maxBakweRvaBiXAsyawi	maxBakwa{puM}{7;bahu}/maxBakwa{napuM}{7;bahu}	asmax-Bakwa{puM}{7;bahu}	aXikaraNam,6	mere_BakwoM_meM	amongsw_my_xevowees_oq	<asmaw-BakweRu>W7			
-6	aBiXAsyawi	10	0	aBi_XA1{karwari;lqt;pra;eka;uBayapaxI;duXAF;juhowyAxiH}	aBi_XA1{karwari;lqt;pra;eka;parasmEpaxI;aBi_duXAF;juhowyAxiH}	aBihiwakarwA,1;sakarmakaH	kahegA	eLplains				
-7	Bakwim	4	BakwiM	Bakwi{swrI}{2;eka}	Bakwi{swrI}{2;eka}	karma,10	prema	xevowional_service				
-8	mayi	2	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,10	muJameM	unwo_Me				
-9	parAm	3	parAM	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	viSeRaNam,7	parama	wranscenxenwal				
-10	kqwvA	5	kqwvA	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,6	karake	having_xone				
-11	mAm	12	mAmevERyawyasaMSayaH	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	unwo_Me				
-12	eva	13	0	eva{avya}	eva{avya}	sambanXaH,10	hI	cerwainly				
+2	imam	6	imaM	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,4	isa	this				
+3	paramam	7	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{2;eka}	viSeRaNam,4	parama	most				
+4	guhyam	8	guhyaM	guhya{puM}{2;eka}/guhya{napuM}{1;eka}/guhya{napuM}{2;eka}	guhya{napuM}{2;eka}	karma,6	rahasyayukwa_gIwASAswra_ko	confidential				
+5	max-BakweRu	9	maxBakweRvaBiXAsyawi	maxBakwa{puM}{7;bahu}/maxBakwa{napuM}{7;bahu}	asmax-Bakwa{puM}{7;bahu}	aXikaraNam,6	mere_BakwoM_meM	amongst_my_devotees_of	<asmaw-BakweRu>T7			
+6	aBiXAsyawi	10	0	aBi_XA1{karwari;lqt;pra;eka;uBayapaxI;duXAF;juhowyAxiH}	aBi_XA1{karwari;lqt;pra;eka;parasmEpaxI;aBi_duXAF;juhowyAxiH}	aBihiwakarwA,1;sakarmakaH	kahegA	explains				
+7	Bakwim	4	BakwiM	Bakwi{swrI}{2;eka}	Bakwi{swrI}{2;eka}	karma,10	prema	devotional_service				
+8	mayi	2	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,10	muJameM	unto_Me				
+9	parAm	3	parAM	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	viSeRaNam,7	parama	transcendental				
+10	kqwvA	5	kqwvA	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,6	karake	having_done				
+11	mAm	12	mAmevERyawyasaMSayaH	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	unto_Me				
+12	eva	13	0	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
 13	eRyawi	14	0	i1{karwari;lqt;pra;eka;parasmEpaxI;iN;axAxiH}	i1{karwari;lqt;pra;eka;parasmEpaxI;iN;axAxiH}	aBihiwakarwA,13.1;sakarmakaH	prApwa_hogA	comes				
-13.1	(saH)(i+)	11	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,13	(vaha)	he				
-14	a-saMSayaH	16	0	asaMSaya{puM}{1;eka}	na-saMSaya{puM}{1;eka}	karwA,14.2	koI_saMxeha_nahIM	tiwhouw_xoubw	<na-saMSayaH>Wn			
-14.1	(awra)	15	(0)	(awra{avya})	(awra{avya})	aXikaraNam,14	(isameM)	here				
+13.1	(saH)	11	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,13	(vaha)	he				
+14	a-saMSayaH	16	0	asaMSaya{puM}{1;eka}	na-saMSaya{puM}{1;eka}	karwA,14.2	koI_saMxeha_nahIM	without_doubt	<na-saMSayaH>Tn			
+14.1	(awra)	15	(0)	(awra{avya})	(awra{avya})	aXikaraNam,14.2	(isameM)	here				
 14.2	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,14;akarmakaH	(hE)	is				

@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-vyakwa-AxIni	3	avyakwAxIni	avyakwa-Axi{napuM}{1;bahu}/Axi{napuM}{2;bahu}	avyakwa-Axin{napuM}{1;bahu}	sup_samucciwam,5	janma_se_pahale_aprakata_We	in_whe_beginning_unmaniqeswex	<<na-vyakwa>Wn-AxIni>Bs6			
+1	a-vyakwa-AxIni	3	avyakwAxIni	avyakwa-Axi{napuM}{1;bahu}/Axi{napuM}{2;bahu}	avyakwa-Axin{napuM}{1;bahu}	sup_samucciwam,5	janma_se_pahale_aprakata_We	in_the_beginning_unmanifested	<<na-vyakwa>Tn-AxIni>Bs6			
 2	BUwAni	2	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{1;bahu}	karwA,9	sampUrNa_prANI	all_beings				
-3	vyakwa-maXyAni	4	vyakwamaXyAni	vyakwa-maXya{napuM}{1;bahu}/maXya{napuM}{2;bahu}	vyakwa-maXya{napuM}{1;bahu}	sup_samucciwam,5	bIca_meM_hI_prakata_hEM	maniqeswex_in_whe_inwerim_bewteen_birwh_anx_xeawh	<vyakwa-maXyAni>Bs6			
-4	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,9	he_arjuna	O_xescenxanw_oq_Bharawa				
-5	a-vyakwa-niXanAni	5	avyakwaniXanAnyeva	avyakwa-niXana{napuM}{1;bahu}/niXana{napuM}{2;bahu}	avyakwa-niXana{napuM}{1;bahu}	karwqsamAnAXikaraNam,6.1	marane_ke_bAxa_BI_aprakata_ho_jAnevAle	all_whaw_are_vanduishex_anx_became_unmaniqeswex	<na-<vyakwa-niXanAni>Xs>Bsmn			
-5.1	(ca)	6	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,5	(Ora)	anx				
-6	eva	7	0	eva{avya}	eva{avya}	sambanXaH,5	hI	anx				
+3	vyakwa-maXyAni	4	vyakwamaXyAni	vyakwa-maXya{napuM}{1;bahu}/maXya{napuM}{2;bahu}	vyakwa-maXya{napuM}{1;bahu}	sup_samucciwam,5	bIca_meM_hI_prakata_hEM	manifested_in_the_interim_between_birth_and_death	<vyakwa-maXyAni>Bs6			
+4	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,9	he_arjuna	O_descendant_of_Bharata				
+5	a-vyakwa-niXanAni	5	avyakwaniXanAnyeva	avyakwa-niXana{napuM}{1;bahu}/niXana{napuM}{2;bahu}	avyakwa-niXana{napuM}{1;bahu}	karwqsamAnAXikaraNam,6.1	marane_ke_bAxa_BI_aprakata_ho_jAnevAle	all_that_are_vanquished_and_became_unmanifested	<na-<vyakwa-niXanAni>Ds>Bsmn			
+5.1	(ca)	6	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,5	(Ora)	and				
+6	eva	7	0	eva{avya}	eva{avya}	sambanXaH,5	hI	and				
 6.1	(sanwi)	8	()	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH}	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,2;akarmakaH						
-7	wawra	9	wawra	wawra{avya}	wawra{avya}	aXikaraNam,9.1	vahAz_(EsI_sWiwi_meM)	whereqore				
-8	kA	10	kA	kim{swrI}{1;eka}	kim{swrI}{1;eka}	sambanXaH,9.1	kyA	thaw_occasion				
-9	parixevanA	11	parixevanA	parixevanA{swrI}{1;eka}	pari_xiv1{kqw_prawyayaH:lyut;pari_xivuz;xivAxiH;swrI}{1;eka}	karwA,9.1	Soka_karanA	qor_lamenwawion				
+7	wawra	9	wawra	wawra{avya}	wawra{avya}	aXikaraNam,9.1	vahAz_(EsI_sWiwi_meM)	therefore				
+8	kA	10	kA	kim{swrI}{1;eka}	kim{swrI}{1;eka}	sambanXaH,9.1	kyA	what_occasion				
+9	parixevanA	11	parixevanA	parixevanA{swrI}{1;eka}	pari_xiv1{kqw_prawyayaH:lyut;pari_xivuz;xivAxiH;swrI}{1;eka}	karwA,9.1	Soka_karanA	for_lamentation				
 9.1	(aswi)	12	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,9;akarmakaH						

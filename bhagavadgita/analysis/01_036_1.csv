@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	nihawya	3	nihawya	ni_han1{kqw_prawyayaH:lyap;hanaz;axAxiH}	ni_han1{kqw_prawyayaH:lyap;ni_hanaz;axAxiH}	pUrvakAlaH,6	mArakara	slaying				
-2	XArwarARtrAn	2	XArwarARtrAnnaH	XArwarARtra{puM}{2;bahu}	XArwarARtra{puM}{2;bahu}	karma,1	XqwarARtra_ke_puwroM_ko	whe_sons_oq_Xhrwaraswra				
-3	naH	4	0	nas{swrI}{1;eka}/asmax{2;bahu}/asmax{4;bahu}/asmax{6;bahu}	asmax{6;bahu}	RaRTIsambanXaH,5	hameM	qor_us				
-4	kA	5	kA	kim{swrI}{1;eka}	kim{swrI}{1;eka}	viSeRaNam,5	kyA	thaw				
+2	XArwarARtrAn	2	XArwarARtrAnnaH	XArwarARtra{puM}{2;bahu}	XArwarARtra{puM}{2;bahu}	karma,1	XqwarARtra_ke_puwroM_ko	the_sons_of_Dhrtarastra				
+3	naH	4	0	nas{swrI}{1;eka}/asmax{2;bahu}/asmax{4;bahu}/asmax{6;bahu}	asmax{6;bahu}	RaRTIsambanXaH,5	hameM	for_us				
+4	kA	5	kA	kim{swrI}{1;eka}	kim{swrI}{1;eka}	viSeRaNam,5	kyA	what				
 5	prIwiH	6	prIwiH	prIwi{swrI}{1;eka}	prIwi{swrI}{1;eka}	karwA,6	prasannawA	happiness				
-6	syAw	7	syAjjanArxana	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,5	hogI	till_where_be				
-7	janArxana	1	0	janArxana{puM}{8;eka}	janArxana{puM}{8;eka}	samboXyaH,6	he_janArxana	O_mainwainer_oq_all_living_enwiwies				
+6	syAw	7	syAjjanArxana	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,5	hogI	will_there_be				
+7	janArxana	1	0	janArxana{puM}{8;eka}	janArxana{puM}{8;eka}	samboXyaH,6	he_janArxana	O_maintainer_of_all_living_entities				
 8	pApam	12	pApamevASrayexasmAnhawvEwAnAwawAyinaH	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{1;eka}	karwA,10	pApa	sin				
 9	eva	13	0	eva{avya}	eva{avya}	sambanXaH,8	hI	surely				
 10	ASrayew	14	0	ASrayew	Af_Sri1{karwari;viXilif;pra;eka;parasmEpaxI;Af_SriF;BvAxiH}	aBihiwakarwA,8	lagegA	accrue				
 11	asmAn	11	0	asmaw{puM}{1;eka}/asmax{2;bahu}	asmax{2;bahu}	karma,10	hameM	us				
 12	hawvA	10	0	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	pUrvakAlaH,10	mArakara	by_killing				
-13	ewAn	8	0	ewax{puM}{2;bahu}	ewax{puM}{2;bahu}	viSeRaNam,14	ina	all_whese				
-14	AwawAyinaH	9	0	AwawAyin{puM}{1;bahu}/AwawAyin{puM}{2;bahu}/AwawAyin{puM}{5;eka}/AwawAyin{puM}{6;eka}/AwawAyin{napuM}{5;eka}/AwawAyin{napuM}{6;eka}	AwawAyin{puM}{2;bahu}	karma,12	AwawAyiyoM_ko	xesperaxoes				
+13	ewAn	8	0	ewax{puM}{2;bahu}	ewax{puM}{2;bahu}	viSeRaNam,14	ina	all_these				
+14	AwawAyinaH	9	0	AwawAyin{puM}{1;bahu}/AwawAyin{puM}{2;bahu}/AwawAyin{puM}{5;eka}/AwawAyin{puM}{6;eka}/AwawAyin{napuM}{5;eka}/AwawAyin{napuM}{6;eka}	AwawAyin{puM}{2;bahu}	karma,12	AwawAyiyoM_ko	desperadoes				

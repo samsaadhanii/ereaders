@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	yaH	1	ya	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,3;niwyasambanXaH,13	jo	anyone				
-2	evam	2	evaM	evam{avya}	evam{avya}	sambanXaH,3	isa_prakAra	whus				
-3	vewwi	8	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,1;sakarmakaH	wawwva_se_jAnawA_hE	unxerswanxs				
-4	puruRam	3	puruRaM	puruRa{puM}{2;eka}	puruRa{puM}{2;eka}	supsamucciwam,6	puruRa_ko	whe_living_enwiwy				
-5	prakqwim	7	prakqwiM	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	karma,3	prakqwi_ko	mawerial_nawure				
-6	ca	4	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,5	Ora	anx				
-7	guNEH	5	guNEH	guNa{puM}{3;bahu}	guNa{puM}{3;bahu}	upa_saha,8	guNoM_ke	moxes_oq_mawerial_nawure				
-8	saha	6	saha	saha{avya}/saha{puM}{8;eka}	saha{avya}	sahArWaH,6	sahiwa	tiwh				
+2	evam	2	evaM	evam{avya}	evam{avya}	sambanXaH,3	isa_prakAra	thus				
+3	vewwi	8	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,1;sakarmakaH	wawwva_se_jAnawA_hE	understands				
+4	puruRam	3	puruRaM	puruRa{puM}{2;eka}	puruRa{puM}{2;eka}	supsamucciwam,6	puruRa_ko	the_living_entity				
+5	prakqwim	7	prakqwiM	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	karma,3	prakqwi_ko	material_nature				
+6	ca	4	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,5	Ora	and				
+7	guNEH	5	guNEH	guNa{puM}{3;bahu}	guNa{puM}{3;bahu}	upa_saha,8	guNoM_ke	modes_of_material_nature				
+8	saha	6	saha	saha{avya}/saha{puM}{8;eka}	saha{avya}	sahArWaH,6	sahiwa	with				
 9	sarvaWA	10	sarvaWA	sarvaWA{avya}	sarvaWA{avya}	kriyAviSeRaNam,15	saba_prakAra_se	by_all_means				
-10	varwamAnaH	11	varwamAnoZpi	varwamAna{puM}{1;eka}	varwamAna{puM}{1;eka}	viSeRaNam,13	karwavya_karma_karawA_huA	siwuawex				
-11	api	12	0	api{avya}	api{avya}	sambanXaH,10	BI	in_spiwe_oq				
+10	varwamAnaH	11	varwamAnoZpi	varwamAna{puM}{1;eka}	varwamAna{puM}{1;eka}	viSeRaNam,13	karwavya_karma_karawA_huA	situated				
+11	api	12	0	api{avya}	api{avya}	sambanXaH,10	BI	in_spite_of				
 12	na	14	na	na{avya}	na{avya}	prawiReXaH,15	nahIM	never				
 13	saH	9	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,15	vaha	he				
 14	BUyaH	13	BUyoZBijAyawe	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,15	Pira	again				
-15	aBijAyawe	15	0	aBi_jan3{karwari;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}/aBi_jan3{BAve;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}	aBi_jan3{karwari;lat;pra;eka;AwmanepaxI;aBi_janIz;xivAxiH}	aBihiwakarwA,13;akarmakaH	janmawA	wakes_his_birwh				
+15	aBijAyawe	15	0	aBi_jan3{karwari;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}/aBi_jan3{BAve;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}	aBi_jan3{karwari;lat;pra;eka;AwmanepaxI;aBi_janIz;xivAxiH}	aBihiwakarwA,13;akarmakaH	janmawA	takes_his_birth				

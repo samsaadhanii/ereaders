@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	evam	1	evaM	evam{avya}	evam{avya}	sambanXaH,4	isa_prakAra	whus				
-2	bahu-viXAH	2	bahuviXA	bahuviXa{puM}{1;bahu}/bahuviXa{puM}{8;bahu}/bahuviXA{swrI}{1;bahu}/bahuviXA{swrI}{2;bahu}/bahuviXA{swrI}{8;bahu}	bahuviXa{puM}{1;bahu}	viSeRaNam,3	bahuwa_waraha_ke	various_kinxs_oq	<bahu-viXAH>Bs6			
-3	yajFAH	3	yajFA	yajFa{puM}{1;bahu}/yajFa{puM}{8;bahu}	yajFa{puM}{1;bahu}	karwA,4	yajFa	sacriqices				
-4	viwawAH	6	viwawA	viwawa{puM}{1;bahu}/viwawa{puM}{8;bahu}/viwawA{swrI}{1;bahu}/viwawA{swrI}{2;bahu}/viwawA{swrI}{8;bahu}	wan1{kqw_prawyayaH:kwa;wanuz;wanAxiH;puM}{1;bahu}		viswAra_se_kahe_gaye_hEM	tixespreax				
-5	brahmaNaH	4	brahmaNo	brahman{puM}{2;bahu}/brahman{puM}{5;eka}/brahman{puM}{6;eka}/brahman{napuM}{5;eka}/brahman{napuM}{6;eka}	brahman{napuM}{6;eka}	RaRTIsambanXaH,6	vexa_kI	oq_whe_Vexas				
-6	muKe	5	muKe	muKa{puM}{7;eka}/muKa{napuM}{1;xvi}/muKa{napuM}{2;xvi}/muKa{napuM}{7;eka}/muKa{napuM}{8;xvi}	muKa{napuM}{7;eka}	aXikaraNam,4	vANI_meM	in_whe_qace_oq				
-7	karma-jAn	10	karmajAnvixXi	karmaja{puM}{2;bahu}	karmaja{puM}{2;bahu}	karmasamAnAXikaraNam,8	mana_inxriya_Ora_SarIra_kI_kriyA_xvArA_sampanna_honevAle	born_oq_tork	<karma-jAn>U			
-8	vixXi	11		vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,10.1;sakarmakaH	jAna	shoulx_knot				
-9	wAn	8	wAnsarvAnevaM	wax{puM}{2;bahu}	wax{puM}{2;bahu}	viSeRaNam,10	una	whem				
+1	evam	1	evaM	evam{avya}	evam{avya}	sambanXaH,4	isa_prakAra	thus				
+2	bahu-viXAH	2	bahuviXA	bahuviXa{puM}{1;bahu}/bahuviXa{puM}{8;bahu}/bahuviXA{swrI}{1;bahu}/bahuviXA{swrI}{2;bahu}/bahuviXA{swrI}{8;bahu}	bahuviXa{puM}{1;bahu}	viSeRaNam,3	bahuwa_waraha_ke	various_kinds_of	<bahu-viXAH>Bs6			
+3	yajFAH	3	yajFA	yajFa{puM}{1;bahu}/yajFa{puM}{8;bahu}	yajFa{puM}{1;bahu}	karwA,4	yajFa	sacrifices				
+4	viwawAH	6	viwawA	viwawa{puM}{1;bahu}/viwawa{puM}{8;bahu}/viwawA{swrI}{1;bahu}/viwawA{swrI}{2;bahu}/viwawA{swrI}{8;bahu}	wan1{kqw_prawyayaH:kwa;wanuz;wanAxiH;puM}{1;bahu}		viswAra_se_kahe_gaye_hEM	widespread				
+5	brahmaNaH	4	brahmaNo	brahman{puM}{2;bahu}/brahman{puM}{5;eka}/brahman{puM}{6;eka}/brahman{napuM}{5;eka}/brahman{napuM}{6;eka}	brahman{napuM}{6;eka}	RaRTIsambanXaH,6	vexa_kI	of_the_Vedas				
+6	muKe	5	muKe	muKa{puM}{7;eka}/muKa{napuM}{1;xvi}/muKa{napuM}{2;xvi}/muKa{napuM}{7;eka}/muKa{napuM}{8;xvi}	muKa{napuM}{7;eka}	aXikaraNam,4	vANI_meM	in_the_face_of				
+7	karma-jAn	10	karmajAnvixXi	karmaja{puM}{2;bahu}	karmaja{puM}{2;bahu}	karmasamAnAXikaraNam,8	mana_inxriya_Ora_SarIra_kI_kriyA_xvArA_sampanna_honevAle	born_of_work	<karma-jAn>U			
+8	vixXi	11		vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,10.1;sakarmakaH	jAna	should_know				
+9	wAn	8	wAnsarvAnevaM	wax{puM}{2;bahu}	wax{puM}{2;bahu}	viSeRaNam,10	una	them				
 10	sarvAn	9		sarva{puM}{2;bahu}	sarva{puM}{2;bahu}	karma,8	sabako	all				
 10.1	(wvam)	7	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wuma)	you				
-11	evam	12		evam{avya}	evam{avya}	kriyAviSeRaNam,12	isa_prakAra	whus				
-12	jFAwvA	13	jFAwvA	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,13	jAnakara	knoting				
-13	vimokRyase	15	vimokRyase	vimokRyase	vi_muc1{karwari;lqt;ma;eka;AwmanepaxI;vi_mucLz;wuxAxiH}	aBihiwakarwA,13.1;akarmakaH	mukwa_ho_jAoge	be_liberawex				
+11	evam	12		evam{avya}	evam{avya}	kriyAviSeRaNam,12	isa_prakAra	thus				
+12	jFAwvA	13	jFAwvA	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,13	jAnakara	knowing				
+13	vimokRyase	15	vimokRyase	vimokRyase	vi_muc1{karwari;lqt;ma;eka;AwmanepaxI;vi_mucLz;wuxAxiH}	aBihiwakarwA,13.1;akarmakaH	mukwa_ho_jAoge	be_liberated				
 13.1	(wvam)	14	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,13	(wuma)	you				

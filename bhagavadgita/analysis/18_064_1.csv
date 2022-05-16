@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sarva-guhyawamam	2	sarvaguhyawamaM	sarva-guhya-wama{puM}{2;eka}/wama{napuM}{1;eka}/wama{napuM}{2;eka}	sarva-guhya-wama{napuM}{2;eka}	viSeRaNam,6	sampUrNa_gopanIyoM_se_awi_gopanIya	whe_mosw_conqixenwial_oq_all	<sarva-guhyawamaM>W6			
+1	sarva-guhyawamam	2	sarvaguhyawamaM	sarva-guhya-wama{puM}{2;eka}/wama{napuM}{1;eka}/wama{napuM}{2;eka}	sarva-guhya-wama{napuM}{2;eka}	viSeRaNam,6	sampUrNa_gopanIyoM_se_awi_gopanIya	the_most_confidential_of_all	<sarva-guhyawamaM>T6			
 2	BUyaH	6	BUyaH	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,3	Pira	again				
-3	SqNu	7	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,6.1;sakarmakaH	suna	jusw_hear				
-4	me	3	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,6	mere	qrom_Me				
-5	paramam	4	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{2;eka}	viSeRaNam,6	parama_rahasyayukwa	whe_supreme				
-6	vacaH	5	vacaH	vaca{puM}{1;eka}/vacas{napuM}{1;eka}/vacas{napuM}{2;eka}/vacas{napuM}{8;eka}	vacas{napuM}{2;eka}	karma,3	vacana_ko	inswrucwion				
+3	SqNu	7	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,6.1;sakarmakaH	suna	just_hear				
+4	me	3	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,6	mere	from_Me				
+5	paramam	4	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{2;eka}	viSeRaNam,6	parama_rahasyayukwa	the_supreme				
+6	vacaH	5	vacaH	vaca{puM}{1;eka}/vacas{napuM}{1;eka}/vacas{napuM}{2;eka}/vacas{napuM}{8;eka}	vacas{napuM}{2;eka}	karma,3	vacana_ko	instruction				
 6.1	(wvam)	1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,3	(wuma)	you				
-7	iRtaH	11	iRtoZsi	iRta{puM}{1;eka}	iR2{kqw_prawyayaH:kwa;iRuz;wuxAxiH;puM}{1;eka}	karwqsamAnAXikaraNam,8	priya	xear				
+7	iRtaH	11	iRtoZsi	iRta{puM}{1;eka}	iR2{kqw_prawyayaH:kwa;iRuz;wuxAxiH;puM}{1;eka}	karwqsamAnAXikaraNam,8	priya	dear				
 8	asi	12	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,10.1;akarmakaH	hE	are				
-9	me	9	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,7	merA	qrom_Me				
+9	me	9	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,7	merA	from_Me				
 10	xqDam	10	xqDamiwi	xqDa{puM}{2;eka}/xqDa{napuM}{1;eka}/xqDa{napuM}{2;eka}	xqDa{napuM}{2;eka}	kriyAviSeRaNam,7	awiSaya	very				
 10.1	(wvam)	8	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wU)	you				
-11	iwi	14	0	iwi{avya}	iwi{avya}	sambanXaH,13	yaha	whus				
-12	wawaH	13	wawo	wawaH{avya}	wawaH{avya}	hewuH,13	isase	whereqore				
+11	iwi	14	0	iwi{avya}	iwi{avya}	sambanXaH,13	yaha	thus				
+12	wawaH	13	wawo	wawaH{avya}	wawaH{avya}	hewuH,13	isase	therefore				
 13	vakRyAmi	18	vakRyAmi	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}/vah1{karwari;lqt;u;eka;parasmEpaxI;vahaz;BvAxiH}/brU1{karwari;lqt;u;eka;parasmEpaxI;brUF;axAxiH}	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}	aBihiwakarwA,15.1;sakarmakaH	kahUzgA	speaking				
-14	we	17	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,13	wuJase	qor_your				
-15	hiwam	15	hiwam	hiwa{puM}{2;eka}/hiwa{napuM}{1;eka}/hiwa{napuM}{2;eka}	XA1{kqw_prawyayaH:kwa;duXAF;juhowyAxiH;napuM}{2;eka}	karma,13	parama_hiwakAraka_vacana	beneqiw				
+14	we	17	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,13	wuJase	for_your				
+15	hiwam	15	hiwam	hiwa{puM}{2;eka}/hiwa{napuM}{1;eka}/hiwa{napuM}{2;eka}	XA1{kqw_prawyayaH:kwa;duXAF;juhowyAxiH;napuM}{2;eka}	karma,13	parama_hiwakAraka_vacana	benefit				
 15.1	(aham)	16	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,13	(mEM)	I				

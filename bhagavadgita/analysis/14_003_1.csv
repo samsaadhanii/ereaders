@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	mama	2	mama	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,2	merI	my				
-2	yoniH	5	yonirmahaxbrahma	yoni{puM}{1;eka}	yoni{puM}{1;eka}	karwA,4.1	yoni	source_oq_birwh				
-3	mahaw	3	0	mahaw{napuM}{1;eka}/mahaw{napuM}{2;eka}	mahaw{napuM}{1;eka}	viSeRaNam,4	sampUrNa	whe_wowal_mawerial_eLiswence				
+2	yoniH	5	yonirmahaxbrahma	yoni{puM}{1;eka}	yoni{puM}{1;eka}	karwA,4.1	yoni	source_of_birth				
+3	mahaw	3	0	mahaw{napuM}{1;eka}/mahaw{napuM}{2;eka}	mahaw{napuM}{1;eka}	viSeRaNam,4	sampUrNa	the_total_material_existence				
 4	brahma	4	0	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwqsamAnAXikaraNam,4.1	brahmarUpa	supreme				
 4.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
-5	wasmin	8	wasmingarBaM	wax{puM}{7;eka}/wax{napuM}{7;eka}	wax{puM}{7;eka}	aXikaraNam,7	usameM_(yoni_meM)	in_whaw				
+5	wasmin	8	wasmingarBaM	wax{puM}{7;eka}/wax{napuM}{7;eka}	wax{puM}{7;eka}	aXikaraNam,7	usameM_(yoni_meM)	in_that				
 6	garBam	9	0	garBa{puM}{2;eka}	garBa{puM}{2;eka}	karma,7	cewana-samuxAyarUpa_garBa_ko	pregnancy				
-7	xaXAmi	10	xaXAmyahaM	XA1{karwari;lat;u;eka;parasmEpaxI;duXAF;juhowyAxiH}	XA1{karwari;lat;u;eka;parasmEpaxI;duXAF;juhowyAxiH}	aBihiwakarwA,8;akarmakaH	sWApana_karawA_hUz	creawe				
+7	xaXAmi	10	xaXAmyahaM	XA1{karwari;lat;u;eka;parasmEpaxI;duXAF;juhowyAxiH}	XA1{karwari;lat;u;eka;parasmEpaxI;duXAF;juhowyAxiH}	aBihiwakarwA,8;akarmakaH	sWApana_karawA_hUz	create				
 8	aham	7	0	asmax{1;eka}	asmax{1;eka}	karwA,7	mEM	I				
-9	samBavaH	13	samBavaH	samBava{puM}{1;eka}	samBava{puM}{1;eka}	karwA,12	uwpawwi	possibiliwy				
-10	sarva-BUwAnAm	12	sarvaBUwAnAM	sarva-BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}	sarva-BUwa{puM}{6;bahu}	RaRTIsambanXaH,9	saba_BUwoM_kI	oq_all_living_enwiwies	<sarva-BUwAnAM>K1			
-11	wawaH	11	wawo	wawaH{avya}	wawaH{avya}	apAxAnam,12	usase_(jada़-cewana_ke_saMyoga_se)	whereaqwer				
+9	samBavaH	13	samBavaH	samBava{puM}{1;eka}	samBava{puM}{1;eka}	karwA,12	uwpawwi	possibility				
+10	sarva-BUwAnAm	12	sarvaBUwAnAM	sarva-BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}	sarva-BUwa{puM}{6;bahu}	RaRTIsambanXaH,9	saba_BUwoM_kI	of_all_living_entities	<sarva-BUwAnAM>K1			
+11	wawaH	11	wawo	wawaH{avya}	wawaH{avya}	apAxAnam,12	usase_(jada़-cewana_ke_saMyoga_se)	thereafter				
 12	Bavawi	14	Bavawi	Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,9;akarmakaH	howI_hE	becomes				
-13	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,12	he_arjuna	O_son_oq_Bharawa				
+13	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,12	he_arjuna	O_son_of_Bharata				

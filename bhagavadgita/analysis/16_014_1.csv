@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	asO	1	asO	asu{puM}{7;eka}/asi{puM}{7;eka}/asi{swrI}{7;eka}/axas{puM}{1;eka}/axas{swrI}{1;eka}	axas{puM}{1;eka}	viSeRaNam,4	vaha	whaw				
+1	asO	1	asO	asu{puM}{7;eka}/asi{puM}{7;eka}/asi{swrI}{7;eka}/axas{puM}{1;eka}/axas{swrI}{1;eka}	axas{puM}{1;eka}	viSeRaNam,4	vaha	that				
 2	mayA	3	mayA	asmax{3;eka}	asmax{3;eka}	karwA,3	mere_xvArA	by_me				
-3	hawaH	4	hawaH	hawa{puM}{1;eka}/han1{karwari;lat;pra;xvi;parasmEpaxI;hanaz;axAxiH}	han1{kqw_prawyayaH:kwa;hanaz;axAxiH;puM}{1;eka}	aBihiwakarma,4;sakarmakaH	mArA_gayA	has_been_killex				
+3	hawaH	4	hawaH	hawa{puM}{1;eka}/han1{karwari;lat;pra;xvi;parasmEpaxI;hanaz;axAxiH}	han1{kqw_prawyayaH:kwa;hanaz;axAxiH;puM}{1;eka}	aBihiwakarma,4;sakarmakaH	mArA_gayA	has_been_killed				
 4	SawruH	2	SawrurhaniRye	Sawru{puM}{1;eka}	Sawru{puM}{1;eka}	karma,3	Sawru	enemy				
 5	haniRye	8	0	han1{karmaNi;lqt;u;eka;AwmanepaxI;hanaz;axAxiH}	han1{karwari;lqt;u;eka;AwmanepaxI;hanaz;axAxiH}		mAra_dAlUzgA	shall_kill				
 6	ca	6	cAparAnapi	ca{avya}	ca{avya}	sambanXaH,5	Ora	also				
-7	a-parAn	5	0	apara{puM}{2;bahu}/apara{puM}{2;bahu}	apara{puM}{2;bahu}	karma,5	xUsare_SawruoM_ko	owhers	<na-parAn>Wn			
-8	api	7	0	api{avya}	api{avya}	sambanXaH,7	BI	cerwainly				
-9	ISvaraH	10	ISvaroZhamahaM	ISvara{puM}{1;eka}	ISvara{puM}{1;eka}	karwqsamAnAXikaraNam,10.1	ISvara	whe_lorx				
+7	a-parAn	5	0	apara{puM}{2;bahu}/apara{puM}{2;bahu}	apara{puM}{2;bahu}	karma,5	xUsare_SawruoM_ko	others	<na-parAn>Tn			
+8	api	7	0	api{avya}	api{avya}	sambanXaH,7	BI	certainly				
+9	ISvaraH	10	ISvaroZhamahaM	ISvara{puM}{1;eka}	ISvara{puM}{1;eka}	karwqsamAnAXikaraNam,10.1	ISvara	the_lord				
 10	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,10.1	mEM	I				
 10.1	(asmi)	11	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10;akarmakaH	(hUz)	am				
 11	aham	12	0	asmax{1;eka}	asmax{1;eka}	karwA,12	mEM	I				
-12	BogI	13		Bogin{puM}{1;eka}	Bogin{puM}{1;eka}	karwqsamAnAXikaraNam,12.1	ESvarya_ko_BoganevAlA	whe_enjoyer				
+12	BogI	13		Bogin{puM}{1;eka}	Bogin{puM}{1;eka}	karwqsamAnAXikaraNam,12.1	ESvarya_ko_BoganevAlA	the_enjoyer				
 12.1	(asmi)	14	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hUz)	am				
-13	sixXaH	16	sixXoZhaM	sixXa{puM}{1;eka}	sixXa{puM}{1;eka}	sup_samucciwaH,16	saba_sixXiyoM_se_yukwa	perqecw				
+13	sixXaH	16	sixXoZhaM	sixXa{puM}{1;eka}	sixXa{puM}{1;eka}	sup_samucciwaH,16	saba_sixXiyoM_se_yukwa	perfect				
 14	aham	15	0	asmax{1;eka}	asmax{1;eka}	karwA,16.2	mEM	I				
-15	balavAn	17	balavAnsuKI	balavaw{puM}{1;eka}	balavaw{puM}{1;eka}	sup_samucciwaH,16	balavAn	poterqul				
+15	balavAn	17	balavAnsuKI	balavaw{puM}{1;eka}	balavaw{puM}{1;eka}	sup_samucciwaH,16	balavAn	powerful				
 16	suKI	18	0	suKI{swrI}{1;eka}/suKin{puM}{1;eka}	suKin{puM}{1;eka}	karwqsamAnAXikaraNam,16.2	suKI	happy				
 16.1	(ca)	19	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,16	(Ora)	also				
 16.2	(asmi)	20	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,14;akarmakaH	(hUz)	am				

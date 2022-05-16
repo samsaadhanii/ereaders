@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	paFca	8	paFcEwAni	paFcan{1;bahu}/paFcan{2;bahu}/paFc2{karwari;lot;ma;eka;parasmEpaxI;paciz;curAxiH}	paFcan{2;bahu}	viSeRaNam,4	pAzca	qive				
-2	ewAni	7	0	ewax{napuM}{1;bahu}/ewax{napuM}{2;bahu}	ewax{napuM}{2;bahu}	viSeRaNam,4	ye	all_whese				
-3	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,9	he_mahAbAho	O_mighwy-armex_one	<mahaw-bAho>Bs6			
-4	kAraNAni	9	kAraNAni	kAraNa{napuM}{1;bahu}/kAraNa{napuM}{2;bahu}	kAraNa{napuM}{2;bahu}	karma,9	hewu	inswrumenws				
-5	niboXa	12	niboXa	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;buXizr;BvAxiH}	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;ni_buXizr;BvAxiH}	aBihiwa_karwA,11.1;sakarmakaH	BalIBAzwi_jAna	jusw_unxerswanx				
-6	me	11	me	asmax{6;eka}	asmax{5;eka}	apAxAnam,5	muJase	qrom_Me				
-7	sAfKye	5	sAfKye	sAfKya{puM}{7;eka}/sAfKya{napuM}{1;xvi}/sAfKya{napuM}{2;xvi}/sAfKya{napuM}{7;eka}/sAfKyA{swrI}{1;xvi}/sAfKyA{swrI}{2;xvi}	sAfKya{napuM}{7;eka}	aXikaraNam,9	sAMKyaSAswra_meM	in_whe_Vexas				
-8	kqwa-anwe	4	kqwAnwe	kqwAnwa{puM}{7;eka}/kqwAnwa{napuM}{1;xvi}/kqwAnwa{napuM}{2;xvi}/kqwAnwa{napuM}{7;eka}	kqwa-anwa{puM}{7;eka}	viSeRaNam,7	karmoM_kA_anwa_karane_ke_liye_upAya_bawalAnevAle	aqwer_perqormance	<kqwa-anwe>Bs7			
-9	prokwAni	6	prokwAni	prokwa{napuM}{1;bahu}/prokwa{napuM}{2;bahu}_(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;napuM}{1;bahu}	viSeRaNam,4	kahe_gaye_hEM	is_saix				
-10	sixXaye	3	sixXaye	sixXi{swrI}{4;eka}	sixXi{swrI}{4;eka}	prayojanam,5	sixXi_ke	perqecwion				
-11	sarva-karmaNAm	2	sarvakarmaNAm	sarvakarman{puM}{6;bahu}/sarvakarman{napuM}{6;bahu}	sarva-karman{napuM}{6;bahu}	RaRTIsambanXaH,11	sampUrNa_karmoM_kI	oq_all_acwiviwies	<sarva-karmaNAm>K1			
+1	paFca	8	paFcEwAni	paFcan{1;bahu}/paFcan{2;bahu}/paFc2{karwari;lot;ma;eka;parasmEpaxI;paciz;curAxiH}	paFcan{2;bahu}	viSeRaNam,4	pAzca	five				
+2	ewAni	7	0	ewax{napuM}{1;bahu}/ewax{napuM}{2;bahu}	ewax{napuM}{2;bahu}	viSeRaNam,4	ye	all_these				
+3	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,9	he_mahAbAho	O_mighty-armed_one	<mahaw-bAho>Bs6			
+4	kAraNAni	9	kAraNAni	kAraNa{napuM}{1;bahu}/kAraNa{napuM}{2;bahu}	kAraNa{napuM}{2;bahu}	karma,5	hewu	instruments				
+5	niboXa	12	niboXa	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;buXizr;BvAxiH}	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;ni_buXizr;BvAxiH}	aBihiwa_karwA,11.1;sakarmakaH	BalIBAzwi_jAna	just_understand				
+6	me	11	me	asmax{6;eka}	asmax{5;eka}	apAxAnam,5	muJase	from_Me				
+7	sAfKye	5	sAfKye	sAfKya{puM}{7;eka}/sAfKya{napuM}{1;xvi}/sAfKya{napuM}{2;xvi}/sAfKya{napuM}{7;eka}/sAfKyA{swrI}{1;xvi}/sAfKyA{swrI}{2;xvi}	sAfKya{napuM}{7;eka}	aXikaraNam,9	sAMKyaSAswra_meM	in_the_Vedas				
+8	kqwa-anwe	4	kqwAnwe	kqwAnwa{puM}{7;eka}/kqwAnwa{napuM}{1;xvi}/kqwAnwa{napuM}{2;xvi}/kqwAnwa{napuM}{7;eka}	kqwa-anwa{puM}{7;eka}	viSeRaNam,7	karmoM_kA_anwa_karane_ke_liye_upAya_bawalAnevAle	after_performance	<kqwa-anwe>Bs7			
+9	prokwAni	6	prokwAni	prokwa{napuM}{1;bahu}/prokwa{napuM}{2;bahu}_(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;napuM}{1;bahu}	viSeRaNam,4	kahe_gaye_hEM	is_said				
+10	sixXaye	3	sixXaye	sixXi{swrI}{4;eka}	sixXi{swrI}{4;eka}	prayojanam,5	sixXi_ke	perfection				
+11	sarva-karmaNAm	2	sarvakarmaNAm	sarvakarman{puM}{6;bahu}/sarvakarman{napuM}{6;bahu}	sarva-karman{napuM}{6;bahu}	RaRTIsambanXaH,10	sampUrNa_karmoM_kI	of_all_activities	<sarva-karmaNAm>K1			
 11.1	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,5	(wU)	you				

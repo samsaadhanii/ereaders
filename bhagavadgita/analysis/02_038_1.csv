@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	suKa-xuHKe	2	suKaxuHKe	suKa-xuHKa{napuM}{1;xvi}/xuHKa{napuM}{2;xvi}/xuHKa{napuM}{7;eka}/xuHKa{napuM}{8;xvi}/xuHKA{swrI}{1;xvi}/xuHKA{swrI}{2;xvi}/xuHKA{swrI}{8;eka}/xuHKA{swrI}{8;xvi}	suKa-xuHKa{napuM}{2;xvi}	sap_samucciwam,5	suKa-xuHKa_ko	in_pleasure_anx_pain	<suKa-xuHKe>Xi			
+1	suKa-xuHKe	2	suKaxuHKe	suKa-xuHKa{napuM}{1;xvi}/xuHKa{napuM}{2;xvi}/xuHKa{napuM}{7;eka}/xuHKa{napuM}{8;xvi}/xuHKA{swrI}{1;xvi}/xuHKA{swrI}{2;xvi}/xuHKA{swrI}{8;eka}/xuHKA{swrI}{8;xvi}	suKa-xuHKa{napuM}{2;xvi}	sap_samucciwam,5	suKa-xuHKa_ko	in_pleasure_and_pain	<suKa-xuHKe>Di			
 2	same	6	same	sama{puM}{7;eka}/sama{napuM}{1;xvi}/sama{napuM}{2;xvi}/sama{napuM}{7;eka}/sama{napuM}{8;xvi}/sama{puM}{1;bahu}/sama{napuM}{1;xvi}/sama{napuM}{2;xvi}/samA{swrI}{1;xvi}/samA{swrI}{2;xvi}/samA{swrI}{8;eka}/samA{swrI}{8;xvi}/samA{swrI}{1;xvi}/samA{swrI}{2;xvi}	sama{napuM}{2;xvi}	kriyAviSeRaNam,3	samAna	alike				
-3	kqwvA	7	kqwvA	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,8	samaJakara	wreawing				
-4	lABa-alABO	3	lABAlABO	lABa-alABa{puM}{1;xvi}/alABa{puM}{2;xvi}/alABa{puM}{8;xvi}	lABa-alABa{puM}{2;xvi}	sap_samucciwam,5	lABa-hAni_ko	bowh_in_gain_anx_loss	<lABa-alABO>Xi			
-5	jaya-ajayO	4	jayAjayO	jaya-ajaya{puM}{1;xvi}/ajaya{puM}{2;xvi}/ajaya{puM}{8;xvi}	jaya-ajaya{puM}{2;xvi}	karma,3	jaya-parAjaya_ko	bowh_in_vicwory_anx_xeqeaw	<jaya-ajayO>Xi			
-5.1	(ca)	5	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,5	(Ora)	anx				
+3	kqwvA	7	kqwvA	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,8	samaJakara	treating				
+4	lABa-alABO	3	lABAlABO	lABa-alABa{puM}{1;xvi}/alABa{puM}{2;xvi}/alABa{puM}{8;xvi}	lABa-alABa{puM}{2;xvi}	sap_samucciwam,5	lABa-hAni_ko	both_in_gain_and_loss	<lABa-alABO>Di			
+5	jaya-ajayO	4	jayAjayO	jaya-ajaya{puM}{1;xvi}/ajaya{puM}{2;xvi}/ajaya{puM}{8;xvi}	jaya-ajaya{puM}{2;xvi}	karma,3	jaya-parAjaya_ko	both_in_victory_and_defeat	<jaya-ajayO>Di			
+5.1	(ca)	5	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,5	(Ora)	and				
 5.2	(wvam)	1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wuma)	you				
-6	wawaH	8	wawo	wawaH{avya}	wawaH{avya}	apAxAnam,8	usake_bAxa	whereaqwer				
-7	yuxXAya	9	yuxXAya	yuxXa{puM}{4;eka}/yuxXa{napuM}{4;eka}	yuxXa{napuM}{4;eka}	prayojanam,8	yuxXa_ke_liye	qor_bawwle				
-8	yujyasva	10	yujyasva	yuj1{BAve;lot;ma;eka;AwmanepaxI;yujaz;xivAxiH}/yuj2{karmaNi;lot;ma;eka;AwmanepaxI;yujizr;ruXAxiH}	yuj1{BAve;lot;ma;eka;AwmanepaxI;yujaz;xivAxiH}	aBihiwakarwA,5.2;akarmakaH	wEyAra_ho_jAo	gew_reaxy				
-9	na	14	nEvaM	na{avya}	na{avya}	prawiReXaH,12	nahIM	now				
-10	evam	11	0	evam{avya}	evam{avya}	kriyAviSeRaNam,12	isa_prakAra	whus				
+6	wawaH	8	wawo	wawaH{avya}	wawaH{avya}	apAxAnam,8	usake_bAxa	thereafter				
+7	yuxXAya	9	yuxXAya	yuxXa{puM}{4;eka}/yuxXa{napuM}{4;eka}	yuxXa{napuM}{4;eka}	prayojanam,8	yuxXa_ke_liye	for_battle				
+8	yujyasva	10	yujyasva	yuj1{BAve;lot;ma;eka;AwmanepaxI;yujaz;xivAxiH}/yuj2{karmaNi;lot;ma;eka;AwmanepaxI;yujizr;ruXAxiH}	yuj1{BAve;lot;ma;eka;AwmanepaxI;yujaz;xivAxiH}	aBihiwakarwA,5.2;akarmakaH	wEyAra_ho_jAo	get_ready				
+9	na	14	nEvaM	na{avya}	na{avya}	prawiReXaH,12	nahIM	not				
+10	evam	11	0	evam{avya}	evam{avya}	kriyAviSeRaNam,12	isa_prakAra	thus				
 11	pApam	13	pApamavApsyasi	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{2;eka}	karma,12	pApa_ko	sin				
-12	avApsyasi	15	0	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ApLz;svAxiH}	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ava_ApLz;svAxiH}	aBihiwakarwA,12.1;akarmakaH	prApwa_hoge	till_incur				
+12	avApsyasi	15	0	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ApLz;svAxiH}	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ava_ApLz;svAxiH}	aBihiwakarwA,12.1;akarmakaH	prApwa_hoge	will_incur				
 12.1	(wvam)	12	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wuma)	you				

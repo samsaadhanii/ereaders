@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	inxriyANAm	3	inxriyANAM	inxriya{puM}{6;bahu}/inxriya{napuM}{6;bahu}	inxriya{napuM}{6;bahu}	RaRTIsambanXaH,5	inxriyoM_meM_se	whe_senses				
+1	inxriyANAm	3	inxriyANAM	inxriya{puM}{6;bahu}/inxriya{napuM}{6;bahu}	inxriya{napuM}{6;bahu}	RaRTIsambanXaH,5	inxriyoM_meM_se	the_senses				
 2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,1	kyoMki	because				
-3	carawAm	2	carawAM	caraw{puM}{6;bahu}/caraw{napuM}{6;bahu}/carawA{swrI}{2;eka}/car1{karwari;lot;pra;xvi;parasmEpaxI;caraz;BvAxiH}	car1{kqw_prawyayaH:Sawq;caraz;BvAxiH;napuM}{6;bahu}	viSeRaNam,1	vicarawI_huI	moving_among_sense-objecws				
-4	yaw	5	yanmanoZnuviXIyawe	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karma,6;niwyasambanXaH,7	jo( jisa inxriya kA)	whaw				
-5	manaH	4	0	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	karwA,6	mana	minx				
-6	anuviXIyawe	6	0	anuviXIyawe	anu_Xi1{karwari;lat;pra;eka;AwmanepaxI;anu_Xi;wuxAxiH}	aBihiwa_karwA,5;sakarmakaH	sAWa_rahawA_hE	is_awwachex				
-7	waw	7	waxasya	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,9	vaha eka hI inxriya	whaw				
+3	carawAm	2	carawAM	caraw{puM}{6;bahu}/caraw{napuM}{6;bahu}/carawA{swrI}{2;eka}/car1{karwari;lot;pra;xvi;parasmEpaxI;caraz;BvAxiH}	car1{kqw_prawyayaH:Sawq;caraz;BvAxiH;napuM}{6;bahu}	viSeRaNam,1	vicarawI_huI	moving_among_sense-objects				
+4	yaw	5	yanmanoZnuviXIyawe	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karma,6;niwyasambanXaH,7	jo( jisa inxriya kA)	that				
+5	manaH	4	0	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	karwA,6	mana	mind				
+6	anuviXIyawe	6	0	anuviXIyawe	anu_Xi1{karwari;lat;pra;eka;AwmanepaxI;anu_Xi;wuxAxiH}	aBihiwa_karwA,5;sakarmakaH	sAWa_rahawA_hE	is_attached				
+7	waw	7	waxasya	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,9	vaha eka hI inxriya	that				
 8	asya	8	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	RaRTIsambanXaH,10	isakI	his				
-9	harawi	10	harawi	haraw{puM}{7;eka}/haraw{napuM}{7;eka}/hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH}	hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH}	"	upamAnam,13"	hara_lewI_hE	wakes_atay				
-10	prajFAm	9	prajFAM	prajFA{swrI}{2;eka}	prajFA{swrI}{2;eka}	karma,9	buxXi_ko	xiscriminawion				
-11	vAyuH	12	vAyurnAvamivAmBasi	vAyu{puM}{1;eka}/vA1{karwari;viXilif;pra;bahu;parasmEpaxI;vA;axAxiH}	vAyu{puM}{1;eka}	karwA,15	vAyu	whe_tinx				
-12	nAvam	13	0	nO{swrI}{2;eka}	nO{swrI}{2;eka}	karma,15	nOkA_ko	a_boaw				
+9	harawi	10	harawi	haraw{puM}{7;eka}/haraw{napuM}{7;eka}/hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH}	hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH}	"	upamAnam,13"	hara_lewI_hE	takes_away				
+10	prajFAm	9	prajFAM	prajFA{swrI}{2;eka}	prajFA{swrI}{2;eka}	karma,9	buxXi_ko	discrimination				
+11	vAyuH	12	vAyurnAvamivAmBasi	vAyu{puM}{1;eka}/vA1{karwari;viXilif;pra;bahu;parasmEpaxI;vA;axAxiH}	vAyu{puM}{1;eka}	karwA,15	vAyu	the_wind				
+12	nAvam	13	0	nO{swrI}{2;eka}	nO{swrI}{2;eka}	karma,15	nOkA_ko	a_boat				
 13	iva	14	0	iva{avya}	iva{avya}	upamAnaxyowakaH,15	jEse	as				
-14	amBasi	11	0	amBas{napuM}{7;eka}	amBas{napuM}{7;eka}	aXikaraNam,15	jala_meM	upon_whe_tawers				
-15	(harawi)	15	(0)	(haraw{puM}{7;eka}/haraw{napuM}{7;eka}/hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH})	(hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH})	aBihiwa_karwA,11;sakarmakaH	(hara_lewA_hE)	carries_atay				
+14	amBasi	11	0	amBas{napuM}{7;eka}	amBas{napuM}{7;eka}	aXikaraNam,15	jala_meM	upon_the_waters				
+15	(harawi)	15	(0)	(haraw{puM}{7;eka}/haraw{napuM}{7;eka}/hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH})	(hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH})	aBihiwa_karwA,11;sakarmakaH	(hara_lewA_hE)	carries_away				

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kacciw	7	kaccinnoBayaviBraRtaSCinnABramiva	kacciw{avya}	kacciw{avya}	sambanXaH,6	kyA	thewher				
-2	na	8	na	na{avya}	na{avya}	prawiReXaH,6	nahIM	now				
-3	uBaya-viBraRtaH	2	0	uBaya-viBraRta{puM}{1;eka}	uBaya-viBraRta{puM}{1;eka}	karwA,6	xonoM_ora_se_BraRta_hokara	xeviawex_qrom_bowh_sixes	<uBaya-viBraRtaH>W5			
-4	Cinna-aBram	11	0	Cinna-aBra{napuM}{1;eka}/aBra{napuM}{2;eka}	Cinna-aBra{napuM}{1;eka}	upamAnam,5	Cinna-Binna_bAxala_kI	qallen_cloux	<Cinna-aBram>K1			
+1	kacciw	7	kaccinnoBayaviBraRtaSCinnABramiva	kacciw{avya}	kacciw{avya}	sambanXaH,6	kyA	whether				
+2	na	8	na	na{avya}	na{avya}	prawiReXaH,6	nahIM	not				
+3	uBaya-viBraRtaH	2	0	uBaya-viBraRta{puM}{1;eka}	uBaya-viBraRta{puM}{1;eka}	karwA,6	xonoM_ora_se_BraRta_hokara	deviated_from_both_sides	<uBaya-viBraRtaH>T5			
+4	Cinna-aBram	11	0	Cinna-aBra{napuM}{1;eka}/aBra{napuM}{2;eka}	Cinna-aBra{napuM}{1;eka}	upamAnam,5	Cinna-Binna_bAxala_kI	fallen_cloud	<Cinna-aBram>K1			
 5	iva	10	0	iva{avya}	iva{avya}	sambanXaH,6	BAzwi	like				
 6	naSyawi	9	naSyawi	naSyaw{puM}{7;eka}/naSyaw{napuM}{7;eka}/naS1{karwari;lat;pra;eka;parasmEpaxI;NaSaz;xivAxiH}	naS1{karwari;lat;pra;eka;parasmEpaxI;NaSaz;xivAxiH}	aBihiwa_karwA,3	naRta_ho_jAwA_hE	perishes				
-7	a-prawiRTaH	3	aprawiRTo	a-prawiRTaH	aprawiRTa{puM}{1;eka}	viSeRaNam,3	ASrayarahiwa_puruRa	tiwhouw_any_posiwion	<na-prawiRTaH>Bsmn			
-8	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,6	he_mahAbAho	O_mighwy-armex_Krsna	<mahaw-bAho>Bs6			
-9	vimUDaH	4	vimUDo	vimUDa{puM}{1;eka}	vimUDa{puM}{1;eka}	viSeRaNam,3	mohiwa	betilxerex				
-10	brahmaNaH	5	brahmaNaH	brahman{puM}{2;bahu}/brahman{puM}{5;eka}/brahman{puM}{6;eka}/brahman{napuM}{5;eka}/brahman{napuM}{6;eka}	brahman{napuM}{6;eka}	RaRTIsambanXaH,11	BagavawprApwi_ke	oq_wranscenxence				
-11	paWi	6	paWi	paWin{puM}{7;eka}	paWin{puM}{7;eka}	xeSAXikaraNam,6	mArga_meM	on_whe_pawh				
+7	a-prawiRTaH	3	aprawiRTo	a-prawiRTaH	aprawiRTa{puM}{1;eka}	viSeRaNam,3	ASrayarahiwa_puruRa	without_any_position	<na-prawiRTaH>Bsmn			
+8	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,6	he_mahAbAho	O_mighty-armed_Krsna	<mahaw-bAho>Bs6			
+9	vimUDaH	4	vimUDo	vimUDa{puM}{1;eka}	vimUDa{puM}{1;eka}	viSeRaNam,3	mohiwa	bewildered				
+10	brahmaNaH	5	brahmaNaH	brahman{puM}{2;bahu}/brahman{puM}{5;eka}/brahman{puM}{6;eka}/brahman{napuM}{5;eka}/brahman{napuM}{6;eka}	brahman{napuM}{6;eka}	RaRTIsambanXaH,11	BagavawprApwi_ke	of_transcendence				
+11	paWi	6	paWi	paWin{puM}{7;eka}	paWin{puM}{7;eka}	xeSAXikaraNam,6	mArga_meM	on_the_path				

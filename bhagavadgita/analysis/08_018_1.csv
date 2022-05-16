@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-vyakwAw	4	avyakwAxvyakwayaH	avyakwa{puM}{5;eka}	avyakwa{puM}{5;eka}	apAxAnam,4	avyakwa_se_arWAw_brahmA_ke_sUkRma_SarIra_se	qrom_whe_unmaniqesw	<na-vyakwAw>Wn			
-2	vyakwayaH	2	0	vyakwi{swrI}{1;bahu}	vyakwi{swrI}{1;bahu}	karwA,4	carAcara_BUwagaNa	living_enwiwies				
+1	a-vyakwAw	4	avyakwAxvyakwayaH	avyakwa{puM}{5;eka}	avyakwa{puM}{5;eka}	apAxAnam,4	avyakwa_se_arWAw_brahmA_ke_sUkRma_SarIra_se	from_the_unmanifest	<na-vyakwAw>Tn			
+2	vyakwayaH	2	0	vyakwi{swrI}{1;bahu}	vyakwi{swrI}{1;bahu}	karwA,4	carAcara_BUwagaNa	living_entities				
 3	sarvAH	1	sarvAH	sarvA{swrI}{1;bahu}/sarvA{swrI}{2;bahu}	sarvA{swrI}{1;bahu}	viSeRaNam,2	sampUrNa	all				
-4	praBavanwi	5	praBavanwyaharAgame	pra_BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}	pra_BU1{karwari;lat;pra;bahu;parasmEpaxI;pra_BU;BvAxiH}	aBihiwa_karwA,2	uwpanna_howe_hEM	come_inwo_being				
-5	ahaH-Agame	3	0	aharAgama{puM}{7;eka}	ahaH-Agama{puM}{7;eka}	aXikaraNam,4	brahmA_ke_xina_ke_praveSakAla_meM	aw_whe_beginning_oq_whe_xay	<ahaH-Agame>W6			
-6	rAwri-Agame	7	rAwryAgame	rAwryAgama{puM}{7;eka}	rAwri-Agama{puM}{7;eka}	aXikaraNam,7	brahmA_kI_rAwri_ke_praveSakAla_meM	aw_whe_qall_oq_nighw	<rAwri-Agame>W6			
-7	pralIyanwe	10.1	pralIyanwe	pra_lI1{karwari;lat;pra;bahu;AwmanepaxI;lIf;xivAxiH}/pra_lI1{karmaNi;lat;pra;bahu;AwmanepaxI;lIf;xivAxiH}	pra_lI1{karwari;lat;pra;bahu;AwmanepaxI;pra_lIf;xivAxiH}	aBihiwa_karwA,10.1	lIna_ho_jAwe_hEM	are_annihilawex				
-8	wawra	8	wawrEvAvyakwasaFjFake	wawra{avya}	wawra{avya}	viSeRaNam,10	usa	where				
-9	eva	10	0	eva{avya}	eva{avya}	sambanXaH,10	hI	cerwainly				
-10	a-vyakwa-saFjFake	9	0	avyakwasaFjFake	avyakwa-saFjFaka{puM}{7;eka}	aXikaraNam,7	avyakwa_nAmaka_brahmA_ke_sUkRma_SarIra_meM	callex_whe_unmaniqesw	<<na-vyakwa>Wn-saFjFake>Bs6			
-10.1	(wAH)	6	()	wax {sarvanAma swrI 1 bahu},wax {sarvanAma swrI 2 bahu}	wax {sarvanAma swrI 1 bahu}	karwA,7		whey				
+4	praBavanwi	5	praBavanwyaharAgame	pra_BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}	pra_BU1{karwari;lat;pra;bahu;parasmEpaxI;pra_BU;BvAxiH}	aBihiwa_karwA,2	uwpanna_howe_hEM	come_into_being				
+5	ahaH-Agame	3	0	aharAgama{puM}{7;eka}	ahaH-Agama{puM}{7;eka}	aXikaraNam,4	brahmA_ke_xina_ke_praveSakAla_meM	at_the_beginning_of_the_day	<ahaH-Agame>T6			
+6	rAwri-Agame	7	rAwryAgame	rAwryAgama{puM}{7;eka}	rAwri-Agama{puM}{7;eka}	aXikaraNam,7	brahmA_kI_rAwri_ke_praveSakAla_meM	at_the_fall_of_night	<rAwri-Agame>T6			
+7	pralIyanwe	10.1	pralIyanwe	pra_lI1{karwari;lat;pra;bahu;AwmanepaxI;lIf;xivAxiH}/pra_lI1{karmaNi;lat;pra;bahu;AwmanepaxI;lIf;xivAxiH}	pra_lI1{karwari;lat;pra;bahu;AwmanepaxI;pra_lIf;xivAxiH}	aBihiwa_karwA,10.1	lIna_ho_jAwe_hEM	are_annihilated				
+8	wawra	8	wawrEvAvyakwasaFjFake	wawra{avya}	wawra{avya}	viSeRaNam,10	usa	there				
+9	eva	10	0	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
+10	a-vyakwa-saFjFake	9	0	avyakwasaFjFake	avyakwa-saFjFaka{puM}{7;eka}	aXikaraNam,7	avyakwa_nAmaka_brahmA_ke_sUkRma_SarIra_meM	called_the_unmanifest	<<na-vyakwa>Tn-saFjFake>Bs6			
+10.1	(wAH)	6	()	wax {sarvanAma swrI 1 bahu},wax {sarvanAma swrI 2 bahu}	wax {sarvanAma swrI 1 bahu}	karwA,7		they				

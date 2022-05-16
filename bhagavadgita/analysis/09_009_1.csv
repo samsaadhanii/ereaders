@@ -2,12 +2,12 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 1	na	11	na	na{avya}	na{avya}	prawiReXaH,6	nahIM	never				
 2	ca	5	ca	ca{avya}	ca{avya}	sambanXaH,6	Ora	also				
 3	mAm	8	mAM	asmax{2;eka}	asmax{2;eka}	karma,6	muJako_(paramAwmA_ko)	me				
-4	wAni	9	wAni	wax{napuM}{1;bahu}/wax{napuM}{2;bahu}	wax{napuM}{1;bahu}	viSeRaNam,5	ve	all_whose				
-5	karmANi	10	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	karman{napuM}{1;bahu}	karwA,6	karma	acwiviwies				
-6	nibaXnanwi	12	nibaXnanwi	ni_banX1{karwari;lat;pra;bahu;parasmEpaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;bahu;parasmEpaxI;ni_banXaz;kryAxiH}		bAzXawe	binx				
-7	XanaFjaya	1	XanaFjaya	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,6	he_arjuna	O_condueror_oq_riches				
-8	uxAsInavaw	6	uxAsInavaxAsInamasakwaM	uxAsInavaw{napuM}{1;eka}/uxAsInavaw{napuM}{2;eka}/uxAsInavaw{napuM}{8;eka}	uxAsInavaw{avya}	kriyAviSeRaNam,9	uxAsIna_ke_saxqSa	as_neuwral				
-9	AsInam	7	0	AsIna{puM}{2;eka}	As1{kqw_prawyayaH:SAnac;Asaz;axAxiH;puM}{2;eka}	viSeRaNam,3	sWiwa	siwuawex				
-10	a-sakwam	4	0	a-sakwa{puM}{2;eka}/sakwa{napuM}{1;eka}/sakwa{napuM}{2;eka}	asakwa{puM}{2;eka}	viSeRaNam,3	Asakwirahiwa	tiwhouw_awwracwion	<na-sakwaM>Wn			
-11	weRu	2	weRu	wax{puM}{7;bahu}/wax{napuM}{7;bahu}	wax{napuM}{7;bahu}	viSeRaNam,12	una	in_whem				
-12	karmasu	3	karmasu	karman{napuM}{7;bahu}	karman{napuM}{7;bahu}	aXikaraNam,10	karmoM_meM	in_acwiviwies				
+4	wAni	9	wAni	wax{napuM}{1;bahu}/wax{napuM}{2;bahu}	wax{napuM}{1;bahu}	viSeRaNam,5	ve	all_those				
+5	karmANi	10	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	karman{napuM}{1;bahu}	karwA,6	karma	activities				
+6	nibaXnanwi	12	nibaXnanwi	ni_banX1{karwari;lat;pra;bahu;parasmEpaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;bahu;parasmEpaxI;ni_banXaz;kryAxiH}		bAzXawe	bind				
+7	XanaFjaya	1	XanaFjaya	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,6	he_arjuna	O_conqueror_of_riches				
+8	uxAsInavaw	6	uxAsInavaxAsInamasakwaM	uxAsInavaw{napuM}{1;eka}/uxAsInavaw{napuM}{2;eka}/uxAsInavaw{napuM}{8;eka}	uxAsInavaw{avya}	kriyAviSeRaNam,9	uxAsIna_ke_saxqSa	as_neutral				
+9	AsInam	7	0	AsIna{puM}{2;eka}	As1{kqw_prawyayaH:SAnac;Asaz;axAxiH;puM}{2;eka}	viSeRaNam,3	sWiwa	situated				
+10	a-sakwam	4	0	a-sakwa{puM}{2;eka}/sakwa{napuM}{1;eka}/sakwa{napuM}{2;eka}	asakwa{puM}{2;eka}	viSeRaNam,3	Asakwirahiwa	without_attraction	<na-sakwaM>Tn			
+11	weRu	2	weRu	wax{puM}{7;bahu}/wax{napuM}{7;bahu}	wax{napuM}{7;bahu}	viSeRaNam,12	una	in_them				
+12	karmasu	3	karmasu	karman{napuM}{7;bahu}	karman{napuM}{7;bahu}	aXikaraNam,10	karmoM_meM	in_activities				

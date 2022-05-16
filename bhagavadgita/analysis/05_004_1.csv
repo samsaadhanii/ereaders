@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sAfKya-yogO	1	sAfKyayogO	sAfKya-yoga{puM}{1;xvi}/yoga{puM}{2;xvi}	sAfKya-yoga{puM}{1;xvi}	karma,4	saMnyAsa_Ora_karmayoga_ko	analywical_swuxy_oq_whe_mawerial_torlx_anx_tork_in_xevowional_service	<sAfKya-yogO>Xi			
-2	*pqWak	3	pqWagbAlAH	pqWak{avya}	pqWak{avya}	kriyAviSeRaNam,4	pqWak-pqWak_(Pala_xenevAle)	xiqqerenw				
-3	bAlAH	2	0	bAla{puM}{1;bahu}/bAlA{swrI}{1;bahu}/bAlA{swrI}{2;bahu}	bAla{puM}{1;bahu}	karwA,4	mUrKaloga	whe_less_inwelligenw				
+1	sAfKya-yogO	1	sAfKyayogO	sAfKya-yoga{puM}{1;xvi}/yoga{puM}{2;xvi}	sAfKya-yoga{puM}{1;xvi}	karma,4	saMnyAsa_Ora_karmayoga_ko	analytical_study_of_the_material_world_and_work_in_devotional_service	<sAfKya-yogO>Di			
+2	*pqWak	3	pqWagbAlAH	pqWak{avya}	pqWak{avya}	kriyAviSeRaNam,4	pqWak-pqWak_(Pala_xenevAle)	different				
+3	bAlAH	2	0	bAla{puM}{1;bahu}/bAlA{swrI}{1;bahu}/bAlA{swrI}{2;bahu}	bAla{puM}{1;bahu}	karwA,4	mUrKaloga	the_less_intelligent				
 4	pravaxanwi	4	pravaxanwi	pra_vax1{karwari;lat;pra;bahu;parasmEpaxI;vaxaz;BvAxiH}	pra_vax1{karwari;lat;pra;bahu;parasmEpaxI;pra_vaxaz;BvAxiH}	aBihiwakarwA,3;sakarmakaH	kahawe_hEM	say				
 5	na	5	na	na{avya}	na{avya}	prawiReXaH,6.1	na	never				
-6	paNdiwAH	6	paNdiwAH	paNdiwa{puM}{1;bahu}/paNdiwA{swrI}{1;bahu}/paNdiwA{swrI}{2;bahu}	paNdiwa{puM}{1;bahu}	karwA,6.1	paNdiwajana	whe_learnex				
+6	paNdiwAH	6	paNdiwAH	paNdiwa{puM}{1;bahu}/paNdiwA{swrI}{1;bahu}/paNdiwA{swrI}{2;bahu}	paNdiwa{puM}{1;bahu}	karwA,6.1	paNdiwajana	the_learned				
 6.1	(pravaxanwi)	7	(0)	(pra_vax1{karwari;lat;pra;bahu;parasmEpaxI;vaxaz;BvAxiH})	(pra_vax1{karwari;lat;pra;bahu;parasmEpaxI;pra_vaxaz;BvAxiH})	aBihiwakarwA,6;sakarmakaH	(kahawe_hEM)	say				
 7	ekam	8	ekamapyAsWiwaH	eka{puM}{2;eka}/eka{napuM}{1;eka}/eka{napuM}{2;eka}	eka{napuM}{1;eka}	karwA,9	eka_meM	in_one				
 8	api	9	0	api{avya}	api{avya}	sambanXaH,7	BI	even				
-9	AsWiwaH	11	0	AsWiwa{puM}{1;eka}	Af_sWA1{kqw_prawyayaH:kwa;Af_RTA;BvAxiH;puM}{1;eka}	karwA,12	sWiwa	being_siwuawex				
-10	*samyak	10	samyaguBayorvinxawe	samyak{avya}	samyak{avya}	kriyAviSeRaNam,9	samyak_prakAra_se	complewe				
-11	uBayoH	12	0	uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}	uBa{puM}{6;xvi}	RaRTIsambanXaH,13	xonoM_ke	oq_bowh				
+9	AsWiwaH	11	0	AsWiwa{puM}{1;eka}	Af_sWA1{kqw_prawyayaH:kwa;Af_RTA;BvAxiH;puM}{1;eka}	karwA,12	sWiwa	being_situated				
+10	*samyak	10	samyaguBayorvinxawe	samyak{avya}	samyak{avya}	kriyAviSeRaNam,9	samyak_prakAra_se	complete				
+11	uBayoH	12	0	uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}	uBa{puM}{6;xvi}	RaRTIsambanXaH,13	xonoM_ke	of_both				
 12	vinxawe	14	0	vinxawA{swrI}{1;xvi}/vinxawA{swrI}{2;xvi}/vix3{karwari;lat;pra;eka;AwmanepaxI;vixLz;wuxAxiH}/vix4{karwari;lat;pra;bahu;AwmanepaxI;vixaz;ruXAxiH}	vix3{karwari;lat;pra;bahu;AwmanepaxI;vixLz;wuxAxiH}	aBihiwakarwA,9;sakarmakaH	prApwa_howA_hE	enjoys				
-13	Palam	13	Palam	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karma,12	PalarUpa_(paramAwmA_ko)	whe_resulw				
+13	Palam	13	Palam	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karma,12	PalarUpa_(paramAwmA_ko)	the_result				

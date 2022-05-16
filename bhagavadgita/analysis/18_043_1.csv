@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	SOryam	1	SOryaM	SOrya{napuM}{1;eka}/SOrya{napuM}{2;eka}	SOrya{napuM}{1;eka}	sup_samucciwam,10	SUra-vIrawA	heroism				
-2	wejaH	2	wejo	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}	wejas{napuM}{1;eka}	sup_samucciwam,10	weja	poter				
-3	XqwiH	3	XqwirxAkRyaM	Xqwi{swrI}{1;eka}	Xqwi{swrI}{1;eka}	sup_samucciwam,10	XErya	xewerminawion				
-4	xAkRyam	4	0	xAkRya{napuM}{1;eka}/xAkRya{napuM}{2;eka}	xAkRya{napuM}{1;eka}	sup_samucciwam,10	cawurawA	resourcequlness				
-5	yuxXe	6	yuxXe	yuxXa{puM}{7;eka}/yuxXa{napuM}{1;xvi}/yuxXa{napuM}{2;xvi}/yuxXa{napuM}{7;eka}	yuxXa{napuM}{7;eka}	aXikaraNam,8	yuxXa_meM	in_bawwle				
-6	ca	5	cApyapalAyanam	ca{avya}	ca{avya}	sambanXaH,5	Ora	anx				
+2	wejaH	2	wejo	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}	wejas{napuM}{1;eka}	sup_samucciwam,10	weja	power				
+3	XqwiH	3	XqwirxAkRyaM	Xqwi{swrI}{1;eka}	Xqwi{swrI}{1;eka}	sup_samucciwam,10	XErya	determination				
+4	xAkRyam	4	0	xAkRya{napuM}{1;eka}/xAkRya{napuM}{2;eka}	xAkRya{napuM}{1;eka}	sup_samucciwam,10	cawurawA	resourcefulness				
+5	yuxXe	6	yuxXe	yuxXa{puM}{7;eka}/yuxXa{napuM}{1;xvi}/yuxXa{napuM}{2;xvi}/yuxXa{napuM}{7;eka}	yuxXa{napuM}{7;eka}	aXikaraNam,8	yuxXa_meM	in_battle				
+6	ca	5	cApyapalAyanam	ca{avya}	ca{avya}	sambanXaH,5	Ora	and				
 7	api	7	0	api{avya}	api{avya}	sambanXaH,5	BI	also				
-8	a-palAyanam	8	0	a-palAyana{napuM}{1;eka}/palAyana{napuM}{2;eka}	na-palAyana{napuM}{1;eka}	sup_samucciwam,10	na_BAganA	now_qleeing	<na-palAyanam>Wn			
-9	xAnam	9	xAnamISvaraBAvaSca	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{1;eka}	sup_samucciwam,10	xAna_xenA	generosiwy				
-10	ISvara-BAvaH	11	0	ISvaraBAva{puM}{1;eka}	ISvara-BAva{puM}{1;eka}	karwA,14.1	svAmiBAva	leaxership_nawure	<ISvara-BAvaH>W6			
-11	ca	10	0	ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora	anx				
-12	kRAwram	12	kRAwraM	kRAwra{napuM}{1;eka}/kRAwra{napuM}{2;eka}	kRAwra{napuM}{1;eka}	viSeRaNam,13	kRawriya_ke	ksawriya				
-13	karma	14	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwqsamAnAXikaraNam,14.1	karma	xuwy				
-14	sva-BAva-jam	13	svaBAvajam	svaBAvaja{puM}{2;eka}/svaBAvaja{napuM}{1;eka}/svaBAvaja{napuM}{2;eka}	svaBAva-ja{napuM}{1;eka}	viSeRaNam,13	svABAvika	born_oq_his_otn_nawure	<<sva-BAva>W6-jam>U			
+8	a-palAyanam	8	0	a-palAyana{napuM}{1;eka}/palAyana{napuM}{2;eka}	na-palAyana{napuM}{1;eka}	sup_samucciwam,10	na_BAganA	not_fleeing	<na-palAyanam>Tn			
+9	xAnam	9	xAnamISvaraBAvaSca	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{1;eka}	sup_samucciwam,10	xAna_xenA	generosity				
+10	ISvara-BAvaH	11	0	ISvaraBAva{puM}{1;eka}	ISvara-BAva{puM}{1;eka}	karwA,14.1	svAmiBAva	leadership_nature	<ISvara-BAvaH>T6			
+11	ca	10	0	ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora	and				
+12	kRAwram	12	kRAwraM	kRAwra{napuM}{1;eka}/kRAwra{napuM}{2;eka}	kRAwra{napuM}{1;eka}	viSeRaNam,13	kRawriya_ke	ksatriya				
+13	karma	14	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwqsamAnAXikaraNam,14.1	karma	duty				
+14	sva-BAva-jam	13	svaBAvajam	svaBAvaja{puM}{2;eka}/svaBAvaja{napuM}{1;eka}/svaBAvaja{napuM}{2;eka}	svaBAva-ja{napuM}{1;eka}	viSeRaNam,13	svABAvika	born_of_his_own_nature	<<sva-BAva>T6-jam>U			
 14.1	(aswi)	15	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10;akarmakaH	(hEM)	is				

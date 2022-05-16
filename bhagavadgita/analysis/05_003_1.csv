@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	jFeyaH	10	jFeyaH	jFeya{puM}{1;eka}	jFA2{kqw_prawyayaH:yaw;jFA;kryAxiH;puM}{1;eka}	aBihiwakarma,2;sakarmakaH	samaJane_yogya_hE	shoulx_be_knotn				
+1	jFeyaH	10	jFeyaH	jFeya{puM}{1;eka}	jFA2{kqw_prawyayaH:yaw;jFA;kryAxiH;puM}{1;eka}	aBihiwakarma,2;sakarmakaH	samaJane_yogya_hE	should_be_known				
 2	saH	8	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,1	vaha_(karmayogI)	he				
-3	niwya-sannyAsI	9	niwyasannyAsI	niwya-sannyAsin{puM}{1;eka}	niwya-sannyAsin{puM}{1;eka}	karmasamAnAXikaraNam,1	saxA_saMnyAsI	altays_renouncer	<niwya-sannyAsI>K1			
-4	yaH	2	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,6;niwyasambanXaH,2	jo_(puruRa)	tho				
+3	niwya-sannyAsI	9	niwyasannyAsI	niwya-sannyAsin{puM}{1;eka}	niwya-sannyAsin{puM}{1;eka}	karmasamAnAXikaraNam,1	saxA_saMnyAsI	always_renouncer	<niwya-sannyAsI>K1			
+4	yaH	2	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,6;niwyasambanXaH,2	jo_(puruRa)	who				
 5	na	3	na	na{avya}	na{avya}	prawiReXaH,6	na	never				
 6	xveRti	4	xveRti	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	samucciwam,8	xveRa_karawA_hE	abhors				
 7	na	6	na	na{avya}	na{avya}	prawiReXaH,8	na	nor				
-8	kAfkRawi	7	kAfkRawi	kAfkRaw{puM}{7;eka}/kAfkRaw{napuM}{7;eka}/kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	aBihiwakarwA,4;sakarmakaH	AkAMkRA_karawA_hE	xesires				
-8.1	(ca)	5	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,8	(Ora)	anx				
-9	nir-xvanxvaH	12	nirxvanxvo	nirxvanxva{puM}{1;eka}	nir-xvanxva{puM}{1;eka}	viSeRaNam,14.1	rAga-xveRAxi_xvanxvoM_se_rahiwa	qree_qrom_all_xualiwies	<nir-xvanxvaH>Bvp			
-10	hi	11	hi	hi{avya}	hi{avya}	sambanXaH,14	kyoMki	cerwainly				
-11	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,14	he_arjuna	O_mighwy-armex_one	<mahaw-bAho>Bs6			
+8	kAfkRawi	7	kAfkRawi	kAfkRaw{puM}{7;eka}/kAfkRaw{napuM}{7;eka}/kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	aBihiwakarwA,4;sakarmakaH	AkAMkRA_karawA_hE	desires				
+8.1	(ca)	5	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,8	(Ora)	and				
+9	nir-xvanxvaH	12	nirxvanxvo	nirxvanxva{puM}{1;eka}	nir-xvanxva{puM}{1;eka}	viSeRaNam,14.1	rAga-xveRAxi_xvanxvoM_se_rahiwa	free_from_all_dualities	<nir-xvanxvaH>Bvp			
+10	hi	11	hi	hi{avya}	hi{avya}	sambanXaH,14	kyoMki	certainly				
+11	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,14	he_arjuna	O_mighty-armed_one	<mahaw-bAho>Bs6			
 12	suKam	14	suKaM	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{avya}	kriyAviSeRaNam,14	suKapUrvaka	happily				
-13	banXAw	15	banXAwpramucyawe	banXa{puM}{5;eka}	banXa{puM}{5;eka}	apAxAnam,14	saMsArabanXana_se	qrom_bonxage				
-14	pramucyawe	16	0	pramucyawe	pra_muc1{karwari;lat;pra;eka;AwmanepaxI;pra_mucLz;wuxAxiH}	aBihiwakarwA,14.1;akarmakaH	mukwa_ho_jAwA_hE	is_complewely_liberawex				
+13	banXAw	15	banXAwpramucyawe	banXa{puM}{5;eka}	banXa{puM}{5;eka}	apAxAnam,14	saMsArabanXana_se	from_bondage				
+14	pramucyawe	16	0	pramucyawe	pra_muc1{karwari;lat;pra;eka;AwmanepaxI;pra_mucLz;wuxAxiH}	aBihiwakarwA,14.1;akarmakaH	mukwa_ho_jAwA_hE	is_completely_liberated				
 14.1	(puruRaH)	13	(0)	(puruRa{puM}{1;eka})	(puruRa{puM}{1;eka})	karwA,14	(puruRa)	person				

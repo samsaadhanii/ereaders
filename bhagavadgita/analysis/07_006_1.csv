@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ewaw-yonIni	5	ewaxyonIni	ewax-yoni{napuM}{1;bahu}/yoni{napuM}{2;bahu}/yoni{napuM}{8;bahu}	ewax-yonin{napuM}{1;bahu}	karwqsamAnAXikaraNam,3.1	ina_xonoM_prakqwiyoM_se_hI_uwpanna_honevAle	originawex_qrom_whese_wto_nawures	<ewaw-yonIni>Bs6			
-2	BUwAni	4	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{1;bahu}	karwA,3.1	BUwa	everywhing_creawex				
-3	sarvANi	3	sarvANIwyupaXAraya	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarvANI{swrI}{8;eka}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{1;bahu}	viSeRaNam,2	sampUrNa	all				
-4	iwi	1	0	iwi{avya}	iwi{avya}	karmaxyowakaH,3.1	EsA	whus				
-5	upaXAraya	2	0	upaXAraya	upa_Xq1_Nic{karwari;lot;ma;eka;parasmEpaxI;upa_XqF_Nic;BvAxiH}		samaJa	knot				
+1	ewaw-yonIni	3	ewaxyonIni	ewax-yoni{napuM}{1;bahu}/yoni{napuM}{2;bahu}/yoni{napuM}{8;bahu}	ewax-yonin{napuM}{1;bahu}	karwqsamAnAXikaraNam,3.1	ina_xonoM_prakqwiyoM_se_hI_uwpanna_honevAle	originated_from_these_two_natures	<ewaw-yonIni>Bs6			
+2	BUwAni	2	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{1;bahu}	karwA,3.1	BUwa	everything_created				
+3	sarvANi	1	sarvANIwyupaXAraya	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarvANI{swrI}{8;eka}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{1;bahu}	viSeRaNam,2	sampUrNa	all				
+3.1	(sanwi)	4	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	karma,5	(hEM)	are				
+4	iwi	5	0	iwi{avya}	iwi{avya}	karmaxyowakaH,3.1	EsA	thus				
+5	upaXAraya	6	0	upaXAraya	upa_Xq1_Nic{karwari;lot;ma;eka;parasmEpaxI;upa_XqF_Nic;BvAxiH}		samaJa	know				
 6	aham	7	ahaM	asmax{1;eka}	asmax{1;eka}	karwA,11.1	mEM	I				
 7	kqwsnasya	8	kqwsnasya	kqwsna{napuM}{6;eka}	kqwsna{napuM}{6;eka}	viSeRaNam,8	sampUrNa	all-inclusive				
-8	jagawaH	9	jagawaH	jagaw{puM}{1;bahu}/jagaw{puM}{2;bahu}/jagaw{puM}{5;eka}/jagaw{puM}{6;eka}/jagaw{puM}{8;bahu}/jagaw{napuM}{5;eka}/jagaw{napuM}{6;eka}	jagaw{napuM}{6;eka}	RaRTIsambanXaH,11	jagaw_kA	oq_whe_torlx				
-9	praBavaH	10	praBavaH	praBu{puM}{1;bahu}/praBava{puM}{1;eka}	praBava{puM}{1;eka}	karwqsamAnAXikaraNam,11.1	praBava	source_oq_maniqeswawion				
-10	pralayaH	12	pralayaswaWA	pralaya{puM}{1;eka}	pralaya{puM}{1;eka}	sup_samucciwam,9	pralaya	annihilawion				
-11	waWA (ca)	11	0	waWA{avya}	waWA{avya}	samuccayaxyowakaH,10	waWA	as_tell_as				
-12	(asmi)	13	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	is				
-13	(sanwi)	6	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})		(hEM)	are				
+8	jagawaH	9	jagawaH	jagaw{puM}{1;bahu}/jagaw{puM}{2;bahu}/jagaw{puM}{5;eka}/jagaw{puM}{6;eka}/jagaw{puM}{8;bahu}/jagaw{napuM}{5;eka}/jagaw{napuM}{6;eka}	jagaw{napuM}{6;eka}	RaRTIsambanXaH,11	jagaw_kA	of_the_world				
+9	praBavaH	10	praBavaH	praBu{puM}{1;bahu}/praBava{puM}{1;eka}	praBava{puM}{1;eka}	karwqsamAnAXikaraNam,11.1	praBava	source_of_manifestation				
+10	pralayaH	12	pralayaswaWA	pralaya{puM}{1;eka}	pralaya{puM}{1;eka}	sup_samucciwam,9	pralaya	annihilation				
+11	waWA (ca)	11	0	waWA{avya}	waWA{avya}	samuccayaxyowakaH,10	waWA	as_well_as				
+11.1	(asmi)	13	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,6;akarmakaH	(hUz)	is				

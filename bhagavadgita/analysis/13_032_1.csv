@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	yaWA	1	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,6;niwyasambanXaH,10	jisa_prakAra	as				
-2	sarva-gawam	2	sarvagawaM	sarva-gawa{puM}{2;eka}/gawa{napuM}{1;eka}/gawa{napuM}{2;eka}	sarva-gawa{napuM}{1;eka}	viSeRaNam,4	sarvawra_vyApwa	all-pervaxing	<sarva-gawaM>K1			
-3	sOkRmyAw	4	sOkRmyAxAkASaM	sOkRmya{napuM}{5;eka}	sOkRmya{napuM}{5;eka}	hewuH,6	sUkRma_hone_ke_kAraNa	xue_wo_being_subwle				
-4	AkASam	3	0	AkASa{puM}{2;eka}/AkASa{napuM}{1;eka}/AkASa{napuM}{2;eka}	AkASa{napuM}{1;eka}	karma,6	AkASa	whe_sky				
+2	sarva-gawam	2	sarvagawaM	sarva-gawa{puM}{2;eka}/gawa{napuM}{1;eka}/gawa{napuM}{2;eka}	sarva-gawa{napuM}{1;eka}	viSeRaNam,4	sarvawra_vyApwa	all-pervading	<sarva-gawaM>K1			
+3	sOkRmyAw	4	sOkRmyAxAkASaM	sOkRmya{napuM}{5;eka}	sOkRmya{napuM}{5;eka}	hewuH,6	sUkRma_hone_ke_kAraNa	due_to_being_subtle				
+4	AkASam	3	0	AkASa{puM}{2;eka}/AkASa{napuM}{1;eka}/AkASa{napuM}{2;eka}	AkASa{napuM}{1;eka}	karma,6	AkASa	the_sky				
 5	na	5	nopalipyawe	na{avya}	na{avya}	prawiReXaH,6	nahIM	never				
-6	upalipyawe	6	0	upa_lip1{karmaNi;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	upa_lip1{karwari;lat;pra;eka;AwmanepaxI;upa_lipaz;wuxAxiH}	aBihiwakarma,4;sakarmakaH	lipwa_howA	miLes				
-7	sarvawra	9	sarvawrAvasWiwo	sarvawra{avya}	sarvawra{avya}	viSeRaNam,8	sarvawra	everythere				
-8	avasWiwaH	10	0	avasWiwa{puM}{1;eka}	ava_sWA1{kqw_prawyayaH:kwa;ava_RTA;BvAxiH;puM}{1;eka}	viSeRaNam,11	sWiwa	siwuawex				
-9	xehe	8	xehe	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{napuM}{7;eka}	aXikaraNam,8	xeha_meM	in_whe_boxy				
+6	upalipyawe	6	0	upa_lip1{karmaNi;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	upa_lip1{karwari;lat;pra;eka;AwmanepaxI;upa_lipaz;wuxAxiH}	aBihiwakarma,4;sakarmakaH	lipwa_howA	mixes				
+7	sarvawra	9	sarvawrAvasWiwo	sarvawra{avya}	sarvawra{avya}	viSeRaNam,8	sarvawra	everywhere				
+8	avasWiwaH	10	0	avasWiwa{puM}{1;eka}	ava_sWA1{kqw_prawyayaH:kwa;ava_RTA;BvAxiH;puM}{1;eka}	viSeRaNam,11	sWiwa	situated				
+9	xehe	8	xehe	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{napuM}{7;eka}	aXikaraNam,8	xeha_meM	in_the_body				
 10	waWA	7	waWAwmA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,13	vEse_hI	such				
-11	AwmA	11	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,13	AwmA	whe_selq				
+11	AwmA	11	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,13	AwmA	the_self				
 12	na	12	nopalipyawe	na{avya}	na{avya}	prawiReXaH,13	nahIM	never				
-13	upalipyawe	13	0	upa_lip1{karmaNi;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	upa_lip1{karwari;lat;pra;eka;AwmanepaxI;upa_lipaz;wuxAxiH}	aBihiwakarma,11;sakarmakaH	lipwa_howA	miLes				
+13	upalipyawe	13	0	upa_lip1{karmaNi;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	upa_lip1{karwari;lat;pra;eka;AwmanepaxI;upa_lipaz;wuxAxiH}	aBihiwakarma,11;sakarmakaH	lipwa_howA	mixes				

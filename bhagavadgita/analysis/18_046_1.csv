@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yawaH	1	yawaH	yawaH{avya}/yawa{puM}{1;eka}	yawaH{avya}	hewuH,2; niwyasambanXaH,9	jisa_parameSvara_se	qrom_thom				
-2	pravqwwiH	3	pravqwwirBUwAnAM	pravqwwi{swrI}{1;eka}	pravqwwi{swrI}{1;eka}	karwA,3.1	uwpawwi	whe_emanawion				
-3	BUwAnAm	2	0	BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}/BUwA{swrI}{6;bahu}	BUwa{puM}{6;bahu}	RaRTIsambanXaH,2	sampUrNa_prANiyoM_kI	oq_all_living_enwiwies				
+1	yawaH	1	yawaH	yawaH{avya}/yawa{puM}{1;eka}	yawaH{avya}	hewuH,2; niwyasambanXaH,9	jisa_parameSvara_se	from_whom				
+2	pravqwwiH	3	pravqwwirBUwAnAM	pravqwwi{swrI}{1;eka}	pravqwwi{swrI}{1;eka}	karwA,3.1	uwpawwi	the_emanation				
+3	BUwAnAm	2	0	BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}/BUwA{swrI}{6;bahu}	BUwa{puM}{6;bahu}	RaRTIsambanXaH,2	sampUrNa_prANiyoM_kI	of_all_living_entities				
 3.1	(Bavawi)	4	(0)	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}/Bavaw{puM}{7;eka})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,2;akarmakaH	(howI_hE)	becomes				
-4	yena	5	yena	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	karwA,7; niwyasambanXaH,9	jisase	by_thom				
+4	yena	5	yena	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	karwA,7; niwyasambanXaH,9	jisase	by_whom				
 5	sarvam	7	sarvamixaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{1;eka}	karma,7	samaswa_jagaw	all				
-6	ixam	6	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,5	yaha	whis				
-7	wawam	8	0	wan1{kqw_prawyayaH:kwa;wanuz;wanAxiH;napuM}{1;eka}	wan1{kqw_prawyayaH:kwa;wanuz;wanAxiH;napuM}{1;eka}	aBihiwakarma,5;sakarmakaH	vyApwa	pervaxex				
-8	sva-karmaNA	11	svakarmaNA	svakarman{napuM}{3;eka}	sva-karman{napuM}{3;eka}	karaNam,10	apane_svABAvika_karmoM_xvArA	in_his_otn_xuwies	<sva-karmaNA>W6			
+6	ixam	6	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,5	yaha	this				
+7	wawam	8	0	wan1{kqw_prawyayaH:kwa;wanuz;wanAxiH;napuM}{1;eka}	wan1{kqw_prawyayaH:kwa;wanuz;wanAxiH;napuM}{1;eka}	aBihiwakarma,5;sakarmakaH	vyApwa	pervaded				
+8	sva-karmaNA	11	svakarmaNA	svakarman{napuM}{3;eka}	sva-karman{napuM}{3;eka}	karaNam,10	apane_svABAvika_karmoM_xvArA	in_his_own_duties	<sva-karmaNA>T6			
 9	wam	10	wamaByarcya	wax{puM}{2;eka}	wax{puM}{2;eka}	karma,10	usakI_(parameSvara_kI)	him				
-10	aByarcya	12	0	aBi_qc1{kqw_prawyayaH:lyap;qcaz;wuxAxiH}/aBi_arc1{kqw_prawyayaH:lyap;arcaz;BvAxiH}/aBi_arc2{kqw_prawyayaH:lyap;arcaz;curAxiH}	aBi_arc1{kqw_prawyayaH:lyap;aBi_arcaz;BvAxiH}	pUrvakAlaH,12	pUjA_karake	by_torshiping				
-11	sixXim	14	sixXiM	sixXi{swrI}{2;eka}	sixXi{swrI}{2;eka}	karma,12	parama_sixXi_ko	perqecwion				
+10	aByarcya	12	0	aBi_qc1{kqw_prawyayaH:lyap;qcaz;wuxAxiH}/aBi_arc1{kqw_prawyayaH:lyap;arcaz;BvAxiH}/aBi_arc2{kqw_prawyayaH:lyap;arcaz;curAxiH}	aBi_arc1{kqw_prawyayaH:lyap;aBi_arcaz;BvAxiH}	pUrvakAlaH,12	pUjA_karake	by_worshiping				
+11	sixXim	14	sixXiM	sixXi{swrI}{2;eka}	sixXi{swrI}{2;eka}	karma,12	parama_sixXi_ko	perfection				
 12	vinxawi	15	vinxawi	vix3{karwari;lat;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	vix3{karwari;lat;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	aBihiwakarwA,13;sakarmakaH	prApwa_ho_jAwA_hE	achieves				
 13	mAnavaH	13	mAnavaH	mAnava{puM}{1;eka}	mAnava{puM}{1;eka}	karwA,12	manuRya	a_man				

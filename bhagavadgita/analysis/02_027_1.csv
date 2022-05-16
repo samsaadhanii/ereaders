@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	jAwasya	2	jAwasya	jAwa{puM}{6;eka}/jAwa{napuM}{6;eka}	jAwa{puM}{6;eka}	RaRTIsambanXaH,4	janme_hue_kI	one_tho_is_born				
-2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,4.1	kyoMki	qor				
-3	XruvaH	4	Xruvo	Xruva{puM}{1;eka}	Xruva{puM}{1;eka}	karwqsamAnAXikaraNam,4.1	niSciwa	cerwain				
-4	mqwyuH	3	mqwyurXruvaM	mqwyu{puM}{1;eka}	mqwyu{puM}{1;eka}	karwA,4.1	mqwyu	xeawh				
+1	jAwasya	2	jAwasya	jAwa{puM}{6;eka}/jAwa{napuM}{6;eka}	jAwa{puM}{6;eka}	RaRTIsambanXaH,4	janme_hue_kI	one_who_is_born				
+2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,4.1	kyoMki	for				
+3	XruvaH	4	Xruvo	Xruva{puM}{1;eka}	Xruva{puM}{1;eka}	karwqsamAnAXikaraNam,4.1	niSciwa	certain				
+4	mqwyuH	3	mqwyurXruvaM	mqwyu{puM}{1;eka}	mqwyu{puM}{1;eka}	karwA,4.1	mqwyu	death				
 4.1	(aswi)	5	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hE)	is				
-5	Xruvam	9	0	Xruva{puM}{2;eka}/Xruva{napuM}{1;eka}/Xruva{napuM}{2;eka}	Xruva{napuM}{1;eka}	karwqsamAnAXikaraNam,8.1	niSciwa	ineviwable				
-6	janma	8	janma	janma{napuM}{8;eka}/janman{napuM}{1;eka}/janman{napuM}{2;eka}	janman{napuM}{1;eka}	karwA,8.1	janma	rebirwh				
-7	mqwasya	7	mqwasya	mqwa{puM}{6;eka}/mqwa{napuM}{6;eka}	mqwa{napuM}{6;eka}	RaRTIsambanXaH,6	mare_hue_kA	qor_whe_xeax				
-8	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,8.1	Ora	anx				
+5	Xruvam	9	0	Xruva{puM}{2;eka}/Xruva{napuM}{1;eka}/Xruva{napuM}{2;eka}	Xruva{napuM}{1;eka}	karwqsamAnAXikaraNam,8.1	niSciwa	inevitable				
+6	janma	8	janma	janma{napuM}{8;eka}/janman{napuM}{1;eka}/janman{napuM}{2;eka}	janman{napuM}{1;eka}	karwA,8.1	janma	rebirth				
+7	mqwasya	7	mqwasya	mqwa{puM}{6;eka}/mqwa{napuM}{6;eka}	mqwa{napuM}{6;eka}	RaRTIsambanXaH,6	mare_hue_kA	for_the_dead				
+8	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,8.1	Ora	and				
 8.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,6;akarmakaH	(hE)	is				
-9	wasmAw	11	wasmAxaparihAryeZrWe	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,15	isase	whereqore				
-10	a-parihArye	12	0	aparihAryA{swrI}{1;xvi}/aparihAryA{swrI}{2;xvi}/aparihAryA{swrI}{8;eka}/aparihAryA{swrI}{8;xvi}	a-parihArya{puM}{7;eka}	viSeRaNam,11	binA_upAyavAle	whe_ineviwable	<na-parihArye>Wn			
-11	arWe	13	0	arWa{puM}{7;eka}/arWa{napuM}{1;xvi}/arWa{napuM}{2;xvi}/arWa{napuM}{7;eka}/arWa{napuM}{8;xvi}	arWa{puM}{7;eka}	aXikaraNam,15	viRaya_meM	in_whis_mawwer				
-12	na	16	na	na{avya}	na{avya}	prawiReXaH,15	nahIM	now				
+9	wasmAw	11	wasmAxaparihAryeZrWe	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,15	isase	therefore				
+10	a-parihArye	12	0	aparihAryA{swrI}{1;xvi}/aparihAryA{swrI}{2;xvi}/aparihAryA{swrI}{8;eka}/aparihAryA{swrI}{8;xvi}	a-parihArya{puM}{7;eka}	viSeRaNam,11	binA_upAyavAle	the_inevitable	<na-parihArye>Tn			
+11	arWe	13	0	arWa{puM}{7;eka}/arWa{napuM}{1;xvi}/arWa{napuM}{2;xvi}/arWa{napuM}{7;eka}/arWa{napuM}{8;xvi}	arWa{puM}{7;eka}	aXikaraNam,15	viRaya_meM	in_this_matter				
+12	na	16	na	na{avya}	na{avya}	prawiReXaH,15	nahIM	not				
 13	wvam	14	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,15	wuma	you				
 14	Sociwum	15	Sociwumarhasi	Suc1{kqw_prawyayaH:wumun;Sucaz;BvAxiH}/Suc2{kqw_prawyayaH:wumun;IzSucizr;xivAxiH}	Suc1{kqw_prawyayaH:wumun;Sucaz;BvAxiH}	sahAyakakriyA,15	Soka_karane_ke_lie	grieve_over				
-15	arhasi	17	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwakarwA,13;akarmakaH	yogya_ho	shoulx				
+15	arhasi	17	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwakarwA,13;akarmakaH	yogya_ho	should				

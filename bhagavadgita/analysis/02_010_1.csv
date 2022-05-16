@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wam	7	wamuvAca	wax{puM}{2;eka}	wax{puM}{2;eka}	gONakarma,2	usako_(arjuna_ko)	unwo_him_(Arjuna)				
-2	uvAca	13	0	vac1{karwari;lit;u;eka;parasmEpaxI;vacaz;axAxiH}/vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;axAxiH}/brU1{karwari;lit;u;eka;parasmEpaxI;brUF;axAxiH}/brU1{karwari;lit;pra;eka;parasmEpaxI;brUF;axAxiH}	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;axAxiH}	aBihiwakarwA,3	bole	axxressex				
-3	hqRIkeSaH	8	hqRIkeSaH	hqRIkeSa{puM}{1;eka}	hqRIkeSa{puM}{1;eka}	karwA,2	anwaryAmI_SrIkqRNa_ne	whe_maswer_oq_whe_senses_Krisna				
+1	wam	7	wamuvAca	wax{puM}{2;eka}	wax{puM}{2;eka}	gONakarma,2	usako_(arjuna_ko)	unto_him_(Arjuna)				
+2	uvAca	13	0	vac1{karwari;lit;u;eka;parasmEpaxI;vacaz;axAxiH}/vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;axAxiH}/brU1{karwari;lit;u;eka;parasmEpaxI;brUF;axAxiH}/brU1{karwari;lit;pra;eka;parasmEpaxI;brUF;axAxiH}	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;axAxiH}	aBihiwakarwA,3	bole	addressed				
+3	hqRIkeSaH	8	hqRIkeSaH	hqRIkeSa{puM}{1;eka}	hqRIkeSa{puM}{1;eka}	karwA,2	anwaryAmI_SrIkqRNa_ne	the_master_of_the_senses_Krisna				
 4	prahasan	9	prahasanniva	prahasaw{puM}{1;eka}	pra_has1{kqw_prawyayaH:Sawq;pra_hasaz;BvAxiH}	varwamAnasamAnakAlaH,2	hazsawe_hue	smiling				
-5	iva	10	0	iva{avya}	iva{avya}	sambanXaH,4	jEse	as_iq				
-6	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,2	he_BarawavaMSI_XqwarARtra	O_Xhrwaraswra_xescenxanw_oq_Bharawa				
-7	senayoH	3	senayoruBayormaXye	senA{swrI}{6;xvi}/senA{swrI}{7;xvi}	senA{swrI}{6;xvi}	RaRTIsambanXaH,2	senAoM_ke	oq_whe_armies				
-8	uBayoH	2	0	uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}	uBa{napuM}{6;xvi}	viSeRaNam,7	xonoM	oq_bowh				
-9	maXye	4	0	maXya{puM}{7;eka}/maXya{napuM}{1;xvi}/maXya{napuM}{2;xvi}/maXya{napuM}{7;eka}/maXyA{swrI}{1;xvi}/maXyA{swrI}{2;xvi}	maXya{puM}{7;eka}	aXikaraNam,2	bIca_meM	in_whe_mixsw				
+5	iva	10	0	iva{avya}	iva{avya}	sambanXaH,4	jEse	as_if				
+6	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,2	he_BarawavaMSI_XqwarARtra	O_Dhrtarastra_descendant_of_Bharata				
+7	senayoH	3	senayoruBayormaXye	senA{swrI}{6;xvi}/senA{swrI}{7;xvi}	senA{swrI}{6;xvi}	RaRTIsambanXaH,2	senAoM_ke	of_the_armies				
+8	uBayoH	2	0	uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}	uBa{napuM}{6;xvi}	viSeRaNam,7	xonoM	of_both				
+9	maXye	4	0	maXya{puM}{7;eka}/maXya{napuM}{1;xvi}/maXya{napuM}{2;xvi}/maXya{napuM}{7;eka}/maXyA{swrI}{1;xvi}/maXyA{swrI}{2;xvi}	maXya{puM}{7;eka}	aXikaraNam,2	bIca_meM	in_the_midst				
 10	viRIxanwam	6	viRIxanwamixaM	viRIxaw{puM}{2;eka}	vi_sax1{kqw_prawyayaH:Sawq;vi_RaxLz;BvAxiH;puM}{2;eka}	viSeRaNam,1	Soka_karawe_hue	grieving				
-11	ixam	11	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,12	yaha	whe_qolloting				
-12	vacaH	12	vacaH	vaca{puM}{1;eka}/vacas{napuM}{1;eka}/vacas{napuM}{2;eka}	vacas{napuM}{2;eka}	muKyakarma,2	vacana	torxs				
-12.1	(sWiwvA)	5	(0)	(sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH})	(sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH})	pUrvakAlaH,2	(rukakara)	siwuawex				
+11	ixam	11	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,12	yaha	the_following				
+12	vacaH	12	vacaH	vaca{puM}{1;eka}/vacas{napuM}{1;eka}/vacas{napuM}{2;eka}	vacas{napuM}{2;eka}	muKyakarma,2	vacana	words				
+12.1	(sWiwvA)	5	(0)	(sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH})	(sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH})	pUrvakAlaH,2	(rukakara)	situated				

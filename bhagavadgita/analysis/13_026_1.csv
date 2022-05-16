@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yAvaw	2	yAvawsaFjAyawe	yAvaw{avya}/yAvaw{napuM}{1;eka}/yAvaw{napuM}{2;eka}/yAvaw{napuM}{8;eka}	yAvaw{avya}	kriyAviSeRaNam,2	yAvanmAwra	thawever				
-2	saFjAyawe	6	0	saFjAyawe	sam_jan3{karwari;lat;pra;eka;AwmanepaxI;sam_janIz;xivAxiH}	aBihiwakarwA,2;akarmakaH	uwpanna_howe_hEM	wakes_place				
-3	kiFciw	3	kiFciwsawwvaM	kiFciw{avya}/kiFciw{napuM}{1;eka}/kiFciw{napuM}{2;eka}	kiFciw{napuM}{1;eka}	viSeRaNam,4	jiwane_BI	anywhing				
-4	sawwvam	5	0	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	karwA,2	prANI	eLiswence				
-5	sWAvara-jafgamam	4	sWAvarajafgamam	sWAvara-jafgama{puM}{2;eka}/jafgama{napuM}{1;eka}/jafgama{napuM}{2;eka}	sWAvara-jafgama{napuM}{1;eka}	viSeeRaNam,4	sWAvarajaMgama	now_moving_anx_moving	<sWAvara-jafgamam>Xs			
-6	kRewra-kRewra-jFa-saMyogAw	9	kRewrakRewrajFasaMyogAwwaxvixXi	kRewra-kRewrajFa-saMyoga{puM}{5;eka}	kRewra-kRewrajFa-saMyoga{puM}{5;eka}	hewuH,8	kRewra_Ora_kRewrajFa_ke_saMyoga_se	union_bewteen_whe_boxy_anx_whe_knoter_oq_whe_boxy	<<kRewra-<kRewra-jFa>U>Xi-saMyogAw>W6			
-7	waw	8	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,8	unako_(sabako)	whaw				
-8	vixXi	10	0	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,9.1;sakarmakaH	jAna	musw_knot				
-9	BarawarRaBa	1	BarawarRaBa	BarawarRaBa{puM}{8;eka}	BarawarRaBa{puM}{8;eka}	samboXyaH,2	he_arjuna	O_chieq_oq_whe_Bharawas				
+1	yAvaw	2	yAvawsaFjAyawe	yAvaw{avya}/yAvaw{napuM}{1;eka}/yAvaw{napuM}{2;eka}/yAvaw{napuM}{8;eka}	yAvaw{avya}	kriyAviSeRaNam,2	yAvanmAwra	whatever				
+2	saFjAyawe	6	0	saFjAyawe	sam_jan3{karwari;lat;pra;eka;AwmanepaxI;sam_janIz;xivAxiH}	aBihiwakarwA,2;akarmakaH	uwpanna_howe_hEM	takes_place				
+3	kiFciw	3	kiFciwsawwvaM	kiFciw{avya}/kiFciw{napuM}{1;eka}/kiFciw{napuM}{2;eka}	kiFciw{napuM}{1;eka}	viSeRaNam,4	jiwane_BI	anything				
+4	sawwvam	5	0	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	karwA,2	prANI	existence				
+5	sWAvara-jafgamam	4	sWAvarajafgamam	sWAvara-jafgama{puM}{2;eka}/jafgama{napuM}{1;eka}/jafgama{napuM}{2;eka}	sWAvara-jafgama{napuM}{1;eka}	viSeeRaNam,4	sWAvarajaMgama	not_moving_and_moving	<sWAvara-jafgamam>Ds			
+6	kRewra-kRewra-jFa-saMyogAw	9	kRewrakRewrajFasaMyogAwwaxvixXi	kRewra-kRewrajFa-saMyoga{puM}{5;eka}	kRewra-kRewrajFa-saMyoga{puM}{5;eka}	hewuH,8	kRewra_Ora_kRewrajFa_ke_saMyoga_se	union_between_the_body_and_the_knower_of_the_body	<<kRewra-<kRewra-jFa>U>Di-saMyogAw>T6			
+7	waw	8	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,8	unako_(sabako)	that				
+8	vixXi	10	0	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,9.1;sakarmakaH	jAna	must_know				
+9	BarawarRaBa	1	BarawarRaBa	BarawarRaBa{puM}{8;eka}	BarawarRaBa{puM}{8;eka}	samboXyaH,2	he_arjuna	O_chief_of_the_Bharatas				
 9.1	(wvam)	7	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wuma)	you				

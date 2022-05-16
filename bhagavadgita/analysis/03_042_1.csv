@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	inxriyANi	1	inxriyANi	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}/inxriya{napuM}{8;bahu}	inxriya{napuM}{1;bahu}	karwA,3	inxriyoM_ko_(sWUla_SarIra_se)	senses				
 2	parANi	2	parANyAhurinxriyeByaH	para{napuM}{1;bahu}/para{napuM}{2;bahu}/para{napuM}{8;bahu}/para{napuM}{1;bahu}/para{napuM}{2;bahu}/pQ3{karwari;lot;u;eka;parasmEpaxI;pQ;curAxiH}	para{napuM}{1;bahu}	karwqsamAnAXikaraNam,3	para	superior				
-3	AhuH	3	0	ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;bahu;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,1;sakarmakaH	kahawe_hEM	is_saix				
-4	inxriyeByaH	4	0	inxriya{puM}{4;bahu}/inxriya{puM}{5;bahu}/inxriya{napuM}{4;bahu}/inxriya{napuM}{5;bahu}	inxriya{napuM}{5;bahu}	wulanA_binxuH,6	ina_inxriyoM_se	more_whan_whe_senses				
+3	AhuH	3	0	ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;bahu;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,1;sakarmakaH	kahawe_hEM	is_said				
+4	inxriyeByaH	4	0	inxriya{puM}{4;bahu}/inxriya{puM}{5;bahu}/inxriya{napuM}{4;bahu}/inxriya{napuM}{5;bahu}	inxriya{napuM}{5;bahu}	wulanA_binxuH,6	ina_inxriyoM_se	more_than_the_senses				
 5	paraM	5	paraM		para{napuM}{1; eka}	karwqsamAnAXikaraNam,6.1	para	superior				
-6	manaH	6	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	karwA,6.1	mana	whe_minx				
-6.1	(aswi)	7	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,6;akarmakaH	(kahawe_hEM)	is_saix				
-7	manasaH	8	manasaswu	manas{napuM}{5;eka}/manas{napuM}{6;eka}	manas{napuM}{5;eka}	wulanA_binxuH,10	mana_se	more_whan_whe_minx				
+6	manaH	6	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	karwA,6.1	mana	the_mind				
+6.1	(aswi)	7	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,6;akarmakaH	(kahawe_hEM)	is_said				
+7	manasaH	8	manasaswu	manas{napuM}{5;eka}/manas{napuM}{6;eka}	manas{napuM}{5;eka}	wulanA_binxuH,10	mana_se	more_than_the_mind				
 8	wu	10	0	wu{avya}	wu{avya}	sambanXaH,10.1	BI	also				
 9	parA	9	parA	parA{swrI}{1;eka}/parA{swrI}{1;eka}	parA{swrI}{1;eka}	karwqsamAnAXikaraNam,10.1	para	superior				
-10	buxXiH	11	buxXiryo	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,10.1	buxXi	inwelligence				
+10	buxXiH	11	buxXiryo	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,10.1	buxXi	intelligence				
 10.1	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,10;akarmakaH	(hE)	is				
-11	yaH	14		"  	yax{puM}{1;eka}"	"  	yax{puM}{1;eka}"	karwA,14.1;niwyasambanXaH,15	jo	he_tho				
-12	buxXeH	15	buxXeH	buxXi{swrI}{5;eka}/buxXi{swrI}{6;eka}	buxXi{swrI}{5;eka}	wulanA_binxuH,11	buxXi_se	more_whan_whe_inwelligence				
+11	yaH	14		"  	yax{puM}{1;eka}"	"  	yax{puM}{1;eka}"	karwA,14.1;niwyasambanXaH,15	jo	he_who				
+12	buxXeH	15	buxXeH	buxXi{swrI}{5;eka}/buxXi{swrI}{6;eka}	buxXi{swrI}{5;eka}	wulanA_binxuH,11	buxXi_se	more_than_the_intelligence				
 13	parawaH	16	parawaswu	paraw{puM}{2;bahu}/paraw{puM}{5;eka}/paraw{puM}{6;eka}/paraw{napuM}{5;eka}/paraw{napuM}{6;eka}/pQ3{karwari;lat;pra;xvi;parasmEpaxI;pQ;curAxiH}	parawaH{avya}	karwqsamAnAXikaraNam,14.1	awyanwa_para	superior				
-14	wu	13	0	wu{avya}	wu{avya}	sambanXaH,14.1	paranwu 	buw				
+14	wu	13	0	wu{avya}	wu{avya}	sambanXaH,14.1	paranwu 	but				
 14.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,11;akarmakaH	(hE)	is				
-15	saH	18	saH	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,15.1	vaha	whaw				
+15	saH	18	saH	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,15.1	vaha	that				
 15.1	(aswi)	20	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,15;akarmakaH	(hE)	is				
 15.2	(AwmA)	19	(0)	(Awman{puM}{1;eka})	(Awman{puM}{1;eka})	karwqsamAnAXikaraNam,15.1	(AwmA)	soul				

@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xehI	5	xehI	xehin{puM}{1;eka}	xehin{puM}{1;eka}	karwA,7.1	AwmA	whe_xteller_in_whe_boxy				
-2	niwyam	6	niwyamavaXyoZyaM	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{2;eka}	kriyAviSeRaNam,3	saxA_hI	ewernally				
-3	a-vaXyaH	7	0	avaXya{puM}{1;eka}	a-han1{kqw_prawyayaH:yaw;hanaz;axAxiH;puM}{1;eka}	karwqsamAnAXikaraNam,7.1	avaXya	never_be_slain	<na-vaXyaH>Wn			
-4	ayam	4	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,1	yaha	whis_(soul)				
-5	xehe	3	xehe	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xeha{napuM}{8;xvi}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{napuM}{7;eka}	aXikaraNam,7.1	SarIra_meM	in_whe_boxies				
-6	sarvasya	2	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,5	sabake	oq_all				
-7	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,7.1	he_arjuna	O_Bharawa				
+1	xehI	5	xehI	xehin{puM}{1;eka}	xehin{puM}{1;eka}	karwA,7.1	AwmA	the_dweller_in_the_body				
+2	niwyam	6	niwyamavaXyoZyaM	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{2;eka}	kriyAviSeRaNam,3	saxA_hI	eternally				
+3	a-vaXyaH	7	0	avaXya{puM}{1;eka}	a-han1{kqw_prawyayaH:yaw;hanaz;axAxiH;puM}{1;eka}	karwqsamAnAXikaraNam,7.1	avaXya	never_be_slain	<na-vaXyaH>Tn			
+4	ayam	4	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,1	yaha	this_(soul)				
+5	xehe	3	xehe	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xeha{napuM}{8;xvi}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{napuM}{7;eka}	aXikaraNam,7.1	SarIra_meM	in_the_bodies				
+6	sarvasya	2	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,5	sabake	of_all				
+7	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,7.1	he_arjuna	O_Bharata				
 7.1	(aswi)	8	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,1;akarmakaH	(hE)	is				
-8	wasmAw	9	wasmAwsarvANi	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,14	isaliye	whereqore				
+8	wasmAw	9	wasmAwsarvANi	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,14	isaliye	therefore				
 9	sarvANi	11	0	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarvANI{swrI}{8;eka}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{2;bahu}	viSeRaNam,10	sampUrNa	all				
-10	BUwAni	12	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{2;bahu}	karma,13	prANiyoM_ke_liye	living_enwiwies				
-11	na	14	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	now				
+10	BUwAni	12	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{2;bahu}	karma,13	prANiyoM_ke_liye	living_entities				
+11	na	14	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	not				
 12	wvam	10	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,14	wuma	you				
-13	Sociwum	13	Sociwumarhasi	Suc1{kqw_prawyayaH:wumun;Sucaz;BvAxiH}/Suc2{kqw_prawyayaH:wumun;IzSucizr;xivAxiH}	Suc1{kqw_prawyayaH:wumun;Sucaz;BvAxiH}	sahAyakakriyA,14	Soka_karane_ke	mourn_qor				
-14	arhasi	15	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwakarwA,12;akarmakaH	yogya_ho	shoulx				
+13	Sociwum	13	Sociwumarhasi	Suc1{kqw_prawyayaH:wumun;Sucaz;BvAxiH}/Suc2{kqw_prawyayaH:wumun;IzSucizr;xivAxiH}	Suc1{kqw_prawyayaH:wumun;Sucaz;BvAxiH}	sahAyakakriyA,14	Soka_karane_ke	mourn_for				
+14	arhasi	15	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwakarwA,12;akarmakaH	yogya_ho	should				

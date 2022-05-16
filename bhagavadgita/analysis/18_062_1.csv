@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wam	3	wameva	wax{puM}{2;eka}	wax{puM}{2;eka}	RaRTIsambanXaH,3	usakI_(parameSvara_kI)	unwo_Him				
-2	eva	4	0	eva{avya}	eva{avya}	sambanXaH,1	hI	cerwainly				
-3	SaraNam	5	SaraNaM	SaraNa{napuM}{1;eka}/SaraNa{napuM}{2;eka}	SaraNa{napuM}{2;eka}	karma,4	SaraNa_meM	surrenxer				
+1	wam	3	wameva	wax{puM}{2;eka}	wax{puM}{2;eka}	RaRTIsambanXaH,3	usakI_(parameSvara_kI)	unto_Him				
+2	eva	4	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
+3	SaraNam	5	SaraNaM	SaraNa{napuM}{1;eka}/SaraNa{napuM}{2;eka}	SaraNa{napuM}{2;eka}	karma,4	SaraNa_meM	surrender				
 4	gacCa	6	gacCa	gam1{karwari;lot;ma;eka;parasmEpaxI;gamLz;BvAxiH}	gam1{karwari;lot;ma;eka;parasmEpaxI;gamLz;BvAxiH}	aBihiwakarwA,6.1;sakarmakaH	jA	go				
-5	sarva-BAvena	2	sarvaBAvena	sarva-BAva{puM}{3;eka}	sarva-BAva{puM}{3;eka}	karaNam,4	saba_prakAra_se	in_all_respecws	<sarva-BAvena>K1			
-6	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,4	he_BArawa	O_son_oq_Bharawa				
+5	sarva-BAvena	2	sarvaBAvena	sarva-BAva{puM}{3;eka}	sarva-BAva{puM}{3;eka}	karaNam,4	saba_prakAra_se	in_all_respects	<sarva-BAvena>K1			
+6	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,4	he_BArawa	O_son_of_Bharata				
 6.1	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wuma)	you				
-7	waw-prasAxAw	7	wawprasAxAwparAM	wax-prasAxa{puM}{5;eka}	wax-prasAxa{puM}{5;eka}	hewuH,11	usa_paramAwmA_kI_kqpA_se	by_His_grace	<waw-prasAxAw>W6			
-8	parAm	8	0	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	viSeRaNam,9	parama	wranscenxenwal				
+7	waw-prasAxAw	7	wawprasAxAwparAM	wax-prasAxa{puM}{5;eka}	wax-prasAxa{puM}{5;eka}	hewuH,11	usa_paramAwmA_kI_kqpA_se	by_His_grace	<waw-prasAxAw>T6			
+8	parAm	8	0	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	viSeRaNam,9	parama	transcendental				
 9	SAnwim	9	SAnwiM	SAnwi{swrI}{2;eka}	SAnwi{swrI}{2;eka}	supsamucciwam,10	SAnwi_ko	peace				
-10	sWAnam	12	sWAnaM	sWAna{napuM}{1;eka}/sWAna{napuM}{2;eka}	sWAna{napuM}{2;eka}	karma,11	parama_XAma_ko	aboxe				
-11	prApsyasi	13	prApsyasi	pra_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ApLz;svAxiH}	pra_Ap1{karwari;lqt;ma;eka;parasmEpaxI;pra_ApLz;svAxiH}	aBihiwakarwA,13.1;sakarmakaH	prApwa_hogA	till_gew				
-12	SASvawam	11	SASvawam	SASvawa{puM}{2;eka}/SASvawa{napuM}{1;eka}/SASvawa{napuM}{2;eka}	SASvawa{napuM}{2;eka}	viSeRaNam,10	sanAwana	ewernal				
+10	sWAnam	12	sWAnaM	sWAna{napuM}{1;eka}/sWAna{napuM}{2;eka}	sWAna{napuM}{2;eka}	karma,11	parama_XAma_ko	abode				
+11	prApsyasi	13	prApsyasi	pra_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ApLz;svAxiH}	pra_Ap1{karwari;lqt;ma;eka;parasmEpaxI;pra_ApLz;svAxiH}	aBihiwakarwA,13.1;sakarmakaH	prApwa_hogA	will_get				
+12	SASvawam	11	SASvawam	SASvawa{puM}{2;eka}/SASvawa{napuM}{1;eka}/SASvawa{napuM}{2;eka}	SASvawa{napuM}{2;eka}	viSeRaNam,10	sanAwana	eternal				
 13	(ca)	10	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,10	(waWA)	also				
 13.1	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wuma)	you				

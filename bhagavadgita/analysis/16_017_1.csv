@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	Awma-samBAviwAH	2	AwmasaMBAviwAH	Awman-samBAviwa{puM}{1;bahu}/samBAviwa{puM}{8;bahu}/samBAviwA{swrI}{1;bahu}/samBAviwA{swrI}{2;bahu}/samBAviwA{swrI}{8;bahu}	Awman-samBAviwa{puM}{1;bahu}	supsamucciwam,3	apane-Apako_hI_SreRTa_mAnanevAle	selq-complacenw	<Awma-samBAviwAH>W3			
-2	swabXAH	3	swabXA	swabXA{swrI}{1;bahu}/swabXA{swrI}{2;bahu}/swabXA{swrI}{8;bahu}	swamB1{kqw_prawyayaH:kwa;RtaBiz;BvAxiH;puM}{1;bahu}	supsamucciwam,3	GamaNdI_puruRa	impuxenw				
-3	Xana-mAna-maxa-anviwAH	4	XanamAnamaxAnviwAH	XanamAna-maxa-anviwa{puM}{1;bahu}/anviwa{puM}{8;bahu}/anviwA{swrI}{1;bahu}/anviwA{swrI}{2;bahu}/anviwA{swrI}{8;bahu}	Xana-mAna-maxa-anviwa{puM}{1;bahu}	karwA,4	Xana_Ora_mAna_ke_maxa_se_yukwa_hokara	absorbex_in_tealwh,_qalse_preswige_anx_prixe	<<Xana-mAna-maxa>Xi-anviwAH>W3			
+1	Awma-samBAviwAH	2	AwmasaMBAviwAH	Awman-samBAviwa{puM}{1;bahu}/samBAviwa{puM}{8;bahu}/samBAviwA{swrI}{1;bahu}/samBAviwA{swrI}{2;bahu}/samBAviwA{swrI}{8;bahu}	Awman-samBAviwa{puM}{1;bahu}	supsamucciwam,3	apane-Apako_hI_SreRTa_mAnanevAle	self-complacent	<Awma-samBAviwAH>T3			
+2	swabXAH	3	swabXA	swabXA{swrI}{1;bahu}/swabXA{swrI}{2;bahu}/swabXA{swrI}{8;bahu}	swamB1{kqw_prawyayaH:kwa;RtaBiz;BvAxiH;puM}{1;bahu}	supsamucciwam,3	GamaNdI_puruRa	impudent				
+3	Xana-mAna-maxa-anviwAH	4	XanamAnamaxAnviwAH	XanamAna-maxa-anviwa{puM}{1;bahu}/anviwa{puM}{8;bahu}/anviwA{swrI}{1;bahu}/anviwA{swrI}{2;bahu}/anviwA{swrI}{8;bahu}	Xana-mAna-maxa-anviwa{puM}{1;bahu}	karwA,4	Xana_Ora_mAna_ke_maxa_se_yukwa_hokara	absorbed_in_wealth,_false_prestige_and_pride	<<Xana-mAna-maxa>Di-anviwAH>T3			
 3.1	(ca)	5	()	(ca{avya})	(ca{avya})	samuccayaxyowakaH,3	(Ora)	also				
-4	yajanwe	9	yajanwe	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	aBihiwakarwA,3;akarmakaH	yajana_karawe_hEM	perqorm_sacriqices				
-5	nAma-yajFEH	6	nAmayajFEswe	nAman-yajFa{puM}{3;bahu}	nAman-yajFa{puM}{3;bahu}	karaNam,4	kevala_nAmamAwra_ke_yajFoM_xvArA	tiwh_sacriqice_in_name_only	<nAma-yajFEH>Km			
-6	we	1	0	wax{puM}{1;bahu}	wax{puM}{1;bahu}	karwA,4	ve	whey				
-7	xamBena	7	xamBenAviXipUrvakam	xamBa{puM}{3;eka}	xamBa{puM}{3;eka}	hewuH,4	pAKaNda_se	ouw_oq_prixe				
-8	a-viXi-pUrvakam	8	0	a-viXi-pUrvakam	na-viXi-pUrvaka{avya}	kriyAviSeRaNam,4	SAswraviXirahiwa	tiwhouw_qolloting_any_rules_anx_regulawions	<na-<viXi-pUrvakam>Bs6>Wn			
+4	yajanwe	9	yajanwe	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	aBihiwakarwA,3;akarmakaH	yajana_karawe_hEM	perform_sacrifices				
+5	nAma-yajFEH	6	nAmayajFEswe	nAman-yajFa{puM}{3;bahu}	nAman-yajFa{puM}{3;bahu}	karaNam,4	kevala_nAmamAwra_ke_yajFoM_xvArA	with_sacrifice_in_name_only	<nAma-yajFEH>Km			
+6	we	1	0	wax{puM}{1;bahu}	wax{puM}{1;bahu}	karwA,4	ve	they				
+7	xamBena	7	xamBenAviXipUrvakam	xamBa{puM}{3;eka}	xamBa{puM}{3;eka}	hewuH,4	pAKaNda_se	out_of_pride				
+8	a-viXi-pUrvakam	8	0	a-viXi-pUrvakam	na-viXi-pUrvaka{avya}	kriyAviSeRaNam,4	SAswraviXirahiwa	without_following_any_rules_and_regulations	<na-<viXi-pUrvakam>Bs6>Tn			

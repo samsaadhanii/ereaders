@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,6	jisa_kAla_meM	then				
-2	viniyawam	2	viniyawaM	viniyawa{puM}{2;eka}/viniyawa{napuM}{1;eka}/viniyawa{napuM}{2;eka}	viniyawa{napuM}{1;eka}	viSeRaNam,3	awyanwa_vaSa_meM_kiyA_huA	parwicularly_xisciplinex				
-3	ciwwam	3	ciwwamAwmanyevAvawiRTawe	ciwwa{puM}{2;eka}/ciwwa{napuM}{1;eka}/ciwwa{napuM}{2;eka}	ciwwa{napuM}{1;eka}	karwA,6	ciwwa	whe_minx_anx_iws_acwiviwies				
-4	Awmani	6	0	Awman{puM}{7;eka}	Awman{puM}{7;eka}	aXikaraNam,6	paramAwmA_meM	in_whe_wranscenxence				
-5	eva	7	eva	eva{avya}	eva{avya}	sambanXaH,4	hI	cerwainly				
-6	avawiRTawe	8	0	avawiRTawe	ava_sWA1{karwari;lat;pra;eka;AwmanepaxI;ava_RTA;BvAxiH}		BalIBAzwi_sWiwa_ho_jAwA_hE	becomes_siwuawex				
-7	nis-spqhaH	5	niHspqhaH	nis-{avya}-spqha{puM}{1;eka}	nis-spqha{puM}{1;eka}	viSeRaNam,9	spqhArahiwa_puruRa	xevoix_oq_xesire	<nis-spqhaH>Bvp			
-8	sarva-kAmeByaH	4	sarvakAmeByo	sarva-kAma{puM}{4;bahu}/kAma{puM}{5;bahu}	sarva-kAma{puM}{5;bahu}	apAxAnam,7	sampUrNa_BogoM_se	all_kinxs_oq_mawerial_xesires	<sarva-kAmeByaH>K1			
-9	yukwaH	10	yukwa	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	karma,11	yogayukwa	tell_siwuawex_in_yoga				
-10	iwi	11	iwyucyawe	iwi{avya}	iwi{avya}	karmaxyowakaH,9	EsA	whus				
-11	ucyawe	12	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}		kahA_jAwA_hE	saix_wo_be				
-12	waxA	9	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,11;niwyasambanXaH,1	usa_kAla_meM	aw_whaw_wime				
+1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,6	jisa_kAla_meM	when				
+2	viniyawam	2	viniyawaM	viniyawa{puM}{2;eka}/viniyawa{napuM}{1;eka}/viniyawa{napuM}{2;eka}	viniyawa{napuM}{1;eka}	viSeRaNam,3	awyanwa_vaSa_meM_kiyA_huA	particularly_disciplined				
+3	ciwwam	3	ciwwamAwmanyevAvawiRTawe	ciwwa{puM}{2;eka}/ciwwa{napuM}{1;eka}/ciwwa{napuM}{2;eka}	ciwwa{napuM}{1;eka}	karwA,6	ciwwa	the_mind_and_its_activities				
+4	Awmani	6	0	Awman{puM}{7;eka}	Awman{puM}{7;eka}	aXikaraNam,6	paramAwmA_meM	in_the_transcendence				
+5	eva	7	eva	eva{avya}	eva{avya}	sambanXaH,4	hI	certainly				
+6	avawiRTawe	8	0	avawiRTawe	ava_sWA1{karwari;lat;pra;eka;AwmanepaxI;ava_RTA;BvAxiH}		BalIBAzwi_sWiwa_ho_jAwA_hE	becomes_situated				
+7	nis-spqhaH	5	niHspqhaH	nis-{avya}-spqha{puM}{1;eka}	nis-spqha{puM}{1;eka}	viSeRaNam,9	spqhArahiwa_puruRa	devoid_of_desire	<nis-spqhaH>Bvp			
+8	sarva-kAmeByaH	4	sarvakAmeByo	sarva-kAma{puM}{4;bahu}/kAma{puM}{5;bahu}	sarva-kAma{puM}{5;bahu}	apAxAnam,7	sampUrNa_BogoM_se	all_kinds_of_material_desires	<sarva-kAmeByaH>K1			
+9	yukwaH	10	yukwa	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	karma,11	yogayukwa	well_situated_in_yoga				
+10	iwi	11	iwyucyawe	iwi{avya}	iwi{avya}	karmaxyowakaH,9	EsA	thus				
+11	ucyawe	12	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}		kahA_jAwA_hE	said_to_be				
+12	waxA	9	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,11;niwyasambanXaH,1	usa_kAla_meM	at_that_time				

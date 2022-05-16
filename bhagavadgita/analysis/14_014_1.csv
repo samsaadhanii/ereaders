@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,6; niwyasambanXaH,8	jaba	then				
-2	sawwve	3	sawwve	sawwva{puM}{7;eka}/sawwva{napuM}{1;xvi}/sawwva{napuM}{2;xvi}/sawwva{napuM}{7;eka}/sawwva{napuM}{1;xvi}/sawwva{napuM}{2;xvi}/sawwva{napuM}{7;eka}	sawwva{napuM}{7;eka}	aXikaraNam,3	sawwvaguNa_kI	moxe_oq_gooxness				
-3	pravqxXe	4	pravqxXe	pravqxXa{puM}{7;eka}/pravqxXi{swrI}{8;eka}	pra_vqX1{kqw_prawyayaH:kwa;pra_vqXuz;BvAxiH;puM}{7;eka}	BAvalakRaNasapwamI_pUrvakAlaH,7	vqxXi_meM	in_xevelopmenw				
-4	wu	8	wu	wu{avya}	wu{avya}	sambanXaH,8	wo	buw				
-5	pralayam	5	pralayaM	pralaya{puM}{2;eka}	pralaya{puM}{2;eka}	karma,6	mqwyu_ko	xissoluwion				
+1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,6;niwyasambanXaH,8	jaba	when				
+2	sawwve	3	sawwve	sawwva{puM}{7;eka}/sawwva{napuM}{1;xvi}/sawwva{napuM}{2;xvi}/sawwva{napuM}{7;eka}/sawwva{napuM}{1;xvi}/sawwva{napuM}{2;xvi}/sawwva{napuM}{7;eka}	sawwva{napuM}{7;eka}	aXikaraNam,3	sawwvaguNa_kI	mode_of_goodness				
+3	pravqxXe	4	pravqxXe	pravqxXa{puM}{7;eka}/pravqxXi{swrI}{8;eka}	pra_vqX1{kqw_prawyayaH:kwa;pra_vqXuz;BvAxiH;puM}{7;eka}	BAvalakRaNasapwamI_pUrvakAlaH,7	vqxXi_meM	in_development				
+4	wu	8	wu	wu{avya}	wu{avya}	sambanXaH,8	wo	but				
+5	pralayam	5	pralayaM	pralaya{puM}{2;eka}	pralaya{puM}{2;eka}	karma,6	mqwyu_ko	dissolution				
 6	yAwi	6	yAwi	yAw{puM}{7;eka}/yAw{napuM}{7;eka}/yA1{karwari;lat;pra;eka;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;eka;parasmEpaxI;yA;axAxiH}	aBihiwakarwA,7;sakarmakaH	prApwa_howA_hE	goes				
-7	xeha-Bqw	2	xehaBqw	xehaBqw{puM}{1;eka}/xehaBqw{puM}{8;eka}	xeha-Bqw{puM}{1;eka}	karwA,6	yaha_manuRya	emboxiex	<xeha-Bqw>U			
-8	waxA	7	waxowwamavixAM	waxA{avya}	waxA{avya}	kAlAXikaraNam,12	waba	aw_whaw_wime				
-9	uwwama-vixAm	10	0	uwwama-vix{puM}{6;bahu}/vix{swrI}{6;bahu}/vix{napuM}{6;bahu}/vixA{swrI}{2;eka}	uwwama-vix{puM}{6;bahu}	viSeRaNam,10	uwwama_karma_karanevAloM_ke	oq_whe_greaw_sages	<uwwama-vixAM>U			
-10	lokAn	12	lokAnamalAnprawipaxyawe	loka{puM}{2;bahu}	loka{puM}{2;bahu}	karma,12	lokoM_ko	whe_planews				
-11	a-malAn	11	0	amala{puM}{2;bahu}	amala{puM}{2;bahu}	viSeRaNam,10	nirmala_xivya_svargAxi	pure	<na-malAn>Wn			
-12	prawipaxyawe	13	0	prawi_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/prawi_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	prawi_pax1{karwari;lat;pra;eka;AwmanepaxI;prawi_paxaz;xivAxiH}	aBihiwakarwA,7;sakarmakaH	prApwa_howA_hE	awwains				
-12.1	(xeha-Bqw)	9	(0)	(xehaBqw{puM}{1;eka}/xehaBqw{puM}{8;eka})	(xeha-Bqw{puM}{1;eka})	karwA,12	(yaha_manuRya)	emboxiex	<xeha-Bqw>U			
+7	xeha-Bqw	2	xehaBqw	xehaBqw{puM}{1;eka}/xehaBqw{puM}{8;eka}	xeha-Bqw{puM}{1;eka}	karwA,6	yaha_manuRya	embodied	<xeha-Bqw>U			
+8	waxA	7	waxowwamavixAM	waxA{avya}	waxA{avya}	kAlAXikaraNam,12	waba	at_that_time				
+9	uwwama-vixAm	10	0	uwwama-vix{puM}{6;bahu}/vix{swrI}{6;bahu}/vix{napuM}{6;bahu}/vixA{swrI}{2;eka}	uwwama-vix{puM}{6;bahu}	viSeRaNam,10	uwwama_karma_karanevAloM_ke	of_the_great_sages	<uwwama-vixAM>U			
+10	lokAn	12	lokAnamalAnprawipaxyawe	loka{puM}{2;bahu}	loka{puM}{2;bahu}	karma,12	lokoM_ko	the_planets				
+11	a-malAn	11	0	amala{puM}{2;bahu}	amala{puM}{2;bahu}	viSeRaNam,10	nirmala_xivya_svargAxi	pure	<na-malAn>Tn			
+12	prawipaxyawe	13	0	prawi_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/prawi_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	prawi_pax1{karwari;lat;pra;eka;AwmanepaxI;prawi_paxaz;xivAxiH}	aBihiwakarwA,7;sakarmakaH	prApwa_howA_hE	attains				
+12.1	(xeha-Bqw)	9	(0)	(xehaBqw{puM}{1;eka}/xehaBqw{puM}{8;eka})	(xeha-Bqw{puM}{1;eka})	karwA,12	(yaha_manuRya)	embodied	<xeha-Bqw>U			

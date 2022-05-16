@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	apare	9	apare	apara{puM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/apara{napuM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}	apara{puM}{1;bahu}	karwA,5	anya_(kiwane_hI)	others				
+2	niyawa-AhArAH	10	niyawAhArAH	niyawa-AhAra{puM}{1;bahu}/AhAra{puM}{8;bahu}	niyawa-AhAra{puM}{1;bahu}	viSeRaNam,1	niyamiwa_AhArakaranevAle	controlled_eating	<niyawa-AhArAH>Bs6			
+3	prANAn	14	prANAnprANeRu	prANa{puM}{2;bahu}	prANa{puM}{2;bahu}	karma,5	prANoM_kA	outgoing_air				
+4	prANeRu	15		prANa{puM}{7;bahu}	prANa{puM}{7;bahu}	aXikaraNam,5	prANoM_meM	in_the_outgoing_air				
+5	juhvawi	16	juhvawi	juhvaw{puM}{7;eka}/juhvaw{napuM}{7;eka}/hu1{karwari;lat;pra;bahu;parasmEpaxI;hu;juhowyAxiH}	hu1{karwari;lat;pra;bahu;parasmEpaxI;hu;juhowyAxiH}	aBihiwakarwA,1;sakarmakaH	havana_kiyA_karawe_hEM	sacrifices				
+6	sarve	18	sarveZpyewe	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,10.2	samaswa	all				
+7	api	19		api{avya}	api{avya}	sambanXaH,6	BI	although_apparently_different				
+8	ewe	17		ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{puM}{1;bahu}	viSeRaNam,6	ye	these				
+9	yajFa-vixaH	20	yajFavixo	yajFavix{puM}{1;bahu}/yajFavix{puM}{2;bahu}/yajFavix{puM}{5;eka}/yajFavix{puM}{6;eka}/yajFavix{puM}{8;bahu}	yajFavix{puM}{1;bahu}	karwqsamAnAXikaraNam,10.2	yajFoM_xvArA_pApoM_kA_nASa_kara_xenevAle	conversant_with_the_purpose_of_performing	<yajFa-vixaH>U			
+10	yajFa-kRapiwa-kalmaRAH	22	yajFakRapiwakalmaRAH	yajFakRapiwa-kalmaRa{puM}{1;bahu}/kalmaRa{puM}{8;bahu}/kalmaRA{swrI}{1;bahu}/kalmaRA{swrI}{2;bahu}/kalmaRA{swrI}{8;bahu}	yajFakRapiwa-kalmaRa{puM}{1;bahu}	viSeRaNam,9	yajFoM_ko_jAnanevAle	sinful_reactions_being_cleansed_through_sacrifices	<<yajFa-kRapiwa>T3-kalmaRAH>Bs6			
+10.2	(sanwi)	13	()	(as1{karwari;lat;pra;bahu;parasmEpaxI;as;axAxiH})	(as1{karwari;lat;pra;bahu;parasmEpaxI;as;axAxiH})	aBihiwakarwA,10.1;akarmakaH						

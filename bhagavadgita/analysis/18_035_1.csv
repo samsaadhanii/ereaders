@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yayA	3	yayA	yax{swrI}{3;eka}	yax{swrI}{3;eka}	viSeRaNam,1.1	jisa	by_thich				
-1.1	(XqwyA)	4	(0)	(Xqwi{swrI}{3;eka})	(Xqwi{swrI}{3;eka})	karaNam,10	(XAraNa-Sakwi_ke_xvArA)	by_xewerminawion				
-2	svapnam	5	svapnaM	svapna{puM}{2;eka}	svapna{napuM}{2;eka}	sup_samucciwam,6	nixrA	xream				
-3	Bayam	6	BayaM	Baya{napuM}{1;eka}/Baya{napuM}{2;eka}	Baya{napuM}{2;eka}	sup_samucciwam,8	Baya	qearqulness				
-4	Sokam	7	SokaM	Soka{puM}{2;eka}	Soka{puM}{2;eka}	sup_samucciwam,8	cinwA	lamenwawion				
+1	yayA	3	yayA	yax{swrI}{3;eka}	yax{swrI}{3;eka}	viSeRaNam,1.1	jisa	by_which				
+1.1	(XqwyA)	4	(0)	(Xqwi{swrI}{3;eka})	(Xqwi{swrI}{3;eka})	karaNam,10	(XAraNa-Sakwi_ke_xvArA)	by_determination				
+2	svapnam	5	svapnaM	svapna{puM}{2;eka}	svapna{napuM}{2;eka}	sup_samucciwam,6	nixrA	dream				
+3	Bayam	6	BayaM	Baya{napuM}{1;eka}/Baya{napuM}{2;eka}	Baya{napuM}{2;eka}	sup_samucciwam,8	Baya	fearfulness				
+4	Sokam	7	SokaM	Soka{puM}{2;eka}	Soka{puM}{2;eka}	sup_samucciwam,8	cinwA	lamentation				
 5	viRAxam	9	viRAxaM	viRAxa{puM}{2;eka}	viRAxa{puM}{2;eka}	sup_samucciwam,8	xuHKa_ko	moroseness				
 6	maxam	10	maxameva	maxa{puM}{2;eka}/maxa{napuM}{1;eka}/maxa{napuM}{2;eka}	maxa{puM}{2;eka}	karma,10	unmawwawA_ko	illusion				
-7	eva	11	0	eva{avya}	eva{avya}	sambanXaH,6	BI	cerwainly				
+7	eva	11	0	eva{avya}	eva{avya}	sambanXaH,6	BI	certainly				
 8	ca	8	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora	also				
 9	na	12	na	na{avya}	na{avya}	prawiReXaH,10	nahIM	never				
-10	vimuFcawi	13	vimuFcawi	vimuFcawi	vi_muc1{karwari;lat;pra;eka;parasmEpaxI;vi_mucLz;wuxAxiH}	aBihiwakarwA,11;sakarmakaH	Coda़wA	is_liberawex				
-11	xur-meXAH	2	xurmeXA	xurmeXas{puM}{1;eka}	xur-meXas{puM}{1;eka}	karwA,10	xuRta_buxXivAlA_manuRya	uninwelligenw	<xur-meXAH>Bs6			
-12	XqwiH	15	XqwiH	Xqwi{swrI}{1;eka}	Xqwi{swrI}{1;eka}	karwA,15.1	XAraNa-Sakwi	xewerminawion				
-13	sA	14	sA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,12	vaha	whaw				
-14	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,10	he_pArWa	O_son_oq_Prwha				
-15	wAmasI	16	wAmasI	wAmasI{swrI}{1;eka}	wAmasI{swrI}{1;eka}	karwqsamAnAXikaraNam,15.1	wAmasI	in_whe_moxe_oq_ignorance				
+10	vimuFcawi	13	vimuFcawi	vimuFcawi	vi_muc1{karwari;lat;pra;eka;parasmEpaxI;vi_mucLz;wuxAxiH}	aBihiwakarwA,11;sakarmakaH	Coda़wA	is_liberated				
+11	xur-meXAH	2	xurmeXA	xurmeXas{puM}{1;eka}	xur-meXas{puM}{1;eka}	karwA,10	xuRta_buxXivAlA_manuRya	unintelligent	<xur-meXAH>Bs6			
+12	XqwiH	15	XqwiH	Xqwi{swrI}{1;eka}	Xqwi{swrI}{1;eka}	karwA,15.1	XAraNa-Sakwi	determination				
+13	sA	14	sA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,12	vaha	that				
+14	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,10	he_pArWa	O_son_of_Prtha				
+15	wAmasI	16	wAmasI	wAmasI{swrI}{1;eka}	wAmasI{swrI}{1;eka}	karwqsamAnAXikaraNam,15.1	wAmasI	in_the_mode_of_ignorance				
 15.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				

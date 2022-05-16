@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sannyAsasya	4	sannyAsasya	sannyAsa{puM}{6;eka}	sannyAsa{puM}{6;eka}	sup_samucciwam,6	saMnyAsa	renunciawion				
-2	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	viSeRaNam,10	he_mahAbAho	O_Mighwy-armex_one	<mahaw-bAho>Bs6			
-3	wawwvam	8	wawwvamicCAmi	wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka}/wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka}	wawwva{napuM}{2;eka}	karma,5	wawwva_ko	wruwh				
+1	sannyAsasya	4	sannyAsasya	sannyAsa{puM}{6;eka}	sannyAsa{puM}{6;eka}	sup_samucciwam,6	saMnyAsa	renunciation				
+2	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	viSeRaNam,10	he_mahAbAho	O_Mighty-armed_one	<mahaw-bAho>Bs6			
+3	wawwvam	8	wawwvamicCAmi	wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka}/wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka}	wawwva{napuM}{2;eka}	karma,5	wawwva_ko	truth				
 4	icCAmi	11	icCAmi	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	aBihiwa_karwA,10.1;akarmakaH	cAhawA_hUz					
-5	vexiwum	10	vexiwum	vix1{kqw_prawyayaH:wumun;vixaz;axAxiH}/vix3{kqw_prawyayaH:wumun;vixLz;wuxAxiH}	vix1{kqw_prawyayaH:wumun;vixaz;axAxiH}	karma,4	jAnanA	tish_wo_unxerswanx				
-6	wyAgasya	5	wyAgasya	wyAga{puM}{6;eka}	wyAga{puM}{6;eka}	RaRTIsambanXaH,3	wyAga_ke	oq_renunciawion				
+5	vexiwum	10	vexiwum	vix1{kqw_prawyayaH:wumun;vixaz;axAxiH}/vix3{kqw_prawyayaH:wumun;vixLz;wuxAxiH}	vix1{kqw_prawyayaH:wumun;vixaz;axAxiH}	karma,4	jAnanA	wish_to_understand				
+6	wyAgasya	5	wyAgasya	wyAga{puM}{6;eka}	wyAga{puM}{6;eka}	RaRTIsambanXaH,3	wyAga_ke	of_renunciation				
 7	ca	6	ca	ca{avya}	ca{avya}	samuccayaxyowakam,6	Ora	also				
-8	hqRIkeSa	2	hqRIkeSa	hqRIkeSa{puM}{8;eka}	hqRIkeSa{puM}{8;eka}	viSeRaNam,10	he_hqRIkeSa	O_maswer_oq_whe_senses				
-9	pqWak	7	pqWakkeSiniRUxana	pqWak{avya}	pqWak{avya}	kriyAviSeRaNam,4	pqWak-pqWak	xiqqerenwly				
-10	keSiniRUxana	3	0	keSiniRUxana{puM}{8;eka}	keSiniRUxana{puM}{8;eka}	samboXyaH,4	he_keSiniRUxana	O_killer_oq_whe_Kesi_xemon				
+8	hqRIkeSa	2	hqRIkeSa	hqRIkeSa{puM}{8;eka}	hqRIkeSa{puM}{8;eka}	viSeRaNam,10	he_hqRIkeSa	O_master_of_the_senses				
+9	pqWak	7	pqWakkeSiniRUxana	pqWak{avya}	pqWak{avya}	kriyAviSeRaNam,4	pqWak-pqWak	differently				
+10	keSiniRUxana	3	0	keSiniRUxana{puM}{8;eka}	keSiniRUxana{puM}{8;eka}	samboXyaH,4	he_keSiniRUxana	O_killer_of_the_Kesi_demon				
 10.1	(aham)	9	()	asmax{1;eka}	asmax{1;eka}	karwA,4						

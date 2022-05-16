@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	akRaram	2	akRaraM	akRara{napuM}{1;eka}/akRara{napuM}{2;eka}/kRar1{karwari;laf;u;eka;parasmEpaxI;kRaraz;BvAxiH}	akRara{napuM}{1;eka}	karma,3.1	akRara	inxeswrucwible	<na-kRaram>Wn			
+1	akRaram	2	akRaraM	akRara{napuM}{1;eka}/akRara{napuM}{2;eka}/kRar1{karwari;laf;u;eka;parasmEpaxI;kRaraz;BvAxiH}	akRara{napuM}{1;eka}	karma,3.1	akRara	indestructible	<na-kRaram>Tn			
 2	brahma	3	brahma	brahma{napuM}{8;eka}/brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karmasamAnAXikaraNam,3.1	brahma	Brahman				
-3	paramam	1	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{1;eka}	viSeRaNam,2	parama	wranscenxenwal				
-3.1	(ucyawe)	4	(0)	(ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH})	(vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH})	aBihiwa_karwA,2;sakarmakaH	(kahA_jAwA_hE)	is_callex				
-4	svaBAvaH	5	svaBAvoZXyAwmamucyawe	svaBAva{puM}{1;eka}	svaBAva{puM}{1;eka}	karma,6	apanA_svarUpa_arWAw_jIvAwmA	ewernal_nawure	<sva-BAvaH>W6			
-5	aXyAwmam	6	0	aXyAwma{puM}{2;eka}/aXyAwma{napuM}{1;eka}/aXyAwma{napuM}{2;eka}	aXyAwma{napuM}{1;eka}	karmasamAnAXikaraNam,6	aXyAwma	whe_selq	<aXi-AwmaM>A1			
-6	ucyawe	7	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karwA,4;sakarmakaH	kahA_jAwA_hE	is_callex				
-7	BUwaBAva-uxBavakaraH	8	BUwaBAvoxBavakaro	BUwa-BAva-uxBava-kara{puM}{1;eka}	BUwa-BAva-uxBava-kara{puM}{1;eka}	karma,9.1	BUwoM_ke_BAva_ko_uwpanna_karanevAlA	acwion_proxucing_whe_mawerial_boxies_oq_whe_living_enwiwies	<<<BUwa-BAva>W6-uxBava>W6-karaH>U			
-8	visargaH	9	visargaH	visarga{puM}{1;eka}	visarga{puM}{1;eka}	viSeRaNam,7	wyAga	creawion				
-9	karmasaFjFiwaH	10	karmasaFjFiwaH	karman-saFjFiwa{puM}{1;eka}	karman-saFjFiwa{puM}{1;eka}	karwqsamAnAXikaraNam,9.1	karma_nAma_se	is_callex_as_qruiwive_acwiviwies	<karma-saFjFiwaH>K7			
-9.1	(aswi)	11	(0)	as1{karwari;lat;pra;eka;parasmEpaxI;as;axAxiH})	as1{karwari;lat;pra;eka;parasmEpaxI;as;axAxiH})	aBihiwakarwA,8;akarmakaH	(kahA_gayA_hE)	is_callex				
+3	paramam	1	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{1;eka}	viSeRaNam,2	parama	transcendental				
+3.1	(ucyawe)	4	(0)	(ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH})	(vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH})	aBihiwa_karwA,2;sakarmakaH	(kahA_jAwA_hE)	is_called				
+4	svaBAvaH	5	svaBAvoZXyAwmamucyawe	svaBAva{puM}{1;eka}	svaBAva{puM}{1;eka}	karma,6	apanA_svarUpa_arWAw_jIvAwmA	eternal_nature	<sva-BAvaH>T6			
+5	aXyAwmam	6	0	aXyAwma{puM}{2;eka}/aXyAwma{napuM}{1;eka}/aXyAwma{napuM}{2;eka}	aXyAwma{napuM}{1;eka}	karmasamAnAXikaraNam,6	aXyAwma	the_self	<aXi-AwmaM>A1			
+6	ucyawe	7	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karwA,4;sakarmakaH	kahA_jAwA_hE	is_called				
+7	BUwaBAva-uxBavakaraH	8	BUwaBAvoxBavakaro	BUwa-BAva-uxBava-kara{puM}{1;eka}	BUwa-BAva-uxBava-kara{puM}{1;eka}	karma,9.1	BUwoM_ke_BAva_ko_uwpanna_karanevAlA	action_producing_the_material_bodies_of_the_living_entities	<<<BUwa-BAva>T6-uxBava>T6-karaH>U			
+8	visargaH	9	visargaH	visarga{puM}{1;eka}	visarga{puM}{1;eka}	viSeRaNam,7	wyAga	creation				
+9	karmasaFjFiwaH	10	karmasaFjFiwaH	karman-saFjFiwa{puM}{1;eka}	karman-saFjFiwa{puM}{1;eka}	karwqsamAnAXikaraNam,9.1	karma_nAma_se	is_called_as_fruitive_activities	<karma-saFjFiwaH>K7			
+9.1	(aswi)	11	(0)	as1{karwari;lat;pra;eka;parasmEpaxI;as;axAxiH})	as1{karwari;lat;pra;eka;parasmEpaxI;as;axAxiH})	aBihiwakarwA,8;akarmakaH	(kahA_gayA_hE)	is_called				

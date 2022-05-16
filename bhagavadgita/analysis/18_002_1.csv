@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kAmyAnAm	2	kAmyAnAM	kAmya{napuM}{6;bahu}/kAmyA{swrI}{6;bahu}	kAmya{napuM}{6;bahu}	viSeRaNam,2	kAmya	tiwh_xesire				
-2	karmaNAm	3	karmaNAM	karman{napuM}{6;bahu}	karman{napuM}{6;bahu}	RaRTIsambanXaH,3	karmoM_ke	acwiviwies				
-3	nyAsam	4	nyAsaM	nyAsa{puM}{2;eka}	nyAsa{puM}{2;eka}	karma,6	wyAga_ko	renunciawion				
-4	sannyAsam	5	sannyAsaM	sannyAsa{puM}{2;eka}	sannyAsa{puM}{2;eka}	karmasamAnAXikaraNam,6	saMnyAsa	renouncex_orxer_oq_liqe				
-5	kavayaH	1	kavayo	kavi{puM}{1;bahu}	kavi{puM}{1;bahu}	karwA,6	paNdiwajana	whe_learnex				
-6	vixuH	6	vixuH	vixu{puM}{1;eka}/vixus{napuM}{1;eka}/vixus{napuM}{2;eka}/vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,5;sakarmakaH	samaJawe_hEM	knot				
-7	sarva-karma-Pala-wyAgam	8	sarvakarmaPalawyAgaM	sarva-karma-Pala-wyAga{puM}{2;eka}	sarva-karman-Pala-wyAga{puM}{2;eka}	karma,8	saba_karmoM_ke_Pala_ke_wyAga_ko	renunciawion_oq_resulws_oq_all_acwiviwies	<<<sarva-karma>K1-Pala>W6-wyAgaM>W6			
+1	kAmyAnAm	2	kAmyAnAM	kAmya{napuM}{6;bahu}/kAmyA{swrI}{6;bahu}	kAmya{napuM}{6;bahu}	viSeRaNam,2	kAmya	with_desire				
+2	karmaNAm	3	karmaNAM	karman{napuM}{6;bahu}	karman{napuM}{6;bahu}	RaRTIsambanXaH,3	karmoM_ke	activities				
+3	nyAsam	4	nyAsaM	nyAsa{puM}{2;eka}	nyAsa{puM}{2;eka}	karma,6	wyAga_ko	renunciation				
+4	sannyAsam	5	sannyAsaM	sannyAsa{puM}{2;eka}	sannyAsa{puM}{2;eka}	karmasamAnAXikaraNam,6	saMnyAsa	renounced_order_of_life				
+5	kavayaH	1	kavayo	kavi{puM}{1;bahu}	kavi{puM}{1;bahu}	karwA,6	paNdiwajana	the_learned				
+6	vixuH	6	vixuH	vixu{puM}{1;eka}/vixus{napuM}{1;eka}/vixus{napuM}{2;eka}/vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,5;sakarmakaH	samaJawe_hEM	know				
+7	sarva-karma-Pala-wyAgam	8	sarvakarmaPalawyAgaM	sarva-karma-Pala-wyAga{puM}{2;eka}	sarva-karman-Pala-wyAga{puM}{2;eka}	karma,8	saba_karmoM_ke_Pala_ke_wyAga_ko	renunciation_of_results_of_all_activities	<<<sarva-karma>K1-Pala>T6-wyAgaM>T6			
 8	prAhuH	10	prAhuswyAgaM	prAhuH	pra_brU1{karwari;lat;pra;bahu;parasmEpaxI;pra_brUF;axAxiH}	aBihiwa_karwA,10;sakarmakaH	kahawe_hEM	call				
-9	wyAgam	9	0	wyAga{puM}{2;eka}	wyAga{puM}{2;eka}	karmasamAnAXikaraNam,8	wyAga	renunciawion				
-10	vicakRaNAH	7	vicakRaNAH	vicakRaNa{puM}{1;bahu}/vicakRaNA{swrI}{1;bahu}/vicakRaNA{swrI}{2;bahu}	vicakRaNa{puM}{1;bahu}	karwA,8	vicArakuSala_puruRa	whe_eLperiencex				
+9	wyAgam	9	0	wyAga{puM}{2;eka}	wyAga{puM}{2;eka}	karmasamAnAXikaraNam,8	wyAga	renunciation				
+10	vicakRaNAH	7	vicakRaNAH	vicakRaNa{puM}{1;bahu}/vicakRaNA{swrI}{1;bahu}/vicakRaNA{swrI}{2;bahu}	vicakRaNa{puM}{1;bahu}	karwA,8	vicArakuSala_puruRa	the_experienced				

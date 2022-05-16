@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	BakwyA	5	BakwyA	Bakwi{swrI}{3;eka}	Bakwi{swrI}{3;eka}	karaNam,4	Bakwi_ke_xvArA	by_xevowional_service				
-2	wu	1	wvananyayA	wu{avya}	wu{avya}	sambanXaH,4	paraMwu	buw				
-3	an-anyayA	4	0	na-anyA{swrI}{3;eka}/anyA{swrI}{3;eka}	na-anyA{swrI}{3;eka}	viSeRaNam,1	ananya	tiwhouw_being_miLex_tiwh_qruiwive_acwiviwies_or_speculawive_knotlexge	<na-anyayA>Bs6			
+1	BakwyA	5	BakwyA	Bakwi{swrI}{3;eka}	Bakwi{swrI}{3;eka}	karaNam,4	Bakwi_ke_xvArA	by_devotional_service				
+2	wu	1	wvananyayA	wu{avya}	wu{avya}	sambanXaH,4	paraMwu	but				
+3	an-anyayA	4	0	na-anyA{swrI}{3;eka}/anyA{swrI}{3;eka}	na-anyA{swrI}{3;eka}	viSeRaNam,1	ananya	without_being_mixed_with_fruitive_activities_or_speculative_knowledge	<na-anyayA>Bs6			
 4	SakyaH	14	Sakya	Sakya{puM}{1;eka}	Sak1{kqw_prawyayaH:yaw;Saklqz;svAxiH;puM}{1;eka}	aBihiwakarwA,5;akarmakaH	Sakya_hUz	possible				
 5	aham	7	ahamevaMviXoZrjuna	asmax{1;eka}	asmax{1;eka}	karwA,4	mEM	I				
-6	evaM-viXaH	6	0	evam-{avya}-viXa{puM}{1;eka}/viXas{puM}{8;eka}	evam-viXa{puM}{1;eka}	kriyAviSeRaNam,4	isa_prakAra	like_whis	<evaM-viXaH>Bs6			
+6	evaM-viXaH	6	0	evam-{avya}-viXa{puM}{1;eka}/viXas{puM}{8;eka}	evam-viXa{puM}{1;eka}	kriyAviSeRaNam,4	isa_prakAra	like_this	<evaM-viXaH>Bs6			
 7	arjuna	3	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,4	arjuna	O_Arjuna				
-8	jFAwum	10	jFAwuM	jFA1{kqw_prawyayaH:wumun;jFA;BvAxiH}/jFA2{kqw_prawyayaH:wumun;jFA;kryAxiH}	jFA2{kqw_prawyayaH:wumun;jFA;kryAxiH}	samucciwam,10	jAnane_ke_liye	wo_knot				
-9	xraRtum	8	xraRtuM	xqS1{kqw_prawyayaH:wumun;xqSizr;BvAxiH}	xqS1{kqw_prawyayaH:wumun;xqSizr;BvAxiH}	samucciwam,10	prawyakRa_xeKane_ke_liye	wo_see				
-10	ca	11	ca	ca{avya}	ca{avya}	prayojanam,4	waWA	anx				
-11	wawwvena	9	wawwvena	wawwva{napuM}{3;eka}/wawwva{napuM}{3;eka}	wawwva{napuM}{3;eka}	karaNam,8	wawwva_se	in_qacw				
-12	praveRtum	12	praveRtuM	pra_viS1{kqw_prawyayaH:wumun;viS;wuxAxiH}	pra_viS1{kqw_prawyayaH:wumun;pra_viSaz;wuxAxiH}	samucciwam,10	praveSa_karane_ke_liye	wo_enwer_inwo				
-13	ca	13	ca	ca{avya}	ca{avya}		BI	anx				
-14	paranwapa	2	paranwapa	paranwapa{puM}{8;eka}/paranwapa{napuM}{8;eka}	paranwapa{puM}{8;eka}	viSeRaNam,7	he_paranwapa	O_mighwy-armex_one				
+8	jFAwum	10	jFAwuM	jFA1{kqw_prawyayaH:wumun;jFA;BvAxiH}/jFA2{kqw_prawyayaH:wumun;jFA;kryAxiH}	jFA2{kqw_prawyayaH:wumun;jFA;kryAxiH}	samucciwam,10	jAnane_ke_liye	to_know				
+9	xraRtum	8	xraRtuM	xqS1{kqw_prawyayaH:wumun;xqSizr;BvAxiH}	xqS1{kqw_prawyayaH:wumun;xqSizr;BvAxiH}	samucciwam,10	prawyakRa_xeKane_ke_liye	to_see				
+10	ca	11	ca	ca{avya}	ca{avya}	prayojanam,4	waWA	and				
+11	wawwvena	9	wawwvena	wawwva{napuM}{3;eka}/wawwva{napuM}{3;eka}	wawwva{napuM}{3;eka}	karaNam,8	wawwva_se	in_fact				
+12	praveRtum	12	praveRtuM	pra_viS1{kqw_prawyayaH:wumun;viS;wuxAxiH}	pra_viS1{kqw_prawyayaH:wumun;pra_viSaz;wuxAxiH}	samucciwam,10	praveSa_karane_ke_liye	to_enter_into				
+13	ca	13	ca	ca{avya}	ca{avya}		BI	and				
+14	paranwapa	2	paranwapa	paranwapa{puM}{8;eka}/paranwapa{napuM}{8;eka}	paranwapa{puM}{8;eka}	viSeRaNam,7	he_paranwapa	O_mighty-armed_one				

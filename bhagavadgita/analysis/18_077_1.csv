@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	waw	3	wacca	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,5	usa	whaw				
+1	waw	3	wacca	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,5	usa	that				
 2	ca	6	0	ca{avya}	ca{avya}	sambanXaH,11.1	BI	also				
 3	saMsmqwya	7	saMsmqwya	sam_smq1{kqw_prawyayaH:lyap;smq;BvAxiH}/sam_smq2{kqw_prawyayaH:lyap;smq;BvAxiH}/sam_smq3{kqw_prawyayaH:lyap;smq;svAxiH}	sam_smq1{kqw_prawyayaH:lyap;sam_smq;BvAxiH}	vIpsA,4	smaraNa	remembering				
 4	saMsmqwya	8	saMsmqwya	sam_smq1{kqw_prawyayaH:lyap;smq;BvAxiH}/sam_smq2{kqw_prawyayaH:lyap;smq;BvAxiH}/sam_smq3{kqw_prawyayaH:lyap;smq;svAxiH}	sam_smq1{kqw_prawyayaH:lyap;sam_smq;BvAxiH}	pUrvakAlaH,11.1	smaraNa_karake	remembering				
-5	rUpam	5	rUpamawyaxBuwaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,4	rUpa_ko	qorm				
-6	awi-axBuwam	4	0	awyaxBuwa{puM}{2;eka}/awyaxBuwa{napuM}{1;eka}/awyaxBuwa{napuM}{2;eka}	awi-axBuwa{napuM}{2;eka}	viSeRaNam,5	awyanwa_vilakRaNa	much_tonxerqul				
-7	hareH	2	hareH	hari{puM}{5;eka}/hari{puM}{6;eka}/hq1{karwari;viXilif;ma;eka;parasmEpaxI;hqF;BvAxiH}	hari{puM}{6;eka}	RaRTIsambanXaH,5	SrIhari_ke	oq_Lorx_Krsna				
-8	vismayaH	11	vismayo	vismaya{puM}{1;eka}	vismaya{puM}{1;eka}	karwA,11.1	AScarya	tonxer				
+5	rUpam	5	rUpamawyaxBuwaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,4	rUpa_ko	form				
+6	awi-axBuwam	4	0	awyaxBuwa{puM}{2;eka}/awyaxBuwa{napuM}{1;eka}/awyaxBuwa{napuM}{2;eka}	awi-axBuwa{napuM}{2;eka}	viSeRaNam,5	awyanwa_vilakRaNa	much_wonderful				
+7	hareH	2	hareH	hari{puM}{5;eka}/hari{puM}{6;eka}/hq1{karwari;viXilif;ma;eka;parasmEpaxI;hqF;BvAxiH}	hari{puM}{6;eka}	RaRTIsambanXaH,5	SrIhari_ke	of_Lord_Krsna				
+8	vismayaH	11	vismayo	vismaya{puM}{1;eka}	vismaya{puM}{1;eka}	karwA,11.1	AScarya	wonder				
 9	me	9	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,8	mere_(ciwwa_meM)	My				
-10	mahAn	10	mahAn	maha{puM}{2;bahu}/mahaw{puM}{1;eka}	mahaw{puM}{1;eka}	viSeRaNam,8	mahAn	greaw				
+10	mahAn	10	mahAn	maha{puM}{2;bahu}/mahaw{puM}{1;eka}	mahaw{puM}{1;eka}	viSeRaNam,8	mahAn	great				
 11	rAjan	1	rAjanhqRyAmi	rAjan{puM}{8;eka}/rAjaw{puM}{1;eka}/rAjaw{puM}{8;eka}	rAjan{puM}{8;eka}	samboXyaH,11.1	he_rAjan	O_King				
 11.1	(Bavawi)	12	(0)	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}/Bavaw{puM}{7;eka})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,8;akarmakaH	(howA_hE)	becomes				
 12	hqRyAmi	17	0	hqR1{karwari;lat;u;eka;parasmEpaxI;hqRaz;xivAxiH}	hqR1{karwari;lat;u;eka;parasmEpaxI;hqRaz;xivAxiH}	samucciwaH,11	harRiwa_ho_rahA_hUz	enjoy				
-13	ca	13	ca	ca{avya}	ca{avya}	samuuccayaxyowakaH,12	Ora	anx				
+13	ca	13	ca	ca{avya}	ca{avya}	samuuccayaxyowakaH,12	Ora	and				
 14	punaH	15	punaH	punaH{avya}	punaH{avya}	vIpsA,15	bAra	again				
-15	punaH	16	punaH	punaH{avya}	punaH{avya}	kriyAviSeRaNam,12	bAra	anx_again_repeawexly				
+15	punaH	16	punaH	punaH{avya}	punaH{avya}	kriyAviSeRaNam,12	bAra	and_again_repeatedly				
 15.1	(aham)	14	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,12	(mEM)	I				

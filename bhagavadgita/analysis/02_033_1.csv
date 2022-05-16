@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aWa_cew(yawaH)	1	aWa	aWa{avya}_cew/cew{avya}	aWa{avya}_cew{avya}	sambanXaH,7;niwyasambanXaH,8	kiMwu_yaxi	not_iq				
+1	aWa_cew(yawaH)	1	aWa	aWa{avya}_cew/cew{avya}	aWa{avya}_cew{avya}	sambanXaH,7;niwyasambanXaH,8	kiMwu_yaxi	now_if				
 2	wvam	2	cewwvamimaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,7	wuma	you				
-3	imam	3	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,5	isa	whis				
-4	Xarmyam	4	XarmyaM	Xarmya{puM}{2;eka}/Xarmya{napuM}{1;eka}/Xarmya{napuM}{2;eka}	Xarmya{puM}{2;eka}	viSeRaNam,5	Xarmayukwa	righweous				
-5	safgrAmam	5	safgrAmaM	safgrAma{puM}{2;eka}	safgrAma{puM}{2;eka}	karma,7	yuxXa_ko	tar				
-6	na	6	na	na{avya}	na{avya}	prawiReXaH,7	nahIM	requse				
-7	kariRyasi	7	kariRyasi	kq2{karwari;lqt;ma;eka;parasmEpaxI;kqF;svAxiH}/kq3{karwari;lqt;ma;eka;parasmEpaxI;dukqF;wanAxiH}/kQ1{karwari;lqt;ma;eka;parasmEpaxI;kQ;wuxAxiH}/kQ2{karwari;lqt;ma;eka;parasmEpaxI;kQF;kryAxiH}	kq3{karwari;lqt;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,2;sakarmakaH	karoge	wo_qighw				
-8	wawaH	8	wawaH	wawaH{avya}	wawaH{avya}	hewuH,14	wo	when				
-9	sva-Xarmam	9	svaXarmaM	svaXarma{puM}{2;eka}	svaXarma{puM}{2;eka}	sup_samucciwam,10	svaXarma	your_xuwy	<sva-Xarmam>W6			
-10	kIrwim	11	kIrwiM	kIrwi{swrI}{2;eka}	kIrwi{swrI}{2;eka}	karma,12	kIrwi_ko	your_repuwawion				
-11	ca	10	ca	ca{avya}	ca{avya}	samuccayaxyowakaH, 10	Ora	anx				
+3	imam	3	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,5	isa	this				
+4	Xarmyam	4	XarmyaM	Xarmya{puM}{2;eka}/Xarmya{napuM}{1;eka}/Xarmya{napuM}{2;eka}	Xarmya{puM}{2;eka}	viSeRaNam,5	Xarmayukwa	righteous				
+5	safgrAmam	5	safgrAmaM	safgrAma{puM}{2;eka}	safgrAma{puM}{2;eka}	karma,7	yuxXa_ko	war				
+6	na	6	na	na{avya}	na{avya}	prawiReXaH,7	nahIM	refuse				
+7	kariRyasi	7	kariRyasi	kq2{karwari;lqt;ma;eka;parasmEpaxI;kqF;svAxiH}/kq3{karwari;lqt;ma;eka;parasmEpaxI;dukqF;wanAxiH}/kQ1{karwari;lqt;ma;eka;parasmEpaxI;kQ;wuxAxiH}/kQ2{karwari;lqt;ma;eka;parasmEpaxI;kQF;kryAxiH}	kq3{karwari;lqt;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,2;sakarmakaH	karoge	to_fight				
+8	wawaH	8	wawaH	wawaH{avya}	wawaH{avya}	hewuH,14	wo	then				
+9	sva-Xarmam	9	svaXarmaM	svaXarma{puM}{2;eka}	svaXarma{puM}{2;eka}	sup_samucciwam,10	svaXarma	your_duty	<sva-Xarmam>T6			
+10	kIrwim	11	kIrwiM	kIrwi{swrI}{2;eka}	kIrwi{swrI}{2;eka}	karma,12	kIrwi_ko	your_reputation				
+11	ca	10	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora	and				
 12	hiwvA	12	hiwvA	hA2{kqw_prawyayaH:kwvA;ozhAk;juhowyAxiH}/XA1{kqw_prawyayaH:kwvA;duXAF;juhowyAxiH}	hA2{kqw_prawyayaH:kwvA;ozhAf;juhowyAxiH}	pUrvakAlaH,14	Kokara	losing				
 13	pApam	13	pApamavApsyasi	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{2;eka}	karma,14	pApa_ko	sin				
 14	avApsyasi	14	0	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ApLz;svAxiH}	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ava_ApLz;svAxiH}		prApwa_hoge	incur				

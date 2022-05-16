@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SarIra-vAf-manoBiH	2	SarIravAfmanoBiryawkarma	SarIra-vAf-manas{puM}{3;bahu}/manas{napuM}{3;bahu}	SarIra-vAk-manas{napuM}{3;bahu}	karaNam,4	mana_vANI_Ora_SarIra_se	by_whe_boxy,_speech_anx_minx	<SarIra-vAf-manoBiH>Xi			
+1	SarIra-vAf-manoBiH	2	SarIravAfmanoBiryawkarma	SarIra-vAf-manas{puM}{3;bahu}/manas{napuM}{3;bahu}	SarIra-vAk-manas{napuM}{3;bahu}	karaNam,4	mana_vANI_Ora_SarIra_se	by_the_body,_speech_and_mind	<SarIra-vAf-manoBiH>Di			
 2	yaw	7	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,3; niwyasambanXaH,12	jo	any				
-3	karma	8	0	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,4	karma	tork				
+3	karma	8	0	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,4	karma	work				
 4	prAraBawe	9	prAraBawe	prAraBawe	pra_Af_raB1{karwari;lat;pra;eka;AwmanepaxI;pra_Af_raBaz;BvAxiH}	aBihiwa_karwA,5	karawA_hE	begins				
 5	naraH	1	naraH	nq{puM}{1;bahu}/nara{puM}{1;eka}	nara{puM}{1;eka}	karwA,4	manuRya	a_person				
-6	nyAyyam	3	nyAyyaM	nyAyya{puM}{2;eka}	nyAyya{puM}{2;eka}	viSeRaNam,3	SAswrAnukUla	righw				
+6	nyAyyam	3	nyAyyaM	nyAyya{puM}{2;eka}	nyAyya{puM}{2;eka}	viSeRaNam,3	SAswrAnukUla	right				
 7	vA	4	vA	vA{avya}	vA{avya}	anyawaraxyowakaH,6	aWavA	or				
-8	viparIwam	5	viparIwaM	viparIwa{puM}{2;eka}/viparIwa{napuM}{1;eka}/viparIwa{napuM}{2;eka}	viparIwa{napuM}{2;eka}	viSeRaNam,3	viparIwa	whe_opposiwe				
-9	vA	6	vA	vA{avya}	vA{avya}	anyawaraxyowakaH,6	aWavA	or				
-10	paFca	12	paFcEwe	paFcan{1;bahu}/paFcan{2;bahu}/paFc2{karwari;lot;ma;eka;parasmEpaxI;paciz;curAxiH}	paFcan{1;bahu}	viSeRaNam,11	pAzcoM	qive				
-11	ewe	11	0	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewA{swrI}{8;eka}/ewA{swrI}{8;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{puM}{1;bahu}	karwA,14	ye	all_whese				
-12	wasya	10	wasya	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,14	usake	iws				
-13	hewavaH	13	hewavaH	hewu{puM}{1;bahu}	hewu{puM}{1;bahu}	karwqsamAnAXikaraNam,14	kAraNa	causes				
-14	(sanwi)	14	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,11	(hEM)	are				
+8	viparIwam	5	viparIwaM	viparIwa{puM}{2;eka}/viparIwa{napuM}{1;eka}/viparIwa{napuM}{2;eka}	viparIwa{napuM}{2;eka}	viSeRaNam,3	viparIwa	the_opposite				
+9	vA	6	vA	vA{avya}	vA{avya}	anyawaraxyowakaH,8	aWavA	or				
+10	paFca	12	paFcEwe	paFcan{1;bahu}/paFcan{2;bahu}/paFc2{karwari;lot;ma;eka;parasmEpaxI;paciz;curAxiH}	paFcan{1;bahu}	viSeRaNam,11	pAzcoM	five				
+11	ewe	11	0	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewA{swrI}{8;eka}/ewA{swrI}{8;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{puM}{1;bahu}	karwA,13.1	ye	all_these				
+12	wasya	10	wasya	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,13.1	usake	its				
+13	hewavaH	13	hewavaH	hewu{puM}{1;bahu}	hewu{puM}{1;bahu}	karwqsamAnAXikaraNam,13.1	kAraNa	causes				
+13.1	(sanwi)	14	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,11;akarmakaH	(hEM)	are				
