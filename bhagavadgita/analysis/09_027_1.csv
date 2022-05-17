@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaw	3	yawkaroRi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,2;niwyasambanXaH,12	jo	whatever				
-2	karoRi	4	0	kq3{karwari;lat;ma;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;ma;eka;parasmEpaxI;dukqF;wanAxiH}	sup_samucciwam,12	karawA_hE	do				
-3	yaw	5	yaxaSnAsi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,4;niwyasambanXaH,12	jo	whatever				
-4	aSnAsi	6	0	aS2{karwari;lat;ma;eka;parasmEpaxI;aSaz;kryAxiH}	aS2{karwari;lat;ma;eka;parasmEpaxI;aSaz;kryAxiH}	sup_samucciwam,12	KAwA_hE	eat				
-5	yaw	7	yajjuhoRi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,6;niwyasambanXaH,12	jo	whatever				
-6	juhoRi	8	0	hu1{karwari;lat;ma;eka;parasmEpaxI;hu;juhowyAxiH}	hu1{karwari;lat;ma;eka;parasmEpaxI;hu;juhowyAxiH}	sup_samucciwam,12	havana_karawA_hE	offer				
-7	xaxAsi	10	xaxAsi	xA3{karwari;lat;ma;eka;parasmEpaxI;duxAF;juhowyAxiH}	xA3{karwari;lat;ma;eka;parasmEpaxI;duxAF;juhowyAxiH}	sup_samucciwam,12	xAna_xewA_hE	give_away				
-8	yaw	9	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,7;niwyasambanXaH,12	jo	whatever				
-9	yaw	12	yawwapasyasi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,10;niwyasambanXaH,12	jo	whatever				
-10	wapasyasi	13	0	wapasyasi	wapasya{karwari;lat;ma;eka;parasmEpaxI;wapasya;nAmaXAwu}	sup_samucciwam,12	wapa_karawA_hE	perform_austerities				
-10.1	(ca)	11	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,12	(Ora)	also				
+1	yaw	3	yawkaroRi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,2;niwya_sambanXaH,12	jo	whatever				
+2	karoRi	4	0	kq3{karwari;lat;ma;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;ma;eka;parasmEpaxI;dukqF;wanAxiH}	sup_samucciwaH,12	karawA_hE	do				
+3	yaw	5	yaxaSnAsi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,4;niwya_sambanXaH,12	jo	whatever				
+4	aSnAsi	6	0	aS2{karwari;lat;ma;eka;parasmEpaxI;aSaz;kryAxiH}	aS2{karwari;lat;ma;eka;parasmEpaxI;aSaz;kryAxiH}	sup_samucciwaH,12	KAwA_hE	eat				
+5	yaw	7	yajjuhoRi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,6;niwya_sambanXaH,12	jo	whatever				
+6	juhoRi	8	0	hu1{karwari;lat;ma;eka;parasmEpaxI;hu;juhowyAxiH}	hu1{karwari;lat;ma;eka;parasmEpaxI;hu;juhowyAxiH}	sup_samucciwaH,12	havana_karawA_hE	offer				
+7	xaxAsi	10	xaxAsi	xA3{karwari;lat;ma;eka;parasmEpaxI;duxAF;juhowyAxiH}	xA3{karwari;lat;ma;eka;parasmEpaxI;duxAF;juhowyAxiH}	sup_samucciwaH,12	xAna_xewA_hE	give_away				
+8	yaw	9	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,7;niwya_sambanXaH,12	jo	whatever				
+9	yaw	12	yawwapasyasi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,10;niwya_sambanXaH,12	jo	whatever				
+10	wapasyasi	13	0	wapasyasi	wapasya{karwari;lat;ma;eka;parasmEpaxI;wapasya;nAmaXAwu}	sup_samucciwaH,12	wapa_karawA_hE	perform_austerities				
+10.1	(ca)	11	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,12	(Ora)	also				
 11	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,13	he_arjuna	O_son_of_Kunti				
 12	waw	14	wawkuruRva	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,13	vaha_(saba)	that				
 13	kuruRva	16	0	kq3{karwari;lot;ma;eka;AwmanepaxI;dukqF;wanAxiH}/kq1{karwari;lot;maDyama;eka;AtmanepaxI;kq;wanAxiH}	kq3{karwari;lot;ma;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwa_karwA,14.1;sakarmakaH	kara	make				

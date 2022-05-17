@@ -6,9 +6,9 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 4.1	(aham)	2	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,2	(mEM)	I				
 5	na	7	na	na{avya}	na{avya}	prawiReXaH,9.1	na	nor				
 6	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,9.1	Ora	also				
-7	rAjyam	8	rAjyaM	rAjya{puM}{2;eka}/rAjya{napuM}{1;eka}/rAjya{napuM}{2;eka}	rAjya{napuM}{2;eka}	sup_samucciwam,8	rAjya	kingdom				
+7	rAjyam	8	rAjyaM	rAjya{puM}{2;eka}/rAjya{napuM}{1;eka}/rAjya{napuM}{2;eka}	rAjya{napuM}{2;eka}	sup_samucciwaH,8	rAjya	kingdom				
 8	suKAni	9	suKAni	suKa{napuM}{1;bahu}/suKa{napuM}{2;bahu}	suKa{napuM}{2;bahu}	karma,9.1	suKoM_ko	pleasures				
-9	ca	10	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,8	waWA	also				
+9	ca	10	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	waWA	also				
 9.1	(kAfkRe)	11	(0)	(kAfkRA{swrI}{1;xvi}/kAfkRA{swrI}{2;xvi})	(kAfkR1{karwari;lat;u;eka;AwmanepaxI;kAkRiz;BvAxiH})		(cAhawA_hUz)	covet				
 10	kim	15	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	karwA,13.1	kyA	what_use				
 11	naH	13	no	nas{swrI}{1;eka}/asmax{2;bahu}/asmax{4;bahu}/asmax{6;bahu}	asmax{6;bahu}	RaRTIsambanXaH,17	hameM	to_us				
@@ -18,5 +18,5 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 14	kim	19	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	karwA,17.1	kyA	what				
 15	BogEH	16	BogErjIviwena	Boga{puM}{3;bahu}/Boga{napuM}{3;bahu}	Boga{puM}{3;bahu}	anyawaraH,16	BogoM_se	luxuries				
 16	jIviwena	17	0	jIviwa{puM}{3;eka}/jIviwa{napuM}{3;eka}	jIviwa{napuM}{3;eka}	karaNam,17.1	jIvana_se	even_life				
-17	vA	18	vA	vA{avya}	vA{avya}	anyawaraxyowakaH,16	aWavA	or				
+17	vA	18	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,16	aWavA	or				
 17.1	(sixXyawi)	20	(0)	(sixXyawi)	(siX3{karwari;lat;pra;eka;parasmEpaxI;RiXuz;xivAxiH})	aBihiwakarwA,14;akarmakaH	(prayojana_hE)	purpose_is				

@@ -7,10 +7,10 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 6	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_of_Bharata				
 7	kRewra-kRewra-jFayoH	8	kRewrakRewrajFayorjFAnaM	kRewra-kRewrajFayoH	kRewra-kRewrajFa{puM}{6;eka}	RaRTIsambanXaH,8	kRewra-kRewrajFa_kA	field_of_activities_(the_body)_and_the_knower_of_the_field	<kRewra-<kRewra-jFayoH>U>Di			
 8	jFAnam	9	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karwA,9.1	jFAna	knowledge				
-9	yaw	7	yawwajjFAnaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,8; niwyasambanXaH,10	jo	that_which_is_taught				
+9	yaw	7	yawwajjFAnaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,8;niwya_sambanXaH,10	jo	that_which_is_taught				
 9.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,8;akarmakaH	(hE)	is				
 10	waw	11	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,11.1	vaha	that				
-11	jFAnam	12	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karwqsamAnAXikaraNam,11.1	jFAna_hE	knowledge				
+11	jFAnam	12	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	viXeya_viSeRaNam,11.1	jFAna_hE	knowledge				
 11.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10;akarmakaH	(hE)	is				
 11.2	(iwi)	13	(0)	(iwi{avya})	(iwi{avya})		(EsA)	thus				
 12	mawam	15	mawaM	mawa{puM}{2;eka}/mawa{napuM}{1;eka}/mawa{napuM}{2;eka}	mawa{napuM}{1;eka}	karwA,13.1	mawa	opinion				

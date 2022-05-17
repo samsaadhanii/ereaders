@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xyUwam	3	xyUwaM	xyUwa{puM}{2;eka}/xyUwa{napuM}{1;eka}/xyUwa{napuM}{2;eka}	xyUwa{napuM}{1;eka}	supsamu्cciwam,4	jUA	gambling				
+1	xyUwam	3	xyUwaM	xyUwa{puM}{2;eka}/xyUwa{napuM}{1;eka}/xyUwa{napuM}{2;eka}	xyUwa{napuM}{1;eka}	sup_samucciwaH,4	jUA	gambling				
 2	CalayawAm	2	CalayawAmasmi	CalayawAm	Cala{kqw_prawyayaH:Sawq;Cala;;napuM}{6;bahu}	nirXAraNam,1	Cala_karanevAloM_meM	of_all_cheats				
 3	asmi	7	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,6;akarmakaH	hUz	am				
-4	wejaH	6	wejaswejasvinAmaham	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{1;eka}	karwqsamAnAXikaraNam,3	praBAva	splendid				
-4.1	(ca)	4	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,4	(Ora)	also				
+4	wejaH	6	wejaswejasvinAmaham	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{1;eka}	viXeya_viSeRaNam,3	praBAva	splendid				
+4.1	(ca)	4	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,4	(Ora)	also				
 5	wejasvinAm	5	0	wejasvin{puM}{6;bahu}	wejasvin{puM}{6;bahu}	nirXAraNam,4	praBAvaSAlI_puruRoM_kA	of_everything_splendid				
 6	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,3	mEM	I				
-7	jayaH	10	jayoZsmi	ji{puM}{1;bahu}/ji{puM}{8;bahu}/jaya{puM}{1;eka}	jaya{puM}{1;eka}	karwqsamAnAXikaraNam,8	vijaya	victory				
+7	jayaH	10	jayoZsmi	ji{puM}{1;bahu}/ji{puM}{8;bahu}/jaya{puM}{1;eka}	jaya{puM}{1;eka}	viXeya_viSeRaNam,8	vijaya	victory				
 8	asmi	11	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,8.1;akarmakaH	hUz	am				
 8.1	(aham)	15	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,8	(mEM)	I				
-9	vyavasAyaH	9	vyavasAyoZsmi	vyavasAya{puM}{1;eka}	vyavasAya{puM}{1;eka}	karwqsamAnAXikaraNam,10	niScaya	adventure				
+9	vyavasAyaH	9	vyavasAyoZsmi	vyavasAya{puM}{1;eka}	vyavasAya{puM}{1;eka}	viXeya_viSeRaNam,10	niScaya	adventure				
 10	asmi	14	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,13;akarmakaH	hUz	am				
-11	sawwvam	13	sawwvaM	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	karwqsamAnAXikaraNam,10	sAwwvika_BAva	strength				
-11.1	(ca)	4	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,11	(Ora)	also				
+11	sawwvam	13	sawwvaM	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	viXeya_viSeRaNam,10	sAwwvika_BAva	strength				
+11.1	(ca)	4	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,11	(Ora)	also				
 12	sawwvavawAm	12	sawwvavawAmaham	sawwvavaw{puM}{6;bahu}/sawwvavaw{napuM}{6;bahu}	sawwvavaw{puM}{6;bahu}	nirXAraNam,11	sAwwvika_puruRoM_kA	of_all_the_strong				
 13	aham	8	0	asmax{1;eka}	asmax{1;eka}	karwA,8	mEM	I				

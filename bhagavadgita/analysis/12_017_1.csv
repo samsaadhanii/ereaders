@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,3;niwyasambanXaH,13	jo	one_who				
+1	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,3;niwya_sambanXaH,13	jo	one_who				
 2	na	2	na	na{avya}	na{avya}	prawiReXaH,3	na	never				
 3	hqRyawi	3	hqRyawi	hqRyaw{puM}{7;eka}/hqRyaw{napuM}{7;eka}/hqR1{karwari;lat;pra;eka;parasmEpaxI;hqRaz;xivAxiH}	hqR1{karwari;lat;pra;eka;parasmEpaxI;hqRaz;xivAxiH}	aBihiwakarwA,1;akarmakaH	harRiwa_howA_hE	takes_pleasure				
 4	na	5	na	na{avya}	na{avya}	prawiReXaH,5	na	never				
-5	xveRti	6	xveRti	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	samucciwam,3	xveRa_karawA_hE	grieves				
+5	xveRti	6	xveRti	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	samucciwaH,3	xveRa_karawA_hE	grieves				
 6	na	8	na	na{avya}	na{avya}	prawiReXaH,7	na	never				
-7	Socawi	9	Socawi	Socaw{puM}{7;eka}/Socaw{napuM}{7;eka}/Suc1{karwari;lat;pra;eka;parasmEpaxI;Sucaz;BvAxiH}	Suc1{karwari;lat;pra;eka;parasmEpaxI;Sucaz;BvAxiH}	samucciwam,3	Soka_karawA_hE	laments				
+7	Socawi	9	Socawi	Socaw{puM}{7;eka}/Socaw{napuM}{7;eka}/Suc1{karwari;lat;pra;eka;parasmEpaxI;Sucaz;BvAxiH}	Suc1{karwari;lat;pra;eka;parasmEpaxI;Sucaz;BvAxiH}	samucciwaH,3	Soka_karawA_hE	laments				
 8	na	11	na	na{avya}	na{avya}	prawiReXaH,9	na	never				
-9	kAfkRawi	12	kAfkRawi	kAfkRaw{puM}{7;eka}/kAfkRaw{napuM}{7;eka}/kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	samucciwam,3	kAmanA_karawA_hE	desires				
-9.1	(ca)	9	()	ca{avya}	ca{avya}	samuccayaxyowakaH,3	Ora	also				
-10	SuBa-a-SuBa-pariwyAgI	14	SuBASuBapariwyAgI	SuBASuBa-pariwyAgin{puM}{1;eka}	SuBa-aSuBa-pariwyAgin{puM}{1;eka}	supsamucciwama,11	SuBa_Ora_aSuBa_sampUrNa_karmoM_kA_wyAgI	renouncer_of_auspicious_and_inauspicious	<<SuBa-<na-SuBa>Tn>Di-pariwyAgI>T6			
+9	kAfkRawi	12	kAfkRawi	kAfkRaw{puM}{7;eka}/kAfkRaw{napuM}{7;eka}/kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	samucciwaH,3	kAmanA_karawA_hE	desires				
+9.1	(ca)	9	()	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	also				
+10	SuBa-a-SuBa-pariwyAgI	14	SuBASuBapariwyAgI	SuBASuBa-pariwyAgin{puM}{1;eka}	SuBa-aSuBa-pariwyAgin{puM}{1;eka}	sup_samucciwaH,11	SuBa_Ora_aSuBa_sampUrNa_karmoM_kA_wyAgI	renouncer_of_auspicious_and_inauspicious	<<SuBa-<na-SuBa>Tn>Di-pariwyAgI>T6			
 11	BakwimAn	17	BakwimAnyaH	Bakwimaw{puM}{1;eka}	Bakwimaw{puM}{1;eka}	karwqsamAnAXikaraNama,12.1	Bakwiyukwa_puruRa	devotee				
-11.1	(ca)	9	()	ca{avya}	ca{avya}	samuccayaxyowakaH,11	Ora	also				
-12	yaH	13	0	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,3;niwyasambanXaH,13	jo	one_who				
+11.1	(ca)	9	()	ca{avya}	ca{avya}	samuccaya_xyowakaH,11	Ora	also				
+12	yaH	13	0	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,3;niwya_sambanXaH,13	jo	one_who				
 12.1	(aswi)	15	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				
 13	saH	16	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,15.1	vaha	he				
 14	me	18	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,15	muJako	Mine				
-15	priyaH	19	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	karwqsamAnAXikaraNam,15.1	priya	dear				
+15	priyaH	19	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	viXeya_viSeRaNam,15.1	priya	dear				
 15.1	(aswi)	20	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13;akarmakaH	(hE)	is				

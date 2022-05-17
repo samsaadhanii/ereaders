@@ -3,13 +3,13 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 2	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_of_Kunti				
 3	mUrwayaH	4	mUrwayaH	mUrwi{puM}{1;bahu}/mUrwi{puM}{8;bahu}/mUrwi{swrI}{1;bahu}/mUrwi{swrI}{8;bahu}	mUrwi{swrI}{1;bahu}	karwA,4	mUrwiyAz_arWAw_SarIraXArI_prANI	forms				
 4	samBavanwi	5	samBavanwi	sam_BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}	sam_BU1{karwari;lat;pra;bahu;parasmEpaxI;sam_BU;BvAxiH}	aBihiwakarwA,3;akarmakaH	uwpanna_howe_hEM	as_they_appear				
-5	yAH	3	yAH	yax{swrI}{1;bahu}/yax{swrI}{2;bahu}	yax{swrI}{1;bahu}	viSeRaNam,3;niwyasambanXaH,6	jiwanI	which				
+5	yAH	3	yAH	yax{swrI}{1;bahu}/yax{swrI}{2;bahu}	yax{swrI}{1;bahu}	viSeRaNam,3;niwya_sambanXaH,6	jiwanI	which				
 6	wAsAm	8	wAsAM	wax{swrI}{6;bahu}	wax{swrI}{6;bahu}	RaRTIsambanXaH,9	unakI_(sabakI)	all_of_them				
 7	brahma	7	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwA,9.1	brahma	supreme				
 8	mahaw	6	mahaxyonirahaM	mahaw{napuM}{1;eka}/mahaw{napuM}{2;eka}	mahaw{napuM}{1;eka}	viSeRaNam,7	mahaw	the_material_substance				
-9	yoniH	9	0	yoni{puM}{1;eka}	yoni{puM}{1;eka}	karwqsamAnAXikaraNam,9.1	garBa_XAraNa_karanevAlI_mAwA	the_source_of_birth				
+9	yoniH	9	0	yoni{puM}{1;eka}	yoni{puM}{1;eka}	viXeya_viSeRaNam,9.1	garBa_XAraNa_karanevAlI_mAwA	the_source_of_birth				
 9.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,7;akarmakaH	(hE)	is				
 10	aham	11	0	asmax{1;eka}	asmax{1;eka}	karwA,12.1	mEM	I				
 11	bIja-pra-xaH	12	bIjapraxaH	bIja-praxa{puM}{1;eka}	bIja-praxa{puM}{1;eka}	viSeRaNam,12	bIja_ko_sWApana_karanevAlA	seed-giving	<bIja-<pra-xaH>U>T6			
-12	piwA	13	piwA	piwq{puM}{1;eka}	piwq{puM}{1;eka}	karwqsamAnAXikaraNam,12.1	piwA	father				
+12	piwA	13	piwA	piwq{puM}{1;eka}	piwq{puM}{1;eka}	viXeya_viSeRaNam,12.1	piwA	father				
 12.1	(asmi)	14	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10;akarmakaH	(hUz)	am				

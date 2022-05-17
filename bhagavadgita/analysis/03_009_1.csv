@@ -5,7 +5,7 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 3	anyawra	3	0	anyawra{avya}	anyawra{avya}	xeSAXikaraNam,1.1	xUsare_karmoM_meM	other_actions				
 4	lokaH	6	lokoZyaM	loka{puM}{1;eka}	loka{puM}{1;eka}	karwA,6.1	manuRya-samuxAya	world				
 5	ayam	5	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,4	yaha	this				
-6	karma-banXanaH	7	karmabanXanaH	karman-banXana{puM}{1;eka}	karman-banXana{puM}{1;eka}	karwqsamAnAXikaraNam,6.1	karmoM_se_bazXawA	bound_by_his_own_action	<karma-banXanaH>Bs6			
+6	karma-banXanaH	7	karmabanXanaH	karman-banXana{puM}{1;eka}	karman-banXana{puM}{1;eka}	viXeya_viSeRaNam,6.1	karmoM_se_bazXawA	bound_by_his_own_action	<karma-banXanaH>Bs6			
 6.1	(Bavawi)	8	()	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}/BavawI{swrI;8;eka}/Bavaw{sarvanAma;puM;7;eka}/Bavaw{puM;7;eka}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,4	howA_hE					
 7	waw-arWam	9	waxarWaM	wax-arWa{puM}{2;eka}/arWa{napuM}{1;eka}/arWa{napuM}{2;eka}	wax-arWa{napuM}{2;eka}	prayojanam,11	usa_yajFa_ke_nimiwwa	for_the_sake_of_sacrifice	<waw-arWam>T4			
 8	karma	12	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,11	karwavyakarma	your_duty				

@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,3	jo_(puruRa)	whoever				
 2	mAm	3	mAM	asmax{2;eka}	asmax{2;eka}	karma,3	muJako_(sabake_AwmarUpa_vAsuxeva_ko)	me				
-3	paSyawi	4	paSyawi	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	samucciwam,8	xeKawA_hE	sees				
+3	paSyawi	4	paSyawi	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	samucciwaH,8	xeKawA_hE	sees				
 4	sarvawra	2	sarvawra	sarvawra{avya}	sarvawra{avya}	aXikaraNam,3	sampUrNa_BUwoM_meM	everywhere				
 5	sarvam	6	sarvaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{puM}{2;eka}	karma,8	sampUrNa_BUwoM_ko	everything				
-6	ca	5	ca	ca{avya}	ca{avya}	samuccayaxyowakam,8	Ora	and				
+6	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	and				
 7	mayi	7	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,8	muJa_vAsuxeva_ke_anwargawa	in_me				
 8	paSyawi	8	paSyawi	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	,5	xeKawA_hE	sees				
 9	wasya	9	wasyAhaM	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,10	usake_liye	his				
 10	aham	10	0	asmax{1;eka}	asmax{1;eka}	karwA,12	mEM	I				
 11	na	11	na	na{avya}	na{avya}	prawiReXaH,12	nahIM	not				
-12	praNaSyAmi	12	praNaSyAmi	praNaSyAmi	pra_naS1{karwari;lat;u;eka;parasmEpaxI;pra_NaSaz;xivAxiH}	samucciwam,17	axqSya_howA	am_lost				
+12	praNaSyAmi	12	praNaSyAmi	praNaSyAmi	pra_naS1{karwari;lat;u;eka;parasmEpaxI;pra_NaSaz;xivAxiH}	samucciwaH,17	axqSya_howA	am_lost				
 13	saH	14	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,17	vaha	he				
-14	ca	13	ca	ca{avya}	ca{avya}	samuccayaxyowakam,17	Ora	also				
+14	ca	13	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,17	Ora	also				
 15	me	15	me	asmax{6;eka}	asmax{4;eka}	RaRTIsambanXaH,17	mere_liye	to_me				
 16	na	16	na	na{avya}	na{avya}	prawiReXaH,17	nahIM	nor				
 17	praNaSyawi	17	praNaSyawi	praNaSyawi	pra_naS1{karwari;lat;pra;eka;parasmEpaxI;pra_NaSaz;xivAxiH}		axqSya_howA	is_lost				

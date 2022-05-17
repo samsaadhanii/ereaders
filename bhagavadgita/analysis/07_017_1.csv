@@ -4,7 +4,7 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 3	niwya-yukwaH	2	niwyayukwa	niwyayukwa{puM}{1;eka}	niwya-yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	viSeRaNam,2	niwya_muJameM_ekIBAva_se_sWiwa	always_engaged	<niwya-yukwaH>K1			
 4	eka-BakwiH	3	ekaBakwirviSiRyawe	eka-Bakwi{swrI}{1;eka}	eka-Bakwi{swrI}{1;eka}	viSeRaNam,2	ananya_premaBakwivAlA	in_devotional_service_to_only_one	<eka-BakwiH>Bs6			
 5	viSiRyawe	5	0	viSiRyawA{swrI}{1;xvi}/viSiRyawA{swrI}{2;xvi}/vi_SAs1{karmaNi;lat;pra;eka;AwmanepaxI;SAsuz;axAxiH}/vi_SiR2{karmaNi;lat;pra;eka;AwmanepaxI;SiRLz;ruXAxiH}	vi_SAs1{karwari;lat;pra;eka;AwmanepaxI;vi_SAsuz;axAxiH}	aBihiwa_karwA,2	awi_uwwama_hE	especially				
-6	priyaH	10	priyo	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	karwqsamAnAXikaraNam,10.1	priya	dear				
+6	priyaH	10	priyo	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	viXeya_viSeRaNam,10.1	priya	dear				
 7	hi	7	hi	hi{avya}	hi{avya}	sambanXaH,2	kyoMki	certainly				
 8	jFAninaH	8	jFAninoZwyarWamahaM	jFAnin{puM}{1;bahu}/jFAnin{puM}{2;bahu}/jFAnin{puM}{5;eka}/jFAnin{puM}{6;eka}/jFAnin{puM}{8;bahu}	jFAnin{puM}{6;eka}	RaRTIsambanXaH,6	jFAnI_ko	person_in_knowledge				
 9	awyarWam	9	0	awyarWa{napuM}{1;eka}/awyarWa{napuM}{2;eka}	awyarWa{puM}{1;eka}	viSeRaNam,8	awyanwa	highly				
@@ -13,5 +13,5 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 11	saH	12	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,14.1	vaha_(jFAnI)	he				
 12	ca	13	ca	ca{avya}	ca{avya}	sambanXaH,14.1	Ora	also				
 13	mama	14	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,14.1	muJe	mine				
-14	priyaH	15	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	karwqsamAnAXikaraNam,14.1	priya	very_dear				
+14	priyaH	15	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	viXeya_viSeRaNam,14.1	priya	very_dear				
 14.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,11	(hE)	is				

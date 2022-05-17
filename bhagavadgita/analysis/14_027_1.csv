@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	brahmaNaH	3	brahmaNo	brahman{puM}{2;bahu}/brahman{puM}{5;eka}/brahman{puM}{6;eka}/brahman{napuM}{5;eka}/brahman{napuM}{6;eka}	brahman{napuM}{6;eka}	RaRTIsambanXaH,3	parabrahma_kA	of_the_impersonal_brahmajyoti				
 2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,13.1	kyoMki	certainly				
-3	prawiRTA	12	prawiRTAhamamqwasyAvyayasya	prawiRTA{swrI}{1;eka}	prawiRTA{swrI}{1;eka}	karwqsamAnAXikaraNam,13.1	ASraya	the_rest				
+3	prawiRTA	12	prawiRTAhamamqwasyAvyayasya	prawiRTA{swrI}{1;eka}	prawiRTA{swrI}{1;eka}	viXeya_viSeRaNam,13.1	ASraya	the_rest				
 4	aham	13	0	asmax{1;eka}	asmax{1;eka}	karwA,13.1	mEM	I				
-5	amqwasya	5	0	amqwa{puM}{6;eka}/amqwa{napuM}{6;eka}	amqwa{napuM}{6;eka}	supsamucciwam,1	amqwa_kA	of_the_immortal				
+5	amqwasya	5	0	amqwa{puM}{6;eka}/amqwa{napuM}{6;eka}	amqwa{napuM}{6;eka}	sup_samucciwaH,1	amqwa_kA	of_the_immortal				
 6	a-vyayasya	2	0	avyaya{puM}{6;eka}	avyaya{puM}{6;eka}	viSeRaNam,5	avinASI	of_the_imperishable	<na-vyayasya>Bsmn			
-7	ca	4	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,5	Ora	also				
+7	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
 8	SASvawasya	7	SASvawasya	SASvawa{puM}{6;eka}/SASvawa{napuM}{6;eka}	SASvawa{puM}{6;eka}	viSeRaNam,10	niwya	of_the_eternal				
-9	ca	9	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,10	Ora	also				
-10	Xarmasya	8	Xarmasya	Xarma{puM}{6;eka}	Xarma{puM}{6;eka}	supsamucciwam,1	Xarma_kA	of_the_constitutional_position				
-11	*suKasya	11	suKasyEkAnwikasya	suKa{puM}{6;eka}/suKa{napuM}{6;eka}	suKa{napuM}{6;eka}	supsamucciwam,1	Ananxa_kA	happiness				
+9	ca	9	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora	also				
+10	Xarmasya	8	Xarmasya	Xarma{puM}{6;eka}	Xarma{puM}{6;eka}	sup_samucciwaH,1	Xarma_kA	of_the_constitutional_position				
+11	*suKasya	11	suKasyEkAnwikasya	suKa{puM}{6;eka}/suKa{napuM}{6;eka}	suKa{napuM}{6;eka}	sup_samucciwaH,1	Ananxa_kA	happiness				
 12	ekAnwikasya	10	0	ekAnwika{puM}{6;eka}/ekAnwika{napuM}{6;eka}	ekAnwika{napuM}{6;eka}	viSeRaNam,11	aKaNda_ekarasa	ultimate				
-13	ca	6	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,11	waWA	and				
+13	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,11	waWA	and				
 13.1	(asmi)	14	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4	(hUz)	am				

@@ -1,33 +1,33 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	saKA	7	saKewi	saKi{puM}{1;eka}	saKi{puM}{1;eka}	karwqsamAnAXikaraNam,27	saKA_hEM	friend				
-2	iwi	8	0	iwi{avya}	iwi{avya}	vAkyakarmaxyowakaH,27	EsA	thus				
+1	saKA	7	saKewi	saKi{puM}{1;eka}	saKi{puM}{1;eka}	viXeya_viSeRaNam,27	saKA_hEM	friend				
+2	iwi	8	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,27	EsA	thus				
 3	mawvA	9	mawvA	man1{avya;kwvA;manaz;:xivAxiH}/man2{avya;kwvA;manuz;:wanAxiH}	man1{avya;kwvA;manaz;:xivAxiH}	pUrvakAlaH,6	mAnakara	thinking				
 4	prasaBam	23	prasaBaM	prasaBa{napuM}{1;eka}/prasaBa{napuM}{2;eka}	prasaBa{napuM}{2;eka}	kriyAviSeRaNam,6	haTAw	temporary				
 5	yaw	22	yaxukwaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	muKyakarma,6	jo	whatever				
 6	ukwam	24	0	ukwa{puM}{2;eka}/ukwa{napuM}{1;eka}/ukwa{napuM}{2;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;napuM}{1;eka}	aBihiwa_karwA,18	kahA_hE	said				
-7	he	15	he	he{avya}	he{avya}	samboXanasUcakam,8	he	O				
+7	he	15	he	he{avya}	he{avya}	samboXana_xyowakaH,8	he	O				
 8	kqRNa	16	kqRNa	kqRNa{puM}{8;eka}/kqRNa{napuM}{8;eka}	kqRNa{puM}{8;eka}	samboXyaH,6	kqRNa	Krsna				
-9	he	17	he	he{avya}	he{avya}	samboXanasUcakam,10	he	O				
+9	he	17	he	he{avya}	he{avya}	samboXana_xyowakaH,10	he	O				
 10	yAxava	18	yAxava	yAxava{puM}{8;eka}	yAxava{puM}{8;eka}	samboXyaH,6	yAxava	Yadava				
-11	he	19	he	he{avya}	he{avya}	samboXanasUcakam,12	he	O				
+11	he	19	he	he{avya}	he{avya}	samboXana_xyowakaH,12	he	O				
 12	saKa	20	saKewi	saKa{puM}{8;eka}	saKa{puM}{8;eka}	samboXyaH,6	saKe	dear_friend				
 13	iwi	21	0	iwi{avya}	iwi{avya}	sambanXaH,5	isa_prakAra	thus				
-14	a-jAnawA	4	ajAnawA	a-jAnaw{puM}{3;eka}/jAnaw{napuM}{3;eka}	na-jFA2{kqw_prawyayaH:Sawq;jFA;kryAxiH;puM}{3;eka}	viSeRaNam ,18	na_jAnawe_hue	without_knowing	<na-jAnawA>Tn			
+14	a-jAnawA	4	ajAnawA	a-jAnaw{puM}{3;eka}/jAnaw{napuM}{3;eka}	na-jFA2{kqw_prawyayaH:Sawq;jFA;kryAxiH;puM}{3;eka}	viSeRaNam,18	na_jAnawe_hue	without_knowing	<na-jAnawA>Tn			
 15	mahimAnam	3	mahimAnaM	mahiman{puM}{2;eka}	mahiman{puM}{2;eka}	karma,14	praBAva_ko	glories				
 16	wava	1	wavexaM	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,15	Apake	Your				
-17	ixam	2	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam ,4	isa	this				
+17	ixam	2	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,4	isa	this				
 18	mayA	14	mayA	asmax{3;eka}	asmax{3;eka}	karwA,6	mEMne	by_me				
 19	pramAxAw	12	pramAxAwpraNayena	pramAxa{puM}{5;eka}	pramAxa{puM}{5;eka}	hewuH,6	pramAxa_se	out_of_foolishness				
 20	praNayena	10	0	praNaya{puM}{3;eka}	praNaya{puM}{3;eka}	hewuH,6	prema_se	out_of_love				
 21	vA	11	vApi	vA{avya}	vA{avya}	sambanXaH,19	aWavA	or				
 22	api	13	0	api{avya}	api{avya}	sambanXaH,20	BI	also				
-23	yaw	27	yaccAvahAsArWamasawkqwoZsi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam ,26	jo	whatever				
+23	yaw	27	yaccAvahAsArWamasawkqwoZsi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,26	jo	whatever				
 24	ca	25	0	ca{avya}	ca{avya}	sambanXaH,22	Ora	also				
 25	avahAsArWam	28	0	avahAsa{arWam}	avahAsArWa{napuM}{4;eka}	prayojanam,40	vinoxa_ke_liye	for_joking				
-26	a-saw-kqwaH	35	0	a-sax-kqw{puM}{1;bahu}/kqw{puM}{2;bahu}/kqw{puM}{5;eka}/kqw{puM}{6;eka}/kqw{puM}{8;bahu}/kqwa{puM}{1;eka}	asax-kqw{puM}{1;eka}	karwqsamAnAXikaraNam,40	apamAniwa_kiye_gaye	dishonor	<<na-saw>Tn-kqwaH>U			
+26	a-saw-kqwaH	35	0	a-sax-kqw{puM}{1;bahu}/kqw{puM}{2;bahu}/kqw{puM}{5;eka}/kqw{puM}{6;eka}/kqw{puM}{8;bahu}/kqwa{puM}{1;eka}	asax-kqw{puM}{1;eka}	viXeya_viSeRaNam,40	apamAniwa_kiye_gaye	dishonor	<<na-saw>Tn-kqwaH>U			
 27	asi	36	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	vAkyakarma,3	hEM	have_been_done				
 28	vihAra-SayyA-Asana-BojaneRu	29	vihAraSayyAsanaBojaneRu	vihAra-SayyA-Asana-Bojana{puM}{7;bahu}/Bojana{napuM}{7;bahu}	vihAra-SayyA-Asana-Bojana{napuM}{7;bahu}	aXikaraNam,40	vihAra_SayyA_AsAna_Ora_BojanAxi_meM	in_relaxation_sleep_resting_place_or_while_eating_together	<vihAra-SayyA-Asana-BojaneRu>Ds			
-29	ekaH	31	ekoZWavApyacyuwa	eka{puM}{1;eka}	eka{puM}{1;eka}	viSeRaNam ,41	akele	alone				
+29	ekaH	31	ekoZWavApyacyuwa	eka{puM}{1;eka}	eka{puM}{1;eka}	viSeRaNam,41	akele	alone				
 30	aWavA	32	0	aWavA{avya}	aWavA{avya}	sambanXaH,29	aWavA	or				
 31	api	34	0	api{avya}	api{avya}	sambanXaH,30	BI	others				
 32	a-cyuwa	26	0	acyuwa{puM}{8;eka}	acyuwa{puM}{8;eka}	samboXyaH,6	he_acyuwa	O_infallible_one	<na-cyuwa>Bsmn			

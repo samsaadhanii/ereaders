@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	piwA	8	piwAsi	piwq{puM}{1;eka}	piwq{puM}{1;eka}	karwqsamAnAXikaraNam,2	piwA	father				
+1	piwA	8	piwAsi	piwq{puM}{1;eka}	piwq{puM}{1;eka}	viXeya_viSeRaNam,2	piwA	father				
 2	asi	10	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,5;akarmakaH	hEM	are				
 3	lokasya	4	lokasya	loka{puM}{6;eka}	loka{puM}{6;eka}	RaRTIsambanXaH,8	jagaw_ke	of_all_the_world				
 4	cara-a-carasya	3	carAcarasya	cara-a-cara{puM}{6;eka}/cara{napuM}{6;eka}	carAcara{puM}{6;eka}	viSeRaNam,3	carAcara	moving_and_nonmoving	<cara-<na-carasya>Tn>Ds			
 5	wvam	1	wvamasya	yuRmax{1;eka}	yuRmax{1;eka}	karwA,2	Apa	you				
 6	asya	2	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	viSeRaNam,3	isa	of_this				
-7	pUjyaH	5	pUjyaSca	pUjya{puM}{1;eka}	pUjya{puM}{1;eka}	supsamucciwam,2	awi_pUjanIya	worshipable				
-8	ca	9	0	ca{avya}	ca{avya}	samuccayaxyowakaH,1	Ora	also				
-9	guruH	7	gururgarIyAn	guru{puM}{1;eka}	guru{puM}{1;eka}	supsamucciwam,2	guru	master				
+7	pUjyaH	5	pUjyaSca	pUjya{puM}{1;eka}	pUjya{puM}{1;eka}	sup_samucciwaH,2	awi_pUjanIya	worshipable				
+8	ca	9	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,1	Ora	also				
+9	guruH	7	gururgarIyAn	guru{puM}{1;eka}	guru{puM}{1;eka}	sup_samucciwaH,2	guru	master				
 10	garIyAn	6	0	garIyas{puM}{1;eka}	garIyas{puM}{1;eka}	viSeRaNam,9	sabase_bada़e	glorious				
 11	na	12	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	never				
 12	wvaw-samaH	11	wvawsamoZswyaByaXikaH	wvaw-sama{puM}{1;eka}/sama{puM}{1;eka}	wvax-sama{puM}{1;eka}	karwA,13	Apake_samAna	equal_to_You				

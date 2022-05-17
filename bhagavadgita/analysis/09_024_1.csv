@@ -2,11 +2,11 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 1	aham	2	ahaM	asmax{1;eka}	asmax{1;eka}	karwA,8.1	mEM	I am				
 2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,1	kyoMki	because				
 3	sarva-yajFAnAm	4	sarvayajFAnAM	sarva-yajFa{puM}{6;bahu}	sarva-yajFa{puM}{6;bahu}	RaRTIsambanXaH,4	sampUrNa_yajFoM_kA	of_all_sacrifices	<sarva-yajFAnAm>K1			
-4	BokwA	5	BokwA	BokwA{swrI}{1;eka}/Buj1{BAve;lut;pra;eka;AwmanepaxI;Bujoz;wuxAxiH}/Buj2{karwari;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}/Buj2{karmaNi;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{kqw_prawyayaH:wqc;Bujaz;ruXAxiH;puM}{1;eka}	sup_samucciwam,6	BokwA	enjoyer				
+4	BokwA	5	BokwA	BokwA{swrI}{1;eka}/Buj1{BAve;lut;pra;eka;AwmanepaxI;Bujoz;wuxAxiH}/Buj2{karwari;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}/Buj2{karmaNi;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{kqw_prawyayaH:wqc;Bujaz;ruXAxiH;puM}{1;eka}	sup_samucciwaH,6	BokwA	enjoyer				
 5	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,4	Ora	and				
-6	praBuH	7	praBureva	praBu{puM}{1;eka}	praBu{puM}{1;eka}	karwqsamAnAXikaraNam,8.1	svAmI	Lord				
+6	praBuH	7	praBureva	praBu{puM}{1;eka}	praBu{puM}{1;eka}	viXeya_viSeRaNam,8.1	svAmI	Lord				
 7	eva	3	0	eva{avya}	eva{avya}	sambanXaH,1	hI	only				
-8	ca	8	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,6	BI	also				
+8	ca	8	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	BI	also				
 8.1	(asmi)	9	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,1;akarmakaH	(hUz)					
 9	na	14	na	na{avya}	na{avya}	prawiReXaH,12	nahIM	not				
 10	wu	10	wu	wu{avya}	wu{avya}	sambanXaH,12	paraMwu	but				

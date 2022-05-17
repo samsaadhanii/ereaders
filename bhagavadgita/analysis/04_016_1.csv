@@ -1,23 +1,23 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	kim	2	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	sambanXaH,2.1	kyA	what				
 2	karma	1	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwA,2.1	karma	action				
-2.1	(aswi)	3	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_ karwA,2	(hE)	is				
+2.1	(aswi)	3	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,2	(hE)	is				
 3	kim	5	kimakarmewi	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	sambanXaH,4.1	kyA	what				
 4	a-karma	4		a-karman{napuM}{1;eka}/karman{napuM}{2;eka}	na-karman{napuM}{1;eka}	karwA,4.1	akarma	inaction	<na-karma>Tn			
-4.1	(aswi)	6	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_ karwA,4	(hE)	is				
+4.1	(aswi)	6	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,4	(hE)	is				
 5	iwi	7		iwi{avya}	iwi{avya}	sambanXaH,6	isa_prakAra	thus				
 6	kavayaH	9	kavayoZpyawra	kavi{puM}{1;bahu}/kavi{puM}{8;bahu}	kavi{puM}{1;bahu}	karwA,9.1	buxXimAn_puruRa	the_intelligent				
 7	api	10		api{avya}	api{avya}	sambanXaH,6	BI	also				
 8	awra	8		awra{avya}	awra{avya}	aXikaraNam,9	yahAz_(nirNaya_karane_meM)	in_this_matter				
 9	mohiwAH	11	mohiwAH	mohiwA{swrI}{1;bahu}/mohiwA{swrI}{2;bahu}/mohiwA{swrI}{8;bahu}/mohiwA{swrI}{1;bahu}/mohiwA{swrI}{2;bahu}/mohiwA{swrI}{8;bahu}	muh1{kqw_prawyayaH:kwa;muhaz;xivAxiH;puM}{1;bahu}	viSeRaNam,6	mohiwa	bewildered				
-9.1	(Bavanwi)	12	()	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwa_ karwA,6	(ho_jAwe_hEM)	becomes				
+9.1	(Bavanwi)	12	()	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,6	(ho_jAwe_hEM)	becomes				
 10	waw	13	wawwe	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,12	vaha	that				
 11	we	16		wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,13	wuJe	unto_you				
 12	karma	14	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,13	karma-wawwva	work				
-13	pravakRyAmi	17	pravakRyAmi	pra_vah1{karwari;lqt;u;eka;uBayapaxI;vahaz;BvAxiH}	pra_vac1{karwari;lqt;u;eka;parasmEpaxI;pra_vacaz;axAxiH}	aBihiwa_ karwA,13.1	kahUzgA	shall_explain				
+13	pravakRyAmi	17	pravakRyAmi	pra_vah1{karwari;lqt;u;eka;uBayapaxI;vahaz;BvAxiH}	pra_vac1{karwari;lqt;u;eka;parasmEpaxI;pra_vacaz;axAxiH}	aBihiwa_karwA,13.1	kahUzgA	shall_explain				
 13.1	(aham)		()	(asmax{1;eka})	(asmax{1;eka})	karwA,13						
-14	yaw	18	yaFjFAwvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,15; niwyasambanXaH10	jise	which				
+14	yaw	18	yaFjFAwvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,15;niwyasambanXaH10	jise	which				
 15	jFAwvA	19		jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,16	jAnakara	knowing				
-16	mokRyase	22	mokRyaseZSuBAw	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muc1{karmaNi;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muh1{BAve;lqt;ma;eka;AwmanepaxI;muhaz;xivAxiH}	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}	aBihiwa_ karwA,16	mukwa_ho_jAoge	be_liberated				
+16	mokRyase	22	mokRyaseZSuBAw	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muc1{karmaNi;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muh1{BAve;lqt;ma;eka;AwmanepaxI;muhaz;xivAxiH}	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}	aBihiwa_karwA,16	mukwa_ho_jAoge	be_liberated				
 17	a-SuBAw	21		a-SuBa{puM}{5;eka}/SuBa{napuM}{5;eka}	aSuBa{puM}{5;eka}	apAxAnam,16	aSuBa_se_arWAw_karmabanXana_se	from_ill_fortune	<na-SuBAw>Tn			
 17.1	(wvam)	20	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,16	(wuma)	you				

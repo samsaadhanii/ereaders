@@ -1,7 +1,7 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	pqWakwvena	8	pqWakwvena	pqWakwva{napuM}{3;eka}	pqWakwva{napuM}{3;eka}	kriyAviSeRaNam,7	alaga-alaga	because_of_division				
 2	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,7	kiMwu	but				
-3	yaw	2	yajjFAnaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,4;niwyasambanXaH,10	jo	which				
+3	yaw	2	yajjFAnaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,4;niwya_sambanXaH,10	jo	which				
 4	jFAnam	3	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karwA,7	jFAna	knowledge				
 5	nAnA-BAvAn	7	nAnABAvAnpqWagviXAn	nAnABAva{puM}{2;bahu}	nAnA-BAva{puM}{2;bahu}	karma,7	nAnA_BAvoM_ko	multifarious_situations	<nAnA-BAvAn>K1			
 6	pqWag-viXAn	6	0	pqWagviXa{puM}{2;bahu}	pqWak-viXa{puM}{2;bahu}	viSeRaNam,5	Binna-Binna_prakAra_ke	different	<pqWag-viXAn>Bs6			

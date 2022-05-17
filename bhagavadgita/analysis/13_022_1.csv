@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	upaxraRtA	6	upaxraRtAnumanwA	upa_xqS1{karwari;lut;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/upa_xqS1{karmaNi;lut;pra;eka;AwmanepaxI;xqSizr;BvAxiH}	upa_xqS1{karwari;lut;pra;eka;parasmEpaxI;upa_xqSizr;BvAxiH}	sup_samucciwam,7	sAkRI_hone_se_upaxraRtA	overseer				
-2	anumanwA	8	0	anu_man1{karmaNi;lut;pra;eka;AwmanepaxI;manaz;xivAxiH}	anu_man1{karmaNi;lut;pra;eka;AwmanepaxI;anu_manaz;xivAxiH}	sup_samucciwam,7	yaWArWa_sammawi_xenevAlA_hone_se_anumanwA	permitter				
-3	ca	7	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,2	Ora	and				
-4	BarwA	9	BarwA	Barwq{puM}{1;eka}/Bq1{karwari;lut;pra;eka;parasmEpaxI;BqF;BvAxiH}/Bq1{karwari;lut;pra;eka;AwmanepaxI;BqF;BvAxiH}/Bq1{karmaNi;lut;pra;eka;AwmanepaxI;BqF;BvAxiH}/Bq2{karwari;lut;pra;eka;parasmEpaxI;duBqF;juhowyAxiH}	Barwq{puM}{1;eka}	sup_samucciwam,7	sabakA_XAraNa-poRaNa_karanevAlA_honese_BarwA	master				
-5	BokwA	10	BokwA	BokwA{swrI}{1;eka}/Buj1{BAve;lut;pra;eka;AwmanepaxI;Bujoz;wuxAxiH}/Buj2{karwari;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}/Buj2{karmaNi;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{kqw_prawyayaH:wqc;Bujaz;ruXAxiH;puM}{1;eka}	sup_samucciwam,7	jIvarUpa_se_BokwA	supreme_enjoyer				
-6	mahaw-ISvaraH	11	maheSvaraH	mahaw-ISvara{puM}{1;eka}	maheSvara{puM}{1;eka}	sup_samucciwam,7	brahmA_Axi_kA_BI_svAmI_hone_se_maheSvara	the_Supreme_Lord	<mahaw-ISvaraH>K1			
+1	upaxraRtA	6	upaxraRtAnumanwA	upa_xqS1{karwari;lut;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/upa_xqS1{karmaNi;lut;pra;eka;AwmanepaxI;xqSizr;BvAxiH}	upa_xqS1{karwari;lut;pra;eka;parasmEpaxI;upa_xqSizr;BvAxiH}	sup_samucciwaH,7	sAkRI_hone_se_upaxraRtA	overseer				
+2	anumanwA	8	0	anu_man1{karmaNi;lut;pra;eka;AwmanepaxI;manaz;xivAxiH}	anu_man1{karmaNi;lut;pra;eka;AwmanepaxI;anu_manaz;xivAxiH}	sup_samucciwaH,7	yaWArWa_sammawi_xenevAlA_hone_se_anumanwA	permitter				
+3	ca	7	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	and				
+4	BarwA	9	BarwA	Barwq{puM}{1;eka}/Bq1{karwari;lut;pra;eka;parasmEpaxI;BqF;BvAxiH}/Bq1{karwari;lut;pra;eka;AwmanepaxI;BqF;BvAxiH}/Bq1{karmaNi;lut;pra;eka;AwmanepaxI;BqF;BvAxiH}/Bq2{karwari;lut;pra;eka;parasmEpaxI;duBqF;juhowyAxiH}	Barwq{puM}{1;eka}	sup_samucciwaH,7	sabakA_XAraNa-poRaNa_karanevAlA_honese_BarwA	master				
+5	BokwA	10	BokwA	BokwA{swrI}{1;eka}/Buj1{BAve;lut;pra;eka;AwmanepaxI;Bujoz;wuxAxiH}/Buj2{karwari;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}/Buj2{karmaNi;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{kqw_prawyayaH:wqc;Bujaz;ruXAxiH;puM}{1;eka}	sup_samucciwaH,7	jIvarUpa_se_BokwA	supreme_enjoyer				
+6	mahaw-ISvaraH	11	maheSvaraH	mahaw-ISvara{puM}{1;eka}	maheSvara{puM}{1;eka}	sup_samucciwaH,7	brahmA_Axi_kA_BI_svAmI_hone_se_maheSvara	the_Supreme_Lord	<mahaw-ISvaraH>K1			
 7	parama-AwmA	13	paramAwmewi	param-Awman{puM}{1;eka}	paramAwman{puM}{1;eka}	karmasamAnAXikaraNam,11	paramAwmA	Supersoul	<parama-AwmA>K1			
 8	iwi	15	0	iwi{avya}	iwi{avya}	sambanXaH,7	EsA	thus				
-9	ca	12	cApyukwo	ca{avya}	ca{avya}	samuccayaxyowakaH,7	Ora	also				
+9	ca	12	cApyukwo	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	Ora	also				
 10	api	3	0	api{avya}	api{avya}	sambanXaH,11	BI	also				
 11	ukwaH	16	0	ukwa{puM}{1;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;puM}{1;eka}	aBihiwakarma,14;sakarmakaH	kahA_gayA_hE	said				
 12	xehe	2	xeheZsminpuruRaH	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xeha{napuM}{8;xvi}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{napuM}{7;eka}	aXikaraNam,11	xeha_meM	in_this_body				

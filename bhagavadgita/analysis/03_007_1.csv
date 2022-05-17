@@ -1,7 +1,7 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 7	arjuna	1		arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,6	he_arjuna	O_Arjuna				
 1	yaH	2	yaswvinxriyANi	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,10	jo_(puruRa)	he_who				
-1	yaH	2	yaswvinxriyANi	yax{puM}{1;eka}	yax{puM}{1;eka}	niwyasambanXaH,11	jo_(puruRa)	he_who				
+1	yaH	2	yaswvinxriyANi	yax{puM}{1;eka}	yax{puM}{1;eka}	niwya_sambanXaH,11	jo_(puruRa)	he_who				
 2	wu	3		wu{avya}	wu{avya}	sambanXaH,6	kiMwu	on_the_other_hand				
 4	manasA	4	manasA	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	karaNam,5	mana_se	by_the_power_of_his_will				
 3	inxriyANi	5		inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}	inxriya{napuM}{2;bahu}	karma,5	inxriyoM_ko	the_organs_of_sense_and_action				

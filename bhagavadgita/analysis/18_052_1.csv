@@ -19,12 +19,12 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 18	niwyam	18	niwyaM	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{1;eka}	kriyAviSeRaNam,20	niranwara	always				
 19	vErAgyam	19	vErAgyaM	vErAgya{napuM}{1;eka}/vErAgya{napuM}{2;eka}	vErAgya{napuM}{2;eka}	karma,20	BalIBAzwi_xqDa़_vErAgya_kA	detachment				
 20	samupASriwaH	20	samupASriwaH	samupASriwa{puM}{1;eka}	sam_upa_Af_Sri1{kqw_prawyayaH:kwa;sam_upa_Af_SriF;BvAxiH;puM}{1;eka}	viSeRaNam,31.1	ASraya_lenevAlA	taken_shelter_of				
-21	ahafkAram	21	ahafkAraM	ahafkAra{puM}{2;eka}	ahafkAra{puM}{2;eka}	samucciwam,13	ahaMkAra	false_ego				
-22	balam	22	balaM	bala{puM}{2;eka}/bala{napuM}{1;eka}/bala{napuM}{2;eka}	bala{napuM}{2;eka}	samucciwam,13	bala	false_strength				
-23	xarpam	23	xarpaM	xarpa{puM}{2;eka}	xarpa{puM}{2;eka}	samucciwam,13	GamaNda	false_pride				
-24	kAmam	24	kAmaM	kAmam{avya}/kAma{puM}{2;eka}	kAma{puM}{2;eka}	samucciwam,13	kAma	lust				
-25	kroXam	25	kroXaM	kroXa{puM}{2;eka}/kroXa{napuM}{1;eka}/kroXa{napuM}{2;eka}	kroXa{puM}{2;eka}	samucciwam,13	kroXa	anger				
-26	parigraham	26	parigraham	parigraha{puM}{2;eka}	parigraha{puM}{2;eka}	samucciwam,13	parigraha_kA	acceptance_of_material_things				
+21	ahafkAram	21	ahafkAraM	ahafkAra{puM}{2;eka}	ahafkAra{puM}{2;eka}	samucciwaH,13	ahaMkAra	false_ego				
+22	balam	22	balaM	bala{puM}{2;eka}/bala{napuM}{1;eka}/bala{napuM}{2;eka}	bala{napuM}{2;eka}	samucciwaH,13	bala	false_strength				
+23	xarpam	23	xarpaM	xarpa{puM}{2;eka}	xarpa{puM}{2;eka}	samucciwaH,13	GamaNda	false_pride				
+24	kAmam	24	kAmaM	kAmam{avya}/kAma{puM}{2;eka}	kAma{puM}{2;eka}	samucciwaH,13	kAma	lust				
+25	kroXam	25	kroXaM	kroXa{puM}{2;eka}/kroXa{napuM}{1;eka}/kroXa{napuM}{2;eka}	kroXa{puM}{2;eka}	samucciwaH,13	kroXa	anger				
+26	parigraham	26	parigraham	parigraha{puM}{2;eka}	parigraha{puM}{2;eka}	samucciwaH,13	parigraha_kA	acceptance_of_material_things				
 26.1	ca	26.1	ca	ca{avya}	ca{avya}	karma,27	Ora	also				
 27	vimucya	27	vimucya	vi_muc1{kqw_prawyayaH:lyap;mucLz;wuxAxiH}/vi_muc2{kqw_prawyayaH:lyap;mucaz;curAxiH}	vi_muc1{kqw_prawyayaH:lyap;vi_mucLz;wuxAxiH}	pUrvakAlaH,31	wyAga_karake	being_delivered				
 28	nir-mamaH	28	nirmamaH	nirmama{puM}{1;eka}	nir-mama{puM}{1;eka}	viSeRaNam,31.1	mamawArahiwa	without_proprietorship	<nir-mamaH>Bvp			

@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	paSya	10	paSyAxiwyAnvasUnruxrAnaSvinO	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,7.1	xeKa	see				
-2	AxiwyAn	2	0	Axiwya{puM}{2;bahu}	Axiwya{puM}{2;bahu}	sup_samucciwam,6	AxiwyoM_ko_arWAw_axiwi_ke_xvAxaSa_puwroM_ko	the_twelve_sons_of_Aditi				
-3	vasUn	3	0	vasu{puM}{2;bahu}	vasu{puM}{2;bahu}	sup_samucciwam,6	ATa_vasuoM_ko	the_eight_Vasus				
-4	ruxrAn	4	0	ruxra{puM}{2;bahu}	ruxra{puM}{2;bahu}	sup_samucciwam,6	ekAxaSa_ruxroM_ko	the_eleven_forms_of_Rudra				
-5	aSvinO	5	0	aSvin{puM}{1;xvi}/aSvin{puM}{2;xvi}/aSvin{puM}{8;xvi}	aSvin{puM}{2;xvi}	sup_samucciwam,6	xonoM_aSvinIkumAroM_ko	the_two_Asvinis				
+2	AxiwyAn	2	0	Axiwya{puM}{2;bahu}	Axiwya{puM}{2;bahu}	sup_samucciwaH,6	AxiwyoM_ko_arWAw_axiwi_ke_xvAxaSa_puwroM_ko	the_twelve_sons_of_Aditi				
+3	vasUn	3	0	vasu{puM}{2;bahu}	vasu{puM}{2;bahu}	sup_samucciwaH,6	ATa_vasuoM_ko	the_eight_Vasus				
+4	ruxrAn	4	0	ruxra{puM}{2;bahu}	ruxra{puM}{2;bahu}	sup_samucciwaH,6	ekAxaSa_ruxroM_ko	the_eleven_forms_of_Rudra				
+5	aSvinO	5	0	aSvin{puM}{1;xvi}/aSvin{puM}{2;xvi}/aSvin{puM}{8;xvi}	aSvin{puM}{2;xvi}	sup_samucciwaH,6	xonoM_aSvinIkumAroM_ko	the_two_Asvinis				
 6	maruwaH	8	maruwaswaWA	maruw{puM}{1;bahu}/maruw{puM}{2;bahu}/maruw{puM}{5;eka}/maruw{puM}{6;eka}/maruw{puM}{8;bahu}/maruwa{puM}{1;eka}	maruw{puM}{2;bahu}	karma,1	unacAsa_maruxgaNoM_ko	the_forty-nine_Maruts_(demigods_of_the_wind)				
-7	waWA	7	0	waWA{avya}	waWA{avya}	samuccayaxyowakaH,6	waWA	also				
+7	waWA	7	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,6	waWA	also				
 7.1	(wvam)	9	(wvamAwmAnaM)	yuRmax{1;eka}	yuRmax{1;eka}	karwA,1	Apa	you				
 8	bahUni	11	bahUnyaxqRtapUrvANi	bahu{napuM}{1;bahu}/bahu{napuM}{2;bahu}/bahu{napuM}{8;bahu}	bahu{napuM}{2;bahu}	viSeRaNam,11	bahuwa-se	many				
 9	a-xqRta-pUrvANi	12	0	a-xqRta-pUrva{napuM}{1;bahu}/pUrva{napuM}{2;bahu}/pUrva{napuM}{8;bahu}/pUrva{napuM}{1;bahu}/pUrva{napuM}{2;bahu}	axqRta-pUrva{napuM}{2;bahu}	viSeRaNam,11	pahale_na_xeKe_hue	that_you_have_not_head_or_seen_before	<<na-xqRta>Tn-pUrvANi>K1			

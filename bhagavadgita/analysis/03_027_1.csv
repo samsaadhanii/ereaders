@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	prakqweH	3	prakqweH	prakqwi{swrI}{5;eka}/prakqwi{swrI}{6;eka}	prakqwi{swrI}{6;eka}	RaRTIsambanXaH,3	prakqwi_ke	of_material_nature				
-2	kriyamANAni	5	kriyamANAni	kriyamANa{napuM}{1;bahu}/kriyamANa{napuM}{2;bahu}/kriyamANa{napuM}{8;bahu}	kq3{kqw_prawyayaH:yak;dukqF;wanAxiH;napuM}{1;bahu}	karwqsamAnAXikaraNam,5.1	kiye_jAwe	all_being_done				
+2	kriyamANAni	5	kriyamANAni	kriyamANa{napuM}{1;bahu}/kriyamANa{napuM}{2;bahu}/kriyamANa{napuM}{8;bahu}	kq3{kqw_prawyayaH:yak;dukqF;wanAxiH;napuM}{1;bahu}	viXeya_viSeRaNam,5.1	kiye_jAwe	all_being_done				
 3	guNEH	4	guNEH	guNa{puM}{3;bahu}	guNa{puM}{3;bahu}	karwA,2	guNoM_xvArA	by_the_modes				
 4	karmANi	1	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	karman{napuM}{1;bahu}	karwA,5.1	sampUrNa_karma	activities				
 5	sarvaSaH	2	sarvaSaH	sarvaSaH{avya}	sarvaSaH{avya}	aXikaraNam,5.1	saba_prakAra_se	all_kinds_of				
 5.1	(Bavanwi)	6	(0)	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,4;akarmakaH	(hEM)	leading_the_people_in_general				
 6	ahafkAra-vi-mUDa-AwmA	7	ahafkAravimUDAwmA	ahafkAra-vimUDa-Awman{puM}{1;eka}	ahafkAra-vimUDa-Awman{puM}{1;eka}	karwA,10	jisakA_anwaHkaraNa_ahaMkAra_se_mohiwa_ho_rahA_hE_EsA_ajFAnI	the_spirit_soul_bewildered_by_false_ego	<<ahafkAra-<vi-mUDa>Tp>T3-AwmA>Bs6			
-7	karwA	9	karwAhamiwi	karwq{puM}{1;eka}/kq3{karwari;lut;pra;eka;parasmEpaxI;dukqF;wanAxiH}/kq3{karwari;lut;pra;eka;AwmanepaxI;dukqF;wanAxiH}	karwq{puM}{1;eka}	karwqsamAnAXikaraNam,8	karwA	doer				
+7	karwA	9	karwAhamiwi	karwq{puM}{1;eka}/kq3{karwari;lut;pra;eka;parasmEpaxI;dukqF;wanAxiH}/kq3{karwari;lut;pra;eka;AwmanepaxI;dukqF;wanAxiH}	karwq{puM}{1;eka}	viXeya_viSeRaNam,8	karwA	doer				
 8	aham	8	0	asmax{1;eka}	asmax{1;eka}	karwA,8.1	mEM	I				
-8.1	(asmi)	10	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	vAAkyakarma,10	(hUz)	am				
-9	iwi	11	0	iwi{avya}	iwi{avya}	vAkyakarmaxyowakaH,8.1	EsA	thus				
+8.1	(asmi)	10	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	vAkyakarma,10	(hUz)	am				
+9	iwi	11	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,8.1	EsA	thus				
 10	manyawe	12	manyawe	manyawA{swrI}{1;xvi}/manyawA{swrI}{2;xvi}/manyawA{swrI}{8;eka}/manyawA{swrI}{8;xvi}/man1{karmaNi;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}	aBihiwakarwA,6;akarmakaH	mAnawA_hE	thinks				

@@ -2,7 +2,7 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 1	pUrva-aByAsena	3	pUrvAByAsena	pUrva-aByAsa{puM}{3;eka}	pUrva-aByAsa{puM}{3;eka}	karaNam,4	pahale_ke_aByAsa_se	previous_practice	<pUrva-aByAsena>K1			
 2	wena	2	wenEva	wax{puM}{3;eka}/wax{napuM}{3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;wanAxiH}	wax{puM}{3;eka}	karwA,4	usa	by_the_influence_of_that				
 3	eva	4	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
-4	hriyawe	8	hriyawe	hq1{karmaNi;lat;pra;eka;AwmanepaxI;hqF;BvAxiH}/hq2{karmaNi;lat;pra;eka;AwmanepaxI;hq;juhowyAxiH}	hq1{karmaNi;lat;pra;eka;AwmanepaxI;hqF;BvAxiH}	aBihiwa karma,8	AkarRiwa_kiyA_jAwA_hE	is_attracted				
+4	hriyawe	8	hriyawe	hq1{karmaNi;lat;pra;eka;AwmanepaxI;hqF;BvAxiH}/hq2{karmaNi;lat;pra;eka;AwmanepaxI;hq;juhowyAxiH}	hq1{karmaNi;lat;pra;eka;AwmanepaxI;hqF;BvAxiH}	aBihiwakarma,8	AkarRiwa_kiyA_jAwA_hE	is_attracted				
 5	hi	1	hyavaSoZpi	hi{avya}	hi{avya}	sambanXaH,4	niHsanxeha	surely				
 6	a-vaSaH	6	0	avaSa{puM}{1;eka}/avaSas{swrI}{1;eka}	na-vaSa{puM}{1;eka}	viSeRaNam,8	parAXIna_huA	helpless	<na-vaSaH>Tn			
 7	api	7	0	api{avya}	api{avya}	sambanXaH,6	BI	also				
@@ -11,4 +11,4 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 10	api	11	0	api{avya}	api{avya}	sambanXaH,9	BI	so				
 11	yogasya	9	yogasya	yoga{puM}{6;eka}	yoga{puM}{6;eka}	RaRTIsambanXaH,9	samabuxXirUpa_yoga_kA	of_yoga				
 12	Sabxa-brahma	12	SabxabrahmAwivarwawe	Sabxa-brahma{napuM}{8;eka}/brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	Sabxa-brahman{napuM}{2;eka}	karma,13	vexa_meM_kahe_hue_sakAma_karmoM_ke_Pala_ko	ritualistic_principles_of_scripture	<Sabxa-brahma>Km			
-13	awivarwawe	13	0	awi_vqw1{karwari;lat;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	awi_vqw1{karwari;lat;pra;eka;AwmanepaxI;awi_vqwuz;BvAxiH}	aBihiwa karwA,9	ullaMGana_kara_jAwA_hE	transcends				
+13	awivarwawe	13	0	awi_vqw1{karwari;lat;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	awi_vqw1{karwari;lat;pra;eka;AwmanepaxI;awi_vqwuz;BvAxiH}	aBihiwakarwA,9	ullaMGana_kara_jAwA_hE	transcends				

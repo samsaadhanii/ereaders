@@ -1,7 +1,7 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	yam	2	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	viSeRaNam,2	jisako	what				
 2	sannyAsam	3	sannyAsamiwi	sannyAsa{puM}{2;eka}	sannyAsa{puM}{2;eka}	vAkyakarma,3	saMnyAsa	renunciation				
-3	iwi	4	0	iwi{avya}	iwi{avya}	vAkyakarmaxyowakaH,4	EsA	thus				
+3	iwi	4	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,4	EsA	thus				
 4	prAhuH	5	prAhuryogaM	prAhuH	pra_brU1{karwari;lat;pra;bahu;parasmEpaxI;pra_brUF;axAxiH}		kahawe_hEM	say				
 5	yogam	7	0	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karmasamAnAXikaraNam,7	yoga	linking_with_the_Supreme				
 6	wam	6	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	karma,7	usIko	that				
@@ -10,6 +10,6 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 9	na	13	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	never				
 10	hi	9	hyasannyaswasafkalpo	hi{avya}	hi{avya}	sambanXaH,13	kyoMki	certainly				
 11	a-sannyaswa-safkalpaH	10	0	a-sannyaswa-safkalpa{puM}{1;eka}	na-sannyaswa-safkalpa{puM}{1;eka}	viSeRaNam,12	saMkalpoM_kA_wyAga_na_karanevAlA	self-satisfaction_without_giving_up	<<na-sannyaswa>Tn-safkalpaH>Bs3			
-12	yogI	12	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karwqsamAnAXikaraNam,13	yogI	a_mystic_transcendentalist				
+12	yogI	12	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	viXeya_viSeRaNam,13	yogI	a_mystic_transcendentalist				
 13	Bavawi	14	Bavawi	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,12;akarmakaH	howA	becomes				
 14	kaScana	11	kaScana	kiFcana{puM}{1;eka}	kiFcana{puM}{1;eka}	karwA,13	koI_(BI_puruRa)	anyone				

@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	paSyAmi	18	paSyAmi	xqS1{karwari;lat;u;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;u;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,17.1;sakarmakaH	xeKawA_hUz	see				
-2	xevAn	5	xevAMswava	xeva{puM}{2;bahu}	xeva{puM}{2;bahu}	sup_samucciwam,15	xevoM_ko	the_demigods				
+2	xevAn	5	xevAMswava	xeva{puM}{2;bahu}	xeva{puM}{2;bahu}	sup_samucciwaH,15	xevoM_ko	the_demigods				
 3	wava	2	0	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,5	Apake	Your				
 4	xeva	1	xeva	xeva{puM}{8;eka}	xeva{puM}{8;eka}	samboXyaH,1	he_xeva	O_Lord				
 5	xehe	3	xehe	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xeha{napuM}{8;xvi}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{napuM}{7;eka}	aXikaraNam,1	SarIra_meM	in_the_body				
 6	sarvAn	4	sarvAMswaWA	sarva{puM}{2;bahu}	sarva{puM}{2;bahu}	viSeRaNam,8	sampUrNa	all				
-7	waWA	6	0	waWA{avya}	waWA{avya}	samuuccayaxyowakaH,2	waWA	also				
-8	BUwa-viSeRa-safGAn	7	BUwaviSeRasafGAn	BUwa-viSeRa-safGa{puM}{2;bahu}	BUwa-viSeRa-safGa{puM}{2;bahu}	sup_samucciwam,15	aneka_BUwoM_ke_samuxAyoM_ko	specifically_assembled_living_entities	<<BUwa-viSeRa>T6-safGAn>T6			
-9	brahmANam	9	brahmANamISaM	brahman{puM}{2;eka}	brahman{puM}{2;eka}	sup_samucciwam,15	brahmA_ko	Lord_Brahma				
+7	waWA	6	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,2	waWA	also				
+8	BUwa-viSeRa-safGAn	7	BUwaviSeRasafGAn	BUwa-viSeRa-safGa{puM}{2;bahu}	BUwa-viSeRa-safGa{puM}{2;bahu}	sup_samucciwaH,15	aneka_BUwoM_ke_samuxAyoM_ko	specifically_assembled_living_entities	<<BUwa-viSeRa>T6-safGAn>T6			
+9	brahmANam	9	brahmANamISaM	brahman{puM}{2;eka}	brahman{puM}{2;eka}	sup_samucciwaH,15	brahmA_ko	Lord_Brahma				
 10	ISam	10	0	ISa{puM}{2;eka}	ISa{puM}{2;eka}	viSeRaNam,8	mahAxeva_ko	Lord_Siva				
 11	kamala-Asana-sWam	8	kamalAsanasWamqRIMSca	kamala-Asana-sWa{puM}{2;eka}/sWa{napuM}{1;eka}/sWa{napuM}{2;eka}	kamala-Asana-sWa{puM}{2;eka}	viSeRaNam,8	kamala_ke_Asana_para_virAjiwa	sitting_on_the_lotus_flower	<<kamala-Asana>K1-sWam>U			
-12	qRIn	13	0	qRi{puM}{2;bahu}	qRi{puM}{2;bahu}	sup_samucciwam,15	qRiyoM_ko	great_sages				
-13	ca	16	0	ca{avya}	ca{avya}	samuuccayaxyowakaH,12	waWA	also				
+12	qRIn	13	0	qRi{puM}{2;bahu}	qRi{puM}{2;bahu}	sup_samucciwaH,15	qRiyoM_ko	great_sages				
+13	ca	16	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	waWA	also				
 14	sarvAn	12	sarvAnuragAMSca	sarva{puM}{2;bahu}	sarva{puM}{2;bahu}	viSeRaNam,12	sampUrNa	all				
 15	uragAn	15	0	uraga{puM}{2;bahu}	uraga{puM}{2;bahu}	karma,1	sarpoM_ko	serpents				
-16	ca	11	0	ca{avya}	ca{avya}	samuuccayaxyowakaH,15	Ora	also				
+16	ca	11	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,15	Ora	also				
 17	xivyAn	14	xivyAn	xivya{puM}{2;bahu}	xivya{puM}{2;bahu}	viSeRaNam,14	xivya	divine				
 17.1	(aham)	17	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,1	(mEM)	I				

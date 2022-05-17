@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	vAyuH	2	vAyuryamoZgnirvaruNaH	vAyu{puM}{1;eka}/vA1{karwari;viXilif;pra;bahu;parasmEpaxI;vA;axAxiH}	vAyu{puM}{1;eka}	supsamucciwam,8	vAyu	air				
-2	yamaH	3	0	yama{puM}{1;eka}	yama{puM}{1;eka}	supsamucciwam,8	yamarAja	controller				
-3	agniH	4	0	agni{puM}{1;eka}	agni{puM}{1;eka}	supsamucciwam,8	agni	fire				
-4	varuNaH	5	0	varuNa{puM}{1;eka}	varuNa{puM}{1;eka}	supsamucciwam,8	varuNa	water				
-5	SaSAfkaH	6	SaSAfkaH	SaSAfka{puM}{1;eka}	SaSAfka{puM}{1;eka}	supsamucciwam,8	canxramA	moon				
-6	prajA-pawiH	7	prajApawiswvaM	prajA-pawi{puM}{1;eka}	prajApawi{puM}{1;eka}	supsamucciwam,8	prajA_ke_svAmI_brahmA	Brahma	<prajA-pawiH>T6			
+1	vAyuH	2	vAyuryamoZgnirvaruNaH	vAyu{puM}{1;eka}/vA1{karwari;viXilif;pra;bahu;parasmEpaxI;vA;axAxiH}	vAyu{puM}{1;eka}	sup_samucciwaH,8	vAyu	air				
+2	yamaH	3	0	yama{puM}{1;eka}	yama{puM}{1;eka}	sup_samucciwaH,8	yamarAja	controller				
+3	agniH	4	0	agni{puM}{1;eka}	agni{puM}{1;eka}	sup_samucciwaH,8	agni	fire				
+4	varuNaH	5	0	varuNa{puM}{1;eka}	varuNa{puM}{1;eka}	sup_samucciwaH,8	varuNa	water				
+5	SaSAfkaH	6	SaSAfkaH	SaSAfka{puM}{1;eka}	SaSAfka{puM}{1;eka}	sup_samucciwaH,8	canxramA	moon				
+6	prajA-pawiH	7	prajApawiswvaM	prajA-pawi{puM}{1;eka}	prajApawi{puM}{1;eka}	sup_samucciwaH,8	prajA_ke_svAmI_brahmA	Brahma	<prajA-pawiH>T6			
 7	wvam	1	0	yuRmax{1;eka}	yuRmax{1;eka}	karwA,9.1	Apa	you				
-8	prapiwAmahaH	8	prapiwAmahaSca	prapiwAmaha{puM}{1;eka}	prapiwAmaha{puM}{1;eka}	karwqsamAnAXikaraNam,9.1	brahmA_ke_BI_piwA	grandfather				
-9	ca	9	0	ca{avya}	ca{avya}	samuccayaxyowakaH,8	Ora	also				
+8	prapiwAmahaH	8	prapiwAmahaSca	prapiwAmaha{puM}{1;eka}	prapiwAmaha{puM}{1;eka}	viXeya_viSeRaNam,9.1	brahmA_ke_BI_piwA	grandfather				
+9	ca	9	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	also				
 9.1	(asi)	10	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,7;akarmakaH	(hEM)	are				
 10	namaH	13	namo	namaH{avya}	namaH{avya}	vIpsA,11	namaskAra	offering_respects				
 11	namaH	14	namasweZswu	namaH{avya}	namaH{avya}	karwA,13	namaskAra	again_my_respects				

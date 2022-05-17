@@ -1,7 +1,7 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	yaxqcCayA	2	yaxqcCayA	yaxqcCayA{avya}/yaxqcCA{swrI}{3;eka}	yaxqcCA{swrI}{3;eka}	kriyAviSeRaNam,3	svecCA_se	unsolicited				
-2	ca	5	copapannaM	ca{avya}	ca{avya}	samuccayaxyowakaH,5	Ora	and				
-3	upapannam	3	0	upapanna{puM}{2;eka}/upapanna{napuM}{1;eka}/upapanna{napuM}{2;eka}	upa_pax1{kqw_prawyayaH:kwa;upa_paxaz;xivAxiH;napuM}{2;eka}	supsamucciwam,5	prApwa_hue	opportunity				
+2	ca	5	copapannaM	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	and				
+3	upapannam	3	0	upapanna{puM}{2;eka}/upapanna{napuM}{1;eka}/upapanna{napuM}{2;eka}	upa_pax1{kqw_prawyayaH:kwa;upa_paxaz;xivAxiH;napuM}{2;eka}	sup_samucciwaH,5	prApwa_hue	opportunity				
 4	svarga-xvAram	6	svargaxvAramapAvqwam	svarga-xvAr{swrI}{2;eka}/xvAra{napuM}{1;eka}/xvAra{napuM}{2;eka}	svarga-xvAra{napuM}{2;eka}	viSeRaNam,10	svarga_ke_xvAra_jEse	gateway_to_heaven	<svarga-xvAram>T6			
 5	apAvqwam	4	0	apa_vqw1{karwari;luf;u;eka;AwmanepaxI;vqwuz;BvAxiH}	apa_Af_vq2{kqw_prawyayaH:kwa;apa_Af_vqF;svAxiH;napuM}{2;eka}	viSeRaNam,4	Kule_hue	open				
 6	suKinaH	9	suKinaH	suKI{napuM}{5;eka}/suKI{napuM}{6;eka}/suKin{puM}{1;bahu}/suKin{puM}{2;bahu}/suKin{puM}{5;eka}/suKin{puM}{6;eka}/suKin{puM}{8;bahu}/suKin{napuM}{5;eka}/suKin{napuM}{6;eka}	suKin{puM}{1;bahu}	viSeRaNam,7	BAgyavAn	happy				

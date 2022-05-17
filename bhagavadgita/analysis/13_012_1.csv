@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	jFeyam	2	jFeyaM	jFeya{puM}{2;eka}/jFeya{napuM}{1;eka}/jFeya{napuM}{2;eka}	jFA2{kqw_prawyayaH:yaw;jFA;kryAxiH;napuM}{1;eka}	karwA,2.1	jAnane_yogya	knowable				
-2	yaw	1	yawwawpravakRyAmi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,1;niwyasambanXaH,3	jo	that				
+2	yaw	1	yawwawpravakRyAmi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,1;niwya_sambanXaH,3	jo	that				
 2.1	(aswi)	3	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,1;akarmakaH	(hE)	is				
-3	waw	4	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,4;niwyasambanXaH,5	usako	that				
+3	waw	4	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,4;niwya_sambanXaH,5	usako	that				
 4	pravakRyAmi	5	0	pra_vah1{karwari;lqt;u;eka;uBayapaxI;vahaz;BvAxiH}	pra_vac1{karwari;lqt;u;eka;parasmEpaxI;pra_vacaz;axAxiH}		kahUzgA	shall_now_explain				
 5	yaw	6	yajjFAwvAmqwamaSnuwe	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,6	jisako	which				
 6	jFAwvA	7	0	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,8	jAnakara	knowing				
 7	amqwam	8	0	a-mqwa{puM}{2;eka}/mqwa{napuM}{1;eka}/mqwa{napuM}{2;eka}	amqwa{napuM}{2;eka}	karma,8	paramAnanxa_ko	nectar				
 8	aSnuwe	9	0	aS1{karwari;lat;pra;eka;AwmanepaxI;aSUz;svAxiH}	aS1{karwari;lat;pra;eka;AwmanepaxI;aSUz;svAxiH}		prApwa_howA_hE	taste				
-9	an-Aximaw	12	anAximawparaM	an-{avya}-Aximaw{napuM}/Aximaw{puM}/Aximaw{napuM}/Aximaw{puM}	na-Aximaw{napuM}{1;eka}	karwqsamAnAXikaraNam,11.1	anAxivAlA	beginningless	<na-Aximaw>Tn			
+9	an-Aximaw	12	anAximawparaM	an-{avya}-Aximaw{napuM}/Aximaw{puM}/Aximaw{napuM}/Aximaw{puM}	na-Aximaw{napuM}{1;eka}	viXeya_viSeRaNam,11.1	anAxivAlA	beginningless	<na-Aximaw>Tn			
 10	param	10	0	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{1;eka}	viSeRaNam,11	parama	supreme				
 11	brahma	11	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwA,11.1	brahma	spirit				
 11.1	(aswi)	13	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hE)	is				
 12	na	15	na	na{avya}	na{avya}	prawiReXaH,13	na	neither				
-13	saw	16	sawwannAsaxucyawe	saw{puM}{1;eka}/saw{swrI}{1;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}	saw{napuM}{1;eka}	supsamucciwam,16	saw	cause				
+13	saw	16	sawwannAsaxucyawe	saw{puM}{1;eka}/saw{swrI}{1;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}	saw{napuM}{1;eka}	sup_samucciwaH,16	saw	cause				
 14	waw	14	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,17	vaha	that				
 15	na	17	0	na{avya}	na{avya}	prawiReXaH,16	na	nor				
 16	a-saw	18	0	a-saw{puM}{1;eka}/saw{swrI}{1;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}	asaw{napuM}{1;eka}	karmasamAnAXikaraNam,17	asaw	effect	<na-saw>Tn			
-16.1	(ca)	19	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,16	(Ora)	also				
+16.1	(ca)	19	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,16	(Ora)	also				
 17	ucyawe	20	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,14;sakarmakaH	kahA_jAwA_hE	is_called				

@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	rAja-vixyA	2	rAjavixyA	rAjan-vixyA{swrI}{1;eka}	rAjan-vixyA{swrI}{1;eka}	karwA,10.2	saba_vixyAoM_kA_rAjA	the_king_of_education	<rAja-vixyA>T6			
-2	rAja-guhyam	3	rAjaguhyaM	rAjan-guhya{puM}{2;eka}/guhya{napuM}{1;eka}/guhya{napuM}{2;eka}	rAjan-guhya{napuM}{1;eka}	sup_samuucciwam,10	saba_gopanIyoM_kA_rAjA	the_king_of_confidential_knowledge	<rAja-guhyaM>T6			
-3	paviwram	4	paviwramixamuwwamam	paviwra{puM}{2;eka}	paviwra{puM}{1;eka}	sup_samuucciwam,10	awi_paviwra	the_purest				
+2	rAja-guhyam	3	rAjaguhyaM	rAjan-guhya{puM}{2;eka}/guhya{napuM}{1;eka}/guhya{napuM}{2;eka}	rAjan-guhya{napuM}{1;eka}	sup_samucciwaH,10	saba_gopanIyoM_kA_rAjA	the_king_of_confidential_knowledge	<rAja-guhyaM>T6			
+3	paviwram	4	paviwramixamuwwamam	paviwra{puM}{2;eka}	paviwra{puM}{1;eka}	sup_samucciwaH,10	awi_paviwra	the_purest				
 4	ixam	1	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,1	yaha_vijFAnasahiwa_jFAna	this				
-5	uwwamam	5	0	uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	uwwama{napuM}{1;eka}	sup_samuucciwam,10	awi_uwwama	transcendental				
-6	prawyakRa-avagamam	6	prawyakRAvagamaM	prawyakRAvagama{puM}{2;eka}/prawyakRAvagama{napuM}{1;eka}/prawyakRAvagama{napuM}{2;eka}	prawyakRa-avagama{napuM}{1;eka}	sup_samuucciwam,10	prawyakRa_PalavAlA	directly_experienced	<prawyakRa-avagamam>Bs6			
-7	Xarmyam	7	XarmyaM	Xarmya{puM}{2;eka}/Xarmya{napuM}{1;eka}/Xarmya{napuM}{2;eka}	Xarmya{puM}{2;eka}	sup_samuucciwam,10	Xarmayukwa_sAXana	the_principle_of_religion				
+5	uwwamam	5	0	uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	uwwama{napuM}{1;eka}	sup_samucciwaH,10	awi_uwwama	transcendental				
+6	prawyakRa-avagamam	6	prawyakRAvagamaM	prawyakRAvagama{puM}{2;eka}/prawyakRAvagama{napuM}{1;eka}/prawyakRAvagama{napuM}{2;eka}	prawyakRa-avagama{napuM}{1;eka}	sup_samucciwaH,10	prawyakRa_PalavAlA	directly_experienced	<prawyakRa-avagamam>Bs6			
+7	Xarmyam	7	XarmyaM	Xarmya{puM}{2;eka}/Xarmya{napuM}{1;eka}/Xarmya{napuM}{2;eka}	Xarmya{puM}{2;eka}	sup_samucciwaH,10	Xarmayukwa_sAXana	the_principle_of_religion				
 8	susuKam	9	susuKaM	susuKa{puM}{2;eka}/susuKa{napuM}{1;eka}/susuKa{napuM}{2;eka}	susuKa{napuM}{1;eka}	karma,9	bada़A_sugama	very_happy				
 9	karwum	8	karwumavyayam	kq1{kqw_prawyayaH:wumun;kqF;BvAxiH}/kq2{kqw_prawyayaH:wumun;kqF;svAxiH}/kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	prayojanam,8	karane_meM	to_execute				
-10	a-vyayam	11	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	avyaya{puM}{1;eka}	karwqsamAnAXikaraNam,10.2	avinASI	everlasting	<na-vyayam>Bsmn			
-10.1	(ca)	10	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,10	(Ora)	and				
+10	a-vyayam	11	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	avyaya{puM}{1;eka}	viXeya_viSeRaNam,10.2	avinASI	everlasting	<na-vyayam>Bsmn			
+10.1	(ca)	10	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,10	(Ora)	and				
 10.2	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,1;akarmakaH	(hE)	is				

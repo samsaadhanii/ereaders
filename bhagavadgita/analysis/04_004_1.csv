@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-param	2	aparaM	a-para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	apara{napuM}{1;eka}	karwqsamAnAXikaraNam,3.1	aBI_hAla_kA	junior	<na-param>Tn			
+1	a-param	2	aparaM	a-para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	apara{napuM}{1;eka}	viXeya_viSeRaNam,3.1	aBI_hAla_kA	junior	<na-param>Tn			
 2	BavawaH	1	Bavawo	Bavaw{puM}{2;bahu}/Bavaw{puM}{5;eka}/Bavaw{puM}{6;eka}/BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;BvAxiH}	Bavaw{puM}{5;eka}	RaRTIsambanXaH,3	ApakA	your				
 3	janma	3	janma	janma{napuM}{8;eka}/janman{napuM}{1;eka}/janman{napuM}{2;eka}	janman{napuM}{1;eka}	karwA,3.1	janma	birth				
 3.1	(aswi)	6.1	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,3	(hE)	is				
-4	param	6	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{1;eka}	karwqsamAnAXikaraNam,6.1	prAcIna	superior				
+4	param	6	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{1;eka}	viXeya_viSeRaNam,6.1	prAcIna	superior				
 5	janma	4	janma	janma{napuM}{8;eka}/janman{napuM}{1;eka}/janman{napuM}{2;eka}	janman{napuM}{1;eka}	karwA,6.1	janma	birth				
 6	vivasvawaH	5	vivasvawaH	vivasvaw{puM}{2;bahu}/vivasvaw{puM}{5;eka}/vivasvaw{puM}{6;eka}	vivasvaw{puM}{5;eka}	RaRTIsambanXaH,5	sUrya_kA	of_the_sun-god				
 6.1	(aswi)	6.1	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,3	(hE)	is				
@@ -13,5 +13,5 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 10	wvam	12	wvamAxO	yuRmax{1;eka}	yuRmax{1;eka}	karwA,12	Apane	you				
 11	AxO	13		Axi{puM}{7;eka}	Axi{puM}{7;eka}	aXikaraNam,12	kalpa_ke_Axi_meM	in_the_beginning				
 12	prokwavAn	7	prokwavAniwi	prokwavaw{puM}{1;eka}	pra_vac1{kqw_prawyayaH:kwavawu;pra_vacaz;axAxiH;puM}{1;eka}	vAkyakarma,9	kahA_WA	instructed				
-13	iwi	14		iwi{avya}	iwi{avya}	hewuxyowakaH,7	isa_bAwa_ko	thus				
+13	iwi	14		iwi{avya}	iwi{avya}	hewu_xyowakaH,7	isa_bAwa_ko	thus				
 14	(aham)	9	()	(asmax{1;eka})	(asmax{1;eka})	karwA,9	(mEM)	I				

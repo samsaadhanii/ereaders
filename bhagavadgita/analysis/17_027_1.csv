@@ -1,8 +1,8 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yajFe	2	yajFe	yajFa{puM}{7;eka}	yajFa{puM}{7;eka}	supsamucciwam,3	yajFa	in_sacrifice				
-2	wapasi	3	wapasi	wapas{napuM}{7;eka}/wap1{karwari;lat;ma;eka;parasmEpaxI;wapaz;BvAxiH}/wap3{karwari;lat;ma;eka;parasmEpaxI;wapaz;curAxiH}	wapas{napuM}{7;eka}	supsamucciwam,3	wapa	in_penance				
+1	yajFe	2	yajFe	yajFa{puM}{7;eka}	yajFa{puM}{7;eka}	sup_samucciwaH,3	yajFa	in_sacrifice				
+2	wapasi	3	wapasi	wapas{napuM}{7;eka}/wap1{karwari;lat;ma;eka;parasmEpaxI;wapaz;BvAxiH}/wap3{karwari;lat;ma;eka;parasmEpaxI;wapaz;curAxiH}	wapas{napuM}{7;eka}	sup_samucciwaH,3	wapa	in_penance				
 3	xAne	5	xAne	xAna{napuM}{1;xvi}/xAna{napuM}{2;xvi}/xAna{napuM}{7;eka}	xAna{napuM}{7;eka}	aXikaraNam,5.2	xAna_meM	in_charity				
-4	ca	1	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,3	waWA	also				
+4	ca	1	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	waWA	also				
 5	sWiwiH	7	sWiwiH	sWiwi{swrI}{1;eka}	sWiwi{swrI}{1;eka}	karwA,5.2	sWiwi	situated				
 5.1	(yA)	6	(0)	(yax{swrI}{1;eka})	(yax{swrI}{1;eka})	viSeRaNam,5	(jo)	that				
 5.2	(aswi)	8	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hE)	is				

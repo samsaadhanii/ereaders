@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kAyena	7	kAyena	kAya{puM}{3;eka}/kAya{napuM}{3;eka}	kAya{napuM}{3;eka}	sup_samucciwam,5	SarIra_xvArA	with_the_body				
-2	manasA	4	manasA	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	sup_samucciwam,5	mana	with_the_mind				
-3	buxXyA	5	buxXyA	buxXi{swrI}{3;eka}	buxXi{swrI}{3;eka}	sup_samucciwam,5	buxXi	with_the_intelligence				
+1	kAyena	7	kAyena	kAya{puM}{3;eka}/kAya{napuM}{3;eka}	kAya{napuM}{3;eka}	sup_samucciwaH,5	SarIra_xvArA	with_the_body				
+2	manasA	4	manasA	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	sup_samucciwaH,5	mana	with_the_mind				
+3	buxXyA	5	buxXyA	buxXi{swrI}{3;eka}	buxXi{swrI}{3;eka}	sup_samucciwaH,5	buxXi	with_the_intelligence				
 4	kevalEH	2	kevalErinxriyErapi	kevala{puM}{3;bahu}/kevala{napuM}{3;bahu}	kevala{napuM}{3;bahu}	viSeRaNam,5	kevala	purified				
 5	inxriyEH	3	0	inxriya{puM}{3;bahu}/inxriya{napuM}{3;bahu}	inxriya{napuM}{3;bahu}	karaNam,9	inxriya	with_the_senses				
-5.1	(ca)	6	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,3	(Ora)	and				
+5.1	(ca)	6	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,3	(Ora)	and				
 6	api	8	0	api{avya}	api{avya}	sambanXaH,5	BI	even_with				
 7	yoginaH	1	yoginaH	yogin{puM}{1;bahu}/yogin{puM}{2;bahu}/yogin{puM}{5;eka}/yogin{puM}{6;eka}	yogin{puM}{1;bahu}	karwA,9	karmayogI	yogi				
 8	karma	12	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,9	karma	actions				

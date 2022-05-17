@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	banXuH	9	banXurAwmAwmanaswasya	banXu{puM}{1;eka}	banXu{puM}{1;eka}	karwqsamAnAXikaraNam,9.1	miwra	friend				
+1	banXuH	9	banXurAwmAwmanaswasya	banXu{puM}{1;eka}	banXu{puM}{1;eka}	viXeya_viSeRaNam,9.1	miwra	friend				
 2	AwmA	7	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,9.1	Apa	mind				
 3	AwmanaH	6	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,2	jIvAwmA_kA	of_the_living_entity				
 4	wasya	5	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	viSeRaNam,3	usa	of_him				
-5	yena	1	yenAwmEvAwmanA	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	viSeRaNam,8;niwyasambanXaH,4	jisa	by_whom				
+5	yena	1	yenAwmEvAwmanA	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	viSeRaNam,8;niwya_sambanXaH,4	jisa	by_whom				
 6	AwmA	3	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karma,9	mana_Ora_inxriyoM_sahiwa_SarIra	mind				
 7	eva	8	0	eva{avya}	eva{avya}	sambanXaH,2	hI	certainly				
 8	AwmanA	2	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,9	jIvAwmA_xvArA	by_the_living_entity				

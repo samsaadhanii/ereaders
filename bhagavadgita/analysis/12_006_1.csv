@@ -1,5 +1,5 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ye	2	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,6;niwyasambanXaH,14	jo	one_who				
+1	ye	2	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,6;niwya_sambanXaH,14	jo	one_who				
 2	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,1	paraMwu	but				
 3	sarvANi	4	sarvANi	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarvANI{swrI}{8;eka}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{2;bahu}	viSeRaNam,4	sampUrNa	everything				
 4	karmANi	5	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}	karman{napuM}{2;bahu}	karma,6	karmoM_ko	activities				
@@ -14,7 +14,7 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 13	upAsawe	13	upAsawe	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;Asaz;axAxiH}	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;upa_Asaz;axAxiH}	aBihiwakarwA,1;sakarmakaH	Bajawe_hEM	worship				
 14	weRAm	15	weRAmahaM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	viSeRaNam,22	una	of_them				
 15	aham	18	0	asmax{1;eka}	asmax{1;eka}	karwA,18	mEM	I				
-16	samuxXarwA	21	samuxXarwA	samuxXarwq{puM}{1;eka}/sam_ux_Xq1{karwari;lut;pra;eka;uBayapaxI;XqF;BvAxiH}/sam_ux_Xq1{karmaNi;lut;pra;eka;AwmanepaxI;XqF;BvAxiH}	samuxXarwq{puM}{1;eka}	karwqsamAnAXikaraNam,18	uxXAra_karanevAlA	deliverer				
+16	samuxXarwA	21	samuxXarwA	samuxXarwq{puM}{1;eka}/sam_ux_Xq1{karwari;lut;pra;eka;uBayapaxI;XqF;BvAxiH}/sam_ux_Xq1{karmaNi;lut;pra;eka;AwmanepaxI;XqF;BvAxiH}	samuxXarwq{puM}{1;eka}	viXeya_viSeRaNam,18	uxXAra_karanevAlA	deliverer				
 17	mqwyu-saMsAra-sAgarAw	20	mqwyusaMsArasAgarAw	mqwyusaMsArasAgarAw	mqwyu-saMsAra-sAgara{puM}{5;eka}	apAxAnam,16	mqwyurUpa_saMsArasamuxra_se	from_the_ocean_of_death_and_material_existence	<<mqwyu-saMsAra>Km-sAgarAw>K6			
 18	BavAmi	22	BavAmi	BU1{karwari;lat;u;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;u;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,15;akarmakaH	howA_hUz	become				
 19	nacirAw	19	nacirAwpArWa	nacira{napuM}{5;eka}	nacirAw{avya}	kriyAviSeRaNam,18	SIGra_hI	not_a_long_time				

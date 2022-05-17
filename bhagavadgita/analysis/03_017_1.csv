@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaH	2	yaswvAwmarawireva	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,8;niwyasambanXaH,13	jo	he_who				
+1	yaH	2	yaswvAwmarawireva	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,8;niwya_sambanXaH,13	jo	he_who				
 2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,1	paraMwu	however				
-3	Awma-rawiH	4	0	Awma-rawi{swrI;1;eka}/rawi{puM;1;eka}	Awma-rawi{puM;1;eka}	karwqsamAnAXikaraNam,5	Awma-rawi	takes_delight_in_the_Self	<Awma-rawiH>Bs6			
+3	Awma-rawiH	4	0	Awma-rawi{swrI;1;eka}/rawi{puM;1;eka}	Awma-rawi{puM;1;eka}	viXeya_viSeRaNam,5	Awma-rawi	takes_delight_in_the_Self	<Awma-rawiH>Bs6			
 4	eva	5	0	eva{avya}	eva{avya}	sambanXaH,3	hI	alone				
 5	syAw	12	syAxAwmawqpwaSca	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,1;akarmakaH	ho	is				
-6	Awma-wqpwaH	6	0	Awman-wqpwa{puM}{1;eka}	Awman-wqpwa{puM}{1;eka}	sup_samucciwam,3	AwmA_meM_hI_wqpwa	gratified_with_the_Self	<Awma-wqpwaH>T7			
-7	ca	7	0	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora	and				
+6	Awma-wqpwaH	6	0	Awman-wqpwa{puM}{1;eka}	Awman-wqpwa{puM}{1;eka}	sup_samucciwaH,3	AwmA_meM_hI_wqpwa	gratified_with_the_Self	<Awma-wqpwaH>T7			
+7	ca	7	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	and				
 8	mAnavaH	3	mAnavaH	mAnava{puM}{1;eka}	mAnava{puM}{1;eka}	karwA,5	manuRya	a_man				
 9	Awmani	8	Awmanyeva	Awman{puM}{7;eka}	Awman{puM}{7;eka}	aXikaraNam,12	AwmA_meM	in_the_Self				
 10	eva	9	0	eva{avya}	eva{avya}	sambanXaH,9	hI	only				
-11	ca	11	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,12	BI	and				
-12	sanwuRtaH	10	sanwuRtaswasya	sanwuRta{puM}{1;eka}	sam_wuR1{kqw_prawyayaH:kwa;sam_wuRaz;xivAxiH;puM}{1;eka}	sup_samucciwam,3	saMwuRta	contented				
+11	ca	11	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	BI	and				
+12	sanwuRtaH	10	sanwuRtaswasya	sanwuRta{puM}{1;eka}	sam_wuR1{kqw_prawyayaH:kwa;sam_wuRaz;xivAxiH;puM}{1;eka}	sup_samucciwaH,3	saMwuRta	contented				
 13	wasya	13	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,14	usake_liye	for_him				
 14	kAryam	14	kAryaM	kArya{napuM}{2;eka}	kArya{napuM}{1;eka}	karwA,16	koI_karwavya	duty				
 15	na	15	na	na{avya}	na{avya}	prawiReXaH,16	nahIM	no				

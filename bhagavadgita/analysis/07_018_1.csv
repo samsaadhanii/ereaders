@@ -1,5 +1,5 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	uxArAH	4	uxArAH	uxAra{puM}{1;bahu}/uxAra{puM}{8;bahu}	uxAra{puM}{1;bahu}	karwqsamAnAXikaraNam,4.1	uxAra	magnanimous				
+1	uxArAH	4	uxArAH	uxAra{puM}{1;bahu}/uxAra{puM}{8;bahu}	uxAra{puM}{1;bahu}	viXeya_viSeRaNam,4.1	uxAra	magnanimous				
 2	sarve	2	sarva	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,4.1	saba	all				
 3	eva	3	evEwe	eva{avya}	eva{avya}	sambanXaH,2	hI	certainly				
 4	ewe	1	0	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{puM}{1;bahu}	viSeRaNam,2	ye	these				
@@ -7,10 +7,10 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 5	jFAnI	5	jFAnI	jFAnin{puM}{1;eka}	jFAnin{puM}{1;eka}	karwA,8.1	jFAnI	one_who_is_in_knowledge				
 6	wu	6	wvAwmEva	wu{avya}	wu{avya}	sambanXaH,8.1	paraMwu	but				
 6.1	(mama)	7	(0)	(asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH})	(asmax{6;eka})	RaRTIsambanXaH,7	(merA_svarUpa)	mine				
-7	AwmA	9	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwqsamAnAXikaraNam,8.1	AwmA	soul				
+7	AwmA	9	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	viXeya_viSeRaNam,8.1	AwmA	soul				
 8	eva	8	0	eva{avya}	eva{avya}	sambanXaH,6.1	hI	just_like				
 8.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	vAkyakarma,10	(hE)	is				
-8.2	(iwi)	11	(0)	(iwi{avya})	(iwi{avya})	vAkyakarmaxyowakaH,8.1	(EsA)	thus				
+8.2	(iwi)	11	(0)	(iwi{avya})	(iwi{avya})	vAkyakarma_xyowakaH,8.1	(EsA)	thus				
 9	me	12	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,10	merA	my				
 10	mawam	13	mawam	mawa{puM}{2;eka}/mawa{napuM}{1;eka}/mawa{napuM}{2;eka}	mawa{napuM}{1;eka}	karwA,10.1	mawa	opinion				
 10.1	(aswi)	14	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,10	(hE)	is				
@@ -21,4 +21,4 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 15	mAm	20	mAmevAnuwwamAM	asmax{2;eka}	asmax{2;eka}	karma,11	muJameM	unto_Me				
 16	eva	21	0	eva{avya}	eva{avya}	sambanXaH,15	hI	certainly				
 17	an-uwwamAm	18	0	an-{avya}-uwwamA{swrI}{2;eka}	anuwwamA{swrI}{2;eka}	viSeRaNam,18	awi_uwwama	the_highest_goal	<na-uwwamAm>Bsmn			
-18	gawim	19	gawim	gawi{swrI}{2;eka}	gawi{swrI}{2;eka}	viSeeRaNam,15	gawisvarUpa	destination				
+18	gawim	19	gawim	gawi{swrI}{2;eka}	gawi{swrI}{2;eka}	viSeRaNam,15	gawisvarUpa	destination				

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	na	3	na	na{avya}	na{avya}	prawiReXaH,2	nahIM	never				
-2	prahqRyew	4	prahqRyewpriyaM	pra_hqR1{karwari;viXilif;pra;eka;parasmEpaxI;hqRaz;xivAxiH}	pra_hqR1{karwari;viXilif;pra;eka;parasmEpaxI;pra_hqRaz;xivAxiH}	samucciwam,6	harRiwa_ho	rejoice				
+2	prahqRyew	4	prahqRyewpriyaM	pra_hqR1{karwari;viXilif;pra;eka;parasmEpaxI;hqRaz;xivAxiH}	pra_hqR1{karwari;viXilif;pra;eka;parasmEpaxI;pra_hqRaz;xivAxiH}	samucciwaH,6	harRiwa_ho	rejoice				
 3	priyam	1	0	priya{puM}{2;eka}/priya{napuM}{1;eka}/priya{napuM}{2;eka}	priya{puM}{2;eka}	karma,4	priya_ko	pleasant				
 4	prApya	2	prApya	pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,2	prApwa_hokara	achieving				
 5	na	8	noxvijewprApya	na{avya}	na{avya}	prawiReXaH,6	nahIM	does_not				
 6	uxvijew	9	0	uxvijew	ux_vij2{karwari;viXilif;pra;eka;parasmEpaxI;ux_ozvijIz;wuxAxiH}		uxvigna_ho	agitated				
 7	prApya	7	0	pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,6	prApwa_hokara	in_equanimity				
-8	ca	5	cApriyam	ca{avya}	ca{avya}	samuccayaxyowakam,6	Ora	also				
+8	ca	5	cApriyam	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	also				
 9	a-priyam	6	0	apriya{puM}{2;eka}/apriya{napuM}{1;eka}/apriya{napuM}{2;eka}	na-priya{puM}{2;eka}	karma,7	apriya_ko	unpleasant	<na-priyam>Tn			
 10	sWira-buxXiH	10	sWirabuxXirasammUDo	sWira-buxXi{swrI}{1;eka}	sWira-buxXi{swrI}{1;eka}	viSeRaNam,12	sWirabuxXi	self-intelligent	<sWira-buxXiH>Bs6			
 11	a-sammUDaH	11	0	asammUDa{puM}{1;eka}	na-sammUDa{puM}{1;eka}	viSeRaNam,12	saMSayarahiwa	unbewildered	<na-sammUDaH>Tn			

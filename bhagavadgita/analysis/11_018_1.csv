@@ -1,6 +1,6 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	wvam	1	wvamakRaraM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,4.1	Apa	you				
-2	a-kRaram	4	0	a-kRara{napuM}{1;eka}/kRara{napuM}{2;eka}	akRara{napuM}{1;eka}	karwqsamAnAXikaraNam,4.1	akRara_arWAw_parabrahma_paramAwmA	inexhaustible	<na-kRaram>Tn			
+2	a-kRaram	4	0	a-kRara{napuM}{1;eka}/kRara{napuM}{2;eka}	akRara{napuM}{1;eka}	viXeya_viSeRaNam,4.1	akRara_arWAw_parabrahma_paramAwmA	inexhaustible	<na-kRaram>Tn			
 3	paramam	3	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{1;eka}	viSeRaNam,2	parama	supreme				
 4	vexiwavyam	2	vexiwavyaM	vexiwavya{puM}{2;eka}/vexiwavya{napuM}{1;eka}/vexiwavya{napuM}{2;eka}	vix1{kqw_prawyayaH:wavyaw;vixaz;axAxiH;napuM}{1;eka}	viSeRaNam,2	jAnane_yogya	to_be_understood				
 4.1	(asi)	5	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,1;akarmakaH	(hEM)	are				
@@ -8,17 +8,17 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 6	asya	7	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{napuM}{6;eka}	viSeRaNam,7	isa	of_this				
 7	viSvasya	8	viSvasya	viSva{puM}{6;eka}/viSva{napuM}{6;eka}/viSva{puM}{6;eka}/viSva{napuM}{6;eka}/vi_Svas1{kqw_prawyayaH:lyap;Svasaz;axAxiH}	viSva{napuM}{6;eka}	RaRTIsambanXaH,9	jagaw_ke	of_the_universe				
 8	param	9	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{1;eka}	viSeRaNam,9	parama	supreme				
-9	niXAnam	10	niXAnam	niXAna{napuM}{1;eka}/niXAna{napuM}{2;eka}	niXAna{napuM}{1;eka}	karwqsamAnAXikaraNam,9.1	ASraya	basis				
+9	niXAnam	10	niXAnam	niXAna{napuM}{1;eka}/niXAna{napuM}{2;eka}	niXAna{napuM}{1;eka}	viXeya_viSeRaNam,9.1	ASraya	basis				
 9.1	(asi)	11	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hEM)	are				
 10	wvam	12	wvamavyayaH	yuRmax{1;eka}	yuRmax{1;eka}	karwA,12.1	Apa	you				
 11	a-vyayaH	16	0	a-vyaya{puM}{1;eka}	avyaya{puM}{1;eka}	viSeRaNam,15	avinASI	inexhaustible	<na-vyayaH>Bsmn			
-12	SASvawa-Xarma-gopwA	13	SASvawaXarmagopwA	SASvawa-Xarman-gopwq{puM}{1;eka}	SASvawa-Xarman-gopwq{puM}{1;eka}	karwqsamAnAXikaraNam,12.1	anAxi_Xarma_ke_rakRaka	maintainer_of_the_eternal_religion	<<SASvawa-Xarma>K1-gopwA>T6			
+12	SASvawa-Xarma-gopwA	13	SASvawaXarmagopwA	SASvawa-Xarman-gopwq{puM}{1;eka}	SASvawa-Xarman-gopwq{puM}{1;eka}	viXeya_viSeRaNam,12.1	anAxi_Xarma_ke_rakRaka	maintainer_of_the_eternal_religion	<<SASvawa-Xarma>K1-gopwA>T6			
 12.1	(asi)	14	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10;akarmakaH	(hEM)	are				
 13	sanAwanaH	17	sanAwanaswvaM	sanAwana{puM}{1;eka}	sanAwana{puM}{1;eka}	viSeRaNam,15	sanAwana	eternal				
 14	wvam	15	0	yuRmax{1;eka}	yuRmax{1;eka}	karwA,15.1	Apa	you				
-15	puruRaH	18	puruRo	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	karwqsamAnAXikaraNam,15.1	puruRa	Supreme_Personality				
+15	puruRaH	18	puruRo	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	viXeya_viSeRaNam,15.1	puruRa	Supreme_Personality				
 15.1	(asi)	19	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	vAkyakarma,16	(hEM)	are				
-15.2	(iwi)	20	(0)	(iwi{avya})	(iwi{avya})	vAkyakarmaxyowakaH,15.1	(EsA)	thus				
+15.2	(iwi)	20	(0)	(iwi{avya})	(iwi{avya})	vAkyakarma_xyowakaH,15.1	(EsA)	thus				
 16	mawaH	22	mawo	mawa{puM}{1;eka}	mawa{puM}{1;eka}	karwA,17.1	mawa	opinion				
 17	me	21	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,16	merA	my				
 17.1	(aswi)	23	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,16;akarmakaH	(hE)	is				

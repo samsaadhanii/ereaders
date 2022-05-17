@@ -6,12 +6,12 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 5	waWA	4	waWopalaByawe	waWA{avya}	waWA{avya}	kriyAviSeRaNam,6	vEsA	also				
 6	upalaByawe	6	0	upalaByawA{swrI}{1;xvi}/upalaByawA{swrI}{2;xvi}/upalaByawA{swrI}{8;eka}/upalaByawA{swrI}{8;xvi}/upa_laB1{karmaNi;lat;pra;eka;AwmanepaxI;dulaBazR;BvAxiH}	upa_laB1{karmaNi;lat;pra;eka;AwmanepaxI;upa_dulaBazR;BvAxiH}	aBihiwakarma,2;sakarmakaH	pAyA_jAwA	can_be_perceived				
 7	na	10	nAnwo	na{avya}	na{avya}	sambanXaH,8	na	never				
-8	anwaH	11	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	supsamucciwam,14	anwa	end				
+8	anwaH	11	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	sup_samucciwaH,14	anwa	end				
 9	na	7	na	na{avya}	na{avya}	sambanXaH,11	na	never				
 10	ca	9	cAxirna	ca{avya}	ca{avya}	sambanXaH,11	Ora	also				
-11	AxiH	8	0	Axi{puM}{1;eka}	Axi{puM}{1;eka}	supsamucciwam,14	Axi	beginning				
+11	AxiH	8	0	Axi{puM}{1;eka}	Axi{puM}{1;eka}	sup_samucciwaH,14	Axi	beginning				
 12	na	13	0	na{avya}	na{avya}	sambanXaH,14	na	never				
-13	ca	12	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,14	waWA	also				
+13	ca	12	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,14	waWA	also				
 14	samprawiRTA	14	samprawiRTA	samprawiRTA{swrI}{1;eka}	samprawiRTA{swrI}{1;eka}	karwA,14.1	acCI_prakAra_se_sWiwi	the_foundation				
 14.1	(Bavawi)	15	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,14	(hE)	becomes				
 15	aSvawWam	18	aSvawWamenaM	aSvawWa{puM}{2;eka}	aSvawWa{puM}{2;eka}	karma,20	saMsArarUpa_pIpala_ke_vqkRa_ko	banyan_tree				
@@ -22,7 +22,7 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 20	CiwwvA	21	CiwwvA	Cix1{kqw_prawyayaH:kwvA;Cixa;wuxAxiH}	Cix1{kqw_prawyayaH:kwvA;Cixa;wuxAxiH}	pUrvakAlaH,24	kAtakara	by_cutting				
 21	wawaH	22	wawaH	wawaH{avya}	wawaH{avya}	apAxAnam,24	usake_paScAw	thereafter				
 22	paxam	24	paxaM	pax{puM}{2;eka}/paxa{napuM}{1;eka}/paxa{napuM}{2;eka}	paxa{puM}{1;eka}	karma,24	paramapaxarUpa_parameSvara_ko	situation				
-23	waw	23	wawparimArgiwavyaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{puM}{1;eka}	viSeRaNam,22;niwyasambanXaH,25	usa	that				
+23	waw	23	wawparimArgiwavyaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{puM}{1;eka}	viSeRaNam,22;niwya_sambanXaH,25	usa	that				
 24	parimArgiwavyam	25	0	pari-{avya}-mArgiwavyam	pari_mArg1{kqw_prawyayaH:wavyaw;pari_mArgaz;curAxiH}	aBihiwakarma,22;sakarmakaH	BalIBAzwi_KojanA_cAhiye	has_to_be_searched_out				
 25	yasmin	26	yasmingawA	yax{puM}{7;eka}/yax{napuM}{7;eka}	yax{puM}{7;eka}	aXikaraNam,26	jisameM	where				
 26	gawAH	27	0	gawa{puM}{1;bahu}/gawA{swrI}{1;bahu}/gawA{swrI}{2;bahu}/gawA{swrI}{1;bahu}/gawA{swrI}{2;bahu}	gam1{kqw_prawyayaH:kwa;gamLz;BvAxiH}	karwA,28	gaye_hue_puruRa	going				

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	yaw	1	yaxyaxviBUwimawsawwvaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	vIpsA,2	jo	whatever				
-2	yaw	2	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,8.1;niwyasambanXaH,10	jo	whatever				
+2	yaw	2	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,8.1;niwya_sambanXaH,10	jo	whatever				
 3	vi-BUwimaw	4	0	vi-BUwi-asmax{5;eka}	viBUwimaw{napuM}{1;eka}	anyawaraH,6	viBUwiyukwa_arWAw_ESvaryayukwa	having_opulences	<vi-BUwi>Bvp^maw			
 4	sawwvam	8	0	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	anyawaraH,6	vaswu	existence				
 5	*SrImaw	5	SrImaxUrjiwameva	SrI-asmax{5;eka}	SrImaw{napuM}{1;eka}	anyawaraH,6	kAnwiyukwa	beautiful				
-6	Urjiwam	7	0	Urjiwa{puM}{2;eka}/Urjiwa{napuM}{1;eka}/Urjiwa{napuM}{2;eka}	Urjiwa{napuM}{1;eka}	karwqsamAnAXikaraNam,8.1	Sakwiyukwa	glorious				
+6	Urjiwam	7	0	Urjiwa{puM}{2;eka}/Urjiwa{napuM}{1;eka}/Urjiwa{napuM}{2;eka}	Urjiwa{napuM}{1;eka}	viXeya_viSeRaNam,8.1	Sakwiyukwa	glorious				
 7	eva	3	0	eva{avya}	eva{avya}	sambanXaH,6	BI	certainly				
-8	vA	6	vA	vA{avya}	vA{avya}	anyawaraxyowakaH,6	Ora	or				
+8	vA	6	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,6	Ora	or				
 8.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
 9	waw	10	wawwaxevAvagacCa	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	vIpsA,10	usako	all				
 10	waw	11	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,12	usako	those				

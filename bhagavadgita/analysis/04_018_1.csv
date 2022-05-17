@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	karmaNi	2	karmaNyakarma	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,4	karma_meM	in_action				
 2	a-karma	3		a-karman{napuM}{1;eka}/karman{napuM}{2;eka}	na-karman{napuM}{2;eka}	karma,4	akarma	inaction	<na-karma>Tn			
-3	yaH	1	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,4;niwyasambanXaH,9	jo_(manuRya)	one_who				
-4	paSyew	4	paSyexakarmaNi	xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_ karwA,3	xeKawA_hE	observes				
+3	yaH	1	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,4;niwya_sambanXaH,9	jo_(manuRya)	one_who				
+4	paSyew	4	paSyexakarmaNi	xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,3	xeKawA_hE	observes				
 5	a-karmaNi	7		a-karman{napuM}{7;eka}	na-karman{napuM}{7;eka}	aXikaraNam,8.1	akarma_meM	in_inaction	<na-karmaNi>Tn			
-6	ca	5	ca	ca{avya}	ca{avya}	samuccayaxyowakam,8.1	Ora	also				
+6	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,8.1	Ora	also				
 7	karma	8	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8.1	karma	fruitive_action				
 8	yaH	6	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,8.1	jo	one_who				
-8.1	(paSyew)	9	(xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH})		(xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH})	samucciwam,4;aBihiwa_ karwA,8	(xeKawA_hE)	(xeKawA_hE)				
+8.1	(paSyew)	9	(xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH})		(xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH})	samucciwaH,4;aBihiwa_karwA,8	(xeKawA_hE)	(xeKawA_hE)				
 9	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,11.1	vaha	he				
-10	buxXimAn	12	buxXimAnmanuRyeRu	buxXimaw{puM}{1;eka}	buxXimaw{puM}{1;eka}	karwqsamAnAXikaraNam,11.1	buxXimAn	intelligent				
+10	buxXimAn	12	buxXimAnmanuRyeRu	buxXimaw{puM}{1;eka}	buxXimaw{puM}{1;eka}	viXeya_viSeRaNam,11.1	buxXimAn	intelligent				
 11	manuRyeRu	11		manuRya{puM}{7;bahu}	manuRya{puM}{7;bahu}	nirXAraNam,9	manuRyoM_meM	in_human_society				
-11.1	(aswi)	13	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_ karwA,9	(hE)	is				
+11.1	(aswi)	13	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,9	(hE)	is				
 12	saH	14	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,13	vaha	he				
 13	yukwaH	15	yukwaH	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	karwA,14.1	yogI	in_the_transcendental_position				
-14	kqwsna-karma-kqw	16	kqwsnakarmakqw	kqwsna-karman-kqw{puM}{1;eka}/kqw{puM}{8;eka}	kqwsna-karman-kqw{puM}{1;eka}	karwqsamAnAXikaraNam,14.1	samaswa_karmoM_ko_karanevAlA	although_engaged_in_all_activities	<<kqwsna-karma>K1-kqw>U			
-14.1	(aswi)	17	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_ karwA,12	(hE)	is				
+14	kqwsna-karma-kqw	16	kqwsnakarmakqw	kqwsna-karman-kqw{puM}{1;eka}/kqw{puM}{8;eka}	kqwsna-karman-kqw{puM}{1;eka}	viXeya_viSeRaNam,14.1	samaswa_karmoM_ko_karanevAlA	although_engaged_in_all_activities	<<kqwsna-karma>K1-kqw>U			
+14.1	(aswi)	17	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,12	(hE)	is				

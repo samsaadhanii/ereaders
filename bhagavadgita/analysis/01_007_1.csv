@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	asmAkam	2	asmAkaM	asmax{6;bahu}	asmax{6;bahu}	RaRTIsambanXaH,3	hamAre	our				
 2	wu	3	wu	wu{avya}	wu{avya}	sambanXaH,1	BI	also				
-3	viSiRtAH	5	viSiRtA	viSiRta{puM}{1;bahu}/viSiRta{puM}{8;bahu}/viSiRtA{swrI}{1;bahu}/viSiRtA{swrI}{2;bahu}/viSiRtA{swrI}{8;bahu}/viSiRtA{swrI}{1;bahu}/viSiRtA{swrI}{2;bahu}/viSiRtA{swrI}{8;bahu}	viSiRta{puM}{1;bahu}	karwqsamAnAXikaraNam,4.1	praXAna	especially_powerful				
-4	ye	4	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,4.1;niwyasambanXaH,5	jo	those				
-4.1	(sanwi)	6	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa karwA,4;akarmakaH	(hEM)	are				
+3	viSiRtAH	5	viSiRtA	viSiRta{puM}{1;bahu}/viSiRta{puM}{8;bahu}/viSiRtA{swrI}{1;bahu}/viSiRtA{swrI}{2;bahu}/viSiRtA{swrI}{8;bahu}/viSiRtA{swrI}{1;bahu}/viSiRtA{swrI}{2;bahu}/viSiRtA{swrI}{8;bahu}	viSiRta{puM}{1;bahu}	viXeya_viSeRaNam,4.1	praXAna	especially_powerful				
+4	ye	4	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,4.1;niwya_sambanXaH,5	jo	those				
+4.1	(sanwi)	6	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hEM)	are				
 5	wAn	7	wAnniboXa	wax{puM}{2;bahu}	wax{puM}{2;bahu}	karma,6	unako	them				
 6	niboXa	9	0	ni_buX1{karwari;lot;ma;eka;parasmEpaxI;buXaz;BvAxiH}/ni_buX2{karwari;lot;ma;eka;parasmEpaxI;buXizr;BvAxiH}	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;ni_buXizr;BvAxiH}	aBihiwa_karwA,6.1;sakarmakaH	samaJa_lIjiye	know				
 6.1	(wvam)	8	(0)	(yuRmax{ sarvanAma}{1; eka})	(yuRmax{ sarvanAma}{1; eka})	karwA,6	Apa 	you				
 7	xvija-uwwama	1	xvijowwama	xvija-uwwama{puM}{8;eka}/uwwama{napuM}{8;eka}	xvija-uwwama{puM}{8;eka}	samboXyaH,13	he_brAhmaNaSreRTa	the_best_of_the_brahmanas	<xvija-uwwama>T7			
-8	nAyakAH	13	nAyakA	nAyaka{puM}{1;bahu}/nAyaka{puM}{8;bahu}	nAyaka{puM}{1;bahu}	karwqsamAnAXikaraNam,10.1	senApawi	principal_warriors				
+8	nAyakAH	13	nAyakA	nAyaka{puM}{1;bahu}/nAyaka{puM}{8;bahu}	nAyaka{puM}{1;bahu}	viXeya_viSeRaNam,10.1	senApawi	principal_warriors				
 9	mama	10	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,10	merI	my				
 10	sEnyasya	11	sEnyasya	sEnya{puM}{6;eka}	sEnya{puM}{6;eka}	RaRTIsambanXaH,8	senA_ke	army				
-10.1	(sanwi)	14	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa karwA,10.2;akarmakaH	(hEM)	are				
-10.2	(ye)	12	(0)	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,10.1;niwyasambanXaH,12	jo	those				
+10.1	(sanwi)	14	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10.2;akarmakaH	(hEM)	are				
+10.2	(ye)	12	(0)	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,10.1;niwya_sambanXaH,12	jo	those				
 11	saFjFA-arWam	18	saFjFArWaM	saFjFA-arWa{puM}{2;eka}/arWa{napuM}{1;eka}/arWa{napuM}{2;eka}	saFjFA-arWa{puM}{2;eka}	prayojanam,13	jAnakArI_ke_liye	for_information	<saFjFA-arWam>T4			
 12	wAn	15	wAnbravImi	wax{puM}{2;bahu}	wax{puM}{2;bahu}	karma,13	unake bAreme 	them				
 13	bravImi	19	0	brU1{karwari;lat;u;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;u;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,14.1;sakarmakaH	bawalAwA_hUz	mention				

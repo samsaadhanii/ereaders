@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	aXiRTAnam	2	aXiRTAnaM	aXiRTAna{napuM}{1;eka}/aXiRTAna{napuM}{2;eka}	aXiRTAna{napuM}{1;eka}	sup_samucciwaH,10	aXiRTAna	place				
-2	waWA	3	waWA	waWA{avya}	waWA{avya}	samuuccayaxyowakaH,1	vEse_hI	also_certainly				
+2	waWA	3	waWA	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,1	vEse_hI	also_certainly				
 3	karwA	4	karwA	karwq{puM}{1;eka}/kq3{karwari;lut;pra;eka;parasmEpaxI;dukqF;wanAxiH}/kq3{karwari;lut;pra;eka;AwmanepaxI;dukqF;wanAxiH}	karwq{puM}{1;eka}	sup_samucciwaH,10	karwA	worker				
 4	karaNam	6	karaNaM	karaNa{napuM}{1;eka}/karaNa{napuM}{2;eka}	karaNa{napuM}{1;eka}	sup_samucciwaH,10	karaNa	instruments				
-5	ca	7	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,4	waWA	and				
+5	ca	7	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	waWA	and				
 6	pqWag-viXam	5	pqWagviXam	pqWagviXa{puM}{2;eka}	pqWak-viXa{puM}{1;eka}	viSeRaNam,4	Binna-Binna_prakAra_ke	different_kinds	<pqWak-viXam>Bs6			
 7	viviXAH	8	viviXASca	viviXa{puM}{1;bahu}/viviXA{swrI}{1;bahu}/viviXA{swrI}{2;bahu}	viviXA{swrI}{1;bahu}	viSeRaNam,10	nAnA_prakAra_kI	varieties				
-8	ca	11	0	ca{avya}	ca{avya}	samuccayaxyowakaH,7	evaM	also				
+8	ca	11	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	evaM	also				
 9	pqWak	9	pqWakceRtA	pqWak{avya}	pqWak{avya}	viSeRaNam, 10	alaga-alaga	separate				
 10	ceRtAH	10	0	ceRta{puM}{1;bahu}/ceRtA{swrI}{1;bahu}/ceRtA{swrI}{2;bahu}	ceRtA{swrI}{1;bahu}	karwA,10.1	ceRtAez	endeavor				
 10.1	(Bavanwi)	12	(0)	(Bavaw{napuM}{1;bahu}/Bavaw{napuM}{2;bahu}/BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,10;akarmakaH	(howI_hEM)	become				
 11	xEvam	13	xEvaM	xEva{puM}{2;eka}/xEva{napuM}{1;eka}/xEva{napuM}{2;eka}	xEva{napuM}{1;eka}	karwA,14.1	xEva	the_Supreme				
 12	ca	14	cEvAwra	ca{avya}	ca{avya}	sambanXaH,14.1	Ora	also				
 13	awra	1	0	awra{avya}	awra{avya}	aXikaraNam,14.1	isa_viRaya_meM	here				
-14	paFcamam	15	paFcamam	paFcama{puM}{2;eka}/paFcama{napuM}{1;eka}/paFcama{napuM}{2;eka}/paFcama{puM}{2;eka}/paFcama{napuM}{1;eka}/paFcama{napuM}{2;eka}	paFcama{napuM}{1;eka}	karwqsamAnAXikaraNam,14.1	pAzcavAz_hewu	the_fifth				
+14	paFcamam	15	paFcamam	paFcama{puM}{2;eka}/paFcama{napuM}{1;eka}/paFcama{napuM}{2;eka}/paFcama{puM}{2;eka}/paFcama{napuM}{1;eka}/paFcama{napuM}{2;eka}	paFcama{napuM}{1;eka}	viXeya_viSeRaNam,14.1	pAzcavAz_hewu	the_fifth				
 14.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hE)	is				

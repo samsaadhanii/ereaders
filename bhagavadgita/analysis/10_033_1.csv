@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	a-kRarANAm	2	akRarANAmakAroZsmi	a-kRara{napuM}{6;bahu}/kRarA{swrI}{6;bahu}	akRara{napuM}{6;bahu}	nirXAraNam,2	akRaroM_meM	of_letters	<na-kRarANAm>Tn			
-2	akAraH	3	0	akAra{puM}{1;eka}	akAra{puM}{1;eka}	karwqsamAnAXikaraNam,3	akAra_hUz	the_first				
+2	akAraH	3	0	akAra{puM}{1;eka}	akAra{puM}{1;eka}	viXeya_viSeRaNam,3	akAra_hUz	the_first				
 3	asmi	7	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,7;akarmakaH	hUz	am				
-4	xvanxvaH	6	xvanxvaH	xvanxva{puM}{1;eka}	xvanxva{puM}{1;eka}	supsamucciwam,2	xvanxva_nAmaka_samAsa	dual				
+4	xvanxvaH	6	xvanxvaH	xvanxva{puM}{1;eka}	xvanxva{puM}{1;eka}	sup_samucciwaH,2	xvanxva_nAmaka_samAsa	dual				
 5	sAmAsikasya	5	sAmAsikasya	sAmAsika{puM}{6;eka}/sAmAsika{napuM}{6;eka}	sAmAsika{puM}{6;eka}	nirXAraNam,4	samAsoM_meM	compounds				
-6	ca	4	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,4	Ora	and				
+6	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	Ora	and				
 7	aham	1	ahamevAkRayaH	asmax{1;eka}	asmax{1;eka}	karwA,3	mEM	I				
 8	eva	9	0	eva{avya}	eva{avya}	sambanXaH,7	hI	certainly				
 9	a-kRayaH	10	0	kRi1{karwari;laf;ma;eka;parasmEpaxI;kRi;BvAxiH}	akRaya{puM}{1;eka}	viSeRaNam,10	akRaya	eternal	<na-kRayaH>Bsmn			
-10	kAlaH	11	kAlo	kAla{puM}{1;eka}	kAla{puM}{1;eka}	supsamucciwam,11	kAla	time				
-11	XAwA	14	XAwAhaM	XAwA{swrI}{1;eka}/XAwq{puM}{1;eka}/XA1{karwari;lut;pra;eka;parasmEpaxI;duXAF;juhowyAxiH}/XA1{karwari;lut;pra;eka;AwmanepaxI;duXAF;juhowyAxiH}/XA1{karmaNi;lut;pra;eka;AwmanepaxI;duXAF;juhowyAxiH}/Xe1{karwari;lut;pra;eka;parasmEpaxI;Xet;BvAxiH}/Xe1{karmaNi;lut;pra;eka;AwmanepaxI;Xet;BvAxiH}	XAwq{puM}{1;eka}	karwqsamAnAXikaraNam,13.1	XAraNa-poRaNa_karanevAlA	creator				
-11.1	(ca)	13	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,11	(waWA)	also				
+10	kAlaH	11	kAlo	kAla{puM}{1;eka}	kAla{puM}{1;eka}	sup_samucciwaH,11	kAla	time				
+11	XAwA	14	XAwAhaM	XAwA{swrI}{1;eka}/XAwq{puM}{1;eka}/XA1{karwari;lut;pra;eka;parasmEpaxI;duXAF;juhowyAxiH}/XA1{karwari;lut;pra;eka;AwmanepaxI;duXAF;juhowyAxiH}/XA1{karmaNi;lut;pra;eka;AwmanepaxI;duXAF;juhowyAxiH}/Xe1{karwari;lut;pra;eka;parasmEpaxI;Xet;BvAxiH}/Xe1{karmaNi;lut;pra;eka;AwmanepaxI;Xet;BvAxiH}	XAwq{puM}{1;eka}	viXeya_viSeRaNam,13.1	XAraNa-poRaNa_karanevAlA	creator				
+11.1	(ca)	13	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,11	(waWA)	also				
 12	aham	8	0	asmax{1;eka}	asmax{1;eka}	karwA,13.1	mEM	I				
 13	viSvawaH-muKaH	12	viSvawomuKaH	viSvawar-muKa{puM}{1;eka}	viSvawaH-muKa{puM}{1;eka}	viSeRaNam,11	saba_ora_muKavAlA_virAtsvarUpa	Brahma	<viSvawaH-muKaH>Bs6			
 13.1	(asmi)	15	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hUz)	am				

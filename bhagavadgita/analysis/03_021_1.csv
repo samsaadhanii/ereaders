@@ -1,6 +1,6 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	yaw	2	yaxyaxAcarawi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	vIpsA,2	jo	whatever				
-2	yaw	3	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,3;niwyasambanXaH,6	jo	and_whichever				
+2	yaw	3	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,3;niwya_sambanXaH,6	jo	and_whichever				
 3	Acarawi	4	0	Af_car1{karwari;lat;pra;eka;parasmEpaxI;caraz;BvAxiH}	Af_car1{karwari;lat;pra;eka;parasmEpaxI;Af_caraz;BvAxiH}	aBihiwa_karwA,4;sakarmakaH	AcaraNa_karawA_hE	does_he_act				
 4	SreRTaH	1	SreRTaswawwaxevewaro	SreRTa{puM}{1;eka}	SreRTa{puM}{1;eka}	karwA,3	SreRTa_puruRa	a_respectable_leader				
 5	waw	7	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	vIpsA,6	vEsA	that				
@@ -10,7 +10,7 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 9	janaH	6	janaH	jana{puM}{1;eka}	jana{puM}{1;eka}	karwA,9.1	puruRa	person				
 9.1	(Acarawi)	10	(0)	(Af_car1{karwari;lat;pra;eka;parasmEpaxI;caraz;BvAxiH})	(Af_car1{karwari;lat;pra;eka;parasmEpaxI;Af_caraz;BvAxiH})	aBihiwa_karwA,9;sakarmakaH	(AcaraNa_karawe_hEM)	does_he_act				
 10	saH	11	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,13	vaha	he				
-11	yaw	12	yawpramANaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,12;niwyasambanXaH,15	jo	whichever				
+11	yaw	12	yawpramANaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,12;niwya_sambanXaH,15	jo	whichever				
 12	pramANam	13	0	pramANa{puM}{2;eka}/pramANa{napuM}{1;eka}/pramANa{napuM}{2;eka}	pramANa{napuM}{2;eka}	karma,13	pramANa	evidence				
 13	kuruwe	14	kuruwe	kuruwA{swrI}{1;xvi}/kuruwA{swrI}{2;xvi}/kuruwA{swrI}{8;eka}/kuruwA{swrI}{8;xvi}/kq3{karwari;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	kq3{karwari;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwa_karwA,10;sakarmakaH	kara_xewA_hE	does_perform				
 14	lokaH	15	lokaswaxanuvarwawe	loka{puM}{1;eka}	loka{puM}{1;eka}	karwA,16	samaswa_manuRya_samuxAya	all_the_world				

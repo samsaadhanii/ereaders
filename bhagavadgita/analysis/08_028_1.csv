@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	vexeRu	4	vexeRu	vexa{puM}{7;bahu}	vexa{puM}{7;bahu}	sup_samucciwam,6	vexoM_ke_paDa़neM_meM	in_the_study_of_the_Vedas				
-2	yajFeRu	5	yajFeRu	yajFa{puM}{7;bahu}	yajFa{puM}{7;bahu}	sup_samucciwam,6	yajFa	in_the_performances_of_yajna,_sacrifice				
-3	wapaHsu	6	wapaHsu	wapas{napuM}{7;bahu}	wapas{napuM}{7;bahu}	sup_samucciwam,6	wapa	undergoing_different_types_of_austerities				
-4	ca	8	cEva	ca{avya}	ca{avya}	samu्ccayaxyowakaH,6	waWA	also				
+1	vexeRu	4	vexeRu	vexa{puM}{7;bahu}	vexa{puM}{7;bahu}	sup_samucciwaH,6	vexoM_ke_paDa़neM_meM	in_the_study_of_the_Vedas				
+2	yajFeRu	5	yajFeRu	yajFa{puM}{7;bahu}	yajFa{puM}{7;bahu}	sup_samucciwaH,6	yajFa	in_the_performances_of_yajna,_sacrifice				
+3	wapaHsu	6	wapaHsu	wapas{napuM}{7;bahu}	wapas{napuM}{7;bahu}	sup_samucciwaH,6	wapa	undergoing_different_types_of_austerities				
+4	ca	8	cEva	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	waWA	also				
 5	eva	14	0	eva{avya}	eva{avya}	sambanXaH,4	niHsanxeha	certainly				
 6	xAneRu	7	xAneRu	xAna{napuM}{7;bahu}	xAna{napuM}{7;bahu}	aXikaraNam,9	xAnAxi_ke_karanemeM	in_giving_charities				
-7	yaw	9	yawpuNyaPalaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,8;niwyasambanXaH,11	jo	that_which				
+7	yaw	9	yawpuNyaPalaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,8;niwya_sambanXaH,11	jo	that_which				
 8	puNya-Palam	10	0	puNyaPala{puM}{2;eka}/puNyaPala{napuM}{1;eka}/puNyaPala{napuM}{2;eka}	puNya-Pala{napuM}{2;eka}	karma,9	puNyaPala	the_result_of_pious_work	<puNya-Palam>T6			
 9	praxiRtam	11	praxiRtam	praxiRta{puM}{2;eka}/praxiRta{napuM}{1;eka}/praxiRta{napuM}{2;eka}	pra_xiS1{kqw_prawyayaH:kwa;pra_xiSaz;wuxAxiH;napuM}{1;eka}	aBihiwa_karwA,8	kahA_hE	directed				
-10	awyewi	15	awyewi	awi_i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	awi_i1{karwari;lat;pra;eka;parasmEpaxI;awi_iN;axAxiH}	samucciwam,18	ullaMGana_kara_jAwA_hE	surpasses				
+10	awyewi	15	awyewi	awi_i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	awi_i1{karwari;lat;pra;eka;parasmEpaxI;awi_iN;axAxiH}	samucciwaH,18	ullaMGana_kara_jAwA_hE	surpasses				
 11	waw	12	wawsarvamixaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,12	usa	all_those				
 12	sarvam	13	0	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{1;eka}	karma,10	sabako	all				
 13	ixam	2	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	karma,14	isako_(rahasya_ko)	those_described_above				
@@ -17,5 +17,5 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 16	param	18	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	viSeRaNam,17	parama	supreme				
 17	sWAnam	19	sWAnamupEwi	sWAna{napuM}{1;eka}/sWAna{napuM}{2;eka}	sWAna{napuM}{2;eka}	karma,18	paxa_ko	abode				
 18	upEwi	20	0	upa_i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	upa_i1{karwari;lat;pra;eka;parasmEpaxI;upa_iN;axAxiH}	aBihiwa_karwA,15	prApwa_howA_hE	achieved_peace				
-19	ca	17	cAxyam	ca{avya}	ca{avya}	samuccayaxyowakaH,18	Ora	also				
+19	ca	17	cAxyam	ca{avya}	ca{avya}	samuccaya_xyowakaH,18	Ora	also				
 20	Axyam	16	0	Axya{puM}{2;eka}/Axya{napuM}{1;eka}/Axya{napuM}{2;eka}	Axya{napuM}{2;eka}	viSeRaNam,17	sanAwana	original				

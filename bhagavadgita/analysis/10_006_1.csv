@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mahaw-qRayaH	2	maharRayaH	mahaw-qRi{puM}{1;bahu}/qRi{puM}{8;bahu}	mahaw-qRi{puM}{1;bahu}	supsamucciwam,6	maharRijana	the_great_sages	<mahaw-qRayaH>K1			
+1	mahaw-qRayaH	2	maharRayaH	mahaw-qRi{puM}{1;bahu}/qRi{puM}{8;bahu}	mahaw-qRi{puM}{1;bahu}	sup_samucciwaH,6	maharRijana	the_great_sages	<mahaw-qRayaH>K1			
 2	sapwa	1	sapwa	sapwan{1;bahu}/sapwan{2;bahu}	sapwan{1;bahu}	viSeRaNam,1	sAwa	seven				
 3	pUrve	3	pUrve	pUrva{puM}{7;eka}/pUrva{napuM}{1;xvi}/pUrva{napuM}{2;xvi}/pUrva{napuM}{7;eka}/pUrva{napuM}{1;xvi}/pUrva{napuM}{2;xvi}/pUrvA{swrI}{1;xvi}/pUrvA{swrI}{2;xvi}/pUrvA{swrI}{1;xvi}/pUrvA{swrI}{2;xvi}	pUrva{puM}{1;eka}	viSeRaNam,5	pUrva_honevAle_(sanakAxi)	before				
 4	cawvAraH	4	cawvAro	cawur{puM}{1;bahu}	cawur{puM}{1;bahu}	viSeRaNam,5	cAra	four				
 5	manavaH	6	manavaswaWA	manu{puM}{1;bahu}/manu{puM}{8;bahu}/manu{swrI}{1;bahu}/manu{swrI}{8;bahu}	manu{puM}{1;bahu}	karwA,9	svAyamBuva_Axi_cOxaha_manu_ye	Manus				
-6	waWA (ca)	5	0	waWA{avya}	waWA{avya}	samuccayaxyowakaH,5	waWA	also				
+6	waWA (ca)	5	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,5	waWA	also				
 7	maw-BAvAH	7	maxBAvA	asmax-BAva{puM}{1;bahu}/BAva{puM}{8;bahu}	asmax-BAva{puM}{1;bahu}	viSeRaNam,8	muJameM_BAvavAle	born_of_Me	<asmaw-BAvAH>Bs6			
-8	mAnasAH	8	mAnasA	mAnasa{puM}{1;bahu}/mAnasa{puM}{8;bahu}	mAnasa{puM}{1;bahu}	karwqsamAnAXikaraNam,9	mere_saMkalpa_se	from_the_mind				
+8	mAnasAH	8	mAnasA	mAnasa{puM}{1;bahu}/mAnasa{puM}{8;bahu}	mAnasa{puM}{1;bahu}	viXeya_viSeRaNam,9	mere_saMkalpa_se	from_the_mind				
 9	jAwAH	9	jAwA	jAwa{puM}{1;bahu}/jAwa{puM}{8;bahu}/jAwA{swrI}{1;bahu}/jAwA{swrI}{2;bahu}/jAwA{swrI}{8;bahu}/jAwA{swrI}{1;bahu}/jAwA{swrI}{2;bahu}/jAwA{swrI}{8;bahu}	jan3{kqw_prawyayaH:kwa;janIz;xivAxiH;puM}{1;bahu}	aBihiwakarwA,5;akarmakaH	uwpanna_hue_hEM	born				
 10	yeRAm	10	yeRAM	yax{puM}{6;bahu}/yax{napuM}{6;bahu}	yax{puM}{6;bahu}	RaRTIsambanXaH,13	jinakI	of_them				
 11	loke	11	loka	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	aXikaraNam,13.1	saMsAra_meM	the_planets				

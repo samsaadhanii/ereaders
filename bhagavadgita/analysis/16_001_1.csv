@@ -1,36 +1,36 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-Bayam	2	aBayaM	aBaya{puM}{2;eka}/aBaya{napuM}{1;eka}/aBaya{napuM}{2;eka}	aBaya{napuM}{1;eka}	supsamucciwam,29	Baya_kA_sarvaWA_aBAva	fearlessness	<na-BayaM>Tn			
-2	sawwva-saMSuxXiH	3	sawwvasaMSuxXirjFAnayogavyavasWiwiH	sawwvasaMSuxXi{swrI}{1;eka}	sawwva-saMSuxXi{swrI}{1;eka}	supsamucciwam,29	anwaHkaraNa_kI_pUrNa_nirmalawA	purification_of_one's_existence	<sawva-saMSuxXiH>T6			
-3	jFAna-yoga-vyavasWiwiH	4	0	jFAnayogavyavasWiwi{swrI}{1;eka}	jFAna-yoga-vyavasWiwi{swrI}{1;eka}	supsamucciwam,29	wawwvajFAna_ke_liye_XyAnayoga_meM_niranwara_xqDa़_sWiwi	the_situation_of_linking_up_of_knowledge	<<jFAna-yoga>Di-vyavasWiwiH>T7			
-4	xAnam	5	xAnaM	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{1;eka}	supsamucciwam,29	sAwwvikaxAna	charity				
-5	xamaH	6	xamaSca	xama{puM}{1;eka}	xama{puM}{1;eka}	supsamucciwam,29	inxriyoM_kA_xamana	controlling_the_mind				
-6	ca	30	0	ca{avya}	ca{avya}	samuccayaxyowakaH,29	Ora	and				
-7	yajFaH	7	yajFaSca	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	supsamucciwam,29	BagavAn_xevawA_Ora_gurujanoM_kI_pUjA_waWA_agnihowrAxi_uwwama_karmoM_kA_AcaraNa	performance_of_sacrifice				
+1	a-Bayam	2	aBayaM	aBaya{puM}{2;eka}/aBaya{napuM}{1;eka}/aBaya{napuM}{2;eka}	aBaya{napuM}{1;eka}	sup_samucciwaH,29	Baya_kA_sarvaWA_aBAva	fearlessness	<na-BayaM>Tn			
+2	sawwva-saMSuxXiH	3	sawwvasaMSuxXirjFAnayogavyavasWiwiH	sawwvasaMSuxXi{swrI}{1;eka}	sawwva-saMSuxXi{swrI}{1;eka}	sup_samucciwaH,29	anwaHkaraNa_kI_pUrNa_nirmalawA	purification_of_one's_existence	<sawva-saMSuxXiH>T6			
+3	jFAna-yoga-vyavasWiwiH	4	0	jFAnayogavyavasWiwi{swrI}{1;eka}	jFAna-yoga-vyavasWiwi{swrI}{1;eka}	sup_samucciwaH,29	wawwvajFAna_ke_liye_XyAnayoga_meM_niranwara_xqDa़_sWiwi	the_situation_of_linking_up_of_knowledge	<<jFAna-yoga>Di-vyavasWiwiH>T7			
+4	xAnam	5	xAnaM	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{1;eka}	sup_samucciwaH,29	sAwwvikaxAna	charity				
+5	xamaH	6	xamaSca	xama{puM}{1;eka}	xama{puM}{1;eka}	sup_samucciwaH,29	inxriyoM_kA_xamana	controlling_the_mind				
+6	ca	30	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,29	Ora	and				
+7	yajFaH	7	yajFaSca	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	sup_samucciwaH,29	BagavAn_xevawA_Ora_gurujanoM_kI_pUjA_waWA_agnihowrAxi_uwwama_karmoM_kA_AcaraNa	performance_of_sacrifice				
 8	ca	8	0	ca{avya}	ca{avya}	sambanXaH,30	Ora	and				
-9	sva-aXyAyaH	9	svAXyAyaswapa	svAXyAya{puM}{1;eka}	svAXyAya{puM}{1;eka}	supsamucciwam,29	vexa-SAswroM_kA_paTana_pATana_(waWA)_BagavAn_ke_nAma_Ora_guNoM_kA_kIrwana	study_of_Vedic_literature	<sva-aXyAyaH>T6			
-10	wapaH	10	0	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}/wapas{napuM}{8;eka}	wapas{napuM}{1;eka}	supsamucciwam,29	svaXarmapAlana_ke_liye_kaRta_sahanA	austerity				
-11	Arjavam	11	Arjavam	Arjava{napuM}{1;eka}/Arjava{napuM}{2;eka}	Arjava{napuM}{1;eka}	supsamucciwam,29	SarIra_waWA_inxriyoM_ke_sahiwa_anwaHkaraNa_kI_saralawA	simplicity				
-12	a-hiMsA	12	ahiMsA	ahiMsA{swrI}{1;eka}	ahiMsA{swrI}{1;eka}	supsamucciwam,29	mana_vANI_Ora_SarIra_se_kisI_prakAra_BI_kisIko_kaRta_na_xenA	nonviolence	<na-hiMsA>Tn			
-13	sawyam	13	sawyamakroXaswyAgaH	sawyam{avya}/sawya{puM}{2;eka}/sawya{napuM}{1;eka}/sawya{napuM}{2;eka}	sawya{napuM}{1;eka}	supsamucciwam,29	yaWArWa_Ora_priya_BARaNa	truthfulness				
-14	a-kroXaH	14	0	akroXa{puM}{1;eka}	akroXa{puM}{1;eka}	supsamucciwam,29	apanA_apakAra_karanevAle_para_BI_kroXa_kA_na_honA	freedom_from_anger	<na-kroXaH>Tn			
-15	wyAgaH	15	0	wyAga{puM}{1;eka}	wyAga{puM}{1;eka}	supsamucciwam,29	karmoM_meM_karwApana_ke_aBimAna_kA_wyAga	renunciation				
-16	SAnwiH	16	SAnwirapESunam	SAnwi{swrI}{1;eka}	SAnwi{swrI}{1;eka}	supsamucciwam,29	anwaHkaraNa_kI_uparawi_arWAw_ciwwa_kI_caMcalawA_kA_aBAva	tranquillity				
-17	a-pESunam	17	0	apESuna{napuM}{1;eka}/apESuna{napuM}{2;eka}	apESuna{napuM}{1;eka}	supsamucciwam,29	kisIkI_BI_ninxAxi_na_karanA	aversion_to_fault-finding	<na-pESunam>Tn			
-18	xayA	19	xayA	xayA{swrI}{1;eka}	xayA{swrI}{1;eka}	supsamucciwam,29	hewurahiwa_xayA	mercy				
+9	sva-aXyAyaH	9	svAXyAyaswapa	svAXyAya{puM}{1;eka}	svAXyAya{puM}{1;eka}	sup_samucciwaH,29	vexa-SAswroM_kA_paTana_pATana_(waWA)_BagavAn_ke_nAma_Ora_guNoM_kA_kIrwana	study_of_Vedic_literature	<sva-aXyAyaH>T6			
+10	wapaH	10	0	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}/wapas{napuM}{8;eka}	wapas{napuM}{1;eka}	sup_samucciwaH,29	svaXarmapAlana_ke_liye_kaRta_sahanA	austerity				
+11	Arjavam	11	Arjavam	Arjava{napuM}{1;eka}/Arjava{napuM}{2;eka}	Arjava{napuM}{1;eka}	sup_samucciwaH,29	SarIra_waWA_inxriyoM_ke_sahiwa_anwaHkaraNa_kI_saralawA	simplicity				
+12	a-hiMsA	12	ahiMsA	ahiMsA{swrI}{1;eka}	ahiMsA{swrI}{1;eka}	sup_samucciwaH,29	mana_vANI_Ora_SarIra_se_kisI_prakAra_BI_kisIko_kaRta_na_xenA	nonviolence	<na-hiMsA>Tn			
+13	sawyam	13	sawyamakroXaswyAgaH	sawyam{avya}/sawya{puM}{2;eka}/sawya{napuM}{1;eka}/sawya{napuM}{2;eka}	sawya{napuM}{1;eka}	sup_samucciwaH,29	yaWArWa_Ora_priya_BARaNa	truthfulness				
+14	a-kroXaH	14	0	akroXa{puM}{1;eka}	akroXa{puM}{1;eka}	sup_samucciwaH,29	apanA_apakAra_karanevAle_para_BI_kroXa_kA_na_honA	freedom_from_anger	<na-kroXaH>Tn			
+15	wyAgaH	15	0	wyAga{puM}{1;eka}	wyAga{puM}{1;eka}	sup_samucciwaH,29	karmoM_meM_karwApana_ke_aBimAna_kA_wyAga	renunciation				
+16	SAnwiH	16	SAnwirapESunam	SAnwi{swrI}{1;eka}	SAnwi{swrI}{1;eka}	sup_samucciwaH,29	anwaHkaraNa_kI_uparawi_arWAw_ciwwa_kI_caMcalawA_kA_aBAva	tranquillity				
+17	a-pESunam	17	0	apESuna{napuM}{1;eka}/apESuna{napuM}{2;eka}	apESuna{napuM}{1;eka}	sup_samucciwaH,29	kisIkI_BI_ninxAxi_na_karanA	aversion_to_fault-finding	<na-pESunam>Tn			
+18	xayA	19	xayA	xayA{swrI}{1;eka}	xayA{swrI}{1;eka}	sup_samucciwaH,29	hewurahiwa_xayA	mercy				
 19	BUweRu	18	BUweRvalolupwvaM	BUwa{puM}{7;bahu}/BUwa{napuM}{7;bahu}	BUwa{puM}{7;bahu}	aXikaraNam,18	saba_BUwaprANiyoM_meM	towards_all_living_entities				
-20	a-lolupwvam	20	0	alolupwva{napuM}{1;eka}/alolupwva{napuM}{2;eka}	alolupwva{napuM}{1;eka}	supsamucciwam,29	inxriyoM_kA_viRayoM_ke_sAWa_saMyoga_hone_para_BI_unameM_Asakwi_kA_na_honA	freedom_from_greed	<na-lolupwvam>Tn			
-21	mArxavam	21	mArxavaM	mArxava{napuM}{1;eka}/mArxava{napuM}{2;eka}	mArxava{napuM}{1;eka}	supsamucciwam,29	komalawA	gentleness				
-22	hrIH	22	hrIracApalam	hrI{swrI}{1;eka}/hrI{swrI}{8;eka}	hrI{swrI}{1;eka}	supsamucciwam,29	loka_Ora_SAswra_se_viruxXa_AcaraNa_meM_lajjA	modesty				
-23	a-cApalam	23	0	acApalam	na-cApala{napuM}{1;eka}	supsamucciwam,29	vyarWa_ceRtAoM_kA_aBAva	determination	<na-cApalam>Tn			
-24	wejaH	24	wejaH	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{1;eka}	supsamucciwam,29	weja	vigor				
-25	kRamA	25	kRamA	kRamA{avya}/kRamA{swrI}{1;eka}	kRamA{swrI}{1;eka}	supsamucciwam,29	kRamA	forgiveness				
-26	XqwiH	26	XqwiH	Xqwi{swrI}{1;eka}	Xqwi{swrI}{1;eka}	supsamucciwam,29	XErya	fortitude				
-27	SOcam	27	SOcamaxroho	SOca{napuM}{1;eka}/SOca{napuM}{2;eka}	SOca{napuM}{1;eka}	supsamucciwam,29	bAhara_kI_SuxXi	cleanliness				
-28	a-xrohaH	28	0	axroha{puM}{1;eka}	na-xroha{puM}{1;eka}	supsamucciwam,29	SawruBAva_kA_na_honA	freedom_from_envy	<na-xrohaH>Tn			
+20	a-lolupwvam	20	0	alolupwva{napuM}{1;eka}/alolupwva{napuM}{2;eka}	alolupwva{napuM}{1;eka}	sup_samucciwaH,29	inxriyoM_kA_viRayoM_ke_sAWa_saMyoga_hone_para_BI_unameM_Asakwi_kA_na_honA	freedom_from_greed	<na-lolupwvam>Tn			
+21	mArxavam	21	mArxavaM	mArxava{napuM}{1;eka}/mArxava{napuM}{2;eka}	mArxava{napuM}{1;eka}	sup_samucciwaH,29	komalawA	gentleness				
+22	hrIH	22	hrIracApalam	hrI{swrI}{1;eka}/hrI{swrI}{8;eka}	hrI{swrI}{1;eka}	sup_samucciwaH,29	loka_Ora_SAswra_se_viruxXa_AcaraNa_meM_lajjA	modesty				
+23	a-cApalam	23	0	acApalam	na-cApala{napuM}{1;eka}	sup_samucciwaH,29	vyarWa_ceRtAoM_kA_aBAva	determination	<na-cApalam>Tn			
+24	wejaH	24	wejaH	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{1;eka}	sup_samucciwaH,29	weja	vigor				
+25	kRamA	25	kRamA	kRamA{avya}/kRamA{swrI}{1;eka}	kRamA{swrI}{1;eka}	sup_samucciwaH,29	kRamA	forgiveness				
+26	XqwiH	26	XqwiH	Xqwi{swrI}{1;eka}	Xqwi{swrI}{1;eka}	sup_samucciwaH,29	XErya	fortitude				
+27	SOcam	27	SOcamaxroho	SOca{napuM}{1;eka}/SOca{napuM}{2;eka}	SOca{napuM}{1;eka}	sup_samucciwaH,29	bAhara_kI_SuxXi	cleanliness				
+28	a-xrohaH	28	0	axroha{puM}{1;eka}	na-xroha{puM}{1;eka}	sup_samucciwaH,29	SawruBAva_kA_na_honA	freedom_from_envy	<na-xrohaH>Tn			
 29	na-awi-mAniwA	29	nAwimAniwA	nAwimAniwA{swrI}{1;eka}	na-awi-mAniwA{swrI}{1;eka}	karwA,30	apanemeM_pUjyawA_ke_aBimAna_kA_aBAva	no_expectation_of_honor				
 30	Bavanwi	35	Bavanwi	BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka}	BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,29	hEM	become				
 31	sampaxam	32	sampaxaM	sampax{swrI}{2;eka}	sampax{swrI}{2;eka}	karma,33	sampaxA_ko	qualities				
 32	xEvIm	31	xEvImaBijAwasya	xEvI{swrI}{2;eka}	xEvI{swrI}{2;eka}	viSeRaNam,31	xEvI	transcendental				
 33	aBijAwasya	33	0	aBijAwa{puM}{6;eka}/aBijAwa{napuM}{6;eka}	aBi_jan3{kqw_prawyayaH:kwa;aBi_janIz;xivAxiH;puM}{6;eka}	RaRTIsambanXaH,34.1	lekara_uwpanna_hue_puruRa_ke_(lakRaNa)	of_one_who_is_born_of				
 34	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,30	he_arjuna	O_son_of_Bharata				
-34.1	(lakRaNAni)	34	()	lakRaNa{napuM}{1;bahu}/{napuM}{2;bahu}	lakRaNa{napuM}{1;bahu}	karwqsamAnAXikaraNam,30	komalawA	gentleness				
+34.1	(lakRaNAni)	34	()	lakRaNa{napuM}{1;bahu}/{napuM}{2;bahu}	lakRaNa{napuM}{1;bahu}	viXeya_viSeRaNam,30	komalawA	gentleness				

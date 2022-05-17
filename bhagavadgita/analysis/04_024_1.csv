@@ -1,8 +1,8 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	brahma	2	brahmArpaNaM	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwqsamAnAXikaraNam,2.1	brahma	the_Supreme				
+1	brahma	2	brahmArpaNaM	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	viXeya_viSeRaNam,2.1	brahma	the_Supreme				
 2	arpaNam	1		arpaNa{napuM}{1;eka}/arpaNa{napuM}{2;eka}	arpaNa{napuM}{1;eka}	karwA,2.1	(jisa_yajFa_meM)_arpaNa_arWAw_sruvA_Axi	contribution				
 2.1	(aswi)	3	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
-3	brahma	5	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwqsamAnAXikaraNam,4.1	brahma	spiritual_in_nature				
+3	brahma	5	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	viXeya_viSeRaNam,4.1	brahma	spiritual_in_nature				
 4	haviH	4	havirbrahmAgnO	havis{napuM}{1;eka}/havis{napuM}{2;eka}	havis{napuM}{1;eka}	karwA,4.1	havana_kiye_jAne_yogya_xravya	butter				
 4.1	(aswi)	6	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hE)	is				
 5	brahma-agnO	8		brahmA-agni{puM}{7;eka}	brahma-agni{puM}{7;eka}	aXikaraNam,7	brahmarUpa_Agni_meM	spiritual_in_the_fire_of_consummation	<brahma-agnO>K6			

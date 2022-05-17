@@ -1,6 +1,6 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	puroXasAm	5	puroXasAM	puroXas{puM}{6;bahu}	puroXas{puM}{6;bahu}	nirXAraNam,3	purohiwoM_meM	of_all_priests				
-2	ca	11	ca	ca{avya}	ca{avya}	saMbaMXa,6	Ora	also				
+2	ca	11	ca	ca{avya}	ca{avya}	sambanXaH,6	Ora	also				
 3	muKyam	6	muKyaM	muKya{puM}{2;eka}/muKya{napuM}{1;eka}/muKya{napuM}{2;eka}	muKya{puM}{2;eka}	viSeRaNam,7	muKiyA	chief				
 4	mAm	4	mAM	asmax{2;eka}	asmax{2;eka}	karma,5	muJako	me				
 5	vixXi	3	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,7.1	jAna	understand				
@@ -9,8 +9,8 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 7.1	(wvam)	8	()	yuRmax{1;eka}	yuRmax{1;eka}	karwA,5	mEM					
 8	senAnInAm	9	senAnInAmahaM	senAnInAm	senAnin{puM}{6;bahu}	nirXAraNam,10	senApawiyoM_meM	of_all_commanders				
 9	aham	8	0	asmax{1;eka}	asmax{1;eka}	karwA,12	mEM	I				
-10	skanxaH	10	skanxaH	skanxa{puM}{1;eka}	skanxa{puM}{1;eka}	supsamucciwam,13	skanxa	Kartikeya				
+10	skanxaH	10	skanxaH	skanxa{puM}{1;eka}	skanxa{puM}{1;eka}	sup_samucciwaH,13	skanxa	Kartikeya				
 11	sarasAm	11	sarasAmasmi	saras{napuM}{6;bahu}/sarasA{swrI}{2;eka}	saras{napuM}{6;bahu}	nirXAraNam,13	jalASayoM_meM	of_all_reservoirs_of_water				
 12	asmi	13	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,9	hUz	am				
 13	sAgaraH	12	sAgaraH	sAgara{puM}{1;eka}	sAgara{puM}{1;eka}	karmasamAnAXikaraNam,5	samuxra	the_ocean				
-13.1	(ca)	11	(ca)	ca{avya}	ca{avya}	samuccayaxyowakaH,13	Ora	also				
+13.1	(ca)	11	(ca)	ca{avya}	ca{avya}	samuccaya_xyowakaH,13	Ora	also				

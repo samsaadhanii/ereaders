@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	vakwum	6	vakwumarhasyaSeReNa	vac1{kqw_prawyayaH:wumun;vacaz;axAxiH}	vac1{kqw_prawyayaH:wumun;vacaz;axAxiH}	prayojanam,2	kahane_meM	to_say				
-2	arhasi	7	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwa_karwA,11; sakarmakaH	samarWa_hEM	deserve				
+2	arhasi	7	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwa_karwA,11;sakarmakaH	samarWa_hEM	deserve				
 3	a-SeReNa	5	0	a-SeRa{puM}{3;eka}/SeRa{napuM}{3;eka}	aSeRa{puM}{3;eka}	kriyAviSeRaNam,1	sampUrNawA_se	in_detail	<na-SeReNa>Tn			
 4	xivyAH	3	xivyA	xivya{puM}{1;bahu}/xivya{puM}{8;bahu}/xivyA{swrI}{1;bahu}/xivyA{swrI}{2;bahu}/xivyA{swrI}{8;bahu}	xivya{puM}{1;bahu}	viSeRaNam,6	xivya	divine				
 5	hi	2	hyAwmaviBUwayaH	hi{avya}	hi{avya}	sambanXaH,11	hI	certainly				
 6	Awma-vi-BUwayaH	4	0	Awman-vi-BUwi{swrI}{1;bahu}/BUwi{swrI}{8;bahu}	Awman-viBUwi{puM}{1;bahu}	karma,1	apanI_viBUwiyoM_ko	your_opulences	<Awma-<vi-BUwayaH>Bvp>T6			
-7	yABiH	8	yABirviBUwiBirlokAnimAMswvaM	yax{swrI}{3;bahu}	yax{swrI}{3;bahu}	viSeRaNam,8;niwyasambanXaH,6	jina	by_which				
+7	yABiH	8	yABirviBUwiBirlokAnimAMswvaM	yax{swrI}{3;bahu}	yax{swrI}{3;bahu}	viSeRaNam,8;niwya_sambanXaH,6	jina	by_which				
 8	vi-BUwiBiH	9	0	vi-BUwi{swrI}{3;bahu}	viBUwi{swrI}{3;bahu}	karaNam,13	viBUwiyoM_ke_xvArA	opulences	<vi-BUwiBiH>Bvp			
 9	lokAn	12	0	loka{puM}{2;bahu}	loka{puM}{2;bahu}	karma,12	lokoM_ko	all_the_planets				
 10	imAn	11	0	ixam{puM}{2;bahu}	ixam{puM}{2;bahu}	viSeRaNam,9	ina_saba	these				
 11	wvam	1	0	yuRmax{1;eka}	yuRmax{1;eka}	karwA,1	Apa	you				
 12	vyApya	13	vyApya	vi_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/vi_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/vyApya{puM}{8;eka}/vyApya{napuM}{8;eka}	vi_Ap1{kqw_prawyayaH:lyap;vi_ApLz;svAxiH}	pUrvakAlaH,13	vyApwa_karake	pervading				
-13	wiRTasi	14	wiRTasi	sWA1{karwari;lat;ma;eka;parasmEpaxI;RTA;BvAxiH}	sWA1{karwari;lat;ma;eka;parasmEpaxI;RTA;BvAxiH}	aBihiwa_karwA,13.1; akarmakaH	sWiwa_hEM	remain				
+13	wiRTasi	14	wiRTasi	sWA1{karwari;lat;ma;eka;parasmEpaxI;RTA;BvAxiH}	sWA1{karwari;lat;ma;eka;parasmEpaxI;RTA;BvAxiH}	aBihiwa_karwA,13.1;akarmakaH	sWiwa_hEM	remain				
 13.1	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(Apa)	you				

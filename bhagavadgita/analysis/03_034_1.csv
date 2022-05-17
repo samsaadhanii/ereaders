@@ -3,7 +3,7 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 2	inxriyasya	2	0	inxriya{puM}{6;eka}/inxriya{napuM}{6;eka}	inxriya{napuM}{6;eka}	RaRTIsambanXaH,3	inxriya_ke	in_the_sense_objects				
 3	arWe	3	0	arWa{puM}{7;eka}/arWa{napuM}{1;xvi}/arWa{napuM}{2;xvi}/arWa{napuM}{7;eka}/arWa{napuM}{8;xvi}	arWa{puM}{7;eka}	aXikaraNam,5.1	inxriya_Bogya_viRaya_meM	in_one's_own_nature				
 4	rAga-xveRO	4	rAgaxveRO	rAga-xveRa{puM}{1;xvi}/xveRa{puM}{2;xvi}/xveRa{puM}{8;xvi}	rAga-xveRa{puM}{1;xvi}	karwA,5.1	rAga_Ora_xveRa	attachment_and_also_detachment	<rAga-xveRO>Di			
-5	vyavasWiwO	5	vyavasWiwO	vyavasWiwa{puM}{1;xvi}/vyavasWiwa{puM}{2;xvi}/vyavasWiwa{puM}{8;xvi}	vi_ava_sWA1{kqw_prawyayaH:kwa;vi_ava_RTA;BvAxiH;puM}{1;xvi}	karwqsamAnAXikaraNam,5.1	Cipe_hue_sWiwa	put_under_regulations				
+5	vyavasWiwO	5	vyavasWiwO	vyavasWiwa{puM}{1;xvi}/vyavasWiwa{puM}{2;xvi}/vyavasWiwa{puM}{8;xvi}	vi_ava_sWA1{kqw_prawyayaH:kwa;vi_ava_RTA;BvAxiH;puM}{1;xvi}	viXeya_viSeRaNam,5.1	Cipe_hue_sWiwa	put_under_regulations				
 5.1	(swaH)	16	(0)	(swq{puM}{8;eka}/as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,4;akarmakaH	(hEM)	are				
 6	wayoH	7	wayorna	wax{puM}{6;xvi}/wax{puM}{7;xvi}/wax{swrI}{6;xvi}/wax{swrI}{7;xvi}/wax{napuM}{6;xvi}/wax{napuM}{7;xvi}	wax{puM}{6;xvi}	RaRTIsambanXaH,8	una_xonoM_ke	of_them				
 7	na	10	0	na{avya}	na{avya}	prawiReXaH,9	nahIM	never				
@@ -13,5 +13,5 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 10	wO	13	0	wax{puM}{1;xvi}/wax{puM}{2;xvi}	wax{puM}{1;xvi}	karwA,13.1	ve_xonoM	those				
 11	hi	12	hyasya	hi{avya}	hi{avya}	sambanXaH,13.1	avaSya	certainly				
 12	asya	14	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	RaRTIsambanXaH,13	isake_(kalyANamArga_meM)	his				
-13	paripanWinO	15	paripanWinO	paripanWin{puM}{1;xvi}/paripanWin{puM}{2;xvi}/paripanWin{puM}{8;xvi}	paripanWin{puM}{1;xvi}	karwqsamAnAXikaraNam,13.1	viGna_dAlanevAle_Sawru	stumbling_blocks				
+13	paripanWinO	15	paripanWinO	paripanWin{puM}{1;xvi}/paripanWin{puM}{2;xvi}/paripanWin{puM}{8;xvi}	paripanWin{puM}{1;xvi}	viXeya_viSeRaNam,13.1	viGna_dAlanevAle_Sawru	stumbling_blocks				
 13.1	(swaH)	6	(0)	(swq{puM}{8;eka}/as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,10;akarmakaH	(hEM)	are				

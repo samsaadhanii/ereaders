@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	sargANAm	4	sargANAmAxiranwaSca	sarga{puM}{6;bahu}	sarga{puM}{6;bahu}	nirXAraNam,4	sqRtiyoM_kA	of_all_creations				
-2	AxiH	5	0	Axi{puM}{1;eka}	Axi{puM}{1;eka}	supsamucciwam,5	Axi	beginning				
-3	anwaH	6	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	supsamucciwam,5	anwa	end				
+2	AxiH	5	0	Axi{puM}{1;eka}	Axi{puM}{1;eka}	sup_samucciwaH,5	Axi	beginning				
+3	anwaH	6	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	sup_samucciwaH,5	anwa	end				
 4	ca	7	0	ca{avya}	ca{avya}	sambanXaH,8	Ora	and				
-5	maXyam	8	maXyaM	maXya{puM}{2;eka}/maXya{napuM}{1;eka}/maXya{napuM}{2;eka}	maXya{napuM}{1;eka}	karwqsamAnAXikaraNam,9.1	maXya	middle				
-6	ca	9	cEvAhamarjuna	ca{avya}	ca{avya}	samuccayaxyowakaH,5	waWA	also				
+5	maXyam	8	maXyaM	maXya{puM}{2;eka}/maXya{napuM}{1;eka}/maXya{napuM}{2;eka}	maXya{napuM}{1;eka}	viXeya_viSeRaNam,9.1	maXya	middle				
+6	ca	9	cEvAhamarjuna	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	waWA	also				
 7	eva	3	0	eva{avya}	eva{avya}	sambanXaH,6	hI	certainly				
 8	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,9.1	mEM	I				
 9	arjuna	1	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,9.1	he_arjuna	O_Arjuna				
 9.1	(asmi)	10	()	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,8;akarmakaH						
-10	aXi-Awma-vixyA	13	aXyAwmavixyA	aXi-Awman-vixyA{swrI}{1;eka}	aXyAwman-vixyA{swrI}{1;eka}	supsamucciwam,12	aXyAwmavixyA	spiritual_knowledge	<<aXi-Awma>A1-vixyA>T6			
+10	aXi-Awma-vixyA	13	aXyAwmavixyA	aXi-Awman-vixyA{swrI}{1;eka}	aXyAwman-vixyA{swrI}{1;eka}	sup_samucciwaH,12	aXyAwmavixyA	spiritual_knowledge	<<aXi-Awma>A1-vixyA>T6			
 11	vixyAnAm	12	vixyAnAM	vixyA{swrI}{6;bahu}	vixyA{swrI}{6;bahu}	nirXAraNam,10	vixyAoM_meM	of_all_education				
-12	vAxaH	15	vAxaH	vAxa{puM}{1;eka}	vAxa{puM}{1;eka}	karwqsamAnAXikaraNam,14.1	wawva-nirNaya_ke_liye_kiyA_jAnevAlA_vAxa	natural_conclusion				
+12	vAxaH	15	vAxaH	vAxa{puM}{1;eka}	vAxa{puM}{1;eka}	viXeya_viSeRaNam,14.1	wawva-nirNaya_ke_liye_kiyA_jAnevAlA_vAxa	natural_conclusion				
 13	pravaxawAm	14	pravaxawAmaham	pravaxawA{swrI}{2;eka}/pra_vax1{karwari;lot;pra;xvi;parasmEpaxI;vaxaz;BvAxiH}	pra_vax1{kqw_prawyayaH:Sawq;pra_vaxaz;BvAxiH;puM}{6;bahu}	nirXAraNam,12	paraspara_vivAxa_karanevAloM_kA	of_arguments				
-13.1	ca	16	cEvAhamarjuna	ca{avya}	ca{avya}	samuccayaxyowakaH,12	waWA	also				
+13.1	ca	16	cEvAhamarjuna	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	waWA	also				
 14	aham	11	0	asmax{1;eka}	asmax{1;eka}	karwA,14.1	mEM	I				
 14.1	(asmi)	17	()	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,14;akarmakaH						

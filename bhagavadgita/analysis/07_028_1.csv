@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yeRAm	3	yeRAM	yax{puM}{6;bahu}/yax{napuM}{6;bahu}	yax{puM}{6;bahu}	viSeRaNam,5;niwyasambanXaH,7	jina	whose				
+1	yeRAm	3	yeRAM	yax{puM}{6;bahu}/yax{napuM}{6;bahu}	yax{puM}{6;bahu}	viSeRaNam,5;niwya_sambanXaH,7	jina	whose				
 2	wu	1	wvanwagawaM	wu{avya}	wu{avya}	sambanXaH,6.1	paraMwu	but				
-3	anwa-gawam	6	0	anwa-gawa{puM}{2;eka}/gawa{napuM}{1;eka}/gawa{napuM}{2;eka}	anwa-gam1{kqw_prawyayaH:kwa;gamlqz;BvAxiH;napuM}{1;eka}	karwqsamAnAXikaraNam,6.1	naRta_ho_gayA	completely_eradicated	<anwa-gawam>T2			
+3	anwa-gawam	6	0	anwa-gawa{puM}{2;eka}/gawa{napuM}{1;eka}/gawa{napuM}{2;eka}	anwa-gam1{kqw_prawyayaH:kwa;gamlqz;BvAxiH;napuM}{1;eka}	viXeya_viSeRaNam,6.1	naRta_ho_gayA	completely_eradicated	<anwa-gawam>T2			
 4	pApam	5	pApaM	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{1;eka}	karwA,6.1	pApa	sin				
 5	janAnAm	4	janAnAM	jana{puM}{6;bahu}	jana{puM}{6;bahu}	RaRTIsambanXaH,4	puruRoM_kA	of_the_persons				
-6	puNya-karmaNAm	2	puNyakarmaNAm	puNya-karman{napuM}{6;bahu}	puNya-karman{napuM}{6;bahu}	viSeRaNama,5	SreRTa_karmoM_kA_AcaraNa_karanevAle	pious_activities	<puNya-karmaNAm>Bs6			
+6	puNya-karmaNAm	2	puNyakarmaNAm	puNya-karman{napuM}{6;bahu}	puNya-karman{napuM}{6;bahu}	viSeRaNam,5	SreRTa_karmoM_kA_AcaraNa_karanevAle	pious_activities	<puNya-karmaNAm>Bs6			
 6.1	(Bavawi)	7	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,4;akarmakaH	(hE)	is				
 7	we	8	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	viSeRaNam,11	ve	they				
 8	xvanxva-moha-nirmukwAH	9	xvanxvamohanirmukwA	xvanxva-moha-nirmukwa{puM}{1;bahu}/nirmukwa{puM}{8;bahu}/nirmukwA{swrI}{1;bahu}/nirmukwA{swrI}{2;bahu}/nirmukwA{swrI}{8;bahu}	xvanxva-moha-nir_muc1{kqw_prawyayaH:kwa;nir_mucLz;wuxAxiH;puM}{1;bahu}	viSeRaNam,11	rAga-xveRajaniwa_xvanxvarUpa_moha_se_mukwa	free_from_dual_delusion	<<xvanxva-moha>Km-nirmukwAH>T3			

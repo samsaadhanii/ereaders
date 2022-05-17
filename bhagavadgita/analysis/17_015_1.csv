@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	an-uxvega-karam	2	anuxvegakaraM	an-{avya}-uxvega-kara{puM}{2;eka}	na-uxvega-kara{napuM}{1;eka}	sup_samucciwam,7	uxvega_na_karanevAlA	producing_no_agitation	<<na-uxvega>Tn-karaM>T6			
+1	an-uxvega-karam	2	anuxvegakaraM	an-{avya}-uxvega-kara{puM}{2;eka}	na-uxvega-kara{napuM}{1;eka}	sup_samucciwaH,7	uxvega_na_karanevAlA	producing_no_agitation	<<na-uxvega>Tn-karaM>T6			
 2	vAkyam	6	vAkyaM	vAkya{napuM}{1;eka}/vAkya{napuM}{2;eka}	vAkya{napuM}{1;eka}	karwA,9.1	BARaNa	words				
-3	sawyam	5	sawyaM	sawyam{avya}/sawya{puM}{2;eka}/sawya{napuM}{1;eka}/sawya{napuM}{2;eka}	sawya{napuM}{1;eka}	sup_samucciwam,7	yaWArWa	truthful				
-4	priya-hiwam	3	priyahiwaM	priya-hiwa{puM}{2;eka}/hiwa{napuM}{1;eka}/hiwa{napuM}{2;eka}	priya-hiwa{napuM}{1;eka}	sup_samucciwam,7	priya_Ora_hiwakAraka	dear_and_beneficial	<priya-hiwaM>K1			
+3	sawyam	5	sawyaM	sawyam{avya}/sawya{puM}{2;eka}/sawya{napuM}{1;eka}/sawya{napuM}{2;eka}	sawya{napuM}{1;eka}	sup_samucciwaH,7	yaWArWa	truthful				
+4	priya-hiwam	3	priyahiwaM	priya-hiwa{puM}{2;eka}/hiwa{napuM}{1;eka}/hiwa{napuM}{2;eka}	priya-hiwa{napuM}{1;eka}	sup_samucciwaH,7	priya_Ora_hiwakAraka	dear_and_beneficial	<priya-hiwaM>K1			
 5	ca	4	ca	ca{avya}	ca{avya}	sambanXaH,9.1	evaM	also				
-6	yaw	1	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,2; niwyasambanXaH,12.1	jo	which				
-7	sva-aXyAya-aByasanam	8	svAXyAyAByasanaM	sva-aXyAya-aByasana{napuM}{1;eka}/aByasana{napuM}{2;eka}	svAXyAya-aByasana{napuM}{1;eka}	karwqsamAnAXikaraNam,9.1	vexa-SAswroM_ke_paTana_kA_aByAsa	practice_of_Vedic_study	<<sva-aXyAya>T6-aByasanaM>Ds			
-8	ca	7	cEva	ca{avya}	ca{avya}	samuccayaxyowakaH,7	waWA	also				
+6	yaw	1	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,2;niwya_sambanXaH,12.1	jo	which				
+7	sva-aXyAya-aByasanam	8	svAXyAyAByasanaM	sva-aXyAya-aByasana{napuM}{1;eka}/aByasana{napuM}{2;eka}	svAXyAya-aByasana{napuM}{1;eka}	viXeya_viSeRaNam,9.1	vexa-SAswroM_ke_paTana_kA_aByAsa	practice_of_Vedic_study	<<sva-aXyAya>T6-aByasanaM>Ds			
+8	ca	7	cEva	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	waWA	also				
 9	eva	11	0	eva{avya}	eva{avya}	sambanXaH,9.1	hI	certainly				
 9.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2	(hE)	is				
 10	vAfmayam	12	vAfmayaM	vAfmaya{puM}{2;eka}/vAfmaya{napuM}{1;eka}/vAfmaya{napuM}{2;eka}/vAfmaya{puM}{2;eka}/vAfmaya{napuM}{1;eka}/vAfmaya{napuM}{2;eka}	vAfmaya{napuM}{1;eka}	karma,12	vANIsambanXI	of_the_voice				

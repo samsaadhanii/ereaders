@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xroNam	1	xroNaM	xroNa{puM}{2;eka}/xroNa{napuM}{1;eka}/xroNa{napuM}{2;eka}	xroNa{puM}{2;eka}	supsamucciwam,11	xroNAcArya	Drona				
-2	ca	2	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,1	Ora	also				
-3	BIRmam	3	BIRmaM	BIRma{puM}{2;eka}/BIRma{napuM}{1;eka}/BIRma{napuM}{2;eka}	BIRma{puM}{2;eka}	supsamucciwam,11	BIRmapiwAmaha	Bhisma				
-4	ca	4	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,3	waWA	also				
-5	jayaxraWam	5	jayaxraWaM	jayaxraWa{puM}{2;eka}	jayaxraWa{puM}{2;eka}	supsamucciwam,11	jayaxraWa	Jayadratha				
-6	ca	6	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,5	Ora	also				
-7	karNam	7	karNaM	karNa{puM}{2;eka}	karNa{puM}{2;eka}	supsamucciwam,11	karNa	Karna				
+1	xroNam	1	xroNaM	xroNa{puM}{2;eka}/xroNa{napuM}{1;eka}/xroNa{napuM}{2;eka}	xroNa{puM}{2;eka}	sup_samucciwaH,11	xroNAcArya	Drona				
+2	ca	2	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,1	Ora	also				
+3	BIRmam	3	BIRmaM	BIRma{puM}{2;eka}/BIRma{napuM}{1;eka}/BIRma{napuM}{2;eka}	BIRma{puM}{2;eka}	sup_samucciwaH,11	BIRmapiwAmaha	Bhisma				
+4	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	waWA	also				
+5	jayaxraWam	5	jayaxraWaM	jayaxraWa{puM}{2;eka}	jayaxraWa{puM}{2;eka}	sup_samucciwaH,11	jayaxraWa	Jayadratha				
+6	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
+7	karNam	7	karNaM	karNa{puM}{2;eka}	karNa{puM}{2;eka}	sup_samucciwaH,11	karNa	Karna				
 8	waWA	8	waWAnyAnapi	waWA{avya}	waWA{avya}	sambanXaH,13	waWA	also				
 9	anyAn	9	0	anya{puM}{2;bahu}	anya{puM}{2;bahu}	viSeRaNam,11	anya	others				
 10	api	10	0	api{avya}	api{avya}	sambanXaH,9	BI	certainly				

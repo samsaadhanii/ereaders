@@ -1,6 +1,6 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	yam	3	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	vIpsA,2	jisa	whatever				
-2	yam	4	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	viSeRaNam,6;niwyasambanXaH,11	jisa	whatever				
+2	yam	4	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	viSeRaNam,6;niwya_sambanXaH,11	jisa	whatever				
 3	vA	5	vApi	vA{avya}	vA{avya}	sambanXaH,4	aWavA	either				
 4	api	6	0	api{avya}	api{avya}	sambanXaH,2	BI	also				
 5	smaran	8	smaranBAvaM	smaraw{puM}{1;eka}/smaraw{puM}{8;eka}	smq1{kqw_prawyayaH:Sawq;smq;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,7	smaraNa_karawA_huA	remembering				
@@ -14,6 +14,6 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 13	ewi	14	0	i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}		prApwa_howA_hE	gets				
 14	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,7	he_kunwIpuwra_arjuna	O_son_of_Kunti				
 15	saxA	16	saxA	saxA{avya}	saxA{avya}	kriyAviSeRaNam,16.1	saxA	always				
-16	waw-BAva-BAviwaH	17	waxBAvaBAviwaH	waxBAvaBAviwaH	wax-BAva-BAviwa{puM}{1;eka}	karwqsamAnAXikaraNam,16.1	usI_BAva_se_BAviwa	remembering_that_state_of_being	<<wax-BAva>T7-BAviwaH>T3			
+16	waw-BAva-BAviwaH	17	waxBAvaBAviwaH	waxBAvaBAviwaH	wax-BAva-BAviwa{puM}{1;eka}	viXeya_viSeRaNam,16.1	usI_BAva_se_BAviwa	remembering_that_state_of_being	<<wax-BAva>T7-BAviwaH>T3			
 16.1	(aswi)	18	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,16.2;akarmakaH	(hE)	is				
 16.2	(saH)	15	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,16.1	(vaha)	he				

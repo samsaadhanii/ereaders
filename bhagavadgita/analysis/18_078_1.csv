@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yawra	1	yawra	yawra{avya}	yawra{avya}	aXikaraNam,3.1;niwyasambanXaH,7	jahAz	where				
+1	yawra	1	yawra	yawra{avya}	yawra{avya}	aXikaraNam,3.1;niwya_sambanXaH,7	jahAz	where				
 2	yoga-ISvaraH	2	yogeSvaraH	yogeSvara{puM}{1;eka}	yogeSvara{puM}{1;eka}	viSeRaNam,3	yogeSvara	the_master_of_mysticism	<yoga-ISvaraH>T6			
 3	kqRNaH	3	kqRNo	kqRNa{puM}{1;eka}	kqRNa{puM}{1;eka}	karwA,3.1	BagavAn_SrIkqRNa	Lord_Krsna				
 3.1	(aswi)	4	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,3;akarmakaH	(hEM)	is				
-4	yawra	5	yawra	yawra{avya}	yawra{avya}	aXikaraNam,6.1;niwyasambanXaH,7	jahAz	where				
+4	yawra	5	yawra	yawra{avya}	yawra{avya}	aXikaraNam,6.1;niwya_sambanXaH,7	jahAz	where				
 5	pArWaH	7	pArWo	pArWa{puM}{1;eka}	pArWa{puM}{1;eka}	karwA,6.1	arjuna	the_son_of_Prtha				
 6	XanuR-XaraH	6	XanurXaraH	XanurXara{puM}{1;eka}	XanurXara{puM}{1;eka}	viSeRaNam,5	gANdIva-XanuRaXArI	the_carrier_of_the_bow_and_arrow	<XanuR-XaraH>U			
 6.1	(aswi)	8	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hEM)	is				
 7	wawra	9	wawra	wawra{avya}	wawra{avya}	aXikaraNam,	vahIM_para	there				
-8	SrIH	10	SrIrvijayo	SrI{swrI}{1;eka}	SrI{swrI}{1;eka}	supsamucciwam,12	SrI	opulence				
-9	vijayaH	11	0	vijaya{puM}{1;eka}	vijaya{puM}{1;eka}	supsamucciwam,12	vijaya	victory				
-10	BUwiH	12	BUwirXruvA	BUwi{swrI}{1;eka}	BUwi{swrI}{1;eka}	supsamucciwam,12	viBUwi	exceptional_power				
+8	SrIH	10	SrIrvijayo	SrI{swrI}{1;eka}	SrI{swrI}{1;eka}	sup_samucciwaH,12	SrI	opulence				
+9	vijayaH	11	0	vijaya{puM}{1;eka}	vijaya{puM}{1;eka}	sup_samucciwaH,12	vijaya	victory				
+10	BUwiH	12	BUwirXruvA	BUwi{swrI}{1;eka}	BUwi{swrI}{1;eka}	sup_samucciwaH,12	viBUwi	exceptional_power				
 11	XruvA	13	0	XruvA{swrI}{1;eka}	XruvA{swrI}{1;eka}	viSeRaNam,12	acala	certain				
 12	nIwiH	14	nIwirmawirmama	nIwi{swrI}{1;eka}	nIwi{swrI}{1;eka}	karwA,12.3	nIwi	morality				
-12.1	(ca)	14.1	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,12	(Ora)	also				
+12.1	(ca)	14.1	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,12	(Ora)	also				
 12.2	(aswi)	14.2	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				
 12.3	(iwi)	14.3	(0)	(iwi{avya})	(iwi{avya})	sambanXaH,13	(EsA)	thus				
 13	mawiH	16	0	mawi{swrI}{1;eka}	mawi{swrI}{1;eka}	karwA,14.1	mawa	opinion				

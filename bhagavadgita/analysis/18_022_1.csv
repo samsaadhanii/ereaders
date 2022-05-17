@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaw	2	yawwu	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,1.1;niwyasambanXaH,11	jo	that				
+1	yaw	2	yawwu	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,1.1;niwya_sambanXaH,11	jo	that				
 1.1	(jFAnam)	3	(0)	(jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka})	(jFAna{napuM}{1;eka})	karwA,10.1	(jFAna)	knowledge				
 2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,10.1	paraMwu	but				
-3	kqwsnavaw	6	kqwsnavaxekasminkArye	kqwsnavaw{napuM}{1;eka}/kqwsnavaw{napuM}{2;eka}	kqwsnavaw{napuM}{1;eka}	sup_samucciwam,9	sampUrNa_ke_saxqSa	all_in_all				
+3	kqwsnavaw	6	kqwsnavaxekasminkArye	kqwsnavaw{napuM}{1;eka}/kqwsnavaw{napuM}{2;eka}	kqwsnavaw{napuM}{1;eka}	sup_samucciwaH,9	sampUrNa_ke_saxqSa	all_in_all				
 4	ekasmin	4	0	eka{puM}{7;eka}/eka{napuM}{7;eka}/ekasmin{avya}	eka{napuM}{7;eka}	viSeRaNam,5	eka	in_one				
 5	kArye	5	0	kArya{napuM}{1;xvi}/kArya{napuM}{2;xvi}/kArya{napuM}{7;eka}/kAryA{swrI}{1;xvi}/kAryA{swrI}{2;xvi}	kArya{napuM}{7;eka}	aXikaraNam,10.1	kAryarUpa_SarIra_meM	work				
-6	sakwam	7	sakwamahEwukam	sakwa{puM}{2;eka}/sakwa{napuM}{1;eka}/sakwa{napuM}{2;eka}	sakwa{napuM}{1;eka}	sup_samucciwam,9	Asakwa	attached				
-7	a-hEwukam	8	0	ahEwuka{puM}{2;eka}/ahEwuka{napuM}{1;eka}/ahEwuka{napuM}{2;eka}	na-hEwuka{napuM}{1;eka}	sup_samucciwam,9	binA_yukwivAlA	without_cause	<na-hEwukam>Bsmn			
-8	a-wawwvArWavaw	9	awawwvArWavaxalpaM	a-wawwvArWa-vaw{avya}	na-wawwvArWavaw{avya}	sup_samucciwam,9	wAwwvika_arWa_se_rahiwa	without_reality	<na-wawwvArWavaw>Tn			
-9	alpam	10	0	alpam{avya}/alpa{puM}{2;eka}/alpa{napuM}{1;eka}/alpa{napuM}{2;eka}	alpa{napuM}{1;eka}	karwqsamAnAXikaraNam,10.1	wucCa	very_meager				
-10	ca	11	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,9	waWA	and				
+6	sakwam	7	sakwamahEwukam	sakwa{puM}{2;eka}/sakwa{napuM}{1;eka}/sakwa{napuM}{2;eka}	sakwa{napuM}{1;eka}	sup_samucciwaH,9	Asakwa	attached				
+7	a-hEwukam	8	0	ahEwuka{puM}{2;eka}/ahEwuka{napuM}{1;eka}/ahEwuka{napuM}{2;eka}	na-hEwuka{napuM}{1;eka}	sup_samucciwaH,9	binA_yukwivAlA	without_cause	<na-hEwukam>Bsmn			
+8	a-wawwvArWavaw	9	awawwvArWavaxalpaM	a-wawwvArWa-vaw{avya}	na-wawwvArWavaw{avya}	sup_samucciwaH,9	wAwwvika_arWa_se_rahiwa	without_reality	<na-wawwvArWavaw>Tn			
+9	alpam	10	0	alpam{avya}/alpa{puM}{2;eka}/alpa{napuM}{1;eka}/alpa{napuM}{2;eka}	alpa{napuM}{1;eka}	viXeya_viSeRaNam,10.1	wucCa	very_meager				
+10	ca	11	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	waWA	and				
 10.1	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,1.1;akarmakaH	(hE)	is				
 11	waw	13	wawwAmasamuxAhqwam	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,13	vaha	that				
 12	wAmasam	14	0	wAmasa{puM}{2;eka}/wAmasa{napuM}{1;eka}/wAmasa{napuM}{2;eka}	wAmasa{napuM}{2;eka}	karmasamAnAXikaraNam,13	wAmasa	in_the_mode_of_darkness				

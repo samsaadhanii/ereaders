@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	XqwyA	4	XqwyA	Xqwi{swrI}{3;eka}	Xqwi{swrI}{3;eka}	sup_samucciwam,5	XAraNa-Sakwi_se	determination				
-2	yayA	2	yayA	yax{swrI}{3;eka}	yax{swrI}{3;eka}	viSeRaNam,1; niwyasambanXaH,8	jisa	by_which				
+1	XqwyA	4	XqwyA	Xqwi{swrI}{3;eka}	Xqwi{swrI}{3;eka}	sup_samucciwaH,5	XAraNa-Sakwi_se	determination				
+2	yayA	2	yayA	yax{swrI}{3;eka}	yax{swrI}{3;eka}	viSeRaNam,1;niwya_sambanXaH,8	jisa	by_which				
 3	XArayawe	8	XArayawe	XArayawA{swrI}{1;xvi}/XArayawA{swrI}{2;xvi}/Xq2_Nic{karwari;lat;pra;eka;AwmanepaxI;Xqf;BvAxiH}/Xq3_Nic{karwari;lat;pra;eka;AwmanepaxI;Xqf;wuxAxiH}	Xq1_Nic{karwari;lat;pra;eka;AwmanepaxI;XqF_Nic;BvAxiH}		XAraNa_karawA_hE	is_sustained				
 4	manaH-prANa-inxriya-kriyAH	7	manaHprANenxriyakriyAH	manas-prANa-inxriya-kriyA{swrI}{1;bahu}/kriyA{swrI}{2;bahu}	manas-prANa-inxriya-kriyA{swrI}{2;bahu}	karma,3	mana_prANa_Ora_inxriyoM_kI_kriyAoM_ko	activities_of_mind,_life_and_senses	<<manaH-prANa-inxriya>Ds-kriyAH>T6			
 5	yogena	6	yogenAvyaBicAriNyA	yoga{puM}{3;eka}	yoga{puM}{3;eka}	karaNam,3	XyAnayoga_ke_xvArA	by_yoga_practice				
 6	a-vyaBicAriNyA	3	0	a-vyaBicAriNI{swrI}{3;eka}	na-vyaBicAriNI{swrI}{3;eka}	viSeRaNam,1	avyaBicAriNI	without_any_break	<na-vyaBicAriNyA>Tn			
-6.1	(ca)	5	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,5	(Ora)	also				
+6.1	(ca)	5	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,5	(Ora)	also				
 7	XqwiH	10	XqwiH	Xqwi{swrI}{1;eka}	Xqwi{swrI}{1;eka}	karwA,10.1	Xqwi	determination				
 8	sA	9	sA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,7	vaha	that				
 9	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,3	he_pArWa	O_son_of_Prtha				
-10	sAwwvikI	11	sAwwvikI	sAwwvikI{swrI}{1;eka}	sAwwvikI{swrI}{1;eka}	karwqsamAnAXikaraNam,10.1	sAwwvikI	in_the_mode_of_goodness				
+10	sAwwvikI	11	sAwwvikI	sAwwvikI{swrI}{1;eka}	sAwwvikI{swrI}{1;eka}	viXeya_viSeRaNam,10.1	sAwwvikI	in_the_mode_of_goodness				
 10.1	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,8;akarmakaH	(hE)	is				

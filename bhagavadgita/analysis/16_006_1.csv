@@ -3,10 +3,10 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 2	BUwa-sargO	4	BUwasargO	BUwasarga{puM}{1;xvi}/BUwasarga{puM}{2;xvi}/BUwasarga{puM}{8;xvi}	BUwa-sarga{puM}{1;xvi}	karwA,8.1	BUwoM_kI_sqRti_yAnI_manuRyasamuxAya	created_living_beings	<BUwa-sargO>T6			
 3	loke	3	lokeZsminxEva	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	aXikaraNam,8.1	loka_meM	in_the_world				
 4	asmin	2	0	ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{puM}{7;eka}	viSeRaNam,3	isa	in_this				
-5	xEvaH	7	0	xEva{puM}{1;eka}	xEva{puM}{1;eka}	GatakaH,1	xEvI-prakqwivAlA	godly				
-6	AsuraH	9	Asura	Asura{puM}{1;eka}	Asura{puM}{1;eka}	GatakaH,1	AsurI-prakqwivAlA	demoniac				
+5	xEvaH	7	0	xEva{puM}{1;eka}	xEva{puM}{1;eka}	Gataka,1	xEvI-prakqwivAlA	godly				
+6	AsuraH	9	Asura	Asura{puM}{1;eka}	Asura{puM}{1;eka}	Gataka,1	AsurI-prakqwivAlA	demoniac				
 7	eva	6	eva	eva{avya}	eva{avya}	sambanXaH,8	hI	certainly				
-8	ca	8	ca	ca{avya}	ca{avya}	GatakaxyowakaH,6	Ora	and				
+8	ca	8	ca	ca{avya}	ca{avya}	Gataka_xyowakaH,6	Ora	and				
 8.1	(swaH)	10	(0)	(swq{puM}{8;eka}/as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	are				
 9	xEvaH	11	xEvo	xEva{puM}{1;eka}	xEva{puM}{1;eka}	karma,11	xEvI-prakqwivAlA	divine				
 10	viswaraSaH	12	viswaraSaH	viswaraSaH	viswaraSaH{avya}	kriyAviSeRaNam,11	viswArapUrvaka	at_great_length				

@@ -1,7 +1,7 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	aXi-yajFaH	3	aXiyajFaH	aXi-yajFa{puM}{1;eka}	aXi-yajFa{puM}{1;eka}	karwA,7.1	aXiyajFa	the_Lord_of_sacrifice	<aXi-yajFaH>A1			
 2	kaWam	7	kaWaM	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,7.1	kEse	how				
-3	kaH	4	koZwra	kim{puM}{1;eka}	kim{puM}{1;eka}	karwqsamAnAXikaraNam,7.1	kOna	who				
+3	kaH	4	koZwra	kim{puM}{1;eka}	kim{puM}{1;eka}	viXeya_viSeRaNam,7.1	kOna	who				
 4	awra	2	0	awra{avya}	awra{avya}	aXikaraNam,7.1	yahAz	here				
 5	xehe	6	xeheZsminmaXusUxana	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xeha{napuM}{8;xvi}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{napuM}{7;eka}	aXikaraNam,7.1	SarIra_meM	in_the_body				
 6	asmin	5	0	ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{puM}{7;eka}	viSeRaNam,5	isa	in_this				
@@ -10,7 +10,7 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 8	prayANa-kAle	12	prayANakAle	prayANa-kAla{puM}{7;eka}/kAla{napuM}{1;xvi}/kAla{napuM}{2;xvi}/kAla{napuM}{7;eka}/kAla{napuM}{8;xvi}/kAlA{swrI}{1;xvi}/kAlA{swrI}{2;xvi}/kAlA{swrI}{8;eka}/kAlA{swrI}{8;xvi}	prayANa-kAla{puM}{7;eka}	aXikaraNam,11	anwa_samaya_meM	at_the_time_of_death	<prayANa-kAle>T6			
 9	ca	9	ca	ca{avya}	ca{avya}	sambanXaH,12	waWA	and				
 10	kaWam	13	kaWaM	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,11	kisa_prakAra	how				
-11	jFeyaH	14	jFeyoZsi	jFeya{puM}{1;eka}	jFA2{kqw_prawyayaH:yaw;jFA;kryAxiH;puM}{1;eka}	karwqsamAnAXikaraNam,12	jAnane_meM_Awe	be_known				
+11	jFeyaH	14	jFeyoZsi	jFeya{puM}{1;eka}	jFA2{kqw_prawyayaH:yaw;jFA;kryAxiH;puM}{1;eka}	viXeya_viSeRaNam,12	jAnane_meM_Awe	be_known				
 12	asi	15	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,14	ho	can				
 13	niyawa-AwmaBiH	11	niyawAwmaBiH	niyawa-Awman{puM}{3;bahu}	niyawa-Awman{puM}{3;bahu}	karwA,11	yukwa_ciwwavAle_puruRoM_xvArA	by_the_self-controlled	<niyawa-AwmaBiH>Bs6			
 14	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wuma)	you				

@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	loBaH	4	loBaH	loBa{puM}{1;eka}	loBa{puM}{1;eka}	supsamucciwam,6	loBa	greed				
-2	pravqwwiH	5	pravqwwirAramBaH	pravqwwi{swrI}{1;eka}	pravqwwi{swrI}{1;eka}	supsamucciwam,6	pravqwwi	hankering				
-3	AramBaH	7	0	AramBa{puM}{1;eka}	AramBa{puM}{1;eka}	supsamucciwam,6	AramBa	endeavor				
+1	loBaH	4	loBaH	loBa{puM}{1;eka}	loBa{puM}{1;eka}	sup_samucciwaH,6	loBa	greed				
+2	pravqwwiH	5	pravqwwirAramBaH	pravqwwi{swrI}{1;eka}	pravqwwi{swrI}{1;eka}	sup_samucciwaH,6	pravqwwi	hankering				
+3	AramBaH	7	0	AramBa{puM}{1;eka}	AramBa{puM}{1;eka}	sup_samucciwaH,6	AramBa	endeavor				
 4	karmaNAm	6	karmaNAmaSamaH	karman{napuM}{6;bahu}	karman{napuM}{6;bahu}	RaRTIsambanXaH,3	karmoM_kA	of_activities				
-5	a-SamaH	8	0	Sam1{karwari;laf;ma;eka;parasmEpaxI;Samoz;BvAxiH}/Sam2{karwari;luf;ma;eka;parasmEpaxI;Samuz;xivAxiH}	na-Sama{puM}{1;eka}	supsamucciwam,6	aSAnwi	uncontrollable	<na-SamaH>Tn			
+5	a-SamaH	8	0	Sam1{karwari;laf;ma;eka;parasmEpaxI;Samoz;BvAxiH}/Sam2{karwari;luf;ma;eka;parasmEpaxI;Samuz;xivAxiH}	na-Sama{puM}{1;eka}	sup_samucciwaH,6	aSAnwi	uncontrollable	<na-SamaH>Tn			
 6	spqhA	10	spqhA	spqhA{swrI}{1;eka}	spqhA{swrI}{1;eka}	karwA,9	viRaya-BogoM_kI_lAlasA	desire				
-6.1	(ca)	9	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,6	(Ora)	also				
+6.1	(ca)	9	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,6	(Ora)	also				
 7	rajasi	2	rajasyewAni	rajas{puM}{7;eka}/rajas{napuM}{7;eka}/raFj2{karwari;lat;ma;eka;parasmEpaxI;raFjaz;BvAxiH}	rajas{napuM}{7;eka}	karwA,10	rajoguNa_ke	in_the_mode_of_passion				
 8	ewAni	11	0	ewax{napuM}{1;bahu}/ewax{napuM}{2;bahu}	ewax{napuM}{1;bahu}	viSeRaNam,6	ye_(saba)	all_this				
 9	jAyanwe	12	jAyanwe	jE1{BAve;lat;pra;bahu;AwmanepaxI;jE;BvAxiH}/jan1{karwari;lat;pra;bahu;AwmanepaxI;janIz;xivAxiH}/jan2{BAve;lat;pra;bahu;AwmanepaxI;janaz;juhowyAxiH}/jan3{karwari;lat;pra;bahu;AwmanepaxI;janIz;xivAxiH}/jan3{BAve;lat;pra;bahu;AwmanepaxI;janIz;xivAxiH}	jan3{karwari;lat;pra;bahu;AwmanepaxI;janIz;xivAxiH}	aBihiwakarwA,6;akarmakaH	uwpanna_howe_hEM	develop				

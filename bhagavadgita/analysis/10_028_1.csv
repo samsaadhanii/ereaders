@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	AyuXAnAm	2	AyuXAnAmahaM	AyuXa{napuM}{6;bahu}	AyuXa{napuM}{6;bahu}	nirXAraNam,3	SAswroM_meM	of_all_weapons				
 2	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,5	mEM	I				
-3	vajram	3	vajraM	vajra{puM}{2;eka}/vajra{napuM}{1;eka}/vajra{napuM}{2;eka}	vajra{napuM}{1;eka}	supsamucciwam,6	vajra	the_thunderbolt				
+3	vajram	3	vajraM	vajra{puM}{2;eka}/vajra{napuM}{1;eka}/vajra{napuM}{2;eka}	vajra{napuM}{1;eka}	sup_samucciwaH,6	vajra	the_thunderbolt				
 4	XenUnAm	4	XenUnAmasmi	Xenu{swrI}{6;bahu}	Xenu{swrI}{6;bahu}	nirXAraNam,6	gOoM_meM	of_cows				
 5	asmi	7	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,2;akarmakaH	hUz	am				
-6	kAma-Xuk	5	kAmaXuk	kAma-Xuk	kAma-Xuk{swrI}{1;eka}	karwqsamAnAXikaraNam,5	kAmaXenu	the_surabhi_cows	<kAma-Xuk>U			
-6.1	(ca)	6	(0)	ca{avya}	ca{avya}	samuccayaxyowakaH,6	Ora	and				
+6	kAma-Xuk	5	kAmaXuk	kAma-Xuk	kAma-Xuk{swrI}{1;eka}	viXeya_viSeRaNam,5	kAmaXenu	the_surabhi_cows	<kAma-Xuk>U			
+6.1	(ca)	6	(0)	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	and				
 7	prajanaH	9	prajanaScAsmi	prajana{puM}{1;eka}	prajana{puM}{1;eka}	viSeRaNam,10	SAswrokwa_rIwi_se_sanwAna_kI_uwpawwi_kA_hewu	for_begetting_children				
 8	ca	11	0	ca{avya}	ca{avya}	sambanXaH,9	Ora	and				
 9	asmi	12	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,10.1,akarmakaH	hUz	am				
-10	kanxarpaH	10	kanxarpaH	kanxarpa{puM}{1;eka}	kanxarpa{puM}{1;eka}	karwqsamAnAXikaraNam,10.1	kAmaxeva	Cupid				
+10	kanxarpaH	10	kanxarpaH	kanxarpa{puM}{1;eka}	kanxarpa{puM}{1;eka}	viXeya_viSeRaNam,10.1	kAmaxeva	Cupid				
 10.1	(aham)	8	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,9	(mEM)	I				
 11	sarpANAm	14	sarpANAmasmi	sarpa{puM}{6;bahu}	sarpa{puM}{6;bahu}	nirXAraNam,13	sarpoM_meM	of_all_snakes				
 12	asmi	16	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,13.1;akarmakaH	hUz	am				
-13	vAsukiH	15	vAsukiH	vAsuki{puM}{1;eka}	vAsuki{puM}{1;eka}	karwqsamAnAXikaraNam,12	sarparAja_vAsuki	Vasuki				
+13	vAsukiH	15	vAsukiH	vAsuki{puM}{1;eka}	vAsuki{puM}{1;eka}	viXeya_viSeRaNam,12	sarparAja_vAsuki	Vasuki				
 13.1	(aham)	13	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,12	(mEM)	I				

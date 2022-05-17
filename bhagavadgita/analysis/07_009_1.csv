@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	puNyaH	3	puNyo	puNya{puM}{1;eka}	puNya{puM}{1;eka}	viSeRaNam,2	paviwra	original				
-2	ganXaH	4	ganXaH	ganXa{puM}{1;eka}	ganXa{puM}{1;eka}	supsamucciwam,5	ganXa	fragrance				
+2	ganXaH	4	ganXaH	ganXa{puM}{1;eka}	ganXa{puM}{1;eka}	sup_samucciwaH,5	ganXa	fragrance				
 3	pqWivyAm	2	pqWivyAM	pqWivI{swrI}{7;eka}	pqWivI{swrI}{7;eka}	aXikaraNam,2	pqWvI_meM	in_the_earth				
-4	ca	5	ca	ca{avya}	ca{avya}	samuuccayaxyowakaH,2	Ora	also				
-5	wejaH	7	wejaScAsmi	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{1;eka}	karwqsamAnAXikaraNam,7	weja	temperature				
-6	ca	8	0	ca{avya}	ca{avya}	samuuccayaxyowakaH,5	waWA	also				
+4	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	also				
+5	wejaH	7	wejaScAsmi	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{1;eka}	viXeya_viSeRaNam,7	weja	temperature				
+6	ca	8	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	waWA	also				
 7	asmi	9	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,8.1;akarmakaH	hUz	am				
 8	viBAvasO	6	viBAvasO	viBAvasu{puM}{7;eka}	viBAvasu{puM}{7;eka}	aXikaraNam,5	agni_meM	in_the_fire				
 8.1	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,7	(mEM)	I				
-9	jIvanam	12	jIvanaM	jIvana{napuM}{1;eka}/jIvana{napuM}{2;eka}	jIvana{napuM}{1;eka}	supsamucciwam,11	jIvana	life				
+9	jIvanam	12	jIvanaM	jIvana{napuM}{1;eka}/jIvana{napuM}{2;eka}	jIvana{napuM}{1;eka}	sup_samucciwaH,11	jIvana	life				
 10	sarva-BUweRu	11	sarvaBUweRu	sarva-BUwa{puM}{7;bahu}/BUwa{napuM}{7;bahu}	sarva-BUwa{napuM}{7;bahu}	aXikaraNam,9	sampUrNa_BUwoM_meM	all_living_entities	<sarva-BUweRu>K1			
-11	wapaH	14	wapaScAsmi	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}/wapas{napuM}{8;eka}	wapas{napuM}{1;eka}	karwqsamAnAXikaraNam,13	wapa	penance				
-12	ca	15	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,11	Ora	also				
+11	wapaH	14	wapaScAsmi	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}/wapas{napuM}{8;eka}	wapas{napuM}{1;eka}	viXeya_viSeRaNam,13	wapa	penance				
+12	ca	15	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,11	Ora	also				
 13	asmi	16	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,14.1;akarmakaH	hUz	am				
 14	wapasviRu	13	wapasviRu	wapasvin{puM}{7;bahu}	wapasvin{puM}{7;bahu}	aXikaraNam,11	wapasviyoM_meM	in_those_who_practice_penance				
 14.1	(aham)	10	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,13	(mEM)	I				

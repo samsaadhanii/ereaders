@@ -13,12 +13,12 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 12	xeva-ISa	12	xeveSa	xeva-ISa{puM}{8;eka}	xeveSa{puM}{8;eka}	samboXyaH,19.1	he_xeveSa	God_of_the_gods	<xeva-ISa>T6			
 13	jagaw-nivAsa	13	jannivAsa	jagaw-nivAsa{puM}{8;eka}/nivAsa{napuM}{8;eka}	jagaw-nivAsa{puM}{8;eka}	samboXyaH,19.1	he_jagannivAsa	O_refuge_of_the_universe	<jagaw-nivAsa>Bs6			
 14	wvam	22	wvamakRaraM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,14.2	Apa	you				
-14.1	(waw)	21	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{1;eka})	karwqsamAnAXikaraNam,14.2	(vaha)	that				
+14.1	(waw)	21	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{1;eka})	viXeya_viSeRaNam,14.2	(vaha)	that				
 14.2	(asi)	23	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,14	(hEM)	are				
-15	a-kRaram	19	0	a-kRara{napuM}{1;eka}/kRara{napuM}{2;eka}	akRara{napuM}{1;eka}	karwqsamAnAXikaraNam,19.1	akRara	imperishable	<na-kRaram>Tn			
-16	saw	15	saxasawwawparaM	saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	saw{napuM}{1;eka}	supsamucciwam,18	saw	cause				
-17	a-saw	16	0	a-saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	asaw{napuM}{1;eka}	supsamucciwam,18	asaw	effect	<na-saw>Tn			
+15	a-kRaram	19	0	a-kRara{napuM}{1;eka}/kRara{napuM}{2;eka}	akRara{napuM}{1;eka}	viXeya_viSeRaNam,19.1	akRara	imperishable	<na-kRaram>Tn			
+16	saw	15	saxasawwawparaM	saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	saw{napuM}{1;eka}	sup_samucciwaH,18	saw	cause				
+17	a-saw	16	0	a-saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	asaw{napuM}{1;eka}	sup_samucciwaH,18	asaw	effect	<na-saw>Tn			
 18	waw-param	18	0	wax-para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	wax-para{napuM}{1;eka}	viSeRaNam,15	unase_pare	transcendental				
-18.1	(ca)	17	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,18	(Ora)	and				
-19	yaw	14	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,19.1;niwyasambanXaH,14.1	jo	because				
+18.1	(ca)	17	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,18	(Ora)	and				
+19	yaw	14	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,19.1;niwya_sambanXaH,14.1	jo	because				
 19.1	(aswi)	20	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,19	(hEM)	is				

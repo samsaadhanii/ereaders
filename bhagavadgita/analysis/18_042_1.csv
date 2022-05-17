@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SamaH	1	Samo	Sama{puM}{1;eka}	Sama{puM}{1;eka}	sup_samucciwam,11	anwaHkaraNa_kA_nigraha_karanA	peacefulness				
-2	xamaH	2	xamaswapaH	xama{puM}{1;eka}	xama{puM}{1;eka}	sup_samucciwam,11	inxriyoM_kA_xamana_karanA	self-control				
-3	wapaH	3	0	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	sup_samucciwam,11	Xarma_pAlana_ke_liye_kaRta_sahanA	austerity				
-4	SOcam	4	SOcaM	SOca{napuM}{1;eka}/SOca{napuM}{2;eka}	SOca{napuM}{1;eka}	sup_samucciwam,11	bAhara-BIwara_se_SuxXa_rahanA	purity				
-5	kRAnwiH	5	kRAnwirArjavameva	kRAnwi{swrI}{1;eka}	kRAnwi{swrI}{1;eka}	sup_samucciwam,11	xUsaroM_ke_aparAXoM_ko_kRamA_karanA	tolerance				
-6	Arjavam	6	0	Arjava{napuM}{1;eka}/Arjava{napuM}{2;eka}	Arjava{napuM}{1;eka}	sup_samucciwam,11	mana_inxriya_Ora_SarIra_ko_sarala_raKanA	honesty				
+1	SamaH	1	Samo	Sama{puM}{1;eka}	Sama{puM}{1;eka}	sup_samucciwaH,11	anwaHkaraNa_kA_nigraha_karanA	peacefulness				
+2	xamaH	2	xamaswapaH	xama{puM}{1;eka}	xama{puM}{1;eka}	sup_samucciwaH,11	inxriyoM_kA_xamana_karanA	self-control				
+3	wapaH	3	0	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	sup_samucciwaH,11	Xarma_pAlana_ke_liye_kaRta_sahanA	austerity				
+4	SOcam	4	SOcaM	SOca{napuM}{1;eka}/SOca{napuM}{2;eka}	SOca{napuM}{1;eka}	sup_samucciwaH,11	bAhara-BIwara_se_SuxXa_rahanA	purity				
+5	kRAnwiH	5	kRAnwirArjavameva	kRAnwi{swrI}{1;eka}	kRAnwi{swrI}{1;eka}	sup_samucciwaH,11	xUsaroM_ke_aparAXoM_ko_kRamA_karanA	tolerance				
+6	Arjavam	6	0	Arjava{napuM}{1;eka}/Arjava{napuM}{2;eka}	Arjava{napuM}{1;eka}	sup_samucciwaH,11	mana_inxriya_Ora_SarIra_ko_sarala_raKanA	honesty				
 7	eva	11	0	eva{avya}	eva{avya}	sambanXaH,6	hI	certainly				
-8	ca	9	ca	ca{avya}	ca{avya}	sup_samucciwam,11	Ora	and				
-9	jFAnam	8	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	sup_samucciwam,11	vexa-SAswroM_kA_aXyayana-aXyApana_karanA	knowledge				
-10	vi-jFAnam	10	vijFAnamAswikyaM	vijFAna{napuM}{1;eka}/vijFAna{napuM}{2;eka}	vijFAna{napuM}{1;eka}	sup_samucciwam,11	paramAwmA_ke_wawwva_kA_anuBava_karanA	wisdom	<vi-jFAnam>Tp			
+8	ca	9	ca	ca{avya}	ca{avya}	sup_samucciwaH,11	Ora	and				
+9	jFAnam	8	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	sup_samucciwaH,11	vexa-SAswroM_kA_aXyayana-aXyApana_karanA	knowledge				
+10	vi-jFAnam	10	vijFAnamAswikyaM	vijFAna{napuM}{1;eka}/vijFAna{napuM}{2;eka}	vijFAna{napuM}{1;eka}	sup_samucciwaH,11	paramAwmA_ke_wawwva_kA_anuBava_karanA	wisdom	<vi-jFAnam>Tp			
 11	Aswikyam	7	0	Aswikya{napuM}{1;eka}/Aswikya{napuM}{2;eka}	Aswikya{napuM}{1;eka}	karwA,13.1	vexa_SAswra_ISvara_Ora_paraloka_Axi_meM_SraxXA_raKanA	religiousness				
-12	brahma-karma	13	brahmakarma	brahmakarman{napuM}{1;eka}/brahmakarman{napuM}{2;eka}	brahman-karman{napuM}{1;eka}	karwqsamAnAXikaraNam,13.1	brAhmaNa_karma	duty_of_a_brahmana	<brahma-karma>T6			
+12	brahma-karma	13	brahmakarma	brahmakarman{napuM}{1;eka}/brahmakarman{napuM}{2;eka}	brahman-karman{napuM}{1;eka}	viXeya_viSeRaNam,13.1	brAhmaNa_karma	duty_of_a_brahmana	<brahma-karma>T6			
 13	sva-BAva-jam	12	svaBAvajam	svaBAvaja{puM}{2;eka}/svaBAvaja{napuM}{1;eka}/svaBAvaja{napuM}{2;eka}	svaBAva-ja{napuM}{1;eka}	viSeRaNam,12	svABAvika	born_of_his_own_nature	<<sva-BAva>T6-jam>U			
 13.1	(aswi)	14	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13.1;akarmakaH	(hEM)	is				

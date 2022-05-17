@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sannyAsam	3	sannyAsaM	sannyAsa{puM}{2;eka}	sannyAsa{puM}{2;eka}	supsamucciwam,5	saMnyAsa_kI	renunciation				
+1	sannyAsam	3	sannyAsaM	sannyAsa{puM}{2;eka}	sannyAsa{puM}{2;eka}	sup_samucciwaH,5	saMnyAsa_kI	renunciation				
 2	karmaNAm	2	karmaNAM	karman{napuM}{6;bahu}	karman{napuM}{6;bahu}	RaRTIsambanXaH,1	karmoM_ke	of_all_activities				
 3	kqRNa	1	kqRNa	kqRNa{puM}{8;eka}/kqRNa{napuM}{8;eka}	kqRNa{puM}{8;eka}	samboXyaH,7	he_kqRNa	O_Krsna				
 4	punaH	5	punaryogaM	punaH{avya}	punaH{avya}	kriyAviSeRaNam,7	Pira	again				
 5	yogam	6	0	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,7	karmayoga_kI	devotional_service				
-6	ca	4	ca	ca{avya}	ca{avya}	samuccayaxyowakaH,5	Ora	also				
+6	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
 7	SaMsasi	7	SaMsasi	SaMsasi	SaMs1{karwari;lat;ma;eka;parasmEpaxI;SaMsuz;BvAxiH}	aBihiwakarwA,7.1;sakarmakaH	praSaMsA_karawe_hEM	are_praising				
 7.1	(wvama)	1.1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,7	(mEM)	I				
-8	yaw	9	yacCreya	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,11;niwyasambanXaH,12	jo	which				
-9	SreyaH	11	0	Sreya{puM}{1;eka}/Sreyas{napuM}{1;eka}/Sreyas{napuM}{2;eka}/Sreyas{napuM}{8;eka}	Sreyas{napuM}{1;eka}	karwqsamAnAXikaraNam,11.1	kalyANakAraka_sAXana	beneficial				
+8	yaw	9	yacCreya	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,11;niwya_sambanXaH,12	jo	which				
+9	SreyaH	11	0	Sreya{puM}{1;eka}/Sreyas{napuM}{1;eka}/Sreyas{napuM}{2;eka}/Sreyas{napuM}{8;eka}	Sreyas{napuM}{1;eka}	viXeya_viSeRaNam,11.1	kalyANakAraka_sAXana	beneficial				
 10	ewayoH	8	ewayorekaM	ewA{swrI}{6;xvi}/ewA{swrI}{7;xvi}/ewax{puM}{6;xvi}/ewax{puM}{7;xvi}/ewax{swrI}{6;xvi}/ewax{swrI}{7;xvi}/ewax{napuM}{6;xvi}/ewax{napuM}{7;xvi}	ewax{puM}{6;xvi}	nirXAraNam,11	ina_xonoM_meM_se	of_these_two				
 11	ekam	10	0	eka{puM}{2;eka}/eka{napuM}{1;eka}/eka{napuM}{2;eka}	eka{napuM}{1;eka}	karwA,11.1	eka	one				
 11.1	(Bavawi)	12	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(hE)	is				

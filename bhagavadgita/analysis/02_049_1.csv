@@ -1,7 +1,7 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	xUreNa	4	xUreNa	xUreNa{avya}/xUra{puM}{3;eka}/xUra{napuM}{3;eka}	xUreNa{avya}	aXikaraNam,6.1	awyanwa	far				
 2	hi	11	hyavaraM	hi{avya}	hi{avya}	sambanXaH,6.1	kyoMki	for				
-3	avaram	5	0	avara{puM}{2;eka}/avara{napuM}{1;eka}/avara{napuM}{2;eka}/avara{puM}{2;eka}/avara{napuM}{1;eka}/avara{napuM}{2;eka}	avara{napuM}{1;eka}	karwqsamAnAXikaraNam,6.1	nimna_SreNI_kA	inferior_to				
+3	avaram	5	0	avara{puM}{2;eka}/avara{napuM}{1;eka}/avara{napuM}{2;eka}/avara{puM}{2;eka}/avara{napuM}{1;eka}/avara{napuM}{2;eka}	avara{napuM}{1;eka}	viXeya_viSeRaNam,6.1	nimna_SreNI_kA	inferior_to				
 4	karma	2	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwA,6.1	sakAma_karma	action_with_a_selfish_motive				
 5	buxXi-yogAw	3	buxXiyogAxXanaFjaya	buxXi-yoga{puM}{5;eka}	buxXi-yoga{puM}{5;eka}	upapaxasambanXaH,1	buxXiyoga_se	this_Yoga_in_the_form_of_equanimity	<buxXi-yogAw>T6			
 6	XanaFjaya	1	0	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,6.1	he_XanaMjaya	O_Dhananjaya				
@@ -10,6 +10,6 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 8	SaraNam	9	SaraNamanvicCa	SaraNa{napuM}{1;eka}/SaraNa{napuM}{2;eka}	SaraNa{napuM}{2;eka}	karma,9	rakRA_kA_upAya	refuge				
 9	anvicCa	10	0	anu_iR2{karwari;lot;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	anu_iR2{karwari;lot;ma;eka;parasmEpaxI;anu_iRuz;wuxAxiH}	aBihiwakarwA,9.1;akarmakaH	DUzDa़o	do_seek				
 9.1	(wvam)	7	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,9	(wuma)	you				
-10	kqpaNAH	13	kqpaNAH	kqpaNa{puM}{1;bahu}/kqpaNa{puM}{8;bahu}	kqpaNa{puM}{1;bahu}	karwqsamAnAXikaraNam,11.1	awyanwa_xIna	poor_and_wretched				
+10	kqpaNAH	13	kqpaNAH	kqpaNa{puM}{1;bahu}/kqpaNa{puM}{8;bahu}	kqpaNa{puM}{1;bahu}	viXeya_viSeRaNam,11.1	awyanwa_xIna	poor_and_wretched				
 11	Pala-hewavaH	12	PalahewavaH	Pala-hewu{puM}{1;bahu}/hewu{puM}{8;bahu}	Pala-hewu{puM}{1;bahu}	karwA,11.1	Pala_ke_hewu	those_who_are_instrumental_in_making_their_actions_bear_fruit	<Pala-hewavaH>Bs6			
 11.1	(Bavanwi)	14	(0)	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(howe_hEM)	are				

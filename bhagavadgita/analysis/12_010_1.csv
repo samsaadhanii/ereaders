@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
 1	aByAse	1	aByAseZpyasamarWoZsi	aByAsa{puM}{7;eka}/aBi_as3{karmaNi;lit;u;eka;AwmanepaxI;asuz;xivAxiH}/aBi_as3{karmaNi;lit;pra;eka;AwmanepaxI;asuz;xivAxiH}	aByAsa{puM}{7;eka}	aXikaraNam,4	aByAsa_meM	in_practice_of				
 2	api	2	0	api{avya}	api{avya}	sambanXaH,4	BI	even				
-3	a-samarWaH	4	0	asamarWa{puM}{1;eka}	asamarWa{puM}{1;eka}	karwqsamAnAXikaraNam,4	asamarWa	unable	<na-samarWaH>Tn			
+3	a-samarWaH	4	0	asamarWa{puM}{1;eka}	asamarWa{puM}{1;eka}	viXeya_viSeRaNam,4	asamarWa	unable	<na-samarWaH>Tn			
 4	asi	5	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,4.1;akarmakaH	ho	are				
 4.1	(wvam)	3	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wuma)	you				
-5	maw-karma-paramaH	7	mawkarmaparamo	mawkarmaparamaH	asmaw-karma-parama{puM}{1;eka}	karwqsamAnAXikaraNam,6	mere_liye_karma_karane_ke_hI_parAyaNa	my_supreme_work	<<asmaw-karma>T6-paramaH>T7			
+5	maw-karma-paramaH	7	mawkarmaparamo	mawkarmaparamaH	asmaw-karma-parama{puM}{1;eka}	viXeya_viSeRaNam,6	mere_liye_karma_karane_ke_hI_parAyaNa	my_supreme_work	<<asmaw-karma>T6-paramaH>T7			
 6	Bava	8	Bava	Bava{puM}{8;eka}/BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,6.1;akarmakaH	ho_jA	become				
 6.1	(wvam)	6	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,6	(wuma)	you				
 7	max-arWaM	9	maxarWamapi	maxarWa{puM}{2;eka}	asmax-arWa{napuM}{1;eka}	prayojanam,10	mere_nimiwa	for_My_sake	<asmaw-arWam>T4			

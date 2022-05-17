@@ -5,9 +5,9 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 4	janAH	11	janAH	jana{puM}{1;bahu}/jana{puM}{8;bahu}	jana{puM}{1;bahu}	karwA,2	Bakwajana	persons				
 5	su-kqwinaH	10	sukqwinoZrjuna	su-{avya}-kqwin{puM}{1;bahu}/kqwin{puM}{2;bahu}/kqwin{puM}{5;eka}/kqwin{puM}{6;eka}/kqwin{puM}{8;bahu}	sukqwin{puM}{1;bahu}	viSeRaNam,9	uwwama_karma_karanevAle	those_who_are_pious	<su-kqwinaH>Bs6			
 6	arjuna	2	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,2	arjuna	O_Arjuna				
-7	ArwaH	3	Arwo	Arwa{puM}{1;eka}	Arwa{puM}{1;eka}	GatakaH,1	Arwa	the_distressed				
-8	jijFAsuH	4	jijFAsurarWArWI	jijFAsu{puM}{1;eka}	jijFAsu{puM}{1;eka}	GatakaH,1	jijFAsu	the_inquisitive				
-9	arWa-arWI	5	0	arWa-arWin{puM}{1;eka}	arWa-arWin{puM}{1;eka}	GatakaH,1	arWArWI	one_who_desires_material_gain	<arWa-arWI>T6			
-10	jFAnI	6	jFAnI	jFAnin{puM}{1;eka}	jFAnin{puM}{1;eka}	GatakaH,1	jFAnI	one_who_knows_things_as_they_are				
+7	ArwaH	3	Arwo	Arwa{puM}{1;eka}	Arwa{puM}{1;eka}	Gataka,1	Arwa	the_distressed				
+8	jijFAsuH	4	jijFAsurarWArWI	jijFAsu{puM}{1;eka}	jijFAsu{puM}{1;eka}	Gataka,1	jijFAsu	the_inquisitive				
+9	arWa-arWI	5	0	arWa-arWin{puM}{1;eka}	arWa-arWin{puM}{1;eka}	Gataka,1	arWArWI	one_who_desires_material_gain	<arWa-arWI>T6			
+10	jFAnI	6	jFAnI	jFAnin{puM}{1;eka}	jFAnin{puM}{1;eka}	Gataka,1	jFAnI	one_who_knows_things_as_they_are				
 11	ca	7	ca	ca{avya}	ca{avya}	sambanXaH,1	Ora	also				
 12	BarawarRaBa	1	BarawarRaBa	BarawarRaBa{puM}{8;eka}	BarawarRaBa{puM}{8;eka}	viSeRaNam,6	he_BarawavaMSiyoM_meM_SreRTa	O_great_one_amongst_the_descendants_of_Bharata				

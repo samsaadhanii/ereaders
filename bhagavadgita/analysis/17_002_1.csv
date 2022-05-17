@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wri-viXA	11	wriviXA	wri-viXA{swrI}{1;eka}	wri-viXA{swrI}{1;eka}	karwqsamAnAXikaraNam,2	wInoM_prakAra_kI	three_kinds	<wri-viXA>Bs6			
+1	wri-viXA	11	wriviXA	wri-viXA{swrI}{1;eka}	wri-viXA{swrI}{1;eka}	viXeya_viSeRaNam,2	wInoM_prakAra_kI	three_kinds	<wri-viXA>Bs6			
 2	Bavawi	12	Bavawi	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,3;akarmakaH	howI_hE	become				
 3	SraxXA	4	SraxXA	SraxXA{swrI}{1;eka}	SraxXA{swrI}{1;eka}	karwA,2	SraxXA	faith				
 4	xehinAm	1	xehinAM	xehin{puM}{6;bahu}/xehin{napuM}{6;bahu}	xehin{puM}{6;bahu}	RaRTIsambanXaH,5	manuRyoM_kI	of_the_embodied				
 5	sA	2	sA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,3	vaha	that				
 6	sva-BAva-jA	3	svaBAvajA	sva-BAva-ja{puM}/ja{napuM}	svaBAva-jA{swrI}{1;eka}	viSeRaNam,3	svaBAva_se_uwpanna	according_to_his_mode_of_material_nature	<<sva-BAva>T6-jA>U			
-7	sAwwvikI	5	sAwwvikI	sAwwvikI{swrI}{1;eka}	sAwwvikI{swrI}{1;eka}	GatakaH,1	sAwwvikI	mode_of_goodness				
-8	rAjasI	7	rAjasI	rAjasI{swrI}{1;eka}	rAjasI{swrI}{1;eka}	GatakaH,1	rAjasI	mode_of_passion				
-9	ca_eva	6	cEva	ca{avya}	ca{avya}_eva{avya}	samuccayaxyowakaH,8	Ora	also				
-10	wAmasI	9	wAmasI	wAmasI{swrI}{1;eka}	wAmasI{swrI}{1;eka}	GatakaH,1	wAmasI	mode_of_ignorance				
-11	ca	8	cewi	ca{avya}	ca{avya}	samuccayaxyowakaH,10	waWA	and				
-12	iwi	10	0	iwi{avya}	iwi{avya}	GatakaxyowakaH,10	Ese	thus				
+7	sAwwvikI	5	sAwwvikI	sAwwvikI{swrI}{1;eka}	sAwwvikI{swrI}{1;eka}	Gataka,1	sAwwvikI	mode_of_goodness				
+8	rAjasI	7	rAjasI	rAjasI{swrI}{1;eka}	rAjasI{swrI}{1;eka}	Gataka,1	rAjasI	mode_of_passion				
+9	ca_eva	6	cEva	ca{avya}	ca{avya}_eva{avya}	samuccaya_xyowakaH,8	Ora	also				
+10	wAmasI	9	wAmasI	wAmasI{swrI}{1;eka}	wAmasI{swrI}{1;eka}	Gataka,1	wAmasI	mode_of_ignorance				
+11	ca	8	cewi	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	waWA	and				
+12	iwi	10	0	iwi{avya}	iwi{avya}	Gataka_xyowakaH,10	Ese	thus				
 13	wAm	14	wAM	wax{swrI}{2;eka}	wax{swrI}{2;eka}	karma,14	usako	that				
 14	SqNu	16	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,14.2;sakarmakaH	suna	hear				
 14.1	(mawwaH)	15	(0)	(mawwa{puM}{1;eka})	(mawwa{avya})	apAxAnam,14	(muJase)	from_me				

@@ -2,7 +2,7 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 1	vexa	8	vexAvinASinaM	vexa{puM}{8;eka}/vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}/vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,4;sakarmakaH	jAnawA_hE	knows				
 2	a-vinASinam	4	0	a-vinASin{puM}{2;eka}	a-vinASin{puM}{2;eka}	viSeRaNam,5	nASarahiwa	imperishable	<na-vinASinam>Tn			
 3	niwyam	5	niwyaM	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{puM}{2;eka}	viSeRaNam,5	niwya	eternal				
-4	yaH	2	ya	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,1; niwyasambanXaH,9	jo	one_who				
+4	yaH	2	ya	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,1;niwya_sambanXaH,9	jo	one_who				
 5	enam	3	enamajamavyayam	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,1	isako_(AwmA_ko)	this_(the_soul)				
 6	a-jam	6	0	aja{puM}{2;eka}	aja{puM}{2;eka}	viSeRaNam,5	ajanmA	free_from_birth	<na-jam>U			
 7	a-vyayam	7	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	a-vyaya{puM}{2;eka}	viSeRaNam,5	avyaya	decay	<na-vyayam>Bsmn			
@@ -12,6 +12,6 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 11	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,1	he_pqWApuwra_arjuna	O_Partha_(Arjuna)				
 12	kam	12	kaM	kam{avya}/kim{puM}{2;eka}	kim{puM}{2;eka}	karma,13	kisako	whom				
 13	GAwayawi	13	GAwayawi	han1_Nic{karwari;lat;pra;eka;parasmEpaxI;hanaz;axAxiH}	han1_Nic{karwari;lat;pra;eka;parasmEpaxI;hanaz_Nic;axAxiH}	aBihiwakarwA,10;sakarmakaH	maravAwA_hE	cause_to_be_killed				
-14	hanwi	16	hanwi	han1{karwari;lat;pra;eka;parasmEpaxI;hanaz;axAxiH}	han1{karwari;lat;pra;eka;parasmEpaxI;hanaz;axAxiH}	samucciwam,13	mArawA_hE	will_kill				
+14	hanwi	16	hanwi	han1{karwari;lat;pra;eka;parasmEpaxI;hanaz;axAxiH}	han1{karwari;lat;pra;eka;parasmEpaxI;hanaz;axAxiH}	samucciwaH,13	mArawA_hE	will_kill				
 15	kam	14	kam	kam{avya}/kim{puM}{2;eka}	kim{puM}{2;eka}	karma,14	kisako	whom				
-15.1	(ca)	15	(0)	(ca{avya})	(ca{avya})	samuccayaxyowakaH,13	(Ora)	and				
+15.1	(ca)	15	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,13	(Ora)	and				

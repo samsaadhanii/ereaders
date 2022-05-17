@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	caFcalam	4	caFcalaM	caFcala{puM}{2;eka}	caFcala{napuM}{1;eka}	sup_samucciwam,7	bada़A_caMcala	flickering				
+1	caFcalam	4	caFcalaM	caFcala{puM}{2;eka}	caFcala{napuM}{1;eka}	sup_samucciwaH,7	bada़A_caMcala	flickering				
 2	hi	3	hi	hi{avya}	hi{avya}	sambanXaH,3	kyoMki	certainly				
 3	manaH	2	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	karwA,7.2	mana	mind				
 4	kqRNa	1	kqRNa	kqRNa{puM}{8;eka}/kqRNa{napuM}{8;eka}	kqRNa{puM}{8;eka}	samboXyaH,7.2	he_SrIkqRNa	O_Krsna				
-5	pramAWi	7	pramAWi	pramAWin{napuM}{1;eka}/pramAWin{napuM}{2;eka}	pramAWin{napuM}{1;eka}	sup_samucciwam,7	pramaWana_svaBAvavAlA	agitating				
-6	balavaw	5	balavaxxqDam	balavaw{avya}/balavaw{napuM}{1;eka}/balavaw{napuM}{2;eka}/balavaw{napuM}{8;eka}	balavaw{napuM}{1;eka}	sup_samucciwam,7	balavAn	strong				
-7	xqDam	6	0	xqDa{puM}{2;eka}/xqDa{napuM}{1;eka}/xqDa{napuM}{2;eka}	xqDa{napuM}{1;eka}	karwqsamAnAXikaraNam,7.2	bada़A_xqDa़	obstinate				
-7.1	(ca)		()	ca{avya}	ca{avya}	samuccayaxyowakaH,7						
+5	pramAWi	7	pramAWi	pramAWin{napuM}{1;eka}/pramAWin{napuM}{2;eka}	pramAWin{napuM}{1;eka}	sup_samucciwaH,7	pramaWana_svaBAvavAlA	agitating				
+6	balavaw	5	balavaxxqDam	balavaw{avya}/balavaw{napuM}{1;eka}/balavaw{napuM}{2;eka}/balavaw{napuM}{8;eka}	balavaw{napuM}{1;eka}	sup_samucciwaH,7	balavAn	strong				
+7	xqDam	6	0	xqDa{puM}{2;eka}/xqDa{napuM}{1;eka}/xqDa{napuM}{2;eka}	xqDa{napuM}{1;eka}	viXeya_viSeRaNam,7.2	bada़A_xqDa़	obstinate				
+7.1	(ca)		()	ca{avya}	ca{avya}	samuccaya_xyowakaH,7						
 7.2	(Bavawi)	8	()		BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,3						
 8	wasya	10	wasyAhaM	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,10	usakA	its				
 9	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,11	mEM	I				
 10	nigraham	11	nigrahaM	nigraha{puM}{2;eka}	nigraha{puM}{2;eka}	karma,11	vaSa_meM_karanA	subduing				
 11	manye	15	manye	man1{karmaNi;lat;u;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;u;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;u;eka;AwmanepaxI;manaz;xivAxiH}	aBihiwa_karwA,9	mAnawA_hUz	think				
 12	vAyoH	12	vAyoriva	vAyu{puM}{5;eka}/vAyu{puM}{6;eka}	vAyu{puM}{6;eka}	upamAnam,13	vAyu_ko_rokane_kI	of_the_wind				
-13	iva	13	0	iva{avya}	iva{avya}	upamAnaxyowakaH,8	jEse	like				
+13	iva	13	0	iva{avya}	iva{avya}	upamAna_xyowakaH,8	jEse	like				
 14	suxuRkaram	14	suxuRkaram	suxuRkara{puM}{2;eka}/suxuRkara{napuM}{1;eka}/suxuRkara{napuM}{2;eka}	suxuRkara{puM}{2;eka}	karmasamAnAXikaraNam,11	awyanwa_xuRkara	difficult				
