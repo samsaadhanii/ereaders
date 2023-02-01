@@ -1,0 +1,26 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sparSAn	2	sparSAnkqwvA	sparSa{puM}{2;bahu}	sparSa{puM}{2;bahu}	karma,2	viRayaBogoM_ko	external_sense_objects,_such_as_sound,_etc				
+2	kqwvA	5	0	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,18.1	nikAlakara	keeping				
+3	bahiH	3	bahirbAhyAMScakRuScEvAnware	bahiH{avya}	bahiH{avya}	aXikaraNam,2	bAhara	external				
+4	bAhyAn	1	0	bAhya{puM}{2;bahu}	bAhya{puM}{2;bahu}	viSeRaNam,1	bAhara_ke	unnecessary				
+5	cakRuH	7	0	cakRu{puM}{1;eka}/cakRus{napuM}{1;eka}/cakRus{napuM}{2;eka}/kRE1{karwari;lit;pra;bahu;parasmEpaxI;kRE;BvAxiH}	cakRus{napuM}{2;eka}	karma,9.1	newroM_kI_xqRti_ko	eyes				
+6	ca	6	0	ca{avya}	ca{avya}	sambanXaH,9.1	Ora	also				
+7	eva	4	0	eva{avya}	eva{avya}	sambanXaH,6	hI	certainly				
+8	anware	9	0	anware{avya}/anwara{puM}{7;eka}/anwara{napuM}{1;xvi}/anwara{napuM}{2;xvi}/anwara{napuM}{7;eka}/anwara{napuM}{1;xvi}/anwara{napuM}{2;xvi}/anwarA{swrI}{1;xvi}/anwarA{swrI}{2;xvi}/anwarA{swrI}{1;xvi}/anwarA{swrI}{2;xvi}	anwara{napuM}{7;eka}	aXikaraNam,9.1	bIca_meM	within				
+9	BruvoH	8	BruvoH	BrU{swrI}{6;xvi}/BrU{swrI}{7;xvi}	BrU{swrI}{6;xvi}	RaRTIsambanXaH,8	BqkutI_ke	of_the_eyebrows				
+9.1	(kqwvA)	10	(0)	(kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH})	(kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH})	pUrvakAlaH,18.1	(karake)	keeping				
+10	prANa-apAnO	12	prANApAnO	prANa-apAna{puM}{1;xvi}/apAna{puM}{2;xvi}	prANa-apAna{puM}{2;xvi}	karma,12	prANa_Ora_apAnavAyu_ko	up_and_down-moving_air	<prANa-apAnO>Di			
+11	samO	13	samO	sama{puM}{1;xvi}/sama{puM}{2;xvi}/sama{puM}{1;xvi}/sama{puM}{2;xvi}	sama{puM}{2;xvi}	karmasamAnAXikaraNam,12	sama	in_suspension				
+12	kqwvA	14	kqwvA	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,18.1	karake	doing_so				
+13	nAsa-aByanwara-cAriNO	11	nAsAByanwaracAriNO	nAsA-aByanwara-cArin{puM}{1;xvi}/cArin{puM}{2;xvi}	nAsA-aByanwara-cArin{puM}{2;xvi}	viSeRaNam,10	nAsikA_meM_vicaranevAle	blowing_within_the_nostrils	<<nAsa-AByanwara>T6-cAriNO>U			
+14	yawa-inxriya-manaH-buxXiH	15	yawenxriyamanobuxXirmunirmokRaparAyaNaH	yawa-inxriya-manas-buxXi{swrI}{1;eka}	yawa-inxriya-manas-buxXi{swrI}{1;eka}	viSeRaNam,15	jisakI_inxriyAz_mana_Ora_buxXi_jIwI_huI_hEM	controlled_senses,_mind_and_intelligence	<yawa-<inxriya-manaH-buxXiH>Di>Bs3			
+15	muniH	18	0	muni{puM}{1;eka}	muni{puM}{1;eka}	karwA,18.1	muni	the_transcendentalist				
+16	mokRa-parAyaNaH	17	0	mokRa-parAyaNa{puM}{1;eka}	mokRa-parAyaNa{puM}{1;eka}	viSeRaNam,15	mokRaparAyaNa	being_so_destined_for_liberation	<mokRa-parAyaNaH>Bs6			
+17	vigawa-icCA-Baya-kroXaH	19	vigawecCABayakroXo	vigawa-icCA-Baya-kroXa{puM}{1;eka}	vigawa-icCA-Baya-kroXa{puM}{1;eka}	viXeya_viSeRaNam,18.1	icCA_Baya_Ora_kroXa_se_rahiwa	discarded_wishes,_fear_and_anger	<vigawa-<icCA-Baya-kroXaH>Di>Bs5			
+18	yaH	16	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,15;niwya_sambanXaH,22	jo	one_who				
+18.1	(Bavawi)	20	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,15;akarmakaH	(howA_hE)	becomes				
+19	saxA	22	saxA	saxA{avya}	saxA{avya}	kriyAviSeRaNam,22.1	saxA	always				
+20	mukwaH	23	mukwa	mukwa{puM}{1;eka}	muc1{kqw_prawyayaH:kwa;mucLz;wuxAxiH;puM}{1;eka}	viXeya_viSeRaNam,22.1	mukwa	liberated				
+21	eva	24	eva	eva{avya}	eva{avya}	sambanXaH,20	hI	certainly				
+22	saH	21	saH	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,22.1	vaha	he				
+22.1	(aswi)	25	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,22;akarmakaH	(hE)	is				

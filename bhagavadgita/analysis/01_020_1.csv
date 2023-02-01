@@ -1,5 +1,5 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aWa	2	aWa	aWa{avya}	aWa{avya}	sambanXaH,4	isake_bAxa	thereupon				
+1	aWa	2	aWa	aWa{avya}	aWa{avya}	sambanXaH,15	isake_bAxa	thereupon				
 2	vyavasWiwAn	5	vyavasWiwAnxqRtvA	vyavasWiwa{puM}{2;bahu}	vyavasWiwa{puM}{2;bahu}	viSeRaNam,4	morcA_bAzXakara_date_hue	arrayed				
 3	xqRtvA	7	0	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	pUrvakAlaH,15	xeKakara	on_seeing				
 4	XArwarARtrAn	6	XArwarARtrAnkapiXvajaH	XArwarARtra{puM}{2;bahu}	XArwarARtra{puM}{2;bahu}	karma,3	XqwarARtra_sambanXiyoM_ko	the_sons_of_Dhrtarastra				
@@ -13,12 +13,12 @@ index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	
 12	waxA	8	waxA	waxA{avya}	waxA{avya}	aXikaraNam,15	usa	at_that_time				
 13	vAkyam	15	vAkyamixamAha	vAkya{napuM}{1;eka}/vAkya{napuM}{2;eka}	vAkya{napuM}{2;eka}	muKyakarma,15	vacana	words				
 14	ixam	14	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,13	yaha	these				
-15	Aha	16	0	brU1{karwari;lit;pra;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;eka;parasmEpaxI;brUF;axAxiH}	aBihiwA,15	kahA	addressed				
-16	mahI-pawe	1	mahIpawe	mahI-pawa{puM}{7;eka}/pawi{puM}{8;eka}	mahI-pawi{puM}{8;eka}	samboXyaH,15	he_rAjan	O_King	<mahI-pawe>T6			
+15	Aha	16	0	brU1{karwari;lit;pra;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;eka;parasmEpaxI;brUF;axAxiH}	aBihiwakarwA,10	kahA	addressed				
+16	mahI-pawe	1	mahIpawe	mahI-pawa{puM}{7;eka}/pawi{puM}{8;eka}	mahI-pawi{puM}{8;eka}	samboXyaH,21	he_rAjan	O_King	<mahI-pawe>T6			
 17	senayoH	21	senayoruBayormaXye	senA{swrI}{6;xvi}/senA{swrI}{7;xvi}	senA{swrI}{6;xvi}	RaRTIsambanXaH,19	senAoM_ke	of_the_armies				
 18	uBayoH	20	0	uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}	uBa{puM}{6;xvi}	viSeRaNam,17	xonoM	of_two				
 19	maXye	22	0	maXya{puM}{7;eka}/maXya{napuM}{1;xvi}/maXya{napuM}{2;xvi}/maXya{napuM}{7;eka}/maXyA{swrI}{1;xvi}/maXyA{swrI}{2;xvi}	maXya{puM}{7;eka}	aXikaraNam,21	bIca_meM	in_between_them				
 20	raWam	19	raWaM	raWa{puM}{2;eka}	raWa{puM}{2;eka}	karma,21	raWa_ko	chariot				
-21	sWApaya	23	sWApaya	sWA1_Nic{karwari;lot;ma;eka;parasmEpaxI;RTA;BvAxiH}	sWA1_Nic{karwari;lot;ma;eka;parasmEpaxI;RTA_Nic;BvAxiH}	vAkyakarya,15	Kada़A_kIjiye	place				
+21	sWApaya	23	sWApaya	sWA1_Nic{karwari;lot;ma;eka;parasmEpaxI;RTA;BvAxiH}	sWA1_Nic{karwari;lot;ma;eka;parasmEpaxI;RTA_Nic;BvAxiH}	vAkyakarma,15	Kada़A_kIjiye	place				
 22	me	18	meZcyuwa	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,20	mere	my				
 23	a-cyuwa	17	0	acyuwa{puM}{8;eka}	acyuwa{puM}{8;eka}	samboXyaH,21	he_acyuwa	O_infallible_one	<na-cyuwa>Bsmn			
