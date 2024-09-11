@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mAwrA-sparSAH	2	mAwrAsparSAswu	mAwrA-sparSa{puM}{1;bahu}/sparSa{puM}{8;bahu}/sparSA{swrI}{1;bahu}/sparSA{swrI}{2;bahu}/sparSA{swrI}{8;bahu}	mAwrA-sparSa{puM}{1;bahu}	karwA,6.2	inxriya_Ora_viRayoM_ke_saMyoga	the_contacts_between_the_senses_with_their_objects	<mAwrA-sparSAH>T6			
-2	wu	3	0	wu{avya}	wu{avya}	sambanXaH,6.2	wo	which				
-3	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,6.2	he_kunwIpuwra	O_son_of_Kunti				
-4	SIwa-uRNa-suKa-xuHKa-xAH	4	SIwoRNasuKaxuHKaxAH	SIwa-uRNa-suKa-xuHKa-xa{puM}{1;bahu}	SIwa-uRNa-suKa-xuHKa-xa{puM}{1;bahu}	sup_samucciwaH,6	sarxI-garmI_Ora_suKa-xuHKa_ko_xenevAle	give_rise_to_the_feelings_of_heat_and_cold_and_pleasure_and_pain	<<<SIwa-uRNa>Di-<suKa-xuHKa>Di>Di-xAH>U			
-5	Agama-apAyinaH	5	AgamApAyinoZniwyAswAMswiwikRasva	Agama-apAyin{puM}{1;bahu}/apAyin{puM}{2;bahu}/apAyin{puM}{5;eka}/apAyin{puM}{6;eka}/apAyin{napuM}{5;eka}/apAyin{napuM}{6;eka}/apAyina{puM}{1;eka}	Agama-apAyin{puM}{1;bahu}	sup_samucciwaH,6	uwpawwi-vinASaSIla	transitory	<Agama-apAyinaH>Di			
-6	a-niwyAH	6	0	a-niwya{puM}{1;bahu}/niwyA{swrI}{1;bahu}/niwyA{swrI}{2;bahu}	a-niwya{puM}{1;bahu}	viXeya_viSeRaNam,6.2	aniwya	fleeting	<na-niwyAH>Tn			
-6.1	(ca)	7	()	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	and				
-6.2	(sanwi)	8	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,1;akarmakaH	(hEM)	are				
-7	wAn	11	0	wax{puM}{2;bahu}	wax{puM}{2;bahu}	karma,8	unako	them				
-8	wiwikRasva	12	0	wij1{karwari;lot;ma;eka;AwmanepaxI;wijaz;BvAxiH}	wij1{karwari;lot;ma;eka;AwmanepaxI;wijaz;BvAxiH}	aBihiwakarwA,9.1;sakarmakaH	sahana_karo	endure				
-9	BArawa	9	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,8	he_BArawa	O_descendant_of_the_Bharata_dynasty				
-9.1	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wuma)	you				
+1	मात्रा-स्पर्शाः	2	मात्रास्पर्शास्तु	मात्रा-स्पर्श{पुं}{1;बहु}/स्पर्श{पुं}{8;बहु}/स्पर्शा{स्त्री}{1;बहु}/स्पर्शा{स्त्री}{2;बहु}/स्पर्शा{स्त्री}{8;बहु}	मात्रा-स्पर्श{पुं}{1;बहु}	कर्ता,6.2	इन्द्रिय_और_विषयों_के_संयोग	ट्हे_चोन्टच्ट्स्_बेट्तेएन्_ट्हे_सेन्सेस्_तिट्ह्_ट्हेइर्_ओब्जेच्ट्स्	<मात्रा-स्पर्शाः>ठ्6			
+2	तु	3	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,6.2	तो	त्हिच्ह्				
+3	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,6.2	हे_कुन्तीपुत्र	औ_सोन्_ओङ्_खुन्टि				
+4	शीत-उष्ण-सुख-दुःख-दाः	4	शीतोष्णसुखदुःखदाः	शीत-उष्ण-सुख-दुःख-द{पुं}{1;बहु}	शीत-उष्ण-सुख-दुःख-द{पुं}{1;बहु}	सुप्_समुच्चितः,6	सर्दी-गर्मी_और_सुख-दुःख_को_देनेवाले	गिवे_रिसे_टो_ट्हे_ङेएलिन्ग्स्_ओङ्_हेअट्_अन्ड्_चोल्ड्_अन्ड्_प्लेअसुरे_अन्ड्_पइन्	<<<शीत-उष्ण>ढि-<सुख-दुःख>ढि>ढि-दाः>ऊ			
+5	आगम-अपायिनः	5	आगमापायिनोऽनित्यास्तांस्तितिक्षस्व	आगम-अपायिन्{पुं}{1;बहु}/अपायिन्{पुं}{2;बहु}/अपायिन्{पुं}{5;एक}/अपायिन्{पुं}{6;एक}/अपायिन्{नपुं}{5;एक}/अपायिन्{नपुं}{6;एक}/अपायिन{पुं}{1;एक}	आगम-अपायिन्{पुं}{1;बहु}	सुप्_समुच्चितः,6	उत्पत्ति-विनाशशील	ट्रन्सिटोर्य्	<आगम-अपायिनः>ढि			
+6	अ-नित्याः	6	0	अ-नित्य{पुं}{1;बहु}/नित्या{स्त्री}{1;बहु}/नित्या{स्त्री}{2;बहु}	अ-नित्य{पुं}{1;बहु}	विधेय_विशेषणम्,6.2	अनित्य	ङ्लेएटिन्ग्	<न-नित्याः>ठ्न्			
+6.1	(च)	7	()	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	और	अन्ड्				
+6.2	(सन्ति)	8	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/सत्{नपुं}{8;बहु}/सन्ती{स्त्री}{8;एक}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,1;अकर्मकः	(हैं)	अरे				
+7	तान्	11	0	तद्{पुं}{2;बहु}	तद्{पुं}{2;बहु}	कर्म,8	उनको	ट्हेम्				
+8	तितिक्षस्व	12	0	तिज्1{कर्तरि;लोट्;म;एक;आत्मनेपदी;तिजँ;भ्वादिः}	तिज्1{कर्तरि;लोट्;म;एक;आत्मनेपदी;तिजँ;भ्वादिः}	अभिहितकर्ता,9.1;सकर्मकः	सहन_करो	एन्डुरे				
+9	भारत	9	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,8	हे_भारत	औ_डेस्चेन्डन्ट्_ओङ्_ट्हे_भ्हरट_ड्य्नस्ट्य्				
+9.1	(त्वम्)	10	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,8	(तुम)	योउ				

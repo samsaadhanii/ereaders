@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-vyakwaH	1	avyakwoZkRara	avyakwa{puM}{1;eka}	avyakwa{puM}{1;eka}	sup_samucciwaH,2	avyakwa	unmanifested	<na-vyakwaH>Tn			
-2	a-kRaraH	2	0	kRar1{karwari;laf;ma;eka;parasmEpaxI;kRaraz;BvAxiH}	akRara{puM}{1;eka}	karmasamAnAXikaraNam,4	akRara	infallible	<na-kRaraH>Tn			
-2.1	(ca)	11	()	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	nahIM	never				
-3	iwi	3	iwyukwaswamAhuH	iwi{avya}	iwi{avya}	sambanXaH,4	isa_(nAma_se)	thus				
-4	ukwaH	4	0	ukwa{puM}{1;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;puM}{1;eka}	aBihiwa_karma,2	kahA_gayA_hE	said				
-5	wam	5	0	wax{puM}{2;eka}	wax{puM}{2;eka}	karma,6	usIko_(akRara_nAmaka_avyakwaBAva_ko)	that_which				
-6	AhuH	8	0	ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;bahu;parasmEpaxI;brUF;axAxiH}		kahawe_hEM	is_known				
-7	paramAm	6	paramAM	paramA{swrI}{2;eka}	paramA{swrI}{2;eka}	viSeRaNam,8	parama	ultimate				
-8	gawim	7	gawim	gawi{swrI}{2;eka}	gawi{swrI}{2;eka}	karmasamAnAXikaraNam,6	gawi	destination				
-9	yam	9	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	karma,10;niwya_sambanXaH,5	jisako_(sanAwana_avyakwaBAva_ko)	that_which				
-10	prApya	10	prApya	prApya{puM}{8;eka}/prApya{napuM}{8;eka}/pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,12	prApwa_hokara	gaining				
-11	na	11	na	na{avya}	na{avya}	prawiReXaH,12	nahIM	never				
-12	nivarwanwe	12	nivarwanwe	nivarwanwe	ni_vqw1{karwari;lat;pra;bahu;AwmanepaxI;ni_vqwuz;BvAxiH}		vApasa_Awe	comes_back				
-13	waw	13	waxXAma	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,16.1	vaha	that				
-14	XAma	16	0	XAman{napuM}{1;eka}/XAman{napuM}{2;eka}/XAman{napuM}{8;eka}	XAman{napuM}{1;eka}	viXeya_viSeRaNam,16.1	XAma	abode				
-15	paramam	15	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{1;eka}	viSeRaNam,14	parama	supreme				
-16	mama	14	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,14	merA	mine				
-16.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,13	(hE)	is				
+1	अ-व्यक्तः	1	अव्यक्तोऽक्षर	अव्यक्त{पुं}{1;एक}	अव्यक्त{पुं}{1;एक}	सुप्_समुच्चितः,2	अव्यक्त	उन्मनिङेस्टेड्	<न-व्यक्तः>ठ्न्			
+2	अ-क्षरः	2	0	क्षर्1{कर्तरि;लङ्;म;एक;परस्मैपदी;क्षरँ;भ्वादिः}	अक्षर{पुं}{1;एक}	कर्मसमानाधिकरणम्,4	अक्षर	इन्ङल्लिब्ले	<न-क्षरः>ठ्न्			
+2.1	(च)	11	()	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	नहीं	नेवेर्				
+3	इति	3	इत्युक्तस्तमाहुः	इति{अव्य}	इति{अव्य}	सम्बन्धः,4	इस_(नाम_से)	ट्हुस्				
+4	उक्तः	4	0	उक्त{पुं}{1;एक}	वच्1{कृत्_प्रत्ययः:क्त;वचँ;अदादिः;पुं}{1;एक}	अभिहित_कर्म,2	कहा_गया_है	सइड्				
+5	तम्	5	0	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	कर्म,6	उसीको_(अक्षर_नामक_अव्यक्तभाव_को)	ट्हट्_त्हिच्ह्				
+6	आहुः	8	0	अह्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;अहँ;स्वादिः}/ब्रू1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;ब्रूञ्;अदादिः}	ब्रू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ब्रूञ्;अदादिः}		कहते_हैं	इस्_क्नोत्न्				
+7	परमाम्	6	परमां	परमा{स्त्री}{2;एक}	परमा{स्त्री}{2;एक}	विशेषणम्,8	परम	उल्टिमटे				
+8	गतिम्	7	गतिम्	गति{स्त्री}{2;एक}	गति{स्त्री}{2;एक}	कर्मसमानाधिकरणम्,6	गति	डेस्टिनटिओन्				
+9	यम्	9	यं	यद्{पुं}{2;एक}	यद्{पुं}{2;एक}	कर्म,10;नित्य_सम्बन्धः,5	जिसको_(सनातन_अव्यक्तभाव_को)	ट्हट्_त्हिच्ह्				
+10	प्राप्य	10	प्राप्य	प्राप्य{पुं}{8;एक}/प्राप्य{नपुं}{8;एक}/प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्र_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}/प्रा_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्रा_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}	प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;प्र_आपॢँ;स्वादिः}	पूर्वकालः,12	प्राप्त_होकर	गइनिन्ग्				
+11	न	11	न	न{अव्य}	न{अव्य}	प्रतिषेधः,12	नहीं	नेवेर्				
+12	निवर्तन्ते	12	निवर्तन्ते	निवर्तन्ते	नि_वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;नि_वृतुँ;भ्वादिः}		वापस_आते	चोमेस्_बच्क्				
+13	तत्	13	तद्धाम	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्ता,16.1	वह	ट्हट्				
+14	धाम	16	0	धामन्{नपुं}{1;एक}/धामन्{नपुं}{2;एक}/धामन्{नपुं}{8;एक}	धामन्{नपुं}{1;एक}	विधेय_विशेषणम्,16.1	धाम	अबोडे				
+15	परमम्	15	परमं	परमम्{अव्य}/परम{पुं}{2;एक}/परम{नपुं}{1;एक}/परम{नपुं}{2;एक}	परम{नपुं}{1;एक}	विशेषणम्,14	परम	सुप्रेमे				
+16	मम	14	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,14	मेरा	मिने				
+16.1	(अस्ति)	17	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,13	(है)	इस्				

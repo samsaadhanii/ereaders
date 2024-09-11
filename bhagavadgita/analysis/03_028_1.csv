@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wawwva-viw	4	wawwvaviwwu	wawwvam-vix{napuM}{1;eka}/vix{napuM}{8;eka}	wawwvavix{puM}{1;eka}	karwA,11	wawwva_ko_jAnanevAlA_jFAnayogI	the_knower_of_the_Absolute_Truth	<wawwva-viw>U			
-2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,11	paraMwu	but				
-3	mahAn-bAho	2	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,11	he_mahAbAho	O_mighty-armed_one	<mahaw-bAho>Bs6			
-4	guNa-karma-viBAgayoH	3	guNakarmaviBAgayoH	guNa-karman-viBAga{puM}{6;xvi}/viBAga{puM}{7;xvi}	guNa-karman-viBAga{puM}{6;xvi}	RaRTIsambanXaH,1	guNaviBAga_Ora_karmaviBAga_ke		<<guNa-karma>Di-viBAgayoH>T6			
-5	guNAH	5	guNA	guNa{puM}{1;bahu}/guNa{puM}{8;bahu}/guNA{swrI}{1;bahu}/guNA{swrI}{2;bahu}/guNA{swrI}{8;bahu}	guNa{puM}{1;bahu}	karwA,7	sampUrNa_guNa	senses				
-6	guNeRu	6	guNeRu	guNa{puM}{7;bahu}	guNa{puM}{7;bahu}	aXikaraNam,7	guNoM_meM	in_sense_gratification				
-7	varwanwe	7	varwanwa	vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	prawiyogI,8	barawa_rahe_hEM	being_engaged				
-8	iwi	8	iwi	iwi{avya}	iwi{avya}	anuyogI,9	EsA	thus				
-9	mawvA	9	mawvA	man1{kqw_prawyayaH:kwvA;manaz;xivAxiH}	man1{kqw_prawyayaH:kwvA;manaz;xivAxiH}	pUrvakAlaH,11	samaJakara	thinking				
-10	na	10	na	na{avya}	na{avya}	prawiReXaH,11	nahIM	never				
-11	sajjawe	11	sajjawe	sajjaw{puM}{4;eka}/sajjaw{napuM}{4;eka}/sajjawA{swrI}{1;xvi}/sajjawA{swrI}{2;xvi}/sajjawA{swrI}{8;eka}/sajjawA{swrI}{8;xvi}/sajjawA{swrI}{1;xvi}/sajjawA{swrI}{2;xvi}/sajjawA{swrI}{8;eka}/sajjawA{swrI}{8;xvi}	sasj1{karwari;lat;pra;eka;AwmanepaxI;Rasjaz;BvAxiH}	aBihiwakarwA,1;akarmakaH	Asakwa_howA	becomes_attached				
+1	तत्त्व-वित्	4	तत्त्ववित्तु	तत्त्वम्-विद्{नपुं}{1;एक}/विद्{नपुं}{8;एक}	तत्त्वविद्{पुं}{1;एक}	कर्ता,11	तत्त्व_को_जाननेवाला_ज्ञानयोगी	ट्हे_क्नोतेर्_ओङ्_ट्हे_आब्सोलुटे_ठ्रुट्ह्	<तत्त्व-वित्>ऊ			
+2	तु	1	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,11	परंतु	बुट्				
+3	महान्-बाहो	2	महाबाहो	महाबाहु{पुं}{8;एक}/महाबाहु{नपुं}{8;एक}	महाबाहु{पुं}{8;एक}	सम्बोध्यः,11	हे_महाबाहो	औ_मिग्ह्ट्य्-अर्मेड्_ओने	<महत्-बाहो>भ्स्6			
+4	गुण-कर्म-विभागयोः	3	गुणकर्मविभागयोः	गुण-कर्मन्-विभाग{पुं}{6;द्वि}/विभाग{पुं}{7;द्वि}	गुण-कर्मन्-विभाग{पुं}{6;द्वि}	षष्ठीसम्बन्धः,1	गुणविभाग_और_कर्मविभाग_के		<<गुण-कर्म>ढि-विभागयोः>ठ्6			
+5	गुणाः	5	गुणा	गुण{पुं}{1;बहु}/गुण{पुं}{8;बहु}/गुणा{स्त्री}{1;बहु}/गुणा{स्त्री}{2;बहु}/गुणा{स्त्री}{8;बहु}	गुण{पुं}{1;बहु}	कर्ता,7	सम्पूर्ण_गुण	सेन्सेस्				
+6	गुणेषु	6	गुणेषु	गुण{पुं}{7;बहु}	गुण{पुं}{7;बहु}	अधिकरणम्,7	गुणों_में	इन्_सेन्से_ग्रटिङिचटिओन्				
+7	वर्तन्ते	7	वर्तन्त	वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;वृतुँ;भ्वादिः}	वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;वृतुँ;भ्वादिः}	प्रतियोगी,8	बरत_रहे_हैं	बेइन्ग्_एन्गगेड्				
+8	इति	8	इति	इति{अव्य}	इति{अव्य}	अनुयोगी,9	ऐसा	ट्हुस्				
+9	मत्वा	9	मत्वा	मन्1{कृत्_प्रत्ययः:क्त्वा;मनँ;दिवादिः}	मन्1{कृत्_प्रत्ययः:क्त्वा;मनँ;दिवादिः}	पूर्वकालः,11	समझकर	ट्हिन्किन्ग्				
+10	न	10	न	न{अव्य}	न{अव्य}	प्रतिषेधः,11	नहीं	नेवेर्				
+11	सज्जते	11	सज्जते	सज्जत्{पुं}{4;एक}/सज्जत्{नपुं}{4;एक}/सज्जता{स्त्री}{1;द्वि}/सज्जता{स्त्री}{2;द्वि}/सज्जता{स्त्री}{8;एक}/सज्जता{स्त्री}{8;द्वि}/सज्जता{स्त्री}{1;द्वि}/सज्जता{स्त्री}{2;द्वि}/सज्जता{स्त्री}{8;एक}/सज्जता{स्त्री}{8;द्वि}	सस्ज्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;षस्जँ;भ्वादिः}	अभिहितकर्ता,1;अकर्मकः	आसक्त_होता	बेचोमेस्_अट्टच्हेड्				

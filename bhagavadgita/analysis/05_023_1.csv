@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	Saknowi	9	SaknowIhEva	Sak1{karwari;lat;pra;eka;parasmEpaxI;SakLz;svAxiH}	Sak1{karwari;lat;pra;eka;parasmEpaxI;SakLz;svAxiH}		samarWa_ho_jAwA_hE	able_to_do				
-2	iha	2	0	iha{avya}	iha{avya}	aXikaraNam,5	isameM_(manuRya_SarIra_meM)	in_the_present_body				
-3	eva	5	0	eva{avya}	eva{avya}	sambanXaH,6	hI	by_contact_with_the_material_senses				
-4	yaH	1	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,1	jo_(sAXaka)	one_who				
-5	soDum	8	soDuM	saha1{kqw_prawyayaH:wumun;Raha;BvAxiH}	saha1{kqw_prawyayaH:wumun;Rahaz;BvAxiH}	prayojanam,1	sahana_karane_meM	to_tolerate				
-6	prAk	4	prAkSarIravimokRaNAw	prAk{avya}/prAS{swrI}{1;eka}	prAk{avya}	kAlAXikaraNam,5	pahale-pahale	before				
-7	SarIra-vi-mokRaNAw	3	0	SarIra-vi-mokRaNa{napuM}{5;eka}	SarIra-vi-mokRaNa{puM}{5;eka}	upapaxasambanXaH,6	SarIra_kA_nASa_hone_se	given_up_body	<SarIra-<vi-mokRaNAw>Bvp>T6			
-8	kAma-kroXa-uxBavam	6	kAmakroXoxBavaM	kAma-kroXa-uxBava{puM}{2;eka}	kAma-kroXa-uxBava{puM}{2;eka}	viSeRaNam,9	kAma-kroXa_se_uwpanna_honevAle	generated_from_desire_and_anger	<<kAma-kroXa>Di-uxBavaM>T5			
-9	vegam	7	vegaM	vega{puM}{2;eka}	vega{puM}{2;eka}	karma,5	vega_ko	urge				
-10	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,11.1	vahI	he				
-11	yukwaH	12	yukwaH	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	viXeya_viSeRaNam,11.1	yogI	in_trance				
-11.1	(aswi)	13	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				
-12	saH	14	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,14	vahI	he				
-13	suKI	15	suKI	suKI{swrI}{1;eka}/suKin{puM}{1;eka}	suKin{puM}{1;eka}	viXeya_viSeRaNam,14.1	suKI	happy				
-14	naraH	11	naraH	nq{puM}{1;bahu}/nara{puM}{1;eka}	nara{puM}{1;eka}	karwA,14.1	puruRa	human_being				
-14.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				
+1	शक्नोति	9	शक्नोतीहैव	शक्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;शकॢँ;स्वादिः}	शक्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;शकॢँ;स्वादिः}		समर्थ_हो_जाता_है	अब्ले_टो_डो				
+2	इह	2	0	इह{अव्य}	इह{अव्य}	अधिकरणम्,5	इसमें_(मनुष्य_शरीर_में)	इन्_ट्हे_प्रेसेन्ट्_बोड्य्				
+3	एव	5	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,6	ही	ब्य्_चोन्टच्ट्_तिट्ह्_ट्हे_मटेरिअल्_सेन्सेस्				
+4	यः	1	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,1	जो_(साधक)	ओने_त्हो				
+5	सोढुम्	8	सोढुं	सह1{कृत्_प्रत्ययः:तुमुन्;षह;भ्वादिः}	सह1{कृत्_प्रत्ययः:तुमुन्;षहँ;भ्वादिः}	प्रयोजनम्,1	सहन_करने_में	टो_टोलेरटे				
+6	प्राक्	4	प्राक्शरीरविमोक्षणात्	प्राक्{अव्य}/प्राश्{स्त्री}{1;एक}	प्राक्{अव्य}	कालाधिकरणम्,5	पहले-पहले	बेङोरे				
+7	शरीर-वि-मोक्षणात्	3	0	शरीर-वि-मोक्षण{नपुं}{5;एक}	शरीर-वि-मोक्षण{पुं}{5;एक}	उपपदसम्बन्धः,6	शरीर_का_नाश_होने_से	गिवेन्_उप्_बोड्य्	<शरीर-<वि-मोक्षणात्>भ्व्प्>ठ्6			
+8	काम-क्रोध-उद्भवम्	6	कामक्रोधोद्भवं	काम-क्रोध-उद्भव{पुं}{2;एक}	काम-क्रोध-उद्भव{पुं}{2;एक}	विशेषणम्,9	काम-क्रोध_से_उत्पन्न_होनेवाले	गेनेरटेड्_ङ्रोम्_डेसिरे_अन्ड्_अन्गेर्	<<काम-क्रोध>ढि-उद्भवं>ठ्5			
+9	वेगम्	7	वेगं	वेग{पुं}{2;एक}	वेग{पुं}{2;एक}	कर्म,5	वेग_को	उर्गे				
+10	सः	10	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,11.1	वही	हे				
+11	युक्तः	12	युक्तः	युक्त{पुं}{1;एक}	युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{1;एक}	विधेय_विशेषणम्,11.1	योगी	इन्_ट्रन्चे				
+11.1	(अस्ति)	13	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})		(है)	इस्				
+12	सः	14	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	विशेषणम्,14	वही	हे				
+13	सुखी	15	सुखी	सुखी{स्त्री}{1;एक}/सुखिन्{पुं}{1;एक}	सुखिन्{पुं}{1;एक}	विधेय_विशेषणम्,14.1	सुखी	हप्प्य्				
+14	नरः	11	नरः	नृ{पुं}{1;बहु}/नर{पुं}{1;एक}	नर{पुं}{1;एक}	कर्ता,14.1	पुरुष	हुमन्_बेइन्ग्				
+14.1	(अस्ति)	16	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})		(है)	इस्				

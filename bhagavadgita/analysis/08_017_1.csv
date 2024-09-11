@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sahasra-yuga-paryanwam	6	sahasrayugaparyanwamaharyaxbrahmaNo	sahasrayugaparyanwam	sahasra-yuga-paryanwa{napuM}{2;eka}	viSeRaNam,2	eka_hajAra_cawuryugIwaka_kI_avaXivAlA	including_thousand_millenniums	<<sahasra-yuga>Km-paryanwam>Bs6			
-2	ahaH	7	0	ahan{napuM}{1;eka}/ahan{napuM}{2;eka}/ahan{napuM}{8;eka}	ahan{napuM}{2;eka}	karma,5	eka_xina_hE	day				
-3	yaw	5	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,2	jo	that				
-4	brahmaNaH	4	0	brahman{puM}{2;bahu}/brahman{puM}{5;eka}/brahman{puM}{6;eka}/brahman{napuM}{5;eka}/brahman{napuM}{6;eka}	brahman{napuM}{6;eka}	RaRTIsambanXaH,2	brahmA_kA	of_Brahma				
-5	vixuH	11	vixuH	vixu{puM}{1;eka}/vixus{napuM}{1;eka}/vixus{napuM}{2;eka}/vixus{napuM}{8;eka}/vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,10;sakarmakaH	wawwva_se_jAnawe_hEM	know				
-6	rAwrim	9	rAwriM	rAwri{swrI}{2;eka}	rAwri{swrI}{2;eka}	sup_samucciwaH,2	rAwri_ko	night				
-6.1	(ca)	10	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,6	(Ora)	and				
-7	yuga-sahasra-anwAm	8	yugasahasrAnwAM	yugasahasrAnwAm	yuga-sahasra-anwA{swrI}{2;eka}	viSeRaNam,6	eka_hajAra_cawuryugIwaka_kI_avaXivAlI	similarly,_at_the_end_of_one_thousand_millenniums	<<yuga-sahasra>T6-anwAm>Bs6			
-8	we	1	weZhorAwravixo	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	viSeRaNam,10	ve	those				
-9	ahaH-rAwra-vixaH	2	0	ahorAwravixaH	ahaH-rAwra-vix{puM}{1;bahu}	viSeRaNam,10	kAla_ke_wawwva_ko_jAnanevAle	understand_day_and_night	<<ahaH-rAwraH>Ds-vixaH>U			
-10	janAH	3	janAH	jana{puM}{1;bahu}	jana{puM}{1;bahu}	karwA,5	yogIjana	people				
+1	सहस्र-युग-पर्यन्तम्	6	सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो	सहस्रयुगपर्यन्तम्	सहस्र-युग-पर्यन्त{नपुं}{2;एक}	विशेषणम्,2	एक_हजार_चतुर्युगीतक_की_अवधिवाला	इन्च्लुडिन्ग्_ट्होउसन्ड्_मिल्लेन्निउम्स्	<<सहस्र-युग>ख्म्-पर्यन्तम्>भ्स्6			
+2	अहः	7	0	अहन्{नपुं}{1;एक}/अहन्{नपुं}{2;एक}/अहन्{नपुं}{8;एक}	अहन्{नपुं}{2;एक}	कर्म,5	एक_दिन_है	डय्				
+3	यत्	5	0	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	विशेषणम्,2	जो	ट्हट्				
+4	ब्रह्मणः	4	0	ब्रह्मन्{पुं}{2;बहु}/ब्रह्मन्{पुं}{5;एक}/ब्रह्मन्{पुं}{6;एक}/ब्रह्मन्{नपुं}{5;एक}/ब्रह्मन्{नपुं}{6;एक}	ब्रह्मन्{नपुं}{6;एक}	षष्ठीसम्बन्धः,2	ब्रह्मा_का	ओङ्_भ्रह्म				
+5	विदुः	11	विदुः	विदु{पुं}{1;एक}/विदुस्{नपुं}{1;एक}/विदुस्{नपुं}{2;एक}/विदुस्{नपुं}{8;एक}/विद्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विदँ;अदादिः}	अभिहित_कर्ता,10;सकर्मकः	तत्त्व_से_जानते_हैं	क्नोत्				
+6	रात्रिम्	9	रात्रिं	रात्रि{स्त्री}{2;एक}	रात्रि{स्त्री}{2;एक}	सुप्_समुच्चितः,2	रात्रि_को	निग्ह्ट्				
+6.1	(च)	10	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,6	(और)	अन्ड्				
+7	युग-सहस्र-अन्ताम्	8	युगसहस्रान्तां	युगसहस्रान्ताम्	युग-सहस्र-अन्ता{स्त्री}{2;एक}	विशेषणम्,6	एक_हजार_चतुर्युगीतक_की_अवधिवाली	सिमिलर्ल्य्,_अट्_ट्हे_एन्ड्_ओङ्_ओने_ट्होउसन्ड्_मिल्लेन्निउम्स्	<<युग-सहस्र>ठ्6-अन्ताम्>भ्स्6			
+8	ते	1	तेऽहोरात्रविदो	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	तद्{पुं}{1;बहु}	विशेषणम्,10	वे	ट्होसे				
+9	अहः-रात्र-विदः	2	0	अहोरात्रविदः	अहः-रात्र-विद्{पुं}{1;बहु}	विशेषणम्,10	काल_के_तत्त्व_को_जाननेवाले	उन्डेर्स्टन्ड्_डय्_अन्ड्_निग्ह्ट्	<<अहः-रात्रः>ढ्स्-विदः>ऊ			
+10	जनाः	3	जनाः	जन{पुं}{1;बहु}	जन{पुं}{1;बहु}	कर्ता,5	योगीजन	पेओप्ले				

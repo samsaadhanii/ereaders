@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aSvawWaH	3	aSvawWaH	aSvawWa{puM}{1;eka}	aSvawWa{puM}{1;eka}	sup_samucciwaH,10	pIpala_kA_vqkRa	the_banyan_tree				
-2	sarva-vqkRANAm	2	sarvavqkRANAM	sarva-vqkRa{puM}{6;bahu}	sarva-vqkRa{puM}{6;bahu}	nirXAraNam,1	saba_vqkRoM_meM	of_all_trees	<sarva-vqkRANAM>K1			
-3	xeva-qRINAm	4	xevarRINAM	xeva-qRi{puM}{6;bahu}	xeva-qRi{puM}{6;bahu}	nirXAraNam,5	xevarRiyoM_meM	of_all_the_sages_amongst_the_demigods	<xeva-qRINAM>K6			
-4	ca	8	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora	and				
-5	nAraxaH	5	nAraxaH	nAraxa{puM}{1;eka}	nAraxa{puM}{1;eka}	sup_samucciwaH,10	nAraxa_muni	Narada				
-6	ganXarvANAm	6	ganXarvANAM	ganXarva{puM}{6;bahu}	ganXarva{puM}{6;bahu}	nirXAraNam,7	ganXarvoM_meM	the_citizens_of_the_Gandharva_planet				
-7	ciwraraWaH	7	ciwraraWaH	ciwraraWa{puM}{1;eka}	ciwraraWa{puM}{1;eka}	sup_samucciwaH,10	ciwraraWa	Citraratha				
-8	sixXAnAm	9	sixXAnAM	sixXa{puM}{6;bahu}/sixXa{napuM}{6;bahu}/sixXA{swrI}{6;bahu}	sixXa{puM}{6;bahu}	nirXAraNam,9	sixXoM_meM	of_all_those_who_are_perfected				
-9	kapilaH	11	kapilo	kapila{puM}{1;eka}	kapila{puM}{1;eka}	viXeya_viSeRaNam,10.1	muni	Kapila				
-10	muniH	10	muniH	muni{puM}{1;eka}	muni{puM}{1;eka}	viSeRaNam,9	kapila	Muni				
-10.1	(asmi)	12	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10.2;akarmakaH	(hUz)	am				
-10.2	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,10.1	(mEM)	I				
+1	अश्वत्थः	3	अश्वत्थः	अश्वत्थ{पुं}{1;एक}	अश्वत्थ{पुं}{1;एक}	सुप्_समुच्चितः,10	पीपल_का_वृक्ष	ट्हे_बन्यन्_ट्रेए				
+2	सर्व-वृक्षाणाम्	2	सर्ववृक्षाणां	सर्व-वृक्ष{पुं}{6;बहु}	सर्व-वृक्ष{पुं}{6;बहु}	निर्धारणम्,1	सब_वृक्षों_में	ओङ्_अल्ल्_ट्रेएस्	<सर्व-वृक्षाणां>ख्1			
+3	देव-ऋषीणाम्	4	देवर्षीणां	देव-ऋषि{पुं}{6;बहु}	देव-ऋषि{पुं}{6;बहु}	निर्धारणम्,5	देवर्षियों_में	ओङ्_अल्ल्_ट्हे_सगेस्_अमोन्ग्स्ट्_ट्हे_डेमिगोड्स्	<देव-ऋषीणां>ख्6			
+4	च	8	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,10	और	अन्ड्				
+5	नारदः	5	नारदः	नारद{पुं}{1;एक}	नारद{पुं}{1;एक}	सुप्_समुच्चितः,10	नारद_मुनि	णरड				
+6	गन्धर्वाणाम्	6	गन्धर्वाणां	गन्धर्व{पुं}{6;बहु}	गन्धर्व{पुं}{6;बहु}	निर्धारणम्,7	गन्धर्वों_में	ट्हे_चिटिँएन्स्_ओङ्_ट्हे_घन्ड्हर्व_प्लनेट्				
+7	चित्ररथः	7	चित्ररथः	चित्ररथ{पुं}{1;एक}	चित्ररथ{पुं}{1;एक}	सुप्_समुच्चितः,10	चित्ररथ	छिट्ररट्ह				
+8	सिद्धानाम्	9	सिद्धानां	सिद्ध{पुं}{6;बहु}/सिद्ध{नपुं}{6;बहु}/सिद्धा{स्त्री}{6;बहु}	सिद्ध{पुं}{6;बहु}	निर्धारणम्,9	सिद्धों_में	ओङ्_अल्ल्_ट्होसे_त्हो_अरे_पेर्ङेच्टेड्				
+9	कपिलः	11	कपिलो	कपिल{पुं}{1;एक}	कपिल{पुं}{1;एक}	विधेय_विशेषणम्,10.1	मुनि	खपिल				
+10	मुनिः	10	मुनिः	मुनि{पुं}{1;एक}	मुनि{पुं}{1;एक}	विशेषणम्,9	कपिल	ंउनि				
+10.1	(अस्मि)	12	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,10.2;अकर्मकः	(हूँ)	अम्				
+10.2	(अहम्)	1	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,10.1	(मैं)	ई				

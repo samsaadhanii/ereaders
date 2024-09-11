@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sakwAH	3	sakwAH	sakwa{puM}{1;bahu}/sakwa{puM}{8;bahu}/sakwA{swrI}{1;bahu}/sakwA{swrI}{2;bahu}/sakwA{swrI}{8;bahu}	Ranja1{kqw_prawyayaH:kwa;Ranjaz;BvAxiH;puM}{1;bahu}	viSeRaNam,3	Asakwa_hue	being_attached				
-2	karmaNi	2	karmaNyavixvAMso	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,1	karma_meM	prescribed_duties				
-3	a-vixvAMsaH	4	0	a-vixvas{puM}{1;bahu}/vixvas{puM}{8;bahu}	na-vixvas{puM}{1;bahu}	karwA,5	ajFAnIjana	the_ignorant	<na-vixvAMsaH>Tn			
-4	yaWA	5	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,5;niwya_sambanXaH,9	jisa_prakAra_(karma)	as_much_as				
-5	kurvanwi	6	kurvanwi	kurvaw{napuM}{1;bahu}/kurvaw{napuM}{2;bahu}/kurvaw{napuM}{8;bahu}/kq3{karwari;lat;pra;bahu;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;pra;bahu;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,3;sakarmakaH	karawe_hEM	do_it				
-6	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,5	he_BArawa	O_descendant_of_Bharata				
-7	kuryAw	12	kuryAxvixvAMswaWAsakwaScikIrRurlokasafgraham	kq3{karwari;viXilif;pra;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;viXilif;pra;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,8;sakarmakaH	kare	must_do				
-8	vixvAn	8	0	vixvas{puM}{1;eka}	vixvas{puM}{1;eka}	karwA,7	vixvAn	the_learned				
-9	waWA	11	0	waWA{avya}	waWA{avya}	kriyAviSeRaNam,7	usI_prakAra_(karma)	thus				
-10	a-sakwaH	7	0	a-sakwa{puM}{1;eka}	asakwa{puM}{1;eka}	viSeRaNam,8	Asakwirahiwa	without_attachment	<na-sakwaH>Tn			
-11	cikIrRuH	10	0	cikIrRu{puM}{1;eka}	cikIrRu{puM}{1;eka}	viSeRaNam,8	karanA_cAhawA_huA	desiring_to				
-12	loka-safgraham	9	0	loka-safgraha{puM}{2;eka}	loka-safgraha{puM}{2;eka}	karma,11	loka-saMgraha	leading_the_people_in_general	<loka-safgraham>T6			
+1	सक्ताः	3	सक्ताः	सक्त{पुं}{1;बहु}/सक्त{पुं}{8;बहु}/सक्ता{स्त्री}{1;बहु}/सक्ता{स्त्री}{2;बहु}/सक्ता{स्त्री}{8;बहु}	षन्ज1{कृत्_प्रत्ययः:क्त;षन्जँ;भ्वादिः;पुं}{1;बहु}	विशेषणम्,3	आसक्त_हुए	बेइन्ग्_अट्टच्हेड्				
+2	कर्मणि	2	कर्मण्यविद्वांसो	कर्मन्{नपुं}{7;एक}	कर्मन्{नपुं}{7;एक}	अधिकरणम्,1	कर्म_में	प्रेस्च्रिबेड्_डुटिएस्				
+3	अ-विद्वांसः	4	0	अ-विद्वस्{पुं}{1;बहु}/विद्वस्{पुं}{8;बहु}	न-विद्वस्{पुं}{1;बहु}	कर्ता,5	अज्ञानीजन	ट्हे_इग्नोरन्ट्	<न-विद्वांसः>ठ्न्			
+4	यथा	5	यथा	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,5;नित्य_सम्बन्धः,9	जिस_प्रकार_(कर्म)	अस्_मुच्ह्_अस्				
+5	कुर्वन्ति	6	कुर्वन्ति	कुर्वत्{नपुं}{1;बहु}/कुर्वत्{नपुं}{2;बहु}/कुर्वत्{नपुं}{8;बहु}/कृ3{कर्तरि;लट्;प्र;बहु;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लट्;प्र;बहु;परस्मैपदी;डुकृञ्;तनादिः}	अभिहितकर्ता,3;सकर्मकः	करते_हैं	डो_इट्				
+6	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,5	हे_भारत	औ_डेस्चेन्डन्ट्_ओङ्_भ्हरट				
+7	कुर्यात्	12	कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसङ्ग्रहम्	कृ3{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}	अभिहितकर्ता,8;सकर्मकः	करे	मुस्ट्_डो				
+8	विद्वान्	8	0	विद्वस्{पुं}{1;एक}	विद्वस्{पुं}{1;एक}	कर्ता,7	विद्वान्	ट्हे_लेअर्नेड्				
+9	तथा	11	0	तथा{अव्य}	तथा{अव्य}	क्रियाविशेषणम्,7	उसी_प्रकार_(कर्म)	ट्हुस्				
+10	अ-सक्तः	7	0	अ-सक्त{पुं}{1;एक}	असक्त{पुं}{1;एक}	विशेषणम्,8	आसक्तिरहित	तिट्होउट्_अट्टच्ह्मेन्ट्	<न-सक्तः>ठ्न्			
+11	चिकीर्षुः	10	0	चिकीर्षु{पुं}{1;एक}	चिकीर्षु{पुं}{1;एक}	विशेषणम्,8	करना_चाहता_हुआ	डेसिरिन्ग्_टो				
+12	लोक-सङ्ग्रहम्	9	0	लोक-सङ्ग्रह{पुं}{2;एक}	लोक-सङ्ग्रह{पुं}{2;एक}	कर्म,11	लोक-संग्रह	लेअडिन्ग्_ट्हे_पेओप्ले_इन्_गेनेरल्	<लोक-सङ्ग्रहम्>ठ्6			

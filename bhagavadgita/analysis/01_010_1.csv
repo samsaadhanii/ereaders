@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-paryApwam	5	aparyApwaM	a-paryApwa{napuM}{1;eka}/paryApwa{napuM}{2;eka}	aparyApwa{napuM}{1;eka}	viXeya_viSeRaNam,5.1	saba_prakAra_se_ajeya	unconquerable	<na-paryApwaM>Tn			
-2	waw	3	waxasmAkaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,4	vaha	that				
-3	asmAkam	2	0	asmax{6;bahu}	asmax{6;bahu}	RaRTIsambanXaH,4	hamArI	of_ours				
-4	balam	4	balaM	bala{puM}{2;eka}/bala{napuM}{1;eka}/bala{napuM}{2;eka}	bala{napuM}{1;eka}	karwA,5.1	senA	army				
-5	BIRma-aBirakRiwam	1	BIRmABirakRiwam	BIRma-aBirakRiwa{puM}{2;eka}/aBirakRiwa{napuM}{1;eka}/aBirakRiwa{napuM}{2;eka}	BIRma-aBirakRiwa{napuM}{1;eka}	viSeRaNam,4	BIRmapiwAmaha_xvArA_rakRiwa	fully_protected_by_Bhisma	<BIRma-aBirakRiwam>T3			
-5.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,4;akarmakaH	(hE)	is				
-7	paryApwam	12	paryApwaM	paryApwa{napuM}{1;eka}/paryApwa{napuM}{2;eka}	paryApwa{napuM}{1;eka}	viXeya_viSeRaNam,12.1	jIwane_meM_sugama	easy_to_conquer				
-8	wu	7	wvixameweRAM	wu{avya}	wu{avya}	sambanXaH,12.1	Ora	but				
-9	ixam	10	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,11	yaha	all_this				
-10	eweRAm	9	0	ewax{puM}{6;bahu}/ewax{napuM}{6;bahu}	ewax{puM}{6;bahu}	RaRTIsambanXaH,11	ina_kI	of_the_Pandavas				
-11	balam	11	balaM	bala{puM}{2;eka}/bala{napuM}{1;eka}/bala{napuM}{2;eka}	bala{napuM}{1;eka}	karwA,12.1	senA	army				
-12	BIma-aBirakRiwam	8	BI्mABirakRiwam	BIma-aBirakRiwa{puM}{2;eka}/aBirakRiwa{napuM}{1;eka}/aBirakRiwa{napuM}{2;eka}	BIma-aBirakRiwa{puM}{1;eka}	viSeRaNam,11	BI्ma_xvArA_rakRiwa	fully_protected_by_Bhisma	<BI्ma-aBirakRiwam>T3			
-12.1	(aswi)	13	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,11;akarmakaH	(hE)	is				
+1	अ-पर्याप्तम्	5	अपर्याप्तं	अ-पर्याप्त{नपुं}{1;एक}/पर्याप्त{नपुं}{2;एक}	अपर्याप्त{नपुं}{1;एक}	विधेय_विशेषणम्,5.1	सब_प्रकार_से_अजेय	उन्चोनृउएरब्ले	<न-पर्याप्तं>ठ्न्			
+2	तत्	3	तदस्माकं	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	विशेषणम्,4	वह	ट्हट्				
+3	अस्माकम्	2	0	अस्मद्{6;बहु}	अस्मद्{6;बहु}	षष्ठीसम्बन्धः,4	हमारी	ओङ्_ओउर्स्				
+4	बलम्	4	बलं	बल{पुं}{2;एक}/बल{नपुं}{1;एक}/बल{नपुं}{2;एक}	बल{नपुं}{1;एक}	कर्ता,5.1	सेना	अर्म्य्				
+5	भीष्म-अभिरक्षितम्	1	भीष्माभिरक्षितम्	भीष्म-अभिरक्षित{पुं}{2;एक}/अभिरक्षित{नपुं}{1;एक}/अभिरक्षित{नपुं}{2;एक}	भीष्म-अभिरक्षित{नपुं}{1;एक}	विशेषणम्,4	भीष्मपितामह_द्वारा_रक्षित	ङुल्ल्य्_प्रोटेच्टेड्_ब्य्_भ्हिस्म	<भीष्म-अभिरक्षितम्>ठ्3			
+5.1	(अस्ति)	6	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,4;अकर्मकः	(है)	इस्				
+7	पर्याप्तम्	12	पर्याप्तं	पर्याप्त{नपुं}{1;एक}/पर्याप्त{नपुं}{2;एक}	पर्याप्त{नपुं}{1;एक}	विधेय_विशेषणम्,12.1	जीतने_में_सुगम	एअस्य्_टो_चोनृउएर्				
+8	तु	7	त्विदमेतेषां	तु{अव्य}	तु{अव्य}	सम्बन्धः,12.1	और	बुट्				
+9	इदम्	10	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	विशेषणम्,11	यह	अल्ल्_ट्हिस्				
+10	एतेषाम्	9	0	एतद्{पुं}{6;बहु}/एतद्{नपुं}{6;बहु}	एतद्{पुं}{6;बहु}	षष्ठीसम्बन्धः,11	इन_की	ओङ्_ट्हे_फन्डवस्				
+11	बलम्	11	बलं	बल{पुं}{2;एक}/बल{नपुं}{1;एक}/बल{नपुं}{2;एक}	बल{नपुं}{1;एक}	कर्ता,12.1	सेना	अर्म्य्				
+12	भीम-अभिरक्षितम्	8	भीॆआमाभिरक्षितम्	भीम-अभिरक्षित{पुं}{2;एक}/अभिरक्षित{नपुं}{1;एक}/अभिरक्षित{नपुं}{2;एक}	भीम-अभिरक्षित{पुं}{1;एक}	विशेषणम्,11	भीॆआम_द्वारा_रक्षित	ङुल्ल्य्_प्रोटेच्टेड्_ब्य्_भ्हिस्म	<भीॆआम-अभिरक्षितम्>ठ्3			
+12.1	(अस्ति)	13	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,11;अकर्मकः	(है)	इस्				

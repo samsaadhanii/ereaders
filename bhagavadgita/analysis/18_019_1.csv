@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	jFAnam	2	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	Gataka,4	jFAna	knowledge				
-2	karma	4	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	Gataka,4	karma	work				
-3	ca	3	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	also				
-4	karwA	6	karwA	karwq{puM}{1;eka}/kq3{karwari;lut;pra;eka;parasmEpaxI;dukqF;wanAxiH}/kq3{karwari;lut;pra;eka;AwmanepaxI;dukqF;wanAxiH}	karwq{puM}{1;eka}	Gataka,4	karwA	worker				
-5	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	waWA	also				
-5.1	(iwi)	8	(0)	(iwi{avya})	(iwi{avya})	Gataka_xyowakaH,6	(ina)	thus				
-6	wriXA	9	wriXEva	wri{xA}/wriXA{avya}	wriXA{avya}	karma,9	wIna-wIna_prakAra_ke	three_kinds				
-7	eva	10	0	eva{avya}	eva{avya}	sambanXaH,6	hI	certainly				
-8	guNa-BexawaH	7	guNaBexawaH		guNaBexawaH{avya}	kriyAviSeRaNam,9	guNoM_ke_Bexa_se	in_terms_of_different_modes_of_material_nature	<guNa-BexawaH>T6			
-9	procyawe	11	procyawe	procyawe	pra_vac1{karmaNi;lat;pra;eka;AwmanepaxI;pra_vacaz;axAxiH}	aBihiwakarma,6;sakarmakaH	kahe_gaye_hEM	is_said				
-10	guNa-safKyAne	1	guNasafKyAne	guNasafKyAna{napuM}{1;xvi}/guNasafKyAna{napuM}{2;xvi}/guNasafKyAna{napuM}{7;eka}	guNa-safKyAna{napuM}{7;eka}	aXikaraNam,9	guNoM_kI_saMKyA_karanevAle_SAswra_meM	in_terms_of_different_modes	<guNa-safKyAne>T6			
-11	yaWAvaw	15	yaWAvacCqNu	yaWAvaw{avya}	yaWAvaw{avya}	kriyAviSeRaNam,12	BalIBAzwi	as_they_act				
-12	SqNu	16	0	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,14.1;sakarmakaH	suna	hear				
-13	wAni	12	wAnyapi	wax{napuM}{1;bahu}/wax{napuM}{2;bahu}	wax{napuM}{2;bahu}	karma,12	unako	all_of_them				
-14	api	13	0	api{avya}	api{avya}	sambanXaH,13	BI	also				
-14.1	(wvam)	14	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wU)	you				
+1	ज्ञानम्	2	ज्ञानं	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{1;एक}	घटक,4	ज्ञान	क्नोत्लेड्गे				
+2	कर्म	4	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{1;एक}	घटक,4	कर्म	तोर्क्				
+3	च	3	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	और	अल्सो				
+4	कर्ता	6	कर्ता	कर्तृ{पुं}{1;एक}/कृ3{कर्तरि;लुट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}/कृ3{कर्तरि;लुट्;प्र;एक;आत्मनेपदी;डुकृञ्;तनादिः}	कर्तृ{पुं}{1;एक}	घटक,4	कर्ता	तोर्केर्				
+5	च	5	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,4	तथा	अल्सो				
+5.1	(इति)	8	(0)	(इति{अव्य})	(इति{अव्य})	घटक_द्योतकः,6	(इन)	ट्हुस्				
+6	त्रिधा	9	त्रिधैव	त्रि{दा}/त्रिधा{अव्य}	त्रिधा{अव्य}	कर्म,9	तीन-तीन_प्रकार_के	ट्ह्रेए_किन्ड्स्				
+7	एव	10	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,6	ही	चेर्टइन्ल्य्				
+8	गुण-भेदतः	7	गुणभेदतः		गुणभेदतः{अव्य}	क्रियाविशेषणम्,9	गुणों_के_भेद_से	इन्_टेर्म्स्_ओङ्_डिङ्ङेरेन्ट्_मोडेस्_ओङ्_मटेरिअल्_नटुरे	<गुण-भेदतः>ठ्6			
+9	प्रोच्यते	11	प्रोच्यते	प्रोच्यते	प्र_वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;प्र_वचँ;अदादिः}	अभिहितकर्म,6;सकर्मकः	कहे_गये_हैं	इस्_सइड्				
+10	गुण-सङ्ख्याने	1	गुणसङ्ख्याने	गुणसङ्ख्यान{नपुं}{1;द्वि}/गुणसङ्ख्यान{नपुं}{2;द्वि}/गुणसङ्ख्यान{नपुं}{7;एक}	गुण-सङ्ख्यान{नपुं}{7;एक}	अधिकरणम्,9	गुणों_की_संख्या_करनेवाले_शास्त्र_में	इन्_टेर्म्स्_ओङ्_डिङ्ङेरेन्ट्_मोडेस्	<गुण-सङ्ख्याने>ठ्6			
+11	यथावत्	15	यथावच्छृणु	यथावत्{अव्य}	यथावत्{अव्य}	क्रियाविशेषणम्,12	भलीभाँति	अस्_ट्हेय्_अच्ट्				
+12	शृणु	16	0	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	अभिहितकर्ता,14.1;सकर्मकः	सुन	हेअर्				
+13	तानि	12	तान्यपि	तद्{नपुं}{1;बहु}/तद्{नपुं}{2;बहु}	तद्{नपुं}{2;बहु}	कर्म,12	उनको	अल्ल्_ओङ्_ट्हेम्				
+14	अपि	13	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,13	भी	अल्सो				
+14.1	(त्वम्)	14	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,12	(तू)	योउ				

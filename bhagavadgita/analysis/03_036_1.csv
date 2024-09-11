@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aWa	2	aWa	aWa{avya}	aWa{avya}	sambanXaH,4	Pira	hereafter				
-2	kena	10	kena	kim{puM}{3;eka}/kim{napuM}{3;eka}	kim{puM}{3;eka}	hewuH,3	kisase	by_what				
-3	prayukwaH	11	prayukwoZyaM	prayukwa{puM}{1;eka}	pra_yuj2{kqw_prawyayaH:kwa;pra_yujizr;ruXAxiH;puM}{1;eka}	viSeRaNam,7	preriwa_hokara	impelled				
-4	ayam	3	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,7	yaha	one				
-5	pApam	12	pApaM	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{2;eka}	karma,6	pApa_kA	sins				
-6	carawi	13	carawi	caraw{puM}{7;eka}/caraw{napuM}{7;eka}/car1{karwari;lat;pra;eka;parasmEpaxI;caraz;BvAxiH}	car1{karwari;lat;pra;eka;parasmEpaxI;caraz;BvAxiH}	aBihiwa_karwA,7;sakarmakaH	AcaraNa_karawA_hE	acts				
-7	pUruRaH	4	pUruRaH	pUruRa{puM}{1;eka}	pUruRa{puM}{1;eka}	karwA,6	manuRya	a_man				
-8	an-icCan	5	anicCannapi	an-{avya}-icCan	na-iR2{kqw_prawyayaH:Sawq;iRuz;wuxAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,6	na_cAhawA_huA	without_desiring	<na-icCan>Tn			
-9	api	6	0	api{avya}	api{avya}	sambanXaH,8	BI	although				
-10	vArRNeya	1	vArRNeya	vArRNeya{puM}{8;eka}	vArRNeya{puM}{8;eka}	samboXyaH,6	he_kqRNa	O_descendant_of_Vrsni				
-11	balAw	7	balAxiva	bala{puM}{5;eka}/bala{napuM}{5;eka}	bala{napuM}{5;eka}	hewuH,13	balAw	by_force				
-12	iva	9	0	iva{avya}	iva{avya}	sambanXaH,13	BAzwi	as_if				
-13	niyojiwaH	8	niyojiwaH	niyojiwa{puM}{1;eka}	ni_yuj2{kqw_prawyayaH:kwa;ni_yujizr;ruXAxiH;puM}{1;eka}	viSeRaNam,7	kAma_karAe_hue_kI	engaged				
+1	अथ	2	अथ	अथ{अव्य}	अथ{अव्य}	सम्बन्धः,4	फिर	हेरेअङ्टेर्				
+2	केन	10	केन	किम्{पुं}{3;एक}/किम्{नपुं}{3;एक}	किम्{पुं}{3;एक}	हेतुः,3	किससे	ब्य्_त्हट्				
+3	प्रयुक्तः	11	प्रयुक्तोऽयं	प्रयुक्त{पुं}{1;एक}	प्र_युज्2{कृत्_प्रत्ययः:क्त;प्र_युजिँर्;रुधादिः;पुं}{1;एक}	विशेषणम्,7	प्रेरित_होकर	इम्पेल्लेड्				
+4	अयम्	3	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	विशेषणम्,7	यह	ओने				
+5	पापम्	12	पापं	पाप{पुं}{2;एक}/पाप{नपुं}{1;एक}/पाप{नपुं}{2;एक}	पाप{नपुं}{2;एक}	कर्म,6	पाप_का	सिन्स्				
+6	चरति	13	चरति	चरत्{पुं}{7;एक}/चरत्{नपुं}{7;एक}/चर्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;चरँ;भ्वादिः}	चर्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;चरँ;भ्वादिः}	अभिहित_कर्ता,7;सकर्मकः	आचरण_करता_है	अच्ट्स्				
+7	पूरुषः	4	पूरुषः	पूरुष{पुं}{1;एक}	पूरुष{पुं}{1;एक}	कर्ता,6	मनुष्य	अ_मन्				
+8	अन्-इच्छन्	5	अनिच्छन्नपि	अन्-{अव्य}-इच्छन्	न-इष्2{कृत्_प्रत्ययः:शतृ;इषुँ;तुदादिः;पुं}{1;एक}	वर्तमानसमानकालः,6	न_चाहता_हुआ	तिट्होउट्_डेसिरिन्ग्	<न-इच्छन्>ठ्न्			
+9	अपि	6	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,8	भी	अल्ट्होउग्ह्				
+10	वार्ष्णेय	1	वार्ष्णेय	वार्ष्णेय{पुं}{8;एक}	वार्ष्णेय{पुं}{8;एक}	सम्बोध्यः,6	हे_कृष्ण	औ_डेस्चेन्डन्ट्_ओङ्_Vर्स्नि				
+11	बलात्	7	बलादिव	बल{पुं}{5;एक}/बल{नपुं}{5;एक}	बल{नपुं}{5;एक}	हेतुः,13	बलात्	ब्य्_ङोर्चे				
+12	इव	9	0	इव{अव्य}	इव{अव्य}	सम्बन्धः,13	भाँति	अस्_इङ्				
+13	नियोजितः	8	नियोजितः	नियोजित{पुं}{1;एक}	नि_युज्2{कृत्_प्रत्ययः:क्त;नि_युजिँर्;रुधादिः;पुं}{1;एक}	विशेषणम्,7	काम_कराए_हुए_की	एन्गगेड्				

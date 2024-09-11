@@ -1,23 +1,23 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SucO	1	SucO	Suc{swrI}{1;xvi}/Suc{swrI}{2;xvi}/Suci{puM}{7;eka}/Suci{swrI}{7;eka}	Suci{puM}{7;eka}	viSeRaNam,2	SuxXa	in_a_sanctified				
-2	xeSe	2	xeSe	xeSa{puM}{7;eka}	xeSa{puM}{7;eka}	aXikaraNam,3	BUmi_meM	in_the_land				
-3	prawiRTApya	11	prawiRTApya	prawiRTApya{puM}{8;eka}/prawiRTApya{napuM}{8;eka}	prawi_sWA1_Nic{kqw_prawyayaH:lyap;prawi_RTA_Nic;BvAxiH}	pUrvakAlaH,19	sWApana_karake	placing				
-4	sWiram	10	sWiramAsanamAwmanaH	sWira{puM}{2;eka}	sWira{napuM}{2;eka}	viSeRaNam,5	sWira	firm				
-5	Asanam	9	0	Asana{napuM}{1;eka}/Asana{napuM}{2;eka}	Asana{napuM}{2;eka}	karma,3	Asana_ko	seat				
-6	AwmanaH	8	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,5	apane	self-dependent				
-7	na	3	nAwyucCriwaM	na{avya}	na{avya}	sambanXaH,8	na	not				
-8	awyucCriwam	4	0	awyucCriwam	awi_uw_Sri1{kqw_prawyayaH:kwa;awi_uw_SriF;BvAxiH;napuM}{2;eka}	viSeRaNam,5	bahuwa_UzcA	too_high				
-9	na	5	nAwinIcaM	na{avya}	na{avya}	sambanXaH,10	na	nor				
-10	awi-nIcam	6	0	awinIca{puM}{2;eka}/awinIca{napuM}{1;eka}/awinIca{napuM}{2;eka}	awi-nIca{napuM}{2;eka}	viSeRaNam,5	bahuwa_nIcA	too_low				
-11	cEla-ajina-kuSa-uwwaram	7	cElAjinakuSowwaram	cEla-ajina-kuSa-uwwaram{avya}/uwwara{puM}{2;eka}/uwwara{napuM}{1;eka}/uwwara{napuM}{2;eka}/uwwara{puM}{2;eka}/uwwara{napuM}{1;eka}/uwwara{napuM}{2;eka}	cEla-ajina-kuSa-uwwara{napuM}{2;eka}	viSeRaNam,5	kuSA_mqgaCAlA_Ora_vaswra_biCe	kusa_grass,_soft_cloth_and_deerskin	<<cEla-ajina-kuSa>Di-uwwaram>Bs7			
-12	wawra	12	wawrEkAgraM	wawra{avya}	wawra{avya}	viSeRaNam,18	usa	thereupon				
-13	eka-agram	16	0	eka-agra{napuM}{1;eka}/agra{napuM}{2;eka}	agra{napuM}{2;eka}	karmasamAnAXikaraNam,15	ekAgra	one_attention	<eka-agram>Bs6			
-14	manaH	15	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}	manas{napuM}{2;eka}	karma,15	mana_ko	mind				
-15	kqwvA	17	kqwvA	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,19	karake	doing_so				
-16	yawa-ciwwa-inxriya-kriyaH	18	yawaciwwenxriyakriyaH	yawa-ciwwa-inxriya-kriyaH	yawa-ciwwa-inxriya-kriya{puM}{1;eka}	viSeRaNam,21.1	ciwwa_Ora_inxriyoM_kI_kriyAoM_ko_vaSa_meM_raKawe_hue	controlling_the_activities_of_the_mind_and_senses	<yawa-<<ciwwa-inxriya>Di-kriyaH>T6>Bs3			
-17	upaviSya	14	upaviSyAsane	upa_viS1{kqw_prawyayaH:lyap;viSaz;wuxAxiH}	upa_viS1{kqw_prawyayaH:lyap;upa_viSaz;wuxAxiH}	pUrvakAlaH,19	bETakara	sitting_on				
-18	Asane	13	0	Asana{napuM}{1;xvi}/Asana{napuM}{2;xvi}/Asana{napuM}{7;eka}	Asana{napuM}{7;eka}	aXikaraNam,17	Asana_para	on_the_seat				
-19	yuFjyAw	22	yuFjyAxyogamAwmaviSuxXaye	yuj2{karwari;viXilif;pra;eka;parasmEpaxI;yujizr;ruXAxiH}	yuj2{karwari;viXilif;pra;eka;parasmEpaxI;yujizr;ruXAxiH}	aBihiwa_karwA,21.1	aByAsa_kare	execute				
-20	yogam	20	0	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,19	yoga_kA	yoga_practice				
-21	Awma-viSuxXaye	19	0	Awman-viSuxXi{swrI}{4;eka}	Awman-viSuxXi{swrI}{4;eka}	prayojanam,19	anwaHkaraNa_kI_SuxXi_ke_liye	for_clarifying_the_heart	<Awma-viSuxXaye>T6			
-21.1	(yogI)	21	(0)	yogin puM 1 eka	yogin puM 1 eka	karwA,19						
+1	शुचौ	1	शुचौ	शुच्{स्त्री}{1;द्वि}/शुच्{स्त्री}{2;द्वि}/शुचि{पुं}{7;एक}/शुचि{स्त्री}{7;एक}	शुचि{पुं}{7;एक}	विशेषणम्,2	शुद्ध	इन्_अ_सन्च्टिङिएड्				
+2	देशे	2	देशे	देश{पुं}{7;एक}	देश{पुं}{7;एक}	अधिकरणम्,3	भूमि_में	इन्_ट्हे_लन्ड्				
+3	प्रतिष्ठाप्य	11	प्रतिष्ठाप्य	प्रतिष्ठाप्य{पुं}{8;एक}/प्रतिष्ठाप्य{नपुं}{8;एक}	प्रति_स्था1_णिच्{कृत्_प्रत्ययः:ल्यप्;प्रति_ष्ठा_णिच्;भ्वादिः}	पूर्वकालः,19	स्थापन_करके	प्लचिन्ग्				
+4	स्थिरम्	10	स्थिरमासनमात्मनः	स्थिर{पुं}{2;एक}	स्थिर{नपुं}{2;एक}	विशेषणम्,5	स्थिर	ङिर्म्				
+5	आसनम्	9	0	आसन{नपुं}{1;एक}/आसन{नपुं}{2;एक}	आसन{नपुं}{2;एक}	कर्म,3	आसन_को	सेअट्				
+6	आत्मनः	8	0	आत्मन्{पुं}{2;बहु}/आत्मन्{पुं}{5;एक}/आत्मन्{पुं}{6;एक}	आत्मन्{पुं}{6;एक}	षष्ठीसम्बन्धः,5	अपने	सेल्ङ्-डेपेन्डेन्ट्				
+7	न	3	नात्युच्छ्रितं	न{अव्य}	न{अव्य}	सम्बन्धः,8	न	नोट्				
+8	अत्युच्छ्रितम्	4	0	अत्युच्छ्रितम्	अति_उत्_श्रि1{कृत्_प्रत्ययः:क्त;अति_उत्_श्रिञ्;भ्वादिः;नपुं}{2;एक}	विशेषणम्,5	बहुत_ऊँचा	टोओ_हिग्ह्				
+9	न	5	नातिनीचं	न{अव्य}	न{अव्य}	सम्बन्धः,10	न	नोर्				
+10	अति-नीचम्	6	0	अतिनीच{पुं}{2;एक}/अतिनीच{नपुं}{1;एक}/अतिनीच{नपुं}{2;एक}	अति-नीच{नपुं}{2;एक}	विशेषणम्,5	बहुत_नीचा	टोओ_लोत्				
+11	चैल-अजिन-कुश-उत्तरम्	7	चैलाजिनकुशोत्तरम्	चैल-अजिन-कुश-उत्तरम्{अव्य}/उत्तर{पुं}{2;एक}/उत्तर{नपुं}{1;एक}/उत्तर{नपुं}{2;एक}/उत्तर{पुं}{2;एक}/उत्तर{नपुं}{1;एक}/उत्तर{नपुं}{2;एक}	चैल-अजिन-कुश-उत्तर{नपुं}{2;एक}	विशेषणम्,5	कुशा_मृगछाला_और_वस्त्र_बिछे	कुस_ग्रस्स्,_सोङ्ट्_च्लोट्ह्_अन्ड्_डेएर्स्किन्	<<चैल-अजिन-कुश>ढि-उत्तरम्>भ्स्7			
+12	तत्र	12	तत्रैकाग्रं	तत्र{अव्य}	तत्र{अव्य}	विशेषणम्,18	उस	ट्हेरेउपोन्				
+13	एक-अग्रम्	16	0	एक-अग्र{नपुं}{1;एक}/अग्र{नपुं}{2;एक}	अग्र{नपुं}{2;एक}	कर्मसमानाधिकरणम्,15	एकाग्र	ओने_अट्टेन्टिओन्	<एक-अग्रम्>भ्स्6			
+14	मनः	15	मनः	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}	मनस्{नपुं}{2;एक}	कर्म,15	मन_को	मिन्ड्				
+15	कृत्वा	17	कृत्वा	कृ1{कृत्_प्रत्ययः:क्त्वा;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:क्त्वा;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	पूर्वकालः,19	करके	डोइन्ग्_सो				
+16	यत-चित्त-इन्द्रिय-क्रियः	18	यतचित्तेन्द्रियक्रियः	यत-चित्त-इन्द्रिय-क्रियः	यत-चित्त-इन्द्रिय-क्रिय{पुं}{1;एक}	विशेषणम्,21.1	चित्त_और_इन्द्रियों_की_क्रियाओं_को_वश_में_रखते_हुए	चोन्ट्रोल्लिन्ग्_ट्हे_अच्टिविटिएस्_ओङ्_ट्हे_मिन्ड्_अन्ड्_सेन्सेस्	<यत-<<चित्त-इन्द्रिय>ढि-क्रियः>ठ्6>भ्स्3			
+17	उपविश्य	14	उपविश्यासने	उप_विश्1{कृत्_प्रत्ययः:ल्यप्;विशँ;तुदादिः}	उप_विश्1{कृत्_प्रत्ययः:ल्यप्;उप_विशँ;तुदादिः}	पूर्वकालः,19	बैठकर	सिट्टिन्ग्_ओन्				
+18	आसने	13	0	आसन{नपुं}{1;द्वि}/आसन{नपुं}{2;द्वि}/आसन{नपुं}{7;एक}	आसन{नपुं}{7;एक}	अधिकरणम्,17	आसन_पर	ओन्_ट्हे_सेअट्				
+19	युञ्ज्यात्	22	युञ्ज्याद्योगमात्मविशुद्धये	युज्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;युजिँर्;रुधादिः}	युज्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;युजिँर्;रुधादिः}	अभिहित_कर्ता,21.1	अभ्यास_करे	एदेचुटे				
+20	योगम्	20	0	योग{पुं}{2;एक}	योग{पुं}{2;एक}	कर्म,19	योग_का	योग_प्रच्टिचे				
+21	आत्म-विशुद्धये	19	0	आत्मन्-विशुद्धि{स्त्री}{4;एक}	आत्मन्-विशुद्धि{स्त्री}{4;एक}	प्रयोजनम्,19	अन्तःकरण_की_शुद्धि_के_लिये	ङोर्_च्लरिङ्यिन्ग्_ट्हे_हेअर्ट्	<आत्म-विशुद्धये>ठ्6			
+21.1	(योगी)	21	(0)	योगिन्तपुं 1 एक	योगिन्तपुं 1 एक	कर्ता,19						

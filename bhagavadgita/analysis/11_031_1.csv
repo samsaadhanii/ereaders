@@ -1,24 +1,24 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	AKyAhi	2	AKyAhi	Af_KyA1{karwari;lot;ma;eka;parasmEpaxI;KyA;axAxiH}	Af_KyA1{karwari;lot;ma;eka;parasmEpaxI;Af_KyA;axAxiH}	aBihiwa_karwA,5.2	bawalAiye	please_explain				
-2	me	1	me	asmax{6;eka}	asmax{6;eka}	sampraxAnam,1	muJe	unto_me				
-3	kaH	5	ko	kim{puM}{1;eka}	kim{puM}{1;eka}	sambanXaH,5.1	kOna	who				
-4	BavAn	3	BavAnugrarUpo	Bava{puM}{2;bahu}/Bavaw{puM}{1;eka}	Bavaw{puM}{1;eka}	karwA,5.1	Apa	you				
-5	ugra-rUpaH	4	0	ugra-rUpa{puM}{1;eka}	ugra-rUpa{puM}{1;eka}	viSeRaNam,4	ugrarUpavAle	fierce_form	<ugra-rUpaH>Bs6			
-5.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	vAkyakarma,1	(hEM)	is				
-5.2	(wvam)	11	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,1	(Apa)	you				
-6	namaH	9	namoZswu	namaH{avya}	namaH{avya}	karwA,7	namaskAra	obeisances				
-7	aswu	10	0	aswu{avya}/as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,6	ho	be				
-8	we	8	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,7	Apako	unto_You				
-9	xeva-vara	7	xevavara	xeva-vara{puM}{8;eka}/vara{napuM}{8;eka}	xeva-vara{puM}{8;eka}	samboXyaH,7	he_xevoM_meM_SreRTa	the_great_one_amongst_the_demigods	<xeva-vara>T6			
-10	prasIxa	12	prasIxa	pra_sax1{karwari;lot;ma;eka;parasmEpaxI;RaxLz;BvAxiH}/pra_saxa1{karwari;lot;ma;eka;parasmEpaxI;RaxaLz;wuxAxiH}	pra_sax1{karwari;lot;ma;eka;parasmEpaxI;pra_RaxLz;BvAxiH}	aBihiwa_karwA,10.1	prasanna_hoiye	be_gracious				
-10.1	(wvam)	11	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,10	(Apa)	you				
-11	vijFAwum	16	vijFAwumicCAmi	jFA1{avya;wumun;jFA;:kryAxiH}	vi_jFA1{avya;wumun;jFA;:kryAxiH}	karma,12	viSeRarUpa_se_jAnanA_cAhawA_hUz	wish_to_just_know				
-12	icCAmi	17	0	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	aBihiwa_karwA						
-13	Bavanwam	15	BavanwamAxyaM	Bavaw{puM}{2;eka}/Bavanwa{puM}{2;eka}	Bavaw{puM}{2;eka}	viSeRaNam,14	Apako	you				
-14	Axyam	14	0	Axya{puM}{2;eka}/Axya{napuM}{1;eka}/Axya{napuM}{2;eka}	Axya{puM}{2;eka}	karma,11	AxipuruRa	the_original				
-15	na	20	na	na{avya}	na{avya}	prawiReXaH,17	nahIM	never				
-16	hi	18	hi	hi{avya}	hi{avya}	sambanXaH,17	kyoMki	certainly				
-17	prajAnAmi	22	prajAnAmi	prajAnAmi	pra_jFA2{karwari;lat;u;eka;parasmEpaxI;pra_jFA;kryAxiH}	aBihiwa_karwA,10	jAnawA	know				
-18	wava	21	wava	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,19	ApakI	Your				
-19	pravqwwim	20	pravqwwim	pravqwwi{swrI}{2;eka}	pravqwwi{swrI}{2;eka}	karma,17	pravqwwi_ko	mission				
-19.1	(aham)	13	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,17	(mEM)	I				
+1	आख्याहि	2	आख्याहि	आङ्_ख्या1{कर्तरि;लोट्;म;एक;परस्मैपदी;ख्या;अदादिः}	आङ्_ख्या1{कर्तरि;लोट्;म;एक;परस्मैपदी;आङ्_ख्या;अदादिः}	अभिहित_कर्ता,5.2	बतलाइये	प्लेअसे_एद्प्लइन्				
+2	मे	1	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	सम्प्रदानम्,1	मुझे	उन्टो_मे				
+3	कः	5	को	किम्{पुं}{1;एक}	किम्{पुं}{1;एक}	सम्बन्धः,5.1	कौन	त्हो				
+4	भवान्	3	भवानुग्ररूपो	भव{पुं}{2;बहु}/भवत्{पुं}{1;एक}	भवत्{पुं}{1;एक}	कर्ता,5.1	आप	योउ				
+5	उग्र-रूपः	4	0	उग्र-रूप{पुं}{1;एक}	उग्र-रूप{पुं}{1;एक}	विशेषणम्,4	उग्ररूपवाले	ङिएर्चे_ङोर्म्	<उग्र-रूपः>भ्स्6			
+5.1	(अस्ति)	6	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	वाक्यकर्म,1	(हैं)	इस्				
+5.2	(त्वम्)	11	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,1	(आप)	योउ				
+6	नमः	9	नमोऽस्तु	नमः{अव्य}	नमः{अव्य}	कर्ता,7	नमस्कार	ओबेइसन्चेस्				
+7	अस्तु	10	0	अस्तु{अव्य}/अस्2{कर्तरि;लोट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लोट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहित_कर्ता,6	हो	बे				
+8	ते	8	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	सम्प्रदानम्,7	आपको	उन्टो_Yओउ				
+9	देव-वर	7	देववर	देव-वर{पुं}{8;एक}/वर{नपुं}{8;एक}	देव-वर{पुं}{8;एक}	सम्बोध्यः,7	हे_देवों_में_श्रेष्ठ	ट्हे_ग्रेअट्_ओने_अमोन्ग्स्ट्_ट्हे_डेमिगोड्स्	<देव-वर>ठ्6			
+10	प्रसीद	12	प्रसीद	प्र_सद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;षदॢँ;भ्वादिः}/प्र_सद1{कर्तरि;लोट्;म;एक;परस्मैपदी;षदऌँ;तुदादिः}	प्र_सद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;प्र_षदॢँ;भ्वादिः}	अभिहित_कर्ता,10.1	प्रसन्न_होइये	बे_ग्रचिओउस्				
+10.1	(त्वम्)	11	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,10	(आप)	योउ				
+11	विज्ञातुम्	16	विज्ञातुमिच्छामि	ज्ञा1{अव्य;तुमुन्;ज्ञा;:क्र्यादिः}	वि_ज्ञा1{अव्य;तुमुन्;ज्ञा;:क्र्यादिः}	कर्म,12	विशेषरूप_से_जानना_चाहता_हूँ	तिस्ह्_टो_जुस्ट्_क्नोत्				
+12	इच्छामि	17	0	इष्2{कर्तरि;लट्;उ;एक;परस्मैपदी;इषुँ;तुदादिः}	इष्2{कर्तरि;लट्;उ;एक;परस्मैपदी;इषुँ;तुदादिः}	अभिहित_कर्ता						
+13	भवन्तम्	15	भवन्तमाद्यं	भवत्{पुं}{2;एक}/भवन्त{पुं}{2;एक}	भवत्{पुं}{2;एक}	विशेषणम्,14	आपको	योउ				
+14	आद्यम्	14	0	आद्य{पुं}{2;एक}/आद्य{नपुं}{1;एक}/आद्य{नपुं}{2;एक}	आद्य{पुं}{2;एक}	कर्म,11	आदिपुरुष	ट्हे_ओरिगिनल्				
+15	न	20	न	न{अव्य}	न{अव्य}	प्रतिषेधः,17	नहीं	नेवेर्				
+16	हि	18	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,17	क्योंकि	चेर्टइन्ल्य्				
+17	प्रजानामि	22	प्रजानामि	प्रजानामि	प्र_ज्ञा2{कर्तरि;लट्;उ;एक;परस्मैपदी;प्र_ज्ञा;क्र्यादिः}	अभिहित_कर्ता,10	जानता	क्नोत्				
+18	तव	21	तव	युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,19	आपकी	Yओउर्				
+19	प्रवृत्तिम्	20	प्रवृत्तिम्	प्रवृत्ति{स्त्री}{2;एक}	प्रवृत्ति{स्त्री}{2;एक}	कर्म,17	प्रवृत्ति_को	मिस्सिओन्				
+19.1	(अहम्)	13	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,17	(मैं)	ई				

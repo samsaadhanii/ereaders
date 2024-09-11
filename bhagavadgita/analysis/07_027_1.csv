@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	icCA-xveRa-samuwWena	4	icCAxveRasamuwWena	icCA-xveRa-samuwWa{puM}{3;eka}	icCA-xveRa-samuwWa{puM}{3;eka}	viSeRaNam,2	icCA_Ora_xveRa_se_uwpanna	born_from_desire_and_hate	<<icCA-xveRa>Di-samuwWena>T3			
-2	xvanxva-mohena	5	xvanxvamohena	xvanxva-moha{puM}{3;eka}	xvanxva-moha{puM}{3;eka}	karaNam,6	suKa-xuHKAxi_xvanxvarUpa_moha_se	overcome_from_duality	<xvanxva-mohena>Km			
-3	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,7	he_BarawavaMSI	O_scion_of_Bharata				
-4	sarva-BUwAni	6	sarvaBUwAni	sarva-BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	sarva-BUwa{napuM}{1;bahu}	karwA,7	sampUrNa_prANI	all_living_entities	<sarva-BUwAni>K1			
-5	sammoham	7	sammohaM	sammoha{puM}{2;eka}	sammoha{puM}{2;eka}	karma,4	awyanwa_ajFawA_ko	into_delusion				
-6	sarge	3	sarge	sarga{puM}{7;eka}	sarga{puM}{7;eka}	aXikaraNam,5	saMsAra_meM	in_creation				
-7	yAnwi	8	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwa_karwA,1	prApwa_ho_rahe_hEM	go				
-8	paranwapa	2	paranwapa	paranwapa{puM}{8;eka}/paranwapa{napuM}{8;eka}	paranwapa{puM}{8;eka}	viSeRaNam,3	arjuna	O_conqueror_of_enemies				
+1	इच्छा-द्वेष-समुत्थेन	4	इच्छाद्वेषसमुत्थेन	इच्छा-द्वेष-समुत्थ{पुं}{3;एक}	इच्छा-द्वेष-समुत्थ{पुं}{3;एक}	विशेषणम्,2	इच्छा_और_द्वेष_से_उत्पन्न	बोर्न्_ङ्रोम्_डेसिरे_अन्ड्_हटे	<<इच्छा-द्वेष>ढि-समुत्थेन>ठ्3			
+2	द्वन्द्व-मोहेन	5	द्वन्द्वमोहेन	द्वन्द्व-मोह{पुं}{3;एक}	द्वन्द्व-मोह{पुं}{3;एक}	करणम्,6	सुख-दुःखादि_द्वन्द्वरूप_मोह_से	ओवेर्चोमे_ङ्रोम्_डुअलिट्य्	<द्वन्द्व-मोहेन>ख्म्			
+3	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,7	हे_भरतवंशी	औ_स्चिओन्_ओङ्_भ्हरट				
+4	सर्व-भूतानि	6	सर्वभूतानि	सर्व-भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}/भूत{नपुं}{8;बहु}	सर्व-भूत{नपुं}{1;बहु}	कर्ता,7	सम्पूर्ण_प्राणी	अल्ल्_लिविन्ग्_एन्टिटिएस्	<सर्व-भूतानि>ख्1			
+5	सम्मोहम्	7	सम्मोहं	सम्मोह{पुं}{2;एक}	सम्मोह{पुं}{2;एक}	कर्म,4	अत्यन्त_अज्ञता_को	इन्टो_डेलुसिओन्				
+6	सर्गे	3	सर्गे	सर्ग{पुं}{7;एक}	सर्ग{पुं}{7;एक}	अधिकरणम्,5	संसार_में	इन्_च्रेअटिओन्				
+7	यान्ति	8	यान्ति	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	अभिहित_कर्ता,1	प्राप्त_हो_रहे_हैं	गो				
+8	परन्तप	2	परन्तप	परन्तप{पुं}{8;एक}/परन्तप{नपुं}{8;एक}	परन्तप{पुं}{8;एक}	विशेषणम्,3	अर्जुन	औ_चोनृउएरोर्_ओङ्_एनेमिएस्				

@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yajFa-arWAw	1	yajFArWAwkarmaNoZnyawra	yajFa-arWa{puM}{5;eka}/arWa{napuM}{5;eka}	yajFa-arWa{puM}{5;eka}	hewuH,1.1	yajFa_ke_nimiwwa_kiye_jAnevAle	for_the_sake_of_sacrifice	<yajFa-arWAw>T4			
-1.1	(kqwAw)	2	()	kqwa{napuM;5;eka}/kqwa{puM;5;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{napuM;5;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{puM;5;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{napuM;5;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{puM;5;eka(kq1;kwa;kqF;:BvAxiH)}/kqwa{napuM;5;eka(kq1;kwa;kqF;:BvAxiH)}	kqwa{napuM}{5;eka(kq3;kwa;dukqF;:wanAxiH)}	viSeRaNam,2	nirmiwa					
-2	karmaNaH	4	0	karman{napuM}{5;eka}/karman{napuM}{6;eka}	karman{puM}{5;eka}	hewuH,6.1	karmoM_se_awirikwa	other_than_actions				
-3	anyawra	3	0	anyawra{avya}	anyawra{avya}	xeSAXikaraNam,1.1	xUsare_karmoM_meM	other_actions				
-4	lokaH	6	lokoZyaM	loka{puM}{1;eka}	loka{puM}{1;eka}	karwA,6.1	manuRya-samuxAya	world				
-5	ayam	5	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,4	yaha	this				
-6	karma-banXanaH	7	karmabanXanaH	karman-banXana{puM}{1;eka}	karman-banXana{puM}{1;eka}	viXeya_viSeRaNam,6.1	karmoM_se_bazXawA	bound_by_his_own_action	<karma-banXanaH>Bs6			
-6.1	(Bavawi)	8	()	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}/BavawI{swrI;8;eka}/Bavaw{sarvanAma;puM;7;eka}/Bavaw{puM;7;eka}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,4	howA_hE					
-7	waw-arWam	9	waxarWaM	wax-arWa{puM}{2;eka}/arWa{napuM}{1;eka}/arWa{napuM}{2;eka}	wax-arWa{napuM}{2;eka}	prayojanam,11	usa_yajFa_ke_nimiwwa	for_the_sake_of_sacrifice	<waw-arWam>T4			
-8	karma	12	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,11	karwavyakarma	your_duty				
-9	kOnweya	10	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,11	he_arjuna	O_son_of_Kunti				
-9.1	(wvam)	11	()	yuRmax{sarvanAma;1;eka}	yuRmax{1;eka}	karwA,11	wuma					
-10	mukwa-safgaH	13	mukwasafgaH	mukwa-safga{puM}{1;eka}	mukwa-safga{puM}{1;eka}	viSeRaNam,9.1	Asakwi_se_rahiwa_hokara	free_from_attachment	<mukwa-safgaH>Bs3			
-11	samAcara	14	samAcara	sam_Af_car1{karwari;lot;ma;eka;parasmEpaxI;sam_Af_cara1;BvAxiH}	sam_Af_car1{karwari;lot;ma;eka;parasmEpaxI;sam_Af_caraz;BvAxiH}	aBihiwa_karwA,9.1;sakarmaka	kara	efficiently_perform				
+1	यज्ञ-अर्थात्	1	यज्ञार्थात्कर्मणोऽन्यत्र	यज्ञ-अर्थ{पुं}{5;एक}/अर्थ{नपुं}{5;एक}	यज्ञ-अर्थ{पुं}{5;एक}	हेतुः,1.1	यज्ञ_के_निमित्त_किये_जानेवाले	ङोर्_ट्हे_सके_ओङ्_सच्रिङिचे	<यज्ञ-अर्थात्>ठ्4			
+1.1	(कृतात्)	2	()	कृत{नपुं;5;एक}/कृत{पुं;5;एक(कृ3;क्त;डुकृञ्;:तनादिः)}/कृत{नपुं;5;एक(कृ3;क्त;डुकृञ्;:तनादिः)}/कृत{पुं;5;एक(कृ2;क्त;कृञ्;:स्वादिः)}/कृत{नपुं;5;एक(कृ2;क्त;कृञ्;:स्वादिः)}/कृत{पुं;5;एक(कृ1;क्त;कृञ्;:भ्वादिः)}/कृत{नपुं;5;एक(कृ1;क्त;कृञ्;:भ्वादिः)}	कृत{नपुं}{5;एक(कृ3;क्त;डुकृञ्;:तनादिः)}	विशेषणम्,2	निर्मित					
+2	कर्मणः	4	0	कर्मन्{नपुं}{5;एक}/कर्मन्{नपुं}{6;एक}	कर्मन्{पुं}{5;एक}	हेतुः,6.1	कर्मों_से_अतिरिक्त	ओट्हेर्_ट्हन्_अच्टिओन्स्				
+3	अन्यत्र	3	0	अन्यत्र{अव्य}	अन्यत्र{अव्य}	देशाधिकरणम्,1.1	दूसरे_कर्मों_में	ओट्हेर्_अच्टिओन्स्				
+4	लोकः	6	लोकोऽयं	लोक{पुं}{1;एक}	लोक{पुं}{1;एक}	कर्ता,6.1	मनुष्य-समुदाय	तोर्ल्ड्				
+5	अयम्	5	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	विशेषणम्,4	यह	ट्हिस्				
+6	कर्म-बन्धनः	7	कर्मबन्धनः	कर्मन्-बन्धन{पुं}{1;एक}	कर्मन्-बन्धन{पुं}{1;एक}	विधेय_विशेषणम्,6.1	कर्मों_से_बँधता	बोउन्ड्_ब्य्_हिस्_ओत्न्_अच्टिओन्	<कर्म-बन्धनः>भ्स्6			
+6.1	(भवति)	8	()	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;:भ्वादिः}/भवती{स्त्री;8;एक}/भवत्{सर्वनाम;पुं;7;एक}/भवत्{पुं;7;एक}	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;:भ्वादिः}	अभिहित_कर्ता,4	होता_है					
+7	तत्-अर्थम्	9	तदर्थं	तद्-अर्थ{पुं}{2;एक}/अर्थ{नपुं}{1;एक}/अर्थ{नपुं}{2;एक}	तद्-अर्थ{नपुं}{2;एक}	प्रयोजनम्,11	उस_यज्ञ_के_निमित्त	ङोर्_ट्हे_सके_ओङ्_सच्रिङिचे	<तत्-अर्थम्>ठ्4			
+8	कर्म	12	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,11	कर्तव्यकर्म	योउर्_डुट्य्				
+9	कौन्तेय	10	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,11	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+9.1	(त्वम्)	11	()	युष्मद्{सर्वनाम;1;एक}	युष्मद्{1;एक}	कर्ता,11	तुम					
+10	मुक्त-सङ्गः	13	मुक्तसङ्गः	मुक्त-सङ्ग{पुं}{1;एक}	मुक्त-सङ्ग{पुं}{1;एक}	विशेषणम्,9.1	आसक्ति_से_रहित_होकर	ङ्रेए_ङ्रोम्_अट्टच्ह्मेन्ट्	<मुक्त-सङ्गः>भ्स्3			
+11	समाचर	14	समाचर	सम्_आङ्_चर्1{कर्तरि;लोट्;म;एक;परस्मैपदी;सम्_आङ्_चर1;भ्वादिः}	सम्_आङ्_चर्1{कर्तरि;लोट्;म;एक;परस्मैपदी;सम्_आङ्_चरँ;भ्वादिः}	अभिहित_कर्ता,9.1;सकर्मक	कर	एङ्ङिचिएन्ट्ल्य्_पेर्ङोर्म्				

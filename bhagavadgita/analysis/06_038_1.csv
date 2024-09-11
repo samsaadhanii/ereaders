@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kacciw	7	kaccinnoBayaviBraRtaSCinnABramiva	kacciw{avya}	kacciw{avya}	sambanXaH,6	kyA	whether				
-2	na	8	na	na{avya}	na{avya}	prawiReXaH,6	nahIM	not				
-3	uBaya-viBraRtaH	2	0	uBaya-viBraRta{puM}{1;eka}	uBaya-viBraRta{puM}{1;eka}	karwA,6	xonoM_ora_se_BraRta_hokara	deviated_from_both_sides	<uBaya-viBraRtaH>T5			
-4	Cinna-aBram	11	0	Cinna-aBra{napuM}{1;eka}/aBra{napuM}{2;eka}	Cinna-aBra{napuM}{1;eka}	upamAnam,5	Cinna-Binna_bAxala_kI	fallen_cloud	<Cinna-aBram>K1			
-5	iva	10	0	iva{avya}	iva{avya}	sambanXaH,6	BAzwi	like				
-6	naSyawi	9	naSyawi	naSyaw{puM}{7;eka}/naSyaw{napuM}{7;eka}/naS1{karwari;lat;pra;eka;parasmEpaxI;NaSaz;xivAxiH}	naS1{karwari;lat;pra;eka;parasmEpaxI;NaSaz;xivAxiH}	aBihiwa_karwA,3	naRta_ho_jAwA_hE	perishes				
-7	a-prawiRTaH	3	aprawiRTo	a-prawiRTaH	aprawiRTa{puM}{1;eka}	viSeRaNam,3	ASrayarahiwa_puruRa	without_any_position	<na-prawiRTaH>Bsmn			
-8	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,6	he_mahAbAho	O_mighty-armed_Krsna	<mahaw-bAho>Bs6			
-9	vimUDaH	4	vimUDo	vimUDa{puM}{1;eka}	vimUDa{puM}{1;eka}	viSeRaNam,3	mohiwa	bewildered				
-10	brahmaNaH	5	brahmaNaH	brahman{puM}{2;bahu}/brahman{puM}{5;eka}/brahman{puM}{6;eka}/brahman{napuM}{5;eka}/brahman{napuM}{6;eka}	brahman{napuM}{6;eka}	RaRTIsambanXaH,11	BagavawprApwi_ke	of_transcendence				
-11	paWi	6	paWi	paWin{puM}{7;eka}	paWin{puM}{7;eka}	xeSAXikaraNam,6	mArga_meM	on_the_path				
+1	कच्चित्	7	कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव	कच्चित्{अव्य}	कच्चित्{अव्य}	सम्बन्धः,6	क्या	त्हेट्हेर्				
+2	न	8	न	न{अव्य}	न{अव्य}	प्रतिषेधः,6	नहीं	नोट्				
+3	उभय-विभ्रष्टः	2	0	उभय-विभ्रष्ट{पुं}{1;एक}	उभय-विभ्रष्ट{पुं}{1;एक}	कर्ता,6	दोनों_ओर_से_भ्रष्ट_होकर	डेविअटेड्_ङ्रोम्_बोट्ह्_सिडेस्	<उभय-विभ्रष्टः>ठ्5			
+4	छिन्न-अभ्रम्	11	0	छिन्न-अभ्र{नपुं}{1;एक}/अभ्र{नपुं}{2;एक}	छिन्न-अभ्र{नपुं}{1;एक}	उपमानम्,5	छिन्न-भिन्न_बादल_की	ङल्लेन्_च्लोउड्	<छिन्न-अभ्रम्>ख्1			
+5	इव	10	0	इव{अव्य}	इव{अव्य}	सम्बन्धः,6	भाँति	लिके				
+6	नश्यति	9	नश्यति	नश्यत्{पुं}{7;एक}/नश्यत्{नपुं}{7;एक}/नश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;णशँ;दिवादिः}	नश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;णशँ;दिवादिः}	अभिहित_कर्ता,3	नष्ट_हो_जाता_है	पेरिस्हेस्				
+7	अ-प्रतिष्ठः	3	अप्रतिष्ठो	अ-प्रतिष्ठः	अप्रतिष्ठ{पुं}{1;एक}	विशेषणम्,3	आश्रयरहित_पुरुष	तिट्होउट्_अन्य्_पोसिटिओन्	<न-प्रतिष्ठः>भ्स्म्न्			
+8	महान्-बाहो	1	महाबाहो	महाबाहु{पुं}{8;एक}/महाबाहु{नपुं}{8;एक}	महाबाहु{पुं}{8;एक}	सम्बोध्यः,6	हे_महाबाहो	औ_मिग्ह्ट्य्-अर्मेड्_ख्र्स्न	<महत्-बाहो>भ्स्6			
+9	विमूढः	4	विमूढो	विमूढ{पुं}{1;एक}	विमूढ{पुं}{1;एक}	विशेषणम्,3	मोहित	बेतिल्डेरेड्				
+10	ब्रह्मणः	5	ब्रह्मणः	ब्रह्मन्{पुं}{2;बहु}/ब्रह्मन्{पुं}{5;एक}/ब्रह्मन्{पुं}{6;एक}/ब्रह्मन्{नपुं}{5;एक}/ब्रह्मन्{नपुं}{6;एक}	ब्रह्मन्{नपुं}{6;एक}	षष्ठीसम्बन्धः,11	भगवत्प्राप्ति_के	ओङ्_ट्रन्स्चेन्डेन्चे				
+11	पथि	6	पथि	पथिन्{पुं}{7;एक}	पथिन्{पुं}{7;एक}	देशाधिकरणम्,6	मार्ग_में	ओन्_ट्हे_पट्ह्				

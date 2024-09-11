@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sarva-BUwa-sWiwam	4	sarvaBUwasWiwaM	sarva-BUwa-sWiwa{puM}{2;eka}/sWiwa{napuM}{1;eka}/sWiwa{napuM}{2;eka}	sarva-BUwa-sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{2;eka}	viSeRaNam,3	sampUrNa_BUwoM_meM_AwmarUpa_se_sWiwa	situated_in_everyone's_heart	<<sarva-BUwa>K1-sWiwaM>T7			
-2	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,4;niwya_sambanXaH,10	jo_(puruRa)	he_who				
-3	mAm	5	mAM	asmax{2;eka}	asmax{2;eka}	karma,4	muJako_(saccixAnanxaGana_vAsuxeva_ko)	unto_Me				
-4	Bajawi	6	BajawyakawvamAsWiwaH	Baj1{karwari;lat;pra;eka;parasmEpaxI;Bajaz;BvAxiH}	Baj1{karwari;lat;pra;eka;parasmEpaxI;Bajaz;BvAxiH}	aBihiwa_karwA,2	BajawA_hE	serves_in_devotional_service				
-5	ekawvam	2	0	ekawva{napuM}{1;eka}/ekawva{napuM}{2;eka}/ekawva{napuM}{1;eka}/ekawva{napuM}{2;eka}	ekawva{napuM}{2;eka}	karma,6	ekIBAva_meM	oneness				
-6	AsWiwaH	3	0	AsWiwa{puM}{1;eka}	Af_sWA1{kqw_prawyayaH:kwa;Af_RTA;BvAxiH;puM}{1;eka}	viSeRaNam,2	sWiwa_hokara	thus_situated				
-7	sarvaWA	9	sarvaWA	sarvaWA{avya}	sarvaWA{avya}	kriyAviSeRaNam,8	saba_prakAra_se	in_all_respects				
-8	varwamAnaH	10	varwamAnoZpi	varwamAna{puM}{1;eka}	vqwa1{kqw_prawyayaH:SAnac;vqwuz;BvAxi;puM}{1;eka}	varwamAnasamAnakAlaH,13	barawawA_huA	being_situated				
-9	api	11	0	api{avya}	api{avya}	sambanXaH,8	BI	in_spite_of				
-10	saH	7	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,11	vaha	he				
-11	yogI	8	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karwA,13	yogI	transcendentalist				
-12	mayi	12	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,13	muJameM	unto_Me				
-13	varwawe	13	varwawe	vqw1{karwari;lat;pra;eka;AwmanEpaxI;vqwuz;BvAxiH}	vqw1{karwari;lat;pra;eka;AwmanEpaxI;vqwuz;BvAxiH}	aBihiwa_karwA,11	barawawA_hE	remains				
+1	सर्व-भूत-स्थितम्	4	सर्वभूतस्थितं	सर्व-भूत-स्थित{पुं}{2;एक}/स्थित{नपुं}{1;एक}/स्थित{नपुं}{2;एक}	सर्व-भूत-स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{2;एक}	विशेषणम्,3	सम्पूर्ण_भूतों_में_आत्मरूप_से_स्थित	सिटुअटेड्_इन्_एवेर्योने'स्_हेअर्ट्	<<सर्व-भूत>ख्1-स्थितं>ठ्7			
+2	यः	1	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,4;नित्य_सम्बन्धः,10	जो_(पुरुष)	हे_त्हो				
+3	माम्	5	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,4	मुझको_(सच्चिदानन्दघन_वासुदेव_को)	उन्टो_ंए				
+4	भजति	6	भजत्यकत्वमास्थितः	भज्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भजँ;भ्वादिः}	भज्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भजँ;भ्वादिः}	अभिहित_कर्ता,2	भजता_है	सेर्वेस्_इन्_डेवोटिओनल्_सेर्विचे				
+5	एकत्वम्	2	0	एकत्व{नपुं}{1;एक}/एकत्व{नपुं}{2;एक}/एकत्व{नपुं}{1;एक}/एकत्व{नपुं}{2;एक}	एकत्व{नपुं}{2;एक}	कर्म,6	एकीभाव_में	ओनेनेस्स्				
+6	आस्थितः	3	0	आस्थित{पुं}{1;एक}	आङ्_स्था1{कृत्_प्रत्ययः:क्त;आङ्_ष्ठा;भ्वादिः;पुं}{1;एक}	विशेषणम्,2	स्थित_होकर	ट्हुस्_सिटुअटेड्				
+7	सर्वथा	9	सर्वथा	सर्वथा{अव्य}	सर्वथा{अव्य}	क्रियाविशेषणम्,8	सब_प्रकार_से	इन्_अल्ल्_रेस्पेच्ट्स्				
+8	वर्तमानः	10	वर्तमानोऽपि	वर्तमान{पुं}{1;एक}	वृत1{कृत्_प्रत्ययः:शानच्;वृतुँ;भ्वादि;पुं}{1;एक}	वर्तमानसमानकालः,13	बरतता_हुआ	बेइन्ग्_सिटुअटेड्				
+9	अपि	11	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,8	भी	इन्_स्पिटे_ओङ्				
+10	सः	7	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	विशेषणम्,11	वह	हे				
+11	योगी	8	योगी	योगिन्{पुं}{1;एक}	योगिन्{पुं}{1;एक}	कर्ता,13	योगी	ट्रन्स्चेन्डेन्टलिस्ट्				
+12	मयि	12	मयि	अस्मद्{7;एक}	अस्मद्{7;एक}	अधिकरणम्,13	मुझमें	उन्टो_ंए				
+13	वर्तते	13	वर्तते	वृत्1{कर्तरि;लट्;प्र;एक;आत्मनैपदी;वृतुँ;भ्वादिः}	वृत्1{कर्तरि;लट्;प्र;एक;आत्मनैपदी;वृतुँ;भ्वादिः}	अभिहित_कर्ता,11	बरतता_है	रेमइन्स्				

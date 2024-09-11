@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	an-apekRaH	2	anapekRaH	anapekRa{puM}{1;eka}	na-apekRa{puM}{1;eka}	sup_samucciwaH,8	AkAMkRA_se_rahiwa	neutral	<na-apekRaH>Bsmn			
-2	SuciH	3	SucirxakRa	Suci{puM}{1;eka}/Suci{swrI}{1;eka}	Suci{puM}{1;eka}	sup_samucciwaH,8	bAhara-BIwara_se_SuxXa	pure				
-3	xakRaH	4	0	xakRa{puM}{1;eka}	xakRa{puM}{1;eka}	sup_samucciwaH,8	cawura	expert				
-4	uxAsInaH	5	uxAsIno	uxAsIna{puM}{1;eka}	uxAsIna{puM}{1;eka}	sup_samucciwaH,8	pakRapAwa_se_rahiwa	free_from_care				
-5	gawa-vyaWaH	6	gawavyaWaH	gawavyaWa{puM}{1;eka}	gawa-vyaWa{puM}{1;eka}	sup_samucciwaH,8	xuHKoM_se_CUtA_huA	freed_from_all_distress	<gawa-vyaWaH>Bs5			
-6	sarva-AramBa-pariwyAgI	9	sarvAramBapariwyAgI	sarvAramBapariwyAgI	sarva-AramBa-pariwyAgin{puM}{1;eka}	sup_samucciwaH,8	saba_AramBoM_kA_wyAgI	renouncer_of_all_endeavors	<<sarva-AramBa>K1-pariwyAgI>T6			
-7	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,8.1;niwya_sambanXaH,9	jo_(puruRa)	anyone				
-8	max-BakwaH	10	maxBakwaH	maxBakwa{puM}{1;eka}	asmax-Bakwa{puM}{1;eka}	viXeya_viSeRaNam,8.1	merA_Bakwa	My_devotee	<asmaw-BakwaH>T6			
-8.1	(aswi)	7	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,7;akarmakaH	(hE)	is				
-9	saH	8	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,11.1	vaha	he				
-10	me	11	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,11	muJako	me				
-11	priyaH	12	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	viXeya_viSeRaNam,11.1	priya	very_dear				
-11.1	(aswi)	13	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,9;akarmakaH	(hE)	is				
+1	अन्-अपेक्षः	2	अनपेक्षः	अनपेक्ष{पुं}{1;एक}	न-अपेक्ष{पुं}{1;एक}	सुप्_समुच्चितः,8	आकांक्षा_से_रहित	नेउट्रल्	<न-अपेक्षः>भ्स्म्न्			
+2	शुचिः	3	शुचिर्दक्ष	शुचि{पुं}{1;एक}/शुचि{स्त्री}{1;एक}	शुचि{पुं}{1;एक}	सुप्_समुच्चितः,8	बाहर-भीतर_से_शुद्ध	पुरे				
+3	दक्षः	4	0	दक्ष{पुं}{1;एक}	दक्ष{पुं}{1;एक}	सुप्_समुच्चितः,8	चतुर	एद्पेर्ट्				
+4	उदासीनः	5	उदासीनो	उदासीन{पुं}{1;एक}	उदासीन{पुं}{1;एक}	सुप्_समुच्चितः,8	पक्षपात_से_रहित	ङ्रेए_ङ्रोम्_चरे				
+5	गत-व्यथः	6	गतव्यथः	गतव्यथ{पुं}{1;एक}	गत-व्यथ{पुं}{1;एक}	सुप्_समुच्चितः,8	दुःखों_से_छूटा_हुआ	ङ्रेएड्_ङ्रोम्_अल्ल्_डिस्ट्रेस्स्	<गत-व्यथः>भ्स्5			
+6	सर्व-आरम्भ-परित्यागी	9	सर्वारम्भपरित्यागी	सर्वारम्भपरित्यागी	सर्व-आरम्भ-परित्यागिन्{पुं}{1;एक}	सुप्_समुच्चितः,8	सब_आरम्भों_का_त्यागी	रेनोउन्चेर्_ओङ्_अल्ल्_एन्डेअवोर्स्	<<सर्व-आरम्भ>ख्1-परित्यागी>ठ्6			
+7	यः	1	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,8.1;नित्य_सम्बन्धः,9	जो_(पुरुष)	अन्योने				
+8	मद्-भक्तः	10	मद्भक्तः	मद्भक्त{पुं}{1;एक}	अस्मद्-भक्त{पुं}{1;एक}	विधेय_विशेषणम्,8.1	मेरा_भक्त	ंय्_डेवोटेए	<अस्मत्-भक्तः>ठ्6			
+8.1	(अस्ति)	7	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,7;अकर्मकः	(है)	इस्				
+9	सः	8	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,11.1	वह	हे				
+10	मे	11	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,11	मुझको	मे				
+11	प्रियः	12	प्रियः	प्री{नपुं}{5;एक}/प्री{नपुं}{6;एक}/प्रिय{पुं}{1;एक}	प्रिय{पुं}{1;एक}	विधेय_विशेषणम्,11.1	प्रिय	वेर्य्_डेअर्				
+11.1	(अस्ति)	13	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,9;अकर्मकः	(है)	इस्				

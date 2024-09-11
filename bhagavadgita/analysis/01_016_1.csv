@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ananwavijayaM	4	ananwavijayaM	ananwavijayaM pu 1 xvi	ananwa-vijaya{puM}{2;eka}	karma,4.1	ananwavijaya_nAmaka	the_conch_named_Ananta-vijaya				
-2	rAjA	2	rAjA	rAjan{puM}{1;eka}	rAjan{puM}{1;eka}	viSeRaNam,4	rAjA	the_king				
-3	kunwIpuwraH	1	kunwIpuwro	kunwi-puwra{puM}{1;eka}	kunwi-puwra{puM}{1;eka}	aBexaH,4	kunwIpuwra	the_son_of_Kunti	<kunwi-puwraH>T6			
-4	yuXiRTiraH	3	yuXiRTiraH	yuXiRTira{puM}{1;eka}	yuXiRTira{puM}{1;eka}	karwA,4.1	yuXiRTira_ne	Yudhisthira				
-4.1	(xaXmO)	4.1	(xaXmO)	XmA1{karwari;lit;u;eka;parasmEpaxI;XmA;BvAxiH}/XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;BvAxiH}	XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;BvAxiH}	aBihiwakarwA,4	bajAyA	blew				
-5	nakulaH	5	nakulaH	nakula{puM}{1;eka}	nakula{puM}{1;eka}	sup_samucciwaH,6	nakula	Nakula				
-6	sahaxevaH	6	sahaxevaSca	sahaxeva{puM}{1;eka}	sahaxeva{puM}{1;eka}	karwA,8.1	sahaxeva_ne	Sahadeva				
-7	ca	7	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	waWA	and				
-8	suGoRa-maNipuRpakO	8	suGoRamaNipuRpakO	suGoRa-maNipuRpaka{puM;1;xvi}/{puM;2;xvi}	suGoRa-maNipuRpaka{puM;2;xvi}	karma,8.1	suGoRa_Ora_maNipuRpaka_nAmaka_SaMKa	the_conchs_named_Sughosa_and_Manipus				
-8.1	(xaXmawuH)	8.1	()	XmA1{karwari;lit;pra;xvi;parasmEpaxI;XmA;BvAxiH}	XmA1{karwari;lit;pra;xvi;parasmEpaxI;XmA;BvAxiH}	aBihiwakarwA,6	bajAyA	blew				
+1	अनन्तविजयं	4	अनन्तविजयं	अनन्तविजयं पु 1 द्वि	अनन्त-विजय{पुं}{2;एक}	कर्म,4.1	अनन्तविजय_नामक	ट्हे_चोन्च्ह्_नमेड्_आनन्ट-विजय				
+2	राजा	2	राजा	राजन्{पुं}{1;एक}	राजन्{पुं}{1;एक}	विशेषणम्,4	राजा	ट्हे_किन्ग्				
+3	कुन्तीपुत्रः	1	कुन्तीपुत्रो	कुन्ति-पुत्र{पुं}{1;एक}	कुन्ति-पुत्र{पुं}{1;एक}	अभेदः,4	कुन्तीपुत्र	ट्हे_सोन्_ओङ्_खुन्टि	<कुन्ति-पुत्रः>ठ्6			
+4	युधिष्ठिरः	3	युधिष्ठिरः	युधिष्ठिर{पुं}{1;एक}	युधिष्ठिर{पुं}{1;एक}	कर्ता,4.1	युधिष्ठिर_ने	Yउड्हिस्ट्हिर				
+4.1	(दध्मौ)	4.1	(दध्मौ)	ध्मा1{कर्तरि;लिट्;उ;एक;परस्मैपदी;ध्मा;भ्वादिः}/ध्मा1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ध्मा;भ्वादिः}	ध्मा1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ध्मा;भ्वादिः}	अभिहितकर्ता,4	बजाया	ब्लेत्				
+5	नकुलः	5	नकुलः	नकुल{पुं}{1;एक}	नकुल{पुं}{1;एक}	सुप्_समुच्चितः,6	नकुल	णकुल				
+6	सहदेवः	6	सहदेवश्च	सहदेव{पुं}{1;एक}	सहदेव{पुं}{1;एक}	कर्ता,8.1	सहदेव_ने	शहडेव				
+7	च	7	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	तथा	अन्ड्				
+8	सुघोष-मणिपुष्पकौ	8	सुघोषमणिपुष्पकौ	सुघोष-मणिपुष्पक{पुं;1;द्वि}/{पुं;2;द्वि}	सुघोष-मणिपुष्पक{पुं;2;द्वि}	कर्म,8.1	सुघोष_और_मणिपुष्पक_नामक_शंख	ट्हे_चोन्च्ह्स्_नमेड्_शुग्होस_अन्ड्_ंअनिपुस्				
+8.1	(दध्मतुः)	8.1	()	ध्मा1{कर्तरि;लिट्;प्र;द्वि;परस्मैपदी;ध्मा;भ्वादिः}	ध्मा1{कर्तरि;लिट्;प्र;द्वि;परस्मैपदी;ध्मा;भ्वादिः}	अभिहितकर्ता,6	बजाया	ब्लेत्				

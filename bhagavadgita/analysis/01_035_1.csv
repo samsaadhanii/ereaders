@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ewAn	7	ewAnna	ewax{puM}{2;bahu}	ewax{puM}{2;bahu}	karma,3	inako_(sabako)	all_these				
-2	na	8	0	na{avya}	na{avya}	prawiReXaH,3	nahIM	do_not				
-3	hanwum	9	hanwumicCAmi	han{wumun}	han1{kqw_prawyayaH:wumun;hanaz;axAxiH}	karma,4	mAranA	for_killing				
-4	icCAmi	10		iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}		cAhawA	wish				
-5	GnawaH	2	GnawoZpi	Gnaw{puM}{2;bahu}/Gnaw{puM}{5;eka}/Gnaw{puM}{6;eka}/Gnaw{napuM}{5;eka}/Gnaw{napuM}{6;eka}	han1{kqw_prawyayaH:Sawq;hanaz;axAxiH;puM}{1;bahu}	hewuH,3	mAranepara	being_killed				
-6	api	3	0	api{avya}	api{avya}	sambanXaH,5	BI	even_if				
-7	maXusUxana	1	maXusUxana	maXusUxana{puM}{8;eka}	maXusUxana{puM}{8;eka}	samboXyaH,4	he_maXusUxana	O_killer_of_the_demon_Madhu_(Krsna)				
-8	api	6	api	api{avya}	api{avya}	sambanXaH,10	BI	even				
-9	wrE-lokya-rAjyasya	4	wrElokyarAjyasya	wrElokya-rAjya{napuM}{6;eka}	wrElokya-rAjya{napuM}{6;eka}	RaRTIsambanXaH,10	wInoM_lokoM_ke_rAjya_ke	for_the_sovereignty_over_the_three_worlds	<<wrE-lokya>K1-rAjyasya>K1			
-10	hewoH	5	hewoH	hewu{puM}{5;eka}/hewu{puM}{6;eka}	hewu{puM}{5;eka}	hewuH,3	liye	in_exchange				
-11	kim	12	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	karma,13.1	kyA	what_to				
-12	nu	13	nu	nu{avya}	nu{avya}	sambanXaH,13.1	hI	only				
-13	mahI-kqwe	11	mahIkqwe	mahI-kqw{puM}{4;eka}/kqwa{puM}{7;eka}/kqwa{napuM}{1;xvi}/kqwa{napuM}{2;xvi}/kqwa{napuM}{7;eka}/kqwA{swrI}{1;xvi}/kqwA{swrI}{2;xvi}	mahI-kqw{puM}{4;eka}	prayojanam,13.1	pqWvI_ke_liye	for_the_kingdom_here_on_earth	<mahI-kqwe>T6			
-13.1	(vakwavyam)	14	(0)	(vac1{kqw_prawyayaH:wavyaw;vacaz;axAxiH;napuM}{1;eka}/brU1{kqw_prawyayaH:wavyaw;brUF;axAxiH;napuM}{1;eka}/vac1{kqw_prawyayaH:wavyaw;vacaz;axAxiH;napuM}{2;eka}/brU1{kqw_prawyayaH:wavyaw;brUF;axAxiH;napuM}{2;eka}_as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(vac1{kqw_prawyayaH:wavyaw;vacaz;axAxiH;napuM}{1;eka}	aBihiwakarma,11	(kahanA)	speak_of				
+1	एतान्	7	एतान्न	एतद्{पुं}{2;बहु}	एतद्{पुं}{2;बहु}	कर्म,3	इनको_(सबको)	अल्ल्_ट्हेसे				
+2	न	8	0	न{अव्य}	न{अव्य}	प्रतिषेधः,3	नहीं	डो_नोट्				
+3	हन्तुम्	9	हन्तुमिच्छामि	हन्{तुमुन्}	हन्1{कृत्_प्रत्ययः:तुमुन्;हनँ;अदादिः}	कर्म,4	मारना	ङोर्_किल्लिन्ग्				
+4	इच्छामि	10		इष्2{कर्तरि;लट्;उ;एक;परस्मैपदी;इषुँ;तुदादिः}	इष्2{कर्तरि;लट्;उ;एक;परस्मैपदी;इषुँ;तुदादिः}		चाहता	तिस्ह्				
+5	घ्नतः	2	घ्नतोऽपि	घ्नत्{पुं}{2;बहु}/घ्नत्{पुं}{5;एक}/घ्नत्{पुं}{6;एक}/घ्नत्{नपुं}{5;एक}/घ्नत्{नपुं}{6;एक}	हन्1{कृत्_प्रत्ययः:शतृ;हनँ;अदादिः;पुं}{1;बहु}	हेतुः,3	मारनेपर	बेइन्ग्_किल्लेड्				
+6	अपि	3	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,5	भी	एवेन्_इङ्				
+7	मधुसूदन	1	मधुसूदन	मधुसूदन{पुं}{8;एक}	मधुसूदन{पुं}{8;एक}	सम्बोध्यः,4	हे_मधुसूदन	औ_किल्लेर्_ओङ्_ट्हे_डेमोन्_ंअड्हु_(ख्र्स्न)				
+8	अपि	6	अपि	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,10	भी	एवेन्				
+9	त्रै-लोक्य-राज्यस्य	4	त्रैलोक्यराज्यस्य	त्रैलोक्य-राज्य{नपुं}{6;एक}	त्रैलोक्य-राज्य{नपुं}{6;एक}	षष्ठीसम्बन्धः,10	तीनों_लोकों_के_राज्य_के	ङोर्_ट्हे_सोवेरेइग्न्ट्य्_ओवेर्_ट्हे_ट्ह्रेए_तोर्ल्ड्स्	<<त्रै-लोक्य>ख्1-राज्यस्य>ख्1			
+10	हेतोः	5	हेतोः	हेतु{पुं}{5;एक}/हेतु{पुं}{6;एक}	हेतु{पुं}{5;एक}	हेतुः,3	लिये	इन्_एद्च्हन्गे				
+11	किम्	12	किं	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{1;एक}	कर्म,13.1	क्या	त्हट्_टो				
+12	नु	13	नु	नु{अव्य}	नु{अव्य}	सम्बन्धः,13.1	ही	ओन्ल्य्				
+13	मही-कृते	11	महीकृते	मही-कृत्{पुं}{4;एक}/कृत{पुं}{7;एक}/कृत{नपुं}{1;द्वि}/कृत{नपुं}{2;द्वि}/कृत{नपुं}{7;एक}/कृता{स्त्री}{1;द्वि}/कृता{स्त्री}{2;द्वि}	मही-कृत्{पुं}{4;एक}	प्रयोजनम्,13.1	पृथ्वी_के_लिये	ङोर्_ट्हे_किन्ग्डोम्_हेरे_ओन्_एअर्ट्ह्	<मही-कृते>ठ्6			
+13.1	(वक्तव्यम्)	14	(0)	(वच्1{कृत्_प्रत्ययः:तव्यत्;वचँ;अदादिः;नपुं}{1;एक}/ब्रू1{कृत्_प्रत्ययः:तव्यत्;ब्रूञ्;अदादिः;नपुं}{1;एक}/वच्1{कृत्_प्रत्ययः:तव्यत्;वचँ;अदादिः;नपुं}{2;एक}/ब्रू1{कृत्_प्रत्ययः:तव्यत्;ब्रूञ्;अदादिः;नपुं}{2;एक}_अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(वच्1{कृत्_प्रत्ययः:तव्यत्;वचँ;अदादिः;नपुं}{1;एक}	अभिहितकर्म,11	(कहना)	स्पेअक्_ओङ्				

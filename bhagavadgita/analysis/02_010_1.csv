@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wam	7	wamuvAca	wax{puM}{2;eka}	wax{puM}{2;eka}	gONakarma,2	usako_(arjuna_ko)	unto_him_(Arjuna)				
-2	uvAca	13	0	vac1{karwari;lit;u;eka;parasmEpaxI;vacaz;axAxiH}/vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;axAxiH}/brU1{karwari;lit;u;eka;parasmEpaxI;brUF;axAxiH}/brU1{karwari;lit;pra;eka;parasmEpaxI;brUF;axAxiH}	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;axAxiH}	aBihiwakarwA,3	bole	addressed				
-3	hqRIkeSaH	8	hqRIkeSaH	hqRIkeSa{puM}{1;eka}	hqRIkeSa{puM}{1;eka}	karwA,2	anwaryAmI_SrIkqRNa_ne	the_master_of_the_senses_Krisna				
-4	prahasan	9	prahasanniva	prahasaw{puM}{1;eka}	pra_has1{kqw_prawyayaH:Sawq;pra_hasaz;BvAxiH}	varwamAnasamAnakAlaH,2	hazsawe_hue	smiling				
-5	iva	10	0	iva{avya}	iva{avya}	sambanXaH,4	jEse	as_if				
-6	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,2	he_BarawavaMSI_XqwarARtra	O_Dhrtarastra_descendant_of_Bharata				
-7	senayoH	3	senayoruBayormaXye	senA{swrI}{6;xvi}/senA{swrI}{7;xvi}	senA{swrI}{6;xvi}	RaRTIsambanXaH,2	senAoM_ke	of_the_armies				
-8	uBayoH	2	0	uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}	uBa{napuM}{6;xvi}	viSeRaNam,7	xonoM	of_both				
-9	maXye	4	0	maXya{puM}{7;eka}/maXya{napuM}{1;xvi}/maXya{napuM}{2;xvi}/maXya{napuM}{7;eka}/maXyA{swrI}{1;xvi}/maXyA{swrI}{2;xvi}	maXya{puM}{7;eka}	aXikaraNam,2	bIca_meM	in_the_midst				
-10	viRIxanwam	6	viRIxanwamixaM	viRIxaw{puM}{2;eka}	vi_sax1{kqw_prawyayaH:Sawq;vi_RaxLz;BvAxiH;puM}{2;eka}	viSeRaNam,1	Soka_karawe_hue	grieving				
-11	ixam	11	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,12	yaha	the_following				
-12	vacaH	12	vacaH	vaca{puM}{1;eka}/vacas{napuM}{1;eka}/vacas{napuM}{2;eka}	vacas{napuM}{2;eka}	muKyakarma,2	vacana	words				
-12.1	(sWiwvA)	5	(0)	(sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH})	(sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH})	pUrvakAlaH,2	(rukakara)	situated				
+1	तम्	7	तमुवाच	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	गौणकर्म,2	उसको_(अर्जुन_को)	उन्टो_हिम्_(आर्जुन)				
+2	उवाच	13	0	वच्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;वचँ;अदादिः}/वच्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;वचँ;अदादिः}/ब्रू1{कर्तरि;लिट्;उ;एक;परस्मैपदी;ब्रूञ्;अदादिः}/ब्रू1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ब्रूञ्;अदादिः}	वच्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;वचँ;अदादिः}	अभिहितकर्ता,3	बोले	अड्ड्रेस्सेड्				
+3	हृषीकेशः	8	हृषीकेशः	हृषीकेश{पुं}{1;एक}	हृषीकेश{पुं}{1;एक}	कर्ता,2	अन्तर्यामी_श्रीकृष्ण_ने	ट्हे_मस्टेर्_ओङ्_ट्हे_सेन्सेस्_ख्रिस्न				
+4	प्रहसन्	9	प्रहसन्निव	प्रहसत्{पुं}{1;एक}	प्र_हस्1{कृत्_प्रत्ययः:शतृ;प्र_हसँ;भ्वादिः}	वर्तमानसमानकालः,2	हँसते_हुए	स्मिलिन्ग्				
+5	इव	10	0	इव{अव्य}	इव{अव्य}	सम्बन्धः,4	जैसे	अस्_इङ्				
+6	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,2	हे_भरतवंशी_धृतराष्ट्र	औ_ढ्ह्र्टरस्ट्र_डेस्चेन्डन्ट्_ओङ्_भ्हरट				
+7	सेनयोः	3	सेनयोरुभयोर्मध्ये	सेना{स्त्री}{6;द्वि}/सेना{स्त्री}{7;द्वि}	सेना{स्त्री}{6;द्वि}	षष्ठीसम्बन्धः,2	सेनाओं_के	ओङ्_ट्हे_अर्मिएस्				
+8	उभयोः	2	0	उभ{पुं}{6;द्वि}/उभ{पुं}{7;द्वि}/उभ{नपुं}{6;द्वि}/उभ{नपुं}{7;द्वि}/उभ{पुं}{6;द्वि}/उभ{पुं}{7;द्वि}/उभ{नपुं}{6;द्वि}/उभ{नपुं}{7;द्वि}/उभा{स्त्री}{6;द्वि}/उभा{स्त्री}{7;द्वि}/उभा{स्त्री}{6;द्वि}/उभा{स्त्री}{7;द्वि}	उभ{नपुं}{6;द्वि}	विशेषणम्,7	दोनों	ओङ्_बोट्ह्				
+9	मध्ये	4	0	मध्य{पुं}{7;एक}/मध्य{नपुं}{1;द्वि}/मध्य{नपुं}{2;द्वि}/मध्य{नपुं}{7;एक}/मध्या{स्त्री}{1;द्वि}/मध्या{स्त्री}{2;द्वि}	मध्य{पुं}{7;एक}	अधिकरणम्,2	बीच_में	इन्_ट्हे_मिड्स्ट्				
+10	विषीदन्तम्	6	विषीदन्तमिदं	विषीदत्{पुं}{2;एक}	वि_सद्1{कृत्_प्रत्ययः:शतृ;वि_षदॢँ;भ्वादिः;पुं}{2;एक}	विशेषणम्,1	शोक_करते_हुए	ग्रिएविन्ग्				
+11	इदम्	11	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,12	यह	ट्हे_ङोल्लोतिन्ग्				
+12	वचः	12	वचः	वच{पुं}{1;एक}/वचस्{नपुं}{1;एक}/वचस्{नपुं}{2;एक}	वचस्{नपुं}{2;एक}	मुख्यकर्म,2	वचन	तोर्ड्स्				
+12.1	(स्थित्वा)	5	(0)	(स्था1{कृत्_प्रत्ययः:क्त्वा;ष्ठा;भ्वादिः})	(स्था1{कृत्_प्रत्ययः:क्त्वा;ष्ठा;भ्वादिः})	पूर्वकालः,2	(रुककर)	सिटुअटेड्				

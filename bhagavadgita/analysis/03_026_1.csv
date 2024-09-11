@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	6	na	na{avya}	na{avya}	prawiReXaH,3	na	do_not				
-2	buxXi-Bexam	5	buxXiBexaM	buxXi-Bexa{puM}{2;eka}	buxXi-Bexa{puM}{2;eka}	karma,3	buxXi_meM_Brama_arWAw_karmoM_meM_aSraxXA	disrupt_the_intelligence	<buxXi-Bexam>T6			
-3	janayew	7	janayexajFAnAM	jan3_Nic{karwari;viXilif;pra;eka;parasmEpaxI;janIz_Nic;xivAxiH}	jan3_Nic{karwari;viXilif;pra;eka;parasmEpaxI;janIz_Nic;xivAxiH}	aBihiwakarwA,9;sakarmakaH	uwpanna_kareM	do				
-4	a-jFAnAm	4	0	ajFa{puM}{6;bahu}/ajFA{swrI}{6;bahu}/ajFAnA{swrI}{2;eka}	ajFa{puM}{6;bahu}	RaRTIsambanXaH,2	ajFAniyoM_kI	of_the_foolish	<na-jFAnAm>U			
-5	karma-safginAm	3	karmasafginAm	karman-safgin{puM}{6;bahu}/safgin{napuM}{6;bahu}	karman-safgin{napuM}{6;bahu}	viSeRaNam,4	SAswravihiwakarmoM_meM_AsakwivAle	attached_to_fruitive_work	<karma-safginAm>T7			
-6	joRayew	10	joRayewsarvakarmANi	juR2{karwari;viXilif;pra;eka;parasmEpaxI;juRaz;curAxiH}/juR1_Nic{karwari;viXilif;pra;eka;parasmEpaxI;juRIz;wuxAxiH}/juR2_Nic{karwari;viXilif;pra;eka;parasmEpaxI;juRaz;curAxiH}	juR2{karwari;viXilif;pra;eka;parasmEpaxI;juRaz;curAxiH}		karavAve	dovetailed				
-7	sarva-karmANi	8	0	sarva-karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	sarva-karman{napuM}{2;bahu}	karma,10	SAswravihiwa_samaswa_karma	all_work	<sarva-karmANi>K1			
-8	vixvAn	2	vixvAnyukwaH	vixvas{puM}{1;eka}	vixvas{puM}{1;eka}	karwA,3	jFAnI_puruRa_ko	learned				
-9	yukwaH	1	0	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	viSeRaNam,8	paramAwmA_ke_svarUpa_meM_atala_sWiwa_hue	all_engaged				
-10	samAcaran	9	samAcaran	samAcaran	sam_Af_car1{kqw_prawyayaH:Sawq;sam_Af_caraz;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,6	BalIBAzwi_karawA_huA	practicing				
+1	न	6	न	न{अव्य}	न{अव्य}	प्रतिषेधः,3	न	डो_नोट्				
+2	बुद्धि-भेदम्	5	बुद्धिभेदं	बुद्धि-भेद{पुं}{2;एक}	बुद्धि-भेद{पुं}{2;एक}	कर्म,3	बुद्धि_में_भ्रम_अर्थात्_कर्मों_में_अश्रद्धा	डिस्रुप्ट्_ट्हे_इन्टेल्लिगेन्चे	<बुद्धि-भेदम्>ठ्6			
+3	जनयेत्	7	जनयेदज्ञानां	जन्3_णिच्{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;जनीँ_णिच्;दिवादिः}	जन्3_णिच्{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;जनीँ_णिच्;दिवादिः}	अभिहितकर्ता,9;सकर्मकः	उत्पन्न_करें	डो				
+4	अ-ज्ञानाम्	4	0	अज्ञ{पुं}{6;बहु}/अज्ञा{स्त्री}{6;बहु}/अज्ञाना{स्त्री}{2;एक}	अज्ञ{पुं}{6;बहु}	षष्ठीसम्बन्धः,2	अज्ञानियों_की	ओङ्_ट्हे_ङोओलिस्ह्	<न-ज्ञानाम्>ऊ			
+5	कर्म-सङ्गिनाम्	3	कर्मसङ्गिनाम्	कर्मन्-सङ्गिन्{पुं}{6;बहु}/सङ्गिन्{नपुं}{6;बहु}	कर्मन्-सङ्गिन्{नपुं}{6;बहु}	विशेषणम्,4	शास्त्रविहितकर्मों_में_आसक्तिवाले	अट्टच्हेड्_टो_ङ्रुइटिवे_तोर्क्	<कर्म-सङ्गिनाम्>ठ्7			
+6	जोषयेत्	10	जोषयेत्सर्वकर्माणि	जुष्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;जुषँ;चुरादिः}/जुष्1_णिच्{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;जुषीँ;तुदादिः}/जुष्2_णिच्{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;जुषँ;चुरादिः}	जुष्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;जुषँ;चुरादिः}		करवावे	डोवेटइलेड्				
+7	सर्व-कर्माणि	8	0	सर्व-कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}/कर्मन्{नपुं}{8;बहु}	सर्व-कर्मन्{नपुं}{2;बहु}	कर्म,10	शास्त्रविहित_समस्त_कर्म	अल्ल्_तोर्क्	<सर्व-कर्माणि>ख्1			
+8	विद्वान्	2	विद्वान्युक्तः	विद्वस्{पुं}{1;एक}	विद्वस्{पुं}{1;एक}	कर्ता,3	ज्ञानी_पुरुष_को	लेअर्नेड्				
+9	युक्तः	1	0	युक्त{पुं}{1;एक}	युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{1;एक}	विशेषणम्,8	परमात्मा_के_स्वरूप_में_अटल_स्थित_हुए	अल्ल्_एन्गगेड्				
+10	समाचरन्	9	समाचरन्	समाचरन्	सम्_आङ्_चर्1{कृत्_प्रत्ययः:शतृ;सम्_आङ्_चरँ;भ्वादिः;पुं}{1;एक}	वर्तमानसमानकालः,6	भलीभाँति_करता_हुआ	प्रच्टिचिन्ग्				

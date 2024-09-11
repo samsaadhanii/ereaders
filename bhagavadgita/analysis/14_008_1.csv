@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wamaH	4	wamaswvajFAnajaM	wama{puM}{1;eka}/wamas{napuM}{1;eka}/wamas{napuM}{2;eka}/wamas{napuM}{8;eka}	wamas{napuM}{2;eka}	karma,4	wamoguNa_ko	mode_of_ignorance				
-2	wu	5	0	wu{avya}	wu{avya}	sambanXaH,1	wo	but				
-3	a-jFAna-jam	6	0	ajFAnajam	ajFAna-ja{napuM}{2;eka}	karmasamAnAXikaraNam,4	ajFAna_se_uwpanna	products_of_ignorance	<<na-jFAna>Tn-jaM>U			
-4	vixXi	7	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,6.1;sakarmakaH	jAna	knowing				
-5	mohanam	3	mohanaM	mohana{puM}{2;eka}	mohana{napuM}{2;eka}	viSeRaNam,1	mohiwa_karanevAle	delusion				
-6	sarva-xehinAm	2	sarvaxehinAm	sarva-xehin{puM}{6;bahu}/xehin{napuM}{6;bahu}	sarva-xehin{puM}{6;bahu}	RaRTIsambanXaH,5	saba_xehABimAniyoM_ko	of_all_embodied_beings	<sarva-xehinAm>T6			
-6.1	(wvam)	2	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wuma)	you				
-7	pramAxa-Alasya-nixrABiH	10	pramAxAlasyanixrABiswannibaXnAwi	pramAxa-Alasya-nixrA{swrI}{3;bahu}	pramAxa-Alasya-nixrA{swrI}{3;bahu}	karaNam,9	pramAxa_Alasya_Ora_nixrA_ke_xvArA	by_madness_indolence_and_sleep	<pramAxa-Alasya-nixrABiH>Ds			
-8	waw	8	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karwA,9	vaha	that				
-9	nibaXnAwi	11	0	ni_banX1{karwari;lat;pra;eka;parasmEpaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;eka;parasmEpaxI;ni_banXaz;kryAxiH}	aBihiwakarwA,8;sakarmakaH	bAzXawA_hE	binds				
-10	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_of_Bharata				
-10.1	(xehinam)	9	(0)	(xehin{puM}{2;eka})	(xehin{puM}{2;eka})	karma,9	(isa_jIvAwmA_ko)	the_embodied				
+1	तमः	4	तमस्त्वज्ञानजं	तम{पुं}{1;एक}/तमस्{नपुं}{1;एक}/तमस्{नपुं}{2;एक}/तमस्{नपुं}{8;एक}	तमस्{नपुं}{2;एक}	कर्म,4	तमोगुण_को	मोडे_ओङ्_इग्नोरन्चे				
+2	तु	5	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,1	तो	बुट्				
+3	अ-ज्ञान-जम्	6	0	अज्ञानजम्	अज्ञान-ज{नपुं}{2;एक}	कर्मसमानाधिकरणम्,4	अज्ञान_से_उत्पन्न	प्रोडुच्ट्स्_ओङ्_इग्नोरन्चे	<<न-ज्ञान>ठ्न्-जं>ऊ			
+4	विद्धि	7	विद्धि	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,6.1;सकर्मकः	जान	क्नोतिन्ग्				
+5	मोहनम्	3	मोहनं	मोहन{पुं}{2;एक}	मोहन{नपुं}{2;एक}	विशेषणम्,1	मोहित_करनेवाले	डेलुसिओन्				
+6	सर्व-देहिनाम्	2	सर्वदेहिनाम्	सर्व-देहिन्{पुं}{6;बहु}/देहिन्{नपुं}{6;बहु}	सर्व-देहिन्{पुं}{6;बहु}	षष्ठीसम्बन्धः,5	सब_देहाभिमानियों_को	ओङ्_अल्ल्_एम्बोडिएड्_बेइन्ग्स्	<सर्व-देहिनाम्>ठ्6			
+6.1	(त्वम्)	2	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,4	(तुम)	योउ				
+7	प्रमाद-आलस्य-निद्राभिः	10	प्रमादालस्यनिद्राभिस्तन्निबध्नाति	प्रमाद-आलस्य-निद्रा{स्त्री}{3;बहु}	प्रमाद-आलस्य-निद्रा{स्त्री}{3;बहु}	करणम्,9	प्रमाद_आलस्य_और_निद्रा_के_द्वारा	ब्य्_मड्नेस्स्_इन्डोलेन्चे_अन्ड्_स्लेएप्	<प्रमाद-आलस्य-निद्राभिः>ढ्स्			
+8	तत्	8	0	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	कर्ता,9	वह	ट्हट्				
+9	निबध्नाति	11	0	नि_बन्ध्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;बन्धँ;क्र्यादिः}	नि_बन्ध्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;नि_बन्धँ;क्र्यादिः}	अभिहितकर्ता,8;सकर्मकः	बाँधता_है	बिन्ड्स्				
+10	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,4	हे_अर्जुन	औ_सोन्_ओङ्_भ्हरट				
+10.1	(देहिनम्)	9	(0)	(देहिन्{पुं}{2;एक})	(देहिन्{पुं}{2;एक})	कर्म,9	(इस_जीवात्मा_को)	ट्हे_एम्बोडिएड्				

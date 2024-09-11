@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	banXuH	9	banXurAwmAwmanaswasya	banXu{puM}{1;eka}	banXu{puM}{1;eka}	viXeya_viSeRaNam,9.1	miwra	friend				
-2	AwmA	7	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,9.1	Apa	mind				
-3	AwmanaH	6	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,2	jIvAwmA_kA	of_the_living_entity				
-4	wasya	5	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	viSeRaNam,3	usa	of_him				
-5	yena	1	yenAwmEvAwmanA	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	viSeRaNam,8;niwya_sambanXaH,4	jisa	by_whom				
-6	AwmA	3	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karma,9	mana_Ora_inxriyoM_sahiwa_SarIra	mind				
-7	eva	8	0	eva{avya}	eva{avya}	sambanXaH,2	hI	certainly				
-8	AwmanA	2	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,9	jIvAwmA_xvArA	by_the_living_entity				
-9	jiwaH	4	jiwaH	jiw{puM}{1;bahu}/jiw{puM}{2;bahu}/jiw{puM}{5;eka}/jiw{puM}{6;eka}/jiwa{puM}{1;eka}	ji1{kqw_prawyayaH:kwa;ji;BvAxiH;puM}{1;eka}	aBihiwakarma,6;sakarmakaH	jIwA_huA_hE	conquered				
-9.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,6;akarmakaH	(hE)	is				
-10	an-AwmanaH	12	anAwmanaswu	an-{avya}-Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	na-Awman{puM}{6;eka}	RaRTIsambanXaH,14	jisake_xvArA_mana_waWA_inxriyoM_sahiwa_SarIra_nahIM_jIwA_gayA_hE_usake_liye	of_one_who_has_failed_to_control_the_mind	<na-AwmanaH>Bsmn			
-11	wu	11	0	wu{avya}	wu{avya}	sambanXaH,13	Ora	but				
-12	Sawruwve	16	Sawruwve	Sawruwva{napuM}{1;xvi}/Sawruwva{napuM}{2;xvi}/Sawruwva{napuM}{7;eka}	Sawruwva{napuM}{7;eka}	aXikaraNam,13	SawruwA_meM	because_of_enmity				
-13	varwewa	17	varwewAwmEva	vqw1{karwari;viXilif;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	vqw1{karwari;viXilif;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	aBihiwakarwA,13;akarmakaH	barawawA_hE	remains				
-14	AwmA	13	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,13	Apa	the_very_mind				
-15	eva	14	0	eva{avya}	eva{avya}	sambanXaH,14	hI	of_the_conditioned_soul				
-16	Sawruvaw	15	Sawruvaw	Sawru{vaw}	Sawruvaw{avya}	kriyAviSeRaNam,13	Sawru_ke_saxqSa	as_an_enemy				
+1	बन्धुः	9	बन्धुरात्मात्मनस्तस्य	बन्धु{पुं}{1;एक}	बन्धु{पुं}{1;एक}	विधेय_विशेषणम्,9.1	मित्र	ङ्रिएन्ड्				
+2	आत्मा	7	0	आत्मन्{पुं}{1;एक}	आत्मन्{पुं}{1;एक}	कर्ता,9.1	आप	मिन्ड्				
+3	आत्मनः	6	0	आत्मन्{पुं}{2;बहु}/आत्मन्{पुं}{5;एक}/आत्मन्{पुं}{6;एक}	आत्मन्{पुं}{6;एक}	षष्ठीसम्बन्धः,2	जीवात्मा_का	ओङ्_ट्हे_लिविन्ग्_एन्टिट्य्				
+4	तस्य	5	0	तद्{पुं}{6;एक}/तद्{नपुं}{6;एक}	तद्{पुं}{6;एक}	विशेषणम्,3	उस	ओङ्_हिम्				
+5	येन	1	येनात्मैवात्मना	येन{अव्य}/यद्{पुं}{3;एक}/यद्{नपुं}{3;एक}	यद्{पुं}{3;एक}	विशेषणम्,8;नित्य_सम्बन्धः,4	जिस	ब्य्_त्होम्				
+6	आत्मा	3	0	आत्मन्{पुं}{1;एक}	आत्मन्{पुं}{1;एक}	कर्म,9	मन_और_इन्द्रियों_सहित_शरीर	मिन्ड्				
+7	एव	8	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,2	ही	चेर्टइन्ल्य्				
+8	आत्मना	2	0	आत्मन्{पुं}{3;एक}	आत्मन्{पुं}{3;एक}	करणम्,9	जीवात्मा_द्वारा	ब्य्_ट्हे_लिविन्ग्_एन्टिट्य्				
+9	जितः	4	जितः	जित्{पुं}{1;बहु}/जित्{पुं}{2;बहु}/जित्{पुं}{5;एक}/जित्{पुं}{6;एक}/जित{पुं}{1;एक}	जि1{कृत्_प्रत्ययः:क्त;जि;भ्वादिः;पुं}{1;एक}	अभिहितकर्म,6;सकर्मकः	जीता_हुआ_है	चोनृउएरेड्				
+9.1	(अस्ति)	10	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,6;अकर्मकः	(है)	इस्				
+10	अन्-आत्मनः	12	अनात्मनस्तु	अन्-{अव्य}-आत्मन्{पुं}{2;बहु}/आत्मन्{पुं}{5;एक}/आत्मन्{पुं}{6;एक}	न-आत्मन्{पुं}{6;एक}	षष्ठीसम्बन्धः,14	जिसके_द्वारा_मन_तथा_इन्द्रियों_सहित_शरीर_नहीं_जीता_गया_है_उसके_लिये	ओङ्_ओने_त्हो_हस्_ङइलेड्_टो_चोन्ट्रोल्_ट्हे_मिन्ड्	<न-आत्मनः>भ्स्म्न्			
+11	तु	11	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,13	और	बुट्				
+12	शत्रुत्वे	16	शत्रुत्वे	शत्रुत्व{नपुं}{1;द्वि}/शत्रुत्व{नपुं}{2;द्वि}/शत्रुत्व{नपुं}{7;एक}	शत्रुत्व{नपुं}{7;एक}	अधिकरणम्,13	शत्रुता_में	बेचउसे_ओङ्_एन्मिट्य्				
+13	वर्तेत	17	वर्तेतात्मैव	वृत्1{कर्तरि;विधिलिङ्;प्र;एक;आत्मनेपदी;वृतुँ;भ्वादिः}	वृत्1{कर्तरि;विधिलिङ्;प्र;एक;आत्मनेपदी;वृतुँ;भ्वादिः}	अभिहितकर्ता,13;अकर्मकः	बरतता_है	रेमइन्स्				
+14	आत्मा	13	0	आत्मन्{पुं}{1;एक}	आत्मन्{पुं}{1;एक}	कर्ता,13	आप	ट्हे_वेर्य्_मिन्ड्				
+15	एव	14	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,14	ही	ओङ्_ट्हे_चोन्डिटिओनेड्_सोउल्				
+16	शत्रुवत्	15	शत्रुवत्	शत्रु{वत्}	शत्रुवत्{अव्य}	क्रियाविशेषणम्,13	शत्रु_के_सदृश	अस्_अन्_एनेम्य्				

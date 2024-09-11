@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sixXim	7	sixXiM	sixXi{swrI}{2;eka}	sixXi{swrI}{2;eka}	karma,2	usako_(nERkarmya-sixXi_ko)	perfection				
-2	prApwaH	8	prApwo	prApwa{puM}{1;eka}	pra_Ap1{kqw_prawyayaH:kwa;pra_ApLz;svAxiH;puM}{1;eka}	viSeRaNam,2.1	prApwa_hokara	achieving				
-2.1	(manuRyaH)	9	(0)	(manuRya{puM}{1;eka})	(manuRya{puM}{1;eka})	karwA,6	(manuRya)	man				
-3	yaWA	6	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,6;niwya_sambanXaH,5	jisa_prakAra_se	as				
-4	brahma	10	brahma	brahman{napuM}{2;eka}	brahman{napuM}{2;eka}	karma,6	brahma_ko	the_Supreme				
-5	waWA	12	waWApnowi	waWA{avya}	waWA{avya}	kriyAviSeRaNam,7	usako_(prakAra_ko)	so				
-6	Apnowi	11	0	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	aBihiwakarwA,2.1;sakarmakaH	prApwa_howA_hE	achieves				
-7	niboXa	17	niboXa	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;buXizr;BvAxiH}	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;ni_buXizr;BvAxiH}		samaJa	try_to_understand				
-8	me	16	me	asmax{6;eka}	asmax{5;eka}	apAxAnam,7	muJase	from_Me				
-9	samAsena	14	samAsenEva	samAsa{puM}{3;eka}	samAsa{puM}{3;eka}	kriyAviSeRaNam,7	saMkRepa_meM	summarily				
-10	eva	15	0	eva{avya}	eva{avya}	sambanXaH,9	hI	certainly				
-11	kOnweya	13	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,7	he_kunwIpuwra	O_son_of_Kunti				
-12	niRTA	4	niRTA	niRTA{swrI}{1;eka}	niRTA{swrI}{1;eka}	karwA,15.1	niRTA	stage				
-13	jFAnasya	2	jFAnasya	jFAna{napuM}{6;eka}	jFAna{napuM}{6;eka}	RaRTIsambanXaH,12	jFAnayoga_kI	of_knowledge				
-14	yA	1	yA	yax{swrI}{1;eka}	yax{swrI}{1;eka}	viSeRaNam,12	jo	which				
-15	parA	3	parA	parA{swrI}{1;eka}/parA{swrI}{1;eka}	parA{swrI}{1;eka}	viSeRaNam,12	parA	transcendental				
-15.1	(aswi)	5	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				
+1	सिद्धिम्	7	सिद्धिं	सिद्धि{स्त्री}{2;एक}	सिद्धि{स्त्री}{2;एक}	कर्म,2	उसको_(नैष्कर्म्य-सिद्धि_को)	पेर्ङेच्टिओन्				
+2	प्राप्तः	8	प्राप्तो	प्राप्त{पुं}{1;एक}	प्र_आप्1{कृत्_प्रत्ययः:क्त;प्र_आपॢँ;स्वादिः;पुं}{1;एक}	विशेषणम्,2.1	प्राप्त_होकर	अच्हिएविन्ग्				
+2.1	(मनुष्यः)	9	(0)	(मनुष्य{पुं}{1;एक})	(मनुष्य{पुं}{1;एक})	कर्ता,6	(मनुष्य)	मन्				
+3	यथा	6	यथा	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,6;नित्य_सम्बन्धः,5	जिस_प्रकार_से	अस्				
+4	ब्रह्म	10	ब्रह्म	ब्रह्मन्{नपुं}{2;एक}	ब्रह्मन्{नपुं}{2;एक}	कर्म,6	ब्रह्म_को	ट्हे_शुप्रेमे				
+5	तथा	12	तथाप्नोति	तथा{अव्य}	तथा{अव्य}	क्रियाविशेषणम्,7	उसको_(प्रकार_को)	सो				
+6	आप्नोति	11	0	आप्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;आपॢँ;स्वादिः}	आप्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;आपॢँ;स्वादिः}	अभिहितकर्ता,2.1;सकर्मकः	प्राप्त_होता_है	अच्हिएवेस्				
+7	निबोध	17	निबोध	नि_बुध्2{कर्तरि;लोट्;म;एक;परस्मैपदी;बुधिँर्;भ्वादिः}	नि_बुध्2{कर्तरि;लोट्;म;एक;परस्मैपदी;नि_बुधिँर्;भ्वादिः}		समझ	ट्र्य्_टो_उन्डेर्स्टन्ड्				
+8	मे	16	मे	अस्मद्{6;एक}	अस्मद्{5;एक}	अपादानम्,7	मुझसे	ङ्रोम्_ंए				
+9	समासेन	14	समासेनैव	समास{पुं}{3;एक}	समास{पुं}{3;एक}	क्रियाविशेषणम्,7	संक्षेप_में	सुम्मरिल्य्				
+10	एव	15	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,9	ही	चेर्टइन्ल्य्				
+11	कौन्तेय	13	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,7	हे_कुन्तीपुत्र	औ_सोन्_ओङ्_खुन्टि				
+12	निष्ठा	4	निष्ठा	निष्ठा{स्त्री}{1;एक}	निष्ठा{स्त्री}{1;एक}	कर्ता,15.1	निष्ठा	स्टगे				
+13	ज्ञानस्य	2	ज्ञानस्य	ज्ञान{नपुं}{6;एक}	ज्ञान{नपुं}{6;एक}	षष्ठीसम्बन्धः,12	ज्ञानयोग_की	ओङ्_क्नोत्लेड्गे				
+14	या	1	या	यद्{स्त्री}{1;एक}	यद्{स्त्री}{1;एक}	विशेषणम्,12	जो	त्हिच्ह्				
+15	परा	3	परा	परा{स्त्री}{1;एक}/परा{स्त्री}{1;एक}	परा{स्त्री}{1;एक}	विशेषणम्,12	परा	ट्रन्स्चेन्डेन्टल्				
+15.1	(अस्ति)	5	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,12;अकर्मकः	(है)	इस्				

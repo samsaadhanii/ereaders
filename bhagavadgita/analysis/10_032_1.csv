@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sargANAm	4	sargANAmAxiranwaSca	sarga{puM}{6;bahu}	sarga{puM}{6;bahu}	nirXAraNam,4	sqRtiyoM_kA	of_all_creations				
-2	AxiH	5	0	Axi{puM}{1;eka}	Axi{puM}{1;eka}	sup_samucciwaH,5	Axi	beginning				
-3	anwaH	6	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	sup_samucciwaH,5	anwa	end				
-4	ca	7	0	ca{avya}	ca{avya}	sambanXaH,8	Ora	and				
-5	maXyam	8	maXyaM	maXya{puM}{2;eka}/maXya{napuM}{1;eka}/maXya{napuM}{2;eka}	maXya{napuM}{1;eka}	viXeya_viSeRaNam,9.1	maXya	middle				
-6	ca	9	cEvAhamarjuna	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	waWA	also				
-7	eva	3	0	eva{avya}	eva{avya}	sambanXaH,6	hI	certainly				
-8	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,9.1	mEM	I				
-9	arjuna	1	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,9.1	he_arjuna	O_Arjuna				
-9.1	(asmi)	10	()	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,8;akarmakaH						
-10	aXi-Awma-vixyA	13	aXyAwmavixyA	aXi-Awman-vixyA{swrI}{1;eka}	aXyAwman-vixyA{swrI}{1;eka}	sup_samucciwaH,12	aXyAwmavixyA	spiritual_knowledge	<<aXi-Awma>A1-vixyA>T6			
-11	vixyAnAm	12	vixyAnAM	vixyA{swrI}{6;bahu}	vixyA{swrI}{6;bahu}	nirXAraNam,10	vixyAoM_meM	of_all_education				
-12	vAxaH	15	vAxaH	vAxa{puM}{1;eka}	vAxa{puM}{1;eka}	viXeya_viSeRaNam,14.1	wawva-nirNaya_ke_liye_kiyA_jAnevAlA_vAxa	natural_conclusion				
-13	pravaxawAm	14	pravaxawAmaham	pravaxawA{swrI}{2;eka}/pra_vax1{karwari;lot;pra;xvi;parasmEpaxI;vaxaz;BvAxiH}	pra_vax1{kqw_prawyayaH:Sawq;pra_vaxaz;BvAxiH;puM}{6;bahu}	nirXAraNam,12	paraspara_vivAxa_karanevAloM_kA	of_arguments				
-13.1	ca	16	cEvAhamarjuna	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	waWA	also				
-14	aham	11	0	asmax{1;eka}	asmax{1;eka}	karwA,14.1	mEM	I				
-14.1	(asmi)	17	()	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,14;akarmakaH						
+1	सर्गाणाम्	4	सर्गाणामादिरन्तश्च	सर्ग{पुं}{6;बहु}	सर्ग{पुं}{6;बहु}	निर्धारणम्,4	सृष्टियों_का	ओङ्_अल्ल्_च्रेअटिओन्स्				
+2	आदिः	5	0	आदि{पुं}{1;एक}	आदि{पुं}{1;एक}	सुप्_समुच्चितः,5	आदि	बेगिन्निन्ग्				
+3	अन्तः	6	0	अन्तः{अव्य}/अन्त{पुं}{1;एक}	अन्त{पुं}{1;एक}	सुप्_समुच्चितः,5	अन्त	एन्ड्				
+4	च	7	0	च{अव्य}	च{अव्य}	सम्बन्धः,8	और	अन्ड्				
+5	मध्यम्	8	मध्यं	मध्य{पुं}{2;एक}/मध्य{नपुं}{1;एक}/मध्य{नपुं}{2;एक}	मध्य{नपुं}{1;एक}	विधेय_विशेषणम्,9.1	मध्य	मिड्ड्ले				
+6	च	9	चैवाहमर्जुन	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	तथा	अल्सो				
+7	एव	3	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,6	ही	चेर्टइन्ल्य्				
+8	अहम्	2	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,9.1	मैं	ई				
+9	अर्जुन	1	0	अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,9.1	हे_अर्जुन	औ_आर्जुन				
+9.1	(अस्मि)	10	()	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,8;अकर्मकः						
+10	अधि-आत्म-विद्या	13	अध्यात्मविद्या	अधि-आत्मन्-विद्या{स्त्री}{1;एक}	अध्यात्मन्-विद्या{स्त्री}{1;एक}	सुप्_समुच्चितः,12	अध्यात्मविद्या	स्पिरिटुअल्_क्नोत्लेड्गे	<<अधि-आत्म>आ1-विद्या>ठ्6			
+11	विद्यानाम्	12	विद्यानां	विद्या{स्त्री}{6;बहु}	विद्या{स्त्री}{6;बहु}	निर्धारणम्,10	विद्याओं_में	ओङ्_अल्ल्_एडुचटिओन्				
+12	वादः	15	वादः	वाद{पुं}{1;एक}	वाद{पुं}{1;एक}	विधेय_विशेषणम्,14.1	तत्व-निर्णय_के_लिये_किया_जानेवाला_वाद	नटुरल्_चोन्च्लुसिओन्				
+13	प्रवदताम्	14	प्रवदतामहम्	प्रवदता{स्त्री}{2;एक}/प्र_वद्1{कर्तरि;लोट्;प्र;द्वि;परस्मैपदी;वदँ;भ्वादिः}	प्र_वद्1{कृत्_प्रत्ययः:शतृ;प्र_वदँ;भ्वादिः;पुं}{6;बहु}	निर्धारणम्,12	परस्पर_विवाद_करनेवालों_का	ओङ्_अर्गुमेन्ट्स्				
+13.1	च	16	चैवाहमर्जुन	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,12	तथा	अल्सो				
+14	अहम्	11	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,14.1	मैं	ई				
+14.1	(अस्मि)	17	()	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,14;अकर्मकः						

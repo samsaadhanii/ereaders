@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xEvam	3	xEvamevApare	xEva{puM}{2;eka}/xEva{napuM}{1;eka}/xEva{napuM}{2;eka}	xEva{puM}{2;eka}	viSeRaNam,4	xevawAoM_ke_pUjanarUpa	in_worshiping_the_demigods				
-2	eva	5		eva{avya}	eva{avya}	sambanXaH,4	hI	like_this				
-3	a-pare	1		apara{puM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/apara{napuM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}	apara{puM}{1;bahu}	viSeRaNam,5	xUsare	some	<na-pare>Tn			
-4	yajFam	4	yajFaM	yajFa{puM}{2;eka}	yajFa{puM}{2;eka}	karma,6	yajFa_kA	sacrifices				
-5	yoginaH	2	yoginaH	yogin{puM}{1;bahu}/yogin{puM}{2;bahu}/yogin{puM}{5;eka}/yogin{puM}{6;eka}/yogin{puM}{8;bahu}	yogin{puM}{1;bahu}	karwA,6	yogIjana	the_mystics				
-6	paryupAsawe	6	paryupAsawe	paryupAsawe	pari_upa_As1{karwari;lat;pra;bahu;AwmanepaxI;pari_upa_Asaz;axAxiH}		BalIBAzwi_anuRTAna_kiyA_karawe_hEM	worship_perfectly				
-7	brahma-agnO	8	brahmAgnAvapare	brahmA-agni{puM}{7;eka}	brahman-agni{puM}{7;eka}	aXikaraNam,12	parabrahma_paramAwmArUpa_agni_meM_(aBexaxarSanarUpa)	in_the_fire_of_the_Absolute_Truth	<brahma-agnO>K1			
-8	a-pare	7		apara{puM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/apara{napuM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}	apara{puM}{1;bahu}	karwA,12	anya_(yogIjana)	others	<na-pare>Tn			
-9	yajFam	11	yajFaM	yajFa{puM}{2;eka}	yajFa{puM}{2;eka}	karma,12	AwmarUpa_yajFa_kA	sacrifice				
-10	yajFena	9	yajFenEvopajuhvawi	yajFa{puM}{3;eka}	yajFa{puM}{3;eka}	karaNam,12	yajFa_ke_xvArA	by_sacrifice				
-11	eva	10		eva{avya}	eva{avya}	sambanXaH,10	hI	thus				
-12	upajuhvawi	12		upajuhvawi	upa_hu1{karwari;lat;pra;bahu;parasmEpaxI;upa_hu;juhowyAxiH}		havana_kiyA_karawe_hEM	worship				
+1	दैवम्	3	दैवमेवापरे	दैव{पुं}{2;एक}/दैव{नपुं}{1;एक}/दैव{नपुं}{2;एक}	दैव{पुं}{2;एक}	विशेषणम्,4	देवताओं_के_पूजनरूप	इन्_तोर्स्हिपिन्ग्_ट्हे_डेमिगोड्स्				
+2	एव	5		एव{अव्य}	एव{अव्य}	सम्बन्धः,4	ही	लिके_ट्हिस्				
+3	अ-परे	1		अपर{पुं}{7;एक}/अपर{नपुं}{1;द्वि}/अपर{नपुं}{2;द्वि}/अपर{नपुं}{7;एक}/अपर{नपुं}{1;द्वि}/अपर{नपुं}{2;द्वि}/अपरा{स्त्री}{1;द्वि}/अपरा{स्त्री}{2;द्वि}/अपरा{स्त्री}{1;द्वि}/अपरा{स्त्री}{2;द्वि}	अपर{पुं}{1;बहु}	विशेषणम्,5	दूसरे	सोमे	<न-परे>ठ्न्			
+4	यज्ञम्	4	यज्ञं	यज्ञ{पुं}{2;एक}	यज्ञ{पुं}{2;एक}	कर्म,6	यज्ञ_का	सच्रिङिचेस्				
+5	योगिनः	2	योगिनः	योगिन्{पुं}{1;बहु}/योगिन्{पुं}{2;बहु}/योगिन्{पुं}{5;एक}/योगिन्{पुं}{6;एक}/योगिन्{पुं}{8;बहु}	योगिन्{पुं}{1;बहु}	कर्ता,6	योगीजन	ट्हे_म्य्स्टिच्स्				
+6	पर्युपासते	6	पर्युपासते	पर्युपासते	परि_उप_आस्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;परि_उप_आसँ;अदादिः}		भलीभाँति_अनुष्ठान_किया_करते_हैं	तोर्स्हिप्_पेर्ङेच्ट्ल्य्				
+7	ब्रह्म-अग्नौ	8	ब्रह्माग्नावपरे	ब्रह्मा-अग्नि{पुं}{7;एक}	ब्रह्मन्-अग्नि{पुं}{7;एक}	अधिकरणम्,12	परब्रह्म_परमात्मारूप_अग्नि_में_(अभेददर्शनरूप)	इन्_ट्हे_ङिरे_ओङ्_ट्हे_आब्सोलुटे_ठ्रुट्ह्	<ब्रह्म-अग्नौ>ख्1			
+8	अ-परे	7		अपर{पुं}{7;एक}/अपर{नपुं}{1;द्वि}/अपर{नपुं}{2;द्वि}/अपर{नपुं}{7;एक}/अपर{नपुं}{1;द्वि}/अपर{नपुं}{2;द्वि}/अपरा{स्त्री}{1;द्वि}/अपरा{स्त्री}{2;द्वि}/अपरा{स्त्री}{1;द्वि}/अपरा{स्त्री}{2;द्वि}	अपर{पुं}{1;बहु}	कर्ता,12	अन्य_(योगीजन)	ओट्हेर्स्	<न-परे>ठ्न्			
+9	यज्ञम्	11	यज्ञं	यज्ञ{पुं}{2;एक}	यज्ञ{पुं}{2;एक}	कर्म,12	आत्मरूप_यज्ञ_का	सच्रिङिचे				
+10	यज्ञेन	9	यज्ञेनैवोपजुह्वति	यज्ञ{पुं}{3;एक}	यज्ञ{पुं}{3;एक}	करणम्,12	यज्ञ_के_द्वारा	ब्य्_सच्रिङिचे				
+11	एव	10		एव{अव्य}	एव{अव्य}	सम्बन्धः,10	ही	ट्हुस्				
+12	उपजुह्वति	12		उपजुह्वति	उप_हु1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;उप_हु;जुहोत्यादिः}		हवन_किया_करते_हैं	तोर्स्हिप्				

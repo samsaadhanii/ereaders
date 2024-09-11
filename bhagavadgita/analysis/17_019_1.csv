@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mUDa-grAheNa	3	mUDagrAheNAwmano	mUDa-grAha{puM}{3;eka}	mUDa-grAha{puM}{3;eka}	anyawaraH,4	mUDawApUrvaka_haTa_se	with_foolish_endeavor	<mUDa-grAheNa>K1			
-2	AwmanaH	4	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,4	mana_vANI_Ora_SarIra_kI	of_one's_own_self				
-3	yaw	1	yawpIdayA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	viSeRaNam,6;niwya_sambanXaH,10	jo	which				
-4	pIdayA	5	0	pIdA{swrI}{3;eka}	pIdA{swrI}{3;eka}	karaNam,5	pIda़A_ke	by_torture				
-5	kriyawe	9	kriyawe	kq2{karmaNi;lat;pra;eka;AwmanepaxI;kqF;svAxiH}/kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}/kriyawA{swrI}{1;xvi}/kriyawA{swrI}{2;xvi}	kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwakarma,6;sakarkamaH	kiyA_jAwA_hE	is_performed				
-6	wapaH	2	wapaH	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	karma,5	wapa	penance				
-7	parasya	7	parasyowsAxanArWa	para{puM}{6;eka}/para{napuM}{6;eka}/para{puM}{6;eka}/para{napuM}{6;eka}	para{puM}{6;eka}	RaRTIsambanXaH,8	xUsare_kA	to_others				
-8	uw-sAxanArWam	8	0	uwsAxana{arWam}	ux-sAxana{napuM}{1;eka}	prayojanam,5	aniRta_karane_ke_liye	causing_annihilation				
-9	vA	6	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,4	aWavA	or				
-10	waw	10	wawwAmasamuxAhqwam	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,12.1	vaha	that				
-11	wAmasam	12	0	wAmasa{puM}{2;eka}/wAmasa{napuM}{1;eka}/wAmasa{napuM}{2;eka}	wAmasa{puM}{2;eka}	karmasamAnAXikaraNam,12	wAmasa	in_the_mode_of_darkness				
-12	uxAhqwam	13	0	uxAhqwa{puM}{2;eka}/uxAhqwa{napuM}{1;eka}/uxAhqwa{napuM}{2;eka}	uw_Af_hq1{kqw_prawyayaH:kwa;uw_Af_hqF;BvAxiH;napuM}{1;eka}	aBihiwakarma,12.1;sakarkamaH	kahA_gayA_hE	is_said_to_be				
-12.1	(wapaH)	11	(0)	(wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka})	(wapas{napuM}{2;eka})	karma,12	(wapa)	penance				
+1	मूढ-ग्राहेण	3	मूढग्राहेणात्मनो	मूढ-ग्राह{पुं}{3;एक}	मूढ-ग्राह{पुं}{3;एक}	अन्यतरः,4	मूढतापूर्वक_हठ_से	तिट्ह्_ङोओलिस्ह्_एन्डेअवोर्	<मूढ-ग्राहेण>ख्1			
+2	आत्मनः	4	0	आत्मन्{पुं}{2;बहु}/आत्मन्{पुं}{5;एक}/आत्मन्{पुं}{6;एक}	आत्मन्{पुं}{6;एक}	षष्ठीसम्बन्धः,4	मन_वाणी_और_शरीर_की	ओङ्_ओने'स्_ओत्न्_सेल्ङ्				
+3	यत्	1	यत्पीडया	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यत्{अव्य}	विशेषणम्,6;नित्य_सम्बन्धः,10	जो	त्हिच्ह्				
+4	पीडया	5	0	पीडा{स्त्री}{3;एक}	पीडा{स्त्री}{3;एक}	करणम्,5	पीडॆअञआ_के	ब्य्_टोर्टुरे				
+5	क्रियते	9	क्रियते	कृ2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;कृञ्;स्वादिः}/कृ3{कर्मणि;लट्;प्र;एक;आत्मनेपदी;डुकृञ्;तनादिः}/क्रियता{स्त्री}{1;द्वि}/क्रियता{स्त्री}{2;द्वि}	कृ3{कर्मणि;लट्;प्र;एक;आत्मनेपदी;डुकृञ्;तनादिः}	अभिहितकर्म,6;सकर्कमः	किया_जाता_है	इस्_पेर्ङोर्मेड्				
+6	तपः	2	तपः	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}	तपस्{नपुं}{1;एक}	कर्म,5	तप	पेनन्चे				
+7	परस्य	7	परस्योत्सादनार्थ	पर{पुं}{6;एक}/पर{नपुं}{6;एक}/पर{पुं}{6;एक}/पर{नपुं}{6;एक}	पर{पुं}{6;एक}	षष्ठीसम्बन्धः,8	दूसरे_का	टो_ओट्हेर्स्				
+8	उत्-सादनार्थम्	8	0	उत्सादन{अर्थम्}	उद्-सादन{नपुं}{1;एक}	प्रयोजनम्,5	अनिष्ट_करने_के_लिये	चउसिन्ग्_अन्निहिलटिओन्				
+9	वा	6	वा	वा{अव्य}	वा{अव्य}	अन्यतर_द्योतकः,4	अथवा	ओर्				
+10	तत्	10	तत्तामसमुदाहृतम्	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	विशेषणम्,12.1	वह	ट्हट्				
+11	तामसम्	12	0	तामस{पुं}{2;एक}/तामस{नपुं}{1;एक}/तामस{नपुं}{2;एक}	तामस{पुं}{2;एक}	कर्मसमानाधिकरणम्,12	तामस	इन्_ट्हे_मोडे_ओङ्_डर्क्नेस्स्				
+12	उदाहृतम्	13	0	उदाहृत{पुं}{2;एक}/उदाहृत{नपुं}{1;एक}/उदाहृत{नपुं}{2;एक}	उत्_आङ्_हृ1{कृत्_प्रत्ययः:क्त;उत्_आङ्_हृञ्;भ्वादिः;नपुं}{1;एक}	अभिहितकर्म,12.1;सकर्कमः	कहा_गया_है	इस्_सइड्_टो_बे				
+12.1	(तपः)	11	(0)	(तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक})	(तपस्{नपुं}{2;एक})	कर्म,12	(तप)	पेनन्चे				

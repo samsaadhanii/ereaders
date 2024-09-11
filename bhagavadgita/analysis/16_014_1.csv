@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	asO	1	asO	asu{puM}{7;eka}/asi{puM}{7;eka}/asi{swrI}{7;eka}/axas{puM}{1;eka}/axas{swrI}{1;eka}	axas{puM}{1;eka}	viSeRaNam,4	vaha	that				
-2	mayA	3	mayA	asmax{3;eka}	asmax{3;eka}	karwA,3	mere_xvArA	by_me				
-3	hawaH	4	hawaH	hawa{puM}{1;eka}/han1{karwari;lat;pra;xvi;parasmEpaxI;hanaz;axAxiH}	han1{kqw_prawyayaH:kwa;hanaz;axAxiH;puM}{1;eka}	aBihiwakarma,4;sakarmakaH	mArA_gayA	has_been_killed				
-4	SawruH	2	SawrurhaniRye	Sawru{puM}{1;eka}	Sawru{puM}{1;eka}	karma,3	Sawru	enemy				
-5	haniRye	8	0	han1{karmaNi;lqt;u;eka;AwmanepaxI;hanaz;axAxiH}	han1{karwari;lqt;u;eka;AwmanepaxI;hanaz;axAxiH}		mAra_dAlUzgA	shall_kill				
-6	ca	6	cAparAnapi	ca{avya}	ca{avya}	sambanXaH,5	Ora	also				
-7	a-parAn	5	0	apara{puM}{2;bahu}/apara{puM}{2;bahu}	apara{puM}{2;bahu}	karma,5	xUsare_SawruoM_ko	others	<na-parAn>Tn			
-8	api	7	0	api{avya}	api{avya}	sambanXaH,7	BI	certainly				
-9	ISvaraH	10	ISvaroZhamahaM	ISvara{puM}{1;eka}	ISvara{puM}{1;eka}	viXeya_viSeRaNam,10.1	ISvara	the_lord				
-10	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,10.1	mEM	I				
-10.1	(asmi)	11	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10;akarmakaH	(hUz)	am				
-11	aham	12	0	asmax{1;eka}	asmax{1;eka}	karwA,12	mEM	I				
-12	BogI	13		Bogin{puM}{1;eka}	Bogin{puM}{1;eka}	viXeya_viSeRaNam,12.1	ESvarya_ko_BoganevAlA	the_enjoyer				
-12.1	(asmi)	14	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hUz)	am				
-13	sixXaH	16	sixXoZhaM	sixXa{puM}{1;eka}	sixXa{puM}{1;eka}	sup_samucciwaH,16	saba_sixXiyoM_se_yukwa	perfect				
-14	aham	15	0	asmax{1;eka}	asmax{1;eka}	karwA,16.2	mEM	I				
-15	balavAn	17	balavAnsuKI	balavaw{puM}{1;eka}	balavaw{puM}{1;eka}	sup_samucciwaH,16	balavAn	powerful				
-16	suKI	18	0	suKI{swrI}{1;eka}/suKin{puM}{1;eka}	suKin{puM}{1;eka}	viXeya_viSeRaNam,16.2	suKI	happy				
-16.1	(ca)	19	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,16	(Ora)	also				
-16.2	(asmi)	20	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,14;akarmakaH	(hUz)	am				
+1	असौ	1	असौ	असु{पुं}{7;एक}/असि{पुं}{7;एक}/असि{स्त्री}{7;एक}/अदस्{पुं}{1;एक}/अदस्{स्त्री}{1;एक}	अदस्{पुं}{1;एक}	विशेषणम्,4	वह	ट्हट्				
+2	मया	3	मया	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,3	मेरे_द्वारा	ब्य्_मे				
+3	हतः	4	हतः	हत{पुं}{1;एक}/हन्1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;हनँ;अदादिः}	हन्1{कृत्_प्रत्ययः:क्त;हनँ;अदादिः;पुं}{1;एक}	अभिहितकर्म,4;सकर्मकः	मारा_गया	हस्_बेएन्_किल्लेड्				
+4	शत्रुः	2	शत्रुर्हनिष्ये	शत्रु{पुं}{1;एक}	शत्रु{पुं}{1;एक}	कर्म,3	शत्रु	एनेम्य्				
+5	हनिष्ये	8	0	हन्1{कर्मणि;लृट्;उ;एक;आत्मनेपदी;हनँ;अदादिः}	हन्1{कर्तरि;लृट्;उ;एक;आत्मनेपदी;हनँ;अदादिः}		मार_डालूँगा	स्हल्ल्_किल्ल्				
+6	च	6	चापरानपि	च{अव्य}	च{अव्य}	सम्बन्धः,5	और	अल्सो				
+7	अ-परान्	5	0	अपर{पुं}{2;बहु}/अपर{पुं}{2;बहु}	अपर{पुं}{2;बहु}	कर्म,5	दूसरे_शत्रुओं_को	ओट्हेर्स्	<न-परान्>ठ्न्			
+8	अपि	7	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,7	भी	चेर्टइन्ल्य्				
+9	ईश्वरः	10	ईश्वरोऽहमहं	ईश्वर{पुं}{1;एक}	ईश्वर{पुं}{1;एक}	विधेय_विशेषणम्,10.1	ईश्वर	ट्हे_लोर्ड्				
+10	अहम्	9	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,10.1	मैं	ई				
+10.1	(अस्मि)	11	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,10;अकर्मकः	(हूँ)	अम्				
+11	अहम्	12	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,12	मैं	ई				
+12	भोगी	13		भोगिन्{पुं}{1;एक}	भोगिन्{पुं}{1;एक}	विधेय_विशेषणम्,12.1	ऐश्वर्य_को_भोगनेवाला	ट्हे_एन्जोयेर्				
+12.1	(अस्मि)	14	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,11;अकर्मकः	(हूँ)	अम्				
+13	सिद्धः	16	सिद्धोऽहं	सिद्ध{पुं}{1;एक}	सिद्ध{पुं}{1;एक}	सुप्_समुच्चितः,16	सब_सिद्धियों_से_युक्त	पेर्ङेच्ट्				
+14	अहम्	15	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,16.2	मैं	ई				
+15	बलवान्	17	बलवान्सुखी	बलवत्{पुं}{1;एक}	बलवत्{पुं}{1;एक}	सुप्_समुच्चितः,16	बलवान्	पोतेर्ङुल्				
+16	सुखी	18	0	सुखी{स्त्री}{1;एक}/सुखिन्{पुं}{1;एक}	सुखिन्{पुं}{1;एक}	विधेय_विशेषणम्,16.2	सुखी	हप्प्य्				
+16.1	(च)	19	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,16	(और)	अल्सो				
+16.2	(अस्मि)	20	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,14;अकर्मकः	(हूँ)	अम्				

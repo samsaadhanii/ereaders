@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wasmAw	1	wasmAnnArhA	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{napuM}{5;eka}	hewuH,5	awaeva	therefore				
-2	na	6	0	na{avya}	na{avya}	prawiReXaH,5	nahIM	never				
-3	arhAH	8	arhAH	arha{puM}{1;bahu}/arhA{swrI}{1;bahu}/arhA{swrI}{2;bahu}	arh1{kqw_prawyayaH:ac;arhaz;BvAxiH;puM}{1;bahu}	karwA,3.1	yogya_hEM	deserving_to_kill				
-3.1	(smaH)	8.1	()	as2{karwari;lat;u;bahu;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;bahu;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,3						
-4	vayam	3	vayaM	asmax{1;bahu}	asmax{1;bahu}	karwA,3	hama	we				
-5	hanwum	7	hanwuM		han1{kqw_prawyayaH:wumun;hanaz;axAxiH}	sahAyakakriyA,3	mArane_ke_liye	deserving_to_kill				
-6	XArwarARtrAn	5	XArwarARtrAnsvabAnXavAn	XArwarARtra{puM}{2;bahu}	XArwarARtra{puM}{2;bahu}	karma,5	XqwarARtra_ke_puwroM_ko	the_sons_of_Dhrtarastra				
-7	sva-bAnXavAn	4	0	sva-bAnXava{puM}{2;bahu}	sva-bAnXava{puM}{2;bahu}	viSeRaNam,6	apane_hI_bAnXava	our_relations	<sva-bAnXavAn>T6			
-8	sva-janam	10	svajanaM	sva-jana{puM}{2;eka}	sva-jana{puM}{2;eka}	karma,11	apane_hI_kutumba_ko	our_own_kinsmen	<sva-janaM>T6			
-9	hi	9	hi	hi{avya}	hi{avya}	sambanXaH,13	kyoMki	certainly				
-10	kaWam	12	kaWaM	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,13	kEse	how				
-11	hawvA	11	hawvA	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	pUrvakAlaH,13	mArakara	by_killing				
-12	suKinaH	13	suKinaH	suKI{napuM}{5;eka}/suKI{napuM}{6;eka}/suKin{puM}{1;bahu}/suKin{puM}{2;bahu}/suKin{puM}{5;eka}/suKin{puM}{6;eka}/suKin{napuM}{5;eka}/suKin{napuM}{6;eka}	suKin{puM}{1;bahu}	karwA,13	suKI	happy				
-13	syAma	14	syAma	so1{karwari;lot;u;bahu;parasmEpaxI;Ro;xivAxiH}/as2{karwari;viXilif;u;bahu;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;u;bahu;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,14.1	hoMge	become				
-14	mAXava	2	mAXava	mAXava{puM}{8;eka}	mAXava{puM}{8;eka}	samboXyaH,5	he_mAXava	O_Krsna_husband_of_the_goddess_of_fortune				
-14.1	(vayam)	9.1	(vayaM)	asmax{1;bahu}	asmax{1;bahu}	karwA,13	hama	we				
+1	तस्मात्	1	तस्मान्नार्हा	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तद्{नपुं}{5;एक}	हेतुः,5	अतएव	ट्हेरेङोरे				
+2	न	6	0	न{अव्य}	न{अव्य}	प्रतिषेधः,5	नहीं	नेवेर्				
+3	अर्हाः	8	अर्हाः	अर्ह{पुं}{1;बहु}/अर्हा{स्त्री}{1;बहु}/अर्हा{स्त्री}{2;बहु}	अर्ह्1{कृत्_प्रत्ययः:अच्;अर्हँ;भ्वादिः;पुं}{1;बहु}	कर्ता,3.1	योग्य_हैं	डेसेर्विन्ग्_टो_किल्ल्				
+3.1	(स्मः)	8.1	()	अस्2{कर्तरि;लट्;उ;बहु;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;बहु;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,3						
+4	वयम्	3	वयं	अस्मद्{1;बहु}	अस्मद्{1;बहु}	कर्ता,3	हम	ते				
+5	हन्तुम्	7	हन्तुं		हन्1{कृत्_प्रत्ययः:तुमुन्;हनँ;अदादिः}	सहायकक्रिया,3	मारने_के_लिये	डेसेर्विन्ग्_टो_किल्ल्				
+6	धार्तराष्ट्रान्	5	धार्तराष्ट्रान्स्वबान्धवान्	धार्तराष्ट्र{पुं}{2;बहु}	धार्तराष्ट्र{पुं}{2;बहु}	कर्म,5	धृतराष्ट्र_के_पुत्रों_को	ट्हे_सोन्स्_ओङ्_ढ्ह्र्टरस्ट्र				
+7	स्व-बान्धवान्	4	0	स्व-बान्धव{पुं}{2;बहु}	स्व-बान्धव{पुं}{2;बहु}	विशेषणम्,6	अपने_ही_बान्धव	ओउर्_रेलटिओन्स्	<स्व-बान्धवान्>ठ्6			
+8	स्व-जनम्	10	स्वजनं	स्व-जन{पुं}{2;एक}	स्व-जन{पुं}{2;एक}	कर्म,11	अपने_ही_कुटुम्ब_को	ओउर्_ओत्न्_किन्स्मेन्	<स्व-जनं>ठ्6			
+9	हि	9	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,13	क्योंकि	चेर्टइन्ल्य्				
+10	कथम्	12	कथं	कथम्{अव्य}	कथम्{अव्य}	क्रियाविशेषणम्,13	कैसे	होत्				
+11	हत्वा	11	हत्वा	हन्1{कृत्_प्रत्ययः:क्त्वा;हनँ;अदादिः}	हन्1{कृत्_प्रत्ययः:क्त्वा;हनँ;अदादिः}	पूर्वकालः,13	मारकर	ब्य्_किल्लिन्ग्				
+12	सुखिनः	13	सुखिनः	सुखी{नपुं}{5;एक}/सुखी{नपुं}{6;एक}/सुखिन्{पुं}{1;बहु}/सुखिन्{पुं}{2;बहु}/सुखिन्{पुं}{5;एक}/सुखिन्{पुं}{6;एक}/सुखिन्{नपुं}{5;एक}/सुखिन्{नपुं}{6;एक}	सुखिन्{पुं}{1;बहु}	कर्ता,13	सुखी	हप्प्य्				
+13	स्याम	14	स्याम	सो1{कर्तरि;लोट्;उ;बहु;परस्मैपदी;षो;दिवादिः}/अस्2{कर्तरि;विधिलिङ्;उ;बहु;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;विधिलिङ्;उ;बहु;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,14.1	होंगे	बेचोमे				
+14	माधव	2	माधव	माधव{पुं}{8;एक}	माधव{पुं}{8;एक}	सम्बोध्यः,5	हे_माधव	औ_ख्र्स्न_हुस्बन्ड्_ओङ्_ट्हे_गोड्डेस्स्_ओङ्_ङोर्टुने				
+14.1	(वयम्)	9.1	(वयं)	अस्मद्{1;बहु}	अस्मद्{1;बहु}	कर्ता,13	हम	ते				

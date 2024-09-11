@@ -1,22 +1,22 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	gurUn	3	gurUnahawvA	guru{puM}{2;bahu}	guru{puM}{2;bahu}	karma,2	gurujanoM_ko	elders				
-2	a-hawvA	4	0	ahawvA	a-han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	pUrvakAlaH,10.1	na_mArakara	without_slaying				
-3	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,5	kyoMki	because				
-4	mahaw-anuBAvAn	2	mahAnuBAvAn	mahAnuBAva{puM}{2;bahu}	mahAnuBAva{puM}{2;bahu}	viSeRaNam,1	mahAnuBAva	noble	<mahaw-anuBAvAn>Bs6			
-5	SreyaH	10	Sreyo	Sreya{puM}{1;eka}	Sreyas{napuM}{1;eka}	karwA,10.1	kalyANakAraka	better				
-6	Bokwum	8	BokwuM	Buj1{kqw_prawyayaH:wumun;Bujoz;wuxAxiH}/Buj2{kqw_prawyayaH:wumun;Bujaz;ruXAxiH}	Buj2{kqw_prawyayaH:wumun;Bujaz;ruXAxiH}	prayojanam,5	KAnA	to_live_on				
-7	BEkRyam	7	BEkRyamapIha	BEkRyam	BEkRya{napuM}{2;eka}	karma,6	BikRA_kA_anna	alms				
-8	api	9	0	api{avya}	api{avya}	sambanXaH,6	BI	even				
-9	iha	5	0	iha{avya}	iha{avya}	viSeRaNam,10	isa	in_this				
-10	loke	6	loke	loka{puM}{7;eka}	loka{puM}{7;eka}	aXikaraNam,10.1	loka_meM	world				
-10.1	(aswi)	11	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hE)	is				
-11	hawvA	13	hawvArWarWakAmAMswu	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	pUrvakAlaH,17	mArakara	after_killing				
-12	arWa-kAmAn	18	0	arWa-kAma{puM}{2;bahu}	arWa-kAma{puM}{2;bahu}	viSeRaNam,18	arWa_Ora_kAmarUpa	in_the_form_of_wealth_and_sense-enjoyments	<arWa-kAmAn>U			
-13	wu	14	0	wu{avya}	wu{avya}	sambanXaH,11	wo	even				
-14	gurUn	12	gurUnihEva	guru{puM}{2;bahu}	guru{puM}{2;bahu}	karma,11	gurujanoM_ko	elders				
-15	iha	15	0	iha{avya}	iha{avya}	aXikaraNam,17	yahAz_(isa_loka_meM)	in_this_life				
-16	eva	16	0	eva{avya}	eva{avya}	sambanXaH,15	hI	after_all				
-17	BuFjIya	20	BuFjIya	Buj2{karwari;viXilif;u;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{karwari;viXilif;u;eka;AwmanepaxI;Bujaz;ruXAxiH}	aBihiwakarwA,19.1;sakarmakaH	BogUzgA	shall_enjoy				
-18	BogAn	19	BogAnruXirapraxigXAn	Boga{puM}{2;bahu}	Boga{puM}{2;bahu}	karma,17	BogoM_ko	pleasures				
-19	ruXira-praxigXAn	17	0	ruXira-praxigXAn	ruXira-pra_xih1{kqw_prawyayaH:kwa;pra_xihaz;axAxiH;puM}{2;bahu}	viSeRaNam,18	ruXira_se_sane_hue	bloodstained	<ruXira-praxigXAn>T3			
-19.1	(aham)	19.1	(0)	asmax{1;eka}	asmax{1;eka}	karwA,17	mEM	I				
+1	गुरून्	3	गुरूनहत्वा	गुरु{पुं}{2;बहु}	गुरु{पुं}{2;बहु}	कर्म,2	गुरुजनों_को	एल्डेर्स्				
+2	अ-हत्वा	4	0	अहत्वा	अ-हन्1{कृत्_प्रत्ययः:क्त्वा;हनँ;अदादिः}	पूर्वकालः,10.1	न_मारकर	तिट्होउट्_स्लयिन्ग्				
+3	हि	1	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,5	क्योंकि	बेचउसे				
+4	महत्-अनुभावान्	2	महानुभावान्	महानुभाव{पुं}{2;बहु}	महानुभाव{पुं}{2;बहु}	विशेषणम्,1	महानुभाव	नोब्ले	<महत्-अनुभावान्>भ्स्6			
+5	श्रेयः	10	श्रेयो	श्रेय{पुं}{1;एक}	श्रेयस्{नपुं}{1;एक}	कर्ता,10.1	कल्याणकारक	बेट्टेर्				
+6	भोक्तुम्	8	भोक्तुं	भुज्1{कृत्_प्रत्ययः:तुमुन्;भुजोँ;तुदादिः}/भुज्2{कृत्_प्रत्ययः:तुमुन्;भुजँ;रुधादिः}	भुज्2{कृत्_प्रत्ययः:तुमुन्;भुजँ;रुधादिः}	प्रयोजनम्,5	खाना	टो_लिवे_ओन्				
+7	भैक्ष्यम्	7	भैक्ष्यमपीह	भैक्ष्यम्	भैक्ष्य{नपुं}{2;एक}	कर्म,6	भिक्षा_का_अन्न	अल्म्स्				
+8	अपि	9	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,6	भी	एवेन्				
+9	इह	5	0	इह{अव्य}	इह{अव्य}	विशेषणम्,10	इस	इन्_ट्हिस्				
+10	लोके	6	लोके	लोक{पुं}{7;एक}	लोक{पुं}{7;एक}	अधिकरणम्,10.1	लोक_में	तोर्ल्ड्				
+10.1	(अस्ति)	11	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,5;अकर्मकः	(है)	इस्				
+11	हत्वा	13	हत्वार्थर्थकामांस्तु	हन्1{कृत्_प्रत्ययः:क्त्वा;हनँ;अदादिः}	हन्1{कृत्_प्रत्ययः:क्त्वा;हनँ;अदादिः}	पूर्वकालः,17	मारकर	अङ्टेर्_किल्लिन्ग्				
+12	अर्थ-कामान्	18	0	अर्थ-काम{पुं}{2;बहु}	अर्थ-काम{पुं}{2;बहु}	विशेषणम्,18	अर्थ_और_कामरूप	इन्_ट्हे_ङोर्म्_ओङ्_तेअल्ट्ह्_अन्ड्_सेन्से-एन्जोय्मेन्ट्स्	<अर्थ-कामान्>ऊ			
+13	तु	14	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,11	तो	एवेन्				
+14	गुरून्	12	गुरूनिहैव	गुरु{पुं}{2;बहु}	गुरु{पुं}{2;बहु}	कर्म,11	गुरुजनों_को	एल्डेर्स्				
+15	इह	15	0	इह{अव्य}	इह{अव्य}	अधिकरणम्,17	यहाँ_(इस_लोक_में)	इन्_ट्हिस्_लिङे				
+16	एव	16	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,15	ही	अङ्टेर्_अल्ल्				
+17	भुञ्जीय	20	भुञ्जीय	भुज्2{कर्तरि;विधिलिङ्;उ;एक;आत्मनेपदी;भुजँ;रुधादिः}	भुज्2{कर्तरि;विधिलिङ्;उ;एक;आत्मनेपदी;भुजँ;रुधादिः}	अभिहितकर्ता,19.1;सकर्मकः	भोगूँगा	स्हल्ल्_एन्जोय्				
+18	भोगान्	19	भोगान्रुधिरप्रदिग्धान्	भोग{पुं}{2;बहु}	भोग{पुं}{2;बहु}	कर्म,17	भोगों_को	प्लेअसुरेस्				
+19	रुधिर-प्रदिग्धान्	17	0	रुधिर-प्रदिग्धान्	रुधिर-प्र_दिह्1{कृत्_प्रत्ययः:क्त;प्र_दिहँ;अदादिः;पुं}{2;बहु}	विशेषणम्,18	रुधिर_से_सने_हुए	ब्लोओड्स्टइनेड्	<रुधिर-प्रदिग्धान्>ठ्3			
+19.1	(अहम्)	19.1	(0)	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,17	मैं	ई				

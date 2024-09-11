@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	caFcalam	4	caFcalaM	caFcala{puM}{2;eka}	caFcala{napuM}{1;eka}	sup_samucciwaH,7	bada़A_caMcala	flickering				
-2	hi	3	hi	hi{avya}	hi{avya}	sambanXaH,3	kyoMki	certainly				
-3	manaH	2	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	karwA,7.2	mana	mind				
-4	kqRNa	1	kqRNa	kqRNa{puM}{8;eka}/kqRNa{napuM}{8;eka}	kqRNa{puM}{8;eka}	samboXyaH,7.2	he_SrIkqRNa	O_Krsna				
-5	pramAWi	7	pramAWi	pramAWin{napuM}{1;eka}/pramAWin{napuM}{2;eka}	pramAWin{napuM}{1;eka}	sup_samucciwaH,7	pramaWana_svaBAvavAlA	agitating				
-6	balavaw	5	balavaxxqDam	balavaw{avya}/balavaw{napuM}{1;eka}/balavaw{napuM}{2;eka}/balavaw{napuM}{8;eka}	balavaw{napuM}{1;eka}	sup_samucciwaH,7	balavAn	strong				
-7	xqDam	6	0	xqDa{puM}{2;eka}/xqDa{napuM}{1;eka}/xqDa{napuM}{2;eka}	xqDa{napuM}{1;eka}	viXeya_viSeRaNam,7.2	bada़A_xqDa़	obstinate				
-7.1	(ca)		()	ca{avya}	ca{avya}	samuccaya_xyowakaH,7						
-7.2	(Bavawi)	8	()		BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,3						
-8	wasya	10	wasyAhaM	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,10	usakA	its				
-9	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,11	mEM	I				
-10	nigraham	11	nigrahaM	nigraha{puM}{2;eka}	nigraha{puM}{2;eka}	karma,11	vaSa_meM_karanA	subduing				
-11	manye	15	manye	man1{karmaNi;lat;u;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;u;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;u;eka;AwmanepaxI;manaz;xivAxiH}	aBihiwa_karwA,9	mAnawA_hUz	think				
-12	vAyoH	12	vAyoriva	vAyu{puM}{5;eka}/vAyu{puM}{6;eka}	vAyu{puM}{6;eka}	upamAnam,13	vAyu_ko_rokane_kI	of_the_wind				
-13	iva	13	0	iva{avya}	iva{avya}	upamAna_xyowakaH,8	jEse	like				
-14	suxuRkaram	14	suxuRkaram	suxuRkara{puM}{2;eka}/suxuRkara{napuM}{1;eka}/suxuRkara{napuM}{2;eka}	suxuRkara{puM}{2;eka}	karmasamAnAXikaraNam,11	awyanwa_xuRkara	difficult				
+1	चञ्चलम्	4	चञ्चलं	चञ्चल{पुं}{2;एक}	चञ्चल{नपुं}{1;एक}	सुप्_समुच्चितः,7	बडॆअञआ_चंचल	ङ्लिच्केरिन्ग्				
+2	हि	3	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,3	क्योंकि	चेर्टइन्ल्य्				
+3	मनः	2	मनः	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}/मनस्{नपुं}{8;एक}	मनस्{नपुं}{1;एक}	कर्ता,7.2	मन	मिन्ड्				
+4	कृष्ण	1	कृष्ण	कृष्ण{पुं}{8;एक}/कृष्ण{नपुं}{8;एक}	कृष्ण{पुं}{8;एक}	सम्बोध्यः,7.2	हे_श्रीकृष्ण	औ_ख्र्स्न				
+5	प्रमाथि	7	प्रमाथि	प्रमाथिन्{नपुं}{1;एक}/प्रमाथिन्{नपुं}{2;एक}	प्रमाथिन्{नपुं}{1;एक}	सुप्_समुच्चितः,7	प्रमथन_स्वभाववाला	अगिटटिन्ग्				
+6	बलवत्	5	बलवद्दृढम्	बलवत्{अव्य}/बलवत्{नपुं}{1;एक}/बलवत्{नपुं}{2;एक}/बलवत्{नपुं}{8;एक}	बलवत्{नपुं}{1;एक}	सुप्_समुच्चितः,7	बलवान्	स्ट्रोन्ग्				
+7	दृढम्	6	0	दृढ{पुं}{2;एक}/दृढ{नपुं}{1;एक}/दृढ{नपुं}{2;एक}	दृढ{नपुं}{1;एक}	विधेय_विशेषणम्,7.2	बडॆअञआ_दृढॆअञ	ओब्स्टिनटे				
+7.1	(च)		()	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,7						
+7.2	(भवति)	8	()		भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहित_कर्ता,3						
+8	तस्य	10	तस्याहं	तद्{पुं}{6;एक}/तद्{नपुं}{6;एक}	तद्{पुं}{6;एक}	षष्ठीसम्बन्धः,10	उसका	इट्स्				
+9	अहम्	9	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,11	मैं	ई				
+10	निग्रहम्	11	निग्रहं	निग्रह{पुं}{2;एक}	निग्रह{पुं}{2;एक}	कर्म,11	वश_में_करना	सुब्डुइन्ग्				
+11	मन्ये	15	मन्ये	मन्1{कर्मणि;लट्;उ;एक;आत्मनेपदी;मनँ;दिवादिः}/मन्2{कर्मणि;लट्;उ;एक;आत्मनेपदी;मनुँ;तनादिः}	मन्1{कर्तरि;लट्;उ;एक;आत्मनेपदी;मनँ;दिवादिः}	अभिहित_कर्ता,9	मानता_हूँ	ट्हिन्क्				
+12	वायोः	12	वायोरिव	वायु{पुं}{5;एक}/वायु{पुं}{6;एक}	वायु{पुं}{6;एक}	उपमानम्,13	वायु_को_रोकने_की	ओङ्_ट्हे_तिन्ड्				
+13	इव	13	0	इव{अव्य}	इव{अव्य}	उपमान_द्योतकः,8	जैसे	लिके				
+14	सुदुष्करम्	14	सुदुष्करम्	सुदुष्कर{पुं}{2;एक}/सुदुष्कर{नपुं}{1;एक}/सुदुष्कर{नपुं}{2;एक}	सुदुष्कर{पुं}{2;एक}	कर्मसमानाधिकरणम्,11	अत्यन्त_दुष्कर	डिङ्ङिचुल्ट्				

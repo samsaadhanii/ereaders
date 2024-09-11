@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sawwvAw	1	sawwvAwsaFjAyawe	sawwva{puM}{5;eka}/sawwva{napuM}{5;eka}/sawwva{napuM}{5;eka}	sawwva{napuM}{5;eka}	apAxAnam,2	sawwvaguNa_se	from_the_mode_of_goodness				
-2	saFjAyawe	3	0	saFjAyawe	sam_jan3{karwari;lat;pra;eka;AwmanepaxI;sam_janIz;xivAxiH}	aBihiwakarwA,3;akarmakaH	uwpanna_howA_hE	develops				
-3	jFAnam	2	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karwA,2	jFAna	knowledge				
-4	rajasaH	5	rajaso	rajas{puM}{1;bahu}/rajas{puM}{2;bahu}/rajas{puM}{5;eka}/rajas{puM}{6;eka}/rajas{napuM}{5;eka}/rajas{napuM}{6;eka}	rajas{napuM}{5;eka}	apAxAnam,7.1	rajoguNa_se	from_the_mode_of_passion				
-5	loBaH	7	loBa	loBa{puM}{1;eka}	loBa{puM}{1;eka}	karwA,7.1	loBa	greed				
-6	eva	6	eva	eva{avya}	eva{avya}	sambanXaH,4	niHsaMxeha	certainly				
-7	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,7.1	Ora	also				
-7.1	(saFjAyawe)	8	(0)	(saFjAyawe)	(sam_jan3{karwari;lat;pra;eka;AwmanepaxI;sam_janIz;xivAxiH})	samucciwaH,2	(uwpanna_howA_hE)	develops				
-8	pramAxa-mohO	11	pramAxamohO	pramAxa-moha{puM}{1;xvi}/moha{puM}{2;xvi}	pramAxa-moha{puM}{1;xvi}	karwA,10	pramAxa_Ora_moha	madness_and_illusion	<pramAxa-mohO>Di			
-9	wamasaH	10	wamaso	wamas{napuM}{5;eka}/wamas{napuM}{6;eka}/wamasa{puM}{1;eka}	wamas{napuM}{5;eka}	apAxAnam,10	wamoguNa_se	from_the_mode_of_ignorance				
-10	BavawaH	12	BavawoZjFAnameva	Bavaw{puM}{2;bahu}/Bavaw{puM}{5;eka}/Bavaw{puM}{6;eka}/BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,3;akarmakaH	uwpanna_howe_hEM	develops				
-11	a-jFAnam	14	0	ajFAna{napuM}{1;eka}/ajFAna{napuM}{2;eka}	ajFAna{napuM}{1;eka}	karwA,13.1	ajFAn	nonsense	<na-jFAnam>Tn			
-12	eva	15	0	eva{avya}	eva{avya}	sambanXaH,11	BI	certainly				
-13	ca	9	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,13.1	waWA	also				
-13.1	(saFjAyawe)	16	(0)	(saFjAyawe)	(sam_jan3{karwari;lat;pra;eka;AwmanepaxI;sam_janIz;xivAxiH})	samucciwaH,10	(uwpanna_howA_hE)	develops				
-13.2	(wamasaH)	13	(0)	(wamas{napuM}{5;eka}/wamas{napuM}{6;eka}/wamasa{puM}{1;eka})	(wamas{napuM}{5;eka})	apAxAnam,13.1	(wamoguNa_se)	from_the_mode_of_ignorance				
+1	सत्त्वात्	1	सत्त्वात्सञ्जायते	सत्त्व{पुं}{5;एक}/सत्त्व{नपुं}{5;एक}/सत्त्व{नपुं}{5;एक}	सत्त्व{नपुं}{5;एक}	अपादानम्,2	सत्त्वगुण_से	ङ्रोम्_ट्हे_मोडे_ओङ्_गोओड्नेस्स्				
+2	सञ्जायते	3	0	सञ्जायते	सम्_जन्3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;सम्_जनीँ;दिवादिः}	अभिहितकर्ता,3;अकर्मकः	उत्पन्न_होता_है	डेवेलोप्स्				
+3	ज्ञानम्	2	ज्ञानं	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{1;एक}	कर्ता,2	ज्ञान	क्नोत्लेड्गे				
+4	रजसः	5	रजसो	रजस्{पुं}{1;बहु}/रजस्{पुं}{2;बहु}/रजस्{पुं}{5;एक}/रजस्{पुं}{6;एक}/रजस्{नपुं}{5;एक}/रजस्{नपुं}{6;एक}	रजस्{नपुं}{5;एक}	अपादानम्,7.1	रजोगुण_से	ङ्रोम्_ट्हे_मोडे_ओङ्_पस्सिओन्				
+5	लोभः	7	लोभ	लोभ{पुं}{1;एक}	लोभ{पुं}{1;एक}	कर्ता,7.1	लोभ	ग्रेएड्				
+6	एव	6	एव	एव{अव्य}	एव{अव्य}	सम्बन्धः,4	निःसंदेह	चेर्टइन्ल्य्				
+7	च	4	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,7.1	और	अल्सो				
+7.1	(सञ्जायते)	8	(0)	(सञ्जायते)	(सम्_जन्3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;सम्_जनीँ;दिवादिः})	समुच्चितः,2	(उत्पन्न_होता_है)	डेवेलोप्स्				
+8	प्रमाद-मोहौ	11	प्रमादमोहौ	प्रमाद-मोह{पुं}{1;द्वि}/मोह{पुं}{2;द्वि}	प्रमाद-मोह{पुं}{1;द्वि}	कर्ता,10	प्रमाद_और_मोह	मड्नेस्स्_अन्ड्_इल्लुसिओन्	<प्रमाद-मोहौ>ढि			
+9	तमसः	10	तमसो	तमस्{नपुं}{5;एक}/तमस्{नपुं}{6;एक}/तमस{पुं}{1;एक}	तमस्{नपुं}{5;एक}	अपादानम्,10	तमोगुण_से	ङ्रोम्_ट्हे_मोडे_ओङ्_इग्नोरन्चे				
+10	भवतः	12	भवतोऽज्ञानमेव	भवत्{पुं}{2;बहु}/भवत्{पुं}{5;एक}/भवत्{पुं}{6;एक}/भू1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,3;अकर्मकः	उत्पन्न_होते_हैं	डेवेलोप्स्				
+11	अ-ज्ञानम्	14	0	अज्ञान{नपुं}{1;एक}/अज्ञान{नपुं}{2;एक}	अज्ञान{नपुं}{1;एक}	कर्ता,13.1	अज्ञान्	नोन्सेन्से	<न-ज्ञानम्>ठ्न्			
+12	एव	15	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,11	भी	चेर्टइन्ल्य्				
+13	च	9	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,13.1	तथा	अल्सो				
+13.1	(सञ्जायते)	16	(0)	(सञ्जायते)	(सम्_जन्3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;सम्_जनीँ;दिवादिः})	समुच्चितः,10	(उत्पन्न_होता_है)	डेवेलोप्स्				
+13.2	(तमसः)	13	(0)	(तमस्{नपुं}{5;एक}/तमस्{नपुं}{6;एक}/तमस{पुं}{1;एक})	(तमस्{नपुं}{5;एक})	अपादानम्,13.1	(तमोगुण_से)	ङ्रोम्_ट्हे_मोडे_ओङ्_इग्नोरन्चे				

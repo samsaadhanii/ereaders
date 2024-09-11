@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yawaH	1	yawaH	yawaH{avya}/yawa{puM}{1;eka}	yawaH{avya}	hewuH,2;niwya_sambanXaH,9	jisa_parameSvara_se	from_whom				
-2	pravqwwiH	3	pravqwwirBUwAnAM	pravqwwi{swrI}{1;eka}	pravqwwi{swrI}{1;eka}	karwA,3.1	uwpawwi	the_emanation				
-3	BUwAnAm	2	0	BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}/BUwA{swrI}{6;bahu}	BUwa{puM}{6;bahu}	RaRTIsambanXaH,2	sampUrNa_prANiyoM_kI	of_all_living_entities				
-3.1	(Bavawi)	4	(0)	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}/Bavaw{puM}{7;eka})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,2;akarmakaH	(howI_hE)	becomes				
-4	yena	5	yena	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	karwA,7;niwya_sambanXaH,9	jisase	by_whom				
-5	sarvam	7	sarvamixaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{1;eka}	karma,7	samaswa_jagaw	all				
-6	ixam	6	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,5	yaha	this				
-7	wawam	8	0	wan1{kqw_prawyayaH:kwa;wanuz;wanAxiH;napuM}{1;eka}	wan1{kqw_prawyayaH:kwa;wanuz;wanAxiH;napuM}{1;eka}	aBihiwakarma,5;sakarmakaH	vyApwa	pervaded				
-8	sva-karmaNA	11	svakarmaNA	svakarman{napuM}{3;eka}	sva-karman{napuM}{3;eka}	karaNam,10	apane_svABAvika_karmoM_xvArA	in_his_own_duties	<sva-karmaNA>T6			
-9	wam	10	wamaByarcya	wax{puM}{2;eka}	wax{puM}{2;eka}	karma,10	usakI_(parameSvara_kI)	him				
-10	aByarcya	12	0	aBi_qc1{kqw_prawyayaH:lyap;qcaz;wuxAxiH}/aBi_arc1{kqw_prawyayaH:lyap;arcaz;BvAxiH}/aBi_arc2{kqw_prawyayaH:lyap;arcaz;curAxiH}	aBi_arc1{kqw_prawyayaH:lyap;aBi_arcaz;BvAxiH}	pUrvakAlaH,12	pUjA_karake	by_worshiping				
-11	sixXim	14	sixXiM	sixXi{swrI}{2;eka}	sixXi{swrI}{2;eka}	karma,12	parama_sixXi_ko	perfection				
-12	vinxawi	15	vinxawi	vix3{karwari;lat;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	vix3{karwari;lat;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	aBihiwakarwA,13;sakarmakaH	prApwa_ho_jAwA_hE	achieves				
-13	mAnavaH	13	mAnavaH	mAnava{puM}{1;eka}	mAnava{puM}{1;eka}	karwA,12	manuRya	a_man				
+1	यतः	1	यतः	यतः{अव्य}/यत{पुं}{1;एक}	यतः{अव्य}	हेतुः,2;नित्य_सम्बन्धः,9	जिस_परमेश्वर_से	ङ्रोम्_त्होम्				
+2	प्रवृत्तिः	3	प्रवृत्तिर्भूतानां	प्रवृत्ति{स्त्री}{1;एक}	प्रवृत्ति{स्त्री}{1;एक}	कर्ता,3.1	उत्पत्ति	ट्हे_एमनटिओन्				
+3	भूतानाम्	2	0	भूत{पुं}{6;बहु}/भूत{नपुं}{6;बहु}/भूता{स्त्री}{6;बहु}/भूता{स्त्री}{6;बहु}	भूत{पुं}{6;बहु}	षष्ठीसम्बन्धः,2	सम्पूर्ण_प्राणियों_की	ओङ्_अल्ल्_लिविन्ग्_एन्टिटिएस्				
+3.1	(भवति)	4	(0)	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}/भवत्{पुं}{7;एक})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,2;अकर्मकः	(होती_है)	बेचोमेस्				
+4	येन	5	येन	येन{अव्य}/यद्{पुं}{3;एक}/यद्{नपुं}{3;एक}	यद्{पुं}{3;एक}	कर्ता,7;नित्य_सम्बन्धः,9	जिससे	ब्य्_त्होम्				
+5	सर्वम्	7	सर्वमिदं	सर्व{पुं}{2;एक}/सर्व{नपुं}{1;एक}/सर्व{नपुं}{2;एक}	सर्व{नपुं}{1;एक}	कर्म,7	समस्त_जगत्	अल्ल्				
+6	इदम्	6	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	विशेषणम्,5	यह	ट्हिस्				
+7	ततम्	8	0	तन्1{कृत्_प्रत्ययः:क्त;तनुँ;तनादिः;नपुं}{1;एक}	तन्1{कृत्_प्रत्ययः:क्त;तनुँ;तनादिः;नपुं}{1;एक}	अभिहितकर्म,5;सकर्मकः	व्याप्त	पेर्वडेड्				
+8	स्व-कर्मणा	11	स्वकर्मणा	स्वकर्मन्{नपुं}{3;एक}	स्व-कर्मन्{नपुं}{3;एक}	करणम्,10	अपने_स्वाभाविक_कर्मों_द्वारा	इन्_हिस्_ओत्न्_डुटिएस्	<स्व-कर्मणा>ठ्6			
+9	तम्	10	तमभ्यर्च्य	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	कर्म,10	उसकी_(परमेश्वर_की)	हिम्				
+10	अभ्यर्च्य	12	0	अभि_ऋच्1{कृत्_प्रत्ययः:ल्यप्;ऋचँ;तुदादिः}/अभि_अर्च्1{कृत्_प्रत्ययः:ल्यप्;अर्चँ;भ्वादिः}/अभि_अर्च्2{कृत्_प्रत्ययः:ल्यप्;अर्चँ;चुरादिः}	अभि_अर्च्1{कृत्_प्रत्ययः:ल्यप्;अभि_अर्चँ;भ्वादिः}	पूर्वकालः,12	पूजा_करके	ब्य्_तोर्स्हिपिन्ग्				
+11	सिद्धिम्	14	सिद्धिं	सिद्धि{स्त्री}{2;एक}	सिद्धि{स्त्री}{2;एक}	कर्म,12	परम_सिद्धि_को	पेर्ङेच्टिओन्				
+12	विन्दति	15	विन्दति	विद्3{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदॢँ;तुदादिः}	विद्3{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदॢँ;तुदादिः}	अभिहितकर्ता,13;सकर्मकः	प्राप्त_हो_जाता_है	अच्हिएवेस्				
+13	मानवः	13	मानवः	मानव{पुं}{1;एक}	मानव{पुं}{1;एक}	कर्ता,12	मनुष्य	अ_मन्				

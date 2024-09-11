@@ -1,23 +1,23 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kim	2	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	sambanXaH,2.1	kyA	what				
-2	karma	1	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwA,2.1	karma	action				
-2.1	(aswi)	3	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,2	(hE)	is				
-3	kim	5	kimakarmewi	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	sambanXaH,4.1	kyA	what				
-4	a-karma	4		a-karman{napuM}{1;eka}/karman{napuM}{2;eka}	na-karman{napuM}{1;eka}	karwA,4.1	akarma	inaction	<na-karma>Tn			
-4.1	(aswi)	6	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,4	(hE)	is				
-5	iwi	7		iwi{avya}	iwi{avya}	sambanXaH,6	isa_prakAra	thus				
-6	kavayaH	9	kavayoZpyawra	kavi{puM}{1;bahu}/kavi{puM}{8;bahu}	kavi{puM}{1;bahu}	karwA,9.1	buxXimAn_puruRa	the_intelligent				
-7	api	10		api{avya}	api{avya}	sambanXaH,6	BI	also				
-8	awra	8		awra{avya}	awra{avya}	aXikaraNam,9	yahAz_(nirNaya_karane_meM)	in_this_matter				
-9	mohiwAH	11	mohiwAH	mohiwA{swrI}{1;bahu}/mohiwA{swrI}{2;bahu}/mohiwA{swrI}{8;bahu}/mohiwA{swrI}{1;bahu}/mohiwA{swrI}{2;bahu}/mohiwA{swrI}{8;bahu}	muh1{kqw_prawyayaH:kwa;muhaz;xivAxiH;puM}{1;bahu}	viSeRaNam,6	mohiwa	bewildered				
-9.1	(Bavanwi)	12	()	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,6	(ho_jAwe_hEM)	becomes				
-10	waw	13	wawwe	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,12	vaha	that				
-11	we	16		wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,13	wuJe	unto_you				
-12	karma	14	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,13	karma-wawwva	work				
-13	pravakRyAmi	17	pravakRyAmi	pra_vah1{karwari;lqt;u;eka;uBayapaxI;vahaz;BvAxiH}	pra_vac1{karwari;lqt;u;eka;parasmEpaxI;pra_vacaz;axAxiH}	aBihiwa_karwA,13.1	kahUzgA	shall_explain				
-13.1	(aham)		()	(asmax{1;eka})	(asmax{1;eka})	karwA,13						
-14	yaw	18	yaFjFAwvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,15;niwyasambanXaH10	jise	which				
-15	jFAwvA	19		jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,16	jAnakara	knowing				
-16	mokRyase	22	mokRyaseZSuBAw	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muc1{karmaNi;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muh1{BAve;lqt;ma;eka;AwmanepaxI;muhaz;xivAxiH}	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}	aBihiwa_karwA,16	mukwa_ho_jAoge	be_liberated				
-17	a-SuBAw	21		a-SuBa{puM}{5;eka}/SuBa{napuM}{5;eka}	aSuBa{puM}{5;eka}	apAxAnam,16	aSuBa_se_arWAw_karmabanXana_se	from_ill_fortune	<na-SuBAw>Tn			
-17.1	(wvam)	20	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,16	(wuma)	you				
+1	किम्	2	किं	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{1;एक}	सम्बन्धः,2.1	क्या	त्हट्				
+2	कर्म	1	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{1;एक}	कर्ता,2.1	कर्म	अच्टिओन्				
+2.1	(अस्ति)	3	()	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,2	(है)	इस्				
+3	किम्	5	किमकर्मेति	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{1;एक}	सम्बन्धः,4.1	क्या	त्हट्				
+4	अ-कर्म	4		अ-कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	न-कर्मन्{नपुं}{1;एक}	कर्ता,4.1	अकर्म	इनच्टिओन्	<न-कर्म>ठ्न्			
+4.1	(अस्ति)	6	()	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,4	(है)	इस्				
+5	इति	7		इति{अव्य}	इति{अव्य}	सम्बन्धः,6	इस_प्रकार	ट्हुस्				
+6	कवयः	9	कवयोऽप्यत्र	कवि{पुं}{1;बहु}/कवि{पुं}{8;बहु}	कवि{पुं}{1;बहु}	कर्ता,9.1	बुद्धिमान्_पुरुष	ट्हे_इन्टेल्लिगेन्ट्				
+7	अपि	10		अपि{अव्य}	अपि{अव्य}	सम्बन्धः,6	भी	अल्सो				
+8	अत्र	8		अत्र{अव्य}	अत्र{अव्य}	अधिकरणम्,9	यहाँ_(निर्णय_करने_में)	इन्_ट्हिस्_मट्टेर्				
+9	मोहिताः	11	मोहिताः	मोहिता{स्त्री}{1;बहु}/मोहिता{स्त्री}{2;बहु}/मोहिता{स्त्री}{8;बहु}/मोहिता{स्त्री}{1;बहु}/मोहिता{स्त्री}{2;बहु}/मोहिता{स्त्री}{8;बहु}	मुह्1{कृत्_प्रत्ययः:क्त;मुहँ;दिवादिः;पुं}{1;बहु}	विशेषणम्,6	मोहित	बेतिल्डेरेड्				
+9.1	(भवन्ति)	12	()	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}/भवन्ती{स्त्री}{8;एक})	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः})	अभिहित_कर्ता,6	(हो_जाते_हैं)	बेचोमेस्				
+10	तत्	13	तत्ते	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	विशेषणम्,12	वह	ट्हट्				
+11	ते	16		तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	सम्प्रदानम्,13	तुझे	उन्टो_योउ				
+12	कर्म	14	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,13	कर्म-तत्त्व	तोर्क्				
+13	प्रवक्ष्यामि	17	प्रवक्ष्यामि	प्र_वह्1{कर्तरि;लृट्;उ;एक;उभयपदी;वहँ;भ्वादिः}	प्र_वच्1{कर्तरि;लृट्;उ;एक;परस्मैपदी;प्र_वचँ;अदादिः}	अभिहित_कर्ता,13.1	कहूँगा	स्हल्ल्_एद्प्लइन्				
+13.1	(अहम्)		()	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,13						
+14	यत्	18	यञ्ज्ञात्वा	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,15;नित्यसम्बन्धः10	जिसे	त्हिच्ह्				
+15	ज्ञात्वा	19		ज्ञा1{कृत्_प्रत्ययः:क्त्वा;ज्ञा;भ्वादिः}/ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	पूर्वकालः,16	जानकर	क्नोतिन्ग्				
+16	मोक्ष्यसे	22	मोक्ष्यसेऽशुभात्	मुच्1{कर्तरि;लृट्;म;एक;आत्मनेपदी;मुचॢँ;तुदादिः}/मुच्1{कर्मणि;लृट्;म;एक;आत्मनेपदी;मुचॢँ;तुदादिः}/मुह्1{भावे;लृट्;म;एक;आत्मनेपदी;मुहँ;दिवादिः}	मुच्1{कर्तरि;लृट्;म;एक;आत्मनेपदी;मुचॢँ;तुदादिः}	अभिहित_कर्ता,16	मुक्त_हो_जाओगे	बे_लिबेरटेड्				
+17	अ-शुभात्	21		अ-शुभ{पुं}{5;एक}/शुभ{नपुं}{5;एक}	अशुभ{पुं}{5;एक}	अपादानम्,16	अशुभ_से_अर्थात्_कर्मबन्धन_से	ङ्रोम्_इल्ल्_ङोर्टुने	<न-शुभात्>ठ्न्			
+17.1	(त्वम्)	20	()	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,16	(तुम)	योउ				

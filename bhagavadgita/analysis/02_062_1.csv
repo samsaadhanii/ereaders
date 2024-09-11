@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	XyAyawaH	1	XyAyawo	XyE1{karwari;lat;pra;xvi;parasmEpaxI;XyE;:BvAxiH}/XyAyaw{puM;2;bahu(XyE1;Sawq_lat;XyE;:BvAxiH)}/XyAyaw{puM;5;eka(XyE1;Sawq_lat;XyE;:BvAxiH)}/XyAyaw{puM;6;eka(XyE1;Sawq_lat;XyE;:BvAxiH)}/XyAyaw{napuM;5;eka(XyE1;Sawq_lat;XyE;:BvAxiH)}/XyAyaw{napuM;6;eka(XyE1;Sawq_lat;XyE;:BvAxiH)}	XyAyaw{puM;2;bahu(XyE1;Sawq_lat;XyE;:BvAxiH)}	viSeRaNam,3	cinwana_karanevAle	while_contemplating				
-2	viRayAn	2	viRayAnpuMsaH	viRaya{puM;2;bahu}	viRaya{puM;2;bahu}	karma,1	viRayoM_kA	on_sense-objects				
-3	puMsaH	3	0	pums{puM;2;bahu}/pums{puM;5;eka}/pums{puM;6;eka}/puMsas{puM;8;eka}	pums{puM;6;eka}	RaRTIsambanXaH,4	puruRa_kI	of_the_man				
-4	safgaH	4	safgasweRUpajAyawe	safga{puM;1;eka}	safga{puM;1;eka}	karwA,6	Asakwi	attachment				
-5	weRu	5	0	wax{sarvanAma;puM;7;bahu}/wax{sarvanAma;napuM;7;bahu}	waxsarvanAma{puM;7;bahu}	aXikaraNam,6	unameM_(viRayoM_meM)	in_them_(sense-objects)				
-6	upajAyawe	6	0	upa_jan2{karwari;lat;pra;eka;AwmanepaxI;janIz;:xivAxiH}/upa_jan2{karmaNi;lat;pra;eka;AwmanepaxI;janIz;:xivAxiH}	upa_jan2{karwari;lat;pra;eka;AwmanepaxI;janIz;:xivAxiH}	aBihiwa_karwA,4	ho_jAwI_hE	develops				
-7	safgAw	7	safgAwsaFjAyawe	safga{puM;5;eka}	safga{puM;5;eka}	apAxAnam,8	Asakwi_se	from_attachment				
-8	saFjAyawe	9	0	kAma{puM;1;eka}	kAma{puM;1;eka}	aBihiwa_karwA,9	uwpanna_howI_hE	springs_up				
-9	kAmaH	8	kAmaH	sam_jan3{karwari;lat;pra;eka;AwmanepaxI;janIz;:xivAxiH}	sam_jan3{karwari;lat;pra;eka;AwmanepaxI;janIz;:xivAxiH}	karwA,8	kAmanA	desire				
-10	kAmAw	10	kAmAwkroXoZBijAyawe	kAma{puM;5;eka}	kAma{puM;5;eka}	apAxAnam,12	kAmanA_se	from_desire				
-11	kroXaH	11	0	kroXa{puM;1;eka}	kroXa{puM;1;eka}	karwA,12	kroXa	anger				
-12	aBijAyawe	12	0	aBi_jan2{karwari;lat;pra;eka;AwmanepaxI;janIz;:xivAxiH}/aBi_jan2{BAve;lat;pra;eka;AwmanepaxI;janIz;:xivAxiH}	aBi_jan2{karwari;lat;pra;eka;AwmanepaxI;janIz;:xivAxiH}	aBihiwa_karwA,11	uwpanna_howA_hE	ensues				
+1	ध्यायतः	1	ध्यायतो	ध्यै1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;ध्यै;:भ्वादिः}/ध्यायत्{पुं;2;बहु(ध्यै1;शतृ_लट्;ध्यै;:भ्वादिः)}/ध्यायत्{पुं;5;एक(ध्यै1;शतृ_लट्;ध्यै;:भ्वादिः)}/ध्यायत्{पुं;6;एक(ध्यै1;शतृ_लट्;ध्यै;:भ्वादिः)}/ध्यायत्{नपुं;5;एक(ध्यै1;शतृ_लट्;ध्यै;:भ्वादिः)}/ध्यायत्{नपुं;6;एक(ध्यै1;शतृ_लट्;ध्यै;:भ्वादिः)}	ध्यायत्{पुं;2;बहु(ध्यै1;शतृ_लट्;ध्यै;:भ्वादिः)}	विशेषणम्,3	चिन्तन_करनेवाले	त्हिले_चोन्टेम्प्लटिन्ग्				
+2	विषयान्	2	विषयान्पुंसः	विषय{पुं;2;बहु}	विषय{पुं;2;बहु}	कर्म,1	विषयों_का	ओन्_सेन्से-ओब्जेच्ट्स्				
+3	पुंसः	3	0	पुम्स्{पुं;2;बहु}/पुम्स्{पुं;5;एक}/पुम्स्{पुं;6;एक}/पुंसस्{पुं;8;एक}	पुम्स्{पुं;6;एक}	षष्ठीसम्बन्धः,4	पुरुष_की	ओङ्_ट्हे_मन्				
+4	सङ्गः	4	सङ्गस्तेषूपजायते	सङ्ग{पुं;1;एक}	सङ्ग{पुं;1;एक}	कर्ता,6	आसक्ति	अट्टच्ह्मेन्ट्				
+5	तेषु	5	0	तद्{सर्वनाम;पुं;7;बहु}/तद्{सर्वनाम;नपुं;7;बहु}	तद्सर्वनाम{पुं;7;बहु}	अधिकरणम्,6	उनमें_(विषयों_में)	इन्_ट्हेम्_(सेन्से-ओब्जेच्ट्स्)				
+6	उपजायते	6	0	उप_जन्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;जनीँ;:दिवादिः}/उप_जन्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;जनीँ;:दिवादिः}	उप_जन्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;जनीँ;:दिवादिः}	अभिहित_कर्ता,4	हो_जाती_है	डेवेलोप्स्				
+7	सङ्गात्	7	सङ्गात्सञ्जायते	सङ्ग{पुं;5;एक}	सङ्ग{पुं;5;एक}	अपादानम्,8	आसक्ति_से	ङ्रोम्_अट्टच्ह्मेन्ट्				
+8	सञ्जायते	9	0	काम{पुं;1;एक}	काम{पुं;1;एक}	अभिहित_कर्ता,9	उत्पन्न_होती_है	स्प्रिन्ग्स्_उप्				
+9	कामः	8	कामः	सम्_जन्3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;जनीँ;:दिवादिः}	सम्_जन्3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;जनीँ;:दिवादिः}	कर्ता,8	कामना	डेसिरे				
+10	कामात्	10	कामात्क्रोधोऽभिजायते	काम{पुं;5;एक}	काम{पुं;5;एक}	अपादानम्,12	कामना_से	ङ्रोम्_डेसिरे				
+11	क्रोधः	11	0	क्रोध{पुं;1;एक}	क्रोध{पुं;1;एक}	कर्ता,12	क्रोध	अन्गेर्				
+12	अभिजायते	12	0	अभि_जन्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;जनीँ;:दिवादिः}/अभि_जन्2{भावे;लट्;प्र;एक;आत्मनेपदी;जनीँ;:दिवादिः}	अभि_जन्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;जनीँ;:दिवादिः}	अभिहित_कर्ता,11	उत्पन्न_होता_है	एन्सुएस्				

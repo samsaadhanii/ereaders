@@ -1,42 +1,42 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	saKA	7	saKewi	saKi{puM}{1;eka}	saKi{puM}{1;eka}	viXeya_viSeRaNam,27	saKA_hEM	friend				
-2	iwi	8	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,27	EsA	thus				
-3	mawvA	9	mawvA	man1{avya;kwvA;manaz;:xivAxiH}/man2{avya;kwvA;manuz;:wanAxiH}	man1{avya;kwvA;manaz;:xivAxiH}	pUrvakAlaH,6	mAnakara	thinking				
-4	prasaBam	23	prasaBaM	prasaBa{napuM}{1;eka}/prasaBa{napuM}{2;eka}	prasaBa{napuM}{2;eka}	kriyAviSeRaNam,6	haTAw	temporary				
-5	yaw	22	yaxukwaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	muKyakarma,6	jo	whatever				
-6	ukwam	24	0	ukwa{puM}{2;eka}/ukwa{napuM}{1;eka}/ukwa{napuM}{2;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;napuM}{1;eka}	aBihiwa_karwA,18	kahA_hE	said				
-7	he	15	he	he{avya}	he{avya}	samboXana_xyowakaH,8	he	O				
-8	kqRNa	16	kqRNa	kqRNa{puM}{8;eka}/kqRNa{napuM}{8;eka}	kqRNa{puM}{8;eka}	samboXyaH,6	kqRNa	Krsna				
-9	he	17	he	he{avya}	he{avya}	samboXana_xyowakaH,10	he	O				
-10	yAxava	18	yAxava	yAxava{puM}{8;eka}	yAxava{puM}{8;eka}	samboXyaH,6	yAxava	Yadava				
-11	he	19	he	he{avya}	he{avya}	samboXana_xyowakaH,12	he	O				
-12	saKa	20	saKewi	saKa{puM}{8;eka}	saKa{puM}{8;eka}	samboXyaH,6	saKe	dear_friend				
-13	iwi	21	0	iwi{avya}	iwi{avya}	sambanXaH,5	isa_prakAra	thus				
-14	a-jAnawA	4	ajAnawA	a-jAnaw{puM}{3;eka}/jAnaw{napuM}{3;eka}	na-jFA2{kqw_prawyayaH:Sawq;jFA;kryAxiH;puM}{3;eka}	viSeRaNam,18	na_jAnawe_hue	without_knowing	<na-jAnawA>Tn			
-15	mahimAnam	3	mahimAnaM	mahiman{puM}{2;eka}	mahiman{puM}{2;eka}	karma,14	praBAva_ko	glories				
-16	wava	1	wavexaM	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,15	Apake	Your				
-17	ixam	2	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,4	isa	this				
-18	mayA	14	mayA	asmax{3;eka}	asmax{3;eka}	karwA,6	mEMne	by_me				
-19	pramAxAw	12	pramAxAwpraNayena	pramAxa{puM}{5;eka}	pramAxa{puM}{5;eka}	hewuH,6	pramAxa_se	out_of_foolishness				
-20	praNayena	10	0	praNaya{puM}{3;eka}	praNaya{puM}{3;eka}	hewuH,6	prema_se	out_of_love				
-21	vA	11	vApi	vA{avya}	vA{avya}	sambanXaH,19	aWavA	or				
-22	api	13	0	api{avya}	api{avya}	sambanXaH,20	BI	also				
-23	yaw	27	yaccAvahAsArWamasawkqwoZsi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,26	jo	whatever				
-24	ca	25	0	ca{avya}	ca{avya}	sambanXaH,22	Ora	also				
-25	avahAsArWam	28	0	avahAsa{arWam}	avahAsArWa{napuM}{4;eka}	prayojanam,40	vinoxa_ke_liye	for_joking				
-26	a-saw-kqwaH	35	0	a-sax-kqw{puM}{1;bahu}/kqw{puM}{2;bahu}/kqw{puM}{5;eka}/kqw{puM}{6;eka}/kqw{puM}{8;bahu}/kqwa{puM}{1;eka}	asax-kqw{puM}{1;eka}	viXeya_viSeRaNam,40	apamAniwa_kiye_gaye	dishonor	<<na-saw>Tn-kqwaH>U			
-27	asi	36	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	vAkyakarma,3	hEM	have_been_done				
-28	vihAra-SayyA-Asana-BojaneRu	29	vihAraSayyAsanaBojaneRu	vihAra-SayyA-Asana-Bojana{puM}{7;bahu}/Bojana{napuM}{7;bahu}	vihAra-SayyA-Asana-Bojana{napuM}{7;bahu}	aXikaraNam,40	vihAra_SayyA_AsAna_Ora_BojanAxi_meM	in_relaxation_sleep_resting_place_or_while_eating_together	<vihAra-SayyA-Asana-BojaneRu>Ds			
-29	ekaH	31	ekoZWavApyacyuwa	eka{puM}{1;eka}	eka{puM}{1;eka}	viSeRaNam,41	akele	alone				
-30	aWavA	32	0	aWavA{avya}	aWavA{avya}	sambanXaH,29	aWavA	or				
-31	api	34	0	api{avya}	api{avya}	sambanXaH,30	BI	others				
-32	a-cyuwa	26	0	acyuwa{puM}{8;eka}	acyuwa{puM}{8;eka}	samboXyaH,6	he_acyuwa	O_infallible_one	<na-cyuwa>Bsmn			
-33	waw-samakRam	33	wawsamakRaM	wax-samakRa{puM}{2;eka}/samakRa{napuM}{1;eka}/samakRa{napuM}{2;eka}	wax-samakRa{napuM}{1;eka}	kriyAviSeRaNam,40	una_saKAoM_ke_sAmane	as_Your_competitor				
-34	waw	37	wawkRAmaye	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	gONakarma,35	vaha	all_those				
-35	kRAmaye	41	0	kRAmaya{puM}{7;eka}/kRAmaya{napuM}{1;xvi}/kRAmaya{napuM}{2;xvi}/kRAmaya{napuM}{7;eka}/kRAmaya{napuM}{8;xvi}	kRam1_Nic{karwari;lat;u;eka;AwmanepaxI;kRamUzR_Nic;BvAxiH}	aBihiwa_karwA,37	kRamA_karavAwA_hUz	excuse				
-36	wvAm	40	wvAmahamaprameyam	yuRmax{2;eka}	yuRmax{2;eka}	muKyakarma,35	Apase	from_you				
-37	aham	38	0	asmax{1;eka}	asmax{1;eka}	karwA,35	mEM	I				
-38	a-prameyam	39	0	a-prameyam	na-prameya{puM}{2;eka}	samboXyaH,40	aprameyasvarUpa	immeasurable	<na-prameyam>Tn			
-39	(wvam)	30	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,27	(wuma)	you				
-40	(asmi)	6	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,41	(hUz)	am				
-41	(aham)	5	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,40	(mEM)	I				
+1	सखा	7	सखेति	सखि{पुं}{1;एक}	सखि{पुं}{1;एक}	विधेय_विशेषणम्,27	सखा_हैं	ङ्रिएन्ड्				
+2	इति	8	0	इति{अव्य}	इति{अव्य}	वाक्यकर्म_द्योतकः,27	ऐसा	ट्हुस्				
+3	मत्वा	9	मत्वा	मन्1{अव्य;क्त्वा;मनँ;:दिवादिः}/मन्2{अव्य;क्त्वा;मनुँ;:तनादिः}	मन्1{अव्य;क्त्वा;मनँ;:दिवादिः}	पूर्वकालः,6	मानकर	ट्हिन्किन्ग्				
+4	प्रसभम्	23	प्रसभं	प्रसभ{नपुं}{1;एक}/प्रसभ{नपुं}{2;एक}	प्रसभ{नपुं}{2;एक}	क्रियाविशेषणम्,6	हठात्	टेम्पोरर्य्				
+5	यत्	22	यदुक्तं	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	मुख्यकर्म,6	जो	त्हटेवेर्				
+6	उक्तम्	24	0	उक्त{पुं}{2;एक}/उक्त{नपुं}{1;एक}/उक्त{नपुं}{2;एक}	वच्1{कृत्_प्रत्ययः:क्त;वचँ;अदादिः;नपुं}{1;एक}	अभिहित_कर्ता,18	कहा_है	सइड्				
+7	हे	15	हे	हे{अव्य}	हे{अव्य}	सम्बोधन_द्योतकः,8	हे	औ				
+8	कृष्ण	16	कृष्ण	कृष्ण{पुं}{8;एक}/कृष्ण{नपुं}{8;एक}	कृष्ण{पुं}{8;एक}	सम्बोध्यः,6	कृष्ण	ख्र्स्न				
+9	हे	17	हे	हे{अव्य}	हे{अव्य}	सम्बोधन_द्योतकः,10	हे	औ				
+10	यादव	18	यादव	यादव{पुं}{8;एक}	यादव{पुं}{8;एक}	सम्बोध्यः,6	यादव	Yअडव				
+11	हे	19	हे	हे{अव्य}	हे{अव्य}	सम्बोधन_द्योतकः,12	हे	औ				
+12	सख	20	सखेति	सख{पुं}{8;एक}	सख{पुं}{8;एक}	सम्बोध्यः,6	सखे	डेअर्_ङ्रिएन्ड्				
+13	इति	21	0	इति{अव्य}	इति{अव्य}	सम्बन्धः,5	इस_प्रकार	ट्हुस्				
+14	अ-जानता	4	अजानता	अ-जानत्{पुं}{3;एक}/जानत्{नपुं}{3;एक}	न-ज्ञा2{कृत्_प्रत्ययः:शतृ;ज्ञा;क्र्यादिः;पुं}{3;एक}	विशेषणम्,18	न_जानते_हुए	तिट्होउट्_क्नोतिन्ग्	<न-जानता>ठ्न्			
+15	महिमानम्	3	महिमानं	महिमन्{पुं}{2;एक}	महिमन्{पुं}{2;एक}	कर्म,14	प्रभाव_को	ग्लोरिएस्				
+16	तव	1	तवेदं	युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,15	आपके	Yओउर्				
+17	इदम्	2	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,4	इस	ट्हिस्				
+18	मया	14	मया	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,6	मैंने	ब्य्_मे				
+19	प्रमादात्	12	प्रमादात्प्रणयेन	प्रमाद{पुं}{5;एक}	प्रमाद{पुं}{5;एक}	हेतुः,6	प्रमाद_से	ओउट्_ओङ्_ङोओलिस्ह्नेस्स्				
+20	प्रणयेन	10	0	प्रणय{पुं}{3;एक}	प्रणय{पुं}{3;एक}	हेतुः,6	प्रेम_से	ओउट्_ओङ्_लोवे				
+21	वा	11	वापि	वा{अव्य}	वा{अव्य}	सम्बन्धः,19	अथवा	ओर्				
+22	अपि	13	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,20	भी	अल्सो				
+23	यत्	27	यच्चावहासार्थमसत्कृतोऽसि	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	विशेषणम्,26	जो	त्हटेवेर्				
+24	च	25	0	च{अव्य}	च{अव्य}	सम्बन्धः,22	और	अल्सो				
+25	अवहासार्थम्	28	0	अवहास{अर्थम्}	अवहासार्थ{नपुं}{4;एक}	प्रयोजनम्,40	विनोद_के_लिये	ङोर्_जोकिन्ग्				
+26	अ-सत्-कृतः	35	0	अ-सद्-कृत्{पुं}{1;बहु}/कृत्{पुं}{2;बहु}/कृत्{पुं}{5;एक}/कृत्{पुं}{6;एक}/कृत्{पुं}{8;बहु}/कृत{पुं}{1;एक}	असद्-कृत्{पुं}{1;एक}	विधेय_विशेषणम्,40	अपमानित_किये_गये	डिस्होनोर्	<<न-सत्>ठ्न्-कृतः>ऊ			
+27	असि	36	0	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	वाक्यकर्म,3	हैं	हवे_बेएन्_डोने				
+28	विहार-शय्या-आसन-भोजनेषु	29	विहारशय्यासनभोजनेषु	विहार-शय्या-आसन-भोजन{पुं}{7;बहु}/भोजन{नपुं}{7;बहु}	विहार-शय्या-आसन-भोजन{नपुं}{7;बहु}	अधिकरणम्,40	विहार_शय्या_आसान_और_भोजनादि_में	इन्_रेलदटिओन्_स्लेएप्_रेस्टिन्ग्_प्लचे_ओर्_त्हिले_एअटिन्ग्_टोगेट्हेर्	<विहार-शय्या-आसन-भोजनेषु>ढ्स्			
+29	एकः	31	एकोऽथवाप्यच्युत	एक{पुं}{1;एक}	एक{पुं}{1;एक}	विशेषणम्,41	अकेले	अलोने				
+30	अथवा	32	0	अथवा{अव्य}	अथवा{अव्य}	सम्बन्धः,29	अथवा	ओर्				
+31	अपि	34	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,30	भी	ओट्हेर्स्				
+32	अ-च्युत	26	0	अच्युत{पुं}{8;एक}	अच्युत{पुं}{8;एक}	सम्बोध्यः,6	हे_अच्युत	औ_इन्ङल्लिब्ले_ओने	<न-च्युत>भ्स्म्न्			
+33	तत्-समक्षम्	33	तत्समक्षं	तद्-समक्ष{पुं}{2;एक}/समक्ष{नपुं}{1;एक}/समक्ष{नपुं}{2;एक}	तद्-समक्ष{नपुं}{1;एक}	क्रियाविशेषणम्,40	उन_सखाओं_के_सामने	अस्_Yओउर्_चोम्पेटिटोर्				
+34	तत्	37	तत्क्षामये	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	गौणकर्म,35	वह	अल्ल्_ट्होसे				
+35	क्षामये	41	0	क्षामय{पुं}{7;एक}/क्षामय{नपुं}{1;द्वि}/क्षामय{नपुं}{2;द्वि}/क्षामय{नपुं}{7;एक}/क्षामय{नपुं}{8;द्वि}	क्षम्1_णिच्{कर्तरि;लट्;उ;एक;आत्मनेपदी;क्षमूँष्_णिच्;भ्वादिः}	अभिहित_कर्ता,37	क्षमा_करवाता_हूँ	एद्चुसे				
+36	त्वाम्	40	त्वामहमप्रमेयम्	युष्मद्{2;एक}	युष्मद्{2;एक}	मुख्यकर्म,35	आपसे	ङ्रोम्_योउ				
+37	अहम्	38	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,35	मैं	ई				
+38	अ-प्रमेयम्	39	0	अ-प्रमेयम्	न-प्रमेय{पुं}{2;एक}	सम्बोध्यः,40	अप्रमेयस्वरूप	इम्मेअसुरब्ले	<न-प्रमेयम्>ठ्न्			
+39	(त्वम्)	30	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,27	(तुम)	योउ				
+40	(अस्मि)	6	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,41	(हूँ)	अम्				
+41	(अहम्)	5	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,40	(मैं)	ई				

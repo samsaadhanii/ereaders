@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kAlaH	4	kAlosmi	kAla{puM}{1;eka}	kAla{puM}{1;eka}	viXeya_viSeRaNam,2	mahAkAla	time				
-2	asmi	5	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,21	hUz	am				
-3	loka-kRaya-kqw	2	lokakRayakqwpravqxXo	loka-kRaya-kqw{puM}{1;eka}	loka-kRaya-kqw{puM}{1;eka}	viSeRaNam,21	lokoM_kA_nASa_karanevAlA	destroyer_of_the_worlds	<<loka-kRaya>T6-kqw>U			
-4	pravqxXaH	3	0	pravqxXa{puM}{1;eka}	pra_vqX1{kqw_prawyayaH:kwa;pra_vqXuz;BvAxiH;puM}{1;eka}	viSeRaNam,1	baDa़A_huA	to_engage				
-4.1	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,2	(mEM)	I				
-5	lokAn	8	lokAnsamAharwumiha	loka{puM}{2;bahu}	loka{puM}{2;bahu}	karma,6	ina_lokoM_ko	all_people				
-6	samAharwum	9	0	samA-hq1{avya;wumun;hqF;:BvAxiH}/hq2{avya;wumun;hq;:juhowyAxiH}	samA-hq1{avya;wumun;hqF;:BvAxiH}	prayojanam,8	naRta_karane_ke_liye	to_destroy				
-7	iha	7	0	iha{avya}	iha{avya}	xeSAXikaraNam,6	isa_samaya	in_this_world				
-8	pravqwwaH	10	pravqwwaH	prawyanIka{puM;7;bahu}/prawyanIka{napuM;7;bahu}	pra_vqw1{kqw_prawyayaH:kwa;pra_vqwuz;BvAxiH;puM}{1;eka}	aBihiwakarwA,8.1;akarmakaH	pravqwwa_huA	to_engage				
-8.1	(aham)	6	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,8	(mEM)	I				
-9	qwe	17	qweZpi	qwe{avya}/qwa{puM}{7;eka}/qwa{napuM}{1;xvi}/qwa{napuM}{2;xvi}/qwa{napuM}{7;eka}/qwA{swrI}{1;xvi}/qwA{swrI}{2;xvi}/qwA{swrI}{1;xvi}/qwA{swrI}{2;xvi}	qwe{avya}	aXikaraNam,13	binA	without				
-10	api	18	0	api{avya}	api{avya}	sambanXaH,9	BI	even				
-11	wvAm	16	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,9	were	you				
-12	na	19	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	never				
-13	BaviRyanwi	20	BaviRyanwi	as2{karwari;lqt;pra;bahu;parasmEpaxI;asaz;axAxiH}/BU1{karwari;lqt;pra;bahu;parasmEpaxI;BU;BvAxiH}/BaviRyaw{napuM}{1;bahu}/BaviRyaw{napuM}{2;bahu}	BU1{karwari;lqt;pra;bahu;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,14	raheMge	will_be				
-14	sarve	15	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,13	saba	all				
-15	ye	11	yeZvasWiwAH	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,18;niwya_sambanXaH,14	jo	who				
-16	avasWiwAH	14	0	avasWiwa{puM}{1;bahu}/avasWiwA{swrI}{1;bahu}/avasWiwA{swrI}{2;bahu}	ava_sWA1{kqw_prawyayaH:kwa;ava_RTA;BvAxiH;puM}{1;bahu}		sWiwa	situated				
-17	prawyanIkeRu	13	prawyanIkeRu	prawyanIka{puM;7;bahu}/prawyanIka{napuM;7;bahu}	prawyanIka{napuM;7;bahu}	aXikaraNam,16	prawipakRiyoM_kI_senA_meM	on_the_opposite_side	<prawi-anIkeRu>A1			
-18	yoXAH	12	yoXAH	yoXa{puM}{1;bahu}	yoXa{puM}{1;bahu}	karwA,16	yoxXA_loga	the_soldiers				
+1	कालः	4	कालोस्मि	काल{पुं}{1;एक}	काल{पुं}{1;एक}	विधेय_विशेषणम्,2	महाकाल	टिमे				
+2	अस्मि	5	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहित_कर्ता,21	हूँ	अम्				
+3	लोक-क्षय-कृत्	2	लोकक्षयकृत्प्रवृद्धो	लोक-क्षय-कृत्{पुं}{1;एक}	लोक-क्षय-कृत्{पुं}{1;एक}	विशेषणम्,21	लोकों_का_नाश_करनेवाला	डेस्ट्रोयेर्_ओङ्_ट्हे_तोर्ल्ड्स्	<<लोक-क्षय>ठ्6-कृत्>ऊ			
+4	प्रवृद्धः	3	0	प्रवृद्ध{पुं}{1;एक}	प्र_वृध्1{कृत्_प्रत्ययः:क्त;प्र_वृधुँ;भ्वादिः;पुं}{1;एक}	विशेषणम्,1	बढॆअञआ_हुआ	टो_एन्गगे				
+4.1	(अहम्)	1	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,2	(मैं)	ई				
+5	लोकान्	8	लोकान्समाहर्तुमिह	लोक{पुं}{2;बहु}	लोक{पुं}{2;बहु}	कर्म,6	इन_लोकों_को	अल्ल्_पेओप्ले				
+6	समाहर्तुम्	9	0	समा-हृ1{अव्य;तुमुन्;हृञ्;:भ्वादिः}/हृ2{अव्य;तुमुन्;हृ;:जुहोत्यादिः}	समा-हृ1{अव्य;तुमुन्;हृञ्;:भ्वादिः}	प्रयोजनम्,8	नष्ट_करने_के_लिये	टो_डेस्ट्रोय्				
+7	इह	7	0	इह{अव्य}	इह{अव्य}	देशाधिकरणम्,6	इस_समय	इन्_ट्हिस्_तोर्ल्ड्				
+8	प्रवृत्तः	10	प्रवृत्तः	प्रत्यनीक{पुं;7;बहु}/प्रत्यनीक{नपुं;7;बहु}	प्र_वृत्1{कृत्_प्रत्ययः:क्त;प्र_वृतुँ;भ्वादिः;पुं}{1;एक}	अभिहितकर्ता,8.1;अकर्मकः	प्रवृत्त_हुआ	टो_एन्गगे				
+8.1	(अहम्)	6	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,8	(मैं)	ई				
+9	ऋते	17	ऋतेऽपि	ऋते{अव्य}/ऋत{पुं}{7;एक}/ऋत{नपुं}{1;द्वि}/ऋत{नपुं}{2;द्वि}/ऋत{नपुं}{7;एक}/ऋता{स्त्री}{1;द्वि}/ऋता{स्त्री}{2;द्वि}/ऋता{स्त्री}{1;द्वि}/ऋता{स्त्री}{2;द्वि}	ऋते{अव्य}	अधिकरणम्,13	बिना	तिट्होउट्				
+10	अपि	18	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,9	भी	एवेन्				
+11	त्वाम्	16	त्वां	युष्मद्{2;एक}	युष्मद्{2;एक}	कर्म,9	तेरे	योउ				
+12	न	19	न	न{अव्य}	न{अव्य}	प्रतिषेधः,13	नहीं	नेवेर्				
+13	भविष्यन्ति	20	भविष्यन्ति	अस्2{कर्तरि;लृट्;प्र;बहु;परस्मैपदी;असँ;अदादिः}/भू1{कर्तरि;लृट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}/भविष्यत्{नपुं}{1;बहु}/भविष्यत्{नपुं}{2;बहु}	भू1{कर्तरि;लृट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}	अभिहित_कर्ता,14	रहेंगे	तिल्ल्_बे				
+14	सर्वे	15	सर्वे	सर्व{पुं}{1;बहु}/सर्व{नपुं}{1;द्वि}/सर्व{नपुं}{2;द्वि}/सर्वा{स्त्री}{1;द्वि}/सर्वा{स्त्री}{2;द्वि}	सर्व{पुं}{1;बहु}	कर्ता,13	सब	अल्ल्				
+15	ये	11	येऽवस्थिताः	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	विशेषणम्,18;नित्य_सम्बन्धः,14	जो	त्हो				
+16	अवस्थिताः	14	0	अवस्थित{पुं}{1;बहु}/अवस्थिता{स्त्री}{1;बहु}/अवस्थिता{स्त्री}{2;बहु}	अव_स्था1{कृत्_प्रत्ययः:क्त;अव_ष्ठा;भ्वादिः;पुं}{1;बहु}		स्थित	सिटुअटेड्				
+17	प्रत्यनीकेषु	13	प्रत्यनीकेषु	प्रत्यनीक{पुं;7;बहु}/प्रत्यनीक{नपुं;7;बहु}	प्रत्यनीक{नपुं;7;बहु}	अधिकरणम्,16	प्रतिपक्षियों_की_सेना_में	ओन्_ट्हे_ओप्पोसिटे_सिडे	<प्रति-अनीकेषु>आ1			
+18	योधाः	12	योधाः	योध{पुं}{1;बहु}	योध{पुं}{1;बहु}	कर्ता,16	योद्धा_लोग	ट्हे_सोल्डिएर्स्				

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	rajaH	4	rajo	rajas{puM}{8;eka}/rajas{napuM}{1;eka}/rajas{napuM}{2;eka}/rajas{napuM}{8;eka}	rajas{napuM}{2;eka}	karma,3	rajoguNa_ko	the_mode_of_passion				
-2	rAga-Awmakam	3	rAgAwmakaM	rAgAwmaka{puM}{2;eka}/rAgAwmaka{napuM}{1;eka}/rAgAwmaka{napuM}{2;eka}	rAgAwmaka{napuM}{2;eka}	viSeRaNam,1	rAgarUpa	born_of_desire_or_lust	<rAga-AwmakaM>Bs6			
-3	vixXi	6	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,4.1;sakarmakaH	jAna	know				
-4	wqRNA-safga-samuxBavam	5	wqRNAsafgasamuxBavam	wqRNA-safga-samuxBava{puM}{2;eka}	wqRNA-safga-samuxBava{puM}{2;eka}	karmasamAnAXikaraNam,3	kAmanA_Ora_Asakwi_se_uwpanna	produced_of_lust_and_association	<<wqRNA-safga>Di-samuxBavam>T3			
-4.1	(wvam)	2	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,3	(wuma)	you				
-5	waw	7	wannibaXnAwi	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,9.1	vaha	that				
-6	nibaXnAwi	11	0	ni_banX1{karwari;lat;pra;eka;parasmEpaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;eka;parasmEpaxI;ni_banXaz;kryAxiH}	aBihiwakarwA,9.1;sakarmakaH	bAzXawA_hE	binds				
-7	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,3	he_arjuna	O_son_of_Kunti				
-8	karma-safgena	10	karmasafgena	karman-safga{puM}{3;eka}	karman-safga{puM}{3;eka}	karaNam,6	karmoM_ke_Ora_unake_Pala_ke_sambanXa_se	by_association_with_fruitive_activity	<karma-safgena>T7			
-9	xehinam	9	xehinam	xehin{puM}{2;eka}	xehin{puM}{2;eka}	karma,6	isa_jIvAwmA_ko	the_embodied				
-9.1	(rajaH)	8	(0)	(rajas{puM}{8;eka}/rajas{napuM}{1;eka}/rajas{napuM}{2;eka}/rajas{napuM}{8;eka})	(rajas{napuM}{1;eka})	karwA,6	(rajoguNa_ko)	mode_of_passion				
+1	रजः	4	रजो	रजस्{पुं}{8;एक}/रजस्{नपुं}{1;एक}/रजस्{नपुं}{2;एक}/रजस्{नपुं}{8;एक}	रजस्{नपुं}{2;एक}	कर्म,3	रजोगुण_को	ट्हे_मोडे_ओङ्_पस्सिओन्				
+2	राग-आत्मकम्	3	रागात्मकं	रागात्मक{पुं}{2;एक}/रागात्मक{नपुं}{1;एक}/रागात्मक{नपुं}{2;एक}	रागात्मक{नपुं}{2;एक}	विशेषणम्,1	रागरूप	बोर्न्_ओङ्_डेसिरे_ओर्_लुस्ट्	<राग-आत्मकं>भ्स्6			
+3	विद्धि	6	विद्धि	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,4.1;सकर्मकः	जान	क्नोत्				
+4	तृष्णा-सङ्ग-समुद्भवम्	5	तृष्णासङ्गसमुद्भवम्	तृष्णा-सङ्ग-समुद्भव{पुं}{2;एक}	तृष्णा-सङ्ग-समुद्भव{पुं}{2;एक}	कर्मसमानाधिकरणम्,3	कामना_और_आसक्ति_से_उत्पन्न	प्रोडुचेड्_ओङ्_लुस्ट्_अन्ड्_अस्सोचिअटिओन्	<<तृष्णा-सङ्ग>ढि-समुद्भवम्>ठ्3			
+4.1	(त्वम्)	2	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,3	(तुम)	योउ				
+5	तत्	7	तन्निबध्नाति	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	विशेषणम्,9.1	वह	ट्हट्				
+6	निबध्नाति	11	0	नि_बन्ध्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;बन्धँ;क्र्यादिः}	नि_बन्ध्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;नि_बन्धँ;क्र्यादिः}	अभिहितकर्ता,9.1;सकर्मकः	बाँधता_है	बिन्ड्स्				
+7	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,3	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+8	कर्म-सङ्गेन	10	कर्मसङ्गेन	कर्मन्-सङ्ग{पुं}{3;एक}	कर्मन्-सङ्ग{पुं}{3;एक}	करणम्,6	कर्मों_के_और_उनके_फल_के_सम्बन्ध_से	ब्य्_अस्सोचिअटिओन्_तिट्ह्_ङ्रुइटिवे_अच्टिविट्य्	<कर्म-सङ्गेन>ठ्7			
+9	देहिनम्	9	देहिनम्	देहिन्{पुं}{2;एक}	देहिन्{पुं}{2;एक}	कर्म,6	इस_जीवात्मा_को	ट्हे_एम्बोडिएड्				
+9.1	(रजः)	8	(0)	(रजस्{पुं}{8;एक}/रजस्{नपुं}{1;एक}/रजस्{नपुं}{2;एक}/रजस्{नपुं}{8;एक})	(रजस्{नपुं}{1;एक})	कर्ता,6	(रजोगुण_को)	मोडे_ओङ्_पस्सिओन्				

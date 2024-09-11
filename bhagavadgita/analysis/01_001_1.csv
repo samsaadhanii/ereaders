@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	Xarma-kRewre	2	XarmakRewre	Xarman-kRewra{napuM}{1;xvi}/kRewra{napuM}{2;xvi}/kRewra{napuM}{7;eka}	Xarman-kRewra{napuM}{7;eka}	viSeRaNam,2	XarmaBUmi_meM	in_the_place_of_pilgrimage	<Xarma-kRewre>T6			
-2	kuru-kRewre	3	kurukRewre	kuru-kRewra{napuM}{1;xvi}/kRewra{napuM}{2;xvi}/kRewra{napuM}{7;eka}	kuru-kRewra{napuM}{7;eka}	aXikaraNam,9	kurukRewra_meM	in_the_place_named_Kuruksetra	<kuru-kRewre>T6			
-3	samavewAH	4	samavewA	samavewa{puM}{1;bahu}/samavewA{swrI}{1;bahu}/samavewA{swrI}{2;bahu}	samavewa{puM}{1;bahu}	viSeRaNam,6	ekawriwa	assembled				
-4	yuyuwsavaH	5	yuyuwsavaH	yuyuwsu{puM}{1;bahu}	yuyuwsu{puM}{1;bahu}	viSeRaNam,6	yuxXa_kI_icCAvAle	eager_to_fight				
-5	mAmakAH	6	mAmakAH	mAmaka{puM}{1;bahu}	mAmaka{puM}{1;bahu}	sup_samucciwaH,6	mere	my_(sons)				
-6	pANdavAH	7	pANdavAScEva	pANdava{puM}{1;bahu}	pANdava{puM}{1;bahu}	karwA,9	pANdu_ke_puwroM_ne	the_sons_of_Pandu				
-7	ca	8	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	and				
-7.1	eva	9	0		eva{avya}	sambanXaH,6	vahi	certainly				
-8	kim	10	kimakurvawa	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{2;eka}	karma,9	kyA	what				
-9	akurvawa	11	0	kq3{karwari;laf;pra;bahu;AwmanepaxI;dukqF;wanAxiH}	kq3{karwari;laf;pra;bahu;AwmanepaxI;dukqF;wanAxiH}	aBihiwa_karwA,6;sakarmakaH	kiyA	did_they_do				
-10	saFjaya	1	saFjaya	sam_ji1{karwari;lot;ma;eka;parasmEpaxI;ji;BvAxiH}/saFj1_Nic{karwari;lot;ma;eka;parasmEpaxI;RaFjaz;BvAxiH}	saFjaya{puM}{8;eka}	samboXyaH,9	he_saMjaya	O_Sanjaya				
+1	धर्म-क्षेत्रे	2	धर्मक्षेत्रे	धर्मन्-क्षेत्र{नपुं}{1;द्वि}/क्षेत्र{नपुं}{2;द्वि}/क्षेत्र{नपुं}{7;एक}	धर्मन्-क्षेत्र{नपुं}{7;एक}	विशेषणम्,2	धर्मभूमि_में	इन्_ट्हे_प्लचे_ओङ्_पिल्ग्रिमगे	<धर्म-क्षेत्रे>ठ्6			
+2	कुरु-क्षेत्रे	3	कुरुक्षेत्रे	कुरु-क्षेत्र{नपुं}{1;द्वि}/क्षेत्र{नपुं}{2;द्वि}/क्षेत्र{नपुं}{7;एक}	कुरु-क्षेत्र{नपुं}{7;एक}	अधिकरणम्,9	कुरुक्षेत्र_में	इन्_ट्हे_प्लचे_नमेड्_खुरुक्सेट्र	<कुरु-क्षेत्रे>ठ्6			
+3	समवेताः	4	समवेता	समवेत{पुं}{1;बहु}/समवेता{स्त्री}{1;बहु}/समवेता{स्त्री}{2;बहु}	समवेत{पुं}{1;बहु}	विशेषणम्,6	एकत्रित	अस्सेम्ब्लेड्				
+4	युयुत्सवः	5	युयुत्सवः	युयुत्सु{पुं}{1;बहु}	युयुत्सु{पुं}{1;बहु}	विशेषणम्,6	युद्ध_की_इच्छावाले	एअगेर्_टो_ङिग्ह्ट्				
+5	मामकाः	6	मामकाः	मामक{पुं}{1;बहु}	मामक{पुं}{1;बहु}	सुप्_समुच्चितः,6	मेरे	म्य्_(सोन्स्)				
+6	पाण्डवाः	7	पाण्डवाश्चैव	पाण्डव{पुं}{1;बहु}	पाण्डव{पुं}{1;बहु}	कर्ता,9	पाण्डु_के_पुत्रों_ने	ट्हे_सोन्स्_ओङ्_फन्डु				
+7	च	8	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	और	अन्ड्				
+7.1	एव	9	0		एव{अव्य}	सम्बन्धः,6	वहि	चेर्टइन्ल्य्				
+8	किम्	10	किमकुर्वत	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{2;एक}	कर्म,9	क्या	त्हट्				
+9	अकुर्वत	11	0	कृ3{कर्तरि;लङ्;प्र;बहु;आत्मनेपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लङ्;प्र;बहु;आत्मनेपदी;डुकृञ्;तनादिः}	अभिहित_कर्ता,6;सकर्मकः	किया	डिड्_ट्हेय्_डो				
+10	सञ्जय	1	सञ्जय	सम्_जि1{कर्तरि;लोट्;म;एक;परस्मैपदी;जि;भ्वादिः}/सञ्ज्1_णिच्{कर्तरि;लोट्;म;एक;परस्मैपदी;षञ्जँ;भ्वादिः}	सञ्जय{पुं}{8;एक}	सम्बोध्यः,9	हे_संजय	औ_शन्जय				

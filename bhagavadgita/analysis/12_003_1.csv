@@ -1,23 +1,23 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ye	2	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,6;niwya_sambanXaH,17	jo_(puruRa)	those				
-2	wu	1	wvakRaramanirxeSyamavyakwaM	wu{avya}	wu{avya}	sambanXaH,6	paraMwu	but				
-3	a-kRaram	13	0	akRara{napuM}{1;eka}/akRara{napuM}{2;eka}/kRar1{karwari;laf;u;eka;parasmEpaxI;kRaraz;BvAxiH}	akRara{napuM}{2;eka}	karma,6	avinASI_saccixAnanxaGana_brahma_ko	which_is_beyond_the_perception_of_the_senses	<na-kRaram>Tn			
-4	a-nirxeSyam	7	0	anirxeSya{puM}{2;eka}/anirxeSya{napuM}{1;eka}/anirxeSya{napuM}{2;eka}	anirxeSya{napuM}{2;eka}	viSeRaNam,3	akaWanIya_svarUpa	indefinite	<na-nirxeSyam>Tn			
-5	a-vyakwam	12	0	avyakwa{puM}{2;eka}	avyakwa{puM}{2;eka}	viSeRaNam,3	nirAkAra	unmanifested	<na-vyakwaM>Bsmn			
-6	paryupAsawe	14	paryupAsawe	paryupAsawe	pari_upa_As1{karwari;lat;pra;bahu;AwmanepaxI;pari_upa_Asaz;axAxiH}	aBihiwakarwA,1;sakarmakaH	niranwara_ekIBAva_se_XyAna_karawe_hue_Bajawe_hEM	completely_engages				
-7	sarvawra-gam	6	sarvawragamacinwyaM	sarvawraga{puM}{2;eka}/sarvawraga{napuM}{1;eka}/sarvawraga{napuM}{2;eka}	sarvawra-ga{napuM}{2;eka}	viSeRaNam,3	sarvavyApI	all-pervading	<sarvawra-gam>U			
-8	a-cinwyam	5	0	acinwya{puM}{2;eka}/acinwya{napuM}{1;eka}/acinwya{napuM}{2;eka}	acinwya{napuM}{2;eka}	viSeRaNam,3	mana-buxXi_se_pare	inconceivable	<na-cinwyam>Tn			
-9	ca	8	ca	ca{avya}	ca{avya}	sambanXaH,6	Ora	also				
-10	kUta-sWam	9	kUtasWamacalaM	kUtasWa{puM}{2;eka}/kUtasWa{napuM}{1;eka}/kUtasWa{napuM}{2;eka}	kUtasWa{napuM}{2;eka}	viSeRaNam,3	saxA_ekarasa_rahanevAle	in_the_center	<kUta-sWam>U			
-11	a-calam	11	0	acala{puM}{2;eka}/cal1{karwari;laf;u;eka;parasmEpaxI;calaz;BvAxiH}/cal2{karwari;laf;u;eka;parasmEpaxI;calaz;wuxAxiH}	acala{napuM}{2;eka}	viSeRaNam,3	acala	immovable	<na-calam>Tn			
-12	Xruvam	10	Xruvam	Xruva{puM}{2;eka}/Xruva{napuM}{1;eka}/Xruva{napuM}{2;eka}	Xruva{napuM}{2;eka}	viSeRaNam,3	niwya	fixed				
-13	saMniyamya	4	sanniyamyenxriyagrAmaM	sam_ni_yam1{lyap;yamoz;BvAxiH}	sam_ni_yam1{kqw_prawyayaH:lyap;sam_ni_yamoz;BvAxiH}	pUrvakAlaH,6	BalI_prakAra_se_vaSa_meM_karake	controlling				
-14	inxriya-grAmam	3	0	inxriyagrAma{puM}{2;eka}	inxriya-grAma{puM}{2;eka}	karma,13	inxriyoM_ke_samuxAya_ko	all_the_senses	<inxriya-grAmaM>T6			
-15	sarvawra	18	sarvawra	sarvawra{avya}	sarvawra{avya}	aXikaraNam,18	sabameM	everywhere				
-16	sama-buxXayaH	19	samabuxXayaH	samabuxXi{puM}{1;bahu}	sama-buxXi{swrI}{1;bahu}	viSeRaNam,17	samAnaBAvavAle_yogI	equally_disposed	<sama-buxXayaH>Bs6			
-17	we	15	we	wax{puM}{1;bahu}	wax{puM}{1;bahu}	karwA,18	ve	they				
-18	prApnuvanwi	22	prApnuvanwi	pra_Ap1{karwari;lat;pra;bahu;parasmEpaxI;ApLz;svAxiH}	pra_Ap1{karwari;lat;pra;bahu;parasmEpaxI;pra_ApLz;svAxiH}	aBihiwakarwA,17;sakarmakaH	prApwa_howe_hEM	achieve				
-19	mAm	20	mAmeva	asmax{2;eka}	asmax{2;eka}	karma,18	muJako	unto_Me				
-20	eva	21	0	eva{avya}	eva{avya}	sambanXaH,18	hI	certainly				
-21	sarva-BUwa-hiwe	16	sarvaBUwahiwe	sarvaBUwahiwa{puM}{7;eka}/sarvaBUwahiwa{napuM}{1;xvi}/sarvaBUwahiwa{napuM}{2;xvi}/sarvaBUwahiwa{napuM}{7;eka}/sarvaBUwahiwA{swrI}{1;xvi}/sarvaBUwahiwA{swrI}{2;xvi}	sarva-BUwa-hiwa{puM}{7;eka}	aXikaraNam,22	sampUrNa_BUwoM_ke_hiwa_meM	all_living_entities'_welfare	<<sarva-BUwa>K1-hiwe>T6			
-22	rawAH	17	rawAH	rawa{puM}{1;bahu}/rawA{swrI}{1;bahu}/rawA{swrI}{2;bahu}/rawA{swrI}{1;bahu}/rawA{swrI}{2;bahu}	rawa{puM}{1;bahu}	viSeRaNam,17	rawa	engaged				
+1	ये	2	ये	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	कर्ता,6;नित्य_सम्बन्धः,17	जो_(पुरुष)	ट्होसे				
+2	तु	1	त्वक्षरमनिर्देश्यमव्यक्तं	तु{अव्य}	तु{अव्य}	सम्बन्धः,6	परंतु	बुट्				
+3	अ-क्षरम्	13	0	अक्षर{नपुं}{1;एक}/अक्षर{नपुं}{2;एक}/क्षर्1{कर्तरि;लङ्;उ;एक;परस्मैपदी;क्षरँ;भ्वादिः}	अक्षर{नपुं}{2;एक}	कर्म,6	अविनाशी_सच्चिदानन्दघन_ब्रह्म_को	त्हिच्ह्_इस्_बेयोन्ड्_ट्हे_पेर्चेप्टिओन्_ओङ्_ट्हे_सेन्सेस्	<न-क्षरम्>ठ्न्			
+4	अ-निर्देश्यम्	7	0	अनिर्देश्य{पुं}{2;एक}/अनिर्देश्य{नपुं}{1;एक}/अनिर्देश्य{नपुं}{2;एक}	अनिर्देश्य{नपुं}{2;एक}	विशेषणम्,3	अकथनीय_स्वरूप	इन्डेङिनिटे	<न-निर्देश्यम्>ठ्न्			
+5	अ-व्यक्तम्	12	0	अव्यक्त{पुं}{2;एक}	अव्यक्त{पुं}{2;एक}	विशेषणम्,3	निराकार	उन्मनिङेस्टेड्	<न-व्यक्तं>भ्स्म्न्			
+6	पर्युपासते	14	पर्युपासते	पर्युपासते	परि_उप_आस्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;परि_उप_आसँ;अदादिः}	अभिहितकर्ता,1;सकर्मकः	निरन्तर_एकीभाव_से_ध्यान_करते_हुए_भजते_हैं	चोम्प्लेटेल्य्_एन्गगेस्				
+7	सर्वत्र-गम्	6	सर्वत्रगमचिन्त्यं	सर्वत्रग{पुं}{2;एक}/सर्वत्रग{नपुं}{1;एक}/सर्वत्रग{नपुं}{2;एक}	सर्वत्र-ग{नपुं}{2;एक}	विशेषणम्,3	सर्वव्यापी	अल्ल्-पेर्वडिन्ग्	<सर्वत्र-गम्>ऊ			
+8	अ-चिन्त्यम्	5	0	अचिन्त्य{पुं}{2;एक}/अचिन्त्य{नपुं}{1;एक}/अचिन्त्य{नपुं}{2;एक}	अचिन्त्य{नपुं}{2;एक}	विशेषणम्,3	मन-बुद्धि_से_परे	इन्चोन्चेइवब्ले	<न-चिन्त्यम्>ठ्न्			
+9	च	8	च	च{अव्य}	च{अव्य}	सम्बन्धः,6	और	अल्सो				
+10	कूट-स्थम्	9	कूटस्थमचलं	कूटस्थ{पुं}{2;एक}/कूटस्थ{नपुं}{1;एक}/कूटस्थ{नपुं}{2;एक}	कूटस्थ{नपुं}{2;एक}	विशेषणम्,3	सदा_एकरस_रहनेवाले	इन्_ट्हे_चेन्टेर्	<कूट-स्थम्>ऊ			
+11	अ-चलम्	11	0	अचल{पुं}{2;एक}/चल्1{कर्तरि;लङ्;उ;एक;परस्मैपदी;चलँ;भ्वादिः}/चल्2{कर्तरि;लङ्;उ;एक;परस्मैपदी;चलँ;तुदादिः}	अचल{नपुं}{2;एक}	विशेषणम्,3	अचल	इम्मोवब्ले	<न-चलम्>ठ्न्			
+12	ध्रुवम्	10	ध्रुवम्	ध्रुव{पुं}{2;एक}/ध्रुव{नपुं}{1;एक}/ध्रुव{नपुं}{2;एक}	ध्रुव{नपुं}{2;एक}	विशेषणम्,3	नित्य	ङिदेड्				
+13	संनियम्य	4	सन्नियम्येन्द्रियग्रामं	सम्_नि_यम्1{ल्यप्;यमोँ;भ्वादिः}	सम्_नि_यम्1{कृत्_प्रत्ययः:ल्यप्;सम्_नि_यमोँ;भ्वादिः}	पूर्वकालः,6	भली_प्रकार_से_वश_में_करके	चोन्ट्रोल्लिन्ग्				
+14	इन्द्रिय-ग्रामम्	3	0	इन्द्रियग्राम{पुं}{2;एक}	इन्द्रिय-ग्राम{पुं}{2;एक}	कर्म,13	इन्द्रियों_के_समुदाय_को	अल्ल्_ट्हे_सेन्सेस्	<इन्द्रिय-ग्रामं>ठ्6			
+15	सर्वत्र	18	सर्वत्र	सर्वत्र{अव्य}	सर्वत्र{अव्य}	अधिकरणम्,18	सबमें	एवेर्य्त्हेरे				
+16	सम-बुद्धयः	19	समबुद्धयः	समबुद्धि{पुं}{1;बहु}	सम-बुद्धि{स्त्री}{1;बहु}	विशेषणम्,17	समानभाववाले_योगी	एऋउअल्ल्य्_डिस्पोसेड्	<सम-बुद्धयः>भ्स्6			
+17	ते	15	ते	तद्{पुं}{1;बहु}	तद्{पुं}{1;बहु}	कर्ता,18	वे	ट्हेय्				
+18	प्राप्नुवन्ति	22	प्राप्नुवन्ति	प्र_आप्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;आपॢँ;स्वादिः}	प्र_आप्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;प्र_आपॢँ;स्वादिः}	अभिहितकर्ता,17;सकर्मकः	प्राप्त_होते_हैं	अच्हिएवे				
+19	माम्	20	मामेव	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,18	मुझको	उन्टो_ंए				
+20	एव	21	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,18	ही	चेर्टइन्ल्य्				
+21	सर्व-भूत-हिते	16	सर्वभूतहिते	सर्वभूतहित{पुं}{7;एक}/सर्वभूतहित{नपुं}{1;द्वि}/सर्वभूतहित{नपुं}{2;द्वि}/सर्वभूतहित{नपुं}{7;एक}/सर्वभूतहिता{स्त्री}{1;द्वि}/सर्वभूतहिता{स्त्री}{2;द्वि}	सर्व-भूत-हित{पुं}{7;एक}	अधिकरणम्,22	सम्पूर्ण_भूतों_के_हित_में	अल्ल्_लिविन्ग्_एन्टिटिएस्'_तेल्ङरे	<<सर्व-भूत>ख्1-हिते>ठ्6			
+22	रताः	17	रताः	रत{पुं}{1;बहु}/रता{स्त्री}{1;बहु}/रता{स्त्री}{2;बहु}/रता{स्त्री}{1;बहु}/रता{स्त्री}{2;बहु}	रत{पुं}{1;बहु}	विशेषणम्,17	रत	एन्गगेड्				

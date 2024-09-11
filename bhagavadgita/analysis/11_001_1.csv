@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	maw-anugrahAya	2	maxanugrahAya	asmax-anugraha{puM}{4;eka}/anugraha{napuM}{4;eka}	asmax-anugraha{puM}{4;eka}	prayojanam,7	muJapara_anugraha_karane_ke_liye	just_show_me_favor	<asmaw-anugrahAya>T6			
-2	paramam	4	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{2;eka}	viSeRaNam,8	parama	supreme				
-3	guhyam	5	guhyamAXyAwmasaFjFiwam	guhya{puM}{2;eka}/guhya{napuM}{1;eka}/guhya{napuM}{2;eka}	guhya{napuM}{2;eka}	viSeRaNam,8	gopanIya	confidential				
-4	aXi-Awma-saFjFiwam	3	0	aXyAwma-saFjFiwa{puM}{2;eka}/saFjFiwa{napuM}{1;eka}/saFjFiwa{napuM}{2;eka}	aXyAwma-saFjFiwa{napuM}{2;eka}	viSeRaNam,8	aXyAwmaviRayaka	spiritual_matter	<<aXi-Awma>A1-saFjFiwam>K7			
-5	yaw	7	yawwvayokwaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,8;niwya_sambanXaH,9	jo	what				
-6	wvayA	1	0	yuRmax{3;eka}	yuRmax{3;eka}	karwA,7	Apane	by_You				
-7	ukwam	8	0	ukwa{puM}{2;eka}/ukwa{napuM}{1;eka}/ukwa{napuM}{2;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;napuM}{1;eka}	aBihiwa_karma,8;sakarmakaH	kahA	said				
-8	vacaH	6	vacaswena	vaca{puM}{1;eka}/vacas{napuM}{1;eka}/vacas{napuM}{2;eka}/vacas{napuM}{8;eka}	vacas{napuM}{2;eka}	karma,7	vacana_(arWAw_upaxeSa)	words				
-9	wena	9	0	wax{puM}{3;eka}/wax{napuM}{3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;wanAxiH}	wax{napuM}{3;eka}	hewuH,12	usase	by_that				
-10	mohaH	12	mohoZyaM	moha{puM}{1;eka}	moha{puM}{1;eka}	karwA,12	ajFAna	illusion				
-11	ayam	11	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,10	yaha	this				
-12	vigawaH	13	vigawo	vigawa{puM}{1;eka}	vi_gam1{kqw_prawyayaH:kwa;vi_gamLz;BvAxiH;puM}{1;eka}	aBihiwa_karwA,10;sakarmakaH	naRta_ho_gayA_hE	is_educated				
-13	mama	10	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,10	merA	my				
+1	मत्-अनुग्रहाय	2	मदनुग्रहाय	अस्मद्-अनुग्रह{पुं}{4;एक}/अनुग्रह{नपुं}{4;एक}	अस्मद्-अनुग्रह{पुं}{4;एक}	प्रयोजनम्,7	मुझपर_अनुग्रह_करने_के_लिये	जुस्ट्_स्होत्_मे_ङवोर्	<अस्मत्-अनुग्रहाय>ठ्6			
+2	परमम्	4	परमं	परमम्{अव्य}/परम{पुं}{2;एक}/परम{नपुं}{1;एक}/परम{नपुं}{2;एक}	परम{नपुं}{2;एक}	विशेषणम्,8	परम	सुप्रेमे				
+3	गुह्यम्	5	गुह्यमाध्यात्मसञ्ज्ञितम्	गुह्य{पुं}{2;एक}/गुह्य{नपुं}{1;एक}/गुह्य{नपुं}{2;एक}	गुह्य{नपुं}{2;एक}	विशेषणम्,8	गोपनीय	चोन्ङिडेन्टिअल्				
+4	अधि-आत्म-सञ्ज्ञितम्	3	0	अध्यात्म-सञ्ज्ञित{पुं}{2;एक}/सञ्ज्ञित{नपुं}{1;एक}/सञ्ज्ञित{नपुं}{2;एक}	अध्यात्म-सञ्ज्ञित{नपुं}{2;एक}	विशेषणम्,8	अध्यात्मविषयक	स्पिरिटुअल्_मट्टेर्	<<अधि-आत्म>आ1-सञ्ज्ञितम्>ख्7			
+5	यत्	7	यत्त्वयोक्तं	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	विशेषणम्,8;नित्य_सम्बन्धः,9	जो	त्हट्				
+6	त्वया	1	0	युष्मद्{3;एक}	युष्मद्{3;एक}	कर्ता,7	आपने	ब्य्_Yओउ				
+7	उक्तम्	8	0	उक्त{पुं}{2;एक}/उक्त{नपुं}{1;एक}/उक्त{नपुं}{2;एक}	वच्1{कृत्_प्रत्ययः:क्त;वचँ;अदादिः;नपुं}{1;एक}	अभिहित_कर्म,8;सकर्मकः	कहा	सइड्				
+8	वचः	6	वचस्तेन	वच{पुं}{1;एक}/वचस्{नपुं}{1;एक}/वचस्{नपुं}{2;एक}/वचस्{नपुं}{8;एक}	वचस्{नपुं}{2;एक}	कर्म,7	वचन_(अर्थात्_उपदेश)	तोर्ड्स्				
+9	तेन	9	0	तद्{पुं}{3;एक}/तद्{नपुं}{3;एक}/तन्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;तनुँ;तनादिः}	तद्{नपुं}{3;एक}	हेतुः,12	उससे	ब्य्_ट्हट्				
+10	मोहः	12	मोहोऽयं	मोह{पुं}{1;एक}	मोह{पुं}{1;एक}	कर्ता,12	अज्ञान	इल्लुसिओन्				
+11	अयम्	11	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	विशेषणम्,10	यह	ट्हिस्				
+12	विगतः	13	विगतो	विगत{पुं}{1;एक}	वि_गम्1{कृत्_प्रत्ययः:क्त;वि_गमॢँ;भ्वादिः;पुं}{1;एक}	अभिहित_कर्ता,10;सकर्मकः	नष्ट_हो_गया_है	इस्_एडुचटेड्				
+13	मम	10	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,10	मेरा	म्य्				

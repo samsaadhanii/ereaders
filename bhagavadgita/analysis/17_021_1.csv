@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaw	2	yawwu	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,10.1;niwya_sambanXaH,11	jo	that				
-2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,8	kiMwu	but				
-3	prawyupakAra-arWam	6	prawyupakArArWaM	prawyupakAra{arWam}	prawi-upakAra{napuM}{1;eka}	prayojanam,8	prawyupakAra_ke_prayojana_se	for_the_sake_of_getting_some_return	<prawyupakAra-arWam>T4			
-4	Palam	8	PalamuxxiSya	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karma,5	Pala_ko	result				
-5	uxxiSya	9	0	uxxiSya{avya}/ux_xiS1{kqw_prawyayaH:lyap;xiSaz;wuxAxiH}	ux_xiS1{kqw_prawyayaH:lyap;ux_xiSaz;wuxAxiH}	pUrvakAlaH,8;anyawaraH,3	xqRti_meM_raKakara	desiring				
-6	vA	7	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,3	aWavA	or				
-7	punaH	10	punaH	punaH{avya}	punaH{avya}	kriyAviSeRaNam,8	Pira	again				
-8	xIyawe	11	xIyawe	xI1{karwari;lat;pra;eka;AwmanepaxI;xIf;xivAxiH}/xI1{BAve;lat;pra;eka;AwmanepaxI;xIf;xivAxiH}/xA1{karmaNi;lat;pra;eka;AwmanepaxI;xAN;BvAxiH}/xA3{karmaNi;lat;pra;eka;AwmanepaxI;duxAF;juhowyAxiH}/xe1{karmaNi;lat;pra;eka;AwmanepaxI;xef;BvAxiH}/xo1{karmaNi;lat;pra;eka;AwmanepaxI;xo;xivAxiH}	xA3{karmaNi;lat;pra;eka;AwmanepaxI;duxAF;juhowyAxiH}	aBihiwakarma,10.1;sakarmakaH	xiyA_jAwA_hE	is_given_in_charity				
-9	ca	5	ca	ca{avya}	ca{avya}	sambanXaH,8	waWA	also				
-10	parikliRtam	4	parikliRtaM	parikliRta{puM}{2;eka}	pari_kliS2{kqw_prawyayaH:kwa;pari_kliSUz;kryAxiH;puM}{2;eka}	kriyAviSeRaNam,8	kleSapUrvaka	grudgingly				
-10.1	(xAnam)	3	(0)	(xAna{napuM}{1;eka}/xAna{napuM}{2;eka})	(xAna{napuM}{2;eka})	karma,8	(xAna)	charity				
-11	waw	12	waxxAnaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,12	vaha	that				
-12	xAnam	13	0	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{2;eka}	karma,14	xAna	charity				
-13	rAjasam	14	rAjasaM	rAjasa{puM}{2;eka}/rAjasa{napuM}{1;eka}/rAjasa{napuM}{2;eka}	rAjasa{napuM}{2;eka}	karmasamAnAXikaraNam,14	rAjasa	in_the_mode_of_passion				
-14	smqwam	15	smqwam	smqwa{puM}{2;eka}/smqwa{napuM}{1;eka}/smqwa{napuM}{2;eka}	smq1{kqw_prawyayaH:kwa;smq;BvAxiH;napuM}{1;eka}	aBihiwakarma,12;sakarmakaH	kahA_gayA_hE	is_understood_to_be				
+1	यत्	2	यत्तु	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	विशेषणम्,10.1;नित्य_सम्बन्धः,11	जो	ट्हट्				
+2	तु	1	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,8	किंतु	बुट्				
+3	प्रत्युपकार-अर्थम्	6	प्रत्युपकारार्थं	प्रत्युपकार{अर्थम्}	प्रति-उपकार{नपुं}{1;एक}	प्रयोजनम्,8	प्रत्युपकार_के_प्रयोजन_से	ङोर्_ट्हे_सके_ओङ्_गेट्टिन्ग्_सोमे_रेटुर्न्	<प्रत्युपकार-अर्थम्>ठ्4			
+4	फलम्	8	फलमुद्दिश्य	फल{नपुं}{1;एक}/फल{नपुं}{2;एक}	फल{नपुं}{2;एक}	कर्म,5	फल_को	रेसुल्ट्				
+5	उद्दिश्य	9	0	उद्दिश्य{अव्य}/उद्_दिश्1{कृत्_प्रत्ययः:ल्यप्;दिशँ;तुदादिः}	उद्_दिश्1{कृत्_प्रत्ययः:ल्यप्;उद्_दिशँ;तुदादिः}	पूर्वकालः,8;अन्यतरः,3	दृष्टि_में_रखकर	डेसिरिन्ग्				
+6	वा	7	वा	वा{अव्य}	वा{अव्य}	अन्यतर_द्योतकः,3	अथवा	ओर्				
+7	पुनः	10	पुनः	पुनः{अव्य}	पुनः{अव्य}	क्रियाविशेषणम्,8	फिर	अगइन्				
+8	दीयते	11	दीयते	दी1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;दीङ्;दिवादिः}/दी1{भावे;लट्;प्र;एक;आत्मनेपदी;दीङ्;दिवादिः}/दा1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;दाण्;भ्वादिः}/दा3{कर्मणि;लट्;प्र;एक;आत्मनेपदी;डुदाञ्;जुहोत्यादिः}/दे1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;देङ्;भ्वादिः}/दो1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;दो;दिवादिः}	दा3{कर्मणि;लट्;प्र;एक;आत्मनेपदी;डुदाञ्;जुहोत्यादिः}	अभिहितकर्म,10.1;सकर्मकः	दिया_जाता_है	इस्_गिवेन्_इन्_च्हरिट्य्				
+9	च	5	च	च{अव्य}	च{अव्य}	सम्बन्धः,8	तथा	अल्सो				
+10	परिक्लिष्टम्	4	परिक्लिष्टं	परिक्लिष्ट{पुं}{2;एक}	परि_क्लिश्2{कृत्_प्रत्ययः:क्त;परि_क्लिशूँ;क्र्यादिः;पुं}{2;एक}	क्रियाविशेषणम्,8	क्लेशपूर्वक	ग्रुड्गिन्ग्ल्य्				
+10.1	(दानम्)	3	(0)	(दान{नपुं}{1;एक}/दान{नपुं}{2;एक})	(दान{नपुं}{2;एक})	कर्म,8	(दान)	च्हरिट्य्				
+11	तत्	12	तद्दानं	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	विशेषणम्,12	वह	ट्हट्				
+12	दानम्	13	0	दान{नपुं}{1;एक}/दान{नपुं}{2;एक}	दान{नपुं}{2;एक}	कर्म,14	दान	च्हरिट्य्				
+13	राजसम्	14	राजसं	राजस{पुं}{2;एक}/राजस{नपुं}{1;एक}/राजस{नपुं}{2;एक}	राजस{नपुं}{2;एक}	कर्मसमानाधिकरणम्,14	राजस	इन्_ट्हे_मोडे_ओङ्_पस्सिओन्				
+14	स्मृतम्	15	स्मृतम्	स्मृत{पुं}{2;एक}/स्मृत{नपुं}{1;एक}/स्मृत{नपुं}{2;एक}	स्मृ1{कृत्_प्रत्ययः:क्त;स्मृ;भ्वादिः;नपुं}{1;एक}	अभिहितकर्म,12;सकर्मकः	कहा_गया_है	इस्_उन्डेर्स्टोओड्_टो_बे				

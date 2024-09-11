@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aho	1	aho	aho{avya}	aho{avya}	vismaya_xyowakaH,5.1	hA	alas				
-2	bawa	2	bawa	bawa{avya}	bawa{avya}	vismaya_xyowakaH,5.1	Soka	what_a_pity				
-3	mahaw	5	mahawpApaM	mahaw{napuM}{1;eka}/mahaw{napuM}{2;eka}	mahaw{napuM}{2;eka}	viSeRaNam,4	mahAn	great				
-4	pApam	6	0	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{2;eka}	karma,5	pApa	sin				
-5	karwum	7	karwuM_vyavasiwA	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	sahAyakakriyA,5.1	karane_ko_wEyAra_ho_gaye_hEM	set_our_mind_on_the_commission_of				
-5.1	vyavasiwAH	7.1		vi_ava_si1{kqw_prawyayaH:kwa;vi_ava_RiF;svAxiH;puM}{1;bahu}	vi_ava_si1{kqw_prawyayaH:kwa;vi_ava_RiF;svAxiH;puM}{1;bahu}	aBihiwakarwA,6						
-6	vayam	4	vayam	asmax{1;bahu}	asmax{1;bahu}	karwA,5.1	hama	we				
-7	yaw	3	yaxrAjyasuKaloBena	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	sambanXaH,9.1	jo	though				
-8	rAjya-suKa-loBena	8	0	rAjya-suKa-loBa{puM}{3;eka}/loBa{napuM}{3;eka}	rAjya-suKa-loBa{puM}{3;eka}	hewuH,9	rAjya_Ora_suKa_ke_loBa_se	due_to_lust_for_throne_and_enjoyment	<<rAjya-suKa>T6-loBena>T7			
-9	hanwum	10	hanwuM	han1{kqw_prawyayaH:wumun;hanaz;axAxiH}	han1{kqw_prawyayaH:wumun;hanaz;axAxiH}	sahAyakakriyA,9.1	mArane_ke_liye_uxyawa_ho_gaye_hEM	are_intent_on_killing				
-9.1	uxyawAH	10.1		ux_yam2{kqw_prawyayaH:kwa;ux_yamaz;BvAxiH;puM}{1;bahu}	ux_yam2{kqw_prawyayaH:kwa;ux_yamaz;BvAxiH;puM}{1;bahu}							
-10	sva-janam	9	svajanamuxyawAH	sva-jana{puM}{2;eka}	sva-jana{puM}{2;eka}	karma,9.1	svajanoM_ko	our_own_kinsmen	<sva-janam>T6			
+1	अहो	1	अहो	अहो{अव्य}	अहो{अव्य}	विस्मय_द्योतकः,5.1	हा	अलस्				
+2	बत	2	बत	बत{अव्य}	बत{अव्य}	विस्मय_द्योतकः,5.1	शोक	त्हट्_अ_पिट्य्				
+3	महत्	5	महत्पापं	महत्{नपुं}{1;एक}/महत्{नपुं}{2;एक}	महत्{नपुं}{2;एक}	विशेषणम्,4	महान्	ग्रेअट्				
+4	पापम्	6	0	पाप{पुं}{2;एक}/पाप{नपुं}{1;एक}/पाप{नपुं}{2;एक}	पाप{नपुं}{2;एक}	कर्म,5	पाप	सिन्				
+5	कर्तुम्	7	कर्तुं_व्यवसिता	कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	सहायकक्रिया,5.1	करने_को_तैयार_हो_गये_हैं	सेट्_ओउर्_मिन्ड्_ओन्_ट्हे_चोम्मिस्सिओन्_ओङ्				
+5.1	व्यवसिताः	7.1		वि_अव_सि1{कृत्_प्रत्ययः:क्त;वि_अव_षिञ्;स्वादिः;पुं}{1;बहु}	वि_अव_सि1{कृत्_प्रत्ययः:क्त;वि_अव_षिञ्;स्वादिः;पुं}{1;बहु}	अभिहितकर्ता,6						
+6	वयम्	4	वयम्	अस्मद्{1;बहु}	अस्मद्{1;बहु}	कर्ता,5.1	हम	ते				
+7	यत्	3	यद्राज्यसुखलोभेन	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	सम्बन्धः,9.1	जो	ट्होउग्ह्				
+8	राज्य-सुख-लोभेन	8	0	राज्य-सुख-लोभ{पुं}{3;एक}/लोभ{नपुं}{3;एक}	राज्य-सुख-लोभ{पुं}{3;एक}	हेतुः,9	राज्य_और_सुख_के_लोभ_से	डुए_टो_लुस्ट्_ङोर्_ट्ह्रोने_अन्ड्_एन्जोय्मेन्ट्	<<राज्य-सुख>ठ्6-लोभेन>ठ्7			
+9	हन्तुम्	10	हन्तुं	हन्1{कृत्_प्रत्ययः:तुमुन्;हनँ;अदादिः}	हन्1{कृत्_प्रत्ययः:तुमुन्;हनँ;अदादिः}	सहायकक्रिया,9.1	मारने_के_लिये_उद्यत_हो_गये_हैं	अरे_इन्टेन्ट्_ओन्_किल्लिन्ग्				
+9.1	उद्यताः	10.1		उद्_यम्2{कृत्_प्रत्ययः:क्त;उद्_यमँ;भ्वादिः;पुं}{1;बहु}	उद्_यम्2{कृत्_प्रत्ययः:क्त;उद्_यमँ;भ्वादिः;पुं}{1;बहु}							
+10	स्व-जनम्	9	स्वजनमुद्यताः	स्व-जन{पुं}{2;एक}	स्व-जन{पुं}{2;एक}	कर्म,9.1	स्वजनों_को	ओउर्_ओत्न्_किन्स्मेन्	<स्व-जनम्>ठ्6			

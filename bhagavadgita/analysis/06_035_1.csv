@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-saMSayam	2	asaMSayaM	a-saMSaya{puM}{2;eka}	asaMSaya{puM}{2;eka}	kriyAviSeRaNam,5.2	niHsanxeha	undoubtedly	<na-saMSayaM>Tn			
-2	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,5.2	he_mahAbAho	O_mighty-armed_one	<mahaw-bAho>Bs6			
-3	manaH	3	mano	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	karwA,5.2	mana	mind				
-4	xur-nigraham	4	xurnigrahaM	xur-nigraha{puM}{2;eka}	xur-nigraha{puM}{1;eka}	sup_samucciwaH,5	caMcala	difficult_to_curb				
-5	calam	5	calam	cala{puM}{2;eka}/cala{napuM}{1;eka}/cala{napuM}{2;eka}	cala{napuM}{1;eka}	viXeya_viSeRaNam,5.2	kaTinawA_se_vaSa_meM_honevAlA	flickering				
-5.1	(ca)		()	ca{avya}	ca{avya}	samuccaya_xyowakaH,5						
-5.2	(Bavawi)		()			aBihiwa_karwA,3						
-6	aByAsena	7	aByAsena	aByAsa{puM}{3;eka}	aByAsa{puM}{3;eka}	sup_samucciwaH,9	aByAsa_se	by_practice				
-7	wu	8	wu	wu{avya}	wu{avya}	sambanXaH,11	paraMwu	but				
-8	kOnweya	6	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,11	he_kunwIpuwra_arjuna	O_son_of_Kunti				
-9	vErAgyeNa	9	vErAgyeNa	vErAgya{napuM}{3;eka}	vErAgya{napuM}{3;eka}	karaNam,11	vErAgya_se	by_detachment				
-10	ca	10	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	Ora	also				
-10.1	(manaH)	11	()	manas{napuM}{1;eka}/{2;eka}	manas{napuM}{2;eka}	karma,11						
-11	gqhyawe	12	gqhyawe	gqhyawA{swrI}{1;xvi}/gqhyawA{swrI}{2;xvi}/gqhyawA{swrI}{8;eka}/gqhyawA{swrI}{8;xvi}/gqh1{karmaNi;lat;pra;eka;AwmanepaxI;gqhUz;BvAxiH}/gqha1{karmaNi;lat;pra;eka;AwmanepaxI;gqha;curAxiH}/grah1{karmaNi;lat;pra;eka;AwmanepaxI;grahaz;kryAxiH}	grah1{karwari;lat;pra;eka;AwmanepaxI;grahaz;kryAxiH}	aBihiwa_karma,10.1	vaSa_meM_howA_hE	can_be_so_controlled				
+1	अ-संशयम्	2	असंशयं	अ-संशय{पुं}{2;एक}	असंशय{पुं}{2;एक}	क्रियाविशेषणम्,5.2	निःसन्देह	उन्डोउब्टेड्ल्य्	<न-संशयं>ठ्न्			
+2	महान्-बाहो	1	महाबाहो	महाबाहु{पुं}{8;एक}/महाबाहु{नपुं}{8;एक}	महाबाहु{पुं}{8;एक}	सम्बोध्यः,5.2	हे_महाबाहो	औ_मिग्ह्ट्य्-अर्मेड्_ओने	<महत्-बाहो>भ्स्6			
+3	मनः	3	मनो	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}/मनस्{नपुं}{8;एक}	मनस्{नपुं}{1;एक}	कर्ता,5.2	मन	मिन्ड्				
+4	दुर्-निग्रहम्	4	दुर्निग्रहं	दुर्-निग्रह{पुं}{2;एक}	दुर्-निग्रह{पुं}{1;एक}	सुप्_समुच्चितः,5	चंचल	डिङ्ङिचुल्ट्_टो_चुर्ब्				
+5	चलम्	5	चलम्	चल{पुं}{2;एक}/चल{नपुं}{1;एक}/चल{नपुं}{2;एक}	चल{नपुं}{1;एक}	विधेय_विशेषणम्,5.2	कठिनता_से_वश_में_होनेवाला	ङ्लिच्केरिन्ग्				
+5.1	(च)		()	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5						
+5.2	(भवति)		()			अभिहित_कर्ता,3						
+6	अभ्यासेन	7	अभ्यासेन	अभ्यास{पुं}{3;एक}	अभ्यास{पुं}{3;एक}	सुप्_समुच्चितः,9	अभ्यास_से	ब्य्_प्रच्टिचे				
+7	तु	8	तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,11	परंतु	बुट्				
+8	कौन्तेय	6	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,11	हे_कुन्तीपुत्र_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+9	वैराग्येण	9	वैराग्येण	वैराग्य{नपुं}{3;एक}	वैराग्य{नपुं}{3;एक}	करणम्,11	वैराग्य_से	ब्य्_डेटच्ह्मेन्ट्				
+10	च	10	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,9	और	अल्सो				
+10.1	(मनः)	11	()	मनस्{नपुं}{1;एक}/{2;एक}	मनस्{नपुं}{2;एक}	कर्म,11						
+11	गृह्यते	12	गृह्यते	गृह्यता{स्त्री}{1;द्वि}/गृह्यता{स्त्री}{2;द्वि}/गृह्यता{स्त्री}{8;एक}/गृह्यता{स्त्री}{8;द्वि}/गृह्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;गृहूँ;भ्वादिः}/गृह1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;गृह;चुरादिः}/ग्रह्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ग्रहँ;क्र्यादिः}	ग्रह्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;ग्रहँ;क्र्यादिः}	अभिहित_कर्म,10.1	वश_में_होता_है	चन्_बे_सो_चोन्ट्रोल्लेड्				

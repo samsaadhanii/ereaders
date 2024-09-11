@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	we	1	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	karwA,9	ve	they				
-2	wam	2	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	viSeRaNam,4	usa	that				
-3	BukwvA	5	BukwvA	BukwvA	Buj2{kqw_prawyayaH:kwvA;Bujaz;ruXAxiH}	pUrvakAlaH,9	Bogakara	enjoying				
-4	svarga-lokam	4	svargalokaM	svargaloka{puM}{2;eka}	svarga-loka{puM}{2;eka}	karma,3	svargaloka_ko	heaven	<svarga-lokam>K1			
-5	viSAlam	3	viSAlaM	viSAla{puM}{2;eka}/viSAla{napuM}{1;eka}/viSAla{napuM}{2;eka}	viSAla{puM}{2;eka}	viSeRaNam,4	viSAla	vast				
-6	kRINe	7	kRINe	kRINa{puM}{7;eka}/kRINa{napuM}{1;xvi}/kRINa{napuM}{2;xvi}/kRINa{napuM}{7;eka}/kRINa{napuM}{8;xvi}/kRINA{swrI}{1;xvi}/kRINA{swrI}{2;xvi}/kRINA{swrI}{8;eka}/kRINA{swrI}{8;xvi}	kRI1{kqw_prawyayaH:kwa;kRIR;kryAxiH;napuM}{7;eka}	BAvalakRaNasapwamI_pUrvakAlaH,9	kRINa_honepara	being_exhausted				
-7	puNye	6	puNye	puNya{napuM}{1;xvi}/puNya{napuM}{2;xvi}/puNya{napuM}{7;eka}/puNya{napuM}{8;xvi}/puNyA{swrI}{1;xvi}/puNyA{swrI}{2;xvi}/puNyA{swrI}{8;eka}/puNyA{swrI}{8;xvi}/puN1{BAve;lat;u;eka;AwmanepaxI;puNaz;wuxAxiH}	puNya{napuM}{7;eka}	karwA,6	puNya	merits				
-8	marwya-lokam	8	marwyalokaM	marwyaloka{puM}{2;eka}	marwya-loka{puM}{2;eka}	karma,9	mqwyuloka_ko	mortal_earth	<marwya-lokam>T6			
-9	viSanwi	9	viSanwi	viSaw{napuM}{1;bahu}/viSaw{napuM}{2;bahu}/viSaw{napuM}{8;bahu}	viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	aBihiwa_karwA,1;sakarmakaH	prApwa_howe_hEM	fall_down				
-10	evam	10	evaM	evam{avya}	evam{avya}	sambanXaH,15	isa_prakAra	thus				
-11	wrayI-Xarmam	11	wrayIXarmamanuprapannA	wrayIXarma{puM}{2;eka}	wrayI-Xarma{puM}{2;eka}	sambanXaH,12	wInoM_vexoM_meM_kahe_hue_sakAma_karma_kA	the_three_doctrines_i.e.,_Vedas	<wrayI-Xarmam>Tds			
-12	anuprapannAH	12	0	anuprapanna{puM}{1;bahu}/anuprapanna{puM}{8;bahu}/anuprapannA{swrI}{1;bahu}/anuprapannA{swrI}{2;bahu}/anuprapannA{swrI}{8;bahu}	anuprapanna{puM}{1;bahu}	viSeRaNam,15.1	ASraya_lenevAle	following				
-13	gawa-Agawam	15	gawAgawaM	gawa-Agawa{puM}{2;eka}/Agawa{napuM}{1;eka}/Agawa{napuM}{2;eka}	gawa-Agawa{puM}{2;eka}	karma,15	bAra-bAra_AvAgamana_ko	death_and_birth	<gawa-AgawaM>Ds			
-14	*kAma-kAmAH	13	kAmakAmA	kAma-kAma{puM}{1;bahu}/kAma{puM}{8;bahu}/kAmA{swrI}{1;bahu}/kAmA{swrI}{2;bahu}/kAmA{swrI}{8;bahu}	kAma-kAma{puM}{1;bahu}	viSeRaNam,15.1	BogoM_kI_kAmanAvAle	desiring_sense_enjoyments	<kAma-kAmAH>T6			
-15	laBanwe	16	laBanwe	laB1{karwari;lat;pra;bahu;AwmanepaxI;dulaBazR;BvAxiH}	laB1{karwari;lat;pra;bahu;AwmanepaxI;dulaBazR;BvAxiH}	aBihiwa_karwA,15.1;sakarmakaH	prApwa_howe_hEM	attain				
-15.1	(janAH)	14	(0)	(jana{puM}{1;bahu}/jana{puM}{8;bahu})	(jana{puM}{1;bahu})	karwA,15	(puruRa)	persons				
+1	ते	1	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	तद्{पुं}{1;बहु}	कर्ता,9	वे	ट्हेय्				
+2	तम्	2	तं	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	विशेषणम्,4	उस	ट्हट्				
+3	भुक्त्वा	5	भुक्त्वा	भुक्त्वा	भुज्2{कृत्_प्रत्ययः:क्त्वा;भुजँ;रुधादिः}	पूर्वकालः,9	भोगकर	एन्जोयिन्ग्				
+4	स्वर्ग-लोकम्	4	स्वर्गलोकं	स्वर्गलोक{पुं}{2;एक}	स्वर्ग-लोक{पुं}{2;एक}	कर्म,3	स्वर्गलोक_को	हेअवेन्	<स्वर्ग-लोकम्>ख्1			
+5	विशालम्	3	विशालं	विशाल{पुं}{2;एक}/विशाल{नपुं}{1;एक}/विशाल{नपुं}{2;एक}	विशाल{पुं}{2;एक}	विशेषणम्,4	विशाल	वस्ट्				
+6	क्षीणे	7	क्षीणे	क्षीण{पुं}{7;एक}/क्षीण{नपुं}{1;द्वि}/क्षीण{नपुं}{2;द्वि}/क्षीण{नपुं}{7;एक}/क्षीण{नपुं}{8;द्वि}/क्षीणा{स्त्री}{1;द्वि}/क्षीणा{स्त्री}{2;द्वि}/क्षीणा{स्त्री}{8;एक}/क्षीणा{स्त्री}{8;द्वि}	क्षी1{कृत्_प्रत्ययः:क्त;क्षीष्;क्र्यादिः;नपुं}{7;एक}	भावलक्षणसप्तमी_पूर्वकालः,9	क्षीण_होनेपर	बेइन्ग्_एद्हउस्टेड्				
+7	पुण्ये	6	पुण्ये	पुण्य{नपुं}{1;द्वि}/पुण्य{नपुं}{2;द्वि}/पुण्य{नपुं}{7;एक}/पुण्य{नपुं}{8;द्वि}/पुण्या{स्त्री}{1;द्वि}/पुण्या{स्त्री}{2;द्वि}/पुण्या{स्त्री}{8;एक}/पुण्या{स्त्री}{8;द्वि}/पुण्1{भावे;लट्;उ;एक;आत्मनेपदी;पुणँ;तुदादिः}	पुण्य{नपुं}{7;एक}	कर्ता,6	पुण्य	मेरिट्स्				
+8	मर्त्य-लोकम्	8	मर्त्यलोकं	मर्त्यलोक{पुं}{2;एक}	मर्त्य-लोक{पुं}{2;एक}	कर्म,9	मृत्युलोक_को	मोर्टल्_एअर्ट्ह्	<मर्त्य-लोकम्>ठ्6			
+9	विशन्ति	9	विशन्ति	विशत्{नपुं}{1;बहु}/विशत्{नपुं}{2;बहु}/विशत्{नपुं}{8;बहु}	विश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विशँ;तुदादिः}	अभिहित_कर्ता,1;सकर्मकः	प्राप्त_होते_हैं	ङल्ल्_डोत्न्				
+10	एवम्	10	एवं	एवम्{अव्य}	एवम्{अव्य}	सम्बन्धः,15	इस_प्रकार	ट्हुस्				
+11	त्रयी-धर्मम्	11	त्रयीधर्ममनुप्रपन्ना	त्रयीधर्म{पुं}{2;एक}	त्रयी-धर्म{पुं}{2;एक}	सम्बन्धः,12	तीनों_वेदों_में_कहे_हुए_सकाम_कर्म_का	ट्हे_ट्ह्रेए_डोच्ट्रिनेस्_इ.ए.,_Vएडस्	<त्रयी-धर्मम्>ठ्ड्स्			
+12	अनुप्रपन्नाः	12	0	अनुप्रपन्न{पुं}{1;बहु}/अनुप्रपन्न{पुं}{8;बहु}/अनुप्रपन्ना{स्त्री}{1;बहु}/अनुप्रपन्ना{स्त्री}{2;बहु}/अनुप्रपन्ना{स्त्री}{8;बहु}	अनुप्रपन्न{पुं}{1;बहु}	विशेषणम्,15.1	आश्रय_लेनेवाले	ङोल्लोतिन्ग्				
+13	गत-आगतम्	15	गतागतं	गत-आगत{पुं}{2;एक}/आगत{नपुं}{1;एक}/आगत{नपुं}{2;एक}	गत-आगत{पुं}{2;एक}	कर्म,15	बार-बार_आवागमन_को	डेअट्ह्_अन्ड्_बिर्ट्ह्	<गत-आगतं>ढ्स्			
+14	*काम-कामाः	13	कामकामा	काम-काम{पुं}{1;बहु}/काम{पुं}{8;बहु}/कामा{स्त्री}{1;बहु}/कामा{स्त्री}{2;बहु}/कामा{स्त्री}{8;बहु}	काम-काम{पुं}{1;बहु}	विशेषणम्,15.1	भोगों_की_कामनावाले	डेसिरिन्ग्_सेन्से_एन्जोय्मेन्ट्स्	<काम-कामाः>ठ्6			
+15	लभन्ते	16	लभन्ते	लभ्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;डुलभँष्;भ्वादिः}	लभ्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;डुलभँष्;भ्वादिः}	अभिहित_कर्ता,15.1;सकर्मकः	प्राप्त_होते_हैं	अट्टइन्				
+15.1	(जनाः)	14	(0)	(जन{पुं}{1;बहु}/जन{पुं}{8;बहु})	(जन{पुं}{1;बहु})	कर्ता,15	(पुरुष)	पेर्सोन्स्				

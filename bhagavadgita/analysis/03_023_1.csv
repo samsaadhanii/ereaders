@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxi	3	yaxi	yaxi{avya}	yaxi{avya}	prawiyogI,5;niwya_sambanXaH,15	yaxi	if				
-2	hi	1	hyahaM	hi{avya}	hi{avya}	saMbanXa,3	kyoMki	certainly				
-3	aham	4	0	asmax{1;eka}	asmax{1;eka}	karwA,5	mEM	I				
-4	na	9	na	na{avya}	na{avya}	prawiReXaH,5	na	do_not				
-5	varweyam	10	varweyaM	varweyam	vqw1{karwari;viXilif;u;eka;AwmanepaxI;vqwuz;BvAxiH}	aBihiwa_karwA,3;akarmakaH	barawUz	thus_engage				
-6	jAwu	5	jAwu	jAwu{avya}	jAwu{avya}	kriyAviSeRaNam,5	kaxAciw	ever				
-7	karmaNi	8	karmaNyawanxriwaH	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,5	karmoM_meM	in_the_performance_of_prescribed_duties				
-8	a-wanxriwaH	6	0	a-wanxriwa{puM}{1;eka}	awanxriwa{puM}{1;eka}	viXeya_viSeRaNam,8.1	sAvaXAna_hokara	with_great_care	<na-wanxriwaH>Tn			
-8.1	(san)	7	()	as1{kqw_prawyayaH:Sawq;as;axAxiH;puM}{1;eka}	as1{kqw_prawyayaH:Sawq;as;axAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,5						
-9	mama	14	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,10	mere	my				
-10	varwma	15	varwmAnuvarwanwe	varwman{napuM}{1;eka}/varwman{napuM}{2;eka}/varwman{napuM}{8;eka}	varwman{napuM}{2;eka}	karma,11	mArga_kA	path				
-11	anuvarwanwe	16	0	anu_vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	anu_vqw1{karwari;lat;pra;bahu;AwmanepaxI;anu_vqwuz;BvAxiH}	aBihiwa_karwA,12;akarmakaH	anusaraNa_karawe_hEM	would_follow				
-12	manuRyAH	12	manuRyAH	manuRya{puM}{1;bahu}/manuRya{puM}{8;bahu}	manuRya{puM}{1;bahu}	karwA,11	manuRya	all_men				
-13	pArWa	2	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,11	he_pArWa	O_son_of_Prtha				
-14	sarvaSaH	13	sarvaSaH	sarvaSaH{avya}	sarvaSaH{avya}	kriyAviSeRaNam,11	saba_prakAra_se	in_all_respects				
-15	(warhi)	11	(0)	(warhi{avya})	(warhi{avya})	anuyogI,11	(wo)	in_one's_prescribed_duty				
+1	यदि	3	यदि	यदि{अव्य}	यदि{अव्य}	प्रतियोगी,5;नित्य_सम्बन्धः,15	यदि	इङ्				
+2	हि	1	ह्यहं	हि{अव्य}	हि{अव्य}	संबन्ध,3	क्योंकि	चेर्टइन्ल्य्				
+3	अहम्	4	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,5	मैं	ई				
+4	न	9	न	न{अव्य}	न{अव्य}	प्रतिषेधः,5	न	डो_नोट्				
+5	वर्तेयम्	10	वर्तेयं	वर्तेयम्	वृत्1{कर्तरि;विधिलिङ्;उ;एक;आत्मनेपदी;वृतुँ;भ्वादिः}	अभिहित_कर्ता,3;अकर्मकः	बरतूँ	ट्हुस्_एन्गगे				
+6	जातु	5	जातु	जातु{अव्य}	जातु{अव्य}	क्रियाविशेषणम्,5	कदाचित्	एवेर्				
+7	कर्मणि	8	कर्मण्यतन्द्रितः	कर्मन्{नपुं}{7;एक}	कर्मन्{नपुं}{7;एक}	अधिकरणम्,5	कर्मों_में	इन्_ट्हे_पेर्ङोर्मन्चे_ओङ्_प्रेस्च्रिबेड्_डुटिएस्				
+8	अ-तन्द्रितः	6	0	अ-तन्द्रित{पुं}{1;एक}	अतन्द्रित{पुं}{1;एक}	विधेय_विशेषणम्,8.1	सावधान_होकर	तिट्ह्_ग्रेअट्_चरे	<न-तन्द्रितः>ठ्न्			
+8.1	(सन्)	7	()	अस्1{कृत्_प्रत्ययः:शतृ;अस्;अदादिः;पुं}{1;एक}	अस्1{कृत्_प्रत्ययः:शतृ;अस्;अदादिः;पुं}{1;एक}	वर्तमानसमानकालः,5						
+9	मम	14	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,10	मेरे	म्य्				
+10	वर्त्म	15	वर्त्मानुवर्तन्ते	वर्त्मन्{नपुं}{1;एक}/वर्त्मन्{नपुं}{2;एक}/वर्त्मन्{नपुं}{8;एक}	वर्त्मन्{नपुं}{2;एक}	कर्म,11	मार्ग_का	पट्ह्				
+11	अनुवर्तन्ते	16	0	अनु_वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;वृतुँ;भ्वादिः}	अनु_वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;अनु_वृतुँ;भ्वादिः}	अभिहित_कर्ता,12;अकर्मकः	अनुसरण_करते_हैं	तोउल्ड्_ङोल्लोत्				
+12	मनुष्याः	12	मनुष्याः	मनुष्य{पुं}{1;बहु}/मनुष्य{पुं}{8;बहु}	मनुष्य{पुं}{1;बहु}	कर्ता,11	मनुष्य	अल्ल्_मेन्				
+13	पार्थ	2	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,11	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह				
+14	सर्वशः	13	सर्वशः	सर्वशः{अव्य}	सर्वशः{अव्य}	क्रियाविशेषणम्,11	सब_प्रकार_से	इन्_अल्ल्_रेस्पेच्ट्स्				
+15	(तर्हि)	11	(0)	(तर्हि{अव्य})	(तर्हि{अव्य})	अनुयोगी,11	(तो)	इन्_ओने'स्_प्रेस्च्रिबेड्_डुट्य्				

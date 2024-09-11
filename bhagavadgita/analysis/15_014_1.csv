@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aham	1	ahaM	asmax{1;eka}	asmax{1;eka}	karwA,8	mEM	I				
-2	vESvAnaraH	6	vESvAnaro	vESvAnara{puM}{1;eka}	vESvAnara{puM}{1;eka}	viXeya_viSeRaNam,3	vESvAnara_agnirUpa	by_My_plenary_portion_as_the_digesting_fire				
-3	BUwvA	7	BUwvA	as2{kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,8	hokara	becoming				
-4	prANinAm	2	prANinAM	prANin{puM}{6;bahu}/prANin{napuM}{6;bahu}	prANin{puM}{6;bahu}	RaRTIsambanXaH,5	saba_prANiyoM_ke	of_all_living_entities				
-5	xeham	3	xehamASriwaH	xeha{puM}{2;eka}/xeha{napuM}{1;eka}/xeha{napuM}{2;eka}	xeha{napuM}{2;eka}	karma,6	SarIra_meM	body				
-6	ASriwaH	4	0	ASriwa{puM}{1;eka}	Af_Sri1{kqw_prawyayaH:kwa;Af_SriF;BvAxiH;puM}{1;eka}	viSeRaNam,1	sWiwa_rahanevAlA	situated				
-7	prANa-apAna-samAyukwaH	5	prANAnApAnasamAyukwaH	prANAnApAnasamAyukwa{puM}{1;eka}	prANa-apAna-sam_Af_yuj2{kqw_prawyayaH:kwa;sam_Af_yujizr;ruXAxiH;puM}{1;eka}	viSeRaNam,1	prANa_Ora_apAna_se_saMyukwa	keeping_balanced_outgoing_air_and_down-going_air	<<prANa-apAna>Di-samAyukwaH>T3			
-8	pacAmi	10	pacAmyannaM	pac1{karwari;lat;u;eka;parasmEpaxI;dupacazR;BvAxiH}	pac1{karwari;lat;u;eka;parasmEpaxI;dupacazR;BvAxiH}	aBihiwakarwA,1;sakarmakaH	pacAwA_hUz	digest				
-9	annam	9	0	anna{napuM}{1;eka}/anna{napuM}{2;eka}	anna{napuM}{2;eka}	karma,8	anna_ko	foodstuff				
-10	cawur-viXam	8	cawurviXam	cawurviXa{puM}{2;eka}/cawurviXa{napuM}{1;eka}/cawurviXa{napuM}{2;eka}	cawur-viXa{napuM}{2;eka}	viSeRaNam,9	cAra_prakAra_ke	four_kinds_of	<cawur-viXam>Bs6			
+1	अहम्	1	अहं	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,8	मैं	ई				
+2	वैश्वानरः	6	वैश्वानरो	वैश्वानर{पुं}{1;एक}	वैश्वानर{पुं}{1;एक}	विधेय_विशेषणम्,3	वैश्वानर_अग्निरूप	ब्य्_ंय्_प्लेनर्य्_पोर्टिओन्_अस्_ट्हे_डिगेस्टिन्ग्_ङिरे				
+3	भूत्वा	7	भूत्वा	अस्2{क्त्वा;असँ;अदादिः}	भू1{कृत्_प्रत्ययः:क्त्वा;भू;भ्वादिः}	पूर्वकालः,8	होकर	बेचोमिन्ग्				
+4	प्राणिनाम्	2	प्राणिनां	प्राणिन्{पुं}{6;बहु}/प्राणिन्{नपुं}{6;बहु}	प्राणिन्{पुं}{6;बहु}	षष्ठीसम्बन्धः,5	सब_प्राणियों_के	ओङ्_अल्ल्_लिविन्ग्_एन्टिटिएस्				
+5	देहम्	3	देहमाश्रितः	देह{पुं}{2;एक}/देह{नपुं}{1;एक}/देह{नपुं}{2;एक}	देह{नपुं}{2;एक}	कर्म,6	शरीर_में	बोड्य्				
+6	आश्रितः	4	0	आश्रित{पुं}{1;एक}	आङ्_श्रि1{कृत्_प्रत्ययः:क्त;आङ्_श्रिञ्;भ्वादिः;पुं}{1;एक}	विशेषणम्,1	स्थित_रहनेवाला	सिटुअटेड्				
+7	प्राण-अपान-समायुक्तः	5	प्राणानापानसमायुक्तः	प्राणानापानसमायुक्त{पुं}{1;एक}	प्राण-अपान-सम्_आङ्_युज्2{कृत्_प्रत्ययः:क्त;सम्_आङ्_युजिँर्;रुधादिः;पुं}{1;एक}	विशेषणम्,1	प्राण_और_अपान_से_संयुक्त	केएपिन्ग्_बलन्चेड्_ओउट्गोइन्ग्_अइर्_अन्ड्_डोत्न्-गोइन्ग्_अइर्	<<प्राण-अपान>ढि-समायुक्तः>ठ्3			
+8	पचामि	10	पचाम्यन्नं	पच्1{कर्तरि;लट्;उ;एक;परस्मैपदी;डुपचँष्;भ्वादिः}	पच्1{कर्तरि;लट्;उ;एक;परस्मैपदी;डुपचँष्;भ्वादिः}	अभिहितकर्ता,1;सकर्मकः	पचाता_हूँ	डिगेस्ट्				
+9	अन्नम्	9	0	अन्न{नपुं}{1;एक}/अन्न{नपुं}{2;एक}	अन्न{नपुं}{2;एक}	कर्म,8	अन्न_को	ङोओड्स्टुङ्ङ्				
+10	चतुर्-विधम्	8	चतुर्विधम्	चतुर्विध{पुं}{2;एक}/चतुर्विध{नपुं}{1;एक}/चतुर्विध{नपुं}{2;एक}	चतुर्-विध{नपुं}{2;एक}	विशेषणम्,9	चार_प्रकार_के	ङोउर्_किन्ड्स्_ओङ्	<चतुर्-विधम्>भ्स्6			

@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	pariwrANAya	10	pariwrANAya	pariwrANa{napuM}{4;eka}	pariwrANa{napuM}{4;eka}	sup_samucciwaH,3	uxXAra_karane_ke_liye	for_the_deliverance				
-2	sAXUnAm	2	sAXUnAM	sAXu{puM}{6;bahu}/sAXu{napuM}{6;bahu}	sAXu{puM}{6;bahu}	karma,1	sAXu_puruRoM_kA	of_the_devotees				
-3	vinASAya	1	vinASAya	vinASa{puM}{4;eka}	vinASa{puM}{4;eka}	prayojanam,7	vinASa_karane_ke_liye	for_the_annihilation				
-4	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	also				
-5	xuR-kqwAm	3	xuRkqwAm	xuRkqw{puM}{6;bahu}	xuRkqw{puM}{6;bahu}	karma,3	pApakarma_karanevAloM_kA	of_the_miscreants	<xuR-kqwAm>U			
-6	Xarma-saMsWApanA-arWAya	4	XarmasaMsWApanArWAya	Xarman-saMsWApanA-arWa{puM}{4;eka}/arWa{napuM}{4;eka}	Xarma-saMsWApanA-arWa{puM}{4;eka}	prayojanam,7	Xarma_kI_sWApanA_karane_ke_liye	to_reestablish_the_principles_of_religion	<<Xarma-saMsWApanA>T6-arWAya>T4			
-7	samBavAmi	6	samBavAmi	sam_BU1{karwari;lat;u;eka;parasmEpaxI;BU;BvAxiH}	sam_BU1{karwari;lat;u;eka;parasmEpaxI;sam_BU;BvAxiH}	aBihiwa_karwA,10	prakata_huA_karawA_hUz	do_appear				
-8	yuge	8	yuge	yuga{napuM}{1;xvi}/yuga{napuM}{2;xvi}/yuga{napuM}{8;xvi}/yuga{napuM}{7;eka}	yuga{napuM}{7;eka}	kAlAXikaraNam,7	yuga_meM	millennium				
-9	yuge	9	yuge	yuga{napuM}{1;xvi}/yuga{napuM}{2;xvi}/yuga{napuM}{8;xvi}/yuga{napuM}{7;eka}	yuga{napuM}{7;eka}	vIpsA,8	yuga_meM	after_millennium				
-10	(aham)	7	()	(asmax{1;eka})	(asmax{1;eka})	karwA,7	(mEM)	I				
+1	परित्राणाय	10	परित्राणाय	परित्राण{नपुं}{4;एक}	परित्राण{नपुं}{4;एक}	सुप्_समुच्चितः,3	उद्धार_करने_के_लिये	ङोर्_ट्हे_डेलिवेरन्चे				
+2	साधूनाम्	2	साधूनां	साधु{पुं}{6;बहु}/साधु{नपुं}{6;बहु}	साधु{पुं}{6;बहु}	कर्म,1	साधु_पुरुषों_का	ओङ्_ट्हे_डेवोटेएस्				
+3	विनाशाय	1	विनाशाय	विनाश{पुं}{4;एक}	विनाश{पुं}{4;एक}	प्रयोजनम्,7	विनाश_करने_के_लिये	ङोर्_ट्हे_अन्निहिलटिओन्				
+4	च	5	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	और	अल्सो				
+5	दुष्-कृताम्	3	दुष्कृताम्	दुष्कृत्{पुं}{6;बहु}	दुष्कृत्{पुं}{6;बहु}	कर्म,3	पापकर्म_करनेवालों_का	ओङ्_ट्हे_मिस्च्रेअन्ट्स्	<दुष्-कृताम्>ऊ			
+6	धर्म-संस्थापना-अर्थाय	4	धर्मसंस्थापनार्थाय	धर्मन्-संस्थापना-अर्थ{पुं}{4;एक}/अर्थ{नपुं}{4;एक}	धर्म-संस्थापना-अर्थ{पुं}{4;एक}	प्रयोजनम्,7	धर्म_की_स्थापना_करने_के_लिये	टो_रेएस्टब्लिस्ह्_ट्हे_प्रिन्चिप्लेस्_ओङ्_रेलिगिओन्	<<धर्म-संस्थापना>ठ्6-अर्थाय>ठ्4			
+7	सम्भवामि	6	सम्भवामि	सम्_भू1{कर्तरि;लट्;उ;एक;परस्मैपदी;भू;भ्वादिः}	सम्_भू1{कर्तरि;लट्;उ;एक;परस्मैपदी;सम्_भू;भ्वादिः}	अभिहित_कर्ता,10	प्रकट_हुआ_करता_हूँ	डो_अप्पेअर्				
+8	युगे	8	युगे	युग{नपुं}{1;द्वि}/युग{नपुं}{2;द्वि}/युग{नपुं}{8;द्वि}/युग{नपुं}{7;एक}	युग{नपुं}{7;एक}	कालाधिकरणम्,7	युग_में	मिल्लेन्निउम्				
+9	युगे	9	युगे	युग{नपुं}{1;द्वि}/युग{नपुं}{2;द्वि}/युग{नपुं}{8;द्वि}/युग{नपुं}{7;एक}	युग{नपुं}{7;एक}	वीप्सा,8	युग_में	अङ्टेर्_मिल्लेन्निउम्				
+10	(अहम्)	7	()	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,7	(मैं)	ई				

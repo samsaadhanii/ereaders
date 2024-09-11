@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-vinASi	8	avinASi	a-vinASin{napuM}{1;eka}/vinASin{napuM}{2;eka}	a-vinASin{puM}{1;eka}	karmasamAnAXikaraNam,4	nASarahiwa	imperishable	<na-vinASi>Tn			
-2	wu	7	wu	wu{avya}	wu{avya}	sambanXaH,3	wo	alone				
-3	waw	6	waxvixXi	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,4;niwya_sambanXaH,5	usako	that				
-4	vixXi	9	0	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,4.1;sakarmakaH	jAno	know				
-4.1	(wvam)	5	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wuma)	you				
-5	yena	1	yena	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	karwA,8	jisase	by_which				
-6	sarvam	3	sarvamixaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{1;eka}	karma,8	sampUrNa_jagaw	universe				
-7	ixam	2	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,6	yaha	this				
-8	wawam	4	wawam	waw{puM}{2;eka}/wawa{puM}{2;eka}/wawa{napuM}{1;eka}/wawa{napuM}{2;eka}	wan1{kqw_prawyayaH:kwa;wanuz;wanAxiH;napuM}{1;eka}	aBihiwakarma,6;sakarmakaH	vyApwa	pervades				
-9	vinASam	12	vinASamavyayasyAsya	vinASa{puM}{2;eka}	vinASa{puM}{2;eka}	karma,14	vinASa	destruction				
-10	a-vyayasya	11	0	a-vyaya{puM}{6;eka}/vyaya{napuM}{6;eka}	a-vyaya{puM}{6;eka}	RaRTIsambanXaH,9	avinASI_kA	of_the_imperishable	<na-vyayasya>Bsmn			
-11	asya	10	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	viSeRaNam,10	isa	of_it				
-12	na	15	na	na{avya}	na{avya}	prawiReXaH,15	nahIM	no				
-13	kaSciw	13	kaSciwkarwumarhawi	kaSciw{avya}/kiFciw{puM}{1;eka}	kiFciw{puM}{1;eka}	karwA,15	koI_BI	no_one				
-14	karwum	14	0	kq1{kqw_prawyayaH:wumun;kqF;BvAxiH}/kq2{kqw_prawyayaH:wumun;kqF;svAxiH}/kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	sahAyakakriyA,15	karane_meM	to_do				
-15	arhawi	16	0	arh2{karwari;lat;pra;eka;parasmEpaxI;arhaz;curAxiH}/arh1{karwari;lat;pra;eka;parasmEpaxI;arhaz;BvAxiH}	arh1{karwari;lat;pra;eka;parasmEpaxI;arhaz;BvAxiH}		samarWa_hE	has_power				
+1	अ-विनाशि	8	अविनाशि	अ-विनाशिन्{नपुं}{1;एक}/विनाशिन्{नपुं}{2;एक}	अ-विनाशिन्{पुं}{1;एक}	कर्मसमानाधिकरणम्,4	नाशरहित	इम्पेरिस्हब्ले	<न-विनाशि>ठ्न्			
+2	तु	7	तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,3	तो	अलोने				
+3	तत्	6	तद्विद्धि	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	कर्म,4;नित्य_सम्बन्धः,5	उसको	ट्हट्				
+4	विद्धि	9	0	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,4.1;सकर्मकः	जानो	क्नोत्				
+4.1	(त्वम्)	5	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,4	(तुम)	योउ				
+5	येन	1	येन	येन{अव्य}/यद्{पुं}{3;एक}/यद्{नपुं}{3;एक}	यद्{पुं}{3;एक}	कर्ता,8	जिससे	ब्य्_त्हिच्ह्				
+6	सर्वम्	3	सर्वमिदं	सर्व{पुं}{2;एक}/सर्व{नपुं}{1;एक}/सर्व{नपुं}{2;एक}	सर्व{नपुं}{1;एक}	कर्म,8	सम्पूर्ण_जगत्	उनिवेर्से				
+7	इदम्	2	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	विशेषणम्,6	यह	ट्हिस्				
+8	ततम्	4	ततम्	तत्{पुं}{2;एक}/तत{पुं}{2;एक}/तत{नपुं}{1;एक}/तत{नपुं}{2;एक}	तन्1{कृत्_प्रत्ययः:क्त;तनुँ;तनादिः;नपुं}{1;एक}	अभिहितकर्म,6;सकर्मकः	व्याप्त	पेर्वडेस्				
+9	विनाशम्	12	विनाशमव्ययस्यास्य	विनाश{पुं}{2;एक}	विनाश{पुं}{2;एक}	कर्म,14	विनाश	डेस्ट्रुच्टिओन्				
+10	अ-व्ययस्य	11	0	अ-व्यय{पुं}{6;एक}/व्यय{नपुं}{6;एक}	अ-व्यय{पुं}{6;एक}	षष्ठीसम्बन्धः,9	अविनाशी_का	ओङ्_ट्हे_इम्पेरिस्हब्ले	<न-व्ययस्य>भ्स्म्न्			
+11	अस्य	10	0	इदम्{पुं}{6;एक}/इदम्{नपुं}{6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	इदम्{पुं}{6;एक}	विशेषणम्,10	इस	ओङ्_इट्				
+12	न	15	न	न{अव्य}	न{अव्य}	प्रतिषेधः,15	नहीं	नो				
+13	कश्चित्	13	कश्चित्कर्तुमर्हति	कश्चित्{अव्य}/किञ्चित्{पुं}{1;एक}	किञ्चित्{पुं}{1;एक}	कर्ता,15	कोई_भी	नो_ओने				
+14	कर्तुम्	14	0	कृ1{कृत्_प्रत्ययः:तुमुन्;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:तुमुन्;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	सहायकक्रिया,15	करने_में	टो_डो				
+15	अर्हति	16	0	अर्ह्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;अर्हँ;चुरादिः}/अर्ह्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;अर्हँ;भ्वादिः}	अर्ह्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;अर्हँ;भ्वादिः}		समर्थ_है	हस्_पोतेर्				

@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-vAcya-vAxAn	7	avAcyavAxAMSca	avAcya-vAxa{puM}{2;bahu}	avAcya-vAxa{puM}{2;bahu}	karma,4	na_kahane_yogya_vacana	unbecoming_words	<<na-vAcya>Tn-vAxAn>K1			
-2	ca	8	0	ca{avya}	ca{avya}	sambanXaH,4	BI	also				
-3	bahUn	6	bahUnvaxiRyanwi	bahu{puM}{2;bahu}	bahu{puM}{2;bahu}	viSeRaNam,1	bahuwa_se	many				
-4	vaxiRyanwi	9	0	vax1{karwari;lqt;pra;bahu;parasmEpaxI;vaxaz;BvAxiH}	vax1{karwari;lqt;pra;bahu;parasmEpaxI;vaxaz;BvAxiH}	aBihiwakarwA,6;sakarmakaH	kaheMge	will_speak				
-5	wava	4	wavAhiwAH	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,6	wumhAre	your				
-6	a-hiwAH	5	0	ahiwa{puM}{1;bahu}/ahiwa{puM}{8;bahu}/ahiwA{swrI}{1;bahu}/ahiwA{swrI}{2;bahu}/ahiwA{swrI}{8;bahu}/ahiwA{swrI}{1;bahu}/ahiwA{swrI}{2;bahu}/ahiwA{swrI}{8;bahu}	a-hiwa{puM}{1;bahu}	karwA,4	vErI_loga	enemies	<na-hiwAH>Tn			
-7	ninxanwaH	3	ninxanwaswava	ninxaw{puM}{1;bahu}/ninxaw{puM}{8;bahu}	ninx1{kqw_prawyayaH:Sawq;Nixiz;BvAxiH;puM}{1;bahu}	viSeRaNam,6	ninxA_karawe_hue	disparaging				
-8	wava	1	0	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,9	wumhAre	your				
-9	sAmarWyam	2	sAmarWyaM	sAmarWya{napuM}{1;eka}/sAmarWya{napuM}{2;eka}	sAmarWya{napuM}{2;eka}	karma,7	sAmarWya_kI	might				
-10	wawaH	10	wawo	wawaH{avya}	wawaH{avya}	hewuH,12.1	usase	than_this				
-11	xuHKawaram	11	xuHKawaraM	xuHKawara{puM}{2;eka}/xuHKawara{napuM}{1;eka}/xuHKawara{napuM}{2;eka}	xuHKawara{napuM}{1;eka}	karwA,12.1	aXika_xuHKa	more_distressing				
-12	kim_nu	12	nu_kim	kim{avya}/kim{napuM}{1;eka}/kim{napuM}{2;eka}_nu/nu{avya}	kim{avya}_nu{avya}	sambanXaH,12.1	Ora_kyA	what_can_there				
-12.1	(BaviRyawi)	13	(0)	(as2{karwari;lqt;pra;eka;parasmEpaxI;asaz;axAxiH}/BU1{karwari;lqt;pra;eka;parasmEpaxI;BU;BvAxiH}/BaviRyaw{puM}{7;eka}/BaviRyaw{napuM}{7;eka})	(BU1{karwari;lqt;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(hogA)	be				
+1	अ-वाच्य-वादान्	7	अवाच्यवादांश्च	अवाच्य-वाद{पुं}{2;बहु}	अवाच्य-वाद{पुं}{2;बहु}	कर्म,4	न_कहने_योग्य_वचन	उन्बेचोमिन्ग्_तोर्ड्स्	<<न-वाच्य>ठ्न्-वादान्>ख्1			
+2	च	8	0	च{अव्य}	च{अव्य}	सम्बन्धः,4	भी	अल्सो				
+3	बहून्	6	बहून्वदिष्यन्ति	बहु{पुं}{2;बहु}	बहु{पुं}{2;बहु}	विशेषणम्,1	बहुत_से	मन्य्				
+4	वदिष्यन्ति	9	0	वद्1{कर्तरि;लृट्;प्र;बहु;परस्मैपदी;वदँ;भ्वादिः}	वद्1{कर्तरि;लृट्;प्र;बहु;परस्मैपदी;वदँ;भ्वादिः}	अभिहितकर्ता,6;सकर्मकः	कहेंगे	तिल्ल्_स्पेअक्				
+5	तव	4	तवाहिताः	युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,6	तुम्हारे	योउर्				
+6	अ-हिताः	5	0	अहित{पुं}{1;बहु}/अहित{पुं}{8;बहु}/अहिता{स्त्री}{1;बहु}/अहिता{स्त्री}{2;बहु}/अहिता{स्त्री}{8;बहु}/अहिता{स्त्री}{1;बहु}/अहिता{स्त्री}{2;बहु}/अहिता{स्त्री}{8;बहु}	अ-हित{पुं}{1;बहु}	कर्ता,4	वैरी_लोग	एनेमिएस्	<न-हिताः>ठ्न्			
+7	निन्दन्तः	3	निन्दन्तस्तव	निन्दत्{पुं}{1;बहु}/निन्दत्{पुं}{8;बहु}	निन्द्1{कृत्_प्रत्ययः:शतृ;णिदिँ;भ्वादिः;पुं}{1;बहु}	विशेषणम्,6	निन्दा_करते_हुए	डिस्परगिन्ग्				
+8	तव	1	0	युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,9	तुम्हारे	योउर्				
+9	सामर्थ्यम्	2	सामर्थ्यं	सामर्थ्य{नपुं}{1;एक}/सामर्थ्य{नपुं}{2;एक}	सामर्थ्य{नपुं}{2;एक}	कर्म,7	सामर्थ्य_की	मिग्ह्ट्				
+10	ततः	10	ततो	ततः{अव्य}	ततः{अव्य}	हेतुः,12.1	उससे	ट्हन्_ट्हिस्				
+11	दुःखतरम्	11	दुःखतरं	दुःखतर{पुं}{2;एक}/दुःखतर{नपुं}{1;एक}/दुःखतर{नपुं}{2;एक}	दुःखतर{नपुं}{1;एक}	कर्ता,12.1	अधिक_दुःख	मोरे_डिस्ट्रेस्सिन्ग्				
+12	किम्_नु	12	नु_किम्	किम्{अव्य}/किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}_नु/नु{अव्य}	किम्{अव्य}_नु{अव्य}	सम्बन्धः,12.1	और_क्या	त्हट्_चन्_ट्हेरे				
+12.1	(भविष्यति)	13	(0)	(अस्2{कर्तरि;लृट्;प्र;एक;परस्मैपदी;असँ;अदादिः}/भू1{कर्तरि;लृट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}/भविष्यत्{पुं}{7;एक}/भविष्यत्{नपुं}{7;एक})	(भू1{कर्तरि;लृट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,11;अकर्मकः	(होगा)	बे				

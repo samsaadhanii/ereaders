@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aWa	1	aWa	aWa{avya}	aWa{avya}	sambanXaH,5	yaxi	if_therefore				
-2	ciwwam	2	ciwwaM	ciwwa{puM}{2;eka}/ciwwa{napuM}{1;eka}/ciwwa{napuM}{2;eka}	ciwwa{napuM}{2;eka}	karma,3	mana_ko	mind				
-3	samAXAwum	5	samAXAwuM	sam_Af_XA1{kqw_prawyayaH:wumun;duXAF;juhowyAxiH}	sam_Af_XA1{kqw_prawyayaH:wumun;sam_Af_duXAF;juhowyAxiH}	sahAyakakriyA,5	sWApana_karane_ke_liye	fixing				
-4	na	7	na	na{avya}	na{avya}	prawiReXaH,5	nahIM	not				
-5	SaknoRi	8	SaknoRi	Sak1{karwari;lat;ma;eka;parasmEpaxI;SakLz;svAxiH}	Sak1{karwari;lat;ma;eka;parasmEpaxI;SakLz;svAxiH}	aBihiwakarwA,7.1;sakarmakaH	samarWa_ho	able				
-6	mayi	3	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,3	muJameM	upon_Me				
-7	sWiram	4	sWiram	sWira{puM}{2;eka}	sWira{napuM}{2;eka}	karmasamAnAXikaraNam,3	acala	fixed				
-7.1	(wvam)	6	(wvam)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,5	(wuma)	you				
-8	aByAsa-yogena	11	aByAsayogena	aByAsayoga{puM}{3;eka}	aByAsa-yoga{puM}{3;eka}	karaNam,12	aByAsarUpa_yoga_ke_xvArA	by_practice_of_devotional_service	<aByAsa-yogena>K6			
-9	wawaH	9	wawo	wawaH{avya}	wawaH{avya}	hewuH,11	wo	therefore				
-10	mAm	13	mAmicCApwuM	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	me				
-11	icCa	15	0	iR2{karwari;lot;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lot;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	aBihiwakarwA,13.1;sakarmakaH	icCA_kara	desire				
-12	Apwum	14	0	Ap1{kqw_prawyayaH:wumun;ApLz;svAxiH}	Ap1{kqw_prawyayaH:wumun;ApLz;svAxiH}	karma,11	prApwa_hone_ke_liye	to_get				
-13	XanaFjaya	10	XanaFjaya	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,11	he_arjuna	O_Arjuna				
-14	(wvam)	12	(wvam)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wU)	you				
+1	अथ	1	अथ	अथ{अव्य}	अथ{अव्य}	सम्बन्धः,5	यदि	इङ्_ट्हेरेङोरे				
+2	चित्तम्	2	चित्तं	चित्त{पुं}{2;एक}/चित्त{नपुं}{1;एक}/चित्त{नपुं}{2;एक}	चित्त{नपुं}{2;एक}	कर्म,3	मन_को	मिन्ड्				
+3	समाधातुम्	5	समाधातुं	सम्_आङ्_धा1{कृत्_प्रत्ययः:तुमुन्;डुधाञ्;जुहोत्यादिः}	सम्_आङ्_धा1{कृत्_प्रत्ययः:तुमुन्;सम्_आङ्_डुधाञ्;जुहोत्यादिः}	सहायकक्रिया,5	स्थापन_करने_के_लिये	ङिदिन्ग्				
+4	न	7	न	न{अव्य}	न{अव्य}	प्रतिषेधः,5	नहीं	नोट्				
+5	शक्नोषि	8	शक्नोषि	शक्1{कर्तरि;लट्;म;एक;परस्मैपदी;शकॢँ;स्वादिः}	शक्1{कर्तरि;लट्;म;एक;परस्मैपदी;शकॢँ;स्वादिः}	अभिहितकर्ता,7.1;सकर्मकः	समर्थ_हो	अब्ले				
+6	मयि	3	मयि	अस्मद्{7;एक}	अस्मद्{7;एक}	अधिकरणम्,3	मुझमें	उपोन्_ंए				
+7	स्थिरम्	4	स्थिरम्	स्थिर{पुं}{2;एक}	स्थिर{नपुं}{2;एक}	कर्मसमानाधिकरणम्,3	अचल	ङिदेड्				
+7.1	(त्वम्)	6	(त्वम्)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,5	(तुम)	योउ				
+8	अभ्यास-योगेन	11	अभ्यासयोगेन	अभ्यासयोग{पुं}{3;एक}	अभ्यास-योग{पुं}{3;एक}	करणम्,12	अभ्यासरूप_योग_के_द्वारा	ब्य्_प्रच्टिचे_ओङ्_डेवोटिओनल्_सेर्विचे	<अभ्यास-योगेन>ख्6			
+9	ततः	9	ततो	ततः{अव्य}	ततः{अव्य}	हेतुः,11	तो	ट्हेरेङोरे				
+10	माम्	13	मामिच्छाप्तुं	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,12	मुझको	मे				
+11	इच्छ	15	0	इष्2{कर्तरि;लोट्;म;एक;परस्मैपदी;इषुँ;तुदादिः}	इष्2{कर्तरि;लोट्;म;एक;परस्मैपदी;इषुँ;तुदादिः}	अभिहितकर्ता,13.1;सकर्मकः	इच्छा_कर	डेसिरे				
+12	आप्तुम्	14	0	आप्1{कृत्_प्रत्ययः:तुमुन्;आपॢँ;स्वादिः}	आप्1{कृत्_प्रत्ययः:तुमुन्;आपॢँ;स्वादिः}	कर्म,11	प्राप्त_होने_के_लिये	टो_गेट्				
+13	धनञ्जय	10	धनञ्जय	धनञ्जय{पुं}{8;एक}	धनञ्जय{पुं}{8;एक}	सम्बोध्यः,11	हे_अर्जुन	औ_आर्जुन				
+14	(त्वम्)	12	(त्वम्)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,11	(तू)	योउ				

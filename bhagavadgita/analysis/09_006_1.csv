@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaWA	1	yaWAkASasWiwo	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,6.1;niwya_sambanXaH,7	jEse	as_much_as				
-2	AkASa-sWiwaH	6	0	AkASa-sWiwa{puM}{1;eka}	AkASa-sWiwa{puM}{1;eka}	viXeya_viSeRaNam,6.1	AkASa_meM_hI_sWiwa	situated_in_space	<AkASa-sWiwaH>T7			
-3	niwyam	5	niwyaM	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{2;eka}	kriyAviSeRaNam,6.1	saxA	always				
-4	vAyuH	4	vAyuH	vAyu{puM}{1;eka}/vA1{karwari;viXilif;pra;bahu;parasmEpaxI;vA;axAxiH}	vAyu{puM}{1;eka}	karwA,6.1	vAyu	wind				
-5	sarvawra-gaH	2	sarvawrago	sarvawraga{puM}{1;eka}	sarvawra-ga{puM}{1;eka}	viSeRaNam,4	sarvawra_vicaranevAlA	blowing_everywhere	<sarvawra-gaH>U			
-6	mahAn	3	mahAn	maha{puM}{2;bahu}/mahaw{puM}{1;eka}	mahaw{puM}{1;eka}	viSeRaNam,4	mahAn	great				
-6.1	(aswi)	7	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hE)	is				
-7	waWA	8	waWA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,10.1	vEse	similarly				
-8	sarvANi	9	sarvANi	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarvANI{swrI}{8;eka}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{1;bahu}	viSeRaNam,9	sampUrNa	all				
-9	BUwAni	10	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{1;bahu}	karwA,10.1	BUwa	created_beings				
-10	maw-sWAni	11	mawsWAnIwyupaXAraya	asmax-sWa{napuM}{1;bahu}/sWa{napuM}{2;bahu}/sWa{napuM}{8;bahu}/sWAnin{napuM}{1;eka}/sWAnin{napuM}{2;eka}	asmax-sWa{napuM}{1;bahu}	viXeya_viSeRaNam,10.1	muJameM_sWiwa	situated_in_Me	<asmaw-sWAni>U			
-10.1	(sanwi)	12	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	karma,12	(hEM)	are				
-11	iwi	13	0	iwi{avya}	iwi{avya}	karma_xyowakaH,13	EsA	thus				
-12	upaXAraya	14	0	upaXAraya	upa_Xq1_Nic{karwari;lot;ma;eka;parasmEpaxI;upa_XqF_Nic;BvAxiH}		jAna	try_to_understand				
+1	यथा	1	यथाकाशस्थितो	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,6.1;नित्य_सम्बन्धः,7	जैसे	अस्_मुच्ह्_अस्				
+2	आकाश-स्थितः	6	0	आकाश-स्थित{पुं}{1;एक}	आकाश-स्थित{पुं}{1;एक}	विधेय_विशेषणम्,6.1	आकाश_में_ही_स्थित	सिटुअटेड्_इन्_स्पचे	<आकाश-स्थितः>ठ्7			
+3	नित्यम्	5	नित्यं	नित्य{पुं}{2;एक}/नित्य{नपुं}{1;एक}/नित्य{नपुं}{2;एक}	नित्य{नपुं}{2;एक}	क्रियाविशेषणम्,6.1	सदा	अल्तय्स्				
+4	वायुः	4	वायुः	वायु{पुं}{1;एक}/वा1{कर्तरि;विधिलिङ्;प्र;बहु;परस्मैपदी;वा;अदादिः}	वायु{पुं}{1;एक}	कर्ता,6.1	वायु	तिन्ड्				
+5	सर्वत्र-गः	2	सर्वत्रगो	सर्वत्रग{पुं}{1;एक}	सर्वत्र-ग{पुं}{1;एक}	विशेषणम्,4	सर्वत्र_विचरनेवाला	ब्लोतिन्ग्_एवेर्य्त्हेरे	<सर्वत्र-गः>ऊ			
+6	महान्	3	महान्	मह{पुं}{2;बहु}/महत्{पुं}{1;एक}	महत्{पुं}{1;एक}	विशेषणम्,4	महान्	ग्रेअट्				
+6.1	(अस्ति)	7	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,4;अकर्मकः	(है)	इस्				
+7	तथा	8	तथा	तथा{अव्य}	तथा{अव्य}	क्रियाविशेषणम्,10.1	वैसे	सिमिलर्ल्य्				
+8	सर्वाणि	9	सर्वाणि	सर्व{नपुं}{1;बहु}/सर्व{नपुं}{2;बहु}/सर्वाणी{स्त्री}{8;एक}/सर्व्1{कर्तरि;लोट्;उ;एक;परस्मैपदी;षर्वँ;भ्वादिः}	सर्व{नपुं}{1;बहु}	विशेषणम्,9	सम्पूर्ण	अल्ल्				
+9	भूतानि	10	भूतानि	भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}/भूत{नपुं}{8;बहु}	भूत{नपुं}{1;बहु}	कर्ता,10.1	भूत	च्रेअटेड्_बेइन्ग्स्				
+10	मत्-स्थानि	11	मत्स्थानीत्युपधारय	अस्मद्-स्थ{नपुं}{1;बहु}/स्थ{नपुं}{2;बहु}/स्थ{नपुं}{8;बहु}/स्थानिन्{नपुं}{1;एक}/स्थानिन्{नपुं}{2;एक}	अस्मद्-स्थ{नपुं}{1;बहु}	विधेय_विशेषणम्,10.1	मुझमें_स्थित	सिटुअटेड्_इन्_ंए	<अस्मत्-स्थानि>ऊ			
+10.1	(सन्ति)	12	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/सत्{नपुं}{8;बहु}/सन्ती{स्त्री}{8;एक}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	कर्म,12	(हैं)	अरे				
+11	इति	13	0	इति{अव्य}	इति{अव्य}	कर्म_द्योतकः,13	ऐसा	ट्हुस्				
+12	उपधारय	14	0	उपधारय	उप_धृ1_णिच्{कर्तरि;लोट्;म;एक;परस्मैपदी;उप_धृञ्_णिच्;भ्वादिः}		जान	ट्र्य्_टो_उन्डेर्स्टन्ड्				

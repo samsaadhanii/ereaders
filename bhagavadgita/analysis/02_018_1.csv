@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	anwavanwaH	7	anwavanwa	anwavaw{puM}{1;bahu}/anwavaw{puM}{8;bahu}	anwavaw{puM}{1;bahu}	karmasamAnAXikaraNam,5	nASavAn	perishable				
-2	ime	5	ime	ixam{puM}{1;bahu}/ixam{swrI}{1;xvi}/ixam{swrI}{2;xvi}/ixam{napuM}{1;xvi}/ixam{napuM}{2;xvi}	ixam{puM}{1;bahu}	viSeRaNam,3	ye	all_these				
-3	xehAH	6	xehA	xeha{puM}{1;bahu}/xeha{puM}{8;bahu}	xeha{puM}{1;bahu}	karma,5	SarIra	bodies				
-4	niwyasya	3	niwyasyokwAH	niwya{puM}{6;eka}/niwya{napuM}{6;eka}	niwya{puM}{6;eka}	viSeRaNam,6	niwyasvarUpa	eternal				
-5	ukwAH	8	0	ukwa{puM}{1;bahu}/ukwa{puM}{8;bahu}/ukwA{swrI}{1;bahu}/ukwA{swrI}{2;bahu}/ukwA{swrI}{8;bahu}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;puM}{1;bahu}	aBihiwakarma,3;sakarmakaH	kahe_gaye_hEM	spoken_of_as				
-6	SarIriNaH	4	SarIriNaH	SarIrin{puM}{1;bahu}/SarIrin{puM}{2;bahu}/SarIrin{puM}{5;eka}/SarIrin{puM}{6;eka}/SarIrin{puM}{8;bahu}	SarIrin{puM}{6;eka}	RaRTIsambanXaH,3	jIvAwmA_ke	of_the_embodied_soul				
-7	a-nASinaH	1	anASinoZprameyasya	a-nASin{puM}{1;bahu}/nASin{puM}{2;bahu}/nASin{puM}{5;eka}/nASin{puM}{6;eka}	a-nASin{puM}{6;eka}	viSeRaNam,6	nASarahiwa	imperishable	<na-nASinaH>Tn			
-8	a-prameyasya	2	0	a-prameya{puM}{6;eka}/prameya{napuM}{6;eka}	a-prameya{puM}{6;eka}	viSeRaNam,6	aprameya	indefinable	<na-prameyasya>Tn			
-9	wasmAw	10	wasmAxyuXyasva	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,10	isaliye	therefore				
-10	yuXyasva	12	0	yuX1{karwari;lot;ma;eka;AwmanepaxI;yuXaz;xivAxiH}/yuX1{BAve;lot;ma;eka;AwmanepaxI;yuXaz;xivAxiH}	yuX1{karwari;lot;ma;eka;AwmanepaxI;yuXaz;xivAxiH}	aBihiwakarwA,11.1;akarmakaH	yuxXa_karo	fight				
-11	BArawa	9	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,10	he_BarawavaMSI_arjuna	O_descendant_of_Bharata				
-11.1	(wvam)	11	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,10	(wuma)	you				
+1	अन्तवन्तः	7	अन्तवन्त	अन्तवत्{पुं}{1;बहु}/अन्तवत्{पुं}{8;बहु}	अन्तवत्{पुं}{1;बहु}	कर्मसमानाधिकरणम्,5	नाशवान्	पेरिस्हब्ले				
+2	इमे	5	इमे	इदम्{पुं}{1;बहु}/इदम्{स्त्री}{1;द्वि}/इदम्{स्त्री}{2;द्वि}/इदम्{नपुं}{1;द्वि}/इदम्{नपुं}{2;द्वि}	इदम्{पुं}{1;बहु}	विशेषणम्,3	ये	अल्ल्_ट्हेसे				
+3	देहाः	6	देहा	देह{पुं}{1;बहु}/देह{पुं}{8;बहु}	देह{पुं}{1;बहु}	कर्म,5	शरीर	बोडिएस्				
+4	नित्यस्य	3	नित्यस्योक्ताः	नित्य{पुं}{6;एक}/नित्य{नपुं}{6;एक}	नित्य{पुं}{6;एक}	विशेषणम्,6	नित्यस्वरूप	एटेर्नल्				
+5	उक्ताः	8	0	उक्त{पुं}{1;बहु}/उक्त{पुं}{8;बहु}/उक्ता{स्त्री}{1;बहु}/उक्ता{स्त्री}{2;बहु}/उक्ता{स्त्री}{8;बहु}	वच्1{कृत्_प्रत्ययः:क्त;वचँ;अदादिः;पुं}{1;बहु}	अभिहितकर्म,3;सकर्मकः	कहे_गये_हैं	स्पोकेन्_ओङ्_अस्				
+6	शरीरिणः	4	शरीरिणः	शरीरिन्{पुं}{1;बहु}/शरीरिन्{पुं}{2;बहु}/शरीरिन्{पुं}{5;एक}/शरीरिन्{पुं}{6;एक}/शरीरिन्{पुं}{8;बहु}	शरीरिन्{पुं}{6;एक}	षष्ठीसम्बन्धः,3	जीवात्मा_के	ओङ्_ट्हे_एम्बोडिएड्_सोउल्				
+7	अ-नाशिनः	1	अनाशिनोऽप्रमेयस्य	अ-नाशिन्{पुं}{1;बहु}/नाशिन्{पुं}{2;बहु}/नाशिन्{पुं}{5;एक}/नाशिन्{पुं}{6;एक}	अ-नाशिन्{पुं}{6;एक}	विशेषणम्,6	नाशरहित	इम्पेरिस्हब्ले	<न-नाशिनः>ठ्न्			
+8	अ-प्रमेयस्य	2	0	अ-प्रमेय{पुं}{6;एक}/प्रमेय{नपुं}{6;एक}	अ-प्रमेय{पुं}{6;एक}	विशेषणम्,6	अप्रमेय	इन्डेङिनब्ले	<न-प्रमेयस्य>ठ्न्			
+9	तस्मात्	10	तस्माद्युध्यस्व	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तद्{पुं}{5;एक}	हेतुः,10	इसलिये	ट्हेरेङोरे				
+10	युध्यस्व	12	0	युध्1{कर्तरि;लोट्;म;एक;आत्मनेपदी;युधँ;दिवादिः}/युध्1{भावे;लोट्;म;एक;आत्मनेपदी;युधँ;दिवादिः}	युध्1{कर्तरि;लोट्;म;एक;आत्मनेपदी;युधँ;दिवादिः}	अभिहितकर्ता,11.1;अकर्मकः	युद्ध_करो	ङिग्ह्ट्				
+11	भारत	9	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,10	हे_भरतवंशी_अर्जुन	औ_डेस्चेन्डन्ट्_ओङ्_भ्हरट				
+11.1	(त्वम्)	11	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,10	(तुम)	योउ				

@@ -1,26 +1,26 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aham	1	ahaM	asmax{1;eka}	asmax{1;eka}	karwA,2.1	mEM	I				
-2	krawuH	2	krawurahaM	krawu{puM}{1;eka}	krawu{puM}{1;eka}	viXeya_viSeRaNam,2.1	krawu	ritual				
-2.1	(asmi)	3	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
-3	aham	4	0	asmax{1;eka}	asmax{1;eka}	karwA,4.1	mEM	I				
-4	yajFaH	5	yajFaH	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	viXeya_viSeRaNam,4.1	yajFa	sacrifice				
-4.1	(asmi)	6	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
-5	svaXA	8	svaXAhamahamORaXam	svaXA{avya}/svaXA{swrI}{1;eka}	svaXA{swrI}{1;eka}	viXeya_viSeRaNam,6.1	svaXA	oblation				
-6	aham	10	0	asmax{1;eka}	asmax{1;eka}	karwA,6.1	mEM	I				
-6.1	(asmi)	9	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
-7	aham	7	0	asmax{1;eka}	asmax{1;eka}	karwA,8.1	mEM	I				
-8	ORaXam	11	0	ORaXa{puM}{2;eka}/ORaXa{napuM}{1;eka}/ORaXa{napuM}{2;eka}	ORaXa{napuM}{1;eka}	viXeya_viSeRaNam,8.1	oRaXi	healing_herb				
-8.1	(asmi)	12	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
-9	manwraH	14	manwroZhamahamevAjyamahamagnirahaM	manwra{puM}{1;eka}	manwra{puM}{1;eka}	viXeya_viSeRaNam,10.1	manwra	transcendental_chant				
-10	aham	13	0	asmax{1;eka}	asmax{1;eka}	karwA,10.1	mEM	I				
-10.1	(asmi)	15	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
-11	aham	16	0	asmax{1;eka}	asmax{1;eka}	karwA,13.1	mEM	I				
-12	eva	24	0	eva{avya}	eva{avya}	sambanXaH,11	hI	certainly				
-13	Ajyam	17	0	Ajya{napuM}{1;eka}/Ajya{napuM}{2;eka}	Ajya{napuM}{1;eka}	viXeya_viSeRaNam,13.1	Gqwa	melted_butter				
-13.1	(asmi)	18	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
-14	aham	22	0	asmax{1;eka}	asmax{1;eka}	karwA,15.1	mEM	I				
-15	agniH	20	0	agni{puM}{1;eka}	agni{puM}{1;eka}	viXeya_viSeRaNam,15.1	agni	fire				
-15.1	(asmi)	21	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
-16	aham	19	0	asmax{1;eka}	asmax{1;eka}	karwA,17.1	mEM	I				
-17	huwam	23	huwam	huwa{puM}{2;eka}/huwa{napuM}{1;eka}/huwa{napuM}{2;eka}	hu1{kqw_prawyayaH:kwa;hu;juhowyAxiH;napuM}{1;eka}	viXeya_viSeRaNam,17.1	havanarUpa_kriyA	offering				
-17.1	(asmi)	25	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})		(hUz)	am				
+1	अहम्	1	अहं	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,2.1	मैं	ई				
+2	क्रतुः	2	क्रतुरहं	क्रतु{पुं}{1;एक}	क्रतु{पुं}{1;एक}	विधेय_विशेषणम्,2.1	क्रतु	रिटुअल्				
+2.1	(अस्मि)	3	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})		(हूँ)	अम्				
+3	अहम्	4	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,4.1	मैं	ई				
+4	यज्ञः	5	यज्ञः	यज्ञ{पुं}{1;एक}	यज्ञ{पुं}{1;एक}	विधेय_विशेषणम्,4.1	यज्ञ	सच्रिङिचे				
+4.1	(अस्मि)	6	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})		(हूँ)	अम्				
+5	स्वधा	8	स्वधाहमहमौषधम्	स्वधा{अव्य}/स्वधा{स्त्री}{1;एक}	स्वधा{स्त्री}{1;एक}	विधेय_विशेषणम्,6.1	स्वधा	ओब्लटिओन्				
+6	अहम्	10	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,6.1	मैं	ई				
+6.1	(अस्मि)	9	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})		(हूँ)	अम्				
+7	अहम्	7	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,8.1	मैं	ई				
+8	औषधम्	11	0	औषध{पुं}{2;एक}/औषध{नपुं}{1;एक}/औषध{नपुं}{2;एक}	औषध{नपुं}{1;एक}	विधेय_विशेषणम्,8.1	ओषधि	हेअलिन्ग्_हेर्ब्				
+8.1	(अस्मि)	12	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})		(हूँ)	अम्				
+9	मन्त्रः	14	मन्त्रोऽहमहमेवाज्यमहमग्निरहं	मन्त्र{पुं}{1;एक}	मन्त्र{पुं}{1;एक}	विधेय_विशेषणम्,10.1	मन्त्र	ट्रन्स्चेन्डेन्टल्_च्हन्ट्				
+10	अहम्	13	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,10.1	मैं	ई				
+10.1	(अस्मि)	15	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})		(हूँ)	अम्				
+11	अहम्	16	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,13.1	मैं	ई				
+12	एव	24	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,11	ही	चेर्टइन्ल्य्				
+13	आज्यम्	17	0	आज्य{नपुं}{1;एक}/आज्य{नपुं}{2;एक}	आज्य{नपुं}{1;एक}	विधेय_विशेषणम्,13.1	घृत	मेल्टेड्_बुट्टेर्				
+13.1	(अस्मि)	18	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})		(हूँ)	अम्				
+14	अहम्	22	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,15.1	मैं	ई				
+15	अग्निः	20	0	अग्नि{पुं}{1;एक}	अग्नि{पुं}{1;एक}	विधेय_विशेषणम्,15.1	अग्नि	ङिरे				
+15.1	(अस्मि)	21	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})		(हूँ)	अम्				
+16	अहम्	19	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,17.1	मैं	ई				
+17	हुतम्	23	हुतम्	हुत{पुं}{2;एक}/हुत{नपुं}{1;एक}/हुत{नपुं}{2;एक}	हु1{कृत्_प्रत्ययः:क्त;हु;जुहोत्यादिः;नपुं}{1;एक}	विधेय_विशेषणम्,17.1	हवनरूप_क्रिया	ओङ्ङेरिन्ग्				
+17.1	(अस्मि)	25	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})		(हूँ)	अम्				

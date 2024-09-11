@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ixam	2	ixaM	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,2	yaha	this				
-2	SarIram	3	SarIraM	SarIra{napuM}{1;eka}/SarIra{napuM}{2;eka}	SarIra{napuM}{1;eka}	karma,6	SarIra	body				
-3	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,6	he_arjuna	O_son_of_Kunti				
-4	kRewram	4	kRewramiwyaBiXIyawe	kRewra{napuM}{1;eka}/kRewra{napuM}{2;eka}	kRewra{napuM}{1;eka}	karmasamAnAXikaraNam,6	kRewra	the_field				
-5	iwi	5	0	iwi{avya}	iwi{avya}	karmasamAnAXikaraNa_xyowakaH,4	isa_(nAma_se)	thus				
-6	aBiXIyawe	6	0	aBiXIyawe	aBi_XA1{karmaNi;lat;pra;eka;AwmanepaxI;aBi_duXAF;juhowyAxiH}	aBihiwakarma,2;sakarmakaH	kahA_jAwA_hE	is_called				
-7	ewaw	7	ewaxyo	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	karma,9	yaha	all_this				
-8	yaH	8	0	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,9;niwya_sambanXaH,10	jo	anyone				
-9	vewwi	9	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,8;sakarmakaH	jAnawA_hE	knows				
-10	wam	10	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	karma,11	usako	he				
-11	prAhuH	14	0	prAhuH	(pra_brU1{karwari;lat;pra;bahu;parasmEpaxI;pra_brUF;axAxiH})	aBihiwakarwA,14;sakarmakaH	(kahawe_hEM)	is_called				
-12	kRewra-jFaH	11	kRewrajFa	kRewra-jFa{puM}{1;eka}	kRewra-jFa{puM}{1;eka}	karmasamAnAXikaraNam,11	kRewrajFa	knower_of_the_body	<kRewra-jFaH>U			
-13	iwi	12	iwi	iwi{avya}	iwi{avya}	karmasamAnAXikaraNa_xyowakaH,11	isa_(nAma_se)	thus				
-14	waw-vixaH	13	waxvixaH	wax-vix{puM}{1;bahu}/vix{puM}{2;bahu}/vix{puM}{5;eka}/vix{puM}{6;eka}/vix{swrI}{1;bahu}/vix{swrI}{2;bahu}/vix{swrI}{5;eka}/vix{swrI}{6;eka}/vixa{puM}{1;eka}	wax-vix{puM}{1;eka}	karwA,11	jFAnIjana	one_who_knows	<waw-vixaH>U			
+1	इदम्	2	इदं	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	विशेषणम्,2	यह	ट्हिस्				
+2	शरीरम्	3	शरीरं	शरीर{नपुं}{1;एक}/शरीर{नपुं}{2;एक}	शरीर{नपुं}{1;एक}	कर्म,6	शरीर	बोड्य्				
+3	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,6	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+4	क्षेत्रम्	4	क्षेत्रमित्यभिधीयते	क्षेत्र{नपुं}{1;एक}/क्षेत्र{नपुं}{2;एक}	क्षेत्र{नपुं}{1;एक}	कर्मसमानाधिकरणम्,6	क्षेत्र	ट्हे_ङिएल्ड्				
+5	इति	5	0	इति{अव्य}	इति{अव्य}	कर्मसमानाधिकरण_द्योतकः,4	इस_(नाम_से)	ट्हुस्				
+6	अभिधीयते	6	0	अभिधीयते	अभि_धा1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;अभि_डुधाञ्;जुहोत्यादिः}	अभिहितकर्म,2;सकर्मकः	कहा_जाता_है	इस्_चल्लेड्				
+7	एतत्	7	एतद्यो	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{2;एक}	कर्म,9	यह	अल्ल्_ट्हिस्				
+8	यः	8	0	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,9;नित्य_सम्बन्धः,10	जो	अन्योने				
+9	वेत्ति	9	वेत्ति	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,8;सकर्मकः	जानता_है	क्नोत्स्				
+10	तम्	10	तं	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	कर्म,11	उसको	हे				
+11	प्राहुः	14	0	प्राहुः	(प्र_ब्रू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;प्र_ब्रूञ्;अदादिः})	अभिहितकर्ता,14;सकर्मकः	(कहते_हैं)	इस्_चल्लेड्				
+12	क्षेत्र-ज्ञः	11	क्षेत्रज्ञ	क्षेत्र-ज्ञ{पुं}{1;एक}	क्षेत्र-ज्ञ{पुं}{1;एक}	कर्मसमानाधिकरणम्,11	क्षेत्रज्ञ	क्नोतेर्_ओङ्_ट्हे_बोड्य्	<क्षेत्र-ज्ञः>ऊ			
+13	इति	12	इति	इति{अव्य}	इति{अव्य}	कर्मसमानाधिकरण_द्योतकः,11	इस_(नाम_से)	ट्हुस्				
+14	तत्-विदः	13	तद्विदः	तद्-विद्{पुं}{1;बहु}/विद्{पुं}{2;बहु}/विद्{पुं}{5;एक}/विद्{पुं}{6;एक}/विद्{स्त्री}{1;बहु}/विद्{स्त्री}{2;बहु}/विद्{स्त्री}{5;एक}/विद्{स्त्री}{6;एक}/विद{पुं}{1;एक}	तद्-विद्{पुं}{1;एक}	कर्ता,11	ज्ञानीजन	ओने_त्हो_क्नोत्स्	<तत्-विदः>ऊ			

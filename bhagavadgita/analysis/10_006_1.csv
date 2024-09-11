@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mahaw-qRayaH	2	maharRayaH	mahaw-qRi{puM}{1;bahu}/qRi{puM}{8;bahu}	mahaw-qRi{puM}{1;bahu}	sup_samucciwaH,6	maharRijana	the_great_sages	<mahaw-qRayaH>K1			
-2	sapwa	1	sapwa	sapwan{1;bahu}/sapwan{2;bahu}	sapwan{1;bahu}	viSeRaNam,1	sAwa	seven				
-3	pUrve	3	pUrve	pUrva{puM}{7;eka}/pUrva{napuM}{1;xvi}/pUrva{napuM}{2;xvi}/pUrva{napuM}{7;eka}/pUrva{napuM}{1;xvi}/pUrva{napuM}{2;xvi}/pUrvA{swrI}{1;xvi}/pUrvA{swrI}{2;xvi}/pUrvA{swrI}{1;xvi}/pUrvA{swrI}{2;xvi}	pUrva{puM}{1;eka}	viSeRaNam,5	pUrva_honevAle_(sanakAxi)	before				
-4	cawvAraH	4	cawvAro	cawur{puM}{1;bahu}	cawur{puM}{1;bahu}	viSeRaNam,5	cAra	four				
-5	manavaH	6	manavaswaWA	manu{puM}{1;bahu}/manu{puM}{8;bahu}/manu{swrI}{1;bahu}/manu{swrI}{8;bahu}	manu{puM}{1;bahu}	karwA,9	svAyamBuva_Axi_cOxaha_manu_ye	Manus				
-6	waWA (ca)	5	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,5	waWA	also				
-7	maw-BAvAH	7	maxBAvA	asmax-BAva{puM}{1;bahu}/BAva{puM}{8;bahu}	asmax-BAva{puM}{1;bahu}	viSeRaNam,8	muJameM_BAvavAle	born_of_Me	<asmaw-BAvAH>Bs6			
-8	mAnasAH	8	mAnasA	mAnasa{puM}{1;bahu}/mAnasa{puM}{8;bahu}	mAnasa{puM}{1;bahu}	viXeya_viSeRaNam,9	mere_saMkalpa_se	from_the_mind				
-9	jAwAH	9	jAwA	jAwa{puM}{1;bahu}/jAwa{puM}{8;bahu}/jAwA{swrI}{1;bahu}/jAwA{swrI}{2;bahu}/jAwA{swrI}{8;bahu}/jAwA{swrI}{1;bahu}/jAwA{swrI}{2;bahu}/jAwA{swrI}{8;bahu}	jan3{kqw_prawyayaH:kwa;janIz;xivAxiH;puM}{1;bahu}	aBihiwakarwA,5;akarmakaH	uwpanna_hue_hEM	born				
-10	yeRAm	10	yeRAM	yax{puM}{6;bahu}/yax{napuM}{6;bahu}	yax{puM}{6;bahu}	RaRTIsambanXaH,13	jinakI	of_them				
-11	loke	11	loka	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	aXikaraNam,13.1	saMsAra_meM	the_planets				
-12	imAH	12	imAH	ixam{swrI}{1;bahu}/ixam{swrI}{2;bahu}	ixam{swrI}{1;bahu}	viSeRaNam,13	yaha	all_this				
-13	prajAH	13	prajAH	praja{puM}{1;bahu}/praja{puM}{8;bahu}/prajA{swrI}{1;bahu}/prajA{swrI}{2;bahu}/prajA{swrI}{8;bahu}	prajA{swrI}{1;bahu}	karwA,13.1	sampUrNa_prajA	population				
-13.1	(sanwi)	14	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13;akarmakaH	(hE)	are				
+1	महत्-ऋषयः	2	महर्षयः	महत्-ऋषि{पुं}{1;बहु}/ऋषि{पुं}{8;बहु}	महत्-ऋषि{पुं}{1;बहु}	सुप्_समुच्चितः,6	महर्षिजन	ट्हे_ग्रेअट्_सगेस्	<महत्-ऋषयः>ख्1			
+2	सप्त	1	सप्त	सप्तन्{1;बहु}/सप्तन्{2;बहु}	सप्तन्{1;बहु}	विशेषणम्,1	सात	सेवेन्				
+3	पूर्वे	3	पूर्वे	पूर्व{पुं}{7;एक}/पूर्व{नपुं}{1;द्वि}/पूर्व{नपुं}{2;द्वि}/पूर्व{नपुं}{7;एक}/पूर्व{नपुं}{1;द्वि}/पूर्व{नपुं}{2;द्वि}/पूर्वा{स्त्री}{1;द्वि}/पूर्वा{स्त्री}{2;द्वि}/पूर्वा{स्त्री}{1;द्वि}/पूर्वा{स्त्री}{2;द्वि}	पूर्व{पुं}{1;एक}	विशेषणम्,5	पूर्व_होनेवाले_(सनकादि)	बेङोरे				
+4	चत्वारः	4	चत्वारो	चतुर्{पुं}{1;बहु}	चतुर्{पुं}{1;बहु}	विशेषणम्,5	चार	ङोउर्				
+5	मनवः	6	मनवस्तथा	मनु{पुं}{1;बहु}/मनु{पुं}{8;बहु}/मनु{स्त्री}{1;बहु}/मनु{स्त्री}{8;बहु}	मनु{पुं}{1;बहु}	कर्ता,9	स्वायम्भुव_आदि_चौदह_मनु_ये	ंअनुस्				
+6	तथा (च)	5	0	तथा{अव्य}	तथा{अव्य}	समुच्चय_द्योतकः,5	तथा	अल्सो				
+7	मत्-भावाः	7	मद्भावा	अस्मद्-भाव{पुं}{1;बहु}/भाव{पुं}{8;बहु}	अस्मद्-भाव{पुं}{1;बहु}	विशेषणम्,8	मुझमें_भाववाले	बोर्न्_ओङ्_ंए	<अस्मत्-भावाः>भ्स्6			
+8	मानसाः	8	मानसा	मानस{पुं}{1;बहु}/मानस{पुं}{8;बहु}	मानस{पुं}{1;बहु}	विधेय_विशेषणम्,9	मेरे_संकल्प_से	ङ्रोम्_ट्हे_मिन्ड्				
+9	जाताः	9	जाता	जात{पुं}{1;बहु}/जात{पुं}{8;बहु}/जाता{स्त्री}{1;बहु}/जाता{स्त्री}{2;बहु}/जाता{स्त्री}{8;बहु}/जाता{स्त्री}{1;बहु}/जाता{स्त्री}{2;बहु}/जाता{स्त्री}{8;बहु}	जन्3{कृत्_प्रत्ययः:क्त;जनीँ;दिवादिः;पुं}{1;बहु}	अभिहितकर्ता,5;अकर्मकः	उत्पन्न_हुए_हैं	बोर्न्				
+10	येषाम्	10	येषां	यद्{पुं}{6;बहु}/यद्{नपुं}{6;बहु}	यद्{पुं}{6;बहु}	षष्ठीसम्बन्धः,13	जिनकी	ओङ्_ट्हेम्				
+11	लोके	11	लोक	लोक{पुं}{7;एक}/लोक्1{कर्तरि;लट्;उ;एक;आत्मनेपदी;लोकृँ;भ्वादिः}	लोक{पुं}{7;एक}	अधिकरणम्,13.1	संसार_में	ट्हे_प्लनेट्स्				
+12	इमाः	12	इमाः	इदम्{स्त्री}{1;बहु}/इदम्{स्त्री}{2;बहु}	इदम्{स्त्री}{1;बहु}	विशेषणम्,13	यह	अल्ल्_ट्हिस्				
+13	प्रजाः	13	प्रजाः	प्रज{पुं}{1;बहु}/प्रज{पुं}{8;बहु}/प्रजा{स्त्री}{1;बहु}/प्रजा{स्त्री}{2;बहु}/प्रजा{स्त्री}{8;बहु}	प्रजा{स्त्री}{1;बहु}	कर्ता,13.1	सम्पूर्ण_प्रजा	पोपुलटिओन्				
+13.1	(सन्ति)	14	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/सत्{नपुं}{8;बहु}/सन्ती{स्त्री}{8;एक}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,13;अकर्मकः	(है)	अरे				

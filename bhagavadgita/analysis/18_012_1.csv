@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	an-iRtam	4	aniRtamiRtaM	aniRta{puM}{2;eka}/aniRta{napuM}{1;eka}/aniRta{napuM}{2;eka}	na-iR2{kqw_prawyayaH:kwa;iRuz;wuxAxiH;napuM}{1;eka}	Gataka,5	burA	leading_to_hell	<na-iRtam>Tn			
-2	iRtam	3	0	iRta{puM}{2;eka}/iRta{napuM}{1;eka}/iRta{napuM}{2;eka}	iR2{kqw_prawyayaH:kwa;iRuz;wuxAxiH;napuM}{1;eka}	Gataka,5	acCA	leading_to_heaven				
-3	miSram	6	miSraM	miSra{puM}{2;eka}/miSra{napuM}{1;eka}/miSra{napuM}{2;eka}	miSra{puM}{1;eka}	Gataka,5	milA_huA	mixture				
-4	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	or				
-4.1	(iwi)	7	(0)	(iwi{avya})	(iwi{avya})	Gataka_xyowakaH,5	(Ese)	thus				
-5	wri-viXam	8	wriviXaM	wriviXa{puM}{2;eka}/wriviXa{napuM}{1;eka}/wriviXa{napuM}{2;eka}	wriviXa{napuM}{1;eka}	viXeya_viSeRaNam,8	wIna_prakAra_kA	three_kinds	<wri-viXaM>Bs6			
-6	karmaNaH	2	karmaNaH	karman{napuM}{5;eka}/karman{napuM}{6;eka}	karman{napuM}{6;eka}	RaRTIsambanXaH,7	karmoM_kA	work				
-7	Palam	9	Palam	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{1;eka}	karwA,8	Pala	result				
-8	Bavawi	11	BavawyawyAginAM	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}/Bavaw{puM}{7;eka}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,7;akarmakaH	howA_hE	becomes				
-9	a-wyAginAm	1	0	a-wyAgin{puM}{6;bahu}	na-wyAgin{puM}{6;bahu}	RaRTIsambanXaH,6	karmaPala_kA_wyAga_na_karanevAle_manuRyoM_ke	of_the_renouncer	<na-wyAginAM>Tn			
-10	prewya	10	prewya	pra_i1{kqw_prawyayaH:lyap;pra_iN;axAxiH}	pra_i1{kqw_prawyayaH:lyap;pra_iN;axAxiH}	kriyAviSeRaNam,8	marane_ke_paScAw	after_death				
-11	na	16	na	na{avya}	na{avya}	prawiReXaH,14.2	nahIM	not				
-12	wu	12	wu	wu{avya}	wu{avya}	sambanXaH,14.2	kiMwu	but				
-13	sannyAsinAm	13	sannyAsinAM	sannyAsin{puM}{6;bahu}	sannyAsin{puM}{6;bahu}	RaRTIsambanXaH,14.1	karmaPala_kA_wyAga_kara_xenevAle_manuRyoM_ke	of_the_renounced_order				
-14	kvaciw	15	kvaciw	kvaciw{avya}	kvaciw{avya}	kriyAviSeRaNam,14.2	kisI_kAla_meM_BI	at_any_time				
-14.1	(Palam)	14	(0)	(Pala{napuM}{1;eka}/Pala{napuM}{2;eka})	(Pala{napuM}{1;eka})	karwA,14.2	(Pala)	result				
-14.2	(Bavawi)	17	(0)	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}/Bavaw{puM}{7;eka})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,14.1;akarmakaH	(howA)	becomes				
+1	अन्-इष्टम्	4	अनिष्टमिष्टं	अनिष्ट{पुं}{2;एक}/अनिष्ट{नपुं}{1;एक}/अनिष्ट{नपुं}{2;एक}	न-इष्2{कृत्_प्रत्ययः:क्त;इषुँ;तुदादिः;नपुं}{1;एक}	घटक,5	बुरा	लेअडिन्ग्_टो_हेल्ल्	<न-इष्टम्>ठ्न्			
+2	इष्टम्	3	0	इष्ट{पुं}{2;एक}/इष्ट{नपुं}{1;एक}/इष्ट{नपुं}{2;एक}	इष्2{कृत्_प्रत्ययः:क्त;इषुँ;तुदादिः;नपुं}{1;एक}	घटक,5	अच्छा	लेअडिन्ग्_टो_हेअवेन्				
+3	मिश्रम्	6	मिश्रं	मिश्र{पुं}{2;एक}/मिश्र{नपुं}{1;एक}/मिश्र{नपुं}{2;एक}	मिश्र{पुं}{1;एक}	घटक,5	मिला_हुआ	मिद्टुरे				
+4	च	5	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	और	ओर्				
+4.1	(इति)	7	(0)	(इति{अव्य})	(इति{अव्य})	घटक_द्योतकः,5	(ऐसे)	ट्हुस्				
+5	त्रि-विधम्	8	त्रिविधं	त्रिविध{पुं}{2;एक}/त्रिविध{नपुं}{1;एक}/त्रिविध{नपुं}{2;एक}	त्रिविध{नपुं}{1;एक}	विधेय_विशेषणम्,8	तीन_प्रकार_का	ट्ह्रेए_किन्ड्स्	<त्रि-विधं>भ्स्6			
+6	कर्मणः	2	कर्मणः	कर्मन्{नपुं}{5;एक}/कर्मन्{नपुं}{6;एक}	कर्मन्{नपुं}{6;एक}	षष्ठीसम्बन्धः,7	कर्मों_का	तोर्क्				
+7	फलम्	9	फलम्	फल{नपुं}{1;एक}/फल{नपुं}{2;एक}	फल{नपुं}{1;एक}	कर्ता,8	फल	रेसुल्ट्				
+8	भवति	11	भवत्यत्यागिनां	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}/भवत्{पुं}{7;एक}	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,7;अकर्मकः	होता_है	बेचोमेस्				
+9	अ-त्यागिनाम्	1	0	अ-त्यागिन्{पुं}{6;बहु}	न-त्यागिन्{पुं}{6;बहु}	षष्ठीसम्बन्धः,6	कर्मफल_का_त्याग_न_करनेवाले_मनुष्यों_के	ओङ्_ट्हे_रेनोउन्चेर्	<न-त्यागिनां>ठ्न्			
+10	प्रेत्य	10	प्रेत्य	प्र_इ1{कृत्_प्रत्ययः:ल्यप्;प्र_इण्;अदादिः}	प्र_इ1{कृत्_प्रत्ययः:ल्यप्;प्र_इण्;अदादिः}	क्रियाविशेषणम्,8	मरने_के_पश्चात्	अङ्टेर्_डेअट्ह्				
+11	न	16	न	न{अव्य}	न{अव्य}	प्रतिषेधः,14.2	नहीं	नोट्				
+12	तु	12	तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,14.2	किंतु	बुट्				
+13	सन्न्यासिनाम्	13	सन्न्यासिनां	सन्न्यासिन्{पुं}{6;बहु}	सन्न्यासिन्{पुं}{6;बहु}	षष्ठीसम्बन्धः,14.1	कर्मफल_का_त्याग_कर_देनेवाले_मनुष्यों_के	ओङ्_ट्हे_रेनोउन्चेड्_ओर्डेर्				
+14	क्वचित्	15	क्वचित्	क्वचित्{अव्य}	क्वचित्{अव्य}	क्रियाविशेषणम्,14.2	किसी_काल_में_भी	अट्_अन्य्_टिमे				
+14.1	(फलम्)	14	(0)	(फल{नपुं}{1;एक}/फल{नपुं}{2;एक})	(फल{नपुं}{1;एक})	कर्ता,14.2	(फल)	रेसुल्ट्				
+14.2	(भवति)	17	(0)	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}/भवत्{पुं}{7;एक})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,14.1;अकर्मकः	(होता)	बेचोमेस्				

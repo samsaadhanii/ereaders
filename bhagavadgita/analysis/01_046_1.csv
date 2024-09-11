@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxi	1	yaxi	yaxi{avya}	yaxi{avya}	sambanXaH,8;niwya_sambanXaH,12.1	yaxi	if				
-2	mAm	2	mAmaprawIkAramaSaswraM	asmax{2;eka}	asmax{2;eka}	viSeRaNam,3	muJa	unto_me				
-3	a-prawIkAram	4	0	a-prawIkAra{puM}{2;eka}	na-prawIkAra{puM}{2;eka}	karma,8	sAmanA_na_karanevAle_ko	unresisting	<na-prawIkAram>Bsmn			
-4	a-Saswram	3	0	a-Saswra{puM}{2;eka}/Saswra{napuM}{1;eka}/Saswra{napuM}{2;eka}	na-Saswra{puM}{2;eka}	viSeRaNam,3	Saswrarahiwa	unarmed	<na-SaswraM>Bsmn			
-5	Saswra-pANayaH	5	SaswrapANayaH	Saswra-pANi{puM}{1;bahu}	Saswra-pANi{puM}{1;bahu}	viSeRaNam,6	Saswra_hAWa_meM_liye_hue	armed_with_weapons	<Saswra-pANayaH>Bv			
-6	XArwarARtrAH	6	XArwarARtrA	XArwarARtra{puM}{1;bahu}	XArwarARtra{puM}{1;bahu}	karwA,8	XqwarARtra_ke_puwra	the_sons_of_Dhrtarastra				
-7	raNe	7	raNe	raNa{puM}{7;eka}/raNa{napuM}{1;xvi}/raNa{napuM}{2;xvi}/raNa{napuM}{7;eka}	raNa{napuM}{7;eka}	aXikaraNam,8	raNa_meM	in_battle				
-8	hanyuH	8	hanyuswanme	han1{karwari;viXilif;pra;bahu;parasmEpaxI;hanaz;axAxiH}	han1{karwari;viXilif;pra;bahu;parasmEpaxI;hanaz;axAxiH}	aBihiwakarwA,6;sakarmakaH	mAra_dAleM	kill				
-9	waw	10	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,12	vaha	that				
-10	me	11	0	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,11	mere_liye	for_me				
-11	kRemawaram	12	kRemawaraM	kRemawara{puM}{2;eka}/kRemawara{napuM}{1;eka}/kRemawara{napuM}{2;eka}	kRemawara{napuM}{1;eka}	viXeya_viSeRaNam,12	aXika_kalyANa-kAraka	better				
-12	Bavew	13	Bavew	BU1{karwari;viXilif;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;viXilif;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,9;akarmakaH	hogA	would_be				
-12.1	(warhi)	9	(0)	(warhi{avya})	(warhi{avya})	sambanXaH,12	(wo)	then				
+1	यदि	1	यदि	यदि{अव्य}	यदि{अव्य}	सम्बन्धः,8;नित्य_सम्बन्धः,12.1	यदि	इङ्				
+2	माम्	2	मामप्रतीकारमशस्त्रं	अस्मद्{2;एक}	अस्मद्{2;एक}	विशेषणम्,3	मुझ	उन्टो_मे				
+3	अ-प्रतीकारम्	4	0	अ-प्रतीकार{पुं}{2;एक}	न-प्रतीकार{पुं}{2;एक}	कर्म,8	सामना_न_करनेवाले_को	उन्रेसिस्टिन्ग्	<न-प्रतीकारम्>भ्स्म्न्			
+4	अ-शस्त्रम्	3	0	अ-शस्त्र{पुं}{2;एक}/शस्त्र{नपुं}{1;एक}/शस्त्र{नपुं}{2;एक}	न-शस्त्र{पुं}{2;एक}	विशेषणम्,3	शस्त्ररहित	उनर्मेड्	<न-शस्त्रं>भ्स्म्न्			
+5	शस्त्र-पाणयः	5	शस्त्रपाणयः	शस्त्र-पाणि{पुं}{1;बहु}	शस्त्र-पाणि{पुं}{1;बहु}	विशेषणम्,6	शस्त्र_हाथ_में_लिये_हुए	अर्मेड्_तिट्ह्_तेअपोन्स्	<शस्त्र-पाणयः>भ्व्			
+6	धार्तराष्ट्राः	6	धार्तराष्ट्रा	धार्तराष्ट्र{पुं}{1;बहु}	धार्तराष्ट्र{पुं}{1;बहु}	कर्ता,8	धृतराष्ट्र_के_पुत्र	ट्हे_सोन्स्_ओङ्_ढ्ह्र्टरस्ट्र				
+7	रणे	7	रणे	रण{पुं}{7;एक}/रण{नपुं}{1;द्वि}/रण{नपुं}{2;द्वि}/रण{नपुं}{7;एक}	रण{नपुं}{7;एक}	अधिकरणम्,8	रण_में	इन्_बट्ट्ले				
+8	हन्युः	8	हन्युस्तन्मे	हन्1{कर्तरि;विधिलिङ्;प्र;बहु;परस्मैपदी;हनँ;अदादिः}	हन्1{कर्तरि;विधिलिङ्;प्र;बहु;परस्मैपदी;हनँ;अदादिः}	अभिहितकर्ता,6;सकर्मकः	मार_डालें	किल्ल्				
+9	तत्	10	0	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्ता,12	वह	ट्हट्				
+10	मे	11	0	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,11	मेरे_लिये	ङोर्_मे				
+11	क्षेमतरम्	12	क्षेमतरं	क्षेमतर{पुं}{2;एक}/क्षेमतर{नपुं}{1;एक}/क्षेमतर{नपुं}{2;एक}	क्षेमतर{नपुं}{1;एक}	विधेय_विशेषणम्,12	अधिक_कल्याण-कारक	बेट्टेर्				
+12	भवेत्	13	भवेत्	भू1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,9;अकर्मकः	होगा	तोउल्ड्_बे				
+12.1	(तर्हि)	9	(0)	(तर्हि{अव्य})	(तर्हि{अव्य})	सम्बन्धः,12	(तो)	ट्हेन्				

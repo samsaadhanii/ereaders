@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	puruRaH	2	puruRaH	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	karwA,4	puruRa	the_living_entity				
-2	prakqwi-sWaH	1	prakqwisWo	prakqwi-sWa{puM}{1;eka}	prakqwi-sWa{puM}{1;eka}	viSeRaNam,1	prakqwi_meM_sWiwa	being_situated_in_the_material_energy	<prakqwi-sWaH>U			
-3	hi	3	hi	hi{avya}	hi{avya}	sambanXaH,1	hI	certainly				
-4	Bufkwe	6	Bufkwe	Buj2{karwari;lat;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{karwari;lat;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}	aBihiwakarwA,1;sakarmakaH	BogawA_hE	enjoys				
-5	prakqwi-jAn	4	prakqwijAnguNAn	prakqwi-ja{puM}{2;bahu}	prakqwi-ja{puM}{2;bahu}	viSeRaNam,6	prakqwi_se_uwpanna	produced_by_the_material_nature	<prakqwi-jAn>U			
-6	guNAn	5	0	guNa{puM}{2;bahu}	guNa{puM}{2;bahu}	karma,4	wriguNAwmaka_paxArWoM_ko	modes_of_nature				
-7	kAraNam	10	kAraNaM	kAraNa{napuM}{1;eka}/kAraNa{napuM}{2;eka}	kAraNa{napuM}{1;eka}	viXeya_viSeRaNam,10.1	kAraNa	cause				
-8	guNa-safgaH	7	guNasafgoZsya	guNa-safga{puM}{1;eka}	guNa-safga{puM}{1;eka}	karwA,10.1	guNoM_kA_saMga	association_with_the_modes_of_nature	<guNa-safgaH>T7			
-9	asya	8	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	RaRTIsambanXaH,10	isake	of_the_living_entity				
-10	saw-a-saw-yoni-janmasu	9	saxasaxyonijanmasu	sax-asaw-yonin-janman{napuM}{7;bahu}	sax-asax-yoni-janman{napuM}{7;bahu}	aXikaraNam,7	acCI-burI_yoniyoM_meM_janma_lene_kA	of_taking_birth_in_good_and_bad_species_of_life	<<<saw-<na-saw>Tn>Di-yoni>T6-janmasu>T7			
-10.1	(Bavawi)	11	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,8;akarmakaH	(hE)	becomes				
+1	पुरुषः	2	पुरुषः	पुरुष{पुं}{1;एक}	पुरुष{पुं}{1;एक}	कर्ता,4	पुरुष	ट्हे_लिविन्ग्_एन्टिट्य्				
+2	प्रकृति-स्थः	1	प्रकृतिस्थो	प्रकृति-स्थ{पुं}{1;एक}	प्रकृति-स्थ{पुं}{1;एक}	विशेषणम्,1	प्रकृति_में_स्थित	बेइन्ग्_सिटुअटेड्_इन्_ट्हे_मटेरिअल्_एनेर्ग्य्	<प्रकृति-स्थः>ऊ			
+3	हि	3	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,1	ही	चेर्टइन्ल्य्				
+4	भुङ्क्ते	6	भुङ्क्ते	भुज्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;भुजँ;रुधादिः}	भुज्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;भुजँ;रुधादिः}	अभिहितकर्ता,1;सकर्मकः	भोगता_है	एन्जोय्स्				
+5	प्रकृति-जान्	4	प्रकृतिजान्गुणान्	प्रकृति-ज{पुं}{2;बहु}	प्रकृति-ज{पुं}{2;बहु}	विशेषणम्,6	प्रकृति_से_उत्पन्न	प्रोडुचेड्_ब्य्_ट्हे_मटेरिअल्_नटुरे	<प्रकृति-जान्>ऊ			
+6	गुणान्	5	0	गुण{पुं}{2;बहु}	गुण{पुं}{2;बहु}	कर्म,4	त्रिगुणात्मक_पदार्थों_को	मोडेस्_ओङ्_नटुरे				
+7	कारणम्	10	कारणं	कारण{नपुं}{1;एक}/कारण{नपुं}{2;एक}	कारण{नपुं}{1;एक}	विधेय_विशेषणम्,10.1	कारण	चउसे				
+8	गुण-सङ्गः	7	गुणसङ्गोऽस्य	गुण-सङ्ग{पुं}{1;एक}	गुण-सङ्ग{पुं}{1;एक}	कर्ता,10.1	गुणों_का_संग	अस्सोचिअटिओन्_तिट्ह्_ट्हे_मोडेस्_ओङ्_नटुरे	<गुण-सङ्गः>ठ्7			
+9	अस्य	8	0	इदम्{पुं}{6;एक}/इदम्{नपुं}{6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	इदम्{पुं}{6;एक}	षष्ठीसम्बन्धः,10	इसके	ओङ्_ट्हे_लिविन्ग्_एन्टिट्य्				
+10	सत्-अ-सत्-योनि-जन्मसु	9	सदसद्योनिजन्मसु	सद्-असत्-योनिन्-जन्मन्{नपुं}{7;बहु}	सद्-असद्-योनि-जन्मन्{नपुं}{7;बहु}	अधिकरणम्,7	अच्छी-बुरी_योनियों_में_जन्म_लेने_का	ओङ्_टकिन्ग्_बिर्ट्ह्_इन्_गोओड्_अन्ड्_बड्_स्पेचिएस्_ओङ्_लिङे	<<<सत्-<न-सत्>ठ्न्>ढि-योनि>ठ्6-जन्मसु>ठ्7			
+10.1	(भवति)	11	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,8;अकर्मकः	(है)	बेचोमेस्				

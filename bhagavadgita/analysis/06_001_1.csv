@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	an-ASriwaH	3	anASriwaH	an-{avya}-ASriwa{puM}{1;eka}	na-ASriwa{puM}{1;eka}	karwA,5	ASraya_na_lekara	without_shelter	<na-ASriwaH>Tn			
-2	karma-Palam	2	karmaPalaM	karman-Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	karman-Pala{napuM}{2;eka}	karma,1	karmaPala_kA	the_result_of_work	<karma-PalaM>T6			
-3	kAryam	4	kAryaM	kArya{napuM}{2;eka}/kArya{napuM}{2;eka}/kArya{napuM}{2;eka}/kArya{napuM}{2;eka}/kArya{napuM}{2;eka}	kq3{kqw_prawyayaH:Nyaw;dukqF;wanAxiH;napuM}{2;eka}	viSeRaNam,4	karaneyogya	obligatory				
-4	karma	5	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,5	karma	work				
-5	karowi	6	karowi	kq3{karwari;lat;pra;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;pra;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,6;sakarmakaH	karawA_hE	performs				
-6	yaH	1	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,1;niwya_sambanXaH,7	jo_(puruRa)	one_who				
-7	saH	7	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,11.1	vaha	he				
-8	sannyAsI	8	sannyAsI	sannyAsin{puM}{1;eka}	sannyAsin{puM}{1;eka}	sup_samucciwaH,10	saMnyAsI	in_the_renounced_order				
-9	ca	9	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	waWA	also				
-10	yogI	10	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	viXeya_viSeRaNam,11.1	yogI	mystic				
-11	ca	12	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	Ora	also				
-11.1	(aswi)	11	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,7;akarmakaH	(hE)	is				
-12	na	15	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	not				
-13	nir-agniH	14	niragnirna	nir-{avya}-agni{puM}{1;eka}	nir-agni{puM}{1;eka}	sup_samucciwaH,16	agni_kA_wyAga_karanevAlA_(saMnyAsI)	without_fire	<nir-agniH>Bvp			
-14	na	18	0	na{avya}	na{avya}	prawiReXaH,16	nahIM	nor				
-15	ca	16	cAkriyaH	ca{avya}	ca{avya}	samuccaya_xyowakaH,16	waWA	also				
-16	a-kriyaH	17	0	a-kriyaH{puM}{1;eka}	na-kriya{puM}{1;eka}	viXeya_viSeRaNam,16.1	kriyAoM_kA_wyAga_karanevAlA_(yogI)	without_duty	<na-kriyaH>Bs6			
-16.1	(aswi)	19	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,16.2;akarmakaH	(hE)	is				
-16.2	(saH)	13	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,16.1	(vaha)	he				
+1	अन्-आश्रितः	3	अनाश्रितः	अन्-{अव्य}-आश्रित{पुं}{1;एक}	न-आश्रित{पुं}{1;एक}	कर्ता,5	आश्रय_न_लेकर	तिट्होउट्_स्हेल्टेर्	<न-आश्रितः>ठ्न्			
+2	कर्म-फलम्	2	कर्मफलं	कर्मन्-फल{नपुं}{1;एक}/फल{नपुं}{2;एक}	कर्मन्-फल{नपुं}{2;एक}	कर्म,1	कर्मफल_का	ट्हे_रेसुल्ट्_ओङ्_तोर्क्	<कर्म-फलं>ठ्6			
+3	कार्यम्	4	कार्यं	कार्य{नपुं}{2;एक}/कार्य{नपुं}{2;एक}/कार्य{नपुं}{2;एक}/कार्य{नपुं}{2;एक}/कार्य{नपुं}{2;एक}	कृ3{कृत्_प्रत्ययः:ण्यत्;डुकृञ्;तनादिः;नपुं}{2;एक}	विशेषणम्,4	करनेयोग्य	ओब्लिगटोर्य्				
+4	कर्म	5	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,5	कर्म	तोर्क्				
+5	करोति	6	करोति	कृ3{कर्तरि;लट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}	अभिहितकर्ता,6;सकर्मकः	करता_है	पेर्ङोर्म्स्				
+6	यः	1	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	विशेषणम्,1;नित्य_सम्बन्धः,7	जो_(पुरुष)	ओने_त्हो				
+7	सः	7	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,11.1	वह	हे				
+8	सन्न्यासी	8	सन्न्यासी	सन्न्यासिन्{पुं}{1;एक}	सन्न्यासिन्{पुं}{1;एक}	सुप्_समुच्चितः,10	संन्यासी	इन्_ट्हे_रेनोउन्चेड्_ओर्डेर्				
+9	च	9	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	तथा	अल्सो				
+10	योगी	10	योगी	योगिन्{पुं}{1;एक}	योगिन्{पुं}{1;एक}	विधेय_विशेषणम्,11.1	योगी	म्य्स्टिच्				
+11	च	12	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,9	और	अल्सो				
+11.1	(अस्ति)	11	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,7;अकर्मकः	(है)	इस्				
+12	न	15	न	न{अव्य}	न{अव्य}	प्रतिषेधः,13	नहीं	नोट्				
+13	निर्-अग्निः	14	निरग्निर्न	निर्-{अव्य}-अग्नि{पुं}{1;एक}	निर्-अग्नि{पुं}{1;एक}	सुप्_समुच्चितः,16	अग्नि_का_त्याग_करनेवाला_(संन्यासी)	तिट्होउट्_ङिरे	<निर्-अग्निः>भ्व्प्			
+14	न	18	0	न{अव्य}	न{अव्य}	प्रतिषेधः,16	नहीं	नोर्				
+15	च	16	चाक्रियः	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,16	तथा	अल्सो				
+16	अ-क्रियः	17	0	अ-क्रियः{पुं}{1;एक}	न-क्रिय{पुं}{1;एक}	विधेय_विशेषणम्,16.1	क्रियाओं_का_त्याग_करनेवाला_(योगी)	तिट्होउट्_डुट्य्	<न-क्रियः>भ्स्6			
+16.1	(अस्ति)	19	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,16.2;अकर्मकः	(है)	इस्				
+16.2	(सः)	13	(0)	(तद्{पुं}{1;एक})	(तद्{पुं}{1;एक})	कर्ता,16.1	(वह)	हे				

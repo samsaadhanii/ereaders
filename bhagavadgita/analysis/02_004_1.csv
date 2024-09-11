@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kaWam	8	kaWaM	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,9	kisa_prakAra	how				
-2	BIRmam	3	BIRmamahaM	BIRma{puM}{2;eka}	BIRma{puM}{2;eka}	sup_samucciwaH,5	BIRmapiwAmaha_ke	unto_Bhisma				
-3	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,9	mEM	I				
-4	safKye	6	safKye	safKya{napuM}{7;eka}	safKya{napuM}{7;eka}	aXikaraNam,9	raNaBUmi_meM	on_the_battlefield				
-5	xroNam	4	xroNaM	xroNa{puM}{2;eka}	xroNa{puM}{2;eka}	karma,9	xroNAcArya_ke	unto_Drona				
-6	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	and				
-7	maXusUxana	1	maXusUxana	maXusUxana{puM}{8;eka}	maXusUxana{puM}{8;eka}	samboXyaH,9	he_maXusUxana	O_Madhusudana				
-8	iRuBiH	7	iRuBiH	iRu{puM}{3;bahu}	iRu{puM}{3;bahu}	karaNam,9	bANoM_se	with_arrows				
-9	prawiyowsyAmi	9	prawiyowsyAmi	prawiyowsyAmi	prawi_yuXa1{karwari;lqt;u;eka;parasmEpaxI;prawi_yuXaz;xivAxiH}	aBihiwakarwA,3	viruxXa_lada़UzgA	shall_fight				
-10	pUjA-arhO	12	pUjArhAvarisUxana	pUjA-arha{puM}{1;xvi}	pUjA-arha{puM}{1;xvi}	viXeya_viSeRaNam,11.1	pUjanIya	worthy_of_deepest_reverence	<pUjA-arhO>T7			
-11	arisUxana	10	0	arisUxana{puM}{8;eka}	arisUxana{puM}{8;eka}	samboXyaH,11.1	he_arisUxana	O_slayer_of_the_enemies				
-11.1	(swaH)	13	(0)	(as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11.2	(hEM)	are				
-11.2	(wO)	11	(0)	(wax{puM}{1;xvi})	(wax{puM}{1;xvi})	karwA,11.1	(ve)	they_both				
+1	कथम्	8	कथं	कथम्{अव्य}	कथम्{अव्य}	क्रियाविशेषणम्,9	किस_प्रकार	होत्				
+2	भीष्मम्	3	भीष्ममहं	भीष्म{पुं}{2;एक}	भीष्म{पुं}{2;एक}	सुप्_समुच्चितः,5	भीष्मपितामह_के	उन्टो_भ्हिस्म				
+3	अहम्	2	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,9	मैं	ई				
+4	सङ्ख्ये	6	सङ्ख्ये	सङ्ख्य{नपुं}{7;एक}	सङ्ख्य{नपुं}{7;एक}	अधिकरणम्,9	रणभूमि_में	ओन्_ट्हे_बट्ट्लेङिएल्ड्				
+5	द्रोणम्	4	द्रोणं	द्रोण{पुं}{2;एक}	द्रोण{पुं}{2;एक}	कर्म,9	द्रोणाचार्य_के	उन्टो_ढ्रोन				
+6	च	5	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और	अन्ड्				
+7	मधुसूदन	1	मधुसूदन	मधुसूदन{पुं}{8;एक}	मधुसूदन{पुं}{8;एक}	सम्बोध्यः,9	हे_मधुसूदन	औ_ंअड्हुसुडन				
+8	इषुभिः	7	इषुभिः	इषु{पुं}{3;बहु}	इषु{पुं}{3;बहु}	करणम्,9	बाणों_से	तिट्ह्_अर्रोत्स्				
+9	प्रतियोत्स्यामि	9	प्रतियोत्स्यामि	प्रतियोत्स्यामि	प्रति_युध1{कर्तरि;लृट्;उ;एक;परस्मैपदी;प्रति_युधँ;दिवादिः}	अभिहितकर्ता,3	विरुद्ध_लडॆअञऊँगा	स्हल्ल्_ङिग्ह्ट्				
+10	पूजा-अर्हौ	12	पूजार्हावरिसूदन	पूजा-अर्ह{पुं}{1;द्वि}	पूजा-अर्ह{पुं}{1;द्वि}	विधेय_विशेषणम्,11.1	पूजनीय	तोर्ट्ह्य्_ओङ्_डेएपेस्ट्_रेवेरेन्चे	<पूजा-अर्हौ>ठ्7			
+11	अरिसूदन	10	0	अरिसूदन{पुं}{8;एक}	अरिसूदन{पुं}{8;एक}	सम्बोध्यः,11.1	हे_अरिसूदन	औ_स्लयेर्_ओङ्_ट्हे_एनेमिएस्				
+11.1	(स्तः)	13	(0)	(अस्2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,11.2	(हैं)	अरे				
+11.2	(तौ)	11	(0)	(तद्{पुं}{1;द्वि})	(तद्{पुं}{1;द्वि})	कर्ता,11.1	(वे)	ट्हेय्_बोट्ह्				

@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	evam	6	evamewaxyaWAwWa	evam{avya}	evam{avya}	viSeRaNam,2	EsA_hI_(hE)	that				
-2	ewaw	7	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	karmasamAnAXikaraNam,4	yaha	this				
-3	yaWA	4	0	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,4	jEsA	as_it_is				
-4	AwWa	5	0	brU1{karwari;lat;ma;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;ma;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,5	kahawe_hEM	have_spoken				
-5	wvam	2	wvamAwmAnaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,4	Apa	you				
-6	AwmAnam	3	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,4	apaneko	the_soul				
-7	parama-ISvara	1	parameSvara	parama-ISvara{puM}{8;eka}	parameSvara{puM}{8;eka}	samboXyaH,4	he_parameSvara	the_Supreme_Lord	<parama-ISvara>K1			
-8	xraRtum	13	xraRtumicCAmi	xqS1{avya;wumun;xqSizr;:BvAxiH}	xqS1{avya;wumun;xqSizr;:BvAxiH}	karma,9	xeKanA_cAhawA_hUz	to_see				
-9	icCAmi	14	0	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	aBihiwa_karma,13.1		wish_				
-10	we	10	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,11	Apake	your				
-11	rUpam	12	rUpamESvaraM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,8	rUpa_ko	form				
-12	ESvaram	11	0	ESvara{puM}{2;eka}/ESvara{napuM}{1;eka}/ESvara{napuM}{2;eka}	ESvara{napuM}{2;eka}	viSeRaNam,11	ESvarya	divine				
-13	puruRa-uwwama	8	puruRowwama	puruRa-uwwama{puM}{8;eka}/uwwama{napuM}{8;eka}	puruRowwama{puM}{8;eka}	samboXyaH,9	he_puruRowwama	O_best_of_personalities	<puruRa-uwwama>T7			
-13.1	(aham)	9	()	aRmax{1;eka}	aRmax{1;eka}	karwA,9	Apa	you				
+1	एवम्	6	एवमेतद्यथात्थ	एवम्{अव्य}	एवम्{अव्य}	विशेषणम्,2	ऐसा_ही_(है)	ट्हट्				
+2	एतत्	7	0	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{2;एक}	कर्मसमानाधिकरणम्,4	यह	ट्हिस्				
+3	यथा	4	0	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,4	जैसा	अस्_इट्_इस्				
+4	आत्थ	5	0	ब्रू1{कर्तरि;लट्;म;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	ब्रू1{कर्तरि;लट्;म;एक;परस्मैपदी;ब्रूञ्;अदादिः}	अभिहित_कर्ता,5	कहते_हैं	हवे_स्पोकेन्				
+5	त्वम्	2	त्वमात्मानं	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,4	आप	योउ				
+6	आत्मानम्	3	0	आत्मन्{पुं}{2;एक}	आत्मन्{पुं}{2;एक}	कर्म,4	अपनेको	ट्हे_सोउल्				
+7	परम-ईश्वर	1	परमेश्वर	परम-ईश्वर{पुं}{8;एक}	परमेश्वर{पुं}{8;एक}	सम्बोध्यः,4	हे_परमेश्वर	ट्हे_शुप्रेमे_ऌओर्ड्	<परम-ईश्वर>ख्1			
+8	द्रष्टुम्	13	द्रष्टुमिच्छामि	दृश्1{अव्य;तुमुन्;दृशिँर्;:भ्वादिः}	दृश्1{अव्य;तुमुन्;दृशिँर्;:भ्वादिः}	कर्म,9	देखना_चाहता_हूँ	टो_सेए				
+9	इच्छामि	14	0	इष्2{कर्तरि;लट्;उ;एक;परस्मैपदी;इषुँ;तुदादिः}	इष्2{कर्तरि;लट्;उ;एक;परस्मैपदी;इषुँ;तुदादिः}	अभिहित_कर्म,13.1		तिस्ह्_				
+10	ते	10	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,11	आपके	योउर्				
+11	रूपम्	12	रूपमैश्वरं	रूप{नपुं}{1;एक}/रूप{नपुं}{2;एक}	रूप{नपुं}{2;एक}	कर्म,8	रूप_को	ङोर्म्				
+12	ऐश्वरम्	11	0	ऐश्वर{पुं}{2;एक}/ऐश्वर{नपुं}{1;एक}/ऐश्वर{नपुं}{2;एक}	ऐश्वर{नपुं}{2;एक}	विशेषणम्,11	ऐश्वर्य	डिविने				
+13	पुरुष-उत्तम	8	पुरुषोत्तम	पुरुष-उत्तम{पुं}{8;एक}/उत्तम{नपुं}{8;एक}	पुरुषोत्तम{पुं}{8;एक}	सम्बोध्यः,9	हे_पुरुषोत्तम	औ_बेस्ट्_ओङ्_पेर्सोनलिटिएस्	<पुरुष-उत्तम>ठ्7			
+13.1	(अहम्)	9	()	अष्मद्{1;एक}	अष्मद्{1;एक}	कर्ता,9	आप	योउ				

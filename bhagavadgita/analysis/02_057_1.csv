@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaH	1	yaH	yax{puM}{1;eka}	yax{sarvanAma;puM;1;eka}	viSeRaNam,3;niwya_sambanXaH,12	jo_(puruRa)	one_who				
-2	sarvawra	2	sarvawrAnaBisnehaswawwawprApya	sarvawra{avya}	sarvawra{avya}	xeSAXikaraNam,9	sarvawra	everywhere				
-3	an-aBisnehaH	3	0	anaBisneha{puM}{1;eka}	an-aBisneha{puM}{1;eka}	karwA,9	sneharahiwa_huA	unattached	<na-aBisnehaH>Tn			
-4	waw	4	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	vIpsA,5	usa	that				
-5	waw	5	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,6	usa	that				
-6	prApya	6	0	prApya{puM}{8;eka}/prApya{napuM}{8;eka}/pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap2{avya;lyap;ApLz;:curAxiH}	pUrvakAlaH,9	prApwa_hokara	meeting				
-7	SuBa-aSuBam	7	SuBASuBam	SuBa-aSuBa{puM}{2;eka}/aSuBa{napuM}{1;eka}/aSuBa{napuM}{2;eka}	SuBa-aSuBa{napuM}{2;eka}	karma,9	SuBa_yA_aSuBa_ko	with_good_or_evil	<SuBa-<na-SuBam>Tn>Ds			
-8	na	8	nABinanxawi	na{avya}	na{avya}	prawiReXaH,9	na	not				
-9	aBinanxawi	9	0	aBi_nanx1{karwari;lat;pra;eka;parasmEpaxI;tunaxiz;BvAxiH}	aBi_nax1{karwari;lat;pra;eka;parasmEpaxI;tunaxiz;:BvAxiH}	aBihiwa_karwA,3;sakarmaka	prasanna_howA_hE	rejoices				
-10	na	10	na	na{avya}	na{avya}	prawiReXaH,11	na	not				
-11	xveRti	11	xveRti	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	aBihiwa_karwA,1;sakarmaka	xveRa_karawA_hE	recoils				
-11.1	(yaH)	10	(0)	(yax{puM}{1;eka})	(yax{puM}{1;eka})	karwA,11;niwya_sambanXaH,12	(jo)	one_who				
-12	wasya	12	wasya	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,13	usakI	his				
-13	prajFA	13	prajFA	prajFA{swrI}{1;eka}	prajFA{swrI}{1;eka}	karwA,14	buxXi	mind				
-14	prawiRTiwA	14	prawiRTiwA	prawiRTiwA{swrI}{1;eka}/prawiRTiwA{swrI}{1;eka}	prawiRTiwA{swrI;1;eka(RWA1;kwa;RWA;:BvAxiH)}		sWira	stable				
+1	यः	1	यः	यद्{पुं}{1;एक}	यद्{सर्वनाम;पुं;1;एक}	विशेषणम्,3;नित्य_सम्बन्धः,12	जो_(पुरुष)	ओने_त्हो				
+2	सर्वत्र	2	सर्वत्रानभिस्नेहस्तत्तत्प्राप्य	सर्वत्र{अव्य}	सर्वत्र{अव्य}	देशाधिकरणम्,9	सर्वत्र	एवेर्य्त्हेरे				
+3	अन्-अभिस्नेहः	3	0	अनभिस्नेह{पुं}{1;एक}	अन्-अभिस्नेह{पुं}{1;एक}	कर्ता,9	स्नेहरहित_हुआ	उनट्टच्हेड्	<न-अभिस्नेहः>ठ्न्			
+4	तत्	4	0	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	वीप्सा,5	उस	ट्हट्				
+5	तत्	5	0	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	कर्म,6	उस	ट्हट्				
+6	प्राप्य	6	0	प्राप्य{पुं}{8;एक}/प्राप्य{नपुं}{8;एक}/प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्र_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}/प्रा_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्रा_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}	प्र_आप्2{अव्य;ल्यप्;आपॢँ;:चुरादिः}	पूर्वकालः,9	प्राप्त_होकर	मेएटिन्ग्				
+7	शुभ-अशुभम्	7	शुभाशुभम्	शुभ-अशुभ{पुं}{2;एक}/अशुभ{नपुं}{1;एक}/अशुभ{नपुं}{2;एक}	शुभ-अशुभ{नपुं}{2;एक}	कर्म,9	शुभ_या_अशुभ_को	तिट्ह्_गोओड्_ओर्_एविल्	<शुभ-<न-शुभम्>ठ्न्>ढ्स्			
+8	न	8	नाभिनन्दति	न{अव्य}	न{अव्य}	प्रतिषेधः,9	न	नोट्				
+9	अभिनन्दति	9	0	अभि_नन्द्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;टुनदिँ;भ्वादिः}	अभि_नद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;टुनदिँ;:भ्वादिः}	अभिहित_कर्ता,3;सकर्मक	प्रसन्न_होता_है	रेजोइचेस्				
+10	न	10	न	न{अव्य}	न{अव्य}	प्रतिषेधः,11	न	नोट्				
+11	द्वेष्टि	11	द्वेष्टि	द्विष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;द्विषँ;अदादिः}	द्विष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;द्विषँ;अदादिः}	अभिहित_कर्ता,1;सकर्मक	द्वेष_करता_है	रेचोइल्स्				
+11.1	(यः)	10	(0)	(यद्{पुं}{1;एक})	(यद्{पुं}{1;एक})	कर्ता,11;नित्य_सम्बन्धः,12	(जो)	ओने_त्हो				
+12	तस्य	12	तस्य	तद्{पुं}{6;एक}/तद्{नपुं}{6;एक}	तद्{पुं}{6;एक}	षष्ठीसम्बन्धः,13	उसकी	हिस्				
+13	प्रज्ञा	13	प्रज्ञा	प्रज्ञा{स्त्री}{1;एक}	प्रज्ञा{स्त्री}{1;एक}	कर्ता,14	बुद्धि	मिन्ड्				
+14	प्रतिष्ठिता	14	प्रतिष्ठिता	प्रतिष्ठिता{स्त्री}{1;एक}/प्रतिष्ठिता{स्त्री}{1;एक}	प्रतिष्ठिता{स्त्री;1;एक(ष्था1;क्त;ष्था;:भ्वादिः)}		स्थिर	स्टब्ले				

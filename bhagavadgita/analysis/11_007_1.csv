@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	iha	3	ihEkasWaM	iha{avya}	iha{avya}	xeSAXikaraNam,5	isa	in_this				
-2	eka-sWam	6	0	ekasWa{puM}{2;eka}/ekasWa{napuM}{1;eka}/ekasWa{napuM}{2;eka}	eka-sWa{napuM}{2;eka}	viSeRaNam,3	eka_jagaha_sWiwa	in_one	<eka-sWaM>U			
-3	jagaw	9	jagawkqwsnaM	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,5	jagaw_ko	the_universe				
-4	kqwsnam	8	0	kqwsna{napuM}{1;eka}/kqwsna{napuM}{2;eka}	kqwsna{napuM}{2;eka}	viSeRaNam,3	sampUrNa	completely				
-5	paSya	10	paSyAxya	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA	xeKa	see				
-6	axya	2	0	axya{avya}	axya{avya}	kAlAXikaraNam,5	aba	immediately				
-7	sa-cara-a-caram	7	sacarAcaram	sacara-a-cara{puM}{2;eka}/cara{napuM}{1;eka}/cara{napuM}{2;eka}	sacarAcara{napuM}{2;eka}	viSeRaNam,3	carAcarasahiwa	with_moving_and_not_moving	<sa-<cara-<na-caram>Tn>Di>BvS			
-8	mama	4	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,9	mere	my				
-9	xehe	5	xehe	xeha{napuM;1;xvi}/xeha{napuM;2;xvi}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;:BvAxiH}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;:BvAxiH}/xeha{napuM;8;xvi}/xeha{puM;7;eka}/xeha{napuM;7;eka}	xeha{napuM;7;eka}	aXikaraNam,5	SarIra_meM	in_this_body				
-10	gudAkeSa	1	gudAkeSa	gudAkeSa{puM}{8;eka}	gudAkeSa{puM}{8;eka}	samboXyaH,5	he_arjuna	O_Arjuna				
-11	yaw	12	yaccAnyaxxraRtumicCasi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,14;niwya_sambanXaH,15.1	jo	that				
-12	anyaw	11	anyaw_ca	anyaw{avya}/anya{napuM}{1;eka}/anya{napuM}{2;eka}	anya{napuM}{1;eka}_ca{avya}	viSeRaNam,11	Ora_BI	other_also				
-13	ca	13	0	ca/ca{avya}	ca/ca{avya}	sambanXaH,15						
-14	xraRtum	14	xraRtumicCasi	xqS1{avya;wumun;xqSizr;:BvAxiH}	xqS1{avya;wumun;xqSizr;:BvAxiH}	karma,15	xeKanA_cAhawA_ho	like_to_see				
-15	icCasi	15	0	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}							
-15.1	(waw)	16	(yaccAnyaxxraRtumicCasi)	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,15.2	jo	that				
-15.2	paSya	17	paSyAxya	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}		xeKa	see				
+1	इह	3	इहैकस्थं	इह{अव्य}	इह{अव्य}	देशाधिकरणम्,5	इस	इन्_ट्हिस्				
+2	एक-स्थम्	6	0	एकस्थ{पुं}{2;एक}/एकस्थ{नपुं}{1;एक}/एकस्थ{नपुं}{2;एक}	एक-स्थ{नपुं}{2;एक}	विशेषणम्,3	एक_जगह_स्थित	इन्_ओने	<एक-स्थं>ऊ			
+3	जगत्	9	जगत्कृत्स्नं	जगत्{पुं}{1;एक}/जगत्{पुं}{8;एक}/जगत्{नपुं}{1;एक}/जगत्{नपुं}{2;एक}/जगत्{नपुं}{8;एक}	जगत्{नपुं}{2;एक}	कर्म,5	जगत्_को	ट्हे_उनिवेर्से				
+4	कृत्स्नम्	8	0	कृत्स्न{नपुं}{1;एक}/कृत्स्न{नपुं}{2;एक}	कृत्स्न{नपुं}{2;एक}	विशेषणम्,3	सम्पूर्ण	चोम्प्लेटेल्य्				
+5	पश्य	10	पश्याद्य	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहित_कर्ता	देख	सेए				
+6	अद्य	2	0	अद्य{अव्य}	अद्य{अव्य}	कालाधिकरणम्,5	अब	इम्मेडिअटेल्य्				
+7	स-चर-अ-चरम्	7	सचराचरम्	सचर-अ-चर{पुं}{2;एक}/चर{नपुं}{1;एक}/चर{नपुं}{2;एक}	सचराचर{नपुं}{2;एक}	विशेषणम्,3	चराचरसहित	तिट्ह्_मोविन्ग्_अन्ड्_नोट्_मोविन्ग्	<स-<चर-<न-चरम्>ठ्न्>ढि>भ्व्श्			
+8	मम	4	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,9	मेरे	म्य्				
+9	देहे	5	देहे	देह{नपुं;1;द्वि}/देह{नपुं;2;द्वि}/दह्1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;दहँ;:भ्वादिः}/दह्1{कर्मणि;लिट्;उ;एक;आत्मनेपदी;दहँ;:भ्वादिः}/देह{नपुं;8;द्वि}/देह{पुं;7;एक}/देह{नपुं;7;एक}	देह{नपुं;7;एक}	अधिकरणम्,5	शरीर_में	इन्_ट्हिस्_बोड्य्				
+10	गुडाकेश	1	गुडाकेश	गुडाकेश{पुं}{8;एक}	गुडाकेश{पुं}{8;एक}	सम्बोध्यः,5	हे_अर्जुन	औ_आर्जुन				
+11	यत्	12	यच्चान्यद्द्रष्टुमिच्छसि	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,14;नित्य_सम्बन्धः,15.1	जो	ट्हट्				
+12	अन्यत्	11	अन्यत्_च	अन्यत्{अव्य}/अन्य{नपुं}{1;एक}/अन्य{नपुं}{2;एक}	अन्य{नपुं}{1;एक}_च{अव्य}	विशेषणम्,11	और_भी	ओट्हेर्_अल्सो				
+13	च	13	0	च/च{अव्य}	च/च{अव्य}	सम्बन्धः,15						
+14	द्रष्टुम्	14	द्रष्टुमिच्छसि	दृश्1{अव्य;तुमुन्;दृशिँर्;:भ्वादिः}	दृश्1{अव्य;तुमुन्;दृशिँर्;:भ्वादिः}	कर्म,15	देखना_चाहता_हो	लिके_टो_सेए				
+15	इच्छसि	15	0	इष्2{कर्तरि;लट्;म;एक;परस्मैपदी;इषुँ;तुदादिः}	इष्2{कर्तरि;लट्;म;एक;परस्मैपदी;इषुँ;तुदादिः}							
+15.1	(तत्)	16	(यच्चान्यद्द्रष्टुमिच्छसि)	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	कर्म,15.2	जो	ट्हट्				
+15.2	पश्य	17	पश्याद्य	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}		देख	सेए				

@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	rAgI	1	rAgI	rAgin{puM}{1;eka}	rAgin{puM}{1;eka}	viSeRaNam,7	Asakwi_se_yukwa	very_much_attached				
-2	karma-Pala-prepsuH	2	karmaPalaprepsurlubXo	karman-Pala-prepsu{puM}{1;eka}	karman-Pala-prepsu{puM}{1;eka}	viSeRaNam,7	karmoM_ke_Pala_ko_cAhanevAlA	desirous_of_the_fruits_of_work	<<karma-Pala>T6-prepsuH>T6			
-3	lubXaH	3	0	lubXa{puM}{1;eka}	lubXa{puM}{1;eka}	viSeRaNam,7	loBI_hE	greedy				
-4	hiMsA-AwmakaH	4	hiMsAwmakoZSuciH	hiMsAwmaka{puM}{1;eka}	hiMsA-Awmaka{puM}{1;eka}	viSeRaNam,7	xUsaroM_ko_kaRta_xene_ke_svaBAvavAlA	always_envious	<hiMsA-AwmakaH>Bs6			
-5	a-SuciH	5	0	aSuci{puM}{1;eka}/aSuci{swrI}{1;eka}	aSuci{puM}{1;eka}	viSeRaNam,7	aSuxXAcArI	unclean	<na-SuciH>Tn			
-6	harRa-Soka-anviwaH	6	harRaSokAnviwaH	harRa-Soka-anviwa{puM}{1;eka}	harRa-Soka-anviwa{puM}{1;eka}	viSeRaNam,7	harRa-Soka_se_lipwa_hE	complicated_with_joy_and_sorrow	<<harRa-Soka>Di-anviwaH>T3			
-7	karwA	7	karwA	karwq{puM}{1;eka}/kq3{karwari;lut;pra;eka;parasmEpaxI;dukqF;wanAxiH}/kq3{karwari;lut;pra;eka;AwmanepaxI;dukqF;wanAxiH}	karwq{puM}{1;eka}	karma,9	karwA	such_a_worker				
-8	rAjasaH	8	rAjasaH	rAjasa{puM}{1;eka}	rAjasa{puM}{1;eka}	karmasamAnAXikaraNam,9	rAjasa	in_the_mode_of_passion				
-9	parikIrwiwaH	9	parikIrwiwaH	parikIrwiwa{puM}{1;eka}	pari_kQw1{kqw_prawyayaH:kwa;pari_kQwaz;curAxiH;puM}{1;eka}	aBihiwa_karma,7	kahA_gayA_hE	is_declared				
+1	रागी	1	रागी	रागिन्{पुं}{1;एक}	रागिन्{पुं}{1;एक}	विशेषणम्,7	आसक्ति_से_युक्त	वेर्य्_मुच्ह्_अट्टच्हेड्				
+2	कर्म-फल-प्रेप्सुः	2	कर्मफलप्रेप्सुर्लुब्धो	कर्मन्-फल-प्रेप्सु{पुं}{1;एक}	कर्मन्-फल-प्रेप्सु{पुं}{1;एक}	विशेषणम्,7	कर्मों_के_फल_को_चाहनेवाला	डेसिरोउस्_ओङ्_ट्हे_ङ्रुइट्स्_ओङ्_तोर्क्	<<कर्म-फल>ठ्6-प्रेप्सुः>ठ्6			
+3	लुब्धः	3	0	लुब्ध{पुं}{1;एक}	लुब्ध{पुं}{1;एक}	विशेषणम्,7	लोभी_है	ग्रेएड्य्				
+4	हिंसा-आत्मकः	4	हिंसात्मकोऽशुचिः	हिंसात्मक{पुं}{1;एक}	हिंसा-आत्मक{पुं}{1;एक}	विशेषणम्,7	दूसरों_को_कष्ट_देने_के_स्वभाववाला	अल्तय्स्_एन्विओउस्	<हिंसा-आत्मकः>भ्स्6			
+5	अ-शुचिः	5	0	अशुचि{पुं}{1;एक}/अशुचि{स्त्री}{1;एक}	अशुचि{पुं}{1;एक}	विशेषणम्,7	अशुद्धाचारी	उन्च्लेअन्	<न-शुचिः>ठ्न्			
+6	हर्ष-शोक-अन्वितः	6	हर्षशोकान्वितः	हर्ष-शोक-अन्वित{पुं}{1;एक}	हर्ष-शोक-अन्वित{पुं}{1;एक}	विशेषणम्,7	हर्ष-शोक_से_लिप्त_है	चोम्प्लिचटेड्_तिट्ह्_जोय्_अन्ड्_सोर्रोत्	<<हर्ष-शोक>ढि-अन्वितः>ठ्3			
+7	कर्ता	7	कर्ता	कर्तृ{पुं}{1;एक}/कृ3{कर्तरि;लुट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}/कृ3{कर्तरि;लुट्;प्र;एक;आत्मनेपदी;डुकृञ्;तनादिः}	कर्तृ{पुं}{1;एक}	कर्म,9	कर्ता	सुच्ह्_अ_तोर्केर्				
+8	राजसः	8	राजसः	राजस{पुं}{1;एक}	राजस{पुं}{1;एक}	कर्मसमानाधिकरणम्,9	राजस	इन्_ट्हे_मोडे_ओङ्_पस्सिओन्				
+9	परिकीर्तितः	9	परिकीर्तितः	परिकीर्तित{पुं}{1;एक}	परि_कॄत्1{कृत्_प्रत्ययः:क्त;परि_कॄतँ;चुरादिः;पुं}{1;एक}	अभिहित_कर्म,7	कहा_गया_है	इस्_डेच्लरेड्				

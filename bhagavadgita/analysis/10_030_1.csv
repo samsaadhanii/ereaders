@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	prahlAxaH	3	prahlAxaScAsmi	prahlAxaH	prahlAxa{puM}{1;eka}	viXeya_viSeRaNam,3	prahlAxa	Prahlada				
-2	ca	4	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,1	Ora	also				
-3	asmi	7	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,7;akarmakaH	hUz	am				
-4	xEwyAnAm	2	xEwyAnAM	xEwya{puM}{6;bahu}/xEwyA{swrI}{6;bahu}	xEwya{puM}{6;bahu}	nirXAraNam,1	xEwyoM_meM	of_the_demons				
-5	kAlaH	6	kAlaH	kAla{puM}{1;eka}	kAla{puM}{1;eka}	sup_samucciwaH,1	samaya	time				
-6	kalayawAm	5	kalayawAmaham	kalayaw{puM}{6;bahu}/kalayaw{napuM}{6;bahu}/kala1{karwari;lot;pra;xvi;parasmEpaxI;kala;curAxiH}/kala1{karwari;lot;pra;eka;AwmanepaxI;kala;curAxiH}/kal2_Nic{karwari;lot;pra;eka;AwmanepaxI;kalaz;curAxiH}/kal2_Nic{karwari;lot;pra;xvi;parasmEpaxI;kalaz;curAxiH}/kal3_Nic{karwari;lot;pra;eka;AwmanepaxI;kalaz;curAxiH}/kal3_Nic{karwari;lot;pra;xvi;parasmEpaxI;kalaz;curAxiH}/kala1_Nic{karwari;lot;pra;eka;AwmanepaxI;kala;curAxiH}/kala1_Nic{karwari;lot;pra;xvi;parasmEpaxI;kala;curAxiH}	kal2_Nic{kqw_prawyayaH:Sawq;kalaz_Nic;curAxiH;puM}{6;bahu}	nirXAraNam,5	gaNanA_karanevAloM_kA	of_subduers				
-7	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,3	mEM	I				
-8	mqgANAm	10	mqgANAM	mqga{puM}{6;bahu}	mqga{puM}{6;bahu}	nirXAraNam,10	paSuoM_meM	of_animals				
-9	ca	8	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	waWA	and				
-10	mqga-inxraH	11	mqgenxroZhaM	mqga-inxra{puM}{1;eka}	mqgenxra{puM}{1;eka}	sup_samucciwaH,12	mqgarAja_siMha	the_lion	<mqga-inxraH>T6			
-11	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,14.1	mEM	I				
-12	vEnaweyaH	14	vEnaweyaSca	vEnaweya{puM}{1;eka}	vEnaweya{puM}{1;eka}	viXeya_viSeRaNam,14.1	garuda़	Garuda				
-13	ca	12	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora	also				
-14	pakRiNAm	13	pakRiNAm	pakRin{puM}{6;bahu}	pakRin{puM}{6;bahu}	nirXAraNam,12	pakRiyoM_meM	of_birds				
-14.1	(asmi)	15	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hUz)	am				
+1	प्रह्लादः	3	प्रह्लादश्चास्मि	प्रह्लादः	प्रह्लाद{पुं}{1;एक}	विधेय_विशेषणम्,3	प्रह्लाद	फ्रह्लड				
+2	च	4	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,1	और	अल्सो				
+3	अस्मि	7	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,7;अकर्मकः	हूँ	अम्				
+4	दैत्यानाम्	2	दैत्यानां	दैत्य{पुं}{6;बहु}/दैत्या{स्त्री}{6;बहु}	दैत्य{पुं}{6;बहु}	निर्धारणम्,1	दैत्यों_में	ओङ्_ट्हे_डेमोन्स्				
+5	कालः	6	कालः	काल{पुं}{1;एक}	काल{पुं}{1;एक}	सुप्_समुच्चितः,1	समय	टिमे				
+6	कलयताम्	5	कलयतामहम्	कलयत्{पुं}{6;बहु}/कलयत्{नपुं}{6;बहु}/कल1{कर्तरि;लोट्;प्र;द्वि;परस्मैपदी;कल;चुरादिः}/कल1{कर्तरि;लोट्;प्र;एक;आत्मनेपदी;कल;चुरादिः}/कल्2_णिच्{कर्तरि;लोट्;प्र;एक;आत्मनेपदी;कलँ;चुरादिः}/कल्2_णिच्{कर्तरि;लोट्;प्र;द्वि;परस्मैपदी;कलँ;चुरादिः}/कल्3_णिच्{कर्तरि;लोट्;प्र;एक;आत्मनेपदी;कलँ;चुरादिः}/कल्3_णिच्{कर्तरि;लोट्;प्र;द्वि;परस्मैपदी;कलँ;चुरादिः}/कल1_णिच्{कर्तरि;लोट्;प्र;एक;आत्मनेपदी;कल;चुरादिः}/कल1_णिच्{कर्तरि;लोट्;प्र;द्वि;परस्मैपदी;कल;चुरादिः}	कल्2_णिच्{कृत्_प्रत्ययः:शतृ;कलँ_णिच्;चुरादिः;पुं}{6;बहु}	निर्धारणम्,5	गणना_करनेवालों_का	ओङ्_सुब्डुएर्स्				
+7	अहम्	1	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,3	मैं	ई				
+8	मृगाणाम्	10	मृगाणां	मृग{पुं}{6;बहु}	मृग{पुं}{6;बहु}	निर्धारणम्,10	पशुओं_में	ओङ्_अनिमल्स्				
+9	च	8	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,10	तथा	अन्ड्				
+10	मृग-इन्द्रः	11	मृगेन्द्रोऽहं	मृग-इन्द्र{पुं}{1;एक}	मृगेन्द्र{पुं}{1;एक}	सुप्_समुच्चितः,12	मृगराज_सिंह	ट्हे_लिओन्	<मृग-इन्द्रः>ठ्6			
+11	अहम्	9	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,14.1	मैं	ई				
+12	वैनतेयः	14	वैनतेयश्च	वैनतेय{पुं}{1;एक}	वैनतेय{पुं}{1;एक}	विधेय_विशेषणम्,14.1	गरुडॆअञ	घरुड				
+13	च	12	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,12	और	अल्सो				
+14	पक्षिणाम्	13	पक्षिणाम्	पक्षिन्{पुं}{6;बहु}	पक्षिन्{पुं}{6;बहु}	निर्धारणम्,12	पक्षियों_में	ओङ्_बिर्ड्स्				
+14.1	(अस्मि)	15	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,11;अकर्मकः	(हूँ)	अम्				

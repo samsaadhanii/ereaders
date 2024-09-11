@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	evam	1	evaM	evam{avya}	evam{avya}	sambanXaH,4	isa_prakAra	thus				
-2	bahu-viXAH	2	bahuviXA	bahuviXa{puM}{1;bahu}/bahuviXa{puM}{8;bahu}/bahuviXA{swrI}{1;bahu}/bahuviXA{swrI}{2;bahu}/bahuviXA{swrI}{8;bahu}	bahuviXa{puM}{1;bahu}	viSeRaNam,3	bahuwa_waraha_ke	various_kinds_of	<bahu-viXAH>Bs6			
-3	yajFAH	3	yajFA	yajFa{puM}{1;bahu}/yajFa{puM}{8;bahu}	yajFa{puM}{1;bahu}	karwA,4	yajFa	sacrifices				
-4	viwawAH	6	viwawA	viwawa{puM}{1;bahu}/viwawa{puM}{8;bahu}/viwawA{swrI}{1;bahu}/viwawA{swrI}{2;bahu}/viwawA{swrI}{8;bahu}	wan1{kqw_prawyayaH:kwa;wanuz;wanAxiH;puM}{1;bahu}		viswAra_se_kahe_gaye_hEM	widespread				
-5	brahmaNaH	4	brahmaNo	brahman{puM}{2;bahu}/brahman{puM}{5;eka}/brahman{puM}{6;eka}/brahman{napuM}{5;eka}/brahman{napuM}{6;eka}	brahman{napuM}{6;eka}	RaRTIsambanXaH,6	vexa_kI	of_the_Vedas				
-6	muKe	5	muKe	muKa{puM}{7;eka}/muKa{napuM}{1;xvi}/muKa{napuM}{2;xvi}/muKa{napuM}{7;eka}/muKa{napuM}{8;xvi}	muKa{napuM}{7;eka}	aXikaraNam,4	vANI_meM	in_the_face_of				
-7	karma-jAn	10	karmajAnvixXi	karmaja{puM}{2;bahu}	karmaja{puM}{2;bahu}	karmasamAnAXikaraNam,8	mana_inxriya_Ora_SarIra_kI_kriyA_xvArA_sampanna_honevAle	born_of_work	<karma-jAn>U			
-8	vixXi	11		vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,10.1;sakarmakaH	jAna	should_know				
-9	wAn	8	wAnsarvAnevaM	wax{puM}{2;bahu}	wax{puM}{2;bahu}	viSeRaNam,10	una	them				
-10	sarvAn	9		sarva{puM}{2;bahu}	sarva{puM}{2;bahu}	karma,8	sabako	all				
-10.1	(wvam)	7	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wuma)	you				
-11	evam	12		evam{avya}	evam{avya}	kriyAviSeRaNam,12	isa_prakAra	thus				
-12	jFAwvA	13	jFAwvA	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,13	jAnakara	knowing				
-13	vimokRyase	15	vimokRyase	vimokRyase	vi_muc1{karwari;lqt;ma;eka;AwmanepaxI;vi_mucLz;wuxAxiH}	aBihiwakarwA,13.1;akarmakaH	mukwa_ho_jAoge	be_liberated				
-13.1	(wvam)	14	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,13	(wuma)	you				
+1	एवम्	1	एवं	एवम्{अव्य}	एवम्{अव्य}	सम्बन्धः,4	इस_प्रकार	ट्हुस्				
+2	बहु-विधाः	2	बहुविधा	बहुविध{पुं}{1;बहु}/बहुविध{पुं}{8;बहु}/बहुविधा{स्त्री}{1;बहु}/बहुविधा{स्त्री}{2;बहु}/बहुविधा{स्त्री}{8;बहु}	बहुविध{पुं}{1;बहु}	विशेषणम्,3	बहुत_तरह_के	वरिओउस्_किन्ड्स्_ओङ्	<बहु-विधाः>भ्स्6			
+3	यज्ञाः	3	यज्ञा	यज्ञ{पुं}{1;बहु}/यज्ञ{पुं}{8;बहु}	यज्ञ{पुं}{1;बहु}	कर्ता,4	यज्ञ	सच्रिङिचेस्				
+4	वितताः	6	वितता	वितत{पुं}{1;बहु}/वितत{पुं}{8;बहु}/वितता{स्त्री}{1;बहु}/वितता{स्त्री}{2;बहु}/वितता{स्त्री}{8;बहु}	तन्1{कृत्_प्रत्ययः:क्त;तनुँ;तनादिः;पुं}{1;बहु}		विस्तार_से_कहे_गये_हैं	तिडेस्प्रेअड्				
+5	ब्रह्मणः	4	ब्रह्मणो	ब्रह्मन्{पुं}{2;बहु}/ब्रह्मन्{पुं}{5;एक}/ब्रह्मन्{पुं}{6;एक}/ब्रह्मन्{नपुं}{5;एक}/ब्रह्मन्{नपुं}{6;एक}	ब्रह्मन्{नपुं}{6;एक}	षष्ठीसम्बन्धः,6	वेद_की	ओङ्_ट्हे_Vएडस्				
+6	मुखे	5	मुखे	मुख{पुं}{7;एक}/मुख{नपुं}{1;द्वि}/मुख{नपुं}{2;द्वि}/मुख{नपुं}{7;एक}/मुख{नपुं}{8;द्वि}	मुख{नपुं}{7;एक}	अधिकरणम्,4	वाणी_में	इन्_ट्हे_ङचे_ओङ्				
+7	कर्म-जान्	10	कर्मजान्विद्धि	कर्मज{पुं}{2;बहु}	कर्मज{पुं}{2;बहु}	कर्मसमानाधिकरणम्,8	मन_इन्द्रिय_और_शरीर_की_क्रिया_द्वारा_सम्पन्न_होनेवाले	बोर्न्_ओङ्_तोर्क्	<कर्म-जान्>ऊ			
+8	विद्धि	11		विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,10.1;सकर्मकः	जान	स्होउल्ड्_क्नोत्				
+9	तान्	8	तान्सर्वानेवं	तद्{पुं}{2;बहु}	तद्{पुं}{2;बहु}	विशेषणम्,10	उन	ट्हेम्				
+10	सर्वान्	9		सर्व{पुं}{2;बहु}	सर्व{पुं}{2;बहु}	कर्म,8	सबको	अल्ल्				
+10.1	(त्वम्)	7	()	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,8	(तुम)	योउ				
+11	एवम्	12		एवम्{अव्य}	एवम्{अव्य}	क्रियाविशेषणम्,12	इस_प्रकार	ट्हुस्				
+12	ज्ञात्वा	13	ज्ञात्वा	ज्ञा1{कृत्_प्रत्ययः:क्त्वा;ज्ञा;भ्वादिः}/ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	पूर्वकालः,13	जानकर	क्नोतिन्ग्				
+13	विमोक्ष्यसे	15	विमोक्ष्यसे	विमोक्ष्यसे	वि_मुच्1{कर्तरि;लृट्;म;एक;आत्मनेपदी;वि_मुचॢँ;तुदादिः}	अभिहितकर्ता,13.1;अकर्मकः	मुक्त_हो_जाओगे	बे_लिबेरटेड्				
+13.1	(त्वम्)	14	()	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,13	(तुम)	योउ				

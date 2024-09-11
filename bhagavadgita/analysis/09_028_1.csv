@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SuBa-a-SuBa-PalEH	3	SuBASuBaPalErevaM	SuBa-aSuBa-Pala{napuM}{3;bahu}	SuBa-aSuBa-Pala{napuM}{3;bahu}	viSeRaNam,4	SuBASuBa_PalarUpa	good_and_evil_results	<<SuBa-<na-SuBa>Tn>Di-PalEH>T6			
-2	evam	1	0	evam{avya}	evam{avya}	sambanXaH,3	isa_prakAra	thus				
-3	mokRyase	5	mokRyase	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muc1{karmaNi;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muh1{BAve;lqt;ma;eka;AwmanepaxI;muhaz;xivAxiH}	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}	aBihiwa_karwA,4.1;sakarmakaH	 mukwa ho jAoge	free				
-4	karma-banXanEH	4	karmabanXanEH	karman-banXana{napuM}{3;bahu}	karman-banXana{napuM}{3;bahu}	karaNam,3	karmabanXana_se	bondage_of_action	<karma-banXanEH>K6			
-4.1	(wvam)	2	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,3	(wuma)	you				
-5	sannyAsa-yoga-yukwa-AwmA	6	sannyAsayogayukwAwmA	sannyAsa-yoga-yukwa-Awman{puM}{1;eka}	sannyAsa-yoga-yukwa-Awman{puM}{1;eka}	viSeRaNam,8.1	jisameM_samaswa_karma_muJa_BagavAn_ke_arpaNa_howe_hEM_Ese_saMnyAsayoga_se_yukwa_ciwwavAlA	having_the_mind_firmly_set_on_renunciation_and_yoga	<<<saMnyAsa-yoga>K3-yukwa>T3-AwmA>Bs6			
-6	vi-mukwaH	7	vimukwo	vi-mukwa{puM}{1;eka}	vi_muc1{kqw_prawyayaH:kwa;vi_mucLz;wuxAxiH;puM}{1;eka}	viSeRaNam,8.1	sabase_ mukwa hokara 	liberated	<vi-mukwaH>Bvp			
-7	mAm	9	mAmupERyasi	asmax{2;eka}	asmax{2;eka}	karma,8	muJako_hI	to_Me				
-8	upERyasi	10	0	upa_i1{karwari;lqt;ma;eka;parasmEpaxI;iN;axAxiH}	upa_i1{karwari;lqt;ma;eka;parasmEpaxI;upa_iN;axAxiH}	aBihiwa_karwA,8.1;sakarmakaH	 prApwa ho jAoge  	will_attain				
-8.1	(wvam)	8	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wuma)	you				
+1	शुभ-अ-शुभ-फलैः	3	शुभाशुभफलैरेवं	शुभ-अशुभ-फल{नपुं}{3;बहु}	शुभ-अशुभ-फल{नपुं}{3;बहु}	विशेषणम्,4	शुभाशुभ_फलरूप	गोओड्_अन्ड्_एविल्_रेसुल्ट्स्	<<शुभ-<न-शुभ>ठ्न्>ढि-फलैः>ठ्6			
+2	एवम्	1	0	एवम्{अव्य}	एवम्{अव्य}	सम्बन्धः,3	इस_प्रकार	ट्हुस्				
+3	मोक्ष्यसे	5	मोक्ष्यसे	मुच्1{कर्तरि;लृट्;म;एक;आत्मनेपदी;मुचॢँ;तुदादिः}/मुच्1{कर्मणि;लृट्;म;एक;आत्मनेपदी;मुचॢँ;तुदादिः}/मुह्1{भावे;लृट्;म;एक;आत्मनेपदी;मुहँ;दिवादिः}	मुच्1{कर्तरि;लृट्;म;एक;आत्मनेपदी;मुचॢँ;तुदादिः}	अभिहित_कर्ता,4.1;सकर्मकः	 मुक्त हो जाओगे	ङ्रेए				
+4	कर्म-बन्धनैः	4	कर्मबन्धनैः	कर्मन्-बन्धन{नपुं}{3;बहु}	कर्मन्-बन्धन{नपुं}{3;बहु}	करणम्,3	कर्मबन्धन_से	बोन्डगे_ओङ्_अच्टिओन्	<कर्म-बन्धनैः>ख्6			
+4.1	(त्वम्)	2	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,3	(तुम)	योउ				
+5	सन्न्यास-योग-युक्त-आत्मा	6	सन्न्यासयोगयुक्तात्मा	सन्न्यास-योग-युक्त-आत्मन्{पुं}{1;एक}	सन्न्यास-योग-युक्त-आत्मन्{पुं}{1;एक}	विशेषणम्,8.1	जिसमें_समस्त_कर्म_मुझ_भगवान्_के_अर्पण_होते_हैं_ऐसे_संन्यासयोग_से_युक्त_चित्तवाला	हविन्ग्_ट्हे_मिन्ड्_ङिर्म्ल्य्_सेट्_ओन्_रेनुन्चिअटिओन्_अन्ड्_योग	<<<संन्यास-योग>ख्3-युक्त>ठ्3-आत्मा>भ्स्6			
+6	वि-मुक्तः	7	विमुक्तो	वि-मुक्त{पुं}{1;एक}	वि_मुच्1{कृत्_प्रत्ययः:क्त;वि_मुचॢँ;तुदादिः;पुं}{1;एक}	विशेषणम्,8.1	सबसे_ मुक्त होकर 	लिबेरटेड्	<वि-मुक्तः>भ्व्प्			
+7	माम्	9	मामुपैष्यसि	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,8	मुझको_ही	टो_ंए				
+8	उपैष्यसि	10	0	उप_इ1{कर्तरि;लृट्;म;एक;परस्मैपदी;इण्;अदादिः}	उप_इ1{कर्तरि;लृट्;म;एक;परस्मैपदी;उप_इण्;अदादिः}	अभिहित_कर्ता,8.1;सकर्मकः	 प्राप्त हो जाओगे  	तिल्ल्_अट्टइन्				
+8.1	(त्वम्)	8	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,8	(तुम)	योउ				

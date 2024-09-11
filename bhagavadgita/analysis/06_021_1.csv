@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	suKam	5	suKamAwyanwikaM	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{1;eka}	karwA,3.1	Ananxa	happiness				
-2	Awyanwikam	4	0	Awyanwika{puM}{2;eka}/Awyanwika{napuM}{1;eka}/Awyanwika{napuM}{1;eka}	Awyanwika{napuM}{1;eka}	viSeRaNam,1	ananwa	supreme				
-3	yaw	3	yawwaxbuxXigrAhyamawIinxriyam	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,1;niwya_sambanXaH,4	jo	in_which				
-3.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,3;akarmakaH	(hE)	is				
-4	waw	7	waw	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,7	usako	that				
-5	buxXi-grAhyam	2	0	buxXi-grAhya{napuM}{1;eka}/grAhya{napuM}{2;eka}	buxXi-grAhya{napuM}{1;eka}	viSeRaNam,1	kevala_SuxXa_huI_sUkRma_buxXi_xvArA_grahaNa_karaneyogya	accessible_intelligence	<buxXi-grAhyam>T3			
-6	awi-inxriyam	1	0	awi-inxriya{puM}{2;eka}/inxriya{napuM}{1;eka}/inxriya{napuM}{2;eka}	awi-inxriya{napuM}{1;eka}	viSeRaNam,1	inxriyoM_se_awIwa	transcendental	<awi-inxriyam>T2			
-7	vewwi	8	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}		anuBava_karawA_hE	knows				
-8	yawra	10	yawra	yawra{avya}	yawra{avya}	aXikaraNam,13	jisa_avasWA_meM	wherein				
-9	na	14	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	never				
-10	ca	9	cEvAyaM	ca{avya}	ca{avya}	sambanXaH,14	Ora	also				
-11	eva	15	0	eva{avya}	eva{avya}	sambanXaH,14	hI	certainly				
-12	ayam	12	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karwA,14	yaha_(yogI)	in_this				
-13	sWiwaH	11	sWiwaScalawi	sWiwa{puM}{1;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;eka}	viSeRaNam,12	sWiwa	situated				
-14	calawi	16	0	calaw{puM}{7;eka}/calaw{napuM}{7;eka}/cal1{karwari;lat;pra;eka;parasmEpaxI;calaz;BvAxiH}/cal2{karwari;lat;pra;eka;parasmEpaxI;calaz;wuxAxiH}	cal1{karwari;lat;pra;eka;parasmEpaxI;calaz;BvAxiH}		vicaliwa_howA_hE	moves				
-15	wawwvawaH	13	wawwvawaH	wawwvawaH{avya}	wawwvawaH{avya}	apAxAnam,14	paramAwmA_ke_svarUpa_se	from_the_truth				
+1	सुखम्	5	सुखमात्यन्तिकं	सुखम्{अव्य}/सुख{पुं}{2;एक}/सुख{नपुं}{1;एक}/सुख{नपुं}{2;एक}	सुख{नपुं}{1;एक}	कर्ता,3.1	आनन्द	हप्पिनेस्स्				
+2	आत्यन्तिकम्	4	0	आत्यन्तिक{पुं}{2;एक}/आत्यन्तिक{नपुं}{1;एक}/आत्यन्तिक{नपुं}{1;एक}	आत्यन्तिक{नपुं}{1;एक}	विशेषणम्,1	अनन्त	सुप्रेमे				
+3	यत्	3	यत्तद्बुद्धिग्राह्यमतीइन्द्रियम्	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	विशेषणम्,1;नित्य_सम्बन्धः,4	जो	इन्_त्हिच्ह्				
+3.1	(अस्ति)	6	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,3;अकर्मकः	(है)	इस्				
+4	तत्	7	तत्	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	कर्म,7	उसको	ट्हट्				
+5	बुद्धि-ग्राह्यम्	2	0	बुद्धि-ग्राह्य{नपुं}{1;एक}/ग्राह्य{नपुं}{2;एक}	बुद्धि-ग्राह्य{नपुं}{1;एक}	विशेषणम्,1	केवल_शुद्ध_हुई_सूक्ष्म_बुद्धि_द्वारा_ग्रहण_करनेयोग्य	अच्चेस्सिब्ले_इन्टेल्लिगेन्चे	<बुद्धि-ग्राह्यम्>ठ्3			
+6	अति-इन्द्रियम्	1	0	अति-इन्द्रिय{पुं}{2;एक}/इन्द्रिय{नपुं}{1;एक}/इन्द्रिय{नपुं}{2;एक}	अति-इन्द्रिय{नपुं}{1;एक}	विशेषणम्,1	इन्द्रियों_से_अतीत	ट्रन्स्चेन्डेन्टल्	<अति-इन्द्रियम्>ठ्2			
+7	वेत्ति	8	वेत्ति	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}		अनुभव_करता_है	क्नोत्स्				
+8	यत्र	10	यत्र	यत्र{अव्य}	यत्र{अव्य}	अधिकरणम्,13	जिस_अवस्था_में	त्हेरेइन्				
+9	न	14	न	न{अव्य}	न{अव्य}	प्रतिषेधः,14	नहीं	नेवेर्				
+10	च	9	चैवायं	च{अव्य}	च{अव्य}	सम्बन्धः,14	और	अल्सो				
+11	एव	15	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,14	ही	चेर्टइन्ल्य्				
+12	अयम्	12	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	कर्ता,14	यह_(योगी)	इन्_ट्हिस्				
+13	स्थितः	11	स्थितश्चलति	स्थित{पुं}{1;एक}	स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{1;एक}	विशेषणम्,12	स्थित	सिटुअटेड्				
+14	चलति	16	0	चलत्{पुं}{7;एक}/चलत्{नपुं}{7;एक}/चल्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;चलँ;भ्वादिः}/चल्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;चलँ;तुदादिः}	चल्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;चलँ;भ्वादिः}		विचलित_होता_है	मोवेस्				
+15	तत्त्वतः	13	तत्त्वतः	तत्त्वतः{अव्य}	तत्त्वतः{अव्य}	अपादानम्,14	परमात्मा_के_स्वरूप_से	ङ्रोम्_ट्हे_ट्रुट्ह्				

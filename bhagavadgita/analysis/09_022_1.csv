@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	an-anyAH	2	ananyAScinwayanwo	ananyA{swrI}{1;bahu}/ananyA{swrI}{2;bahu}/ananyA{swrI}{8;bahu}	ananya{puM}{1;bahu}	viSeRaNam,5	ananya_premI	no_other	<na-anyAH>Bsmn			
-2	cinwayanwaH	5	0	cinwayaw{puM}{1;bahu}/cinwayaw{puM}{8;bahu}	cinw1{kqw_prawyayaH:Sawq;ciwiz;curAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,6	niranwara_cinwana_karawe_hue	concentrating				
-3	mAm	4	mAM	asmax{2;eka}	asmax{2;eka}	karma,2	muJako_(parameSvara_ko)	unto_Me				
-4	ye	1	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,5;niwya_sambanXaH,7	jo	who				
-5	janAH	3	janAH	jana{puM}{1;bahu}/jana{puM}{8;bahu}	jana{puM}{1;bahu}	karwA,6	Bakwajana	persons				
-6	paryupAsawe	6	paryupAsawe	paryupAsawe	pari_upa_As1{karwari;lat;pra;bahu;AwmanepaxI;pari_upa_Asaz;axAxiH}	aBihiwa_karwA,5;akarmakaH	niRkAmaBAvase_Bajawe_hEM	properly_worship				
-7	weRAm	7	weRAM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	viSeRaNam,8	una	their				
-8	niwya-aBiyukwAnAm	8	niwyABiyukwAnAM	niwyABiyukwAnAm	niwya-aBi_yuj2{kqw_prawyayaH:kwa;aBi_yujizr;ruXAxiH;puM}{6;bahu}	RaRTIsambanXaH,9	niwya-niranwara_merA_cinwana_karanevAle_puruRoM_kA	always_fixed_in_devotion	<niwya-aBiyukwAnAm>K1			
-9	yoga-kRemam	9	yogakRemaM	yoga-kRema{puM}{2;eka}/kRema{napuM}{1;eka}/kRema{napuM}{2;eka}	yoga-kRema{puM}{2;eka}	karma,10	yogakRema	requirements	<yoga-kRemaM>Ds			
-10	vahAmi	11	vahAmyaham	vah1{karwari;lat;u;eka;parasmEpaxI;vahaz;BvAxiH}	vah1{karwari;lat;u;eka;parasmEpaxI;vahaz;BvAxiH}	aBihiwa_karwA,11;xvikarmakaH	prApwa_kara_xewA_hUz	carry				
-11	aham	10	0	asmax{1;eka}	asmax{1;eka}	karwA,10	mEM_(svayaM)	I				
+1	अन्-अन्याः	2	अनन्याश्चिन्तयन्तो	अनन्या{स्त्री}{1;बहु}/अनन्या{स्त्री}{2;बहु}/अनन्या{स्त्री}{8;बहु}	अनन्य{पुं}{1;बहु}	विशेषणम्,5	अनन्य_प्रेमी	नो_ओट्हेर्	<न-अन्याः>भ्स्म्न्			
+2	चिन्तयन्तः	5	0	चिन्तयत्{पुं}{1;बहु}/चिन्तयत्{पुं}{8;बहु}	चिन्त्1{कृत्_प्रत्ययः:शतृ;चितिँ;चुरादिः;पुं}{1;बहु}	वर्तमानसमानकालः,6	निरन्तर_चिन्तन_करते_हुए	चोन्चेन्ट्रटिन्ग्				
+3	माम्	4	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,2	मुझको_(परमेश्वर_को)	उन्टो_ंए				
+4	ये	1	ये	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	विशेषणम्,5;नित्य_सम्बन्धः,7	जो	त्हो				
+5	जनाः	3	जनाः	जन{पुं}{1;बहु}/जन{पुं}{8;बहु}	जन{पुं}{1;बहु}	कर्ता,6	भक्तजन	पेर्सोन्स्				
+6	पर्युपासते	6	पर्युपासते	पर्युपासते	परि_उप_आस्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;परि_उप_आसँ;अदादिः}	अभिहित_कर्ता,5;अकर्मकः	निष्कामभावसे_भजते_हैं	प्रोपेर्ल्य्_तोर्स्हिप्				
+7	तेषाम्	7	तेषां	तद्{पुं}{6;बहु}/तद्{नपुं}{6;बहु}	तद्{पुं}{6;बहु}	विशेषणम्,8	उन	ट्हेइर्				
+8	नित्य-अभियुक्तानाम्	8	नित्याभियुक्तानां	नित्याभियुक्तानाम्	नित्य-अभि_युज्2{कृत्_प्रत्ययः:क्त;अभि_युजिँर्;रुधादिः;पुं}{6;बहु}	षष्ठीसम्बन्धः,9	नित्य-निरन्तर_मेरा_चिन्तन_करनेवाले_पुरुषों_का	अल्तय्स्_ङिदेड्_इन्_डेवोटिओन्	<नित्य-अभियुक्तानाम्>ख्1			
+9	योग-क्षेमम्	9	योगक्षेमं	योग-क्षेम{पुं}{2;एक}/क्षेम{नपुं}{1;एक}/क्षेम{नपुं}{2;एक}	योग-क्षेम{पुं}{2;एक}	कर्म,10	योगक्षेम	रेऋउइरेमेन्ट्स्	<योग-क्षेमं>ढ्स्			
+10	वहामि	11	वहाम्यहम्	वह्1{कर्तरि;लट्;उ;एक;परस्मैपदी;वहँ;भ्वादिः}	वह्1{कर्तरि;लट्;उ;एक;परस्मैपदी;वहँ;भ्वादिः}	अभिहित_कर्ता,11;द्विकर्मकः	प्राप्त_कर_देता_हूँ	चर्र्य्				
+11	अहम्	10	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,10	मैं_(स्वयं)	ई				

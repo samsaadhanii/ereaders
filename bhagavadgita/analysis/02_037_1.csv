@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	hawaH	2	hawo	hawa{puM}{1;eka}/han1{karwari;lat;pra;xvi;parasmEpaxI;hanaz;axAxiH}	han1{kqw_prawyayaH:kwa;hanaz;axAxiH;puM}{1;eka}	viSeRaNam,4.1	mAre_jAkara	being_slain				
-2	vA	1	vA	vA{avya}	vA{avya}	sambanXaH,1	yA	either				
-3	prApsyasi	5	prApsyasi	pra_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ApLz;svAxiH}	pra_Ap1{karwari;lqt;ma;eka;parasmEpaxI;pra_ApLz;svAxiH}	aBihiwakarwA,4.1;sakarmakaH	prApwa_karoge	will_win				
-4	svargam	4	svargaM	svarga{puM}{2;eka}	svarga{puM}{2;eka}	karma,3	svarga_ko	heaven				
-4.1	(wvam)	3	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,3	(wuma)	you				
-5	jiwvA	8	jiwvA	ji1{kqw_prawyayaH:kwvA;ji;BvAxiH}	ji1{kqw_prawyayaH:kwvA;ji;BvAxiH}	pUrvakAlaH,7	jIwakara	by_conquering				
-6	vA	6	vA	vA{avya}	vA{avya}	sambanXaH,5	aWavA	or				
-7	BokRyase	10	BokRyase	Buj1{BAve;lqt;ma;eka;AwmanepaxI;Bujoz;wuxAxiH}/Buj2{karmaNi;lqt;ma;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{karwari;lqt;ma;eka;AwmanepaxI;Bujaz;ruXAxiH}	aBihiwakarwA,.1;sakarmakaH8	Bogoge	enjoy				
-8	mahIm	9	mahIm	mahI{swrI}{2;eka}	mahI{swrI}{2;eka}	karma,7	pqWvI_kA_rAjya	the_earth				
-8.1	(wvam)	7	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,7	(wuma)	you				
-9	wasmAw	11	wasmAxuwwiRTa	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{napuM}{5;eka}	hewuH,10	isa_kAraNa	therefore				
-10	uwwiRTa	16	0	ux_sWA1{karwari;lot;ma;eka;parasmEpaxI;RTA;BvAxiH}	ux_sWA1{karwari;lot;ma;eka;parasmEpaxI;ux_RTA;BvAxiH}	aBihiwakarwA,13.1;sakarmakaH,13.1	Kada़e_ho_jAo	stand_up				
-11	kOnweya	12	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,10	he_arjuna	O_son_of_Kunti				
-12	yuxXAya	13	yuxXAya	yuxXa{puM}{4;eka}/yuxXa{napuM}{4;eka}	yuxXa{napuM}{4;eka}	prayojanam,13	yuxXa_ke_liye	to_fight				
-13	kqwa-niScayaH	14	kqwaniScayaH	kqwa-niScaya{puM}{1;eka}	kqwa-niScaya{puM}{1;eka}	viSeRaNam,13.1	niScaya_karake	determined	<kqwa-niScayaH>Bs3			
-13.1	(wvam)	15	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,10	(wuma)	you				
+1	हतः	2	हतो	हत{पुं}{1;एक}/हन्1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;हनँ;अदादिः}	हन्1{कृत्_प्रत्ययः:क्त;हनँ;अदादिः;पुं}{1;एक}	विशेषणम्,4.1	मारे_जाकर	बेइन्ग्_स्लइन्				
+2	वा	1	वा	वा{अव्य}	वा{अव्य}	सम्बन्धः,1	या	एइट्हेर्				
+3	प्राप्स्यसि	5	प्राप्स्यसि	प्र_आप्1{कर्तरि;लृट्;म;एक;परस्मैपदी;आपॢँ;स्वादिः}	प्र_आप्1{कर्तरि;लृट्;म;एक;परस्मैपदी;प्र_आपॢँ;स्वादिः}	अभिहितकर्ता,4.1;सकर्मकः	प्राप्त_करोगे	तिल्ल्_तिन्				
+4	स्वर्गम्	4	स्वर्गं	स्वर्ग{पुं}{2;एक}	स्वर्ग{पुं}{2;एक}	कर्म,3	स्वर्ग_को	हेअवेन्				
+4.1	(त्वम्)	3	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,3	(तुम)	योउ				
+5	जित्वा	8	जित्वा	जि1{कृत्_प्रत्ययः:क्त्वा;जि;भ्वादिः}	जि1{कृत्_प्रत्ययः:क्त्वा;जि;भ्वादिः}	पूर्वकालः,7	जीतकर	ब्य्_चोनृउएरिन्ग्				
+6	वा	6	वा	वा{अव्य}	वा{अव्य}	सम्बन्धः,5	अथवा	ओर्				
+7	भोक्ष्यसे	10	भोक्ष्यसे	भुज्1{भावे;लृट्;म;एक;आत्मनेपदी;भुजोँ;तुदादिः}/भुज्2{कर्मणि;लृट्;म;एक;आत्मनेपदी;भुजँ;रुधादिः}	भुज्2{कर्तरि;लृट्;म;एक;आत्मनेपदी;भुजँ;रुधादिः}	अभिहितकर्ता,.1;सकर्मकः8	भोगोगे	एन्जोय्				
+8	महीम्	9	महीम्	मही{स्त्री}{2;एक}	मही{स्त्री}{2;एक}	कर्म,7	पृथ्वी_का_राज्य	ट्हे_एअर्ट्ह्				
+8.1	(त्वम्)	7	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,7	(तुम)	योउ				
+9	तस्मात्	11	तस्मादुत्तिष्ठ	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तद्{नपुं}{5;एक}	हेतुः,10	इस_कारण	ट्हेरेङोरे				
+10	उत्तिष्ठ	16	0	उद्_स्था1{कर्तरि;लोट्;म;एक;परस्मैपदी;ष्ठा;भ्वादिः}	उद्_स्था1{कर्तरि;लोट्;म;एक;परस्मैपदी;उद्_ष्ठा;भ्वादिः}	अभिहितकर्ता,13.1;सकर्मकः,13.1	खडॆअञए_हो_जाओ	स्टन्ड्_उप्				
+11	कौन्तेय	12	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,10	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+12	युद्धाय	13	युद्धाय	युद्ध{पुं}{4;एक}/युद्ध{नपुं}{4;एक}	युद्ध{नपुं}{4;एक}	प्रयोजनम्,13	युद्ध_के_लिये	टो_ङिग्ह्ट्				
+13	कृत-निश्चयः	14	कृतनिश्चयः	कृत-निश्चय{पुं}{1;एक}	कृत-निश्चय{पुं}{1;एक}	विशेषणम्,13.1	निश्चय_करके	डेटेर्मिनेड्	<कृत-निश्चयः>भ्स्3			
+13.1	(त्वम्)	15	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,10	(तुम)	योउ				

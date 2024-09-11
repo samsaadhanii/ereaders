@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sarva-yoniRu	2	sarvayoniRu	sarva-yoni{puM}{7;bahu}	sarva-yoni{swrI}{7;bahu}	aXikaraNam,4	nAnA_prakAra_kI_saba_yoniyoM_meM	in_all_species_of_life	<sarva-yoniRu>K1			
-2	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_of_Kunti				
-3	mUrwayaH	4	mUrwayaH	mUrwi{puM}{1;bahu}/mUrwi{puM}{8;bahu}/mUrwi{swrI}{1;bahu}/mUrwi{swrI}{8;bahu}	mUrwi{swrI}{1;bahu}	karwA,4	mUrwiyAz_arWAw_SarIraXArI_prANI	forms				
-4	samBavanwi	5	samBavanwi	sam_BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}	sam_BU1{karwari;lat;pra;bahu;parasmEpaxI;sam_BU;BvAxiH}	aBihiwakarwA,3;akarmakaH	uwpanna_howe_hEM	as_they_appear				
-5	yAH	3	yAH	yax{swrI}{1;bahu}/yax{swrI}{2;bahu}	yax{swrI}{1;bahu}	viSeRaNam,3;niwya_sambanXaH,6	jiwanI	which				
-6	wAsAm	8	wAsAM	wax{swrI}{6;bahu}	wax{swrI}{6;bahu}	RaRTIsambanXaH,9	unakI_(sabakI)	all_of_them				
-7	brahma	7	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwA,9.1	brahma	supreme				
-8	mahaw	6	mahaxyonirahaM	mahaw{napuM}{1;eka}/mahaw{napuM}{2;eka}	mahaw{napuM}{1;eka}	viSeRaNam,7	mahaw	the_material_substance				
-9	yoniH	9	0	yoni{puM}{1;eka}	yoni{puM}{1;eka}	viXeya_viSeRaNam,9.1	garBa_XAraNa_karanevAlI_mAwA	the_source_of_birth				
-9.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,7;akarmakaH	(hE)	is				
-10	aham	11	0	asmax{1;eka}	asmax{1;eka}	karwA,12.1	mEM	I				
-11	bIja-pra-xaH	12	bIjapraxaH	bIja-praxa{puM}{1;eka}	bIja-praxa{puM}{1;eka}	viSeRaNam,12	bIja_ko_sWApana_karanevAlA	seed-giving	<bIja-<pra-xaH>U>T6			
-12	piwA	13	piwA	piwq{puM}{1;eka}	piwq{puM}{1;eka}	viXeya_viSeRaNam,12.1	piwA	father				
-12.1	(asmi)	14	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10;akarmakaH	(hUz)	am				
+1	सर्व-योनिषु	2	सर्वयोनिषु	सर्व-योनि{पुं}{7;बहु}	सर्व-योनि{स्त्री}{7;बहु}	अधिकरणम्,4	नाना_प्रकार_की_सब_योनियों_में	इन्_अल्ल्_स्पेचिएस्_ओङ्_लिङे	<सर्व-योनिषु>ख्1			
+2	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,4	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+3	मूर्तयः	4	मूर्तयः	मूर्ति{पुं}{1;बहु}/मूर्ति{पुं}{8;बहु}/मूर्ति{स्त्री}{1;बहु}/मूर्ति{स्त्री}{8;बहु}	मूर्ति{स्त्री}{1;बहु}	कर्ता,4	मूर्तियाँ_अर्थात्_शरीरधारी_प्राणी	ङोर्म्स्				
+4	सम्भवन्ति	5	सम्भवन्ति	सम्_भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}	सम्_भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;सम्_भू;भ्वादिः}	अभिहितकर्ता,3;अकर्मकः	उत्पन्न_होते_हैं	अस्_ट्हेय्_अप्पेअर्				
+5	याः	3	याः	यद्{स्त्री}{1;बहु}/यद्{स्त्री}{2;बहु}	यद्{स्त्री}{1;बहु}	विशेषणम्,3;नित्य_सम्बन्धः,6	जितनी	त्हिच्ह्				
+6	तासाम्	8	तासां	तद्{स्त्री}{6;बहु}	तद्{स्त्री}{6;बहु}	षष्ठीसम्बन्धः,9	उनकी_(सबकी)	अल्ल्_ओङ्_ट्हेम्				
+7	ब्रह्म	7	ब्रह्म	ब्रह्मन्{नपुं}{1;एक}/ब्रह्मन्{नपुं}{2;एक}	ब्रह्मन्{नपुं}{1;एक}	कर्ता,9.1	ब्रह्म	सुप्रेमे				
+8	महत्	6	महद्योनिरहं	महत्{नपुं}{1;एक}/महत्{नपुं}{2;एक}	महत्{नपुं}{1;एक}	विशेषणम्,7	महत्	ट्हे_मटेरिअल्_सुब्स्टन्चे				
+9	योनिः	9	0	योनि{पुं}{1;एक}	योनि{पुं}{1;एक}	विधेय_विशेषणम्,9.1	गर्भ_धारण_करनेवाली_माता	ट्हे_सोउर्चे_ओङ्_बिर्ट्ह्				
+9.1	(अस्ति)	10	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,7;अकर्मकः	(है)	इस्				
+10	अहम्	11	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,12.1	मैं	ई				
+11	बीज-प्र-दः	12	बीजप्रदः	बीज-प्रद{पुं}{1;एक}	बीज-प्रद{पुं}{1;एक}	विशेषणम्,12	बीज_को_स्थापन_करनेवाला	सेएड्-गिविन्ग्	<बीज-<प्र-दः>ऊ>ठ्6			
+12	पिता	13	पिता	पितृ{पुं}{1;एक}	पितृ{पुं}{1;एक}	विधेय_विशेषणम्,12.1	पिता	ङट्हेर्				
+12.1	(अस्मि)	14	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,10;अकर्मकः	(हूँ)	अम्				

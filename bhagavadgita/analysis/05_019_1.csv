@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	iha	6	ihEva	iha{avya}	iha{avya}	aXikaraNam,4	yahAz_(isa_jIviwa_avasWA_meM)	in_this_life				
-2	eva	7	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
-3	wEH	5	wErjiwaH	wax{puM}{3;bahu}/wax{napuM}{3;bahu}	wax{puM}{3;bahu}	karwA,4;niwya_sambanXaH,6	unake_xvArA	by_them				
-4	jiwaH	9	0	jiw{puM}{1;bahu}/jiw{puM}{2;bahu}/jiw{puM}{5;eka}/jiw{puM}{6;eka}/jiwa{puM}{1;eka}	ji1{kqw_prawyayaH:kwa;ji;BvAxiH;puM}{1;eka}	aBihiwa_karma,3;sakarmakaH	jIwa_liyA_gayA_hE	conquered				
-5	sargaH	8	sargo	sarga{puM}{1;eka}	sarga{puM}{1;eka}	karma,4	sampUrNa_saMsAra	birth_and_death				
-6	yeRAm	1	yeRAM	yax{puM}{6;bahu}/yax{napuM}{6;bahu}	yax{puM}{6;bahu}	RaRTIsambanXaH,9	jinakA	of_those				
-7	sAmye	3	sAmye	sAmya{puM}{7;eka}/sAmya{napuM}{1;xvi}/sAmya{napuM}{2;xvi}/sAmya{napuM}{7;eka}/sAmyA{swrI}{1;xvi}/sAmyA{swrI}{2;xvi}/sAma1{karmaNi;lat;u;eka;AwmanepaxI;sAma;curAxiH}	sAmya{napuM}{7;eka}	aXikaraNam,8	samaBAva_meM	in_equanimity				
-8	sWiwam	4	sWiwaM	sWiwa{puM}{2;eka}/sWiwa{napuM}{1;eka}/sWiwa{napuM}{2;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;napuM}{1;eka}	aBihiwa_karwA,5;akarmakaH	sWiwa_hE	so_situated				
-9	manaH	2	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}	manas{napuM}{1;eka}	karwA,8	mana	mind				
-10	nir-xoRam	12	nirxoRaM	nirxoRa{puM}{2;eka}/nirxoRa{napuM}{1;eka}/nirxoRa{napuM}{2;eka}	nir-xoRa{napuM}{1;eka}	sup_samucciwaH,13.1	nirxoRa	flawless	<nir-xoRaM>Bvp			
-11	hi	10	hi	hi{avya}	hi{avya}	sambanXaH,13.1	kyoMki	certainly				
-12	samam	13	samaM	samam{avya}/sama{puM}{2;eka}/sama{napuM}{1;eka}/sama{napuM}{2;eka}/sama{puM}{2;eka}	sama{napuM}{1;eka}	viXeya_viSeRaNam,13.1	sama	in_equanimity				
-12.1	(ca)	14	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,12	(Ora)	and				
-13	brahma	11	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwA,13.1	saccixAnanxaGana_paramAwmA	the_Supreme				
-13.1	(aswi)	15	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,13;akarmakaH	(hE)	is				
-14	wasmAw	16	wasmAxbrahmaNi	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,17	isase	therefore				
-15	brahmaNi	18	0	brahman{puM}{7;eka}/brahman{napuM}{7;eka}	brahman{napuM}{7;eka}	aXikaraNam,17	saccixAnanxaGana_paramAwmA_meM	in_the_Supreme				
-16	we	17	we	wax{puM}{1;bahu}	wax{puM}{1;bahu}	karwA,17	ve	they				
-17	sWiwAH	19	sWiwAH	sWiwa{puM}{1;bahu}/sWiwA{swrI}{1;bahu}/sWiwA{swrI}{2;bahu}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;bahu}	aBihiwa_karwA,16;akarmakaH	sWiwa	situated				
+1	इह	6	इहैव	इह{अव्य}	इह{अव्य}	अधिकरणम्,4	यहाँ_(इस_जीवित_अवस्था_में)	इन्_ट्हिस्_लिङे				
+2	एव	7	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,1	ही	चेर्टइन्ल्य्				
+3	तैः	5	तैर्जितः	तद्{पुं}{3;बहु}/तद्{नपुं}{3;बहु}	तद्{पुं}{3;बहु}	कर्ता,4;नित्य_सम्बन्धः,6	उनके_द्वारा	ब्य्_ट्हेम्				
+4	जितः	9	0	जित्{पुं}{1;बहु}/जित्{पुं}{2;बहु}/जित्{पुं}{5;एक}/जित्{पुं}{6;एक}/जित{पुं}{1;एक}	जि1{कृत्_प्रत्ययः:क्त;जि;भ्वादिः;पुं}{1;एक}	अभिहित_कर्म,3;सकर्मकः	जीत_लिया_गया_है	चोनृउएरेड्				
+5	सर्गः	8	सर्गो	सर्ग{पुं}{1;एक}	सर्ग{पुं}{1;एक}	कर्म,4	सम्पूर्ण_संसार	बिर्ट्ह्_अन्ड्_डेअट्ह्				
+6	येषाम्	1	येषां	यद्{पुं}{6;बहु}/यद्{नपुं}{6;बहु}	यद्{पुं}{6;बहु}	षष्ठीसम्बन्धः,9	जिनका	ओङ्_ट्होसे				
+7	साम्ये	3	साम्ये	साम्य{पुं}{7;एक}/साम्य{नपुं}{1;द्वि}/साम्य{नपुं}{2;द्वि}/साम्य{नपुं}{7;एक}/साम्या{स्त्री}{1;द्वि}/साम्या{स्त्री}{2;द्वि}/साम1{कर्मणि;लट्;उ;एक;आत्मनेपदी;साम;चुरादिः}	साम्य{नपुं}{7;एक}	अधिकरणम्,8	समभाव_में	इन्_एऋउअनिमिट्य्				
+8	स्थितम्	4	स्थितं	स्थित{पुं}{2;एक}/स्थित{नपुं}{1;एक}/स्थित{नपुं}{2;एक}	स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;नपुं}{1;एक}	अभिहित_कर्ता,5;अकर्मकः	स्थित_है	सो_सिटुअटेड्				
+9	मनः	2	मनः	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}	मनस्{नपुं}{1;एक}	कर्ता,8	मन	मिन्ड्				
+10	निर्-दोषम्	12	निर्दोषं	निर्दोष{पुं}{2;एक}/निर्दोष{नपुं}{1;एक}/निर्दोष{नपुं}{2;एक}	निर्-दोष{नपुं}{1;एक}	सुप्_समुच्चितः,13.1	निर्दोष	ङ्लत्लेस्स्	<निर्-दोषं>भ्व्प्			
+11	हि	10	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,13.1	क्योंकि	चेर्टइन्ल्य्				
+12	समम्	13	समं	समम्{अव्य}/सम{पुं}{2;एक}/सम{नपुं}{1;एक}/सम{नपुं}{2;एक}/सम{पुं}{2;एक}	सम{नपुं}{1;एक}	विधेय_विशेषणम्,13.1	सम	इन्_एऋउअनिमिट्य्				
+12.1	(च)	14	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,12	(और)	अन्ड्				
+13	ब्रह्म	11	ब्रह्म	ब्रह्मन्{नपुं}{1;एक}/ब्रह्मन्{नपुं}{2;एक}	ब्रह्मन्{नपुं}{1;एक}	कर्ता,13.1	सच्चिदानन्दघन_परमात्मा	ट्हे_शुप्रेमे				
+13.1	(अस्ति)	15	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,13;अकर्मकः	(है)	इस्				
+14	तस्मात्	16	तस्माद्ब्रह्मणि	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तद्{पुं}{5;एक}	हेतुः,17	इससे	ट्हेरेङोरे				
+15	ब्रह्मणि	18	0	ब्रह्मन्{पुं}{7;एक}/ब्रह्मन्{नपुं}{7;एक}	ब्रह्मन्{नपुं}{7;एक}	अधिकरणम्,17	सच्चिदानन्दघन_परमात्मा_में	इन्_ट्हे_शुप्रेमे				
+16	ते	17	ते	तद्{पुं}{1;बहु}	तद्{पुं}{1;बहु}	कर्ता,17	वे	ट्हेय्				
+17	स्थिताः	19	स्थिताः	स्थित{पुं}{1;बहु}/स्थिता{स्त्री}{1;बहु}/स्थिता{स्त्री}{2;बहु}	स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{1;बहु}	अभिहित_कर्ता,16;अकर्मकः	स्थित	सिटुअटेड्				

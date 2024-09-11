@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SarIra-vAf-manoBiH	2	SarIravAfmanoBiryawkarma	SarIra-vAf-manas{puM}{3;bahu}/manas{napuM}{3;bahu}	SarIra-vAk-manas{napuM}{3;bahu}	karaNam,4	mana_vANI_Ora_SarIra_se	by_the_body,_speech_and_mind	<SarIra-vAf-manoBiH>Di			
-2	yaw	7	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,3;niwya_sambanXaH,12	jo	any				
-3	karma	8	0	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,4	karma	work				
-4	prAraBawe	9	prAraBawe	prAraBawe	pra_Af_raB1{karwari;lat;pra;eka;AwmanepaxI;pra_Af_raBaz;BvAxiH}	aBihiwa_karwA,5	karawA_hE	begins				
-5	naraH	1	naraH	nq{puM}{1;bahu}/nara{puM}{1;eka}	nara{puM}{1;eka}	karwA,4	manuRya	a_person				
-6	nyAyyam	3	nyAyyaM	nyAyya{puM}{2;eka}	nyAyya{puM}{2;eka}	viSeRaNam,3	SAswrAnukUla	right				
-7	vA	4	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,6	aWavA	or				
-8	viparIwam	5	viparIwaM	viparIwa{puM}{2;eka}/viparIwa{napuM}{1;eka}/viparIwa{napuM}{2;eka}	viparIwa{napuM}{2;eka}	viSeRaNam,3	viparIwa	the_opposite				
-9	vA	6	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,8	aWavA	or				
-10	paFca	12	paFcEwe	paFcan{1;bahu}/paFcan{2;bahu}/paFc2{karwari;lot;ma;eka;parasmEpaxI;paciz;curAxiH}	paFcan{1;bahu}	viSeRaNam,11	pAzcoM	five				
-11	ewe	11	0	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewA{swrI}{8;eka}/ewA{swrI}{8;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{puM}{1;bahu}	karwA,13.1	ye	all_these				
-12	wasya	10	wasya	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,13.1	usake	its				
-13	hewavaH	13	hewavaH	hewu{puM}{1;bahu}	hewu{puM}{1;bahu}	viXeya_viSeRaNam,13.1	kAraNa	causes				
-13.1	(sanwi)	14	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,11;akarmakaH	(hEM)	are				
+1	शरीर-वाङ्-मनोभिः	2	शरीरवाङ्मनोभिर्यत्कर्म	शरीर-वाङ्-मनस्{पुं}{3;बहु}/मनस्{नपुं}{3;बहु}	शरीर-वाक्-मनस्{नपुं}{3;बहु}	करणम्,4	मन_वाणी_और_शरीर_से	ब्य्_ट्हे_बोड्य्,_स्पेएच्ह्_अन्ड्_मिन्ड्	<शरीर-वाङ्-मनोभिः>ढि			
+2	यत्	7	0	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	विशेषणम्,3;नित्य_सम्बन्धः,12	जो	अन्य्				
+3	कर्म	8	0	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,4	कर्म	तोर्क्				
+4	प्रारभते	9	प्रारभते	प्रारभते	प्र_आङ्_रभ्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;प्र_आङ्_रभँ;भ्वादिः}	अभिहित_कर्ता,5	करता_है	बेगिन्स्				
+5	नरः	1	नरः	नृ{पुं}{1;बहु}/नर{पुं}{1;एक}	नर{पुं}{1;एक}	कर्ता,4	मनुष्य	अ_पेर्सोन्				
+6	न्याय्यम्	3	न्याय्यं	न्याय्य{पुं}{2;एक}	न्याय्य{पुं}{2;एक}	विशेषणम्,3	शास्त्रानुकूल	रिग्ह्ट्				
+7	वा	4	वा	वा{अव्य}	वा{अव्य}	अन्यतर_द्योतकः,6	अथवा	ओर्				
+8	विपरीतम्	5	विपरीतं	विपरीत{पुं}{2;एक}/विपरीत{नपुं}{1;एक}/विपरीत{नपुं}{2;एक}	विपरीत{नपुं}{2;एक}	विशेषणम्,3	विपरीत	ट्हे_ओप्पोसिटे				
+9	वा	6	वा	वा{अव्य}	वा{अव्य}	अन्यतर_द्योतकः,8	अथवा	ओर्				
+10	पञ्च	12	पञ्चैते	पञ्चन्{1;बहु}/पञ्चन्{2;बहु}/पञ्च्2{कर्तरि;लोट्;म;एक;परस्मैपदी;पचिँ;चुरादिः}	पञ्चन्{1;बहु}	विशेषणम्,11	पाँचों	ङिवे				
+11	एते	11	0	एता{स्त्री}{1;द्वि}/एता{स्त्री}{2;द्वि}/एता{स्त्री}{8;एक}/एता{स्त्री}{8;द्वि}/एतद्{पुं}{1;बहु}/एतद्{स्त्री}{1;द्वि}/एतद्{स्त्री}{2;द्वि}/एतद्{नपुं}{1;द्वि}/एतद्{नपुं}{2;द्वि}	एतद्{पुं}{1;बहु}	कर्ता,13.1	ये	अल्ल्_ट्हेसे				
+12	तस्य	10	तस्य	तद्{पुं}{6;एक}/तद्{नपुं}{6;एक}	तद्{पुं}{6;एक}	षष्ठीसम्बन्धः,13.1	उसके	इट्स्				
+13	हेतवः	13	हेतवः	हेतु{पुं}{1;बहु}	हेतु{पुं}{1;बहु}	विधेय_विशेषणम्,13.1	कारण	चउसेस्				
+13.1	(सन्ति)	14	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,11;अकर्मकः	(हैं)	अरे				

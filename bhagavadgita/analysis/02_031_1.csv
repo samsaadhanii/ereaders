@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sva-Xarmam	1	svaXarmamapi	sva-Xarma{puM}{2;eka}	sva-Xarma{puM}{2;eka}	karma,3	apane_Xarma_ko	your_own_duty	<sva-Xarmam>T6			
-2	api	2	0	api{avya}	api{avya}	sambanXaH,3	Ora	too				
-2.1	ca	2.1		ca{avya}	ca{avya}	sambanXaH,2						
-3	avekRya	3	cAvekRya	ava_IkR1{kqw_prawyayaH:lyap;IkRaz;BvAxiH}	ava_IkR1{kqw_prawyayaH:lyap;ava_IkRaz;BvAxiH}	pUrvakAlaH,6	xeKakara	considering				
-4	na	6	na	na{avya}	na{avya}	prawiReXaH,6	nahIM	not				
-5	vikampiwum	5	vikampiwumarhasi	vi_kamp1{kqw_prawyayaH:wumun;kapiz;BvAxiH}	vi_kamp1{kqw_prawyayaH:wumun;vi_kapiz;BvAxiH}	sahAyakakriyA,6	Baya_karane	waver				
-6	arhasi	7	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwakarwA,6.1;akarmakaH	yogya_ho	should				
-6.1	(wvam)	4	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,6	(wuma)	you				
-7	XarmyAw	10	XarmyAxXi	Xarmya{puM}{5;eka}/Xarmya{napuM}{5;eka}	Xarmya{puM}{5;eka}	viSeRaNam,9	Xarmayukwa	than_righteous				
-8	hi	8	0	hi{avya}	hi{avya}	sambanXaH,14	kyoMki	for				
-9	yuxXAw	11	yuxXAcCreyoZnyawkRawriyasya	yuxXa{puM}{5;eka}/yuxXa{napuM}{5;eka}	yuxXa{napuM}{5;eka}	wulanA_binxuH,10	yuxXa_se	than_war				
-10	SreyaH	13	0	Sreya{puM}{1;eka}/Sreyas{napuM}{1;eka}/Sreyas{napuM}{2;eka}/Sreyas{napuM}{8;eka}	Sreyas{napuM}{1;eka}	karwA,14	kalyANakArI_karwavya	more_welome				
-11	anyaw	12	0	anyaw{avya}/anya{napuM}{1;eka}/anya{napuM}{2;eka}	anya{napuM}{1;eka}	viSeRaNam,10	xUsarA	anything_else				
-12	kRawriyasya	9	0	kRawriya{puM}{6;eka}	kRawriya{puM}{6;eka}	RaRTIsambanXaH,10	kRawriya_ke_liye	for_the_kshatriya				
-13	na	14	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	nothing				
-14	vixyawe	15	vixyawe	vixyawA{swrI}{1;xvi}/vixyawA{swrI}{2;xvi}/vixyawA{swrI}{8;eka}/vixyawA{swrI}{8;xvi}/vix1{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;axAxiH}/vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix2{BAve;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix4{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;ruXAxiH}/vix3{karmaNi;lat;pra;eka;AwmanepaxI;vixLz;wuxAxiH}	vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}	aBihiwakarwA,10;akarmakaH	hE	is				
+1	स्व-धर्मम्	1	स्वधर्ममपि	स्व-धर्म{पुं}{2;एक}	स्व-धर्म{पुं}{2;एक}	कर्म,3	अपने_धर्म_को	योउर्_ओत्न्_डुट्य्	<स्व-धर्मम्>ठ्6			
+2	अपि	2	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,3	और	टोओ				
+2.1	च	2.1		च{अव्य}	च{अव्य}	सम्बन्धः,2						
+3	अवेक्ष्य	3	चावेक्ष्य	अव_ईक्ष्1{कृत्_प्रत्ययः:ल्यप्;ईक्षँ;भ्वादिः}	अव_ईक्ष्1{कृत्_प्रत्ययः:ल्यप्;अव_ईक्षँ;भ्वादिः}	पूर्वकालः,6	देखकर	चोन्सिडेरिन्ग्				
+4	न	6	न	न{अव्य}	न{अव्य}	प्रतिषेधः,6	नहीं	नोट्				
+5	विकम्पितुम्	5	विकम्पितुमर्हसि	वि_कम्प्1{कृत्_प्रत्ययः:तुमुन्;कपिँ;भ्वादिः}	वि_कम्प्1{कृत्_प्रत्ययः:तुमुन्;वि_कपिँ;भ्वादिः}	सहायकक्रिया,6	भय_करने	तवेर्				
+6	अर्हसि	7	0	अर्ह्1{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;भ्वादिः}/अर्ह्2{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;चुरादिः}	अर्ह्1{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;भ्वादिः}	अभिहितकर्ता,6.1;अकर्मकः	योग्य_हो	स्होउल्ड्				
+6.1	(त्वम्)	4	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,6	(तुम)	योउ				
+7	धर्म्यात्	10	धर्म्याद्धि	धर्म्य{पुं}{5;एक}/धर्म्य{नपुं}{5;एक}	धर्म्य{पुं}{5;एक}	विशेषणम्,9	धर्मयुक्त	ट्हन्_रिग्ह्टेओउस्				
+8	हि	8	0	हि{अव्य}	हि{अव्य}	सम्बन्धः,14	क्योंकि	ङोर्				
+9	युद्धात्	11	युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य	युद्ध{पुं}{5;एक}/युद्ध{नपुं}{5;एक}	युद्ध{नपुं}{5;एक}	तुलना_बिन्दुः,10	युद्ध_से	ट्हन्_तर्				
+10	श्रेयः	13	0	श्रेय{पुं}{1;एक}/श्रेयस्{नपुं}{1;एक}/श्रेयस्{नपुं}{2;एक}/श्रेयस्{नपुं}{8;एक}	श्रेयस्{नपुं}{1;एक}	कर्ता,14	कल्याणकारी_कर्तव्य	मोरे_तेलोमे				
+11	अन्यत्	12	0	अन्यत्{अव्य}/अन्य{नपुं}{1;एक}/अन्य{नपुं}{2;एक}	अन्य{नपुं}{1;एक}	विशेषणम्,10	दूसरा	अन्य्ट्हिन्ग्_एल्से				
+12	क्षत्रियस्य	9	0	क्षत्रिय{पुं}{6;एक}	क्षत्रिय{पुं}{6;एक}	षष्ठीसम्बन्धः,10	क्षत्रिय_के_लिये	ङोर्_ट्हे_क्स्हट्रिय				
+13	न	14	न	न{अव्य}	न{अव्य}	प्रतिषेधः,14	नहीं	नोट्हिन्ग्				
+14	विद्यते	15	विद्यते	विद्यता{स्त्री}{1;द्वि}/विद्यता{स्त्री}{2;द्वि}/विद्यता{स्त्री}{8;एक}/विद्यता{स्त्री}{8;द्वि}/विद्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;विदँ;अदादिः}/विद्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;विदँ;दिवादिः}/विद्2{भावे;लट्;प्र;एक;आत्मनेपदी;विदँ;दिवादिः}/विद्4{कर्मणि;लट्;प्र;एक;आत्मनेपदी;विदँ;रुधादिः}/विद्3{कर्मणि;लट्;प्र;एक;आत्मनेपदी;विदॢँ;तुदादिः}	विद्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;विदँ;दिवादिः}	अभिहितकर्ता,10;अकर्मकः	है	इस्				

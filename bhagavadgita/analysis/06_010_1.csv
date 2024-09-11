@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yogI	7	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karwA,2	yogI	a_transcendentalist				
-2	yuFjIwa	10	yuFjIwa	yuj2{karwari;viXilif;pra;eka;parasmEpaxI;yujizr;ruXAxiH}	yuj2{karwari;viXilif;pra;eka;parasmEpaxI;yujizr;ruXAxiH}	aBihiwakarwA,1;akarmakaH	lagAve	must_concentrate				
-3	sawawam	9	sawawamAwmAnaM	sawawam{avya}/sawawa{puM}{2;eka}/sawawa{napuM}{1;eka}/sawawa{napuM}{2;eka}	sawawam{avya}	kriyAviSeRaNam,2	niranwara_(paramAwmA_meM)	constantly				
-4	AwmAnam	8	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,2	AwmA_ko	himself_(by_the_body_mind_and_self)				
-5	rahasi	5	rahasi	rahas{napuM}{7;eka}	rahas{napuM}{7;eka}	aXikaraNam,6	ekAnwa_sWAna_meM	in_a_secluded_place				
-6	sWiwaH	6	sWiwaH	sWiwa{puM}{1;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;eka}	viSeRaNam,1	sWiwa_hokara	being_so_situated				
-7	ekAkI	4	ekAkI	ekAkin{puM}{1;eka}	ekAkin{puM}{1;eka}	karwA,6	akelA_hI	alone				
-8	yawa-ciwwa-AwmA	1	yawaciwwAwmA	yawa-ciwwa-Awman{puM}{1;eka}	yawa-ciwwa-Awman{puM}{1;eka}	viSeRaNam,1	mana_Ora_inxriyoMsahiwa_SarIra_ko_vaSa_meM_raKanevAlA	always_careful_in_mind	<yawa-<ciwwa-AwmA>Di>Bs6			
-9	nir-ASIH	2	nirASIraparigrahaH	nir-{avya}-ASi{swrI}{2;bahu}/ASI{swrI}{2;bahu}/ASis{swrI}{1;eka}/ASis{swrI}{8;eka}	nir-ASis{swrI}{1;eka}	viSeRaNam,1	ASArahiwa	without_being_attracted_by_anything_else	<nir-ASIH>Bvp			
-10	a-parigrahaH	3	0	a-parigraha{puM}{1;eka}	aparigraha{puM}{1;eka}	viSeRaNam,1	saMgraharahiwa	free_from_the_feeling_of_possessiveness	<na-parigrahaH>Bsmn			
+1	योगी	7	योगी	योगिन्{पुं}{1;एक}	योगिन्{पुं}{1;एक}	कर्ता,2	योगी	अ_ट्रन्स्चेन्डेन्टलिस्ट्				
+2	युञ्जीत	10	युञ्जीत	युज्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;युजिँर्;रुधादिः}	युज्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;युजिँर्;रुधादिः}	अभिहितकर्ता,1;अकर्मकः	लगावे	मुस्ट्_चोन्चेन्ट्रटे				
+3	सततम्	9	सततमात्मानं	सततम्{अव्य}/सतत{पुं}{2;एक}/सतत{नपुं}{1;एक}/सतत{नपुं}{2;एक}	सततम्{अव्य}	क्रियाविशेषणम्,2	निरन्तर_(परमात्मा_में)	चोन्स्टन्ट्ल्य्				
+4	आत्मानम्	8	0	आत्मन्{पुं}{2;एक}	आत्मन्{पुं}{2;एक}	कर्म,2	आत्मा_को	हिम्सेल्ङ्_(ब्य्_ट्हे_बोड्य्_मिन्ड्_अन्ड्_सेल्ङ्)				
+5	रहसि	5	रहसि	रहस्{नपुं}{7;एक}	रहस्{नपुं}{7;एक}	अधिकरणम्,6	एकान्त_स्थान_में	इन्_अ_सेच्लुडेड्_प्लचे				
+6	स्थितः	6	स्थितः	स्थित{पुं}{1;एक}	स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{1;एक}	विशेषणम्,1	स्थित_होकर	बेइन्ग्_सो_सिटुअटेड्				
+7	एकाकी	4	एकाकी	एकाकिन्{पुं}{1;एक}	एकाकिन्{पुं}{1;एक}	कर्ता,6	अकेला_ही	अलोने				
+8	यत-चित्त-आत्मा	1	यतचित्तात्मा	यत-चित्त-आत्मन्{पुं}{1;एक}	यत-चित्त-आत्मन्{पुं}{1;एक}	विशेषणम्,1	मन_और_इन्द्रियोंसहित_शरीर_को_वश_में_रखनेवाला	अल्तय्स्_चरेङुल्_इन्_मिन्ड्	<यत-<चित्त-आत्मा>ढि>भ्स्6			
+9	निर्-आशीः	2	निराशीरपरिग्रहः	निर्-{अव्य}-आशि{स्त्री}{2;बहु}/आशी{स्त्री}{2;बहु}/आशिस्{स्त्री}{1;एक}/आशिस्{स्त्री}{8;एक}	निर्-आशिस्{स्त्री}{1;एक}	विशेषणम्,1	आशारहित	तिट्होउट्_बेइन्ग्_अट्ट्रच्टेड्_ब्य्_अन्य्ट्हिन्ग्_एल्से	<निर्-आशीः>भ्व्प्			
+10	अ-परिग्रहः	3	0	अ-परिग्रह{पुं}{1;एक}	अपरिग्रह{पुं}{1;एक}	विशेषणम्,1	संग्रहरहित	ङ्रेए_ङ्रोम्_ट्हे_ङेएलिन्ग्_ओङ्_पोस्सेस्सिवेनेस्स्	<न-परिग्रहः>भ्स्म्न्			

@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aWa_cew(yawaH)	1	aWa	aWa{avya}_cew/cew{avya}	aWa{avya}_cew{avya}	sambanXaH,7;niwya_sambanXaH,8	kiMwu_yaxi	now_if				
-2	wvam	2	cewwvamimaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,7	wuma	you				
-3	imam	3	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,5	isa	this				
-4	Xarmyam	4	XarmyaM	Xarmya{puM}{2;eka}/Xarmya{napuM}{1;eka}/Xarmya{napuM}{2;eka}	Xarmya{puM}{2;eka}	viSeRaNam,5	Xarmayukwa	righteous				
-5	safgrAmam	5	safgrAmaM	safgrAma{puM}{2;eka}	safgrAma{puM}{2;eka}	karma,7	yuxXa_ko	war				
-6	na	6	na	na{avya}	na{avya}	prawiReXaH,7	nahIM	refuse				
-7	kariRyasi	7	kariRyasi	kq2{karwari;lqt;ma;eka;parasmEpaxI;kqF;svAxiH}/kq3{karwari;lqt;ma;eka;parasmEpaxI;dukqF;wanAxiH}/kQ1{karwari;lqt;ma;eka;parasmEpaxI;kQ;wuxAxiH}/kQ2{karwari;lqt;ma;eka;parasmEpaxI;kQF;kryAxiH}	kq3{karwari;lqt;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,2;sakarmakaH	karoge	to_fight				
-8	wawaH	8	wawaH	wawaH{avya}	wawaH{avya}	hewuH,14	wo	then				
-9	sva-Xarmam	9	svaXarmaM	svaXarma{puM}{2;eka}	svaXarma{puM}{2;eka}	sup_samucciwaH,10	svaXarma	your_duty	<sva-Xarmam>T6			
-10	kIrwim	11	kIrwiM	kIrwi{swrI}{2;eka}	kIrwi{swrI}{2;eka}	karma,12	kIrwi_ko	your_reputation				
-11	ca	10	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora	and				
-12	hiwvA	12	hiwvA	hA2{kqw_prawyayaH:kwvA;ozhAk;juhowyAxiH}/XA1{kqw_prawyayaH:kwvA;duXAF;juhowyAxiH}	hA2{kqw_prawyayaH:kwvA;ozhAf;juhowyAxiH}	pUrvakAlaH,14	Kokara	losing				
-13	pApam	13	pApamavApsyasi	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{2;eka}	karma,14	pApa_ko	sin				
-14	avApsyasi	14	0	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ApLz;svAxiH}	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ava_ApLz;svAxiH}		prApwa_hoge	incur				
+1	अथ_चेत्(यतः)	1	अथ	अथ{अव्य}_चेत्/चेत्{अव्य}	अथ{अव्य}_चेत्{अव्य}	सम्बन्धः,7;नित्य_सम्बन्धः,8	किंतु_यदि	नोत्_इङ्				
+2	त्वम्	2	चेत्त्वमिमं	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,7	तुम	योउ				
+3	इमम्	3	0	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	विशेषणम्,5	इस	ट्हिस्				
+4	धर्म्यम्	4	धर्म्यं	धर्म्य{पुं}{2;एक}/धर्म्य{नपुं}{1;एक}/धर्म्य{नपुं}{2;एक}	धर्म्य{पुं}{2;एक}	विशेषणम्,5	धर्मयुक्त	रिग्ह्टेओउस्				
+5	सङ्ग्रामम्	5	सङ्ग्रामं	सङ्ग्राम{पुं}{2;एक}	सङ्ग्राम{पुं}{2;एक}	कर्म,7	युद्ध_को	तर्				
+6	न	6	न	न{अव्य}	न{अव्य}	प्रतिषेधः,7	नहीं	रेङुसे				
+7	करिष्यसि	7	करिष्यसि	कृ2{कर्तरि;लृट्;म;एक;परस्मैपदी;कृञ्;स्वादिः}/कृ3{कर्तरि;लृट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}/कॄ1{कर्तरि;लृट्;म;एक;परस्मैपदी;कॄ;तुदादिः}/कॄ2{कर्तरि;लृट्;म;एक;परस्मैपदी;कॄञ्;क्र्यादिः}	कृ3{कर्तरि;लृट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	अभिहितकर्ता,2;सकर्मकः	करोगे	टो_ङिग्ह्ट्				
+8	ततः	8	ततः	ततः{अव्य}	ततः{अव्य}	हेतुः,14	तो	ट्हेन्				
+9	स्व-धर्मम्	9	स्वधर्मं	स्वधर्म{पुं}{2;एक}	स्वधर्म{पुं}{2;एक}	सुप्_समुच्चितः,10	स्वधर्म	योउर्_डुट्य्	<स्व-धर्मम्>ठ्6			
+10	कीर्तिम्	11	कीर्तिं	कीर्ति{स्त्री}{2;एक}	कीर्ति{स्त्री}{2;एक}	कर्म,12	कीर्ति_को	योउर्_रेपुटटिओन्				
+11	च	10	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,10	और	अन्ड्				
+12	हित्वा	12	हित्वा	हा2{कृत्_प्रत्ययः:क्त्वा;ओँहाक्;जुहोत्यादिः}/धा1{कृत्_प्रत्ययः:क्त्वा;डुधाञ्;जुहोत्यादिः}	हा2{कृत्_प्रत्ययः:क्त्वा;ओँहाङ्;जुहोत्यादिः}	पूर्वकालः,14	खोकर	लोसिन्ग्				
+13	पापम्	13	पापमवाप्स्यसि	पाप{पुं}{2;एक}/पाप{नपुं}{1;एक}/पाप{नपुं}{2;एक}	पाप{नपुं}{2;एक}	कर्म,14	पाप_को	सिन्				
+14	अवाप्स्यसि	14	0	अव_आप्1{कर्तरि;लृट्;म;एक;परस्मैपदी;आपॢँ;स्वादिः}	अव_आप्1{कर्तरि;लृट्;म;एक;परस्मैपदी;अव_आपॢँ;स्वादिः}		प्राप्त_होगे	इन्चुर्				

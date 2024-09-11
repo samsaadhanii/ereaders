@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kAmyAnAm	2	kAmyAnAM	kAmya{napuM}{6;bahu}/kAmyA{swrI}{6;bahu}	kAmya{napuM}{6;bahu}	viSeRaNam,2	kAmya	with_desire				
-2	karmaNAm	3	karmaNAM	karman{napuM}{6;bahu}	karman{napuM}{6;bahu}	RaRTIsambanXaH,3	karmoM_ke	activities				
-3	nyAsam	4	nyAsaM	nyAsa{puM}{2;eka}	nyAsa{puM}{2;eka}	karma,6	wyAga_ko	renunciation				
-4	sannyAsam	5	sannyAsaM	sannyAsa{puM}{2;eka}	sannyAsa{puM}{2;eka}	karmasamAnAXikaraNam,6	saMnyAsa	renounced_order_of_life				
-5	kavayaH	1	kavayo	kavi{puM}{1;bahu}	kavi{puM}{1;bahu}	karwA,6	paNdiwajana	the_learned				
-6	vixuH	6	vixuH	vixu{puM}{1;eka}/vixus{napuM}{1;eka}/vixus{napuM}{2;eka}/vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,5;sakarmakaH	samaJawe_hEM	know				
-7	sarva-karma-Pala-wyAgam	8	sarvakarmaPalawyAgaM	sarva-karma-Pala-wyAga{puM}{2;eka}	sarva-karman-Pala-wyAga{puM}{2;eka}	karma,8	saba_karmoM_ke_Pala_ke_wyAga_ko	renunciation_of_results_of_all_activities	<<<sarva-karma>K1-Pala>T6-wyAgaM>T6			
-8	prAhuH	10	prAhuswyAgaM	prAhuH	pra_brU1{karwari;lat;pra;bahu;parasmEpaxI;pra_brUF;axAxiH}	aBihiwa_karwA,10;sakarmakaH	kahawe_hEM	call				
-9	wyAgam	9	0	wyAga{puM}{2;eka}	wyAga{puM}{2;eka}	karmasamAnAXikaraNam,8	wyAga	renunciation				
-10	vicakRaNAH	7	vicakRaNAH	vicakRaNa{puM}{1;bahu}/vicakRaNA{swrI}{1;bahu}/vicakRaNA{swrI}{2;bahu}	vicakRaNa{puM}{1;bahu}	karwA,8	vicArakuSala_puruRa	the_experienced				
+1	काम्यानाम्	2	काम्यानां	काम्य{नपुं}{6;बहु}/काम्या{स्त्री}{6;बहु}	काम्य{नपुं}{6;बहु}	विशेषणम्,2	काम्य	तिट्ह्_डेसिरे				
+2	कर्मणाम्	3	कर्मणां	कर्मन्{नपुं}{6;बहु}	कर्मन्{नपुं}{6;बहु}	षष्ठीसम्बन्धः,3	कर्मों_के	अच्टिविटिएस्				
+3	न्यासम्	4	न्यासं	न्यास{पुं}{2;एक}	न्यास{पुं}{2;एक}	कर्म,6	त्याग_को	रेनुन्चिअटिओन्				
+4	सन्न्यासम्	5	सन्न्यासं	सन्न्यास{पुं}{2;एक}	सन्न्यास{पुं}{2;एक}	कर्मसमानाधिकरणम्,6	संन्यास	रेनोउन्चेड्_ओर्डेर्_ओङ्_लिङे				
+5	कवयः	1	कवयो	कवि{पुं}{1;बहु}	कवि{पुं}{1;बहु}	कर्ता,6	पण्डितजन	ट्हे_लेअर्नेड्				
+6	विदुः	6	विदुः	विदु{पुं}{1;एक}/विदुस्{नपुं}{1;एक}/विदुस्{नपुं}{2;एक}/विद्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विदँ;अदादिः}	अभिहित_कर्ता,5;सकर्मकः	समझते_हैं	क्नोत्				
+7	सर्व-कर्म-फल-त्यागम्	8	सर्वकर्मफलत्यागं	सर्व-कर्म-फल-त्याग{पुं}{2;एक}	सर्व-कर्मन्-फल-त्याग{पुं}{2;एक}	कर्म,8	सब_कर्मों_के_फल_के_त्याग_को	रेनुन्चिअटिओन्_ओङ्_रेसुल्ट्स्_ओङ्_अल्ल्_अच्टिविटिएस्	<<<सर्व-कर्म>ख्1-फल>ठ्6-त्यागं>ठ्6			
+8	प्राहुः	10	प्राहुस्त्यागं	प्राहुः	प्र_ब्रू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;प्र_ब्रूञ्;अदादिः}	अभिहित_कर्ता,10;सकर्मकः	कहते_हैं	चल्ल्				
+9	त्यागम्	9	0	त्याग{पुं}{2;एक}	त्याग{पुं}{2;एक}	कर्मसमानाधिकरणम्,8	त्याग	रेनुन्चिअटिओन्				
+10	विचक्षणाः	7	विचक्षणाः	विचक्षण{पुं}{1;बहु}/विचक्षणा{स्त्री}{1;बहु}/विचक्षणा{स्त्री}{2;बहु}	विचक्षण{पुं}{1;बहु}	कर्ता,8	विचारकुशल_पुरुष	ट्हे_एद्पेरिएन्चेड्				

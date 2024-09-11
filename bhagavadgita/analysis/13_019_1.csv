@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	prakqwim	2	prakqwiM	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	sup_samucciwaH,2	prakqwi	material_nature				
-2	puruRam	4	puruRaM	puruRa{puM}{2;eka}	puruRa{puM}{2;eka}	karma,5	puruRa	living_entities				
-3	ca	3	cEva	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	also				
-4	eva	6	0	eva{avya}	eva{avya}	sambanXaH,3	hI	certainly				
-5	vixXi	8	vixXyanAxI	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,8.1;sakarmakaH	jAno	must_know				
-6	an-AxI	7	0	an-{avya}-Axi{puM}{1;xvi}/Axi{puM}{2;xvi}/Axi{puM}{8;xvi}	anAxi{puM}{2;xvi}	karmasamAnAXikaraNam,5	anAxi	without_beginning	<na-AxI>Bsmn			
-7	uBO	5	uBAvapi	uBa{puM}{1;xvi}/uBa{puM}{2;xvi}/uBa{puM}{8;xvi}/uBa{puM}{1;xvi}/uBa{puM}{2;xvi}	uBa{puM}{2;xvi}	viSeRaNam,2	ina_xonoM_ko	both				
-8	api	14	0	api{avya}	api{avya}	sambanXaH,7	BI	also				
-8.1	(wvam)	1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,5	(wuma)	you				
-9	vikArAn	11	vikArAMSca	vikAra{puM}{2;bahu}/vikAra{puM}{2;bahu}	vikAra{puM}{2;bahu}	sup_samucciwaH,11	rAga-xveRAxi_vikAroM_ko	transformations				
-10	ca	12	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	waWA	also				
-11	guNAn	13	guNAMScEva	guNa{puM}{2;bahu}	guNa{puM}{2;bahu}	karma,14	wriguNAwmaka_sampUrNa_paxArWoM_ko	three_modes_of_nature				
-12	ca	9	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,11	Ora	also				
-13	eva	16	0	eva{avya}	eva{avya}	sambanXaH,12	hI	certainly				
-14	vixXi	17	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,15.1;sakarmakaH	jAno	know				
-15	prakqwi-samBavAn	15	prakqwisamBavAn	prakqwi-samBava{puM}{2;bahu}	prakqwi-samBava{puM}{2;bahu}	karmasamAnAXikaraNam,14	prakqwi_se_uwpanna	produced_of_material_nature	<prakqwi-samBavAn>Bs6			
-15.1	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,14	(wuma)	you				
+1	प्रकृतिम्	2	प्रकृतिं	प्रकृति{स्त्री}{2;एक}	प्रकृति{स्त्री}{2;एक}	सुप्_समुच्चितः,2	प्रकृति	मटेरिअल्_नटुरे				
+2	पुरुषम्	4	पुरुषं	पुरुष{पुं}{2;एक}	पुरुष{पुं}{2;एक}	कर्म,5	पुरुष	लिविन्ग्_एन्टिटिएस्				
+3	च	3	चैव	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	और	अल्सो				
+4	एव	6	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,3	ही	चेर्टइन्ल्य्				
+5	विद्धि	8	विद्ध्यनादी	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,8.1;सकर्मकः	जानो	मुस्ट्_क्नोत्				
+6	अन्-आदी	7	0	अन्-{अव्य}-आदि{पुं}{1;द्वि}/आदि{पुं}{2;द्वि}/आदि{पुं}{8;द्वि}	अनादि{पुं}{2;द्वि}	कर्मसमानाधिकरणम्,5	अनादि	तिट्होउट्_बेगिन्निन्ग्	<न-आदी>भ्स्म्न्			
+7	उभौ	5	उभावपि	उभ{पुं}{1;द्वि}/उभ{पुं}{2;द्वि}/उभ{पुं}{8;द्वि}/उभ{पुं}{1;द्वि}/उभ{पुं}{2;द्वि}	उभ{पुं}{2;द्वि}	विशेषणम्,2	इन_दोनों_को	बोट्ह्				
+8	अपि	14	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,7	भी	अल्सो				
+8.1	(त्वम्)	1	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,5	(तुम)	योउ				
+9	विकारान्	11	विकारांश्च	विकार{पुं}{2;बहु}/विकार{पुं}{2;बहु}	विकार{पुं}{2;बहु}	सुप्_समुच्चितः,11	राग-द्वेषादि_विकारों_को	ट्रन्स्ङोर्मटिओन्स्				
+10	च	12	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,9	तथा	अल्सो				
+11	गुणान्	13	गुणांश्चैव	गुण{पुं}{2;बहु}	गुण{पुं}{2;बहु}	कर्म,14	त्रिगुणात्मक_सम्पूर्ण_पदार्थों_को	ट्ह्रेए_मोडेस्_ओङ्_नटुरे				
+12	च	9	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,11	और	अल्सो				
+13	एव	16	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,12	ही	चेर्टइन्ल्य्				
+14	विद्धि	17	विद्धि	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,15.1;सकर्मकः	जानो	क्नोत्				
+15	प्रकृति-सम्भवान्	15	प्रकृतिसम्भवान्	प्रकृति-सम्भव{पुं}{2;बहु}	प्रकृति-सम्भव{पुं}{2;बहु}	कर्मसमानाधिकरणम्,14	प्रकृति_से_उत्पन्न	प्रोडुचेड्_ओङ्_मटेरिअल्_नटुरे	<प्रकृति-सम्भवान्>भ्स्6			
+15.1	(त्वम्)	10	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,14	(तुम)	योउ				

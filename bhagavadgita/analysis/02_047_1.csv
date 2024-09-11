@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	karmaNi	3	karmaNyevAXikAraswe	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,4.1	karma_karane_meM	work				
-2	eva	4	0	eva{avya}	eva{avya}	sambanXaH,1	hI	only				
-3	aXikAraH	2	0	aXikAra{puM}{1;eka}/aXikAra{puM}{1;eka}	aXikAra{puM}{1;eka}	karwA,4.1	aXikAra	right				
-4	we	1	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,3	wumhArA	your				
-4.1	(aswi)	5	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,3;akarmakaH	(hE)	is				
-5	mA	9	mA	mA{avya}/mA{swrI}{1;eka}/asmax{2;eka}	mA{avya}	prawiReXaH,7.1	nahIM	never				
-6	PaleRu	6	PaleRu	Pala{napuM}{7;bahu}	Pala{napuM}{7;bahu}	aXikaraNam,7.1	PaloM_meM	in_the_fruits_(of_action)				
-7	kaxAcana	8	kaxAcana	kaxAcana{avya}	kaxAcana{avya}	kAlAXikaraNam,7.1	kaBI	at_any_time				
-7.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,7.2;akarmakaH	(hE)	is				
-7.2	(aXikAraH)	7	(0)	(aXikAra{puM}{1;eka}/aXikAra{puM}{1;eka})	(aXikAra{puM}{1;eka})	karwA,7.1	(aXikAra)	right				
-8	mA	13	mA	mA{avya}/mA{swrI}{1;eka}/asmax{2;eka}	mA{avya}	prawiReXaH,10	mawa	not				
-9	karma-Pala-hewuH	12	karmaPalahewurBUrmA	karman-Pala-hewu{puM}{1;eka}	karman-Pala-hewu{puM}{1;eka}	viXeya_viSeRaNam,10	karmoM_ke_Pala_kA_hewu	cause_of_the_fruit_of_action	<<karma-Pala>T6-hewuH>Bs6			
-10	BUH(aBUH)	9	vijAnawaH	BU{karwari;luf;ma;eka;parasmEpaxI;BU;BvAxiH}	BU{karwari;luf;ma;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,10.1;akarmakaH	wawwva_se_jAnanevAle	who_has_obtained_enlightenment				
-10.1	(wvam)	11	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,10	(wuma)	you				
-11	mA	18	0	mA{avya}/mA{swrI}{1;eka}/asmax{2;eka}	mA{avya}	prawiReXaH,14	nahIM	nor				
-12	we	15	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,13	wumhArI	your				
-13	safgaH	16	safgoZswvakarmaNi	safga{puM}{1;eka}	safga{puM}{1;eka}	karwA,14	Asakwi	attachment				
-14	aswu	19	0	aswu{avya}/as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,13;akarmakaH	ho	be				
-15	a-karmaNi	17	0	akarman{puM}{7;eka}	a-karman{napuM}{7;eka}	aXikaraNam,14	akarma_meM	in_inaction	<na-karmaNi>Tn			
+1	कर्मणि	3	कर्मण्येवाधिकारस्ते	कर्मन्{नपुं}{7;एक}	कर्मन्{नपुं}{7;एक}	अधिकरणम्,4.1	कर्म_करने_में	तोर्क्				
+2	एव	4	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,1	ही	ओन्ल्य्				
+3	अधिकारः	2	0	अधिकार{पुं}{1;एक}/अधिकार{पुं}{1;एक}	अधिकार{पुं}{1;एक}	कर्ता,4.1	अधिकार	रिग्ह्ट्				
+4	ते	1	0	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,3	तुम्हारा	योउर्				
+4.1	(अस्ति)	5	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,3;अकर्मकः	(है)	इस्				
+5	मा	9	मा	मा{अव्य}/मा{स्त्री}{1;एक}/अस्मद्{2;एक}	मा{अव्य}	प्रतिषेधः,7.1	नहीं	नेवेर्				
+6	फलेषु	6	फलेषु	फल{नपुं}{7;बहु}	फल{नपुं}{7;बहु}	अधिकरणम्,7.1	फलों_में	इन्_ट्हे_ङ्रुइट्स्_(ओङ्_अच्टिओन्)				
+7	कदाचन	8	कदाचन	कदाचन{अव्य}	कदाचन{अव्य}	कालाधिकरणम्,7.1	कभी	अट्_अन्य्_टिमे				
+7.1	(अस्ति)	10	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,7.2;अकर्मकः	(है)	इस्				
+7.2	(अधिकारः)	7	(0)	(अधिकार{पुं}{1;एक}/अधिकार{पुं}{1;एक})	(अधिकार{पुं}{1;एक})	कर्ता,7.1	(अधिकार)	रिग्ह्ट्				
+8	मा	13	मा	मा{अव्य}/मा{स्त्री}{1;एक}/अस्मद्{2;एक}	मा{अव्य}	प्रतिषेधः,10	मत	नोट्				
+9	कर्म-फल-हेतुः	12	कर्मफलहेतुर्भूर्मा	कर्मन्-फल-हेतु{पुं}{1;एक}	कर्मन्-फल-हेतु{पुं}{1;एक}	विधेय_विशेषणम्,10	कर्मों_के_फल_का_हेतु	चउसे_ओङ्_ट्हे_ङ्रुइट्_ओङ्_अच्टिओन्	<<कर्म-फल>ठ्6-हेतुः>भ्स्6			
+10	भूः(अभूः)	9	विजानतः	भू{कर्तरि;लुङ्;म;एक;परस्मैपदी;भू;भ्वादिः}	भू{कर्तरि;लुङ्;म;एक;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,10.1;अकर्मकः	तत्त्व_से_जाननेवाले	त्हो_हस्_ओब्टइनेड्_एन्लिग्ह्टेन्मेन्ट्				
+10.1	(त्वम्)	11	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,10	(तुम)	योउ				
+11	मा	18	0	मा{अव्य}/मा{स्त्री}{1;एक}/अस्मद्{2;एक}	मा{अव्य}	प्रतिषेधः,14	नहीं	नोर्				
+12	ते	15	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,13	तुम्हारी	योउर्				
+13	सङ्गः	16	सङ्गोऽस्त्वकर्मणि	सङ्ग{पुं}{1;एक}	सङ्ग{पुं}{1;एक}	कर्ता,14	आसक्ति	अट्टच्ह्मेन्ट्				
+14	अस्तु	19	0	अस्तु{अव्य}/अस्2{कर्तरि;लोट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लोट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,13;अकर्मकः	हो	बे				
+15	अ-कर्मणि	17	0	अकर्मन्{पुं}{7;एक}	अ-कर्मन्{नपुं}{7;एक}	अधिकरणम्,14	अकर्म_में	इन्_इनच्टिओन्	<न-कर्मणि>ठ्न्			

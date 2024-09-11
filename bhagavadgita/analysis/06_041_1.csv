@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	prApya	4	prApya	prApya{puM}{8;eka}/prApya{napuM}{8;eka}/pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,11	prApwa_hokara	after_achieving				
-2	puNya-kqwAm	2	puNyakqwAM	puNya-kqw{puM}{6;bahu}/kqwA{swrI}{2;eka}	puNya-kqw{puM}{6;bahu}	RaRTIsambanXaH,3	puNyavAnoM_ke	of_those_who_performed_pious_activities	<puNya-kqwAM>U			
-3	lokAn	3	lokAnuRiwvA	loka{puM}{2;bahu}	loka{puM}{2;bahu}	karma,1	lokoM_ko_arWAw_svargAxi_uwwama_lokoM_ko	planets				
-4	uRiwvA	7	0	vas1{kqw_prawyayaH:kwvA;vasaz;BvAxiH}	vas1{kqw_prawyayaH:kwvA;vasaz;BvAxiH}	pUrvakAlaH,11	nivAsa_karake	after_dwelling				
-5	SASvawIH	5	SASvawIH	SASvawI{swrI}{2;bahu}	SASvawI{swrI}{1;bahu}	viSeRaNam,6	bahuwa	many				
-6	samAH	6	samAH	sama{puM}{1;bahu}/sama{puM}{8;bahu}/samA{swrI}{1;bahu}/samA{swrI}{2;bahu}/samA{swrI}{8;bahu}/samA{swrI}{1;bahu}/samA{swrI}{2;bahu}	sama{puM}{1;bahu}	aXikaraNam,4	varRoMwaka	years				
-7	SucInAm	8	SucInAM	Suci{puM}{6;bahu}/Suci{swrI}{6;bahu}	Suci{puM}{6;bahu}	viSeRaNam,9	SuxXa_AcaraNavAle	of_the_pious				
-8	SrImawAm	9	SrImawAM	SrImaw{puM}{6;bahu}/SrImaw{napuM}{6;bahu}	SrImaw{puM}{6;bahu}	RaRTIsambanXaH,9	SrImAn_puruRoM_ke	of_the_prosperous				
-9	gehe	10	gehe	geha{napuM}{1;xvi}/geha{napuM}{2;xvi}/geha{napuM}{7;eka}/geha{napuM}{8;xvi}	geha{napuM}{7;eka}	aXikaraNam,11	Gara_meM	in_the_house_of				
-10	yoga-BraRtaH	1	yogaBraRtoZBijAyawe	yoga-BraRta{puM}{1;eka}	yoga-BraRta{puM}{1;eka}	karwA,11	yogaBraRta_puruRa	one_who_is_fallen_from_the_path_of_self-realization	<yoga-BraRtaH>T5			
-11	aBijAyawe	11	0	aBi_jan3{karwari;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}/aBi_jan3{BAve;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}	aBi_jan3{karwari;lat;pra;eka;AwmanepaxI;aBi_janIz;xivAxiH}	aBihiwakarwA,11	janma_lewA_hE	takes_his_birth				
+1	प्राप्य	4	प्राप्य	प्राप्य{पुं}{8;एक}/प्राप्य{नपुं}{8;एक}/प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्र_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}/प्रा_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्रा_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}	प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;प्र_आपॢँ;स्वादिः}	पूर्वकालः,11	प्राप्त_होकर	अङ्टेर्_अच्हिएविन्ग्				
+2	पुण्य-कृताम्	2	पुण्यकृतां	पुण्य-कृत्{पुं}{6;बहु}/कृता{स्त्री}{2;एक}	पुण्य-कृत्{पुं}{6;बहु}	षष्ठीसम्बन्धः,3	पुण्यवानों_के	ओङ्_ट्होसे_त्हो_पेर्ङोर्मेड्_पिओउस्_अच्टिविटिएस्	<पुण्य-कृतां>ऊ			
+3	लोकान्	3	लोकानुषित्वा	लोक{पुं}{2;बहु}	लोक{पुं}{2;बहु}	कर्म,1	लोकों_को_अर्थात्_स्वर्गादि_उत्तम_लोकों_को	प्लनेट्स्				
+4	उषित्वा	7	0	वस्1{कृत्_प्रत्ययः:क्त्वा;वसँ;भ्वादिः}	वस्1{कृत्_प्रत्ययः:क्त्वा;वसँ;भ्वादिः}	पूर्वकालः,11	निवास_करके	अङ्टेर्_ड्तेल्लिन्ग्				
+5	शाश्वतीः	5	शाश्वतीः	शाश्वती{स्त्री}{2;बहु}	शाश्वती{स्त्री}{1;बहु}	विशेषणम्,6	बहुत	मन्य्				
+6	समाः	6	समाः	सम{पुं}{1;बहु}/सम{पुं}{8;बहु}/समा{स्त्री}{1;बहु}/समा{स्त्री}{2;बहु}/समा{स्त्री}{8;बहु}/समा{स्त्री}{1;बहु}/समा{स्त्री}{2;बहु}	सम{पुं}{1;बहु}	अधिकरणम्,4	वर्षोंतक	येअर्स्				
+7	शुचीनाम्	8	शुचीनां	शुचि{पुं}{6;बहु}/शुचि{स्त्री}{6;बहु}	शुचि{पुं}{6;बहु}	विशेषणम्,9	शुद्ध_आचरणवाले	ओङ्_ट्हे_पिओउस्				
+8	श्रीमताम्	9	श्रीमतां	श्रीमत्{पुं}{6;बहु}/श्रीमत्{नपुं}{6;बहु}	श्रीमत्{पुं}{6;बहु}	षष्ठीसम्बन्धः,9	श्रीमान्_पुरुषों_के	ओङ्_ट्हे_प्रोस्पेरोउस्				
+9	गेहे	10	गेहे	गेह{नपुं}{1;द्वि}/गेह{नपुं}{2;द्वि}/गेह{नपुं}{7;एक}/गेह{नपुं}{8;द्वि}	गेह{नपुं}{7;एक}	अधिकरणम्,11	घर_में	इन्_ट्हे_होउसे_ओङ्				
+10	योग-भ्रष्टः	1	योगभ्रष्टोऽभिजायते	योग-भ्रष्ट{पुं}{1;एक}	योग-भ्रष्ट{पुं}{1;एक}	कर्ता,11	योगभ्रष्ट_पुरुष	ओने_त्हो_इस्_ङल्लेन्_ङ्रोम्_ट्हे_पट्ह्_ओङ्_सेल्ङ्-रेअलिँअटिओन्	<योग-भ्रष्टः>ठ्5			
+11	अभिजायते	11	0	अभि_जन्3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;जनीँ;दिवादिः}/अभि_जन्3{भावे;लट्;प्र;एक;आत्मनेपदी;जनीँ;दिवादिः}	अभि_जन्3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;अभि_जनीँ;दिवादिः}	अभिहितकर्ता,11	जन्म_लेता_है	टकेस्_हिस्_बिर्ट्ह्				

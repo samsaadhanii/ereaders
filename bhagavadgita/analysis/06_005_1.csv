@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	uxXarew	3	uxXarexAwmanAwmAnaM	uxXarew	uw_hq1{karwari;viXilif;pra;eka;parasmEpaxI;uw_hqF;BvAxiH}		uxXAra_kare	must_deliver				
-2	AwmanA	1	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,1	apane_xvArA	by_the_mind				
-3	AwmAnam	2	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,1	apanA	the_conditioned_soul				
-4	na	5	nAwmAnamavasAxayew	na{avya}	na{avya}	prawiReXaH,6	na	never				
-5	AwmAnam	4	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,6	apaneko_(aXogawi_meM)	the_conditioned_soul				
-6	avasAxayew	6	0	avasAxayew	ava_sax1_Nic{karwari;viXilif;pra;eka;parasmEpaxI;ava_RaxLz_Nic;BvAxiH}		dAle	put_into_degradation				
-7	AwmA	8	AwmEva	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,11.1	Apa	mind				
-8	eva	9	0	eva{avya}	eva{avya}	sambanXaH,7	hI_wo	certainly				
-9	hi	7	hyAwmano	hi{avya}	hi{avya}	sambanXaH,11.1	kyoMki	indeed				
-10	AwmanaH	10	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,11	apanA	of_the_conditioned_soul				
-11	banXuH	11	banXurAwmEva	banXu{puM}{1;eka}	banXu{puM}{1;eka}	viXeya_viSeRaNam,11.1	miwra	friend				
-11.1	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,7;akarmakaH	(hE)	is				
-12	AwmA	13	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,15.1	Apa	mind				
-13	eva	14	0	eva{avya}	eva{avya}	sambanXaH,12	hI	certainly				
-14	ripuH	16	ripurAwmanaH	ripu{puM}{1;eka}	ripu{puM}{1;eka}	viXeya_viSeRaNam,15.1	Sawru	enemy				
-15	AwmanaH	15	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,14	apanA	of_the_conditioned_soul				
-15.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				
+1	उद्धरेत्	3	उद्धरेदात्मनात्मानं	उद्धरेत्	उत्_हृ1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;उत्_हृञ्;भ्वादिः}		उद्धार_करे	मुस्ट्_डेलिवेर्				
+2	आत्मना	1	0	आत्मन्{पुं}{3;एक}	आत्मन्{पुं}{3;एक}	करणम्,1	अपने_द्वारा	ब्य्_ट्हे_मिन्ड्				
+3	आत्मानम्	2	0	आत्मन्{पुं}{2;एक}	आत्मन्{पुं}{2;एक}	कर्म,1	अपना	ट्हे_चोन्डिटिओनेड्_सोउल्				
+4	न	5	नात्मानमवसादयेत्	न{अव्य}	न{अव्य}	प्रतिषेधः,6	न	नेवेर्				
+5	आत्मानम्	4	0	आत्मन्{पुं}{2;एक}	आत्मन्{पुं}{2;एक}	कर्म,6	अपनेको_(अधोगति_में)	ट्हे_चोन्डिटिओनेड्_सोउल्				
+6	अवसादयेत्	6	0	अवसादयेत्	अव_सद्1_णिच्{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;अव_षदॢँ_णिच्;भ्वादिः}		डाले	पुट्_इन्टो_डेग्रडटिओन्				
+7	आत्मा	8	आत्मैव	आत्मन्{पुं}{1;एक}	आत्मन्{पुं}{1;एक}	कर्ता,11.1	आप	मिन्ड्				
+8	एव	9	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,7	ही_तो	चेर्टइन्ल्य्				
+9	हि	7	ह्यात्मनो	हि{अव्य}	हि{अव्य}	सम्बन्धः,11.1	क्योंकि	इन्डेएड्				
+10	आत्मनः	10	0	आत्मन्{पुं}{2;बहु}/आत्मन्{पुं}{5;एक}/आत्मन्{पुं}{6;एक}	आत्मन्{पुं}{6;एक}	षष्ठीसम्बन्धः,11	अपना	ओङ्_ट्हे_चोन्डिटिओनेड्_सोउल्				
+11	बन्धुः	11	बन्धुरात्मैव	बन्धु{पुं}{1;एक}	बन्धु{पुं}{1;एक}	विधेय_विशेषणम्,11.1	मित्र	ङ्रिएन्ड्				
+11.1	(अस्ति)	12	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,7;अकर्मकः	(है)	इस्				
+12	आत्मा	13	0	आत्मन्{पुं}{1;एक}	आत्मन्{पुं}{1;एक}	कर्ता,15.1	आप	मिन्ड्				
+13	एव	14	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,12	ही	चेर्टइन्ल्य्				
+14	रिपुः	16	रिपुरात्मनः	रिपु{पुं}{1;एक}	रिपु{पुं}{1;एक}	विधेय_विशेषणम्,15.1	शत्रु	एनेम्य्				
+15	आत्मनः	15	0	आत्मन्{पुं}{2;बहु}/आत्मन्{पुं}{5;एक}/आत्मन्{पुं}{6;एक}	आत्मन्{पुं}{6;एक}	षष्ठीसम्बन्धः,14	अपना	ओङ्_ट्हे_चोन्डिटिओनेड्_सोउल्				
+15.1	(अस्ति)	17	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,12;अकर्मकः	(है)	इस्				

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sarva-BUwAni	3	sarvaBUwAni	sarva-BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	sarva-BUwa{napuM}{1;bahu}	karwA,4	saba_BUwa	all_created_entities	<sarva-BUwAni>K1			
-2	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_of_Kunti				
-3	prakqwim	5	prakqwiM	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	karma,4	prakqwi_ko	nature				
-4	yAnwi	6	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}		prApwa_howe_hEM	enter				
-5	mAmikAm	4	mAmikAm	mAmikA{swrI}{2;eka}	mAmikA{swrI}{2;eka}	RaRTIsambanXaH,3	merI	unto_Me				
-6	kalpa-kRaye	2	kalpakRaye	kalpa-kRaya{puM}{7;eka}/kRaya{napuM}{1;xvi}/kRaya{napuM}{2;xvi}/kRaya{napuM}{7;eka}/kRaya{napuM}{8;xvi}	kalpa-kRaya{puM}{7;eka}	aXikaraNam,4	kalpoM_ke_anwa_meM	at_the_end_of_the_millennium	<kalpa-kRaye>T6			
-7	punaH	10	punaswAni	punaH{avya}	punaH{avya}	kriyAviSeRaNam,10	Pira	again				
-8	wAni	8	0	wax{napuM}{1;bahu}/wax{napuM}{2;bahu}	wax{napuM}{1;bahu}	karma,10	unako	all_those				
-9	kalpa-AxO	7	kalpAxO	kalpa-Axi{puM}{7;eka}	kalpa-Axi{puM}{7;eka}	aXikaraNam,10	kalpoM_ke_Axi_meM	in_the_beginning_of_the_millennium	<kalpa-AxO>T6			
-10	visqjAmi	11	visqjAmyaham	vi_sqj2{karwari;lat;u;eka;parasmEpaxI;sqjaz;wuxAxiH}	vi_sqj2{karwari;lat;u;eka;parasmEpaxI;vi_sqjaz;wuxAxiH}		racawA_hUz	create				
-11	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,10	mEM	I				
+1	सर्व-भूतानि	3	सर्वभूतानि	सर्व-भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}/भूत{नपुं}{8;बहु}	सर्व-भूत{नपुं}{1;बहु}	कर्ता,4	सब_भूत	अल्ल्_च्रेअटेड्_एन्टिटिएस्	<सर्व-भूतानि>ख्1			
+2	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,4	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+3	प्रकृतिम्	5	प्रकृतिं	प्रकृति{स्त्री}{2;एक}	प्रकृति{स्त्री}{2;एक}	कर्म,4	प्रकृति_को	नटुरे				
+4	यान्ति	6	यान्ति	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}		प्राप्त_होते_हैं	एन्टेर्				
+5	मामिकाम्	4	मामिकाम्	मामिका{स्त्री}{2;एक}	मामिका{स्त्री}{2;एक}	षष्ठीसम्बन्धः,3	मेरी	उन्टो_ंए				
+6	कल्प-क्षये	2	कल्पक्षये	कल्प-क्षय{पुं}{7;एक}/क्षय{नपुं}{1;द्वि}/क्षय{नपुं}{2;द्वि}/क्षय{नपुं}{7;एक}/क्षय{नपुं}{8;द्वि}	कल्प-क्षय{पुं}{7;एक}	अधिकरणम्,4	कल्पों_के_अन्त_में	अट्_ट्हे_एन्ड्_ओङ्_ट्हे_मिल्लेन्निउम्	<कल्प-क्षये>ठ्6			
+7	पुनः	10	पुनस्तानि	पुनः{अव्य}	पुनः{अव्य}	क्रियाविशेषणम्,10	फिर	अगइन्				
+8	तानि	8	0	तद्{नपुं}{1;बहु}/तद्{नपुं}{2;बहु}	तद्{नपुं}{1;बहु}	कर्म,10	उनको	अल्ल्_ट्होसे				
+9	कल्प-आदौ	7	कल्पादौ	कल्प-आदि{पुं}{7;एक}	कल्प-आदि{पुं}{7;एक}	अधिकरणम्,10	कल्पों_के_आदि_में	इन्_ट्हे_बेगिन्निन्ग्_ओङ्_ट्हे_मिल्लेन्निउम्	<कल्प-आदौ>ठ्6			
+10	विसृजामि	11	विसृजाम्यहम्	वि_सृज्2{कर्तरि;लट्;उ;एक;परस्मैपदी;सृजँ;तुदादिः}	वि_सृज्2{कर्तरि;लट्;उ;एक;परस्मैपदी;वि_सृजँ;तुदादिः}		रचता_हूँ	च्रेअटे				
+11	अहम्	9	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,10	मैं	ई				

@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-saMyawa-AwmanA	1	asaMyawAwmanA	asaMyawAwman{puM}{3;eka}	asaMyawAwman{puM}{3;eka}	karwA,3	asaMyamI_puruRa_xvArA	by_the_unbridled_mind	<<a-saMyawa>Tn-AwmanA>Bs3			
-2	yogaH	2	yogo	yoga{puM}{1;eka}	yoga{puM}{1;eka}	karma,3	yoga	self-realization				
-3	xuRprApaH	3	xuRprApa	xuRprApa{puM}{1;eka}	xus_pra_Ap1{kqw_prawyayaH:kwa;xus_pra_ApLz;svAxiH;puM}{1;eka}	karma,6	xuRprApya_hE	difficult_to_obtain				
-4	iwi	4	iwi	iwi{avya}	iwi{avya}	karma_xyowakaH,3	yaha	thus				
-5	me	5	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,6	merA	my				
-6	mawiH	6	mawiH	mawi{swrI}{1;eka}	mawi{swrI}{1;eka}	karwA,6.1	mawa_hE	opinion				
-6.1	(aswi)	7	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,6;akarmakaH						
-7	vaSya-AwmanA	10	vaSyAwmanA	vaSyAwman{puM}{3;eka}	vaSya-Awman{puM}{3;eka}	karwA,10.1	vaSa_meM_kiye_hue_manavAle	by_the_controlled_mind				
-8	wu	8	wu	wu{avya}	wu{avya}	sambanXaH,10.1	Ora	but				
-9	yawawA	9	yawawA	yawawA{swrI}{1;eka}	yaw1{kqw_prawyayaH:Sawq;yawIz;BvAxiH;puM}{3;eka}	viSeRaNam,7	prayawnaSIla_puruRa_xvArA	while_endeavoring				
-10	avApwum	12	SakyoZvApwumupAyawaH	ava_Ap1{kqw_prawyayaH:wumun;ava_ApLz;svAxiH}	ava_Ap1{kqw_prawyayaH:wumun;ava_ApLz;svAxiH}	sahAyakakriyA,10.1	prApwa_honA_sahaja_hE	practical_to_achieve				
-10.1	SakyaH	13	Sak1{kqw_prawyayaH:yaw;Saklqz;svAxiH;puM}{1;eka}	Sak1{kqw_prawyayaH:yaw;Saklqz;svAxiH;puM}{1;eka}								
-11	upAyawaH	11	0	upAyawaH{avya}	upAyawaH{avya}	kriyAviSeRaNam,10	sAXana_se	appropriate_means				
+1	अ-संयत-आत्मना	1	असंयतात्मना	असंयतात्मन्{पुं}{3;एक}	असंयतात्मन्{पुं}{3;एक}	कर्ता,3	असंयमी_पुरुष_द्वारा	ब्य्_ट्हे_उन्ब्रिड्लेड्_मिन्ड्	<<अ-संयत>ठ्न्-आत्मना>भ्स्3			
+2	योगः	2	योगो	योग{पुं}{1;एक}	योग{पुं}{1;एक}	कर्म,3	योग	सेल्ङ्-रेअलिँअटिओन्				
+3	दुष्प्रापः	3	दुष्प्राप	दुष्प्राप{पुं}{1;एक}	दुस्_प्र_आप्1{कृत्_प्रत्ययः:क्त;दुस्_प्र_आपॢँ;स्वादिः;पुं}{1;एक}	कर्म,6	दुष्प्राप्य_है	डिङ्ङिचुल्ट्_टो_ओब्टइन्				
+4	इति	4	इति	इति{अव्य}	इति{अव्य}	कर्म_द्योतकः,3	यह	ट्हुस्				
+5	मे	5	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,6	मेरा	म्य्				
+6	मतिः	6	मतिः	मति{स्त्री}{1;एक}	मति{स्त्री}{1;एक}	कर्ता,6.1	मत_है	ओपिनिओन्				
+6.1	(अस्ति)	7	()	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,6;अकर्मकः						
+7	वश्य-आत्मना	10	वश्यात्मना	वश्यात्मन्{पुं}{3;एक}	वश्य-आत्मन्{पुं}{3;एक}	कर्ता,10.1	वश_में_किये_हुए_मनवाले	ब्य्_ट्हे_चोन्ट्रोल्लेड्_मिन्ड्				
+8	तु	8	तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,10.1	और	बुट्				
+9	यतता	9	यतता	यतता{स्त्री}{1;एक}	यत्1{कृत्_प्रत्ययः:शतृ;यतीँ;भ्वादिः;पुं}{3;एक}	विशेषणम्,7	प्रयत्नशील_पुरुष_द्वारा	त्हिले_एन्डेअवोरिन्ग्				
+10	अवाप्तुम्	12	शक्योऽवाप्तुमुपायतः	अव_आप्1{कृत्_प्रत्ययः:तुमुन्;अव_आपॢँ;स्वादिः}	अव_आप्1{कृत्_प्रत्ययः:तुमुन्;अव_आपॢँ;स्वादिः}	सहायकक्रिया,10.1	प्राप्त_होना_सहज_है	प्रच्टिचल्_टो_अच्हिएवे				
+10.1	शक्यः	13	शक्1{कृत्_प्रत्ययः:यत्;शक्लृँ;स्वादिः;पुं}{1;एक}	शक्1{कृत्_प्रत्ययः:यत्;शक्लृँ;स्वादिः;पुं}{1;एक}								
+11	उपायतः	11	0	उपायतः{अव्य}	उपायतः{अव्य}	क्रियाविशेषणम्,10	साधन_से	अप्प्रोप्रिअटे_मेअन्स्				

@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yAwa-yAmam	3	yAwayAmaM	yAwa-yAma{puM}{2;eka}	yAwa-yAma{puM}{2;eka}	sup_samucciwaH,10	aXapakA	food_cooked_three_hours_before_being_eaten	<yAwa-yAmaM>Bs6			
-2	gawa-rasam	4	gawarasaM	gawa-rasa{puM}{2;eka}	gawa-rasa{puM}{2;eka}	sup_samucciwaH,10	rasarahiwa	tasteless	<gawa-rasaM>Bs6			
-3	pUwi	5	pUwi	pUwi{napuM}{1;eka}/pUwi{napuM}{2;eka}/pUwi{napuM}{8;eka}	pUwi{napuM}{2;eka}	sup_samucciwaH,10	xurganXayukwa	bad_smelling				
-4	paryuRiwam	6	paryuRiwaM	paryuRiwa{puM}{2;eka}/paryuRiwa{napuM}{1;eka}/paryuRiwa{napuM}{2;eka}	paryuRiwa{puM}{2;eka}	sup_samucciwaH,10	bAsI	decomposed				
-5	ca	7	ca	ca{avya}	ca{avya}	sambanXaH,10.2	Ora	also				
-6	yaw	1	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	viSeRaNam,11;niwya_sambanXaH,12.2	jo	that_which				
-7	ucCiRtam	8	ucCiRtamapi	ucCiRta{puM}{2;eka}/ux_SAs1{karwari;lot;ma;xvi;parasmEpaxI;SAsuz;axAxiH}	ucCiRta{puM}{2;eka}	sup_samucciwaH,10	ucCiRta	remnants_of_food_eaten_by_others				
-8	api	11	0	api{avya}	api{avya}	sambanXaH,10	BI	also				
-9	ca	10	cAmeXyaM	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	waWA	and				
-10	a-meXyam	9	0	a-meXya{puM}{2;eka}/meXya{napuM}{1;eka}/meXya{napuM}{2;eka}	ameXya{napuM}{2;eka}	viXeya_viSeRaNam,10.2	apaviwra	untouchable	<na-meXyam>Tn			
-10.1	(Bojanam)	2	(0)	(Bojana{puM}{2;eka}/Bojana{napuM}{1;eka}/Bojana{napuM}{2;eka})	(Bojana{puM}{2;eka})	karwA,10.2	(Bojana)	eating				
-10.2	(Bavawi)	12	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,10.1;akarmakaH	(hE)	becomes				
-11	Bojanam	14	BojanaM	Bojana{puM}{2;eka}/Bojana{napuM}{1;eka}/Bojana{napuM}{2;eka}	Bojana{puM}{2;eka}	karwA,12.1	Bojana	eating				
-12	wAmasa-priyam	15	wAmasapriyam	wAmasa-priya{puM}{2;eka}/priya{napuM}{1;eka}/priya{napuM}{2;eka}	wAmasa-priya{puM}{2;eka}	viXeya_viSeRaNam,12.1	wAmasa_puruRa_ko_priya	dear_to_those_in_the_mode_of_darkness	<wAmasa-priyam>T6			
-12.1	(Bavawi)	16	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(howA_hE)	becomes				
-12.2	(waw)	13	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{2;eka})	viSeRaNam,11	(vaha)	that				
+1	यात-यामम्	3	यातयामं	यात-याम{पुं}{2;एक}	यात-याम{पुं}{2;एक}	सुप्_समुच्चितः,10	अधपका	ङोओड्_चोओकेड्_ट्ह्रेए_होउर्स्_बेङोरे_बेइन्ग्_एअटेन्	<यात-यामं>भ्स्6			
+2	गत-रसम्	4	गतरसं	गत-रस{पुं}{2;एक}	गत-रस{पुं}{2;एक}	सुप्_समुच्चितः,10	रसरहित	टस्टेलेस्स्	<गत-रसं>भ्स्6			
+3	पूति	5	पूति	पूति{नपुं}{1;एक}/पूति{नपुं}{2;एक}/पूति{नपुं}{8;एक}	पूति{नपुं}{2;एक}	सुप्_समुच्चितः,10	दुर्गन्धयुक्त	बड्_स्मेल्लिन्ग्				
+4	पर्युषितम्	6	पर्युषितं	पर्युषित{पुं}{2;एक}/पर्युषित{नपुं}{1;एक}/पर्युषित{नपुं}{2;एक}	पर्युषित{पुं}{2;एक}	सुप्_समुच्चितः,10	बासी	डेचोम्पोसेड्				
+5	च	7	च	च{अव्य}	च{अव्य}	सम्बन्धः,10.2	और	अल्सो				
+6	यत्	1	यत्	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यत्{अव्य}	विशेषणम्,11;नित्य_सम्बन्धः,12.2	जो	ट्हट्_त्हिच्ह्				
+7	उच्छिष्टम्	8	उच्छिष्टमपि	उच्छिष्ट{पुं}{2;एक}/उद्_शास्1{कर्तरि;लोट्;म;द्वि;परस्मैपदी;शासुँ;अदादिः}	उच्छिष्ट{पुं}{2;एक}	सुप्_समुच्चितः,10	उच्छिष्ट	रेम्नन्ट्स्_ओङ्_ङोओड्_एअटेन्_ब्य्_ओट्हेर्स्				
+8	अपि	11	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,10	भी	अल्सो				
+9	च	10	चामेध्यं	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,10	तथा	अन्ड्				
+10	अ-मेध्यम्	9	0	अ-मेध्य{पुं}{2;एक}/मेध्य{नपुं}{1;एक}/मेध्य{नपुं}{2;एक}	अमेध्य{नपुं}{2;एक}	विधेय_विशेषणम्,10.2	अपवित्र	उन्टोउच्हब्ले	<न-मेध्यम्>ठ्न्			
+10.1	(भोजनम्)	2	(0)	(भोजन{पुं}{2;एक}/भोजन{नपुं}{1;एक}/भोजन{नपुं}{2;एक})	(भोजन{पुं}{2;एक})	कर्ता,10.2	(भोजन)	एअटिन्ग्				
+10.2	(भवति)	12	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,10.1;अकर्मकः	(है)	बेचोमेस्				
+11	भोजनम्	14	भोजनं	भोजन{पुं}{2;एक}/भोजन{नपुं}{1;एक}/भोजन{नपुं}{2;एक}	भोजन{पुं}{2;एक}	कर्ता,12.1	भोजन	एअटिन्ग्				
+12	तामस-प्रियम्	15	तामसप्रियम्	तामस-प्रिय{पुं}{2;एक}/प्रिय{नपुं}{1;एक}/प्रिय{नपुं}{2;एक}	तामस-प्रिय{पुं}{2;एक}	विधेय_विशेषणम्,12.1	तामस_पुरुष_को_प्रिय	डेअर्_टो_ट्होसे_इन्_ट्हे_मोडे_ओङ्_डर्क्नेस्स्	<तामस-प्रियम्>ठ्6			
+12.1	(भवति)	16	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,11;अकर्मकः	(होता_है)	बेचोमेस्				
+12.2	(तत्)	13	(0)	(तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक})	(तद्{नपुं}{2;एक})	विशेषणम्,11	(वह)	ट्हट्				

@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,9	he_pArWa	O_son_of_Prtha				
-2	na	4	nEveha	na{avya}	na{avya}	prawiReXaH,9	na	never				
-3	eva	2	0	eva{avya}	eva{avya}	sambanXaH,9	hI	is_it_so				
-4	iha	7	0	iha{avya}	iha{avya}	aXikaraNam,9	yahAz_(isa_loka_meM)	in_this_material_world				
-5	na	8	nAmuwra	na{avya}	na{avya}	prawiReXaH,6	na	never				
-6	amuwra	9	0	amuwra{avya}	amuwra{avya}	aXikaraNam,9	paraloka_meM	in_the_next_life				
-7	vinASaH	5	vinASaswasya	vinASa{puM}{1;eka}	vinASa{puM}{1;eka}	karwA,9	vinASa	destruction				
-8	wasya	6	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	sambanXaH,7	usakA_(puruRa_kA)	his				
-9	vixyawe	3	vixyawe	vixyawA{swrI}{1;xvi}/vixyawA{swrI}{2;xvi}/vixyawA{swrI}{8;eka}/vixyawA{swrI}{8;xvi}/vix1{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;axAxiH}/vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix2{BAve;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix4{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;ruXAxiH}/vix3{karmaNi;lat;pra;eka;AwmanepaxI;vixLz;wuxAxiH}	vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}	aBihiwakarwA,7	howA_hE	exists				
-10	na	11	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	never				
-11	hi	10	hi	hi{avya}	hi{avya}	sambanXaH,16	kyoMki	certainly				
-12	kalyANa-kqw	13	kalyANakqwkaScixxurgawiM	kalyANa-kqw{puM}{1;eka}/kqw{puM}{8;eka}	kalyANa-kqw{puM}{1;eka}	apAxAnam,13	AwmoxXAra_ke_liye_arWAw_BagavawprApwi_ke_liye_karma_karanevAlA	one_who_is_engaged_in_auspicious_activities	<kalyANa-kqw>U			
-13	kaSciw	12	0	kaSciw{avya}/kiFciw{puM}{1;eka}	kiFciw{puM}{1;eka}	karwA,16	koI_BI_(manuRya)	anyone				
-14	xur-gawim	15	0	xur-gawi{swrI}{2;eka}	xur-gawi{swrI}{2;eka}	karma,16	xurgawi_ko	degradation	<xur-gawim>Tp			
-15	wAwa	16	wAwa	wAwa{puM}{8;eka}	wAwa{puM}{8;eka}	samboXyaH,16	he_pyAre					
-16	gacCawi	14	gacCawi	gacCaw{puM}{7;eka}/gacCaw{napuM}{7;eka}/gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aBihiwakarwA,13;sakarmakaH	prApwa_howA	goes				
+1	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,9	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह				
+2	न	4	नैवेह	न{अव्य}	न{अव्य}	प्रतिषेधः,9	न	नेवेर्				
+3	एव	2	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,9	ही	इस्_इट्_सो				
+4	इह	7	0	इह{अव्य}	इह{अव्य}	अधिकरणम्,9	यहाँ_(इस_लोक_में)	इन्_ट्हिस्_मटेरिअल्_तोर्ल्ड्				
+5	न	8	नामुत्र	न{अव्य}	न{अव्य}	प्रतिषेधः,6	न	नेवेर्				
+6	अमुत्र	9	0	अमुत्र{अव्य}	अमुत्र{अव्य}	अधिकरणम्,9	परलोक_में	इन्_ट्हे_नेद्ट्_लिङे				
+7	विनाशः	5	विनाशस्तस्य	विनाश{पुं}{1;एक}	विनाश{पुं}{1;एक}	कर्ता,9	विनाश	डेस्ट्रुच्टिओन्				
+8	तस्य	6	0	तद्{पुं}{6;एक}/तद्{नपुं}{6;एक}	तद्{पुं}{6;एक}	सम्बन्धः,7	उसका_(पुरुष_का)	हिस्				
+9	विद्यते	3	विद्यते	विद्यता{स्त्री}{1;द्वि}/विद्यता{स्त्री}{2;द्वि}/विद्यता{स्त्री}{8;एक}/विद्यता{स्त्री}{8;द्वि}/विद्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;विदँ;अदादिः}/विद्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;विदँ;दिवादिः}/विद्2{भावे;लट्;प्र;एक;आत्मनेपदी;विदँ;दिवादिः}/विद्4{कर्मणि;लट्;प्र;एक;आत्मनेपदी;विदँ;रुधादिः}/विद्3{कर्मणि;लट्;प्र;एक;आत्मनेपदी;विदॢँ;तुदादिः}	विद्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;विदँ;दिवादिः}	अभिहितकर्ता,7	होता_है	एदिस्ट्स्				
+10	न	11	न	न{अव्य}	न{अव्य}	प्रतिषेधः,13	नहीं	नेवेर्				
+11	हि	10	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,16	क्योंकि	चेर्टइन्ल्य्				
+12	कल्याण-कृत्	13	कल्याणकृत्कश्चिद्दुर्गतिं	कल्याण-कृत्{पुं}{1;एक}/कृत्{पुं}{8;एक}	कल्याण-कृत्{पुं}{1;एक}	अपादानम्,13	आत्मोद्धार_के_लिये_अर्थात्_भगवत्प्राप्ति_के_लिये_कर्म_करनेवाला	ओने_त्हो_इस्_एन्गगेड्_इन्_अउस्पिचिओउस्_अच्टिविटिएस्	<कल्याण-कृत्>ऊ			
+13	कश्चित्	12	0	कश्चित्{अव्य}/किञ्चित्{पुं}{1;एक}	किञ्चित्{पुं}{1;एक}	कर्ता,16	कोई_भी_(मनुष्य)	अन्योने				
+14	दुर्-गतिम्	15	0	दुर्-गति{स्त्री}{2;एक}	दुर्-गति{स्त्री}{2;एक}	कर्म,16	दुर्गति_को	डेग्रडटिओन्	<दुर्-गतिम्>ठ्प्			
+15	तात	16	तात	तात{पुं}{8;एक}	तात{पुं}{8;एक}	सम्बोध्यः,16	हे_प्यारे					
+16	गच्छति	14	गच्छति	गच्छत्{पुं}{7;एक}/गच्छत्{नपुं}{7;एक}/गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}	गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}	अभिहितकर्ता,13;सकर्मकः	प्राप्त_होता	गोएस्				

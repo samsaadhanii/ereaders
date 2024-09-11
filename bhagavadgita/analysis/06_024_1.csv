@@ -1,23 +1,23 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	safkalpa-praBavAn	1	safkalpapraBavAnkAmAMswyakwvA	safkalpa-praBava{puM}{2;bahu}	safkalpa-praBava{puM}{2;bahu}	viSeRaNam,2	saMkalpa_se_uwpanna_honevAlI	born_of_material_desires	<safkalpa-praBavAn>Bs6			
-2	kAmAn	3	0	kAma{puM}{2;bahu}	kAma{puM}{2;bahu}	karma,3	kAmanAoM_ko	sense_gratification				
-3	wyakwvA	5	0	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	pUrvakAlaH,13	wyAgakara	giving_up				
-4	sarvAn	2	sarvAnaSeRawaH	sarva{puM}{2;bahu}	sarva{puM}{2;bahu}	viSeRaNam,2	sampUrNa	all				
-5	a-SeRawaH	4	0	a-SeRawaH	aSeRawaH{wasil}	kriyAviSeRaNam,3	niHSeRarUpa_se	completely	<na-SeRawaH>Tn			
-6	manasA	6	manasEvenxriyagrAmaM	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	karaNam,9	mana_ke_xvArA	by_the_mind				
-7	eva	9	eva	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
-8	inxriya-grAmam	7	0	inxriya-grAma{puM}{2;eka}	inxriya-grAma{puM}{2;eka}	karma,9	inxriyoM_ke_samuxAya_ko	the_full_set_of_senses	<inxriya-grAmam>T6			
-9	viniyamya	10	viniyamya	vini_yam2{kqw_prawyayaH:lyap;yamaz;BvAxiH}	vi_ni_yam2{kqw_prawyayaH:lyap;vi_ni_yamaz;BvAxiH}	pUrvakAlaH,13	BalIBAzwi_rokakara	regulating				
-10	samanwawaH	8	samanwawaH	samanwawaH{avya}	samanwawaH{avya}	kriyAviSeRaNam,9	saBI_ora_se	from_all_sides				
-11	SanEH	11	SanEH	SanEH{avya}	SanEH{avya}	vIpsA,12	krama_se	gradually				
-12	SanEH	12	SanEruparamexbuxXyA	SanEH{avya}	SanEH{avya}	kriyAviSeRaNam,13	krama_se	step_by_step				
-13	uparamew	13	0	uparamew	upa_ram1{karwari;viXilif;pra;eka;AwmanepaxI;upa_ramuz;BvAxiH}		uparawi_ko_prApwa_ho	hesitated				
-14	buxXyA	15	0	buxXi{swrI}{3;eka}	buxXi{swrI}{3;eka}	karaNam,18	buxXi_ke_xvArA	by_intelligence				
-15	Xqwi-gqhIwayA	14	XqwigqhIwayA	Xqwi-gqhIwA{swrI}{3;eka}	Xqwi-gqhIwA{swrI}{3;eka}	viSeRaNam,14	XEryayukwa	carrying_the_conviction	<Xqwi-gqhIwayA>T3			
-16	Awma-saMsWam	17	AwmasaMsWaM	Awman-saMsWa{puM}{2;eka}/saMsWa{napuM}{1;eka}/saMsWa{napuM}{2;eka}	Awman-saMsWa{puM}{2;eka}	karmasamAnAXikaraNam,18	paramAwmA_meM_sWiwa	placed_in_transcendence	<Awma-saMsWam>T7			
-17	manaH	16	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}	manas{napuM}{2;eka}	karma,18	mana_ko	mind				
-18	kqwvA	18	kqwvA	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,22	karake	doing_so				
-19	na	21	na	na{avya}	na{avya}	prawiReXaH,22	na	not				
-20	kiFciw	19	kiFcixapi	kiFciw{avya}/kiFciw{napuM}{1;eka}/kiFciw{napuM}{2;eka}	kiFciw{napuM}{2;eka}	karma,22	kuCa	anything_else				
-21	api	20	0	api{avya}	api{avya}	sambanXaH,20	BI	even				
-22	cinwayew	22	cinwayew	cinw1{karwari;viXilif;pra;eka;parasmEpaxI;ciwiz;curAxiH}/cinw1_Nic{karwari;viXilif;pra;eka;parasmEpaxI;ciwiz;curAxiH}	cinw1{karwari;viXilif;pra;eka;parasmEpaxI;ciwiz;curAxiH}		cinwana_kare	be_thinking_of				
+1	सङ्कल्प-प्रभवान्	1	सङ्कल्पप्रभवान्कामांस्त्यक्त्वा	सङ्कल्प-प्रभव{पुं}{2;बहु}	सङ्कल्प-प्रभव{पुं}{2;बहु}	विशेषणम्,2	संकल्प_से_उत्पन्न_होनेवाली	बोर्न्_ओङ्_मटेरिअल्_डेसिरेस्	<सङ्कल्प-प्रभवान्>भ्स्6			
+2	कामान्	3	0	काम{पुं}{2;बहु}	काम{पुं}{2;बहु}	कर्म,3	कामनाओं_को	सेन्से_ग्रटिङिचटिओन्				
+3	त्यक्त्वा	5	0	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	पूर्वकालः,13	त्यागकर	गिविन्ग्_उप्				
+4	सर्वान्	2	सर्वानशेषतः	सर्व{पुं}{2;बहु}	सर्व{पुं}{2;बहु}	विशेषणम्,2	सम्पूर्ण	अल्ल्				
+5	अ-शेषतः	4	0	अ-शेषतः	अशेषतः{तसिल्}	क्रियाविशेषणम्,3	निःशेषरूप_से	चोम्प्लेटेल्य्	<न-शेषतः>ठ्न्			
+6	मनसा	6	मनसैवेन्द्रियग्रामं	मनस्{नपुं}{3;एक}/मनसा{स्त्री}{1;एक}	मनस्{नपुं}{3;एक}	करणम्,9	मन_के_द्वारा	ब्य्_ट्हे_मिन्ड्				
+7	एव	9	एव	एव{अव्य}	एव{अव्य}	सम्बन्धः,10	ही	चेर्टइन्ल्य्				
+8	इन्द्रिय-ग्रामम्	7	0	इन्द्रिय-ग्राम{पुं}{2;एक}	इन्द्रिय-ग्राम{पुं}{2;एक}	कर्म,9	इन्द्रियों_के_समुदाय_को	ट्हे_ङुल्ल्_सेट्_ओङ्_सेन्सेस्	<इन्द्रिय-ग्रामम्>ठ्6			
+9	विनियम्य	10	विनियम्य	विनि_यम्2{कृत्_प्रत्ययः:ल्यप्;यमँ;भ्वादिः}	वि_नि_यम्2{कृत्_प्रत्ययः:ल्यप्;वि_नि_यमँ;भ्वादिः}	पूर्वकालः,13	भलीभाँति_रोककर	रेगुलटिन्ग्				
+10	समन्ततः	8	समन्ततः	समन्ततः{अव्य}	समन्ततः{अव्य}	क्रियाविशेषणम्,9	सभी_ओर_से	ङ्रोम्_अल्ल्_सिडेस्				
+11	शनैः	11	शनैः	शनैः{अव्य}	शनैः{अव्य}	वीप्सा,12	क्रम_से	ग्रडुअल्ल्य्				
+12	शनैः	12	शनैरुपरमेद्बुद्ध्या	शनैः{अव्य}	शनैः{अव्य}	क्रियाविशेषणम्,13	क्रम_से	स्टेप्_ब्य्_स्टेप्				
+13	उपरमेत्	13	0	उपरमेत्	उप_रम्1{कर्तरि;विधिलिङ्;प्र;एक;आत्मनेपदी;उप_रमुँ;भ्वादिः}		उपरति_को_प्राप्त_हो	हेसिटटेड्				
+14	बुद्ध्या	15	0	बुद्धि{स्त्री}{3;एक}	बुद्धि{स्त्री}{3;एक}	करणम्,18	बुद्धि_के_द्वारा	ब्य्_इन्टेल्लिगेन्चे				
+15	धृति-गृहीतया	14	धृतिगृहीतया	धृति-गृहीता{स्त्री}{3;एक}	धृति-गृहीता{स्त्री}{3;एक}	विशेषणम्,14	धैर्ययुक्त	चर्र्यिन्ग्_ट्हे_चोन्विच्टिओन्	<धृति-गृहीतया>ठ्3			
+16	आत्म-संस्थम्	17	आत्मसंस्थं	आत्मन्-संस्थ{पुं}{2;एक}/संस्थ{नपुं}{1;एक}/संस्थ{नपुं}{2;एक}	आत्मन्-संस्थ{पुं}{2;एक}	कर्मसमानाधिकरणम्,18	परमात्मा_में_स्थित	प्लचेड्_इन्_ट्रन्स्चेन्डेन्चे	<आत्म-संस्थम्>ठ्7			
+17	मनः	16	मनः	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}	मनस्{नपुं}{2;एक}	कर्म,18	मन_को	मिन्ड्				
+18	कृत्वा	18	कृत्वा	कृ1{कृत्_प्रत्ययः:क्त्वा;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:क्त्वा;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	पूर्वकालः,22	करके	डोइन्ग्_सो				
+19	न	21	न	न{अव्य}	न{अव्य}	प्रतिषेधः,22	न	नोट्				
+20	किञ्चित्	19	किञ्चिदपि	किञ्चित्{अव्य}/किञ्चित्{नपुं}{1;एक}/किञ्चित्{नपुं}{2;एक}	किञ्चित्{नपुं}{2;एक}	कर्म,22	कुछ	अन्य्ट्हिन्ग्_एल्से				
+21	अपि	20	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,20	भी	एवेन्				
+22	चिन्तयेत्	22	चिन्तयेत्	चिन्त्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;चितिँ;चुरादिः}/चिन्त्1_णिच्{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;चितिँ;चुरादिः}	चिन्त्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;चितिँ;चुरादिः}		चिन्तन_करे	बे_ट्हिन्किन्ग्_ओङ्				

@@ -1,26 +1,26 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	3	0	na{avya}	na{avya}	prawiReXaH,2	na	never				
-2	jAyawe	4	jAyawe	jan3{karwari;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}	jan3{karwari;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}	anyawaraH,3	janma_lewA_hE	is_birth				
-3	mriyawe	7	mriyawe	mq1{karwari;lat;pra;eka;AwmanepaxI;mqf;wuxAxiH}/mq1{BAve;lat;pra;eka;AwmanepaxI;mqf;wuxAxiH}	mq1{karwari;lat;pra;eka;AwmanepaxI;mqf;wuxAxiH}		marawA_hE	dies				
-4	vA	6	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,3	Ora	nor				
-5	kaxAciw	2	kaxAcinnAyaM	kaxAciw{avya}	kaxAciw{avya}	aXikaraNam,3	kisI_kAla_meM_BI	at_any_time				
-6	na	5	na	na{avya}	na{avya}	prawiReXaH,3	na	never				
-6.1	(ayam)	1	(0)	(aya{puM}{2;eka}/ixam{puM}{1;eka})	(ixam{puM}{1;eka})	karwA,2	(yaha)	this_(the_soul)				
-7	ayam	8	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karwA,9	yaha_(AwmA)	this_(the_soul)				
-8	BUwvA	9	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,9	uwpanna_hokara	after_being_born				
-9	BaviwA	13	BaviwA	as2{karwari;lut;pra;eka;parasmEpaxI;asaz;axAxiH}/as2{BAve;lut;pra;eka;AwmanepaxI;asaz;axAxiH}/BaviwA{swrI}{1;eka}/Baviwq{puM}{1;eka}/BU1{karwari;lut;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lut;pra;eka;parasmEpaxI;BU;BvAxiH}		honevAlA_hE	does_it_become				
-10	vA	11	vA	vA{avya}	vA{avya}	sambanXaH,9	waWA	nor				
-11	na	12	na	na{avya}	na{avya}	prawiReXaH,8	na	not				
-12	BUyaH	10	BUyaH	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,9	Pira	again				
-13	a-jaH	15	ajo	aja{puM}{1;eka}	aja{puM}{1;eka}	sup_samucciwaH,17	ajanmA	unborn	<na-jaH>U			
-14	niwyaH	16	niwyaH	niwya{puM}{1;eka}	niwya{puM}{1;eka}	sup_samucciwaH,17	niwya	eternal				
-15	SASvawaH	17	SASvawoZyaM	SASvawa{puM}{1;eka}	SASvawa{puM}{1;eka}	sup_samucciwaH,17	sanAwana	everlasting				
-16	ayam	14	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karwA,17.2	yaha	this_(the_soul)				
-17	purANaH	18	purANo	purANa{puM}{1;eka}	purANa{puM}{1;eka}	viXeya_viSeRaNam,17.2	purAwana	primeval				
-17.1	(ca)	19	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,17	(Ora)	and				
-17.2	(aswi)	20	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				
-18	na	24	na	na{avya}	na{avya}	prawiReXaH,19	nahIM	not				
-19	hanyawe	25	hanyawe	han1{karmaNi;lat;pra;eka;AwmanepaxI;hanaz;axAxiH}	han1{karmaNi;lat;pra;eka;AwmanepaxI;hanaz;axAxiH}	aBihiwakarma,21.1;sakarmakaH	mArA_jAwA	is_slain				
-20	hanyamAne	23	hanyamAne	hanyamAna{puM}{7;eka}/hanyamAna{napuM}{1;xvi}/hanyamAna{napuM}{2;xvi}/hanyamAna{napuM}{7;eka}/hanyamAna{napuM}{8;xvi}/hanyamAnA{swrI}{1;xvi}/hanyamAnA{swrI}{2;xvi}/hanyamAnA{swrI}{8;eka}/hanyamAnA{swrI}{8;xvi}	hanyamAna{napuM}{7;eka}	varwamAnasamAnakAlaH,19	mAre_jAnepara	being_slain				
-21	SarIre	22	SarIre	SarIra{napuM}{1;xvi}/SarIra{napuM}{2;xvi}/SarIra{napuM}{7;eka}/SarIra{napuM}{8;xvi}	SarIra{napuM}{7;eka}	aXikaraNam,19	SarIra_ke	of_the_body				
-21.1	(ayam)	21	(0)	(aya{puM}{2;eka}/ixam{puM}{1;eka})	(ixam{puM}{1;eka})	karma,19	(yaha)	this_(the_soul)				
+1	न	3	0	न{अव्य}	न{अव्य}	प्रतिषेधः,2	न	नेवेर्				
+2	जायते	4	जायते	जन्3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;जनीँ;दिवादिः}	जन्3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;जनीँ;दिवादिः}	अन्यतरः,3	जन्म_लेता_है	इस्_बिर्ट्ह्				
+3	म्रियते	7	म्रियते	मृ1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;मृङ्;तुदादिः}/मृ1{भावे;लट्;प्र;एक;आत्मनेपदी;मृङ्;तुदादिः}	मृ1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;मृङ्;तुदादिः}		मरता_है	डिएस्				
+4	वा	6	वा	वा{अव्य}	वा{अव्य}	अन्यतर_द्योतकः,3	और	नोर्				
+5	कदाचित्	2	कदाचिन्नायं	कदाचित्{अव्य}	कदाचित्{अव्य}	अधिकरणम्,3	किसी_काल_में_भी	अट्_अन्य्_टिमे				
+6	न	5	न	न{अव्य}	न{अव्य}	प्रतिषेधः,3	न	नेवेर्				
+6.1	(अयम्)	1	(0)	(अय{पुं}{2;एक}/इदम्{पुं}{1;एक})	(इदम्{पुं}{1;एक})	कर्ता,2	(यह)	ट्हिस्_(ट्हे_सोउल्)				
+7	अयम्	8	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	कर्ता,9	यह_(आत्मा)	ट्हिस्_(ट्हे_सोउल्)				
+8	भूत्वा	9	भूत्वा	अस्2{कृत्_प्रत्ययः:क्त्वा;असँ;अदादिः}	भू1{कृत्_प्रत्ययः:क्त्वा;भू;भ्वादिः}	पूर्वकालः,9	उत्पन्न_होकर	अङ्टेर्_बेइन्ग्_बोर्न्				
+9	भविता	13	भविता	अस्2{कर्तरि;लुट्;प्र;एक;परस्मैपदी;असँ;अदादिः}/अस्2{भावे;लुट्;प्र;एक;आत्मनेपदी;असँ;अदादिः}/भविता{स्त्री}{1;एक}/भवितृ{पुं}{1;एक}/भू1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}		होनेवाला_है	डोएस्_इट्_बेचोमे				
+10	वा	11	वा	वा{अव्य}	वा{अव्य}	सम्बन्धः,9	तथा	नोर्				
+11	न	12	न	न{अव्य}	न{अव्य}	प्रतिषेधः,8	न	नोट्				
+12	भूयः	10	भूयः	भूयः{अव्य}/भूयस्{नपुं}{1;एक}/भूयस्{नपुं}{2;एक}/भूयस्{नपुं}{8;एक}	भूयः{अव्य}	क्रियाविशेषणम्,9	फिर	अगइन्				
+13	अ-जः	15	अजो	अज{पुं}{1;एक}	अज{पुं}{1;एक}	सुप्_समुच्चितः,17	अजन्मा	उन्बोर्न्	<न-जः>ऊ			
+14	नित्यः	16	नित्यः	नित्य{पुं}{1;एक}	नित्य{पुं}{1;एक}	सुप्_समुच्चितः,17	नित्य	एटेर्नल्				
+15	शाश्वतः	17	शाश्वतोऽयं	शाश्वत{पुं}{1;एक}	शाश्वत{पुं}{1;एक}	सुप्_समुच्चितः,17	सनातन	एवेर्लस्टिन्ग्				
+16	अयम्	14	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	कर्ता,17.2	यह	ट्हिस्_(ट्हे_सोउल्)				
+17	पुराणः	18	पुराणो	पुराण{पुं}{1;एक}	पुराण{पुं}{1;एक}	विधेय_विशेषणम्,17.2	पुरातन	प्रिमेवल्				
+17.1	(च)	19	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,17	(और)	अन्ड्				
+17.2	(अस्ति)	20	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})		(है)	इस्				
+18	न	24	न	न{अव्य}	न{अव्य}	प्रतिषेधः,19	नहीं	नोट्				
+19	हन्यते	25	हन्यते	हन्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;हनँ;अदादिः}	हन्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;हनँ;अदादिः}	अभिहितकर्म,21.1;सकर्मकः	मारा_जाता	इस्_स्लइन्				
+20	हन्यमाने	23	हन्यमाने	हन्यमान{पुं}{7;एक}/हन्यमान{नपुं}{1;द्वि}/हन्यमान{नपुं}{2;द्वि}/हन्यमान{नपुं}{7;एक}/हन्यमान{नपुं}{8;द्वि}/हन्यमाना{स्त्री}{1;द्वि}/हन्यमाना{स्त्री}{2;द्वि}/हन्यमाना{स्त्री}{8;एक}/हन्यमाना{स्त्री}{8;द्वि}	हन्यमान{नपुं}{7;एक}	वर्तमानसमानकालः,19	मारे_जानेपर	बेइन्ग्_स्लइन्				
+21	शरीरे	22	शरीरे	शरीर{नपुं}{1;द्वि}/शरीर{नपुं}{2;द्वि}/शरीर{नपुं}{7;एक}/शरीर{नपुं}{8;द्वि}	शरीर{नपुं}{7;एक}	अधिकरणम्,19	शरीर_के	ओङ्_ट्हे_बोड्य्				
+21.1	(अयम्)	21	(0)	(अय{पुं}{2;एक}/इदम्{पुं}{1;एक})	(इदम्{पुं}{1;एक})	कर्म,19	(यह)	ट्हिस्_(ट्हे_सोउल्)				

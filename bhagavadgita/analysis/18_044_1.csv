@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kqRi-gO-rakRya-vANijyam	1	kqRigOrakRyavANijyaM	kqRi-gOrakRya-vANijya{napuM}{1;eka}/vANijya{napuM}{2;eka}	kqRi-gO-rakRya-vANijya{napuM}{1;eka}	karwA,3.1	KewI_gopAlana_Ora_kraya-vikrayarUpa_sawya-vyavahAra	plowing,_protection_of_the_cows_and_trading	<<kqRi-<gO-rakRya>U>Di-vANijyam>T6			
-2	vESya-karma	3	vESyakarma	vESyakarman{napuM}{1;eka}/vESyakarman{napuM}{2;eka}	vESya-karman{napuM}{1;eka}	viXeya_viSeRaNam,3.1	vESya_karma	duty_of_vaisya	<vESya-karma>T6			
-3	sva-BAva-jam	2	svaBAvajam	svaBAvaja{puM}{2;eka}/svaBAvaja{napuM}{1;eka}/svaBAvaja{napuM}{2;eka}	svaBAva-ja{napuM}{1;eka}	viSeRaNam,2	svABAvika	born_of_his_own_nature	<<sva-BAva>T6-jam>U			
-3.1	(aswi)	4	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,1;akarmakaH	(hEM)	is				
-4	paricarya-Awmakam	5	paricaryAwmakaM	paricarya-Awmakam	paricarya-Awmaka{napuM}{1;eka}	viSeRaNam,5	saba_varNoM_kI_sevA_karanA	nature_of_service	<paricarya-Awmakam>Bs6			
-5	karma	9	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwA,8.1	karma	duty				
-6	SUxrasya	6	SUxrasyApi	SUxra{puM}{6;eka}	SUxra{puM}{6;eka}	RaRTIsambanXaH,8	SUxra_kA	of_the_sudra				
-7	api	7	0	api{avya}	api{avya}	sambanXaH,6	BI	also				
-8	sva-BAva-jam	8	svaBAvajam	svaBAvaja{puM}{2;eka}/svaBAvaja{napuM}{1;eka}/svaBAvaja{napuM}{2;eka}	svaBAva-ja{napuM}{1;eka}	viXeya_viSeRaNam,8.1	svABAvika	born_of_his_own_nature	<<sva-BAva>T6-jam>U			
-8.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hE)	is				
+1	कृषि-गौ-रक्ष्य-वाणिज्यम्	1	कृषिगौरक्ष्यवाणिज्यं	कृषि-गौरक्ष्य-वाणिज्य{नपुं}{1;एक}/वाणिज्य{नपुं}{2;एक}	कृषि-गौ-रक्ष्य-वाणिज्य{नपुं}{1;एक}	कर्ता,3.1	खेती_गोपालन_और_क्रय-विक्रयरूप_सत्य-व्यवहार	प्लोतिन्ग्,_प्रोटेच्टिओन्_ओङ्_ट्हे_चोत्स्_अन्ड्_ट्रडिन्ग्	<<कृषि-<गौ-रक्ष्य>ऊ>ढि-वाणिज्यम्>ठ्6			
+2	वैश्य-कर्म	3	वैश्यकर्म	वैश्यकर्मन्{नपुं}{1;एक}/वैश्यकर्मन्{नपुं}{2;एक}	वैश्य-कर्मन्{नपुं}{1;एक}	विधेय_विशेषणम्,3.1	वैश्य_कर्म	डुट्य्_ओङ्_वइस्य	<वैश्य-कर्म>ठ्6			
+3	स्व-भाव-जम्	2	स्वभावजम्	स्वभावज{पुं}{2;एक}/स्वभावज{नपुं}{1;एक}/स्वभावज{नपुं}{2;एक}	स्वभाव-ज{नपुं}{1;एक}	विशेषणम्,2	स्वाभाविक	बोर्न्_ओङ्_हिस्_ओत्न्_नटुरे	<<स्व-भाव>ठ्6-जम्>ऊ			
+3.1	(अस्ति)	4	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,1;अकर्मकः	(हैं)	इस्				
+4	परिचर्य-आत्मकम्	5	परिचर्यात्मकं	परिचर्य-आत्मकम्	परिचर्य-आत्मक{नपुं}{1;एक}	विशेषणम्,5	सब_वर्णों_की_सेवा_करना	नटुरे_ओङ्_सेर्विचे	<परिचर्य-आत्मकम्>भ्स्6			
+5	कर्म	9	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{1;एक}	कर्ता,8.1	कर्म	डुट्य्				
+6	शूद्रस्य	6	शूद्रस्यापि	शूद्र{पुं}{6;एक}	शूद्र{पुं}{6;एक}	षष्ठीसम्बन्धः,8	शूद्र_का	ओङ्_ट्हे_सुड्र				
+7	अपि	7	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,6	भी	अल्सो				
+8	स्व-भाव-जम्	8	स्वभावजम्	स्वभावज{पुं}{2;एक}/स्वभावज{नपुं}{1;एक}/स्वभावज{नपुं}{2;एक}	स्वभाव-ज{नपुं}{1;एक}	विधेय_विशेषणम्,8.1	स्वाभाविक	बोर्न्_ओङ्_हिस्_ओत्न्_नटुरे	<<स्व-भाव>ठ्6-जम्>ऊ			
+8.1	(अस्ति)	10	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,5;अकर्मकः	(है)	इस्				

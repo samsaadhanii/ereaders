@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yukwaH	1	yukwaH	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	karwA,5	karmayogI	one_who_is_engaged_in_devotional_service				
-2	karma-Palam	2	karmaPalaM	karman-Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	karman-Pala{napuM}{2;eka}	karma,3	karmoM_ke_Pala_kA	the_results_of_all_activities	<karma-Palam>T6			
-3	wyakwvA	3	wyakwvA	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	pUrvakAlaH,5	wyAga_karake	giving_up				
-4	SAnwim	5	SAnwimApnowi	SAnwi{swrI}{2;eka}	SAnwi{swrI}{2;eka}	karma,5	SAnwi_ko	perfect_peace				
-5	Apnowi	6	0	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	aBihiwakarwA,1;sakarmakaH	prApwa_howA_hE	achieves				
-6	nERTikIm	4	nERTikIm	nERTikI{swrI}{2;eka}	nERTikI{swrI}{2;eka}	viSeRaNam,4	BagavawprApwirUpa	unflinching				
-7	a-yukwaH	7	ayukwaH	ayukwa{puM}{1;eka}	na-yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	karwA,11	sakAmapuruRa		<na-yukwaH>Tn			
-8	kAma-kAreNa	8	kAmakAreNa	kAma-kAra{puM}{3;eka}	kAma-kAra{puM}{3;eka}	hewuH,11	kAmanA_kI_preraNA_se	for_enjoying_the_result_of_work	<kAma-kAreNa>T6			
-9	Pale	9	Pale	Pala{napuM}{1;xvi}/Pala{napuM}{2;xvi}/Pala{napuM}{7;eka}	Pala{napuM}{7;eka}	aXikaraNam,11	Pala_meM	in_the_result				
-10	sakwaH	10	sakwo	sakwa{puM}{1;eka}/sakwq{puM}{8;eka}/sakwq{napuM}{8;eka}	sac2{kqw_prawyayaH:kwa;Racaz;BvAxiH;puM}{1;eka}	viSeRaNam,7	Asakwa_hokara	attached				
-11	nibaXyawe	11	nibaXyawe	ni_banX1{karmaNi;lat;pra;eka;AwmanepaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;eka;AwmanepaxI;ni_banXaz;kryAxiH}	aBihiwakarwA,7;akarmakaH	bazXawA_hE	becomes_entangled				
+1	युक्तः	1	युक्तः	युक्त{पुं}{1;एक}	युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{1;एक}	कर्ता,5	कर्मयोगी	ओने_त्हो_इस्_एन्गगेड्_इन्_डेवोटिओनल्_सेर्विचे				
+2	कर्म-फलम्	2	कर्मफलं	कर्मन्-फल{नपुं}{1;एक}/फल{नपुं}{2;एक}	कर्मन्-फल{नपुं}{2;एक}	कर्म,3	कर्मों_के_फल_का	ट्हे_रेसुल्ट्स्_ओङ्_अल्ल्_अच्टिविटिएस्	<कर्म-फलम्>ठ्6			
+3	त्यक्त्वा	3	त्यक्त्वा	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	पूर्वकालः,5	त्याग_करके	गिविन्ग्_उप्				
+4	शान्तिम्	5	शान्तिमाप्नोति	शान्ति{स्त्री}{2;एक}	शान्ति{स्त्री}{2;एक}	कर्म,5	शान्ति_को	पेर्ङेच्ट्_पेअचे				
+5	आप्नोति	6	0	आप्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;आपॢँ;स्वादिः}	आप्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;आपॢँ;स्वादिः}	अभिहितकर्ता,1;सकर्मकः	प्राप्त_होता_है	अच्हिएवेस्				
+6	नैष्ठिकीम्	4	नैष्ठिकीम्	नैष्ठिकी{स्त्री}{2;एक}	नैष्ठिकी{स्त्री}{2;एक}	विशेषणम्,4	भगवत्प्राप्तिरूप	उन्ङ्लिन्च्हिन्ग्				
+7	अ-युक्तः	7	अयुक्तः	अयुक्त{पुं}{1;एक}	न-युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{1;एक}	कर्ता,11	सकामपुरुष		<न-युक्तः>ठ्न्			
+8	काम-कारेण	8	कामकारेण	काम-कार{पुं}{3;एक}	काम-कार{पुं}{3;एक}	हेतुः,11	कामना_की_प्रेरणा_से	ङोर्_एन्जोयिन्ग्_ट्हे_रेसुल्ट्_ओङ्_तोर्क्	<काम-कारेण>ठ्6			
+9	फले	9	फले	फल{नपुं}{1;द्वि}/फल{नपुं}{2;द्वि}/फल{नपुं}{7;एक}	फल{नपुं}{7;एक}	अधिकरणम्,11	फल_में	इन्_ट्हे_रेसुल्ट्				
+10	सक्तः	10	सक्तो	सक्त{पुं}{1;एक}/सक्तृ{पुं}{8;एक}/सक्तृ{नपुं}{8;एक}	सच्2{कृत्_प्रत्ययः:क्त;षचँ;भ्वादिः;पुं}{1;एक}	विशेषणम्,7	आसक्त_होकर	अट्टच्हेड्				
+11	निबध्यते	11	निबध्यते	नि_बन्ध्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;बन्धँ;क्र्यादिः}	नि_बन्ध्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;नि_बन्धँ;क्र्यादिः}	अभिहितकर्ता,7;अकर्मकः	बँधता_है	बेचोमेस्_एन्टन्ग्लेड्				

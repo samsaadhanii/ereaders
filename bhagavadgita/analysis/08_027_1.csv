@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	7	nEwe	na{avya}	na{avya}	prawiReXaH,7	nahIM	never				
-2	ewe	2	0	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewA{swrI}{8;eka}/ewA{swrI}{8;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{swrI}{2;xvi}	viSeRaNam,3	ina_(xonoM)	all_these				
-3	sqwI	3	sqwI	sqwi{swrI}{1;xvi}/sqwi{swrI}{2;xvi}/sqwi{swrI}{8;xvi}	sqwi{swrI}{2;xvi}	karma,5	mArgoM_ko	different_paths				
-4	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,7	he_pArWa	O_son_of_Prtha				
-5	jAnan	4	jAnanyogI	jAnaw{puM}{1;eka}/jAnaw{puM}{8;eka}	jFA2{kqw_prawyayaH:Sawq;jFA;kryAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,7	wawwva_se_jAnakara	even_if_they_know				
-6	yogI	6	0	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karwA,7	yogI	the_devotees_of_the_Lord				
-7	muhyawi	8	muhyawi	muhyaw{puM}{7;eka}/muhyaw{napuM}{7;eka}/muh1{karwari;lat;pra;eka;parasmEpaxI;muh;xivAxiH}	muh1{karwari;lat;pra;eka;parasmEpaxI;muhaz;xivAxiH}	aBihiwa_karwA,6	mohiwa_howA	bewildered				
-8	kaScana	5	kaScana	kiFcana{puM}{1;eka}	kiFcana{puM}{1;eka}	viSeRaNam,6	koI_BI	anyone				
-9	wasmAw	9	wasmAwsarveRu	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,13	isa_kAraNa	therefore				
-10	sarveRu	12	0	sarva{puM}{7;bahu}/sarva{napuM}{7;bahu}	sarva{puM}{7;bahu}	viSeRaNam,11	saba	all				
-11	kAleRu	13	kAleRu	kAla{puM}{7;bahu}/kAla{napuM}{7;bahu}	kAla{puM}{7;bahu}	aXikaraNam,13	kAla_meM	time				
-12	yoga-yukwaH	14	yogayukwo	yogayukwa{puM}{1;eka}	yoga-yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	viXeya_viSeRaNam,13	samabuxXirUpa_yoga_se_yukwa	being_engaged_in_Krsna_consciousness	<yoga-yukwaH>T3			
-13	Bava	14.1	BavArjuna	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,14.1;akarmakaH	ho	just_become				
-14	arjuna	10	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,13	he_arjuna	O_Arjuna				
-14.1	(wvam)	11	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,13	(wU)	you				
+1	न	7	नैते	न{अव्य}	न{अव्य}	प्रतिषेधः,7	नहीं	नेवेर्				
+2	एते	2	0	एता{स्त्री}{1;द्वि}/एता{स्त्री}{2;द्वि}/एता{स्त्री}{8;एक}/एता{स्त्री}{8;द्वि}/एतद्{पुं}{1;बहु}/एतद्{स्त्री}{1;द्वि}/एतद्{स्त्री}{2;द्वि}/एतद्{नपुं}{1;द्वि}/एतद्{नपुं}{2;द्वि}	एतद्{स्त्री}{2;द्वि}	विशेषणम्,3	इन_(दोनों)	अल्ल्_ट्हेसे				
+3	सृती	3	सृती	सृति{स्त्री}{1;द्वि}/सृति{स्त्री}{2;द्वि}/सृति{स्त्री}{8;द्वि}	सृति{स्त्री}{2;द्वि}	कर्म,5	मार्गों_को	डिङ्ङेरेन्ट्_पट्ह्स्				
+4	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,7	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह				
+5	जानन्	4	जानन्योगी	जानत्{पुं}{1;एक}/जानत्{पुं}{8;एक}	ज्ञा2{कृत्_प्रत्ययः:शतृ;ज्ञा;क्र्यादिः;पुं}{1;एक}	वर्तमानसमानकालः,7	तत्त्व_से_जानकर	एवेन्_इङ्_ट्हेय्_क्नोत्				
+6	योगी	6	0	योगिन्{पुं}{1;एक}	योगिन्{पुं}{1;एक}	कर्ता,7	योगी	ट्हे_डेवोटेएस्_ओङ्_ट्हे_ऌओर्ड्				
+7	मुह्यति	8	मुह्यति	मुह्यत्{पुं}{7;एक}/मुह्यत्{नपुं}{7;एक}/मुह्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;मुह्;दिवादिः}	मुह्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;मुहँ;दिवादिः}	अभिहित_कर्ता,6	मोहित_होता	बेतिल्डेरेड्				
+8	कश्चन	5	कश्चन	किञ्चन{पुं}{1;एक}	किञ्चन{पुं}{1;एक}	विशेषणम्,6	कोई_भी	अन्योने				
+9	तस्मात्	9	तस्मात्सर्वेषु	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तद्{पुं}{5;एक}	हेतुः,13	इस_कारण	ट्हेरेङोरे				
+10	सर्वेषु	12	0	सर्व{पुं}{7;बहु}/सर्व{नपुं}{7;बहु}	सर्व{पुं}{7;बहु}	विशेषणम्,11	सब	अल्ल्				
+11	कालेषु	13	कालेषु	काल{पुं}{7;बहु}/काल{नपुं}{7;बहु}	काल{पुं}{7;बहु}	अधिकरणम्,13	काल_में	टिमे				
+12	योग-युक्तः	14	योगयुक्तो	योगयुक्त{पुं}{1;एक}	योग-युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{1;एक}	विधेय_विशेषणम्,13	समबुद्धिरूप_योग_से_युक्त	बेइन्ग्_एन्गगेड्_इन्_ख्र्स्न_चोन्स्चिओउस्नेस्स्	<योग-युक्तः>ठ्3			
+13	भव	14.1	भवार्जुन	भू1{कर्तरि;लोट्;म;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लोट्;म;एक;परस्मैपदी;भू;भ्वादिः}	अभिहित_कर्ता,14.1;अकर्मकः	हो	जुस्ट्_बेचोमे				
+14	अर्जुन	10	0	अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,13	हे_अर्जुन	औ_आर्जुन				
+14.1	(त्वम्)	11	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,13	(तू)	योउ				

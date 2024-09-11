@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yawra	4	yawroparamawe	yawra{avya}	yawra{avya}	aXikaraNam,2	jisa_avasWA_meM	in_that_state_of_affairs				
-2	uparamawe	5	0	uparamawA{swrI}{1;xvi}/uparamawA{swrI}{2;xvi}/upa_ram1{karwari;lat;pra;eka;AwmanepaxI;ramuz;BvAxiH}	upa_ram1{karwari;lat;pra;eka;AwmanepaxI;upa_ramuz;BvAxiH}	aBihiwa_karwA,3	uparAma_ho_jAwA_hE	when_one_feels_transcendental_happiness				
-3	ciwwam	3	ciwwaM	ciwwa{puM}{2;eka}/ciwwa{napuM}{1;eka}/ciwwa{napuM}{2;eka}	ciwwa{napuM}{1;eka}	karwA,2	ciwwa	mental_activities				
-4	niruxXam	2	niruxXaM	niruxXa{napuM}{1;eka}/niruxXa{napuM}{2;eka}	ni_ruX1{kqw_prawyayaH:kwa;ni_ruXizr;ruXAxiH;puM}{1;eka}	viSeRaNam,3	niruxXa	restrained_from_matter				
-5	yoga-sevayA	1	yogasevayA	yoga-sevA{swrI}{3;eka}	yoga-sevA{swrI}{3;eka}	karaNam,2	yoga_ke_aByAsa_se	by_performance_of_yoga	<yoga-sevayA>T6			
-6	yawra	6	yawra	yawra{avya}	yawra{avya}	aXikaraNam,11	jisa_avasWA_meM	in_that				
-7	ca	7	cEvAwmanAwmAnaM	ca{avya}	ca{avya}	samuccaya_xyowakaH,13	Ora	also				
-8	eva	12	0	eva{avya}	eva{avya}	sambanXaH,12	hI	certainly				
-9	AwmanA	8	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,11	sUkRma_buxXi_xvArA	by_the_pure_mind				
-10	AwmAnam	10	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,11	paramAwmA_ko	the_self				
-11	paSyan	11	paSyannAwmani	paSyaw{puM}{1;eka}	xqS1{kqw_prawyayaH:Sawq;xqSizr;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,13	sAkRAw_karawA_huA	realizing_the_position				
-12	Awmani	9	0	Awman{puM}{7;eka}	Awman{puM}{7;eka}	aXikaraNam,13	saccixAnanxaGana_paramAwmA_meM	in_the_self				
-13	wuRyawi	13	wuRyawi	wuRyaw{puM}{7;eka}/wuRyaw{napuM}{7;eka}/wuR1{karwari;lat;pra;eka;parasmEpaxI;wuRaz;xivAxiH}	wuR1{karwari;lat;pra;eka;parasmEpaxI;wuRaz;xivAxiH}	samucciwaH,2	saMwuRta_rahawA_hE	becomes_satisfied				
+1	यत्र	4	यत्रोपरमते	यत्र{अव्य}	यत्र{अव्य}	अधिकरणम्,2	जिस_अवस्था_में	इन्_ट्हट्_स्टटे_ओङ्_अङ्ङइर्स्				
+2	उपरमते	5	0	उपरमता{स्त्री}{1;द्वि}/उपरमता{स्त्री}{2;द्वि}/उप_रम्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;रमुँ;भ्वादिः}	उप_रम्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;उप_रमुँ;भ्वादिः}	अभिहित_कर्ता,3	उपराम_हो_जाता_है	त्हेन्_ओने_ङेएल्स्_ट्रन्स्चेन्डेन्टल्_हप्पिनेस्स्				
+3	चित्तम्	3	चित्तं	चित्त{पुं}{2;एक}/चित्त{नपुं}{1;एक}/चित्त{नपुं}{2;एक}	चित्त{नपुं}{1;एक}	कर्ता,2	चित्त	मेन्टल्_अच्टिविटिएस्				
+4	निरुद्धम्	2	निरुद्धं	निरुद्ध{नपुं}{1;एक}/निरुद्ध{नपुं}{2;एक}	नि_रुध्1{कृत्_प्रत्ययः:क्त;नि_रुधिँर्;रुधादिः;पुं}{1;एक}	विशेषणम्,3	निरुद्ध	रेस्ट्रइनेड्_ङ्रोम्_मट्टेर्				
+5	योग-सेवया	1	योगसेवया	योग-सेवा{स्त्री}{3;एक}	योग-सेवा{स्त्री}{3;एक}	करणम्,2	योग_के_अभ्यास_से	ब्य्_पेर्ङोर्मन्चे_ओङ्_योग	<योग-सेवया>ठ्6			
+6	यत्र	6	यत्र	यत्र{अव्य}	यत्र{अव्य}	अधिकरणम्,11	जिस_अवस्था_में	इन्_ट्हट्				
+7	च	7	चैवात्मनात्मानं	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,13	और	अल्सो				
+8	एव	12	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,12	ही	चेर्टइन्ल्य्				
+9	आत्मना	8	0	आत्मन्{पुं}{3;एक}	आत्मन्{पुं}{3;एक}	करणम्,11	सूक्ष्म_बुद्धि_द्वारा	ब्य्_ट्हे_पुरे_मिन्ड्				
+10	आत्मानम्	10	0	आत्मन्{पुं}{2;एक}	आत्मन्{पुं}{2;एक}	कर्म,11	परमात्मा_को	ट्हे_सेल्ङ्				
+11	पश्यन्	11	पश्यन्नात्मनि	पश्यत्{पुं}{1;एक}	दृश्1{कृत्_प्रत्ययः:शतृ;दृशिँर्;भ्वादिः;पुं}{1;एक}	वर्तमानसमानकालः,13	साक्षात्_करता_हुआ	रेअलिँइन्ग्_ट्हे_पोसिटिओन्				
+12	आत्मनि	9	0	आत्मन्{पुं}{7;एक}	आत्मन्{पुं}{7;एक}	अधिकरणम्,13	सच्चिदानन्दघन_परमात्मा_में	इन्_ट्हे_सेल्ङ्				
+13	तुष्यति	13	तुष्यति	तुष्यत्{पुं}{7;एक}/तुष्यत्{नपुं}{7;एक}/तुष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;तुषँ;दिवादिः}	तुष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;तुषँ;दिवादिः}	समुच्चितः,2	संतुष्ट_रहता_है	बेचोमेस्_सटिस्ङिएड्				

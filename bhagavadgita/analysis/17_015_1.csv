@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	an-uxvega-karam	2	anuxvegakaraM	an-{avya}-uxvega-kara{puM}{2;eka}	na-uxvega-kara{napuM}{1;eka}	sup_samucciwaH,7	uxvega_na_karanevAlA	producing_no_agitation	<<na-uxvega>Tn-karaM>T6			
-2	vAkyam	6	vAkyaM	vAkya{napuM}{1;eka}/vAkya{napuM}{2;eka}	vAkya{napuM}{1;eka}	karwA,9.1	BARaNa	words				
-3	sawyam	5	sawyaM	sawyam{avya}/sawya{puM}{2;eka}/sawya{napuM}{1;eka}/sawya{napuM}{2;eka}	sawya{napuM}{1;eka}	sup_samucciwaH,7	yaWArWa	truthful				
-4	priya-hiwam	3	priyahiwaM	priya-hiwa{puM}{2;eka}/hiwa{napuM}{1;eka}/hiwa{napuM}{2;eka}	priya-hiwa{napuM}{1;eka}	sup_samucciwaH,7	priya_Ora_hiwakAraka	dear_and_beneficial	<priya-hiwaM>K1			
-5	ca	4	ca	ca{avya}	ca{avya}	sambanXaH,9.1	evaM	also				
-6	yaw	1	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,2;niwya_sambanXaH,12.1	jo	which				
-7	sva-aXyAya-aByasanam	8	svAXyAyAByasanaM	sva-aXyAya-aByasana{napuM}{1;eka}/aByasana{napuM}{2;eka}	svAXyAya-aByasana{napuM}{1;eka}	viXeya_viSeRaNam,9.1	vexa-SAswroM_ke_paTana_kA_aByAsa	practice_of_Vedic_study	<<sva-aXyAya>T6-aByasanaM>Ds			
-8	ca	7	cEva	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	waWA	also				
-9	eva	11	0	eva{avya}	eva{avya}	sambanXaH,9.1	hI	certainly				
-9.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2	(hE)	is				
-10	vAfmayam	12	vAfmayaM	vAfmaya{puM}{2;eka}/vAfmaya{napuM}{1;eka}/vAfmaya{napuM}{2;eka}/vAfmaya{puM}{2;eka}/vAfmaya{napuM}{1;eka}/vAfmaya{napuM}{2;eka}	vAfmaya{napuM}{1;eka}	karma,12	vANIsambanXI	of_the_voice				
-11	wapaH	13	wapa	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	karmasamAnAXikaraNam,12	wapa	austerity				
-12	ucyawe	14	ucyawe	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,11;sakarmakaH	kahA_jAwA_hE	is_said_to_be				
-12.1	(waw)	10	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{1;eka})	viSeRaNam,11	(vaha)	that				
+1	अन्-उद्वेग-करम्	2	अनुद्वेगकरं	अन्-{अव्य}-उद्वेग-कर{पुं}{2;एक}	न-उद्वेग-कर{नपुं}{1;एक}	सुप्_समुच्चितः,7	उद्वेग_न_करनेवाला	प्रोडुचिन्ग्_नो_अगिटटिओन्	<<न-उद्वेग>ठ्न्-करं>ठ्6			
+2	वाक्यम्	6	वाक्यं	वाक्य{नपुं}{1;एक}/वाक्य{नपुं}{2;एक}	वाक्य{नपुं}{1;एक}	कर्ता,9.1	भाषण	तोर्ड्स्				
+3	सत्यम्	5	सत्यं	सत्यम्{अव्य}/सत्य{पुं}{2;एक}/सत्य{नपुं}{1;एक}/सत्य{नपुं}{2;एक}	सत्य{नपुं}{1;एक}	सुप्_समुच्चितः,7	यथार्थ	ट्रुट्ह्ङुल्				
+4	प्रिय-हितम्	3	प्रियहितं	प्रिय-हित{पुं}{2;एक}/हित{नपुं}{1;एक}/हित{नपुं}{2;एक}	प्रिय-हित{नपुं}{1;एक}	सुप्_समुच्चितः,7	प्रिय_और_हितकारक	डेअर्_अन्ड्_बेनेङिचिअल्	<प्रिय-हितं>ख्1			
+5	च	4	च	च{अव्य}	च{अव्य}	सम्बन्धः,9.1	एवं	अल्सो				
+6	यत्	1	यत्	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	विशेषणम्,2;नित्य_सम्बन्धः,12.1	जो	त्हिच्ह्				
+7	स्व-अध्याय-अभ्यसनम्	8	स्वाध्यायाभ्यसनं	स्व-अध्याय-अभ्यसन{नपुं}{1;एक}/अभ्यसन{नपुं}{2;एक}	स्वाध्याय-अभ्यसन{नपुं}{1;एक}	विधेय_विशेषणम्,9.1	वेद-शास्त्रों_के_पठन_का_अभ्यास	प्रच्टिचे_ओङ्_Vएडिच्_स्टुड्य्	<<स्व-अध्याय>ठ्6-अभ्यसनं>ढ्स्			
+8	च	7	चैव	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,7	तथा	अल्सो				
+9	एव	11	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,9.1	ही	चेर्टइन्ल्य्				
+9.1	(अस्ति)	9	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,2	(है)	इस्				
+10	वाङ्मयम्	12	वाङ्मयं	वाङ्मय{पुं}{2;एक}/वाङ्मय{नपुं}{1;एक}/वाङ्मय{नपुं}{2;एक}/वाङ्मय{पुं}{2;एक}/वाङ्मय{नपुं}{1;एक}/वाङ्मय{नपुं}{2;एक}	वाङ्मय{नपुं}{1;एक}	कर्म,12	वाणीसम्बन्धी	ओङ्_ट्हे_वोइचे				
+11	तपः	13	तप	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}	तपस्{नपुं}{1;एक}	कर्मसमानाधिकरणम्,12	तप	अउस्टेरिट्य्				
+12	उच्यते	14	उच्यते	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहितकर्म,11;सकर्मकः	कहा_जाता_है	इस्_सइड्_टो_बे				
+12.1	(तत्)	10	(0)	(तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक})	(तद्{नपुं}{1;एक})	विशेषणम्,11	(वह)	ट्हट्				

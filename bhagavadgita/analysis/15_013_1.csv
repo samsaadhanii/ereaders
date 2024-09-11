@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	gAm	3	gAmAviSya	go{puM}{2;eka}/go{swrI}{2;eka}	go{swrI}{2;eka}	karma,2	pqWvI_meM	the_planets				
-2	AviSya	4	0	Af_viS1{lyap;viSaz;wuxAxiH}	Af_viS1{kqw_prawyayaH:lyap;Af_viSaz;wuxAxiH}	pUrvakAlaH,5	praveSa_karake	entering				
-3	ca	1	ca	ca{avya}	ca{avya}	sambanXaH,5	Ora	also				
-4	BUwAni	6	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}	BUwa{napuM}{2;bahu}	karma,5	saba_BUwoM_ko	living_entities				
-5	XArayAmi	7	XArayAmyahamojasA	Xq2_Nic{karwari;lat;u;eka;parasmEpaxI;Xqf;BvAxiH}/Xq3_Nic{karwari;lat;u;eka;parasmEpaxI;Xqf;wuxAxiH}	Xq1_Nic{karwari;lat;u;eka;parasmEpaxI;XqF_Nic;BvAxiH}	aBihiwakarwA,6;sakarmakaH	XAraNa_karawA_hUz	sustaining				
-6	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,5	mEM	I				
-7	ojasA	5	0	ojas{napuM}{3;eka}	ojas{napuM}{3;eka}	hewuH,5	apanI_Sakwi_se	by_My_energy				
-8	puRNAmi	14	puRNAmi	puR3{karwari;lat;u;eka;parasmEpaxI;puRaz;kryAxiH}	puR3{karwari;lat;u;eka;parasmEpaxI;puRaz;kryAxiH}	samucciwaH,5	puRta_karawA_hUz	nourish				
-9	*ca	8	cORaXIH	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	and				
-10	oRaXIH	13	0	oRaXi{swrI}{2;bahu}/oRaXI{swrI}{1;eka}	oRaXI{swrI}{2;eka}	karma,8	oRaXiyoM_ko_(arWAw_vanaspawiyoM_ko)	vegetables				
-11	sarvAH	12	sarvAH	sarvA{swrI}{1;bahu}/sarvA{swrI}{2;bahu}	sarvA{swrI}{2;bahu}	viSeRaNam,10	sampUrNa	all				
-12	somaH	10	somo	soma{puM}{1;eka}	soma{puM}{1;eka}	karwA,13	canxramA	the_moon				
-13	BUwvA	11	BUwvA	as2{kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,8	hokara	becoming				
-14	rasa-AwmakaH	9	rasAwmakaH	rasAwmaka{puM}{1;eka}	rasAwmaka{puM}{1;eka}	viSeRaNam,12	rasasvarUpa_arWAw_amqwamaya	supplying_the_juice	<rasa-AwmakaH>Bs6			
+1	गाम्	3	गामाविश्य	गो{पुं}{2;एक}/गो{स्त्री}{2;एक}	गो{स्त्री}{2;एक}	कर्म,2	पृथ्वी_में	ट्हे_प्लनेट्स्				
+2	आविश्य	4	0	आङ्_विश्1{ल्यप्;विशँ;तुदादिः}	आङ्_विश्1{कृत्_प्रत्ययः:ल्यप्;आङ्_विशँ;तुदादिः}	पूर्वकालः,5	प्रवेश_करके	एन्टेरिन्ग्				
+3	च	1	च	च{अव्य}	च{अव्य}	सम्बन्धः,5	और	अल्सो				
+4	भूतानि	6	भूतानि	भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}	भूत{नपुं}{2;बहु}	कर्म,5	सब_भूतों_को	लिविन्ग्_एन्टिटिएस्				
+5	धारयामि	7	धारयाम्यहमोजसा	धृ2_णिच्{कर्तरि;लट्;उ;एक;परस्मैपदी;धृङ्;भ्वादिः}/धृ3_णिच्{कर्तरि;लट्;उ;एक;परस्मैपदी;धृङ्;तुदादिः}	धृ1_णिच्{कर्तरि;लट्;उ;एक;परस्मैपदी;धृञ्_णिच्;भ्वादिः}	अभिहितकर्ता,6;सकर्मकः	धारण_करता_हूँ	सुस्टइनिन्ग्				
+6	अहम्	2	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,5	मैं	ई				
+7	ओजसा	5	0	ओजस्{नपुं}{3;एक}	ओजस्{नपुं}{3;एक}	हेतुः,5	अपनी_शक्ति_से	ब्य्_ंय्_एनेर्ग्य्				
+8	पुष्णामि	14	पुष्णामि	पुष्3{कर्तरि;लट्;उ;एक;परस्मैपदी;पुषँ;क्र्यादिः}	पुष्3{कर्तरि;लट्;उ;एक;परस्मैपदी;पुषँ;क्र्यादिः}	समुच्चितः,5	पुष्ट_करता_हूँ	नोउरिस्ह्				
+9	*च	8	चौषधीः	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	और	अन्ड्				
+10	ओषधीः	13	0	ओषधि{स्त्री}{2;बहु}/ओषधी{स्त्री}{1;एक}	ओषधी{स्त्री}{2;एक}	कर्म,8	ओषधियों_को_(अर्थात्_वनस्पतियों_को)	वेगेटब्लेस्				
+11	सर्वाः	12	सर्वाः	सर्वा{स्त्री}{1;बहु}/सर्वा{स्त्री}{2;बहु}	सर्वा{स्त्री}{2;बहु}	विशेषणम्,10	सम्पूर्ण	अल्ल्				
+12	सोमः	10	सोमो	सोम{पुं}{1;एक}	सोम{पुं}{1;एक}	कर्ता,13	चन्द्रमा	ट्हे_मोओन्				
+13	भूत्वा	11	भूत्वा	अस्2{क्त्वा;असँ;अदादिः}	भू1{कृत्_प्रत्ययः:क्त्वा;भू;भ्वादिः}	पूर्वकालः,8	होकर	बेचोमिन्ग्				
+14	रस-आत्मकः	9	रसात्मकः	रसात्मक{पुं}{1;एक}	रसात्मक{पुं}{1;एक}	विशेषणम्,12	रसस्वरूप_अर्थात्_अमृतमय	सुप्प्ल्यिन्ग्_ट्हे_जुइचे	<रस-आत्मकः>भ्स्6			

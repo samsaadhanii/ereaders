@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	3	na	na{avya}	na{avya}	prawiReXaH,2	nahIM	never				
-2	prahqRyew	4	prahqRyewpriyaM	pra_hqR1{karwari;viXilif;pra;eka;parasmEpaxI;hqRaz;xivAxiH}	pra_hqR1{karwari;viXilif;pra;eka;parasmEpaxI;pra_hqRaz;xivAxiH}	samucciwaH,6	harRiwa_ho	rejoice				
-3	priyam	1	0	priya{puM}{2;eka}/priya{napuM}{1;eka}/priya{napuM}{2;eka}	priya{puM}{2;eka}	karma,4	priya_ko	pleasant				
-4	prApya	2	prApya	pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,2	prApwa_hokara	achieving				
-5	na	8	noxvijewprApya	na{avya}	na{avya}	prawiReXaH,6	nahIM	does_not				
-6	uxvijew	9	0	uxvijew	ux_vij2{karwari;viXilif;pra;eka;parasmEpaxI;ux_ozvijIz;wuxAxiH}		uxvigna_ho	agitated				
-7	prApya	7	0	pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,6	prApwa_hokara	in_equanimity				
-8	ca	5	cApriyam	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	also				
-9	a-priyam	6	0	apriya{puM}{2;eka}/apriya{napuM}{1;eka}/apriya{napuM}{2;eka}	na-priya{puM}{2;eka}	karma,7	apriya_ko	unpleasant	<na-priyam>Tn			
-10	sWira-buxXiH	10	sWirabuxXirasammUDo	sWira-buxXi{swrI}{1;eka}	sWira-buxXi{swrI}{1;eka}	viSeRaNam,12	sWirabuxXi	self-intelligent	<sWira-buxXiH>Bs6			
-11	a-sammUDaH	11	0	asammUDa{puM}{1;eka}	na-sammUDa{puM}{1;eka}	viSeRaNam,12	saMSayarahiwa	unbewildered	<na-sammUDaH>Tn			
-12	brahma-viw	12	brahmavixbrahmaNi	brahmavix{napuM}{1;eka}	brahman-vix{puM}{1;eka}	karwA,14	brahmavewwA_puruRa	one_who_knows_the_Supreme_perfectly	<brahma-viw>U			
-13	brahmaNi	13	0	brahman{puM}{7;eka}/brahman{napuM}{7;eka}	brahman{napuM}{7;eka}	aXikaraNam,14	saccixAnanxaGana_parabrahma_paramAwmA_meM	in_the_transcendence				
-14	sWiwaH	14	sWiwaH	sWiwa{puM}{1;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;eka}	karwA,14.1	sWiwa	situated				
-14.1	(Bavawi)	15	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,14;akarmakaH	(howA_hE)	is				
+1	न	3	न	न{अव्य}	न{अव्य}	प्रतिषेधः,2	नहीं	नेवेर्				
+2	प्रहृष्येत्	4	प्रहृष्येत्प्रियं	प्र_हृष्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;हृषँ;दिवादिः}	प्र_हृष्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;प्र_हृषँ;दिवादिः}	समुच्चितः,6	हर्षित_हो	रेजोइचे				
+3	प्रियम्	1	0	प्रिय{पुं}{2;एक}/प्रिय{नपुं}{1;एक}/प्रिय{नपुं}{2;एक}	प्रिय{पुं}{2;एक}	कर्म,4	प्रिय_को	प्लेअसन्ट्				
+4	प्राप्य	2	प्राप्य	प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्र_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}/प्रा_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्रा_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}	प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;प्र_आपॢँ;स्वादिः}	पूर्वकालः,2	प्राप्त_होकर	अच्हिएविन्ग्				
+5	न	8	नोद्विजेत्प्राप्य	न{अव्य}	न{अव्य}	प्रतिषेधः,6	नहीं	डोएस्_नोट्				
+6	उद्विजेत्	9	0	उद्विजेत्	उद्_विज्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;उद्_ओँविजीँ;तुदादिः}		उद्विग्न_हो	अगिटटेड्				
+7	प्राप्य	7	0	प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्र_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}/प्रा_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्रा_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}	प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;प्र_आपॢँ;स्वादिः}	पूर्वकालः,6	प्राप्त_होकर	इन्_एऋउअनिमिट्य्				
+8	च	5	चाप्रियम्	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	और	अल्सो				
+9	अ-प्रियम्	6	0	अप्रिय{पुं}{2;एक}/अप्रिय{नपुं}{1;एक}/अप्रिय{नपुं}{2;एक}	न-प्रिय{पुं}{2;एक}	कर्म,7	अप्रिय_को	उन्प्लेअसन्ट्	<न-प्रियम्>ठ्न्			
+10	स्थिर-बुद्धिः	10	स्थिरबुद्धिरसम्मूढो	स्थिर-बुद्धि{स्त्री}{1;एक}	स्थिर-बुद्धि{स्त्री}{1;एक}	विशेषणम्,12	स्थिरबुद्धि	सेल्ङ्-इन्टेल्लिगेन्ट्	<स्थिर-बुद्धिः>भ्स्6			
+11	अ-सम्मूढः	11	0	असम्मूढ{पुं}{1;एक}	न-सम्मूढ{पुं}{1;एक}	विशेषणम्,12	संशयरहित	उन्बेतिल्डेरेड्	<न-सम्मूढः>ठ्न्			
+12	ब्रह्म-वित्	12	ब्रह्मविद्ब्रह्मणि	ब्रह्मविद्{नपुं}{1;एक}	ब्रह्मन्-विद्{पुं}{1;एक}	कर्ता,14	ब्रह्मवेत्ता_पुरुष	ओने_त्हो_क्नोत्स्_ट्हे_शुप्रेमे_पेर्ङेच्ट्ल्य्	<ब्रह्म-वित्>ऊ			
+13	ब्रह्मणि	13	0	ब्रह्मन्{पुं}{7;एक}/ब्रह्मन्{नपुं}{7;एक}	ब्रह्मन्{नपुं}{7;एक}	अधिकरणम्,14	सच्चिदानन्दघन_परब्रह्म_परमात्मा_में	इन्_ट्हे_ट्रन्स्चेन्डेन्चे				
+14	स्थितः	14	स्थितः	स्थित{पुं}{1;एक}	स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{1;एक}	कर्ता,14.1	स्थित	सिटुअटेड्				
+14.1	(भवति)	15	(0)	(भवत्{पुं}{7;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहित_कर्ता,14;अकर्मकः	(होता_है)	इस्				

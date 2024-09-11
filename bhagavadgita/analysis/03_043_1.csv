@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	evam	1	evaM	evam{avya}	evam{avya}	kriyAviSeRaNam,4	isa_prakAra	thus				
-2	buxXeH	2	buxXeH	buxXi{swrI}{5;eka}/buxXi{swrI}{6;eka}	buxXi{swrI}{5;eka}	upapaxasambanXaH,3	buxXi_se	of_intelligence				
-3	param	3	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	karma,4	para	superior				
-4	buxXvA	4	buxXvA	buX1{kqw_prawyayaH:kwvA;buXir;BvAxi}	buX2{kqw_prawyayaH:kwvA;buXizr;BvAxiH}	pUrvakAlaH,8	jAnakara	so_knowing				
-5	saMswaBya	7	saMswaByAwmAnamAwmanA	saMswaBya	sam_swamB1{kqw_prawyayaH:lyap;sam_RtaBiz;BvAxiH}	pUrvakAlaH,8	vaSa_meM_karake	by_steadying				
-6	AwmAnam	6	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,5	mana_ko	of_the_mind				
-7	AwmanA	5	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,5	buxXi_ke_xvArA	by_deliberate_intelligence				
-8	jahi	13	jahi	han1{karwari;lot;ma;eka;parasmEpaxI;hanaz;axAxiH}	han1{karwari;lot;ma;eka;parasmEpaxI;hanaz;axAxiH}	aBihiwa_karwA,12.1;sakarmakaH	mAra_dAla	conquer				
-9	Sawrum	12	SawruM	Sawru{puM}{2;eka}	Sawru{puM}{2;eka}	karma,8	Sawru_ko	the_enemy				
-10	mahAn-bAho	8	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,8	he_mahAbAho	O_mighty-armed_one	<mahaw-bAho>Bs6			
-11	kAma-rUpam	10	kAmarUpaM	kAma-rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	kAma-rUpa{puM}{1;eka}	viSeRaNam,9	kAmarUpa	the_form_of_lust	<kAma-rUpam>Bs6			
-12	xurAsaxam	11	xurAsaxam	xurAsaxa{puM}{2;eka}	xurAsaxa{puM}{2;eka}	viSeRaNam,9	xurjaya	formidable				
-12.1	(wvam)	9	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wU)	you				
+1	एवम्	1	एवं	एवम्{अव्य}	एवम्{अव्य}	क्रियाविशेषणम्,4	इस_प्रकार	ट्हुस्				
+2	बुद्धेः	2	बुद्धेः	बुद्धि{स्त्री}{5;एक}/बुद्धि{स्त्री}{6;एक}	बुद्धि{स्त्री}{5;एक}	उपपदसम्बन्धः,3	बुद्धि_से	ओङ्_इन्टेल्लिगेन्चे				
+3	परम्	3	परं	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{नपुं}{2;एक}	कर्म,4	पर	सुपेरिओर्				
+4	बुद्ध्वा	4	बुद्ध्वा	बुध्1{कृत्_प्रत्ययः:क्त्वा;बुधिर्;भ्वादि}	बुध्2{कृत्_प्रत्ययः:क्त्वा;बुधिँर्;भ्वादिः}	पूर्वकालः,8	जानकर	सो_क्नोतिन्ग्				
+5	संस्तभ्य	7	संस्तभ्यात्मानमात्मना	संस्तभ्य	सम्_स्तम्भ्1{कृत्_प्रत्ययः:ल्यप्;सम्_ष्टभिँ;भ्वादिः}	पूर्वकालः,8	वश_में_करके	ब्य्_स्टेअड्यिन्ग्				
+6	आत्मानम्	6	0	आत्मन्{पुं}{2;एक}	आत्मन्{पुं}{2;एक}	कर्म,5	मन_को	ओङ्_ट्हे_मिन्ड्				
+7	आत्मना	5	0	आत्मन्{पुं}{3;एक}	आत्मन्{पुं}{3;एक}	करणम्,5	बुद्धि_के_द्वारा	ब्य्_डेलिबेरटे_इन्टेल्लिगेन्चे				
+8	जहि	13	जहि	हन्1{कर्तरि;लोट्;म;एक;परस्मैपदी;हनँ;अदादिः}	हन्1{कर्तरि;लोट्;म;एक;परस्मैपदी;हनँ;अदादिः}	अभिहित_कर्ता,12.1;सकर्मकः	मार_डाल	चोनृउएर्				
+9	शत्रुम्	12	शत्रुं	शत्रु{पुं}{2;एक}	शत्रु{पुं}{2;एक}	कर्म,8	शत्रु_को	ट्हे_एनेम्य्				
+10	महान्-बाहो	8	महाबाहो	महाबाहु{पुं}{8;एक}/महाबाहु{नपुं}{8;एक}	महाबाहु{पुं}{8;एक}	सम्बोध्यः,8	हे_महाबाहो	औ_मिग्ह्ट्य्-अर्मेड्_ओने	<महत्-बाहो>भ्स्6			
+11	काम-रूपम्	10	कामरूपं	काम-रूप{नपुं}{1;एक}/रूप{नपुं}{2;एक}	काम-रूप{पुं}{1;एक}	विशेषणम्,9	कामरूप	ट्हे_ङोर्म्_ओङ्_लुस्ट्	<काम-रूपम्>भ्स्6			
+12	दुरासदम्	11	दुरासदम्	दुरासद{पुं}{2;एक}	दुरासद{पुं}{2;एक}	विशेषणम्,9	दुर्जय	ङोर्मिडब्ले				
+12.1	(त्वम्)	9	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,8	(तू)	योउ				

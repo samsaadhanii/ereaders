@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	2	nAxawwe	na{avya}	na{avya}	prawiReXaH,4	na	never				
-2	Axawwe	9	0	Axawwa{puM}{7;eka}/Axawwa{napuM}{1;xvi}/Axawwa{napuM}{2;xvi}/Axawwa{napuM}{7;eka}/AxawwA{swrI}{1;xvi}/AxawwA{swrI}{2;xvi}	Af_xA3{karwari;lat;pra;eka;AwmanepaxI;Af_duxAF;juhowyAxiH}		grahaNa_karawA_hE	accepts				
-3	kasyaciw	3	kasyaciwpApaM	kasyaciw{avya}/kiFciw{puM}{6;eka}/kiFciw{napuM}{6;eka}	kiFciw{napuM}{6;eka}	RaRTIsambanXaH,4	kisIke	anyone's				
-4	pApam	4	0	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{2;eka}	karma,2	pApakarma_ko	sin				
-5	na	6	na	na{avya}	na{avya}	prawiReXaH,8	na	nor				
-6	ca	5	cEva	ca{avya}	ca{avya}	sup_samuccaya_xyowakaH,4	Ora	also				
-7	eva	8	0	eva{avya}	eva{avya}	sambanXaH,8	hI	certainly				
-8	sukqwam	7	sukqwaM	sukqw{puM}{2;eka}/sukqwa{napuM}{1;eka}/sukqwa{napuM}{2;eka}	sukqw{napuM}{2;eka}	sup_samucciwaH,4	SuBakarma_ko	pious_activities				
-9	viBuH	1	viBuH	viBu{puM}{1;eka}	viBu{puM}{1;eka}	karwA,2	sarvavyApi_parameSvara	the_Supreme_Lord				
-10	a-jFAnena	10	ajFAnenAvqwaM	ajFAna{napuM}{3;eka}	ajFAna{napuM}{3;eka}	karaNam,11	ajFAna_ke_xvArA	by_ignorance	<na-jFAnena>Tn			
-11	Avqwam	12	0	Avqw{swrI}{2;eka}/Af_vqw1{karwari;luf;u;eka;AwmanepaxI;vqwuz;BvAxiH}	Af_vqw1{karwari;luf;u;eka;AwmanepaxI;vqwuz;BvAxiH}		DakA_huA_hE	covered				
-12	jFAnam	11	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karma,11	jFAna	knowledge				
-13	wena	13	wena	wax{puM}{3;eka}/wax{napuM}{3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;wanAxiH}	wax{napuM}{3;eka}	karaNam,14	usIse	by_that				
-14	muhyanwi	15	muhyanwi	muhyaw{napuM}{1;bahu}/muhyaw{napuM}{2;bahu}/muhyaw{napuM}{8;bahu}/muhyanwI{swrI}{8;eka}	muh1{karwari;lat;pra;bahu;parasmEpaxI;muhaz;xivAxiH}	aBihiwakarwA,15;akarmakaH	mohiwa_ho_rahe_hEM	are_bewildered				
-15	janwavaH	14	janwavaH	janwu{puM}{1;bahu}/janwu{puM}{8;bahu}	janwu{puM}{1;bahu}	karwA,14	saba_ajFAnI_manuRya	the_living_entities				
+1	न	2	नादत्ते	न{अव्य}	न{अव्य}	प्रतिषेधः,4	न	नेवेर्				
+2	आदत्ते	9	0	आदत्त{पुं}{7;एक}/आदत्त{नपुं}{1;द्वि}/आदत्त{नपुं}{2;द्वि}/आदत्त{नपुं}{7;एक}/आदत्ता{स्त्री}{1;द्वि}/आदत्ता{स्त्री}{2;द्वि}	आङ्_दा3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;आङ्_डुदाञ्;जुहोत्यादिः}		ग्रहण_करता_है	अच्चेप्ट्स्				
+3	कस्यचित्	3	कस्यचित्पापं	कस्यचित्{अव्य}/किञ्चित्{पुं}{6;एक}/किञ्चित्{नपुं}{6;एक}	किञ्चित्{नपुं}{6;एक}	षष्ठीसम्बन्धः,4	किसीके	अन्योने'स्				
+4	पापम्	4	0	पाप{पुं}{2;एक}/पाप{नपुं}{1;एक}/पाप{नपुं}{2;एक}	पाप{नपुं}{2;एक}	कर्म,2	पापकर्म_को	सिन्				
+5	न	6	न	न{अव्य}	न{अव्य}	प्रतिषेधः,8	न	नोर्				
+6	च	5	चैव	च{अव्य}	च{अव्य}	सुप्_समुच्चय_द्योतकः,4	और	अल्सो				
+7	एव	8	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,8	ही	चेर्टइन्ल्य्				
+8	सुकृतम्	7	सुकृतं	सुकृत्{पुं}{2;एक}/सुकृत{नपुं}{1;एक}/सुकृत{नपुं}{2;एक}	सुकृत्{नपुं}{2;एक}	सुप्_समुच्चितः,4	शुभकर्म_को	पिओउस्_अच्टिविटिएस्				
+9	विभुः	1	विभुः	विभु{पुं}{1;एक}	विभु{पुं}{1;एक}	कर्ता,2	सर्वव्यापि_परमेश्वर	ट्हे_शुप्रेमे_ऌओर्ड्				
+10	अ-ज्ञानेन	10	अज्ञानेनावृतं	अज्ञान{नपुं}{3;एक}	अज्ञान{नपुं}{3;एक}	करणम्,11	अज्ञान_के_द्वारा	ब्य्_इग्नोरन्चे	<न-ज्ञानेन>ठ्न्			
+11	आवृतम्	12	0	आवृत्{स्त्री}{2;एक}/आङ्_वृत्1{कर्तरि;लुङ्;उ;एक;आत्मनेपदी;वृतुँ;भ्वादिः}	आङ्_वृत्1{कर्तरि;लुङ्;उ;एक;आत्मनेपदी;वृतुँ;भ्वादिः}		ढका_हुआ_है	चोवेरेड्				
+12	ज्ञानम्	11	ज्ञानं	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{1;एक}	कर्म,11	ज्ञान	क्नोत्लेड्गे				
+13	तेन	13	तेन	तद्{पुं}{3;एक}/तद्{नपुं}{3;एक}/तन्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;तनुँ;तनादिः}	तद्{नपुं}{3;एक}	करणम्,14	उसीसे	ब्य्_ट्हट्				
+14	मुह्यन्ति	15	मुह्यन्ति	मुह्यत्{नपुं}{1;बहु}/मुह्यत्{नपुं}{2;बहु}/मुह्यत्{नपुं}{8;बहु}/मुह्यन्ती{स्त्री}{8;एक}	मुह्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;मुहँ;दिवादिः}	अभिहितकर्ता,15;अकर्मकः	मोहित_हो_रहे_हैं	अरे_बेतिल्डेरेड्				
+15	जन्तवः	14	जन्तवः	जन्तु{पुं}{1;बहु}/जन्तु{पुं}{8;बहु}	जन्तु{पुं}{1;बहु}	कर्ता,14	सब_अज्ञानी_मनुष्य	ट्हे_लिविन्ग्_एन्टिटिएस्				

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	iwi	1	iwyahaM	iwi{avya}	iwi{avya}	sambanXaH,9	isa_prakAra	thus				
-2	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,9	mEMne	I				
-3	vAsuxevasya	3	vAsuxevasya	vAsuxeva{puM}{6;eka}	vAsuxeva{puM}{6;eka}	sup_samucciwaH,4	SrIvAsuxeva_ke	of_Krsna				
-4	pArWasya	6	pArWasya	pArWa{puM}{6;eka}	pArWa{puM}{6;eka}	RaRTIsambanXaH,7	arjuna_ke	of_Arjuna				
-5	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	Ora	also				
-6	mahaw-AwmanaH	5	mahAwmanaH	mahAwman{puM}{2;bahu}/mahAwman{puM}{5;eka}/mahAwman{puM}{6;eka}	mahAwman{puM}{6;eka}	viSeRaNam,4	mahAwmA	two_great_souls	<mahaw-AwmanaH>Bs6			
-7	saMvAxam	10	saMvAxamimamaSrORamaxBuwaM	saMvAxa{puM}{2;eka}	saMvAxa{puM}{2;eka}	karma,9	saMvAxa_ko	discussing				
-8	imam	7	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,7	isa	this				
-9	aSrORam	11	0	Sru1{karwari;luf;u;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;luf;u;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,2;sakarmakaH	sunA	heard				
-10	axBuwam	8	0	axBuwa{puM}{2;eka}/axBuwa{napuM}{1;eka}/axBuwa{napuM}{2;eka}	axBuwa{puM}{2;eka}	viSeRaNam,7	axBuwa_rahasyayukwa	wonder				
-11	roma-harRaNam	9	romaharRaNam	romaharRaNa{puM}{2;eka}/romaharRaNa{napuM}{1;eka}/romaharRaNa{napuM}{2;eka}	roma-harRaNa{puM}{2;eka}	viSeRaNam,7	romAMcakAraka	hair_standing_on_end	<roma-harRaNam>T6			
+1	इति	1	इत्यहं	इति{अव्य}	इति{अव्य}	सम्बन्धः,9	इस_प्रकार	ट्हुस्				
+2	अहम्	2	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,9	मैंने	ई				
+3	वासुदेवस्य	3	वासुदेवस्य	वासुदेव{पुं}{6;एक}	वासुदेव{पुं}{6;एक}	सुप्_समुच्चितः,4	श्रीवासुदेव_के	ओङ्_ख्र्स्न				
+4	पार्थस्य	6	पार्थस्य	पार्थ{पुं}{6;एक}	पार्थ{पुं}{6;एक}	षष्ठीसम्बन्धः,7	अर्जुन_के	ओङ्_आर्जुन				
+5	च	4	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,4	और	अल्सो				
+6	महत्-आत्मनः	5	महात्मनः	महात्मन्{पुं}{2;बहु}/महात्मन्{पुं}{5;एक}/महात्मन्{पुं}{6;एक}	महात्मन्{पुं}{6;एक}	विशेषणम्,4	महात्मा	ट्तो_ग्रेअट्_सोउल्स्	<महत्-आत्मनः>भ्स्6			
+7	संवादम्	10	संवादमिममश्रौषमद्भुतं	संवाद{पुं}{2;एक}	संवाद{पुं}{2;एक}	कर्म,9	संवाद_को	डिस्चुस्सिन्ग्				
+8	इमम्	7	0	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	विशेषणम्,7	इस	ट्हिस्				
+9	अश्रौषम्	11	0	श्रु1{कर्तरि;लुङ्;उ;एक;परस्मैपदी;श्रु;भ्वादिः}	श्रु1{कर्तरि;लुङ्;उ;एक;परस्मैपदी;श्रु;भ्वादिः}	अभिहितकर्ता,2;सकर्मकः	सुना	हेअर्ड्				
+10	अद्भुतम्	8	0	अद्भुत{पुं}{2;एक}/अद्भुत{नपुं}{1;एक}/अद्भुत{नपुं}{2;एक}	अद्भुत{पुं}{2;एक}	विशेषणम्,7	अद्भुत_रहस्ययुक्त	तोन्डेर्				
+11	रोम-हर्षणम्	9	रोमहर्षणम्	रोमहर्षण{पुं}{2;एक}/रोमहर्षण{नपुं}{1;एक}/रोमहर्षण{नपुं}{2;एक}	रोम-हर्षण{पुं}{2;एक}	विशेषणम्,7	रोमांचकारक	हइर्_स्टन्डिन्ग्_ओन्_एन्ड्	<रोम-हर्षणम्>ठ्6			

@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sawawam	2	sawawaM	sawawam{avya}/sawawa{puM}{2;eka}/sawawa{napuM}{1;eka}/sawawa{napuM}{2;eka}	sawawam{avya}	kriyAviSeRaNam,2	niranwara	always				
-2	kIrwayanwaH	3	kIrwayanwo	kIrwayaw{puM}{1;bahu}/kIrwayaw{puM}{8;bahu}	kqw1{kqw_prawyayaH:Sawq;kqwaz;curAxiH;puM}{1;bahu}	samucciwaH,7	mere_nAma_Ora_guNoM_kA_kIrwana_karawe_hue	chanting				
-3	mAm	7	mAM	asmax{2;eka}	asmax{2;eka}	karma,2	muJako	unto_Me				
-4	yawanwaH	5	yawanwaSca	yawanwaH	yaw1{kqw_prawyayaH:Sawq;yawIz;BvAxiH;puM}{1;bahu}	samucciwaH,7	yawna_karawe_hue	fully_endeavoring				
-5	ca	4	0	ca{avya}	ca{avya}	sambanXaH,4	waWA	also				
-6	xqDa-vrawAH	1	xqDavrawAH	xqDa-vrawa{puM}{1;bahu}/vrawa{puM}{8;bahu}	xqDa-vrawa{puM}{1;bahu}	viSeRaNam,11	xqDa़_niScayavAle_Bakwajana	with_determination	<xqDa-vrawAH>Bs6			
-7	namasyanwaH	8	namasyanwaSca	namasyanwaH	namasya{kqw_prawyayaH:Sawq;namasya;nAmaXAwu;puM}{1;bahu}	varwamAnasamAnakAlaH,12	namaskAra_karawe_hue	offering_obeisances				
-8	ca	6	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	Ora	and				
-9	mAm	11	mAM	asmax{2;eka}	asmax{2;eka}	karma,12	merI	unto_Me				
-10	BakwyA	10	BakwyA	Bakwi{swrI}{3;eka}	Bakwi{swrI}{3;eka}	karaNam,12	ananya_prema_se	in_devotion				
-11	niwya-yukwAH	9	niwyayukwA	niwyayukwA{swrI}{1;bahu}/niwyayukwA{swrI}{2;bahu}/niwyayukwA{swrI}{8;bahu}	niwya-yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;bahu}	karwA,12	saxA_mere_XyAna_meM_yukwa_hokara	perpetually_engaged	<niwya-yukwAH>K1			
-12	upAsawe	12	upAsawe	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;Asaz;axAxiH}	upa_As1{karwari;lat;pra;bahu;AwmanepaxI;upa_Asaz;axAxiH}		upAsanA_karawe_hEM	worship				
+1	सततम्	2	सततं	सततम्{अव्य}/सतत{पुं}{2;एक}/सतत{नपुं}{1;एक}/सतत{नपुं}{2;एक}	सततम्{अव्य}	क्रियाविशेषणम्,2	निरन्तर	अल्तय्स्				
+2	कीर्तयन्तः	3	कीर्तयन्तो	कीर्तयत्{पुं}{1;बहु}/कीर्तयत्{पुं}{8;बहु}	कृत्1{कृत्_प्रत्ययः:शतृ;कृतँ;चुरादिः;पुं}{1;बहु}	समुच्चितः,7	मेरे_नाम_और_गुणों_का_कीर्तन_करते_हुए	च्हन्टिन्ग्				
+3	माम्	7	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,2	मुझको	उन्टो_ंए				
+4	यतन्तः	5	यतन्तश्च	यतन्तः	यत्1{कृत्_प्रत्ययः:शतृ;यतीँ;भ्वादिः;पुं}{1;बहु}	समुच्चितः,7	यत्न_करते_हुए	ङुल्ल्य्_एन्डेअवोरिन्ग्				
+5	च	4	0	च{अव्य}	च{अव्य}	सम्बन्धः,4	तथा	अल्सो				
+6	दृढ-व्रताः	1	दृढव्रताः	दृढ-व्रत{पुं}{1;बहु}/व्रत{पुं}{8;बहु}	दृढ-व्रत{पुं}{1;बहु}	विशेषणम्,11	दृढॆअञ_निश्चयवाले_भक्तजन	तिट्ह्_डेटेर्मिनटिओन्	<दृढ-व्रताः>भ्स्6			
+7	नमस्यन्तः	8	नमस्यन्तश्च	नमस्यन्तः	नमस्य{कृत्_प्रत्ययः:शतृ;नमस्य;नामधातु;पुं}{1;बहु}	वर्तमानसमानकालः,12	नमस्कार_करते_हुए	ओङ्ङेरिन्ग्_ओबेइसन्चेस्				
+8	च	6	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,7	और	अन्ड्				
+9	माम्	11	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,12	मेरी	उन्टो_ंए				
+10	भक्त्या	10	भक्त्या	भक्ति{स्त्री}{3;एक}	भक्ति{स्त्री}{3;एक}	करणम्,12	अनन्य_प्रेम_से	इन्_डेवोटिओन्				
+11	नित्य-युक्ताः	9	नित्ययुक्ता	नित्ययुक्ता{स्त्री}{1;बहु}/नित्ययुक्ता{स्त्री}{2;बहु}/नित्ययुक्ता{स्त्री}{8;बहु}	नित्य-युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{1;बहु}	कर्ता,12	सदा_मेरे_ध्यान_में_युक्त_होकर	पेर्पेटुअल्ल्य्_एन्गगेड्	<नित्य-युक्ताः>ख्1			
+12	उपासते	12	उपासते	उप_आस्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;आसँ;अदादिः}	उप_आस्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;उप_आसँ;अदादिः}		उपासना_करते_हैं	तोर्स्हिप्				

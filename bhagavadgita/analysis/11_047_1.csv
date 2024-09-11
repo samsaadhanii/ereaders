@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mayA	3	mayA	asmax{3;eka}	asmax{3;eka}	karwA,8	mEMne	by_Me				
-2	prasannena	2	prasannena	prasanna{puM}{3;eka}/prasanna{napuM}{3;eka}	prasanna{puM}{3;eka}	viSeRaNam,1	anugrahapUrvaka	happily				
-3	wava	13	wavArjunexaM	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,15.1	wumhAre	unto_you				
-4	arjuna	1	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,8	he_arjuna	O_Arjuna				
-5	ixam	5	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,6	yaha	this				
-6	rUpam	12	rUpaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,8	rUpa	form				
-7	param	7	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	viSeRaNam,6	parama	transcendental				
-8	xarSiwam	15	xarSiwamAwmayogAw	xarSiwa{puM}{2;eka}	xqS1_Nic{kqw_prawyayaH:kwa;xqSizr_Nic;BvAxiH;napuM}{1;eka}	aBihiwakarma,6;sakarmakaH	xiKalAyA_hE	shown				
-9	Awma-yogAw	4	0	Awman-yoga{puM}{5;eka}	Awman-yoga{puM}{5;eka}	hewuH,8	apanI_yoga_Sakwi_ke_praBAva_se	by_my_internal_potency	<Awma-yogAw>T6			
-10	wejomayam	8	wejomayaM	wejomaya{puM}{2;eka}/wejomaya{napuM}{1;eka}/wejomaya{napuM}{2;eka}	wejomaya{napuM}{2;eka}	viSeRaNam,6	wejomaya	full_of_effulgence				
-11	viSvam	11	viSvamananwamAxyaM	viSva{puM}{2;eka}/viSva{napuM}{1;eka}/viSva{napuM}{2;eka}/viSva{puM}{2;eka}	viSva{napuM}{2;eka}	viSeRaNam,6	virAt	the_entire_universe				
-12	an-anwam	10	0	anaw{puM}{2;eka}/ananwa{puM}{2;eka}	ananwa{puM}{2;eka}	viSeRaNam,6	sImArahiwa	unlimited	<na-anwam>Bsmn			
-13	Axyam	9	0	Axya{puM}{2;eka}/Axya{napuM}{1;eka}/Axya{napuM}{2;eka}	Axya{napuM}{2;eka}	viSeRaNam,6	sabakA_Axi	original				
-14	yaw	16	yanme	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karwA,18.1;niwya_sambanXaH,6	jise	that_which				
-15	me	6	0	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,6	merA	my				
-15.1	(sammuKe)	14	(0)	(sammuKa{puM}{7;eka}/sammuKa{napuM}{1;xvi}/sammuKa{napuM}{2;xvi}/sammuKa{napuM}{7;eka}/sammuKa{napuM}{8;xvi})	(sammuKa{puM}{7;eka})	aXikaraNam,8	(sammuKa)	I				
-16	wvaw-anyena	17	wvaxanyena	wvaxanya{puM}{3;eka}/wvaxanya{napuM}{3;eka}	wvax-anya{puM}{3;eka}	karwA,18	were_awirikwa_xUsare_kisIne	besides_you				
-17	na	18	na	na{avya}	na{avya}	prawiReXaH,18.1	nahIM	no_one				
-18	xqRta-pUrvam	19	xqRtapUrvam	xqRtapUrva{napuM}{1;eka}/xqRtapUrva{napuM}{2;eka}	xqRta-pUrva{napuM}{1;eka}	viXeya_viSeRaNam,18.1	pahale_xeKA	previously_seen	<xqRta-pUrvam>K1			
-18.1	(AsIwa)	20	(0)	(As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH})	(As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH})	aBihiwakarwA,14;sakarmakaH	(WA)	had				
+1	मया	3	मया	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,8	मैंने	ब्य्_ंए				
+2	प्रसन्नेन	2	प्रसन्नेन	प्रसन्न{पुं}{3;एक}/प्रसन्न{नपुं}{3;एक}	प्रसन्न{पुं}{3;एक}	विशेषणम्,1	अनुग्रहपूर्वक	हप्पिल्य्				
+3	तव	13	तवार्जुनेदं	युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,15.1	तुम्हारे	उन्टो_योउ				
+4	अर्जुन	1	0	अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,8	हे_अर्जुन	औ_आर्जुन				
+5	इदम्	5	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,6	यह	ट्हिस्				
+6	रूपम्	12	रूपं	रूप{नपुं}{1;एक}/रूप{नपुं}{2;एक}	रूप{नपुं}{2;एक}	कर्म,8	रूप	ङोर्म्				
+7	परम्	7	परं	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{नपुं}{2;एक}	विशेषणम्,6	परम	ट्रन्स्चेन्डेन्टल्				
+8	दर्शितम्	15	दर्शितमात्मयोगात्	दर्शित{पुं}{2;एक}	दृश्1_णिच्{कृत्_प्रत्ययः:क्त;दृशिँर्_णिच्;भ्वादिः;नपुं}{1;एक}	अभिहितकर्म,6;सकर्मकः	दिखलाया_है	स्होत्न्				
+9	आत्म-योगात्	4	0	आत्मन्-योग{पुं}{5;एक}	आत्मन्-योग{पुं}{5;एक}	हेतुः,8	अपनी_योग_शक्ति_के_प्रभाव_से	ब्य्_म्य्_इन्टेर्नल्_पोटेन्च्य्	<आत्म-योगात्>ठ्6			
+10	तेजोमयम्	8	तेजोमयं	तेजोमय{पुं}{2;एक}/तेजोमय{नपुं}{1;एक}/तेजोमय{नपुं}{2;एक}	तेजोमय{नपुं}{2;एक}	विशेषणम्,6	तेजोमय	ङुल्ल्_ओङ्_एङ्ङुल्गेन्चे				
+11	विश्वम्	11	विश्वमनन्तमाद्यं	विश्व{पुं}{2;एक}/विश्व{नपुं}{1;एक}/विश्व{नपुं}{2;एक}/विश्व{पुं}{2;एक}	विश्व{नपुं}{2;एक}	विशेषणम्,6	विराट्	ट्हे_एन्टिरे_उनिवेर्से				
+12	अन्-अन्तम्	10	0	अनत्{पुं}{2;एक}/अनन्त{पुं}{2;एक}	अनन्त{पुं}{2;एक}	विशेषणम्,6	सीमारहित	उन्लिमिटेड्	<न-अन्तम्>भ्स्म्न्			
+13	आद्यम्	9	0	आद्य{पुं}{2;एक}/आद्य{नपुं}{1;एक}/आद्य{नपुं}{2;एक}	आद्य{नपुं}{2;एक}	विशेषणम्,6	सबका_आदि	ओरिगिनल्				
+14	यत्	16	यन्मे	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्ता,18.1;नित्य_सम्बन्धः,6	जिसे	ट्हट्_त्हिच्ह्				
+15	मे	6	0	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,6	मेरा	म्य्				
+15.1	(सम्मुखे)	14	(0)	(सम्मुख{पुं}{7;एक}/सम्मुख{नपुं}{1;द्वि}/सम्मुख{नपुं}{2;द्वि}/सम्मुख{नपुं}{7;एक}/सम्मुख{नपुं}{8;द्वि})	(सम्मुख{पुं}{7;एक})	अधिकरणम्,8	(सम्मुख)	ई				
+16	त्वत्-अन्येन	17	त्वदन्येन	त्वदन्य{पुं}{3;एक}/त्वदन्य{नपुं}{3;एक}	त्वद्-अन्य{पुं}{3;एक}	कर्ता,18	तेरे_अतिरिक्त_दूसरे_किसीने	बेसिडेस्_योउ				
+17	न	18	न	न{अव्य}	न{अव्य}	प्रतिषेधः,18.1	नहीं	नो_ओने				
+18	दृष्ट-पूर्वम्	19	दृष्टपूर्वम्	दृष्टपूर्व{नपुं}{1;एक}/दृष्टपूर्व{नपुं}{2;एक}	दृष्ट-पूर्व{नपुं}{1;एक}	विधेय_विशेषणम्,18.1	पहले_देखा	प्रेविओउस्ल्य्_सेएन्	<दृष्ट-पूर्वम्>ख्1			
+18.1	(आसीत)	20	(0)	(आस्1{कर्तरि;विधिलिङ्;प्र;एक;आत्मनेपदी;आसँ;अदादिः})	(आस्1{कर्तरि;विधिलिङ्;प्र;एक;आत्मनेपदी;आसँ;अदादिः})	अभिहितकर्ता,14;सकर्मकः	(था)	हड्				

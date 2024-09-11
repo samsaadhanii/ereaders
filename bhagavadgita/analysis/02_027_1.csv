@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	jAwasya	2	jAwasya	jAwa{puM}{6;eka}/jAwa{napuM}{6;eka}	jAwa{puM}{6;eka}	RaRTIsambanXaH,4	janme_hue_kI	one_who_is_born				
-2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,4.1	kyoMki	for				
-3	XruvaH	4	Xruvo	Xruva{puM}{1;eka}	Xruva{puM}{1;eka}	viXeya_viSeRaNam,4.1	niSciwa	certain				
-4	mqwyuH	3	mqwyurXruvaM	mqwyu{puM}{1;eka}	mqwyu{puM}{1;eka}	karwA,4.1	mqwyu	death				
-4.1	(aswi)	5	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hE)	is				
-5	Xruvam	9	0	Xruva{puM}{2;eka}/Xruva{napuM}{1;eka}/Xruva{napuM}{2;eka}	Xruva{napuM}{1;eka}	viXeya_viSeRaNam,8.1	niSciwa	inevitable				
-6	janma	8	janma	janma{napuM}{8;eka}/janman{napuM}{1;eka}/janman{napuM}{2;eka}	janman{napuM}{1;eka}	karwA,8.1	janma	rebirth				
-7	mqwasya	7	mqwasya	mqwa{puM}{6;eka}/mqwa{napuM}{6;eka}	mqwa{napuM}{6;eka}	RaRTIsambanXaH,6	mare_hue_kA	for_the_dead				
-8	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,8.1	Ora	and				
-8.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,6;akarmakaH	(hE)	is				
-9	wasmAw	11	wasmAxaparihAryeZrWe	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,15	isase	therefore				
-10	a-parihArye	12	0	aparihAryA{swrI}{1;xvi}/aparihAryA{swrI}{2;xvi}/aparihAryA{swrI}{8;eka}/aparihAryA{swrI}{8;xvi}	a-parihArya{puM}{7;eka}	viSeRaNam,11	binA_upAyavAle	the_inevitable	<na-parihArye>Tn			
-11	arWe	13	0	arWa{puM}{7;eka}/arWa{napuM}{1;xvi}/arWa{napuM}{2;xvi}/arWa{napuM}{7;eka}/arWa{napuM}{8;xvi}	arWa{puM}{7;eka}	aXikaraNam,15	viRaya_meM	in_this_matter				
-12	na	16	na	na{avya}	na{avya}	prawiReXaH,15	nahIM	not				
-13	wvam	14	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,15	wuma	you				
-14	Sociwum	15	Sociwumarhasi	Suc1{kqw_prawyayaH:wumun;Sucaz;BvAxiH}/Suc2{kqw_prawyayaH:wumun;IzSucizr;xivAxiH}	Suc1{kqw_prawyayaH:wumun;Sucaz;BvAxiH}	sahAyakakriyA,15	Soka_karane_ke_lie	grieve_over				
-15	arhasi	17	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwakarwA,13;akarmakaH	yogya_ho	should				
+1	जातस्य	2	जातस्य	जात{पुं}{6;एक}/जात{नपुं}{6;एक}	जात{पुं}{6;एक}	षष्ठीसम्बन्धः,4	जन्मे_हुए_की	ओने_त्हो_इस्_बोर्न्				
+2	हि	1	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,4.1	क्योंकि	ङोर्				
+3	ध्रुवः	4	ध्रुवो	ध्रुव{पुं}{1;एक}	ध्रुव{पुं}{1;एक}	विधेय_विशेषणम्,4.1	निश्चित	चेर्टइन्				
+4	मृत्युः	3	मृत्युर्ध्रुवं	मृत्यु{पुं}{1;एक}	मृत्यु{पुं}{1;एक}	कर्ता,4.1	मृत्यु	डेअट्ह्				
+4.1	(अस्ति)	5	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,4;अकर्मकः	(है)	इस्				
+5	ध्रुवम्	9	0	ध्रुव{पुं}{2;एक}/ध्रुव{नपुं}{1;एक}/ध्रुव{नपुं}{2;एक}	ध्रुव{नपुं}{1;एक}	विधेय_विशेषणम्,8.1	निश्चित	इनेविटब्ले				
+6	जन्म	8	जन्म	जन्म{नपुं}{8;एक}/जन्मन्{नपुं}{1;एक}/जन्मन्{नपुं}{2;एक}	जन्मन्{नपुं}{1;एक}	कर्ता,8.1	जन्म	रेबिर्ट्ह्				
+7	मृतस्य	7	मृतस्य	मृत{पुं}{6;एक}/मृत{नपुं}{6;एक}	मृत{नपुं}{6;एक}	षष्ठीसम्बन्धः,6	मरे_हुए_का	ङोर्_ट्हे_डेअड्				
+8	च	6	च	च{अव्य}	च{अव्य}	सम्बन्धः,8.1	और	अन्ड्				
+8.1	(अस्ति)	10	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,6;अकर्मकः	(है)	इस्				
+9	तस्मात्	11	तस्मादपरिहार्येऽर्थे	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तद्{पुं}{5;एक}	हेतुः,15	इससे	ट्हेरेङोरे				
+10	अ-परिहार्ये	12	0	अपरिहार्या{स्त्री}{1;द्वि}/अपरिहार्या{स्त्री}{2;द्वि}/अपरिहार्या{स्त्री}{8;एक}/अपरिहार्या{स्त्री}{8;द्वि}	अ-परिहार्य{पुं}{7;एक}	विशेषणम्,11	बिना_उपायवाले	ट्हे_इनेविटब्ले	<न-परिहार्ये>ठ्न्			
+11	अर्थे	13	0	अर्थ{पुं}{7;एक}/अर्थ{नपुं}{1;द्वि}/अर्थ{नपुं}{2;द्वि}/अर्थ{नपुं}{7;एक}/अर्थ{नपुं}{8;द्वि}	अर्थ{पुं}{7;एक}	अधिकरणम्,15	विषय_में	इन्_ट्हिस्_मट्टेर्				
+12	न	16	न	न{अव्य}	न{अव्य}	प्रतिषेधः,15	नहीं	नोट्				
+13	त्वम्	14	त्वं	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,15	तुम	योउ				
+14	शोचितुम्	15	शोचितुमर्हसि	शुच्1{कृत्_प्रत्ययः:तुमुन्;शुचँ;भ्वादिः}/शुच्2{कृत्_प्रत्ययः:तुमुन्;ईँशुचिँर्;दिवादिः}	शुच्1{कृत्_प्रत्ययः:तुमुन्;शुचँ;भ्वादिः}	सहायकक्रिया,15	शोक_करने_के_लिए	ग्रिएवे_ओवेर्				
+15	अर्हसि	17	0	अर्ह्1{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;भ्वादिः}/अर्ह्2{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;चुरादिः}	अर्ह्1{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;भ्वादिः}	अभिहितकर्ता,13;अकर्मकः	योग्य_हो	स्होउल्ड्				

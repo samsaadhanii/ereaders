@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	5	nAhaM	na{avya}	na{avya}	prawiReXaH,5.1	nahIM	not				
-2	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,5.1	mEM	I				
-3	prakASaH	4	prakASaH	prakASa{puM}{1;eka}	prakASa{puM}{1;eka}	viXeya_viSeRaNam,5.1	prawyakRa	manifest				
-4	sarvasya	3	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,3	sabake	to_everyone				
-5	yoga-mAyA-samAvqwaH	1	yogamAyAsamAvqwaH	yogamAyA-samAvqwa{puM}{1;eka}	yogamAyA-samAvqwa{puM}{1;eka}	viSeRaNam,2	apanI_yogamAyA_se_CipA_huA	covered_in_internal_potency	<<yoga-mAyA>K6-samAvqwaH>T3			
-5.1	(BavAmi)	6	(0)	(BU1{karwari;lat;u;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;u;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,2;akarmakaH	(howA)	am				
-6	mUDaH	8	mUDoZyaM	mUDa{puM}{1;eka}	mUDa{puM}{1;eka}	viSeRaNam,10	ajFAnI	foolish				
-7	ayam	7	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,10	yaha	this				
-8	na	13	nABijAnAwi	na{avya}	na{avya}	prawiReXaH,9	nahIM	nor				
-9	aBijAnAwi	14	0	aBi_jFA2{karwari;lat;pra;eka;parasmEpaxI;jFA;kryAxiH}	aBi_jFA2{karwari;lat;pra;eka;parasmEpaxI;aBi_jFA;kryAxiH}	aBihiwa_karwA,10;sakarmakaH	jAnawA_hE	can_understand				
-10	lokaH	9	loko	loka{puM}{1;eka}	loka{puM}{1;eka}	karwA,9	janasamuxAya	such_less_intelligent_persons				
-11	mAm	12	mAmajamavyayam	asmax{2;eka}	asmax{2;eka}	karma,9	muJako	me				
-12	a-jam	10	0	a-ja{puM}{2;eka}	aja{puM}{2;eka}	viSeRaNam,11	janmarahiwa	unborn	<na-jam>U			
-13	a-vyayam	11	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	avyaya{puM}{2;eka}	viSeRaNam,11	avinASI_parameSvara_ko	inexhaustible	<na-vyayam>Bsmn			
+1	न	5	नाहं	न{अव्य}	न{अव्य}	प्रतिषेधः,5.1	नहीं	नोट्				
+2	अहम्	2	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,5.1	मैं	ई				
+3	प्रकाशः	4	प्रकाशः	प्रकाश{पुं}{1;एक}	प्रकाश{पुं}{1;एक}	विधेय_विशेषणम्,5.1	प्रत्यक्ष	मनिङेस्ट्				
+4	सर्वस्य	3	सर्वस्य	सर्व{पुं}{6;एक}/सर्व{नपुं}{6;एक}	सर्व{पुं}{6;एक}	षष्ठीसम्बन्धः,3	सबके	टो_एवेर्योने				
+5	योग-माया-समावृतः	1	योगमायासमावृतः	योगमाया-समावृत{पुं}{1;एक}	योगमाया-समावृत{पुं}{1;एक}	विशेषणम्,2	अपनी_योगमाया_से_छिपा_हुआ	चोवेरेड्_इन्_इन्टेर्नल्_पोटेन्च्य्	<<योग-माया>ख्6-समावृतः>ठ्3			
+5.1	(भवामि)	6	(0)	(भू1{कर्तरि;लट्;उ;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;उ;एक;परस्मैपदी;भू;भ्वादिः})	अभिहित_कर्ता,2;अकर्मकः	(होता)	अम्				
+6	मूढः	8	मूढोऽयं	मूढ{पुं}{1;एक}	मूढ{पुं}{1;एक}	विशेषणम्,10	अज्ञानी	ङोओलिस्ह्				
+7	अयम्	7	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	विशेषणम्,10	यह	ट्हिस्				
+8	न	13	नाभिजानाति	न{अव्य}	न{अव्य}	प्रतिषेधः,9	नहीं	नोर्				
+9	अभिजानाति	14	0	अभि_ज्ञा2{कर्तरि;लट्;प्र;एक;परस्मैपदी;ज्ञा;क्र्यादिः}	अभि_ज्ञा2{कर्तरि;लट्;प्र;एक;परस्मैपदी;अभि_ज्ञा;क्र्यादिः}	अभिहित_कर्ता,10;सकर्मकः	जानता_है	चन्_उन्डेर्स्टन्ड्				
+10	लोकः	9	लोको	लोक{पुं}{1;एक}	लोक{पुं}{1;एक}	कर्ता,9	जनसमुदाय	सुच्ह्_लेस्स्_इन्टेल्लिगेन्ट्_पेर्सोन्स्				
+11	माम्	12	मामजमव्ययम्	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,9	मुझको	मे				
+12	अ-जम्	10	0	अ-ज{पुं}{2;एक}	अज{पुं}{2;एक}	विशेषणम्,11	जन्मरहित	उन्बोर्न्	<न-जम्>ऊ			
+13	अ-व्ययम्	11	0	अ-व्यय{पुं}{2;एक}/व्यय{नपुं}{1;एक}/व्यय{नपुं}{2;एक}	अव्यय{पुं}{2;एक}	विशेषणम्,11	अविनाशी_परमेश्वर_को	इनेद्हउस्टिब्ले	<न-व्ययम्>भ्स्म्न्			

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxqcCayA	2	yaxqcCayA	yaxqcCayA{avya}/yaxqcCA{swrI}{3;eka}	yaxqcCA{swrI}{3;eka}	kriyAviSeRaNam,3	svecCA_se	unsolicited				
-2	ca	5	copapannaM	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	and				
-3	upapannam	3	0	upapanna{puM}{2;eka}/upapanna{napuM}{1;eka}/upapanna{napuM}{2;eka}	upa_pax1{kqw_prawyayaH:kwa;upa_paxaz;xivAxiH;napuM}{2;eka}	sup_samucciwaH,5	prApwa_hue	opportunity				
-4	svarga-xvAram	6	svargaxvAramapAvqwam	svarga-xvAr{swrI}{2;eka}/xvAra{napuM}{1;eka}/xvAra{napuM}{2;eka}	svarga-xvAra{napuM}{2;eka}	viSeRaNam,10	svarga_ke_xvAra_jEse	gateway_to_heaven	<svarga-xvAram>T6			
-5	apAvqwam	4	0	apa_vqw1{karwari;luf;u;eka;AwmanepaxI;vqwuz;BvAxiH}	apa_Af_vq2{kqw_prawyayaH:kwa;apa_Af_vqF;svAxiH;napuM}{2;eka}	viSeRaNam,4	Kule_hue	open				
-6	suKinaH	9	suKinaH	suKI{napuM}{5;eka}/suKI{napuM}{6;eka}/suKin{puM}{1;bahu}/suKin{puM}{2;bahu}/suKin{puM}{5;eka}/suKin{puM}{6;eka}/suKin{puM}{8;bahu}/suKin{napuM}{5;eka}/suKin{napuM}{6;eka}	suKin{puM}{1;bahu}	viSeRaNam,7	BAgyavAn	happy				
-7	kRawriyAH	10	kRawriyAH	kRawriya{puM}{1;bahu}/kRawriya{puM}{8;bahu}/kRawriyA{swrI}{1;bahu}/kRawriyA{swrI}{2;bahu}/kRawriyA{swrI}{8;bahu}	kRawriya{puM}{1;bahu}	karwA,9	kRawriyaloga	the_kshatriyas				
-8	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,9	he_pArWa	O_son_of_Prtha				
-9	laBanwe	11	laBanwe	laB1{karwari;lat;pra;bahu;AwmanepaxI;dulaBazR;BvAxiH}	laB1{karwari;lat;pra;bahu;AwmanepaxI;dulaBazR;BvAxiH}	aBihiwakarwA,7;sakarmakaH	pAwe_hEM	get				
-10	yuxXam	8	yuxXamIxqSam	yuxXa{puM}{2;eka}/yuxXa{napuM}{1;eka}/yuxXa{napuM}{2;eka}	yuxXa{napuM}{2;eka}	karma,9	yuxXa_ko	war				
-11	IxqSam	7	0	IxqS{puM}{2;eka}/IxqS{swrI}{2;eka}/IxqS{napuM}{2;eka}/IxqSa{puM}{2;eka}	IxqS{napuM}{2;eka}	kriyAviSeRaNam,10	isa_prakAra_ke	such				
+1	यदृच्छया	2	यदृच्छया	यदृच्छया{अव्य}/यदृच्छा{स्त्री}{3;एक}	यदृच्छा{स्त्री}{3;एक}	क्रियाविशेषणम्,3	स्वेच्छा_से	उन्सोलिचिटेड्				
+2	च	5	चोपपन्नं	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और	अन्ड्				
+3	उपपन्नम्	3	0	उपपन्न{पुं}{2;एक}/उपपन्न{नपुं}{1;एक}/उपपन्न{नपुं}{2;एक}	उप_पद्1{कृत्_प्रत्ययः:क्त;उप_पदँ;दिवादिः;नपुं}{2;एक}	सुप्_समुच्चितः,5	प्राप्त_हुए	ओप्पोर्टुनिट्य्				
+4	स्वर्ग-द्वारम्	6	स्वर्गद्वारमपावृतम्	स्वर्ग-द्वार्{स्त्री}{2;एक}/द्वार{नपुं}{1;एक}/द्वार{नपुं}{2;एक}	स्वर्ग-द्वार{नपुं}{2;एक}	विशेषणम्,10	स्वर्ग_के_द्वार_जैसे	गटेतय्_टो_हेअवेन्	<स्वर्ग-द्वारम्>ठ्6			
+5	अपावृतम्	4	0	अप_वृत्1{कर्तरि;लुङ्;उ;एक;आत्मनेपदी;वृतुँ;भ्वादिः}	अप_आङ्_वृ2{कृत्_प्रत्ययः:क्त;अप_आङ्_वृञ्;स्वादिः;नपुं}{2;एक}	विशेषणम्,4	खुले_हुए	ओपेन्				
+6	सुखिनः	9	सुखिनः	सुखी{नपुं}{5;एक}/सुखी{नपुं}{6;एक}/सुखिन्{पुं}{1;बहु}/सुखिन्{पुं}{2;बहु}/सुखिन्{पुं}{5;एक}/सुखिन्{पुं}{6;एक}/सुखिन्{पुं}{8;बहु}/सुखिन्{नपुं}{5;एक}/सुखिन्{नपुं}{6;एक}	सुखिन्{पुं}{1;बहु}	विशेषणम्,7	भाग्यवान्	हप्प्य्				
+7	क्षत्रियाः	10	क्षत्रियाः	क्षत्रिय{पुं}{1;बहु}/क्षत्रिय{पुं}{8;बहु}/क्षत्रिया{स्त्री}{1;बहु}/क्षत्रिया{स्त्री}{2;बहु}/क्षत्रिया{स्त्री}{8;बहु}	क्षत्रिय{पुं}{1;बहु}	कर्ता,9	क्षत्रियलोग	ट्हे_क्स्हट्रियस्				
+8	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,9	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह				
+9	लभन्ते	11	लभन्ते	लभ्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;डुलभँष्;भ्वादिः}	लभ्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;डुलभँष्;भ्वादिः}	अभिहितकर्ता,7;सकर्मकः	पाते_हैं	गेट्				
+10	युद्धम्	8	युद्धमीदृशम्	युद्ध{पुं}{2;एक}/युद्ध{नपुं}{1;एक}/युद्ध{नपुं}{2;एक}	युद्ध{नपुं}{2;एक}	कर्म,9	युद्ध_को	तर्				
+11	ईदृशम्	7	0	ईदृश्{पुं}{2;एक}/ईदृश्{स्त्री}{2;एक}/ईदृश्{नपुं}{2;एक}/ईदृश{पुं}{2;एक}	ईदृश्{नपुं}{2;एक}	क्रियाविशेषणम्,10	इस_प्रकार_के	सुच्ह्				

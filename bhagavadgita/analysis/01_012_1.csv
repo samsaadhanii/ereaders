@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wasya	4		wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,3	usakA	his_(Duryodhana)	RaRTIsambanXaH,5			
-2	saFjanayan	6		saFjanayaw{puM;1;eka}	saFjanayaw{puM;1;eka(jan2;Sawq_lat;janI;:xivAxiH)}	varwamAnasamAnakAlaH,10	uwpanna_howA_huA	increasing	varwamAnasamAnakAlaH,10			
-3	harRaM	5		harRa{puM;2;eka}	harRa{puM;2;eka}	karma,2	suKa_kA	cheerfulness	karma,2			
-4	kuru-vqxXaH	1		kuru-vqxXa{puM;1;eka}	kuru-vqxXa{puM;1;eka}	viSeRaNam,5	kuru-vqxXa	the_grandsire_of_the_Kuru_dynasty_(Bhisma)	viSeRaNam,5			
-5	piwAmahaH	3		piwAmaha{puM;1;eka}	piwAmaha{puM;1;eka}	karwA,10	xAxA	the_grandfather	aBexaH,2			
-6	siMhanAxaM	8		siMhanAxa{puM;2;eka}	siMhanAxa{puM;2;eka}	karma,7	Sera_kI_xahAड़_ko	roaring_terribly_like_a_lion	karma,7			
-7	vinaxya	9		Nax1{avya;lyap;Naxaz;:BvAxiH}/Nax2{avya;lyap;Naxaz;:curAxiH}	vi_Nax2{avya;lyap;Naxaz;:curAxiH}	pUrvakAlaH,10	vi_Nax2_kara	vibrating	pUrvakAlaH,10			
-8	uccEH	7		uccEH{avya}/ucca{puM;3;bahu}/ucca{napuM;3;bahu}	ucca{napuM;3;bahu}	kriyAviSeRaNam,10	UzcoM_se	very_loudly	kriyAviSeRaNam,7			
-9	SafKaM	10		SafKam{puM;2;eka}	SafKa{puM;2;eka}	karma,10	SafKa	conch	karma,10			
-10	xaXmO	11		XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;:BvAxiH}/XmA1{karwari;lit;u;eka;parasmEpaxI;XmA;:BvAxiH}	XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;:BvAxiH}	aBihiwa_karwA,5;sakarmakaH	PUMka_mArA	blew				
-11	prawApavAn	2		prawApa{mawup;puM;1;eka}	prawApa{mawup;puM;1;eka}	viSeRaNam,5	prawApa	the_valiant	viSeRaNam,5			
+1	तस्य	4		तद्{सर्वनाम;नपुं;6;एक}/तद्{सर्वनाम;पुं;6;एक}	तद्{सर्वनाम;पुं;6;एक}	षष्ठीसम्बन्धः,3	उसका	हिस्_(ढुर्योड्हन)	षष्ठीसम्बन्धः,5			
+2	सञ्जनयन्	6		सञ्जनयत्{पुं;1;एक}	सञ्जनयत्{पुं;1;एक(जन्2;शतृ_लट्;जनी;:दिवादिः)}	वर्तमानसमानकालः,10	उत्पन्न_होता_हुआ	इन्च्रेअसिन्ग्	वर्तमानसमानकालः,10			
+3	हर्षं	5		हर्ष{पुं;2;एक}	हर्ष{पुं;2;एक}	कर्म,2	सुख_का	च्हेएर्ङुल्नेस्स्	कर्म,2			
+4	कुरु-वृद्धः	1		कुरु-वृद्ध{पुं;1;एक}	कुरु-वृद्ध{पुं;1;एक}	विशेषणम्,5	कुरु-वृद्ध	ट्हे_ग्रन्ड्सिरे_ओङ्_ट्हे_खुरु_ड्य्नस्ट्य्_(भ्हिस्म)	विशेषणम्,5			
+5	पितामहः	3		पितामह{पुं;1;एक}	पितामह{पुं;1;एक}	कर्ता,10	दादा	ट्हे_ग्रन्ड्ङट्हेर्	अभेदः,2			
+6	सिंहनादं	8		सिंहनाद{पुं;2;एक}	सिंहनाद{पुं;2;एक}	कर्म,7	शेर_की_दहाॆआ_को	रोअरिन्ग्_टेर्रिब्ल्य्_लिके_अ_लिओन्	कर्म,7			
+7	विनद्य	9		णद्1{अव्य;ल्यप्;णदँ;:भ्वादिः}/णद्2{अव्य;ल्यप्;णदँ;:चुरादिः}	वि_णद्2{अव्य;ल्यप्;णदँ;:चुरादिः}	पूर्वकालः,10	वि_णद्2_कर	विब्रटिन्ग्	पूर्वकालः,10			
+8	उच्चैः	7		उच्चैः{अव्य}/उच्च{पुं;3;बहु}/उच्च{नपुं;3;बहु}	उच्च{नपुं;3;बहु}	क्रियाविशेषणम्,10	ऊँचों_से	वेर्य्_लोउड्ल्य्	क्रियाविशेषणम्,7			
+9	शङ्खं	10		शङ्खम्{पुं;2;एक}	शङ्ख{पुं;2;एक}	कर्म,10	शङ्ख	चोन्च्ह्	कर्म,10			
+10	दध्मौ	11		ध्मा1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ध्मा;:भ्वादिः}/ध्मा1{कर्तरि;लिट्;उ;एक;परस्मैपदी;ध्मा;:भ्वादिः}	ध्मा1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ध्मा;:भ्वादिः}	अभिहित_कर्ता,5;सकर्मकः	फूंक_मारा	ब्लेत्				
+11	प्रतापवान्	2		प्रताप{मतुप्;पुं;1;एक}	प्रताप{मतुप्;पुं;1;एक}	विशेषणम्,5	प्रताप	ट्हे_वलिअन्ट्	विशेषणम्,5			

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-vyakwAw	4	avyakwAxvyakwayaH	avyakwa{puM}{5;eka}	avyakwa{puM}{5;eka}	apAxAnam,4	avyakwa_se_arWAw_brahmA_ke_sUkRma_SarIra_se	from_the_unmanifest	<na-vyakwAw>Tn			
-2	vyakwayaH	2	0	vyakwi{swrI}{1;bahu}	vyakwi{swrI}{1;bahu}	karwA,4	carAcara_BUwagaNa	living_entities				
-3	sarvAH	1	sarvAH	sarvA{swrI}{1;bahu}/sarvA{swrI}{2;bahu}	sarvA{swrI}{1;bahu}	viSeRaNam,2	sampUrNa	all				
-4	praBavanwi	5	praBavanwyaharAgame	pra_BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}	pra_BU1{karwari;lat;pra;bahu;parasmEpaxI;pra_BU;BvAxiH}	aBihiwa_karwA,2	uwpanna_howe_hEM	come_into_being				
-5	ahaH-Agame	3	0	aharAgama{puM}{7;eka}	ahaH-Agama{puM}{7;eka}	aXikaraNam,4	brahmA_ke_xina_ke_praveSakAla_meM	at_the_beginning_of_the_day	<ahaH-Agame>T6			
-6	rAwri-Agame	7	rAwryAgame	rAwryAgama{puM}{7;eka}	rAwri-Agama{puM}{7;eka}	aXikaraNam,7	brahmA_kI_rAwri_ke_praveSakAla_meM	at_the_fall_of_night	<rAwri-Agame>T6			
-7	pralIyanwe	10.1	pralIyanwe	pra_lI1{karwari;lat;pra;bahu;AwmanepaxI;lIf;xivAxiH}/pra_lI1{karmaNi;lat;pra;bahu;AwmanepaxI;lIf;xivAxiH}	pra_lI1{karwari;lat;pra;bahu;AwmanepaxI;pra_lIf;xivAxiH}	aBihiwa_karwA,10.1	lIna_ho_jAwe_hEM	are_annihilated				
-8	wawra	8	wawrEvAvyakwasaFjFake	wawra{avya}	wawra{avya}	viSeRaNam,10	usa	there				
-9	eva	10	0	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
-10	a-vyakwa-saFjFake	9	0	avyakwasaFjFake	avyakwa-saFjFaka{puM}{7;eka}	aXikaraNam,7	avyakwa_nAmaka_brahmA_ke_sUkRma_SarIra_meM	called_the_unmanifest	<<na-vyakwa>Tn-saFjFake>Bs6			
-10.1	(wAH)	6	()	wax {sarvanAma swrI 1 bahu},wax {sarvanAma swrI 2 bahu}	wax {sarvanAma swrI 1 bahu}	karwA,7		they				
+1	अ-व्यक्तात्	4	अव्यक्ताद्व्यक्तयः	अव्यक्त{पुं}{5;एक}	अव्यक्त{पुं}{5;एक}	अपादानम्,4	अव्यक्त_से_अर्थात्_ब्रह्मा_के_सूक्ष्म_शरीर_से	ङ्रोम्_ट्हे_उन्मनिङेस्ट्	<न-व्यक्तात्>ठ्न्			
+2	व्यक्तयः	2	0	व्यक्ति{स्त्री}{1;बहु}	व्यक्ति{स्त्री}{1;बहु}	कर्ता,4	चराचर_भूतगण	लिविन्ग्_एन्टिटिएस्				
+3	सर्वाः	1	सर्वाः	सर्वा{स्त्री}{1;बहु}/सर्वा{स्त्री}{2;बहु}	सर्वा{स्त्री}{1;बहु}	विशेषणम्,2	सम्पूर्ण	अल्ल्				
+4	प्रभवन्ति	5	प्रभवन्त्यहरागमे	प्र_भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}	प्र_भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;प्र_भू;भ्वादिः}	अभिहित_कर्ता,2	उत्पन्न_होते_हैं	चोमे_इन्टो_बेइन्ग्				
+5	अहः-आगमे	3	0	अहरागम{पुं}{7;एक}	अहः-आगम{पुं}{7;एक}	अधिकरणम्,4	ब्रह्मा_के_दिन_के_प्रवेशकाल_में	अट्_ट्हे_बेगिन्निन्ग्_ओङ्_ट्हे_डय्	<अहः-आगमे>ठ्6			
+6	रात्रि-आगमे	7	रात्र्यागमे	रात्र्यागम{पुं}{7;एक}	रात्रि-आगम{पुं}{7;एक}	अधिकरणम्,7	ब्रह्मा_की_रात्रि_के_प्रवेशकाल_में	अट्_ट्हे_ङल्ल्_ओङ्_निग्ह्ट्	<रात्रि-आगमे>ठ्6			
+7	प्रलीयन्ते	10.1	प्रलीयन्ते	प्र_ली1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;लीङ्;दिवादिः}/प्र_ली1{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;लीङ्;दिवादिः}	प्र_ली1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;प्र_लीङ्;दिवादिः}	अभिहित_कर्ता,10.1	लीन_हो_जाते_हैं	अरे_अन्निहिलटेड्				
+8	तत्र	8	तत्रैवाव्यक्तसञ्ज्ञके	तत्र{अव्य}	तत्र{अव्य}	विशेषणम्,10	उस	ट्हेरे				
+9	एव	10	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,10	ही	चेर्टइन्ल्य्				
+10	अ-व्यक्त-सञ्ज्ञके	9	0	अव्यक्तसञ्ज्ञके	अव्यक्त-सञ्ज्ञक{पुं}{7;एक}	अधिकरणम्,7	अव्यक्त_नामक_ब्रह्मा_के_सूक्ष्म_शरीर_में	चल्लेड्_ट्हे_उन्मनिङेस्ट्	<<न-व्यक्त>ठ्न्-सञ्ज्ञके>भ्स्6			
+10.1	(ताः)	6	()	तद्त{सर्वनाम स्त्री 1 बहु},तद् {सर्वनाम स्त्री 2 बहु}	तद्त{सर्वनाम स्त्री 1 बहु}	कर्ता,7		ट्हेय्				

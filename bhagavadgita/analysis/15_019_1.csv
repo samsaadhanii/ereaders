@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaH	2	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,4;niwya_sambanXaH,7	jo	anyone				
-2	mAm	4	mAmevamasammUDo	asmax{2;eka}	asmax{2;eka}	viSeRaNam,6	muJako	unto_Me				
-3	evam	5	0	evam{avya}	evam{avya}	sambanXaH,5	isa_prakAra_(wawwva_se)	certainly				
-4	a-sammUDaH	3	0	asammUDaH{puM}{1;eka}	na-sammUDa{puM}{1;eka}	karwA,5	jFAnI_puruRa	without_a_doubt	<na-sammUDaH>Tn			
-5	jAnAwi	7	jAnAwi	jFA1{karwari;lat;pra;eka;parasmEpaxI;jFA;BvAxiH}/jFA2{karwari;lat;pra;eka;parasmEpaxI;jFA;kryAxiH}	jFA2{karwari;lat;pra;eka;parasmEpaxI;jFA;kryAxiH}	aBihiwakarwA,4;sakarmakaH	jAnawA_hE	knows				
-6	puruRa-uwwamam	6	puruRowwamam	puruRa-uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	puruRa-uwwama{puM}{2;eka}	karma,5	puruRowwama	the_Supreme_Personality_of_Godhead	<puruRa-uwwamam>T7			
-7	saH	8	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,8	vaha	he				
-8	sarva-vix	9	sarvavixBajawi	sarva-vix{puM}{1;eka}/vix{swrI}{1;eka}	sarva-vix{puM}{1;eka}	karwA,9	sarvajFa_puruRa	knower_of_everything	<sarva-viw>U			
-9	Bajawi	12	0	Baj1{karwari;lat;pra;eka;parasmEpaxI;Bajaz;BvAxiH}	Baj1{karwari;lat;pra;eka;parasmEpaxI;Bajaz;BvAxiH}	aBihiwakarwA,7;sakarmakaH	BajawA_hE	renders_devotional_service				
-10	mAm	11	mAM	asmax{2;eka}	asmax{2;eka}	karma,9	muJa_vAsuxeva_parameSvara_ko	unto_Me				
-11	sarva-BAvena	10	sarvaBAvena	sarva-BAva{puM}{3;eka}	sarva-BAva{puM}{3;eka}	kriyAviSeRaNam,9	saba_prakAra_se_niranwara	in_all_respects	<sarva-BAvena>K1			
-12	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,9	he_BArawa	O_son_of_Bharata				
+1	यः	2	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	विशेषणम्,4;नित्य_सम्बन्धः,7	जो	अन्योने				
+2	माम्	4	मामेवमसम्मूढो	अस्मद्{2;एक}	अस्मद्{2;एक}	विशेषणम्,6	मुझको	उन्टो_ंए				
+3	एवम्	5	0	एवम्{अव्य}	एवम्{अव्य}	सम्बन्धः,5	इस_प्रकार_(तत्त्व_से)	चेर्टइन्ल्य्				
+4	अ-सम्मूढः	3	0	असम्मूढः{पुं}{1;एक}	न-सम्मूढ{पुं}{1;एक}	कर्ता,5	ज्ञानी_पुरुष	तिट्होउट्_अ_डोउब्ट्	<न-सम्मूढः>ठ्न्			
+5	जानाति	7	जानाति	ज्ञा1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ज्ञा;भ्वादिः}/ज्ञा2{कर्तरि;लट्;प्र;एक;परस्मैपदी;ज्ञा;क्र्यादिः}	ज्ञा2{कर्तरि;लट्;प्र;एक;परस्मैपदी;ज्ञा;क्र्यादिः}	अभिहितकर्ता,4;सकर्मकः	जानता_है	क्नोत्स्				
+6	पुरुष-उत्तमम्	6	पुरुषोत्तमम्	पुरुष-उत्तम{पुं}{2;एक}/उत्तम{नपुं}{1;एक}/उत्तम{नपुं}{2;एक}	पुरुष-उत्तम{पुं}{2;एक}	कर्म,5	पुरुषोत्तम	ट्हे_शुप्रेमे_फेर्सोनलिट्य्_ओङ्_घोड्हेअड्	<पुरुष-उत्तमम्>ठ्7			
+7	सः	8	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	विशेषणम्,8	वह	हे				
+8	सर्व-विद्	9	सर्वविद्भजति	सर्व-विद्{पुं}{1;एक}/विद्{स्त्री}{1;एक}	सर्व-विद्{पुं}{1;एक}	कर्ता,9	सर्वज्ञ_पुरुष	क्नोतेर्_ओङ्_एवेर्य्ट्हिन्ग्	<सर्व-वित्>ऊ			
+9	भजति	12	0	भज्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भजँ;भ्वादिः}	भज्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भजँ;भ्वादिः}	अभिहितकर्ता,7;सकर्मकः	भजता_है	रेन्डेर्स्_डेवोटिओनल्_सेर्विचे				
+10	माम्	11	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,9	मुझ_वासुदेव_परमेश्वर_को	उन्टो_ंए				
+11	सर्व-भावेन	10	सर्वभावेन	सर्व-भाव{पुं}{3;एक}	सर्व-भाव{पुं}{3;एक}	क्रियाविशेषणम्,9	सब_प्रकार_से_निरन्तर	इन्_अल्ल्_रेस्पेच्ट्स्	<सर्व-भावेन>ख्1			
+12	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,9	हे_भारत	औ_सोन्_ओङ्_भ्हरट				

@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sarva-XarmAn	2	sarvaXarmAnpariwyajya	sarva-Xarma{puM}{2;bahu}	sarva-Xarma{puM}{2;bahu}	karma,2	sampUrNa_XarmoM_ko_arWAw_sampUrNa_karwavyakarmoM_ko	all_varieties_of_religion	<sarva-XarmAn>K1			
-2	pariwyajya	3	0	pari_wyaj1{kqw_prawyayaH:lyap;wyajaz;BvAxiH}	pari_wyaj1{kqw_prawyayaH:lyap;pari_wyajaz;BvAxiH}	pUrvakAlaH,6	wyAgakara	abandoning				
-3	mAm	5	mAmekaM	asmax{2;eka}	asmax{2;eka}	karma,6	muJa_sarvaSakwimAn_sarvAXAra_parameSvara_kI	unto_Me				
-4	ekam	4	0	eka{puM}{2;eka}/eka{napuM}{1;eka}/eka{napuM}{2;eka}	eka{napuM}{2;eka}	viSeRaNam,3	eka	only				
-5	SaraNam	6	SaraNaM	SaraNa{napuM}{1;eka}/SaraNa{napuM}{2;eka}	SaraNa{napuM}{2;eka}	karma,6	SaraNa_meM	surrender				
-6	vraja	7	vraja	vraj1{karwari;lot;ma;eka;parasmEpaxI;vrajaz;BvAxiH}	vraj1{karwari;lot;ma;eka;parasmEpaxI;vrajaz;BvAxiH}	aBihiwakarwA,6.1;sakarmakaH	A_jA	go				
-6.1	(wvam)	1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,6	(wuma)	you				
-7	aham	8	ahaM	asmax{1;eka}	asmax{1;eka}	karwA,10	mEM	I				
-8	wvA	9	wvA	yuRmax{2;eka}	yuRmax{2;eka}	karma,10	wuJe	you				
-9	sarva-pApeByaH	10	sarvapApeByo	sarva-pApa{puM}{4;bahu}/pApa{puM}{5;bahu}/pApa{napuM}{4;bahu}/pApa{napuM}{5;bahu}	sarva-pApa{napuM}{5;bahu}	apAxAnam,10	sampUrNa_pApoM_se	from_all_sinful_reactions	<sarva-pApeByaH>K1			
-10	mokRayiRyAmi	11	mokRayiRyAmi	mokR1_Nic{karwari;lqt;u;eka;parasmEpaxI;mokRaz;curAxiH}	muc1 _Nic{karwari;lqt;u;eka;parasmEpaxI;mucLz_Nic;wuxAxiH}	aBihiwakarwA,7;sakarmakaH	mukwa_kara_xUzgA	deliver				
-11	mA	13	mA	mA{avya}/mA{swrI}{1;eka}/asmax{2;eka}	mA{avya}	sambanXaH,12	mawa	not				
-12	SucaH	14	SucaH*	Suc{swrI}{1;bahu}/Suc{swrI}{2;bahu}/Suc{swrI}{5;eka}/Suc{swrI}{6;eka}/Suc{swrI}{8;bahu}	Suc1{karwari;laf;ma;eka;parasmEpaxI;Sucaz;BvAxiH}	aBihiwakarwA,12.1;akarmakaH	Soka_kara	worry				
-12.1	(wvam)	12	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wU)	you				
+1	सर्व-धर्मान्	2	सर्वधर्मान्परित्यज्य	सर्व-धर्म{पुं}{2;बहु}	सर्व-धर्म{पुं}{2;बहु}	कर्म,2	सम्पूर्ण_धर्मों_को_अर्थात्_सम्पूर्ण_कर्तव्यकर्मों_को	अल्ल्_वरिएटिएस्_ओङ्_रेलिगिओन्	<सर्व-धर्मान्>ख्1			
+2	परित्यज्य	3	0	परि_त्यज्1{कृत्_प्रत्ययः:ल्यप्;त्यजँ;भ्वादिः}	परि_त्यज्1{कृत्_प्रत्ययः:ल्यप्;परि_त्यजँ;भ्वादिः}	पूर्वकालः,6	त्यागकर	अबन्डोनिन्ग्				
+3	माम्	5	मामेकं	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,6	मुझ_सर्वशक्तिमान्_सर्वाधार_परमेश्वर_की	उन्टो_ंए				
+4	एकम्	4	0	एक{पुं}{2;एक}/एक{नपुं}{1;एक}/एक{नपुं}{2;एक}	एक{नपुं}{2;एक}	विशेषणम्,3	एक	ओन्ल्य्				
+5	शरणम्	6	शरणं	शरण{नपुं}{1;एक}/शरण{नपुं}{2;एक}	शरण{नपुं}{2;एक}	कर्म,6	शरण_में	सुर्रेन्डेर्				
+6	व्रज	7	व्रज	व्रज्1{कर्तरि;लोट्;म;एक;परस्मैपदी;व्रजँ;भ्वादिः}	व्रज्1{कर्तरि;लोट्;म;एक;परस्मैपदी;व्रजँ;भ्वादिः}	अभिहितकर्ता,6.1;सकर्मकः	आ_जा	गो				
+6.1	(त्वम्)	1	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,6	(तुम)	योउ				
+7	अहम्	8	अहं	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,10	मैं	ई				
+8	त्वा	9	त्वा	युष्मद्{2;एक}	युष्मद्{2;एक}	कर्म,10	तुझे	योउ				
+9	सर्व-पापेभ्यः	10	सर्वपापेभ्यो	सर्व-पाप{पुं}{4;बहु}/पाप{पुं}{5;बहु}/पाप{नपुं}{4;बहु}/पाप{नपुं}{5;बहु}	सर्व-पाप{नपुं}{5;बहु}	अपादानम्,10	सम्पूर्ण_पापों_से	ङ्रोम्_अल्ल्_सिन्ङुल्_रेअच्टिओन्स्	<सर्व-पापेभ्यः>ख्1			
+10	मोक्षयिष्यामि	11	मोक्षयिष्यामि	मोक्ष्1_णिच्{कर्तरि;लृट्;उ;एक;परस्मैपदी;मोक्षँ;चुरादिः}	मुच्1 _णिच्{कर्तरि;लृट्;उ;एक;परस्मैपदी;मुचॢँ_णिच्;तुदादिः}	अभिहितकर्ता,7;सकर्मकः	मुक्त_कर_दूँगा	डेलिवेर्				
+11	मा	13	मा	मा{अव्य}/मा{स्त्री}{1;एक}/अस्मद्{2;एक}	मा{अव्य}	सम्बन्धः,12	मत	नोट्				
+12	शुचः	14	शुचः*	शुच्{स्त्री}{1;बहु}/शुच्{स्त्री}{2;बहु}/शुच्{स्त्री}{5;एक}/शुच्{स्त्री}{6;एक}/शुच्{स्त्री}{8;बहु}	शुच्1{कर्तरि;लङ्;म;एक;परस्मैपदी;शुचँ;भ्वादिः}	अभिहितकर्ता,12.1;अकर्मकः	शोक_कर	तोर्र्य्				
+12.1	(त्वम्)	12	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,12	(तू)	योउ				

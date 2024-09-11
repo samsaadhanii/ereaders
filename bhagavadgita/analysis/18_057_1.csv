@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	cewasA	2	cewasA	cewas{napuM}{3;eka}	cewas{napuM}{3;eka}	karaNam,4	mana_se	by_intelligence				
-2	sarva-karmANi	1	sarvakarmANi	sarvakarman{napuM}{1;bahu}/sarvakarman{napuM}{2;bahu}/sarvakarman{napuM}{8;bahu}	sarva-karman{napuM}{2;bahu}	karma,4	saba_karmoM_ko	all_kinds_of_activities	<sarva-karmANi>K1			
-3	mayi	3	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,4	muJameM	unto_Me				
-4	sannyasya	4	sannyasya	sam_ni_as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	sam_ni_as1{kqw_prawyayaH:lyap;sam_ni_asaz;BvAxiH}	pUrvakAlaH,10	arpaNa_karake	giving_up				
-5	maw-paraH	8	mawparaH	mawpara{puM}{1;eka}	asmax-para{puM}{1;eka}	sup_samucciwaH,8	mere_parAyaNa	My_protection	<asmaw-paraH>Bs6			
-6	buxXi-yogam	5	buxXiyogamupASriwya	buxXiyoga{puM}{2;eka}	buxXi-yoga{puM}{2;eka}	karma,7	samabuxXirUpa_yoga_ko	devotional_activities	<buxXi-yogam>T6			
-7	upASriwya	6	0	upA_Sri1{kqw_prawyayaH:lyap;SriF;BvAxiH}	upa_Af_Sri1{kqw_prawyayaH:lyap;upa_Af_SriF;BvAxiH}	pUrvakAlaH,10	avalambana_karake	taking_shelter_of				
-8	maw-ciwwaH	11	macciwwaH	macciwwa{puM}{1;eka}	asmax-ciwwa{puM}{1;eka}	viXeya_viSeRaNam,10	muJameM_ciwwavAlA	my_consciousness	<asmaw-ciwwaH>Bs6			
-8.1	(ca)	9	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,8	(Ora)	also				
-9	sawawam	10	sawawaM	sawawam{avya}/sawawa{puM}{2;eka}/sawawa{napuM}{1;eka}/sawawa{napuM}{2;eka}	sawawam{avya}	kriyAviSeRaNam,10	niranwara	always				
-10	Bava	12	Bava	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,10.1;akarmakaH	ho	just_become				
-10.1	(wvam)	7	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,10	(wuma)	you				
+1	चेतसा	2	चेतसा	चेतस्{नपुं}{3;एक}	चेतस्{नपुं}{3;एक}	करणम्,4	मन_से	ब्य्_इन्टेल्लिगेन्चे				
+2	सर्व-कर्माणि	1	सर्वकर्माणि	सर्वकर्मन्{नपुं}{1;बहु}/सर्वकर्मन्{नपुं}{2;बहु}/सर्वकर्मन्{नपुं}{8;बहु}	सर्व-कर्मन्{नपुं}{2;बहु}	कर्म,4	सब_कर्मों_को	अल्ल्_किन्ड्स्_ओङ्_अच्टिविटिएस्	<सर्व-कर्माणि>ख्1			
+3	मयि	3	मयि	अस्मद्{7;एक}	अस्मद्{7;एक}	अधिकरणम्,4	मुझमें	उन्टो_ंए				
+4	सन्न्यस्य	4	सन्न्यस्य	सम्_नि_अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	सम्_नि_अस्1{कृत्_प्रत्ययः:ल्यप्;सम्_नि_असँ;भ्वादिः}	पूर्वकालः,10	अर्पण_करके	गिविन्ग्_उप्				
+5	मत्-परः	8	मत्परः	मत्पर{पुं}{1;एक}	अस्मद्-पर{पुं}{1;एक}	सुप्_समुच्चितः,8	मेरे_परायण	ंय्_प्रोटेच्टिओन्	<अस्मत्-परः>भ्स्6			
+6	बुद्धि-योगम्	5	बुद्धियोगमुपाश्रित्य	बुद्धियोग{पुं}{2;एक}	बुद्धि-योग{पुं}{2;एक}	कर्म,7	समबुद्धिरूप_योग_को	डेवोटिओनल्_अच्टिविटिएस्	<बुद्धि-योगम्>ठ्6			
+7	उपाश्रित्य	6	0	उपा_श्रि1{कृत्_प्रत्ययः:ल्यप्;श्रिञ्;भ्वादिः}	उप_आङ्_श्रि1{कृत्_प्रत्ययः:ल्यप्;उप_आङ्_श्रिञ्;भ्वादिः}	पूर्वकालः,10	अवलम्बन_करके	टकिन्ग्_स्हेल्टेर्_ओङ्				
+8	मत्-चित्तः	11	मच्चित्तः	मच्चित्त{पुं}{1;एक}	अस्मद्-चित्त{पुं}{1;एक}	विधेय_विशेषणम्,10	मुझमें_चित्तवाला	म्य्_चोन्स्चिओउस्नेस्स्	<अस्मत्-चित्तः>भ्स्6			
+8.1	(च)	9	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,8	(और)	अल्सो				
+9	सततम्	10	सततं	सततम्{अव्य}/सतत{पुं}{2;एक}/सतत{नपुं}{1;एक}/सतत{नपुं}{2;एक}	सततम्{अव्य}	क्रियाविशेषणम्,10	निरन्तर	अल्तय्स्				
+10	भव	12	भव	भू1{कर्तरि;लोट्;म;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लोट्;म;एक;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,10.1;अकर्मकः	हो	जुस्ट्_बेचोमे				
+10.1	(त्वम्)	7	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,10	(तुम)	योउ				

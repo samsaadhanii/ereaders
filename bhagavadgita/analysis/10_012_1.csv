@@ -1,34 +1,34 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	param	2	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{1;eka}	viSeRaNam,2	parama	supreme				
-2	brahma	3	brahma	brahma{napuM}{8;eka}/brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	sup_samucciwaH,5	brahma	truth				
-3	param	4	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{1;eka}	viSeRaNam,4	parama	supreme				
-4	XAma	5	XAma	XAman{napuM}{1;eka}/XAman{napuM}{2;eka}/XAman{napuM}{8;eka}	XAman{napuM}{1;eka}	sup_samucciwaH,5	XAma	sustenance				
-5	paviwram	7	paviwraM	paviwra{puM}{2;eka}	paviwra{puM}{1;eka}	viXeya_viSeRaNam,7.1	paviwra	purest				
-6	paramam	6	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{1;eka}	viSeRaNam,5	parama	supreme				
-7	BavAn	1	BavAn	Bava{puM}{2;bahu}/Bavaw{puM}{1;eka}	Bavaw{puM}{1;eka}	karwA,7.1	Apa	Yourself				
-7.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,7;akarmakaH	(hE)	is				
-7.2	(ca)	8	()	ca{avya}	ca{avya}	samuccaya_xyowakaH,7.1	Ora	also				
-8	puruRam	21	puruRam	puruRa{puM}{2;eka}	puruRa{puM}{2;eka}	sup_samucciwaH,13	puruRa	personality				
-9	SASvawam	22	SASvawaM	SASvawa{puM}{2;eka}/SASvawa{napuM}{1;eka}/SASvawa{napuM}{2;eka}	SASvawa{puM}{2;eka}	sup_samucciwaH,13	sanAwana	original				
-10	xivyam	20	xivyamAxixevamajaM	xivya{puM}{2;eka}/xivya{napuM}{1;eka}/xivya{napuM}{2;eka}	xivya{puM}{2;eka}	viSeRaNam,8	xivya	transcendental				
-11	Axi-xevam	23	0	Axin-xeva{puM}{2;eka}	Axi-xeva{puM}{2;eka}	sup_samucciwaH,13	xevoM_kA_BI_Axixeva	original_Lord	<Axi-xevam>K1			
-12	a-jam	24	0	a-ja{puM}{2;eka}	aja{puM}{2;eka}	sup_samucciwaH,13	ajanmA	unborn	<na-jam>U			
-13	viBum	25	viBum	viBu{puM}{2;eka}	viBu{puM}{2;eka}	karmasamAnAXikaraNam,14	sarvavyApI	greatest				
-13.1	(ca)	26	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,13	(Ora)	and				
-14	AhuH	27	AhuswvAmqRayaH	ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;bahu;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,16;xvikarmakaH	kahawe_hEM	say				
-15	wvAm	19	0	yuRmax{2;eka}	yuRmax{2;eka}	karma,14	Apako	unto_You				
-16	qRayaH	17	0	qRi{puM}{1;bahu}/qRi{puM}{8;bahu}	qRi{puM}{1;bahu}	karwA,14	qRigaNa	sages				
-17	sarve	16	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	viSeRaNam,16	saba	all				
-17.1	(ca)	18	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,16	(Ora)	and				
-18	xeva-qRiH	14	xevarRirnAraxaswaWA	xeva-qRi{puM}{1;eka}	xeva-qRi{puM}{1;eka}	viSeRaNam,19	xevarRi	the_sage_among_the_demigods	<xeva-qRiH>K1			
-19	nAraxaH	15	0	nAraxa{puM}{1;eka}	nAraxa{puM}{1;eka}	sup_samucciwaH,16	nAraxa	Narada				
-20	waWA	13	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,19	vEse_hI	also				
-21	asiwaH	10	asiwo	asiwa{puM}{1;eka}/asiwq{puM}{8;eka}/asiwq{napuM}{8;eka}	asiwa{puM}{1;eka}	sup_samucciwaH,16	asiwa	Asita				
-22	xevalaH	11	xevalo	xevala{puM}{1;eka}	xevala{puM}{1;eka}	sup_samucciwaH,16	xevala_qRi	Devala				
-23	vyAsaH	12	vyAsaH	vyAsa{puM}{1;eka}	vyAsa{puM}{1;eka}	sup_samucciwaH,16	maharRi_vyAsa	Vyasa				
-24	svayam	29	svayaM	svayam{avya}	svayam{avya}	kriyAviSeRaNam,27	svayaM_Apa	personally				
-25	ca	30	cEva	ca{avya}	ca{avya}	samuccaya_xyowakaH,27	Ora	also				
-26	eva	31	0	eva{avya}	eva{avya}	sambanXaH,24	BI	certainly				
-27	bravIRi	33	bravIRi	brU1{karwari;lat;ma;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;ma;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,28.1;xvikarmakaH	kahawe_hEM	explaining				
-28	me	32	me	asmax{6;eka}	asmax{4;eka}	sampraxAnam,27	mere_prawi	unto_me				
-28.1	(wvam)	28	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,27	(wuma)	you				
+1	परम्	2	परं	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{नपुं}{1;एक}	विशेषणम्,2	परम	सुप्रेमे				
+2	ब्रह्म	3	ब्रह्म	ब्रह्म{नपुं}{8;एक}/ब्रह्मन्{नपुं}{1;एक}/ब्रह्मन्{नपुं}{2;एक}	ब्रह्मन्{नपुं}{1;एक}	सुप्_समुच्चितः,5	ब्रह्म	ट्रुट्ह्				
+3	परम्	4	परं	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{नपुं}{1;एक}	विशेषणम्,4	परम	सुप्रेमे				
+4	धाम	5	धाम	धामन्{नपुं}{1;एक}/धामन्{नपुं}{2;एक}/धामन्{नपुं}{8;एक}	धामन्{नपुं}{1;एक}	सुप्_समुच्चितः,5	धाम	सुस्टेनन्चे				
+5	पवित्रम्	7	पवित्रं	पवित्र{पुं}{2;एक}	पवित्र{पुं}{1;एक}	विधेय_विशेषणम्,7.1	पवित्र	पुरेस्ट्				
+6	परमम्	6	परमं	परमम्{अव्य}/परम{पुं}{2;एक}/परम{नपुं}{1;एक}/परम{नपुं}{2;एक}	परम{नपुं}{1;एक}	विशेषणम्,5	परम	सुप्रेमे				
+7	भवान्	1	भवान्	भव{पुं}{2;बहु}/भवत्{पुं}{1;एक}	भवत्{पुं}{1;एक}	कर्ता,7.1	आप	Yओउर्सेल्ङ्				
+7.1	(अस्ति)	9	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,7;अकर्मकः	(है)	इस्				
+7.2	(च)	8	()	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,7.1	और	अल्सो				
+8	पुरुषम्	21	पुरुषम्	पुरुष{पुं}{2;एक}	पुरुष{पुं}{2;एक}	सुप्_समुच्चितः,13	पुरुष	पेर्सोनलिट्य्				
+9	शाश्वतम्	22	शाश्वतं	शाश्वत{पुं}{2;एक}/शाश्वत{नपुं}{1;एक}/शाश्वत{नपुं}{2;एक}	शाश्वत{पुं}{2;एक}	सुप्_समुच्चितः,13	सनातन	ओरिगिनल्				
+10	दिव्यम्	20	दिव्यमादिदेवमजं	दिव्य{पुं}{2;एक}/दिव्य{नपुं}{1;एक}/दिव्य{नपुं}{2;एक}	दिव्य{पुं}{2;एक}	विशेषणम्,8	दिव्य	ट्रन्स्चेन्डेन्टल्				
+11	आदि-देवम्	23	0	आदिन्-देव{पुं}{2;एक}	आदि-देव{पुं}{2;एक}	सुप्_समुच्चितः,13	देवों_का_भी_आदिदेव	ओरिगिनल्_ऌओर्ड्	<आदि-देवम्>ख्1			
+12	अ-जम्	24	0	अ-ज{पुं}{2;एक}	अज{पुं}{2;एक}	सुप्_समुच्चितः,13	अजन्मा	उन्बोर्न्	<न-जम्>ऊ			
+13	विभुम्	25	विभुम्	विभु{पुं}{2;एक}	विभु{पुं}{2;एक}	कर्मसमानाधिकरणम्,14	सर्वव्यापी	ग्रेअटेस्ट्				
+13.1	(च)	26	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,13	(और)	अन्ड्				
+14	आहुः	27	आहुस्त्वामृषयः	अह्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;अहँ;स्वादिः}/ब्रू1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;ब्रूञ्;अदादिः}	ब्रू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ब्रूञ्;अदादिः}	अभिहित_कर्ता,16;द्विकर्मकः	कहते_हैं	सय्				
+15	त्वाम्	19	0	युष्मद्{2;एक}	युष्मद्{2;एक}	कर्म,14	आपको	उन्टो_Yओउ				
+16	ऋषयः	17	0	ऋषि{पुं}{1;बहु}/ऋषि{पुं}{8;बहु}	ऋषि{पुं}{1;बहु}	कर्ता,14	ऋषिगण	सगेस्				
+17	सर्वे	16	सर्वे	सर्व{पुं}{1;बहु}/सर्व{नपुं}{1;द्वि}/सर्व{नपुं}{2;द्वि}/सर्वा{स्त्री}{1;द्वि}/सर्वा{स्त्री}{2;द्वि}	सर्व{पुं}{1;बहु}	विशेषणम्,16	सब	अल्ल्				
+17.1	(च)	18	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,16	(और)	अन्ड्				
+18	देव-ऋषिः	14	देवर्षिर्नारदस्तथा	देव-ऋषि{पुं}{1;एक}	देव-ऋषि{पुं}{1;एक}	विशेषणम्,19	देवर्षि	ट्हे_सगे_अमोन्ग्_ट्हे_डेमिगोड्स्	<देव-ऋषिः>ख्1			
+19	नारदः	15	0	नारद{पुं}{1;एक}	नारद{पुं}{1;एक}	सुप्_समुच्चितः,16	नारद	णरड				
+20	तथा	13	0	तथा{अव्य}	तथा{अव्य}	समुच्चय_द्योतकः,19	वैसे_ही	अल्सो				
+21	असितः	10	असितो	असित{पुं}{1;एक}/असितृ{पुं}{8;एक}/असितृ{नपुं}{8;एक}	असित{पुं}{1;एक}	सुप्_समुच्चितः,16	असित	आसिट				
+22	देवलः	11	देवलो	देवल{पुं}{1;एक}	देवल{पुं}{1;एक}	सुप्_समुच्चितः,16	देवल_ऋषि	ढेवल				
+23	व्यासः	12	व्यासः	व्यास{पुं}{1;एक}	व्यास{पुं}{1;एक}	सुप्_समुच्चितः,16	महर्षि_व्यास	Vयस				
+24	स्वयम्	29	स्वयं	स्वयम्{अव्य}	स्वयम्{अव्य}	क्रियाविशेषणम्,27	स्वयं_आप	पेर्सोनल्ल्य्				
+25	च	30	चैव	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,27	और	अल्सो				
+26	एव	31	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,24	भी	चेर्टइन्ल्य्				
+27	ब्रवीषि	33	ब्रवीषि	ब्रू1{कर्तरि;लट्;म;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	ब्रू1{कर्तरि;लट्;म;एक;परस्मैपदी;ब्रूञ्;अदादिः}	अभिहित_कर्ता,28.1;द्विकर्मकः	कहते_हैं	एद्प्लइनिन्ग्				
+28	मे	32	मे	अस्मद्{6;एक}	अस्मद्{4;एक}	सम्प्रदानम्,27	मेरे_प्रति	उन्टो_मे				
+28.1	(त्वम्)	28	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,27	(तुम)	योउ				

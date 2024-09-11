@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	Srowram	2	SrowraM	Srowra{napuM}{1;eka}/Srowra{napuM}{2;eka}	Srowra{napuM}{2;eka}	sup_samucciwaH,10	kRowra	ears				
-2	cakRuH	3	cakRuH	cakRu{puM}{1;eka}/cakRus{napuM}{1;eka}/cakRus{napuM}{2;eka}/kRE1{karwari;lit;pra;bahu;parasmEpaxI;kRE;BvAxiH}	cakRus{napuM}{2;eka}	sup_samucciwaH,10	cakRu	eyes				
-3	sparSanam	5	sparSanaM	sparSana{napuM}{1;eka}/sparSana{napuM}{2;eka}	sparSana{napuM}{2;eka}	sup_samucciwaH,10	wvacA_ko	touch				
-4	ca	4	ca	ca{avya}	ca{avya}	sambanXaH,9	Ora	also				
-5	rasanam	7	rasanaM	rasana{napuM}{1;eka}/rasana{napuM}{2;eka}	rasana{napuM}{2;eka}	sup_samucciwaH,10	rasanA	tongue				
-6	GrANam	8	GrANameva	GrANa{puM}{2;eka}/GrANa{napuM}{1;eka}/GrANa{napuM}{2;eka}	GrANa{puM}{2;eka}	sup_samucciwaH,10	GrANa	smelling_power				
-7	eva	12	0	eva{avya}	eva{avya}	sambanXaH,9	hI	also				
-8	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,9	waWA	also				
-9	aXiRTAya	11	aXiRTAya	aXi_sWA1_Nic{kqw_prawyayaH:lyap;aXi_RTA;BvAxiH}	aXi_sWA1{kqw_prawyayaH:lyap;aXi_RTA;BvAxiH}	pUrvakAlaH,14	ASraya_karake_(arWAw_ina_sabake_sahAre_se)	being_situated				
-10	manaH	10	manaScAyaM	manas{napuM}{1;eka}/manas{napuM}{2;eka}	manas{napuM}{2;eka}	karma,9	mana_ko	mind				
-11	ca	9	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora	and				
-12	ayam	1	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karwA,14	yaha_(jIvAwmA)	this				
-13	viRayAn	13	viRayAnupasevawe	viRaya{puM}{2;bahu}	viRaya{puM}{2;bahu}	karma,14	viRayoM_kA	sense_objects				
-14	upasevawe	14	0	upa_sev1{karwari;lat;pra;eka;AwmanepaxI;Revqz;BvAxiH}	upa_sev1{karwari;lat;pra;eka;AwmanepaxI;upa_Revqz;BvAxiH}		sevana_karawA_hE	enjoys				
+1	श्रोत्रम्	2	श्रोत्रं	श्रोत्र{नपुं}{1;एक}/श्रोत्र{नपुं}{2;एक}	श्रोत्र{नपुं}{2;एक}	सुप्_समुच्चितः,10	क्षोत्र	एअर्स्				
+2	चक्षुः	3	चक्षुः	चक्षु{पुं}{1;एक}/चक्षुस्{नपुं}{1;एक}/चक्षुस्{नपुं}{2;एक}/क्षै1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;क्षै;भ्वादिः}	चक्षुस्{नपुं}{2;एक}	सुप्_समुच्चितः,10	चक्षु	एयेस्				
+3	स्पर्शनम्	5	स्पर्शनं	स्पर्शन{नपुं}{1;एक}/स्पर्शन{नपुं}{2;एक}	स्पर्शन{नपुं}{2;एक}	सुप्_समुच्चितः,10	त्वचा_को	टोउच्ह्				
+4	च	4	च	च{अव्य}	च{अव्य}	सम्बन्धः,9	और	अल्सो				
+5	रसनम्	7	रसनं	रसन{नपुं}{1;एक}/रसन{नपुं}{2;एक}	रसन{नपुं}{2;एक}	सुप्_समुच्चितः,10	रसना	टोन्गुए				
+6	घ्राणम्	8	घ्राणमेव	घ्राण{पुं}{2;एक}/घ्राण{नपुं}{1;एक}/घ्राण{नपुं}{2;एक}	घ्राण{पुं}{2;एक}	सुप्_समुच्चितः,10	घ्राण	स्मेल्लिन्ग्_पोतेर्				
+7	एव	12	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,9	ही	अल्सो				
+8	च	6	च	च{अव्य}	च{अव्य}	सम्बन्धः,9	तथा	अल्सो				
+9	अधिष्ठाय	11	अधिष्ठाय	अधि_स्था1_णिच्{कृत्_प्रत्ययः:ल्यप्;अधि_ष्ठा;भ्वादिः}	अधि_स्था1{कृत्_प्रत्ययः:ल्यप्;अधि_ष्ठा;भ्वादिः}	पूर्वकालः,14	आश्रय_करके_(अर्थात्_इन_सबके_सहारे_से)	बेइन्ग्_सिटुअटेड्				
+10	मनः	10	मनश्चायं	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}	मनस्{नपुं}{2;एक}	कर्म,9	मन_को	मिन्ड्				
+11	च	9	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,10	और	अन्ड्				
+12	अयम्	1	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	कर्ता,14	यह_(जीवात्मा)	ट्हिस्				
+13	विषयान्	13	विषयानुपसेवते	विषय{पुं}{2;बहु}	विषय{पुं}{2;बहु}	कर्म,14	विषयों_का	सेन्से_ओब्जेच्ट्स्				
+14	उपसेवते	14	0	उप_सेव्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;षेवृँ;भ्वादिः}	उप_सेव्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;उप_षेवृँ;भ्वादिः}		सेवन_करता_है	एन्जोय्स्				

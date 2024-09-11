@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yeRAm	3	yeRAM	yax{puM}{6;bahu}/yax{napuM}{6;bahu}	yax{puM}{6;bahu}	viSeRaNam,5;niwya_sambanXaH,7	jina	whose				
-2	wu	1	wvanwagawaM	wu{avya}	wu{avya}	sambanXaH,6.1	paraMwu	but				
-3	anwa-gawam	6	0	anwa-gawa{puM}{2;eka}/gawa{napuM}{1;eka}/gawa{napuM}{2;eka}	anwa-gam1{kqw_prawyayaH:kwa;gamlqz;BvAxiH;napuM}{1;eka}	viXeya_viSeRaNam,6.1	naRta_ho_gayA	completely_eradicated	<anwa-gawam>T2			
-4	pApam	5	pApaM	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{1;eka}	karwA,6.1	pApa	sin				
-5	janAnAm	4	janAnAM	jana{puM}{6;bahu}	jana{puM}{6;bahu}	RaRTIsambanXaH,4	puruRoM_kA	of_the_persons				
-6	puNya-karmaNAm	2	puNyakarmaNAm	puNya-karman{napuM}{6;bahu}	puNya-karman{napuM}{6;bahu}	viSeRaNam,5	SreRTa_karmoM_kA_AcaraNa_karanevAle	pious_activities	<puNya-karmaNAm>Bs6			
-6.1	(Bavawi)	7	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,4;akarmakaH	(hE)	is				
-7	we	8	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	viSeRaNam,11	ve	they				
-8	xvanxva-moha-nirmukwAH	9	xvanxvamohanirmukwA	xvanxva-moha-nirmukwa{puM}{1;bahu}/nirmukwa{puM}{8;bahu}/nirmukwA{swrI}{1;bahu}/nirmukwA{swrI}{2;bahu}/nirmukwA{swrI}{8;bahu}	xvanxva-moha-nir_muc1{kqw_prawyayaH:kwa;nir_mucLz;wuxAxiH;puM}{1;bahu}	viSeRaNam,11	rAga-xveRajaniwa_xvanxvarUpa_moha_se_mukwa	free_from_dual_delusion	<<xvanxva-moha>Km-nirmukwAH>T3			
-9	Bajanwe	12	Bajanwe	Baj1{karwari;lat;pra;bahu;AwmanepaxI;Bajaz;BvAxiH}	Baj1{karwari;lat;pra;bahu;AwmanepaxI;Bajaz;BvAxiH}	aBihiwa_karwA,7;sakarmakaH	Bajawe_hEM	worship				
-10	mAm	11	mAM	asmax{2;eka}	asmax{2;eka}	karma,9	muJako	me				
-11	xqDa-vrawAH	10	xqDavrawAH	xqDa-vrawa{puM}{1;bahu}/vrawa{puM}{8;bahu}	xqDa-vrawa{puM}{1;bahu}	karwA,9	xqDa़niScayI_Bakwa	with_determination	<xqDa-vrawAH>Bs6			
+1	येषाम्	3	येषां	यद्{पुं}{6;बहु}/यद्{नपुं}{6;बहु}	यद्{पुं}{6;बहु}	विशेषणम्,5;नित्य_सम्बन्धः,7	जिन	त्होसे				
+2	तु	1	त्वन्तगतं	तु{अव्य}	तु{अव्य}	सम्बन्धः,6.1	परंतु	बुट्				
+3	अन्त-गतम्	6	0	अन्त-गत{पुं}{2;एक}/गत{नपुं}{1;एक}/गत{नपुं}{2;एक}	अन्त-गम्1{कृत्_प्रत्ययः:क्त;गम्लृँ;भ्वादिः;नपुं}{1;एक}	विधेय_विशेषणम्,6.1	नष्ट_हो_गया	चोम्प्लेटेल्य्_एरडिचटेड्	<अन्त-गतम्>ठ्2			
+4	पापम्	5	पापं	पाप{पुं}{2;एक}/पाप{नपुं}{1;एक}/पाप{नपुं}{2;एक}	पाप{नपुं}{1;एक}	कर्ता,6.1	पाप	सिन्				
+5	जनानाम्	4	जनानां	जन{पुं}{6;बहु}	जन{पुं}{6;बहु}	षष्ठीसम्बन्धः,4	पुरुषों_का	ओङ्_ट्हे_पेर्सोन्स्				
+6	पुण्य-कर्मणाम्	2	पुण्यकर्मणाम्	पुण्य-कर्मन्{नपुं}{6;बहु}	पुण्य-कर्मन्{नपुं}{6;बहु}	विशेषणम्,5	श्रेष्ठ_कर्मों_का_आचरण_करनेवाले	पिओउस्_अच्टिविटिएस्	<पुण्य-कर्मणाम्>भ्स्6			
+6.1	(भवति)	7	(0)	(भवत्{पुं}{7;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहित_कर्ता,4;अकर्मकः	(है)	इस्				
+7	ते	8	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	तद्{पुं}{1;बहु}	विशेषणम्,11	वे	ट्हेय्				
+8	द्वन्द्व-मोह-निर्मुक्ताः	9	द्वन्द्वमोहनिर्मुक्ता	द्वन्द्व-मोह-निर्मुक्त{पुं}{1;बहु}/निर्मुक्त{पुं}{8;बहु}/निर्मुक्ता{स्त्री}{1;बहु}/निर्मुक्ता{स्त्री}{2;बहु}/निर्मुक्ता{स्त्री}{8;बहु}	द्वन्द्व-मोह-निर्_मुच्1{कृत्_प्रत्ययः:क्त;निर्_मुचॢँ;तुदादिः;पुं}{1;बहु}	विशेषणम्,11	राग-द्वेषजनित_द्वन्द्वरूप_मोह_से_मुक्त	ङ्रेए_ङ्रोम्_डुअल्_डेलुसिओन्	<<द्वन्द्व-मोह>ख्म्-निर्मुक्ताः>ठ्3			
+9	भजन्ते	12	भजन्ते	भज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;भजँ;भ्वादिः}	भज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;भजँ;भ्वादिः}	अभिहित_कर्ता,7;सकर्मकः	भजते_हैं	तोर्स्हिप्				
+10	माम्	11	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,9	मुझको	मे				
+11	दृढ-व्रताः	10	दृढव्रताः	दृढ-व्रत{पुं}{1;बहु}/व्रत{पुं}{8;बहु}	दृढ-व्रत{पुं}{1;बहु}	कर्ता,9	दृढॆअञनिश्चयी_भक्त	तिट्ह्_डेटेर्मिनटिओन्	<दृढ-व्रताः>भ्स्6			

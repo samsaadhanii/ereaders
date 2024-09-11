@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	avajAnanwi	11	avajAnanwi	avajAnanwi	ava_jFA2{karwari;lat;pra;bahu;parasmEpaxI;ava_jFA;kryAxiH}	aBihiwakarwA,3;sakarmakaH	wucCa_samaJawe_hEM	deride				
-2	mAm	10	mAM	asmax{2;eka}	asmax{2;eka}	karma,1	muJako	me				
-3	mUDAH	5	mUDA	mUDa{puM}{1;bahu}/mUDa{puM}{8;bahu}/mUDA{swrI}{1;bahu}/mUDA{swrI}{2;bahu}/mUDA{swrI}{8;bahu}	mUDa{puM}{1;bahu}	karwA,1	mUDa़loga	foolish_men				
-4	mAnuRIm	6	mAnuRIM	mAnuRI{swrI}{2;eka}	mAnuRI{swrI}{2;eka}	viSeRaNam,5	manuRya_kA	in_human_form				
-5	wanum	7	wanumASriwam	wanu{puM}{2;eka}/wanu{swrI}{2;eka}	wanu{swrI}{2;eka}	karma,6	SarIra	body				
-6	ASriwam	8	0	ASriwa{puM}{2;eka}/ASriwa{napuM}{1;eka}/ASriwa{napuM}{2;eka}	Af_Sri1{kqw_prawyayaH:kwa;Af_SriF;BvAxiH;puM}{2;eka}	viSeRaNam,2	XAraNa_karanevAle	assuming				
-7	param	2	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{puM}{2;eka}	viSeRaNam,8	parama	transcendental				
-8	BAvam	3	BAvamajAnanwo	BAva{puM}{2;eka}	BAva{puM}{2;eka}	karma,9	BAva_ko	nature				
-9	a-jAnanwaH	4	0	a-jAnanwaH	na-jFA2{kqw_prawyayaH:Sawq;jFA;kryAxiH;puM}{1;bahu}	viSeRaNam,3	na_jAnanevAle	not_knowing	<na-jAnanwaH>Tn			
-10	mama	1	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,8	mere	mine				
-11	BUwa-mahaw-ISvaram	9	BUwamaheSvaram	BUwa-mahaw-ISvara{puM}{2;eka}	BUwa-mahaw-ISvara{puM}{2;eka}	viSeRaNam,2	sampUrNa_BUwoM_ke_mahAn_ISvara_ko	the_supreme_proprietor_of_all_living_entities	<BUwa-<mahaw-ISvaram>K1>T6			
+1	अवजानन्ति	11	अवजानन्ति	अवजानन्ति	अव_ज्ञा2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;अव_ज्ञा;क्र्यादिः}	अभिहितकर्ता,3;सकर्मकः	तुच्छ_समझते_हैं	डेरिडे				
+2	माम्	10	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,1	मुझको	मे				
+3	मूढाः	5	मूढा	मूढ{पुं}{1;बहु}/मूढ{पुं}{8;बहु}/मूढा{स्त्री}{1;बहु}/मूढा{स्त्री}{2;बहु}/मूढा{स्त्री}{8;बहु}	मूढ{पुं}{1;बहु}	कर्ता,1	मूढॆअञलोग	ङोओलिस्ह्_मेन्				
+4	मानुषीम्	6	मानुषीं	मानुषी{स्त्री}{2;एक}	मानुषी{स्त्री}{2;एक}	विशेषणम्,5	मनुष्य_का	इन्_हुमन्_ङोर्म्				
+5	तनुम्	7	तनुमाश्रितम्	तनु{पुं}{2;एक}/तनु{स्त्री}{2;एक}	तनु{स्त्री}{2;एक}	कर्म,6	शरीर	बोड्य्				
+6	आश्रितम्	8	0	आश्रित{पुं}{2;एक}/आश्रित{नपुं}{1;एक}/आश्रित{नपुं}{2;एक}	आङ्_श्रि1{कृत्_प्रत्ययः:क्त;आङ्_श्रिञ्;भ्वादिः;पुं}{2;एक}	विशेषणम्,2	धारण_करनेवाले	अस्सुमिन्ग्				
+7	परम्	2	परं	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{पुं}{2;एक}	विशेषणम्,8	परम	ट्रन्स्चेन्डेन्टल्				
+8	भावम्	3	भावमजानन्तो	भाव{पुं}{2;एक}	भाव{पुं}{2;एक}	कर्म,9	भाव_को	नटुरे				
+9	अ-जानन्तः	4	0	अ-जानन्तः	न-ज्ञा2{कृत्_प्रत्ययः:शतृ;ज्ञा;क्र्यादिः;पुं}{1;बहु}	विशेषणम्,3	न_जाननेवाले	नोट्_क्नोतिन्ग्	<न-जानन्तः>ठ्न्			
+10	मम	1	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,8	मेरे	मिने				
+11	भूत-महत्-ईश्वरम्	9	भूतमहेश्वरम्	भूत-महत्-ईश्वर{पुं}{2;एक}	भूत-महत्-ईश्वर{पुं}{2;एक}	विशेषणम्,2	सम्पूर्ण_भूतों_के_महान्_ईश्वर_को	ट्हे_सुप्रेमे_प्रोप्रिएटोर्_ओङ्_अल्ल्_लिविन्ग्_एन्टिटिएस्	<भूत-<महत्-ईश्वरम्>ख्1>ठ्6			

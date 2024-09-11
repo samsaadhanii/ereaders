@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wasmAw	1	wasmAwwvaminxriyANayAxO	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{napuM}{5;eka}	hewuH,8	isaliye	therefore				
-2	wvam	3	0	yuRmax{1;eka}	yuRmax{1;eka}	karwA,8	wU	you				
-3	inxriyANi	5	0	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}/inxriya{napuM}{8;bahu}	inxriya{napuM}{2;bahu}	karma,5	inxriyoM_ko	senses				
-4	AxO	4	0	Axi{puM}{7;eka}	Axi{puM}{7;eka}	aXikaraNam,8	pahale	in_the_beginning				
-5	niyamya	6	niyamya	ni_yam1{kqw_prawyayaH:lyap;yamoz;BvAxiH}/ni_yam2{kqw_prawyayaH:lyap;yamaz;BvAxiH}/ni_yam3{kqw_prawyayaH:lyap;yamaz;curAxiH}	ni_yam1{kqw_prawyayaH:lyap;ni_yamoz;BvAxiH}	pUrvakAlaH,8	vaSa_meM_karake	by_regulating				
-6	BarawarRaBa	2	BarawarRaBa	BarawarRaBa{puM}{8;eka}	BarawarRaBa{puM}{8;eka}	samboXyaH,8	he_arjuna	O_chief_amongst_the_descendants_of_Bharata				
-7	pApmAnam	9	pApmAnaM	pApman{puM}{2;eka}	pApman{puM}{2;eka}	karma,8	mahAn_pApI_kAma_ko	the_great_symbol_of_sin				
-8	prajahi	11	prajahi	pra_han1{karwari;lot;ma;eka;parasmEpaxI;hanaz;axAxiH}	pra_han1{karwari;lot;ma;eka;parasmEpaxI;pra_hanaz;axAxiH}	aBihiwa_karwA,2;sakarmakaH	balapUrvaka_mAra_dAla	curb				
-9	hi	10	hyenaM	hi{avya}	hi{avya}	sambanXaH,7	avaSya_hI	certainly				
-10	enam	7	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,7	isa	this				
-11	jFAna-vijFAna-nASanam	8	jFAnavijFAnanASanam	jFAna-vijFAna-nASana{puM}{2;eka}/nASana{napuM}{1;eka}/nASana{napuM}{2;eka}	jFAna-vijFAna-nASana{puM}{2;eka}	viSeRaNam,7	jFAna_Ora_vijFAna_kA_nASa_karanevAle	the_destroyer_of_knowledge_and_scientific_knowledge_of_the_pure_soul	<<jFAna-vijFAna>Di-nASanam>T6			
+1	तस्मात्	1	तस्मात्त्वमिन्द्रियाणयादौ	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तद्{नपुं}{5;एक}	हेतुः,8	इसलिये	ट्हेरेङोरे				
+2	त्वम्	3	0	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,8	तू	योउ				
+3	इन्द्रियाणि	5	0	इन्द्रिय{नपुं}{1;बहु}/इन्द्रिय{नपुं}{2;बहु}/इन्द्रिय{नपुं}{8;बहु}	इन्द्रिय{नपुं}{2;बहु}	कर्म,5	इन्द्रियों_को	सेन्सेस्				
+4	आदौ	4	0	आदि{पुं}{7;एक}	आदि{पुं}{7;एक}	अधिकरणम्,8	पहले	इन्_ट्हे_बेगिन्निन्ग्				
+5	नियम्य	6	नियम्य	नि_यम्1{कृत्_प्रत्ययः:ल्यप्;यमोँ;भ्वादिः}/नि_यम्2{कृत्_प्रत्ययः:ल्यप्;यमँ;भ्वादिः}/नि_यम्3{कृत्_प्रत्ययः:ल्यप्;यमँ;चुरादिः}	नि_यम्1{कृत्_प्रत्ययः:ल्यप्;नि_यमोँ;भ्वादिः}	पूर्वकालः,8	वश_में_करके	ब्य्_रेगुलटिन्ग्				
+6	भरतर्षभ	2	भरतर्षभ	भरतर्षभ{पुं}{8;एक}	भरतर्षभ{पुं}{8;एक}	सम्बोध्यः,8	हे_अर्जुन	औ_च्हिएङ्_अमोन्ग्स्ट्_ट्हे_डेस्चेन्डन्ट्स्_ओङ्_भ्हरट				
+7	पाप्मानम्	9	पाप्मानं	पाप्मन्{पुं}{2;एक}	पाप्मन्{पुं}{2;एक}	कर्म,8	महान्_पापी_काम_को	ट्हे_ग्रेअट्_स्य्म्बोल्_ओङ्_सिन्				
+8	प्रजहि	11	प्रजहि	प्र_हन्1{कर्तरि;लोट्;म;एक;परस्मैपदी;हनँ;अदादिः}	प्र_हन्1{कर्तरि;लोट्;म;एक;परस्मैपदी;प्र_हनँ;अदादिः}	अभिहित_कर्ता,2;सकर्मकः	बलपूर्वक_मार_डाल	चुर्ब्				
+9	हि	10	ह्येनं	हि{अव्य}	हि{अव्य}	सम्बन्धः,7	अवश्य_ही	चेर्टइन्ल्य्				
+10	एनम्	7	0	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	विशेषणम्,7	इस	ट्हिस्				
+11	ज्ञान-विज्ञान-नाशनम्	8	ज्ञानविज्ञाननाशनम्	ज्ञान-विज्ञान-नाशन{पुं}{2;एक}/नाशन{नपुं}{1;एक}/नाशन{नपुं}{2;एक}	ज्ञान-विज्ञान-नाशन{पुं}{2;एक}	विशेषणम्,7	ज्ञान_और_विज्ञान_का_नाश_करनेवाले	ट्हे_डेस्ट्रोयेर्_ओङ्_क्नोत्लेड्गे_अन्ड्_स्चिएन्टिङिच्_क्नोत्लेड्गे_ओङ्_ट्हे_पुरे_सोउल्	<<ज्ञान-विज्ञान>ढि-नाशनम्>ठ्6			

@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wasmAw	1	wasmAwsarveRu	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,5	isaliye	therefore				
-2	sarveRu	2	0	sarva{puM}{7;bahu}/sarva{napuM}{7;bahu}	sarva{puM}{7;bahu}	viSeRaNam,3	saba	all				
-3	kAleRu	3	kAleRu	kAla{puM}{7;bahu}/kAla{napuM}{7;bahu}	kAla{puM}{7;bahu}	aXikaraNam,5	samaya_meM	time				
-4	mAm	4	mAmanusmara	asmax{2;eka}	asmax{2;eka}	karma,5	merA	unto_Me				
-5	anusmara	5	0	anu_smq1{karwari;lot;ma;eka;parasmEpaxI;smq;BvAxiH}/anu_smq2{karwari;lot;ma;eka;parasmEpaxI;smq;BvAxiH}	anu_smq1{karwari;lot;ma;eka;parasmEpaxI;anu_smq;BvAxiH}	samucciwaH,7	smaraNa_kara	go_on_remembering				
-6	yuXya	6	yuXya	yuXya	yuX1{karwari;lot;ma;eka;parasmEpaxI;yuXaz;xivAxiH}	aBihiwakarwA,7.1,akarmakaH	yuxXa_kara	fight				
-7	ca	7	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	also				
-7.1	(wvam)	1.1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,6	(wuma)	you				
-8	mayi	8	mayyarpiwamanobuxXirmAmevERyasyasaMSayam	asmax{7;eka}	asmax{7;eka}	aXikaraNam,9	muJameM	unto_Me				
-9	arpiwa-manaH-buxXiH	9	0	arpiwamanobuxXiH	arpiwa-manas-buxXi{swrI}{1;eka}	viSeRaNam,13.1	arpaNa_kiye_hue_mana-buxXi_se_yukwa_hokara	surrendered_mind_and_intellect	<arpiwa-<manaH-buxXiH>Di>Bs3			
-10	mAm	12	0	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	unto_Me				
-11	eva	13	0	eva{avya}	eva{avya}	sambanXaH,10	hI	surely				
-12	eRyasi	14	0	i1{karwari;lqt;ma;eka;parasmEpaxI;iN;axAxiH}	i1{karwari;lqt;ma;eka;parasmEpaxI;iN;axAxiH}	aBihiwakarwA,12.1,sakarmakaH	prApwa_hogA	will_attain				
-13	a-saMSayam	11	0	asaMSaya{puM}{2;eka}	asaMSaya{puM}{2;eka}	kriyAviSeRaNam,12	niHsanxeha	beyond_a_doubt	<na-saMSayaM>Tn			
-13.1	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wuma)	you				
+1	तस्मात्	1	तस्मात्सर्वेषु	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तद्{पुं}{5;एक}	हेतुः,5	इसलिये	ट्हेरेङोरे				
+2	सर्वेषु	2	0	सर्व{पुं}{7;बहु}/सर्व{नपुं}{7;बहु}	सर्व{पुं}{7;बहु}	विशेषणम्,3	सब	अल्ल्				
+3	कालेषु	3	कालेषु	काल{पुं}{7;बहु}/काल{नपुं}{7;बहु}	काल{पुं}{7;बहु}	अधिकरणम्,5	समय_में	टिमे				
+4	माम्	4	मामनुस्मर	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,5	मेरा	उन्टो_ंए				
+5	अनुस्मर	5	0	अनु_स्मृ1{कर्तरि;लोट्;म;एक;परस्मैपदी;स्मृ;भ्वादिः}/अनु_स्मृ2{कर्तरि;लोट्;म;एक;परस्मैपदी;स्मृ;भ्वादिः}	अनु_स्मृ1{कर्तरि;लोट्;म;एक;परस्मैपदी;अनु_स्मृ;भ्वादिः}	समुच्चितः,7	स्मरण_कर	गो_ओन्_रेमेम्बेरिन्ग्				
+6	युध्य	6	युध्य	युध्य	युध्1{कर्तरि;लोट्;म;एक;परस्मैपदी;युधँ;दिवादिः}	अभिहितकर्ता,7.1,अकर्मकः	युद्ध_कर	ङिग्ह्ट्				
+7	च	7	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	और	अल्सो				
+7.1	(त्वम्)	1.1	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,6	(तुम)	योउ				
+8	मयि	8	मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम्	अस्मद्{7;एक}	अस्मद्{7;एक}	अधिकरणम्,9	मुझमें	उन्टो_ंए				
+9	अर्पित-मनः-बुद्धिः	9	0	अर्पितमनोबुद्धिः	अर्पित-मनस्-बुद्धि{स्त्री}{1;एक}	विशेषणम्,13.1	अर्पण_किये_हुए_मन-बुद्धि_से_युक्त_होकर	सुर्रेन्डेरेड्_मिन्ड्_अन्ड्_इन्टेल्लेच्ट्	<अर्पित-<मनः-बुद्धिः>ढि>भ्स्3			
+10	माम्	12	0	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,12	मुझको	उन्टो_ंए				
+11	एव	13	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,10	ही	सुरेल्य्				
+12	एष्यसि	14	0	इ1{कर्तरि;लृट्;म;एक;परस्मैपदी;इण्;अदादिः}	इ1{कर्तरि;लृट्;म;एक;परस्मैपदी;इण्;अदादिः}	अभिहितकर्ता,12.1,सकर्मकः	प्राप्त_होगा	तिल्ल्_अट्टइन्				
+13	अ-संशयम्	11	0	असंशय{पुं}{2;एक}	असंशय{पुं}{2;एक}	क्रियाविशेषणम्,12	निःसन्देह	बेयोन्ड्_अ_डोउब्ट्	<न-संशयं>ठ्न्			
+13.1	(त्वम्)	10	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,12	(तुम)	योउ				

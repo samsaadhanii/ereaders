@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	vyAsa-prasAxAw	1	vyAsaprasAxAcCruwavAnewaxguhyamahaM	vyAsa-prasAxa{puM}{5;eka}	vyAsa-prasAxa{puM}{5;eka}	hewuH,2	SrIvyAsajI_kI_kqpA_se	by_the_mercy_of_Vyasadeva	<vyAsa-prasAxAw>T6			
-2	SruwavAn	12	0	Sruwavaw{puM}{1;eka}	Sru1{kqw_prawyayaH:kwavawu;Sru;BvAxiH;puM}{1;eka}	aBihiwakarwA,5;sakarmakaH	sunA_hE	heard				
-3	ewaw	3	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,7	isa	this				
-4	guhyam	5	0	guhya{puM}{2;eka}/guhya{napuM}{1;eka}/guhya{napuM}{2;eka}	guhya{napuM}{2;eka}	viSeRaNam,7	gopanIya	confidential				
-5	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,2	mEMne	I				
-6	param	4	param	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	viSeRaNam,7	parama	the_supreme				
-7	yogam	6	yogaM	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,11	yoga_ko	mysticism				
-8	yoga-ISvarAw	9	yogeSvarAwkqRNAwsAkRAwkaWayawaH	yogeSvara{puM}{5;eka}	yogeSvara{puM}{5;eka}	viSeRaNam,9	yogeSvara	from_the_master_of_all_mysticism	<yoga-ISvarAw>T6			
-9	kqRNAw	10	0	kqRNa{puM}{5;eka}/kqRNa{napuM}{5;eka}	kqRNa{puM}{5;eka}	apAxAnam,2	BagavAn_SrIkqRNa_se	from_Krsna				
-10	sAkRAw	11	0	sAkRAw{avya}	sAkRAw{avya}	kriyAviSeRaNam,2	prawyakRa	directly				
-11	kaWayawaH	7	0	kaWayaw{puM}{2;bahu}/kaWayaw{puM}{5;eka}/kaWayaw{puM}{6;eka}/kaWayaw{napuM}{5;eka}/kaWayaw{napuM}{6;eka}/kaWa1{karwari;lat;pra;xvi;parasmEpaxI;kaWa;curAxiH}/kaWa1_Nic{karwari;lat;pra;xvi;parasmEpaxI;kaWa;curAxiH}	kaWa1{kqw_prawyayaH:Sawq;kaWa;curAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,2	kahawe_hue	speaking				
-12	svayam	8	svayam	svayam{avya}	svayam{avya}	viSeRaNam,9	svayaM	personally				
+1	व्यास-प्रसादात्	1	व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं	व्यास-प्रसाद{पुं}{5;एक}	व्यास-प्रसाद{पुं}{5;एक}	हेतुः,2	श्रीव्यासजी_की_कृपा_से	ब्य्_ट्हे_मेर्च्य्_ओङ्_Vयसडेव	<व्यास-प्रसादात्>ठ्6			
+2	श्रुतवान्	12	0	श्रुतवत्{पुं}{1;एक}	श्रु1{कृत्_प्रत्ययः:क्तवतु;श्रु;भ्वादिः;पुं}{1;एक}	अभिहितकर्ता,5;सकर्मकः	सुना_है	हेअर्ड्				
+3	एतत्	3	0	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{2;एक}	विशेषणम्,7	इस	ट्हिस्				
+4	गुह्यम्	5	0	गुह्य{पुं}{2;एक}/गुह्य{नपुं}{1;एक}/गुह्य{नपुं}{2;एक}	गुह्य{नपुं}{2;एक}	विशेषणम्,7	गोपनीय	चोन्ङिडेन्टिअल्				
+5	अहम्	2	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,2	मैंने	ई				
+6	परम्	4	परम्	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{नपुं}{2;एक}	विशेषणम्,7	परम	ट्हे_सुप्रेमे				
+7	योगम्	6	योगं	योग{पुं}{2;एक}	योग{पुं}{2;एक}	कर्म,11	योग_को	म्य्स्टिचिस्म्				
+8	योग-ईश्वरात्	9	योगेश्वरात्कृष्णात्साक्षात्कथयतः	योगेश्वर{पुं}{5;एक}	योगेश्वर{पुं}{5;एक}	विशेषणम्,9	योगेश्वर	ङ्रोम्_ट्हे_मस्टेर्_ओङ्_अल्ल्_म्य्स्टिचिस्म्	<योग-ईश्वरात्>ठ्6			
+9	कृष्णात्	10	0	कृष्ण{पुं}{5;एक}/कृष्ण{नपुं}{5;एक}	कृष्ण{पुं}{5;एक}	अपादानम्,2	भगवान्_श्रीकृष्ण_से	ङ्रोम्_ख्र्स्न				
+10	साक्षात्	11	0	साक्षात्{अव्य}	साक्षात्{अव्य}	क्रियाविशेषणम्,2	प्रत्यक्ष	डिरेच्ट्ल्य्				
+11	कथयतः	7	0	कथयत्{पुं}{2;बहु}/कथयत्{पुं}{5;एक}/कथयत्{पुं}{6;एक}/कथयत्{नपुं}{5;एक}/कथयत्{नपुं}{6;एक}/कथ1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;कथ;चुरादिः}/कथ1_णिच्{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;कथ;चुरादिः}	कथ1{कृत्_प्रत्ययः:शतृ;कथ;चुरादिः;पुं}{1;एक}	वर्तमानसमानकालः,2	कहते_हुए	स्पेअकिन्ग्				
+12	स्वयम्	8	स्वयम्	स्वयम्{अव्य}	स्वयम्{अव्य}	विशेषणम्,9	स्वयं	पेर्सोनल्ल्य्				

@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-xeSa-kAle	5	axeSakAle	a-xeSa-kAla{puM}{7;eka}/kAla{napuM}{1;xvi}/kAla{napuM}{2;xvi}/kAla{napuM}{7;eka}/kAlA{swrI}{1;xvi}/kAlA{swrI}{2;xvi}	na-xeSa-kAla{puM}{7;eka}	aXikaraNam,6	ayogya_xeSa-kAla_meM	unpurified_place_and_time	<na-<xeSa-kAle>Ds>Tn			
-2	yaw	1	yaxxAnamapAwreByaSca	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,3;niwya_sambanXaH,9	jo	that				
-3	xAnam	2	0	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{2;eka}	karma,6	xAna	charity				
-4	a-pAwreByaH	7	0	a-pAwra{puM}{4;bahu}/pAwra{puM}{5;bahu}/pAwra{napuM}{4;bahu}/pAwra{napuM}{5;bahu}	apAwra{napuM}{4;bahu}	sampraxAnam,6	kupAwra_ke_prawi	to_unworthy_persons	<na-pAwreByaH>Tn			
-5	ca	6	0	ca{avya}	ca{avya}	sambanXaH,6	Ora	also				
-6	xIyawe	8	xIyawe	xI1{karwari;lat;pra;eka;AwmanepaxI;xIf;xivAxiH}/xI1{BAve;lat;pra;eka;AwmanepaxI;xIf;xivAxiH}/xA1{karmaNi;lat;pra;eka;AwmanepaxI;xAN;BvAxiH}/xA3{karmaNi;lat;pra;eka;AwmanepaxI;duxAF;juhowyAxiH}/xe1{karmaNi;lat;pra;eka;AwmanepaxI;xef;BvAxiH}/xo1{karmaNi;lat;pra;eka;AwmanepaxI;xo;xivAxiH}	xA3{karmaNi;lat;pra;eka;AwmanepaxI;duxAF;juhowyAxiH}	aBihiwakarma,3;sakarmakaH	xiyA_jAwA_hE	is_given				
-7	a-sawkqwam	3	asawkqwamavajFAwaM	a-sawkqwa{puM}{2;eka}	na-sawkqwa{napuM}{2;eka}	karmasamAnAXikaraNam,6	binA_sawkAra_ke	without_respect	<na-sawkqwam>Tn			
-8	avajFAwam	4	0	avajFAwa{puM}{2;eka}/avajFAwa{napuM}{1;eka}/avajFAwa{napuM}{2;eka}	ava_jFA1{kqw_prawyayaH:kwa;ava_jFA;BvAxiH;napuM}{2;eka}	karmasamAnAXikaraNam,6	wiraskArapUrvaka	without_proper_attention				
-9	waw	9	wawwAmasamuxAhqwam	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,11.1	vaha	that				
-10	wAmasam	11	0	wAmasa{puM}{2;eka}/wAmasa{napuM}{1;eka}/wAmasa{napuM}{2;eka}	wAmasa{napuM}{2;eka}	karmasamAnAXikaraNam,11	wAmasa	in_the_mode_of_darkness				
-11	uxAhqwam	12	0	uxAhqwa{puM}{2;eka}/uxAhqwa{napuM}{1;eka}/uxAhqwa{napuM}{2;eka}	uw_Af_hq1{kqw_prawyayaH:kwa;uw_Af_hqF;BvAxiH;napuM}{1;eka}	aBihiwakarma,11.1;sakarmakaH	kahA_gayA_hE	is_said_to_be				
-11.1	(xAnam)	10	(0)	(xAna{napuM}{1;eka}/xAna{napuM}{2;eka})	(xA3{kqw_prawyayaH:lyut;duxAF;juhowyAxiH;napuM}{2;eka})	karma,11	(xAna)	charity				
+1	अ-देश-काले	5	अदेशकाले	अ-देश-काल{पुं}{7;एक}/काल{नपुं}{1;द्वि}/काल{नपुं}{2;द्वि}/काल{नपुं}{7;एक}/काला{स्त्री}{1;द्वि}/काला{स्त्री}{2;द्वि}	न-देश-काल{पुं}{7;एक}	अधिकरणम्,6	अयोग्य_देश-काल_में	उन्पुरिङिएड्_प्लचे_अन्ड्_टिमे	<न-<देश-काले>ढ्स्>ठ्न्			
+2	यत्	1	यद्दानमपात्रेभ्यश्च	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	विशेषणम्,3;नित्य_सम्बन्धः,9	जो	ट्हट्				
+3	दानम्	2	0	दान{नपुं}{1;एक}/दान{नपुं}{2;एक}	दान{नपुं}{2;एक}	कर्म,6	दान	च्हरिट्य्				
+4	अ-पात्रेभ्यः	7	0	अ-पात्र{पुं}{4;बहु}/पात्र{पुं}{5;बहु}/पात्र{नपुं}{4;बहु}/पात्र{नपुं}{5;बहु}	अपात्र{नपुं}{4;बहु}	सम्प्रदानम्,6	कुपात्र_के_प्रति	टो_उन्तोर्ट्ह्य्_पेर्सोन्स्	<न-पात्रेभ्यः>ठ्न्			
+5	च	6	0	च{अव्य}	च{अव्य}	सम्बन्धः,6	और	अल्सो				
+6	दीयते	8	दीयते	दी1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;दीङ्;दिवादिः}/दी1{भावे;लट्;प्र;एक;आत्मनेपदी;दीङ्;दिवादिः}/दा1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;दाण्;भ्वादिः}/दा3{कर्मणि;लट्;प्र;एक;आत्मनेपदी;डुदाञ्;जुहोत्यादिः}/दे1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;देङ्;भ्वादिः}/दो1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;दो;दिवादिः}	दा3{कर्मणि;लट्;प्र;एक;आत्मनेपदी;डुदाञ्;जुहोत्यादिः}	अभिहितकर्म,3;सकर्मकः	दिया_जाता_है	इस्_गिवेन्				
+7	अ-सत्कृतम्	3	असत्कृतमवज्ञातं	अ-सत्कृत{पुं}{2;एक}	न-सत्कृत{नपुं}{2;एक}	कर्मसमानाधिकरणम्,6	बिना_सत्कार_के	तिट्होउट्_रेस्पेच्ट्	<न-सत्कृतम्>ठ्न्			
+8	अवज्ञातम्	4	0	अवज्ञात{पुं}{2;एक}/अवज्ञात{नपुं}{1;एक}/अवज्ञात{नपुं}{2;एक}	अव_ज्ञा1{कृत्_प्रत्ययः:क्त;अव_ज्ञा;भ्वादिः;नपुं}{2;एक}	कर्मसमानाधिकरणम्,6	तिरस्कारपूर्वक	तिट्होउट्_प्रोपेर्_अट्टेन्टिओन्				
+9	तत्	9	तत्तामसमुदाहृतम्	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	विशेषणम्,11.1	वह	ट्हट्				
+10	तामसम्	11	0	तामस{पुं}{2;एक}/तामस{नपुं}{1;एक}/तामस{नपुं}{2;एक}	तामस{नपुं}{2;एक}	कर्मसमानाधिकरणम्,11	तामस	इन्_ट्हे_मोडे_ओङ्_डर्क्नेस्स्				
+11	उदाहृतम्	12	0	उदाहृत{पुं}{2;एक}/उदाहृत{नपुं}{1;एक}/उदाहृत{नपुं}{2;एक}	उत्_आङ्_हृ1{कृत्_प्रत्ययः:क्त;उत्_आङ्_हृञ्;भ्वादिः;नपुं}{1;एक}	अभिहितकर्म,11.1;सकर्मकः	कहा_गया_है	इस्_सइड्_टो_बे				
+11.1	(दानम्)	10	(0)	(दान{नपुं}{1;एक}/दान{नपुं}{2;एक})	(दा3{कृत्_प्रत्ययः:ल्युट्;डुदाञ्;जुहोत्यादिः;नपुं}{2;एक})	कर्म,11	(दान)	च्हरिट्य्				
