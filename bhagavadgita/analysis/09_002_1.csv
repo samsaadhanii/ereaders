@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	rAja-vixyA	2	rAjavixyA	rAjan-vixyA{swrI}{1;eka}	rAjan-vixyA{swrI}{1;eka}	karwA,10.2	saba_vixyAoM_kA_rAjA	the_king_of_education	<rAja-vixyA>T6			
-2	rAja-guhyam	3	rAjaguhyaM	rAjan-guhya{puM}{2;eka}/guhya{napuM}{1;eka}/guhya{napuM}{2;eka}	rAjan-guhya{napuM}{1;eka}	sup_samucciwaH,10	saba_gopanIyoM_kA_rAjA	the_king_of_confidential_knowledge	<rAja-guhyaM>T6			
-3	paviwram	4	paviwramixamuwwamam	paviwra{puM}{2;eka}	paviwra{puM}{1;eka}	sup_samucciwaH,10	awi_paviwra	the_purest				
-4	ixam	1	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,1	yaha_vijFAnasahiwa_jFAna	this				
-5	uwwamam	5	0	uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	uwwama{napuM}{1;eka}	sup_samucciwaH,10	awi_uwwama	transcendental				
-6	prawyakRa-avagamam	6	prawyakRAvagamaM	prawyakRAvagama{puM}{2;eka}/prawyakRAvagama{napuM}{1;eka}/prawyakRAvagama{napuM}{2;eka}	prawyakRa-avagama{napuM}{1;eka}	sup_samucciwaH,10	prawyakRa_PalavAlA	directly_experienced	<prawyakRa-avagamam>Bs6			
-7	Xarmyam	7	XarmyaM	Xarmya{puM}{2;eka}/Xarmya{napuM}{1;eka}/Xarmya{napuM}{2;eka}	Xarmya{puM}{2;eka}	sup_samucciwaH,10	Xarmayukwa_sAXana	the_principle_of_religion				
-8	susuKam	9	susuKaM	susuKa{puM}{2;eka}/susuKa{napuM}{1;eka}/susuKa{napuM}{2;eka}	susuKa{napuM}{1;eka}	karma,9	bada़A_sugama	very_happy				
-9	karwum	8	karwumavyayam	kq1{kqw_prawyayaH:wumun;kqF;BvAxiH}/kq2{kqw_prawyayaH:wumun;kqF;svAxiH}/kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	prayojanam,8	karane_meM	to_execute				
-10	a-vyayam	11	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	avyaya{puM}{1;eka}	viXeya_viSeRaNam,10.2	avinASI	everlasting	<na-vyayam>Bsmn			
-10.1	(ca)	10	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,10	(Ora)	and				
-10.2	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,1;akarmakaH	(hE)	is				
+1	राज-विद्या	2	राजविद्या	राजन्-विद्या{स्त्री}{1;एक}	राजन्-विद्या{स्त्री}{1;एक}	कर्ता,10.2	सब_विद्याओं_का_राजा	ट्हे_किन्ग्_ओङ्_एडुचटिओन्	<राज-विद्या>ठ्6			
+2	राज-गुह्यम्	3	राजगुह्यं	राजन्-गुह्य{पुं}{2;एक}/गुह्य{नपुं}{1;एक}/गुह्य{नपुं}{2;एक}	राजन्-गुह्य{नपुं}{1;एक}	सुप्_समुच्चितः,10	सब_गोपनीयों_का_राजा	ट्हे_किन्ग्_ओङ्_चोन्ङिडेन्टिअल्_क्नोत्लेड्गे	<राज-गुह्यं>ठ्6			
+3	पवित्रम्	4	पवित्रमिदमुत्तमम्	पवित्र{पुं}{2;एक}	पवित्र{पुं}{1;एक}	सुप्_समुच्चितः,10	अति_पवित्र	ट्हे_पुरेस्ट्				
+4	इदम्	1	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	विशेषणम्,1	यह_विज्ञानसहित_ज्ञान	ट्हिस्				
+5	उत्तमम्	5	0	उत्तम{पुं}{2;एक}/उत्तम{नपुं}{1;एक}/उत्तम{नपुं}{2;एक}	उत्तम{नपुं}{1;एक}	सुप्_समुच्चितः,10	अति_उत्तम	ट्रन्स्चेन्डेन्टल्				
+6	प्रत्यक्ष-अवगमम्	6	प्रत्यक्षावगमं	प्रत्यक्षावगम{पुं}{2;एक}/प्रत्यक्षावगम{नपुं}{1;एक}/प्रत्यक्षावगम{नपुं}{2;एक}	प्रत्यक्ष-अवगम{नपुं}{1;एक}	सुप्_समुच्चितः,10	प्रत्यक्ष_फलवाला	डिरेच्ट्ल्य्_एद्पेरिएन्चेड्	<प्रत्यक्ष-अवगमम्>भ्स्6			
+7	धर्म्यम्	7	धर्म्यं	धर्म्य{पुं}{2;एक}/धर्म्य{नपुं}{1;एक}/धर्म्य{नपुं}{2;एक}	धर्म्य{पुं}{2;एक}	सुप्_समुच्चितः,10	धर्मयुक्त_साधन	ट्हे_प्रिन्चिप्ले_ओङ्_रेलिगिओन्				
+8	सुसुखम्	9	सुसुखं	सुसुख{पुं}{2;एक}/सुसुख{नपुं}{1;एक}/सुसुख{नपुं}{2;एक}	सुसुख{नपुं}{1;एक}	कर्म,9	बडॆअञआ_सुगम	वेर्य्_हप्प्य्				
+9	कर्तुम्	8	कर्तुमव्ययम्	कृ1{कृत्_प्रत्ययः:तुमुन्;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:तुमुन्;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	प्रयोजनम्,8	करने_में	टो_एदेचुटे				
+10	अ-व्ययम्	11	0	अ-व्यय{पुं}{2;एक}/व्यय{नपुं}{1;एक}/व्यय{नपुं}{2;एक}	अव्यय{पुं}{1;एक}	विधेय_विशेषणम्,10.2	अविनाशी	एवेर्लस्टिन्ग्	<न-व्ययम्>भ्स्म्न्			
+10.1	(च)	10	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,10	(और)	अन्ड्				
+10.2	(अस्ति)	12	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,1;अकर्मकः	(है)	इस्				

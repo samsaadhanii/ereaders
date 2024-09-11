@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aham	1	ahaM	asmax{1;eka}	asmax{1;eka}	karwA,3.1	mEM_(vAsuxeva)	I				
-2	sarvasya	2	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,3	sampUrNa_jagaw_kI	of_all				
-3	praBavaH	3	praBavo	praBu{puM}{1;bahu}/praBava{puM}{1;eka}	praBava{puM}{1;eka}	viXeya_viSeRaNam,3.1	uwpawwi_kA_kAraNa	source_of_generation				
-3.1	(asmi)	4	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,1;akarmakaH	(hUz)	am				
-4	mawwaH	6	mawwaH	mawwa{puM}{1;eka}	mawwa{wasil}	apAxAnam,6	muJase	from_Me				
-5	sarvam	5	sarvaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{2;eka}	karwA,6	saba_(jagaw)	everything				
-6	pravarwawe	7	pravarwawe	pravarwawA{swrI}{1;xvi}/pravarwawA{swrI}{2;xvi}/pra_vqw1{karwari;lat;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	pra_vqw1{karwari;lat;pra;eka;AwmanepaxI;pra_vqwuz;BvAxiH}	karma,8	ceRtA_karawA_hE	emanates				
-7	iwi	8	iwi	iwi{avya}	iwi{avya}	karma_xyowakaH,6	isa_prakAra	thus				
-8	mawvA	9	mawvA	man1{kqw_prawyayaH:kwvA;manaz;xivAxiH}	man1{kqw_prawyayaH:kwvA;manaz;xivAxiH}	pUrvakAlaH,9	samaJakara	knowing				
-9	Bajanwe	13	Bajanwe	Baj1{karwari;lat;pra;bahu;AwmanepaxI;Bajaz;BvAxiH}	Baj1{karwari;lat;pra;bahu;AwmanepaxI;Bajaz;BvAxiH}	aBihiwakarwA,11;sakarmakaH	niranwara_Bajawe_hEM	becomes_devoted				
-10	mAm	12	mAM	asmax{2;eka}	asmax{2;eka}	karma,9	muJako_(parameSvara_ko)	unto_Me				
-11	buXAH	11	buXA	buXa{puM}{1;bahu}/buXa{puM}{8;bahu}/buXA{swrI}{1;bahu}/buXA{swrI}{2;bahu}/buXA{swrI}{8;bahu}	buXa{puM}{1;bahu}	karwA,9	buxXimAn_Bakwajana	learned				
-12	BAva-samanviwAH	10	BAvasamanviwAH	BAva-samanviwa{puM}{1;bahu}/samanviwa{puM}{8;bahu}/samanviwA{swrI}{1;bahu}/samanviwA{swrI}{2;bahu}/samanviwA{swrI}{8;bahu}	BAva-samanviwa{puM}{1;bahu}	viSeRaNam,11	SraxXA_Ora_Bakwi_se_yukwa	with_great_attention	<BAva-samanviwAH>T3			
+1	अहम्	1	अहं	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,3.1	मैं_(वासुदेव)	ई				
+2	सर्वस्य	2	सर्वस्य	सर्व{पुं}{6;एक}/सर्व{नपुं}{6;एक}	सर्व{पुं}{6;एक}	षष्ठीसम्बन्धः,3	सम्पूर्ण_जगत्_की	ओङ्_अल्ल्				
+3	प्रभवः	3	प्रभवो	प्रभु{पुं}{1;बहु}/प्रभव{पुं}{1;एक}	प्रभव{पुं}{1;एक}	विधेय_विशेषणम्,3.1	उत्पत्ति_का_कारण	सोउर्चे_ओङ्_गेनेरटिओन्				
+3.1	(अस्मि)	4	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,1;अकर्मकः	(हूँ)	अम्				
+4	मत्तः	6	मत्तः	मत्त{पुं}{1;एक}	मत्त{तसिल्}	अपादानम्,6	मुझसे	ङ्रोम्_ंए				
+5	सर्वम्	5	सर्वं	सर्व{पुं}{2;एक}/सर्व{नपुं}{1;एक}/सर्व{नपुं}{2;एक}	सर्व{नपुं}{2;एक}	कर्ता,6	सब_(जगत्)	एवेर्य्ट्हिन्ग्				
+6	प्रवर्तते	7	प्रवर्तते	प्रवर्तता{स्त्री}{1;द्वि}/प्रवर्तता{स्त्री}{2;द्वि}/प्र_वृत्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;वृतुँ;भ्वादिः}	प्र_वृत्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;प्र_वृतुँ;भ्वादिः}	कर्म,8	चेष्टा_करता_है	एमनटेस्				
+7	इति	8	इति	इति{अव्य}	इति{अव्य}	कर्म_द्योतकः,6	इस_प्रकार	ट्हुस्				
+8	मत्वा	9	मत्वा	मन्1{कृत्_प्रत्ययः:क्त्वा;मनँ;दिवादिः}	मन्1{कृत्_प्रत्ययः:क्त्वा;मनँ;दिवादिः}	पूर्वकालः,9	समझकर	क्नोतिन्ग्				
+9	भजन्ते	13	भजन्ते	भज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;भजँ;भ्वादिः}	भज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;भजँ;भ्वादिः}	अभिहितकर्ता,11;सकर्मकः	निरन्तर_भजते_हैं	बेचोमेस्_डेवोटेड्				
+10	माम्	12	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,9	मुझको_(परमेश्वर_को)	उन्टो_ंए				
+11	बुधाः	11	बुधा	बुध{पुं}{1;बहु}/बुध{पुं}{8;बहु}/बुधा{स्त्री}{1;बहु}/बुधा{स्त्री}{2;बहु}/बुधा{स्त्री}{8;बहु}	बुध{पुं}{1;बहु}	कर्ता,9	बुद्धिमान्_भक्तजन	लेअर्नेड्				
+12	भाव-समन्विताः	10	भावसमन्विताः	भाव-समन्वित{पुं}{1;बहु}/समन्वित{पुं}{8;बहु}/समन्विता{स्त्री}{1;बहु}/समन्विता{स्त्री}{2;बहु}/समन्विता{स्त्री}{8;बहु}	भाव-समन्वित{पुं}{1;बहु}	विशेषणम्,11	श्रद्धा_और_भक्ति_से_युक्त	तिट्ह्_ग्रेअट्_अट्टेन्टिओन्	<भाव-समन्विताः>ठ्3			

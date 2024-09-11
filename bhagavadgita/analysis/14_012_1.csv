@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	loBaH	4	loBaH	loBa{puM}{1;eka}	loBa{puM}{1;eka}	sup_samucciwaH,6	loBa	greed				
-2	pravqwwiH	5	pravqwwirAramBaH	pravqwwi{swrI}{1;eka}	pravqwwi{swrI}{1;eka}	sup_samucciwaH,6	pravqwwi	hankering				
-3	AramBaH	7	0	AramBa{puM}{1;eka}	AramBa{puM}{1;eka}	sup_samucciwaH,6	AramBa	endeavor				
-4	karmaNAm	6	karmaNAmaSamaH	karman{napuM}{6;bahu}	karman{napuM}{6;bahu}	RaRTIsambanXaH,3	karmoM_kA	of_activities				
-5	a-SamaH	8	0	Sam1{karwari;laf;ma;eka;parasmEpaxI;Samoz;BvAxiH}/Sam2{karwari;luf;ma;eka;parasmEpaxI;Samuz;xivAxiH}	na-Sama{puM}{1;eka}	sup_samucciwaH,6	aSAnwi	uncontrollable	<na-SamaH>Tn			
-6	spqhA	10	spqhA	spqhA{swrI}{1;eka}	spqhA{swrI}{1;eka}	karwA,9	viRaya-BogoM_kI_lAlasA	desire				
-6.1	(ca)	9	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,6	(Ora)	also				
-7	rajasi	2	rajasyewAni	rajas{puM}{7;eka}/rajas{napuM}{7;eka}/raFj2{karwari;lat;ma;eka;parasmEpaxI;raFjaz;BvAxiH}	rajas{napuM}{7;eka}	karwA,10	rajoguNa_ke	in_the_mode_of_passion				
-8	ewAni	11	0	ewax{napuM}{1;bahu}/ewax{napuM}{2;bahu}	ewax{napuM}{1;bahu}	viSeRaNam,6	ye_(saba)	all_this				
-9	jAyanwe	12	jAyanwe	jE1{BAve;lat;pra;bahu;AwmanepaxI;jE;BvAxiH}/jan1{karwari;lat;pra;bahu;AwmanepaxI;janIz;xivAxiH}/jan2{BAve;lat;pra;bahu;AwmanepaxI;janaz;juhowyAxiH}/jan3{karwari;lat;pra;bahu;AwmanepaxI;janIz;xivAxiH}/jan3{BAve;lat;pra;bahu;AwmanepaxI;janIz;xivAxiH}	jan3{karwari;lat;pra;bahu;AwmanepaxI;janIz;xivAxiH}	aBihiwakarwA,6;akarmakaH	uwpanna_howe_hEM	develop				
-10	vivqxXe	3	vivqxXe	vivqxXa{puM}{7;eka}/vivqxXa{napuM}{1;xvi}/vivqxXa{napuM}{2;xvi}/vivqxXa{napuM}{7;eka}/vivqxXA{swrI}{1;xvi}/vivqxXA{swrI}{2;xvi}	vi_vqX1{kqw_prawyayaH:kwa;vi_vqXuz;BvAxiH;napuM}{7;eka}	BAvalakRaNasapwamI_pUrvakAlaH,9	baDa़nepara	when_there_is_excess				
-11	BarawarRaBa	1	BarawarRaBa	BarawarRaBa{puM}{8;eka}	BarawarRaBa{puM}{8;eka}	samboXyaH,9	he_arjuna	O_chief_of_the_descendants_of_Bharata				
+1	लोभः	4	लोभः	लोभ{पुं}{1;एक}	लोभ{पुं}{1;एक}	सुप्_समुच्चितः,6	लोभ	ग्रेएड्				
+2	प्रवृत्तिः	5	प्रवृत्तिरारम्भः	प्रवृत्ति{स्त्री}{1;एक}	प्रवृत्ति{स्त्री}{1;एक}	सुप्_समुच्चितः,6	प्रवृत्ति	हन्केरिन्ग्				
+3	आरम्भः	7	0	आरम्भ{पुं}{1;एक}	आरम्भ{पुं}{1;एक}	सुप्_समुच्चितः,6	आरम्भ	एन्डेअवोर्				
+4	कर्मणाम्	6	कर्मणामशमः	कर्मन्{नपुं}{6;बहु}	कर्मन्{नपुं}{6;बहु}	षष्ठीसम्बन्धः,3	कर्मों_का	ओङ्_अच्टिविटिएस्				
+5	अ-शमः	8	0	शम्1{कर्तरि;लङ्;म;एक;परस्मैपदी;शमोँ;भ्वादिः}/शम्2{कर्तरि;लुङ्;म;एक;परस्मैपदी;शमुँ;दिवादिः}	न-शम{पुं}{1;एक}	सुप्_समुच्चितः,6	अशान्ति	उन्चोन्ट्रोल्लब्ले	<न-शमः>ठ्न्			
+6	स्पृहा	10	स्पृहा	स्पृहा{स्त्री}{1;एक}	स्पृहा{स्त्री}{1;एक}	कर्ता,9	विषय-भोगों_की_लालसा	डेसिरे				
+6.1	(च)	9	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,6	(और)	अल्सो				
+7	रजसि	2	रजस्येतानि	रजस्{पुं}{7;एक}/रजस्{नपुं}{7;एक}/रञ्ज्2{कर्तरि;लट्;म;एक;परस्मैपदी;रञ्जँ;भ्वादिः}	रजस्{नपुं}{7;एक}	कर्ता,10	रजोगुण_के	इन्_ट्हे_मोडे_ओङ्_पस्सिओन्				
+8	एतानि	11	0	एतद्{नपुं}{1;बहु}/एतद्{नपुं}{2;बहु}	एतद्{नपुं}{1;बहु}	विशेषणम्,6	ये_(सब)	अल्ल्_ट्हिस्				
+9	जायन्ते	12	जायन्ते	जै1{भावे;लट्;प्र;बहु;आत्मनेपदी;जै;भ्वादिः}/जन्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;जनीँ;दिवादिः}/जन्2{भावे;लट्;प्र;बहु;आत्मनेपदी;जनँ;जुहोत्यादिः}/जन्3{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;जनीँ;दिवादिः}/जन्3{भावे;लट्;प्र;बहु;आत्मनेपदी;जनीँ;दिवादिः}	जन्3{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;जनीँ;दिवादिः}	अभिहितकर्ता,6;अकर्मकः	उत्पन्न_होते_हैं	डेवेलोप्				
+10	विवृद्धे	3	विवृद्धे	विवृद्ध{पुं}{7;एक}/विवृद्ध{नपुं}{1;द्वि}/विवृद्ध{नपुं}{2;द्वि}/विवृद्ध{नपुं}{7;एक}/विवृद्धा{स्त्री}{1;द्वि}/विवृद्धा{स्त्री}{2;द्वि}	वि_वृध्1{कृत्_प्रत्ययः:क्त;वि_वृधुँ;भ्वादिः;नपुं}{7;एक}	भावलक्षणसप्तमी_पूर्वकालः,9	बढॆअञनेपर	त्हेन्_ट्हेरे_इस्_एद्चेस्स्				
+11	भरतर्षभ	1	भरतर्षभ	भरतर्षभ{पुं}{8;एक}	भरतर्षभ{पुं}{8;एक}	सम्बोध्यः,9	हे_अर्जुन	औ_च्हिएङ्_ओङ्_ट्हे_डेस्चेन्डन्ट्स्_ओङ्_भ्हरट				

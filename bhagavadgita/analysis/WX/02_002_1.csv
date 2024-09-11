@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kuwaH	9	kuwaswvA	kuwaH{avya}	kuwaH{avya}	apAxAnam,6	kisa_hewu_se	how				
+2	wvA	8	0	yuRmax{2;eka}	yuRmax{2;eka}	karma,6	wumako	unto_you				
+3	kaSmalam	6	kaSmalamixaM	kaSmala{napuM}{2;eka}	kaSmala{napuM}{2;eka}	karwA,6	moha	infatuation				
+4	ixam	5	0	ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,2	yaha	this				
+5	viRame	7	viRame	viRama{puM}{7;eka}/viRama{napuM}{1;xvi}/viRama{napuM}{2;xvi}/viRama{napuM}{7;eka}/viRamA{swrI}{1;xvi}/viRamA{swrI}{2;xvi}	viRama{napuM}{7;eka}	aXikaraNam,6	asamaya_meM	at_this_odd_hour				
+6	samupasWiwam	10	samupasWiwam	samupasWiwa{napuM}{1;eka}	sam_upa_sWA1{kqw_prawyayaH:kwa;sam_upa_RTA;BvAxiH;napuM}{1;eka}	aBihiwakarma,3;sakarmakaH	prApwa_huA	has_overtaken				
+7	an-Arya-juRtam	2	anAryajuRtamasvargyamakIrwikaramarjuna	anArya-juRta{puM}{2;eka}/juRta{napuM}{1;eka}/juRta{napuM}{2;eka}	anArya-juRta{puM}{2;eka}	viSeRaNam,2	na_wo_yaha_SreRTa_puruRoM_xvArA_Acariwa	shunned_by_noble_souls	<na-<Arya-juRtam>T3>Tn			
+8	a-svargyam	3	0	a-svargya{puM}{2;eka}/svargya{napuM}{1;eka}/svargya{napuM}{2;eka}	a-svargya{puM}{2;eka}	viSeRaNam,2	na_svarga_ko_xenevAlA	neither_heaven	<na-svargyam>Tn			
+9	a-kIrwi-karam	4	0	a-kIrwikara{puM}{2;eka}/kIrwikara{napuM}{1;eka}/kIrwikara{napuM}{2;eka}	a-kIrwikara{puM}{2;eka}	viSeRaNam,2	na_kIrwivAlA	nor_fame	<na-<kIrwi-karam>U>Tn			
+10	arjuna	1	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,6	he_arjuna	O_Arjuna				

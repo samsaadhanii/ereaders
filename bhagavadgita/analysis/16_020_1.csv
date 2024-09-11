@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	AsurIm	8	AsurIM	AsurI{swrI}{2;eka}	AsurI{swrI}{2;eka}	viSeRaNam,2	AsurI	demoniac				
-2	yonim	9	yonimApannA	yoni{puM}{2;eka}	yoni{puM}{2;eka}	karma,3	yoni_ko	species				
-3	ApannAH	10	0	Apanna{puM}{1;bahu}/Apanna{puM}{8;bahu}/ApannA{swrI}{1;bahu}/ApannA{swrI}{2;bahu}/ApannA{swrI}{8;bahu}	Af_pax1{kqw_prawyayaH:kwa;Af_paxaz;xivAxiH;puM}{1;bahu}	viSeRaNam,4	prApwa_howe_hEM	gaining				
-4	mUDAH	2	mUDA	mUDa{puM}{1;bahu}/mUDa{puM}{8;bahu}/mUDA{swrI}{1;bahu}/mUDA{swrI}{2;bahu}/mUDA{swrI}{8;bahu}	mUDa{puM}{1;bahu}	karwA,12	ve_mUDa	the_foolish				
-5	janmani	6	janmani	janman{napuM}{7;eka}	janman{napuM}{7;eka}	vIpsA,6	janma_meM	in_birth				
-6	janmani	7	janmani	janman{napuM}{7;eka}	janman{napuM}{7;eka}	aXikaraNam,3	janma_meM	after_birth				
-7	mAm	3	mAprApyEva	asmax{2;eka}	asmax{2;eka}	karma,8	muJako	unto_Me				
-8	a-prApya	4	0	aprApya{napuM}{8;eka}	na-pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,12	na_prApwa_hokara	without_achieving	<na-prApya>Tn			
-9	eva	5	0	eva{avya}	eva{avya}	sambanXaH,8	hI	certainly				
-10	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,12	he_arjuna	O_son_of_Kunti				
-11	wawaH	11	wawo	wawaH{avya}	wawaH{avya}	apAxAnam,12	usase_BI	thereafter				
-12	yAnwi	14	yAnwyaXamAM	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwakarwA,4;sakarmakaH	prApwa_howe_hEM	goes				
-13	aXamAm	12	0	aXamA{swrI}{2;eka}	aXamA{swrI}{2;eka}	viSeRaNam,14	awi_nIca	condemned				
-14	gawim	13	gawim	gawi{swrI}{2;eka}	gawi{swrI}{2;eka}	karma,12	gawi_ko	destination				
+1	आसुरीम्	8	आसुरीं	आसुरी{स्त्री}{2;एक}	आसुरी{स्त्री}{2;एक}	विशेषणम्,2	आसुरी	डेमोनिअच्				
+2	योनिम्	9	योनिमापन्ना	योनि{पुं}{2;एक}	योनि{पुं}{2;एक}	कर्म,3	योनि_को	स्पेचिएस्				
+3	आपन्नाः	10	0	आपन्न{पुं}{1;बहु}/आपन्न{पुं}{8;बहु}/आपन्ना{स्त्री}{1;बहु}/आपन्ना{स्त्री}{2;बहु}/आपन्ना{स्त्री}{8;बहु}	आङ्_पद्1{कृत्_प्रत्ययः:क्त;आङ्_पदँ;दिवादिः;पुं}{1;बहु}	विशेषणम्,4	प्राप्त_होते_हैं	गइनिन्ग्				
+4	मूढाः	2	मूढा	मूढ{पुं}{1;बहु}/मूढ{पुं}{8;बहु}/मूढा{स्त्री}{1;बहु}/मूढा{स्त्री}{2;बहु}/मूढा{स्त्री}{8;बहु}	मूढ{पुं}{1;बहु}	कर्ता,12	वे_मूढ	ट्हे_ङोओलिस्ह्				
+5	जन्मनि	6	जन्मनि	जन्मन्{नपुं}{7;एक}	जन्मन्{नपुं}{7;एक}	वीप्सा,6	जन्म_में	इन्_बिर्ट्ह्				
+6	जन्मनि	7	जन्मनि	जन्मन्{नपुं}{7;एक}	जन्मन्{नपुं}{7;एक}	अधिकरणम्,3	जन्म_में	अङ्टेर्_बिर्ट्ह्				
+7	माम्	3	माप्राप्यैव	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,8	मुझको	उन्टो_ंए				
+8	अ-प्राप्य	4	0	अप्राप्य{नपुं}{8;एक}	न-प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;प्र_आपॢँ;स्वादिः}	पूर्वकालः,12	न_प्राप्त_होकर	तिट्होउट्_अच्हिएविन्ग्	<न-प्राप्य>ठ्न्			
+9	एव	5	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,8	ही	चेर्टइन्ल्य्				
+10	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,12	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+11	ततः	11	ततो	ततः{अव्य}	ततः{अव्य}	अपादानम्,12	उससे_भी	ट्हेरेअङ्टेर्				
+12	यान्ति	14	यान्त्यधमां	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	अभिहितकर्ता,4;सकर्मकः	प्राप्त_होते_हैं	गोएस्				
+13	अधमाम्	12	0	अधमा{स्त्री}{2;एक}	अधमा{स्त्री}{2;एक}	विशेषणम्,14	अति_नीच	चोन्डेम्नेड्				
+14	गतिम्	13	गतिम्	गति{स्त्री}{2;एक}	गति{स्त्री}{2;एक}	कर्म,12	गति_को	डेस्टिनटिओन्				

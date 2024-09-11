@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	pqWakwvena	8	pqWakwvena	pqWakwva{napuM}{3;eka}	pqWakwva{napuM}{3;eka}	kriyAviSeRaNam,7	alaga-alaga	because_of_division				
+2	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,7	kiMwu	but				
+3	yaw	2	yajjFAnaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,4;niwya_sambanXaH,10	jo	which				
+4	jFAnam	3	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karwA,7	jFAna	knowledge				
+5	nAnA-BAvAn	7	nAnABAvAnpqWagviXAn	nAnABAva{puM}{2;bahu}	nAnA-BAva{puM}{2;bahu}	karma,7	nAnA_BAvoM_ko	multifarious_situations	<nAnA-BAvAn>K1			
+6	pqWag-viXAn	6	0	pqWagviXa{puM}{2;bahu}	pqWak-viXa{puM}{2;bahu}	viSeRaNam,5	Binna-Binna_prakAra_ke	different	<pqWag-viXAn>Bs6			
+7	vewwi	9	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,4	jAnawA_hE	knows				
+8	sarveRu	4	sarveRu	sarva{puM}{7;bahu}/sarva{napuM}{7;bahu}	sarva{puM}{7;bahu}	viSeRaNam,9	sampUrNa	in_all				
+9	BUweRu	5	BUweRu	BUwa{puM}{7;bahu}/BUwa{napuM}{7;bahu}	BUwa{puM}{7;bahu}	aXikaraNam,7	BUwoM_meM	living_entities				
+10	waw	10	wajjFAnaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,11	usa	that				
+11	jFAnam	11	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,12	jFAna_ko	knowledge				
+12	vixXi	14	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,13.1	jAna	must_be_known				
+13	rAjasam	13	rAjasam	rAjasa{puM}{2;eka}/rAjasa{napuM}{1;eka}/rAjasa{napuM}{2;eka}	rAjasa{napuM}{2;eka}	karmasamAnAXikaraNam,12	rAjasa	in_terms_of_passion				
+13.1	(wvam)	12	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wU)	you				

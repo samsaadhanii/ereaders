@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	12	na	na{avya}	na{avya}	prawiReXaH,3	na	not				
-2	waw	5	waxBAsayawe	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,3	usako_(svayaM_prakASa_paramapaxa_ko)	that				
-3	BAsayawe	14	0	BAs1_Nic{karwari;lat;pra;eka;AwmanepaxI;BAsqz;BvAxiH}	BAs1_Nic{karwari;lat;pra;eka;AwmanepaxI;BAsqz_Nic;BvAxiH}	aBihiwakarwA,4;sakarmakaH	prakASiwa_kara_sakawA_hE	illuminates				
-4	sUryaH	13	sUryo	sUrI{swrI}{1;bahu}/sUrya{puM}{1;eka}	sUrya{puM}{1;eka}	karwA,3	sUrya	the_sun				
-5	na	15	na	na{avya}	na{avya}	prawiReXaH,6	na	nor				
-6	SaSAfkaH	16	SaSAfko	SaSAfka{puM}{1;eka}	SaSAfka{puM}{1;eka}	viSeRaNam,4	canxramA	the_moon				
-7	na	18	na	na{avya}	na{avya}	prawiReXaH,8	na	nor				
-8	pAvakaH	19	pAvakaH	pAvaka{puM}{1;eka}	pAvaka{puM}{1;eka}	viSeRaNam,4	agni	fire_electricity				
-9	yaw	1	yaxgawvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,10;niwya_sambanXaH,13	jisako_(paramapaxa_ko)	where				
-10	gawvA	2	0	gam1{kwvA;gamLz;BvAxiH}	gam1{kqw_prawyayaH:kwvA;gamLz;BvAxiH}	pUrvakAlaH,12	prApwa_hokara	going				
-11	na	3	na	na{avya}	na{avya}	prawiReXaH,12	nahIM	never				
-12	nivarwanwe	4	nivarwanwe	ni_vqw1{karwari;lat;pra;bahu;AwmanepaxI;ni_vqwuz;BvAxiH}	ni_vqw1{karwari;lat;pra;bahu;AwmanepaxI;ni_vqwuz;BvAxiH}		lOtakara_Awe	comes_back				
-13	waw	10	waxXAma	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,14	usa	that				
-14	XAma	8	0	XAman{napuM}{1;eka}/XAman{napuM}{2;eka}	XAman{napuM}{1;eka}	karwA,16.1	XAma	abode				
-15	paramam	7	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{1;eka}	viSeRaNam,14	parama	supreme				
-16	mama	6	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,15	merA	my				
-16.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,14;akarmakaH	(hE)	is				
+1	न	12	न	न{अव्य}	न{अव्य}	प्रतिषेधः,3	न	नोट्				
+2	तत्	5	तद्भासयते	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	कर्म,3	उसको_(स्वयं_प्रकाश_परमपद_को)	ट्हट्				
+3	भासयते	14	0	भास्1_णिच्{कर्तरि;लट्;प्र;एक;आत्मनेपदी;भासृँ;भ्वादिः}	भास्1_णिच्{कर्तरि;लट्;प्र;एक;आत्मनेपदी;भासृँ_णिच्;भ्वादिः}	अभिहितकर्ता,4;सकर्मकः	प्रकाशित_कर_सकता_है	इल्लुमिनटेस्				
+4	सूर्यः	13	सूर्यो	सूरी{स्त्री}{1;बहु}/सूर्य{पुं}{1;एक}	सूर्य{पुं}{1;एक}	कर्ता,3	सूर्य	ट्हे_सुन्				
+5	न	15	न	न{अव्य}	न{अव्य}	प्रतिषेधः,6	न	नोर्				
+6	शशाङ्कः	16	शशाङ्को	शशाङ्क{पुं}{1;एक}	शशाङ्क{पुं}{1;एक}	विशेषणम्,4	चन्द्रमा	ट्हे_मोओन्				
+7	न	18	न	न{अव्य}	न{अव्य}	प्रतिषेधः,8	न	नोर्				
+8	पावकः	19	पावकः	पावक{पुं}{1;एक}	पावक{पुं}{1;एक}	विशेषणम्,4	अग्नि	ङिरे_एलेच्ट्रिचिट्य्				
+9	यत्	1	यद्गत्वा	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,10;नित्य_सम्बन्धः,13	जिसको_(परमपद_को)	त्हेरे				
+10	गत्वा	2	0	गम्1{क्त्वा;गमॢँ;भ्वादिः}	गम्1{कृत्_प्रत्ययः:क्त्वा;गमॢँ;भ्वादिः}	पूर्वकालः,12	प्राप्त_होकर	गोइन्ग्				
+11	न	3	न	न{अव्य}	न{अव्य}	प्रतिषेधः,12	नहीं	नेवेर्				
+12	निवर्तन्ते	4	निवर्तन्ते	नि_वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;नि_वृतुँ;भ्वादिः}	नि_वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;नि_वृतुँ;भ्वादिः}		लौटकर_आते	चोमेस्_बच्क्				
+13	तत्	10	तद्धाम	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	विशेषणम्,14	उस	ट्हट्				
+14	धाम	8	0	धामन्{नपुं}{1;एक}/धामन्{नपुं}{2;एक}	धामन्{नपुं}{1;एक}	कर्ता,16.1	धाम	अबोडे				
+15	परमम्	7	परमं	परमम्{अव्य}/परम{पुं}{2;एक}/परम{नपुं}{1;एक}/परम{नपुं}{2;एक}	परम{नपुं}{1;एक}	विशेषणम्,14	परम	सुप्रेमे				
+16	मम	6	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,15	मेरा	म्य्				
+16.1	(अस्ति)	9	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,14;अकर्मकः	(है)	इस्				

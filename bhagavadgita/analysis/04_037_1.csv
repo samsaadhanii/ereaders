@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaWA	2	yaWEXAMsi	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,6;niwya_sambanXaH,12	jEse	just_as				
-2	eXAMsi	5		eXas{napuM}{1;bahu}/eXas{napuM}{2;bahu}/eXas{napuM}{8;bahu}	eXas{napuM}{2;bahu}	karma,6	IMXanoM_ko	firewood				
-3	samixXaH	3	samixXoZgnirBasmasAwkuruweZrjuna	samixXa{puM}{1;eka}	samixXa{puM}{1;eka}	viSeRaNam,4	prajvaliwa	blazing				
-4	agniH	4		agni{puM}{1;eka}	agni{puM}{1;eka}	karwA,6	agni	fire				
-5	BasmasAw	6		BasmasAw{avya}	BasmasAw{avya}	karmasamAnAXikaraNam,6	Basmamaya	turns_into_ashes				
-6	kuruwe	7		kuruwA{swrI}{1;xvi}/kuruwA{swrI}{2;xvi}/kuruwA{swrI}{8;eka}/kuruwA{swrI}{8;xvi}/kq3{karwari;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	kq3{karwari;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwa_karwA,4;sakarmakaH	kara_xewA_hE	so_does				
-7	arjuna	1		arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,6	he_arjuna	O_Arjuna				
-8	jFAna-agniH	9	jFAnAgniH	jFAna-agni{puM}{1;eka}	jFAnAgni{puM}{1;eka}	karwA,11	jFAnarUpa_agni	the_fire_of_knowledge	<jFAna-agniH>K6			
-9	sarva-karmANi	10	sarvakarmANi	sarva-karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	sarva-karman{napuM}{2;bahu}	karma,11	sampUrNa_karmoM_ko	all_reactions_to_material_activities	<sarva-karmANi>K1			
-10	BasmasAw	11	BasmasAwkuruwe	BasmasAw{avya}	BasmasAw{avya}	karmasamAnAXikaraNam,11	Basmamaya	to_ashes				
-11	kuruwe	12		kuruwA{swrI}{1;xvi}/kuruwA{swrI}{2;xvi}/kuruwA{swrI}{8;eka}/kuruwA{swrI}{8;xvi}/kq3{karwari;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	kq3{karwari;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwa_karwA,8;sakarmakaH	kara_xewA_hE.	so_does				
-12	waWA	8	waWA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,11	vEse_hI	similarly				
+1	यथा	2	यथैधांसि	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,6;नित्य_सम्बन्धः,12	जैसे	जुस्ट्_अस्				
+2	एधांसि	5		एधस्{नपुं}{1;बहु}/एधस्{नपुं}{2;बहु}/एधस्{नपुं}{8;बहु}	एधस्{नपुं}{2;बहु}	कर्म,6	ईंधनों_को	ङिरेतोओड्				
+3	समिद्धः	3	समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन	समिद्ध{पुं}{1;एक}	समिद्ध{पुं}{1;एक}	विशेषणम्,4	प्रज्वलित	ब्लँइन्ग्				
+4	अग्निः	4		अग्नि{पुं}{1;एक}	अग्नि{पुं}{1;एक}	कर्ता,6	अग्नि	ङिरे				
+5	भस्मसात्	6		भस्मसात्{अव्य}	भस्मसात्{अव्य}	कर्मसमानाधिकरणम्,6	भस्ममय	टुर्न्स्_इन्टो_अस्हेस्				
+6	कुरुते	7		कुरुता{स्त्री}{1;द्वि}/कुरुता{स्त्री}{2;द्वि}/कुरुता{स्त्री}{8;एक}/कुरुता{स्त्री}{8;द्वि}/कृ3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;डुकृञ्;तनादिः}	अभिहित_कर्ता,4;सकर्मकः	कर_देता_है	सो_डोएस्				
+7	अर्जुन	1		अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,6	हे_अर्जुन	औ_आर्जुन				
+8	ज्ञान-अग्निः	9	ज्ञानाग्निः	ज्ञान-अग्नि{पुं}{1;एक}	ज्ञानाग्नि{पुं}{1;एक}	कर्ता,11	ज्ञानरूप_अग्नि	ट्हे_ङिरे_ओङ्_क्नोत्लेड्गे	<ज्ञान-अग्निः>ख्6			
+9	सर्व-कर्माणि	10	सर्वकर्माणि	सर्व-कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}/कर्मन्{नपुं}{8;बहु}	सर्व-कर्मन्{नपुं}{2;बहु}	कर्म,11	सम्पूर्ण_कर्मों_को	अल्ल्_रेअच्टिओन्स्_टो_मटेरिअल्_अच्टिविटिएस्	<सर्व-कर्माणि>ख्1			
+10	भस्मसात्	11	भस्मसात्कुरुते	भस्मसात्{अव्य}	भस्मसात्{अव्य}	कर्मसमानाधिकरणम्,11	भस्ममय	टो_अस्हेस्				
+11	कुरुते	12		कुरुता{स्त्री}{1;द्वि}/कुरुता{स्त्री}{2;द्वि}/कुरुता{स्त्री}{8;एक}/कुरुता{स्त्री}{8;द्वि}/कृ3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लट्;प्र;एक;आत्मनेपदी;डुकृञ्;तनादिः}	अभिहित_कर्ता,8;सकर्मकः	कर_देता_है.	सो_डोएस्				
+12	तथा	8	तथा	तथा{अव्य}	तथा{अव्य}	क्रियाविशेषणम्,11	वैसे_ही	सिमिलर्ल्य्				

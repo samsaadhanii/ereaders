@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	4	nEva	na{avya}	na{avya}	prawiReXaH,4	na	no				
-2	eva	5	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
-3	wasya	1	wasya	wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,4	usakA_(mahApuruRa_kA)	that_(great_soul)				
-4	kqwena	2	kqwenArWo	kqwa{napuM;3;eka}/kqwa{puM;3;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{napuM;3;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{puM;3;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{napuM;3;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{puM;3;eka(kq1;kwa;kqF;:BvAxiH)}/kqwa{napuM;3;eka(kq1;kwa;kqF;:BvAxiH)}	kqwa{napuM;3;eka(kq1;kwa;kqF;:BvAxiH)}	hewuH,5.1	karma_karane_se	by_action				
-5	arWaH	3	0	arWa{puM;1;eka}	arWa{puM;1;eka}	karwA,5.1	prayojana	to_gain				
-5.1	(aswi)	6	(0)	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,5;akarmakaH	(rahawA_hE)	is				
-6	na	10	nAkqweneha	na{avya}	na{avya}	prawiReXaH,9.1	na	nor				
-7	a-kqwena	8	0	a-kqwa{napuM;3;eka}/a-kqwa{puM;3;eka(kq3;kwa;dukqF;:wanAxiH)}/a-kqwa{napuM;3;eka(kq3;kwa;dukqF;:wanAxiH)}/a-kqwa{puM;3;eka(kq2;kwa;kqF;:svAxiH)}/a-kqwa{napuM;3;eka(kq2;kwa;kqF;:svAxiH)}/a-kqwa{puM;3;eka(kq1;kwa;kqF;:BvAxiH)}/a-kqwa{napuM;3;eka(kq1;kwa;kqF;:BvAxiH)}	a-kqwa{napuM;3;eka(a-kq1;kwa;kqF;:BvAxiH)}	hewuH,9.1	karmoM_ke_na_karane_se	by_abstaining_from_action	<na-kqwena>Tn			
-8	iha	7	0	iha{avya}	iha{avya}	xeSAXikaraNam,9.1	yahAz_(isa_viSva_meM)	in_this_(world)				
-9	kaScana	9	kaScana	kiFcana{sarvanAma;puM;1;eka}	kiFcana{sarvanAma;puM;1;eka}	karwA,9.1	koI	whatever				
-9.1	(aswi)	11	(0)	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,4;akarmakaH	(rahawA_hE)	is				
-10	na	17	na	na{avya}	na{avya}	prawiReXaH,15.1	waWA	and				
-11	ca	13	cAsya	ca{avya}	ca{avya}	sambanXaH,10	waWA	and				
-12	asya	12	0	ixam{sarvanAma;puM;6;eka}/ixam{sarvanAma;napuM;6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;:xivAxiH}	ixam{sarvanAma;napuM;6;eka}	RaRTIsambanXaH,13	isakA	of_his				
-13	sarva-BUweRu	14	sarvaBUweRu	sarva-BUwa{napuM;7;bahu}/sarva-BUwa{puM;7;bahu(as2;kwa;asaz;:axAxiH)}/sarva-BUwa{napuM;7;bahu(as2;kwa;asaz;:axAxiH)}/sarva-BUwa{puM;7;bahu(BU1;kwa;BU;:BvAxiH)}/sarva-BUwa{napuM;7;bahu(BU1;kwa;BU;:BvAxiH)}	sarva-BUwa{napuM;7;bahu(sarva-BU1;kwa;BU;:BvAxiH)}	nirXAraNam,14	sampUrNa_prANiyoM_meM	on_any_creature	<sarva-BUweRu>K1			
-14	kaSciw	15	kaScixarWavyapASrayaH	kiFciw{sarvanAma;puM;1;eka}	kiFciw{sarvanAma;puM;1;eka}	viSeRaNam,15	kiMcinmAwra_BI	of_any_kind				
-15	arWa-vyapASrayaH	16	0	arWa-vyapASraya{puM;1;eka}	arWa-vyapASraya{puM;1;eka}	karwA,15.1	svArWa_kA_sambanXa	selfish_dependence	<arWa-vyapASrayaH>T7			
-15.1	(Bavawi)	18	(0)	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}/BavawI{swrI;8;eka}/Bavaw{sarvanAma;puM;7;eka}/Bavaw{puM;7;eka}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,15;akarmakaH	(rahawA)	has				
+1	न	4	नैव	न{अव्य}	न{अव्य}	प्रतिषेधः,4	न	नो				
+2	एव	5	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,1	ही	चेर्टइन्ल्य्				
+3	तस्य	1	तस्य	तद्{सर्वनाम;नपुं;6;एक}/तद्{सर्वनाम;पुं;6;एक}	तद्{सर्वनाम;पुं;6;एक}	षष्ठीसम्बन्धः,4	उसका_(महापुरुष_का)	ट्हट्_(ग्रेअट्_सोउल्)				
+4	कृतेन	2	कृतेनार्थो	कृत{नपुं;3;एक}/कृत{पुं;3;एक(कृ3;क्त;डुकृञ्;:तनादिः)}/कृत{नपुं;3;एक(कृ3;क्त;डुकृञ्;:तनादिः)}/कृत{पुं;3;एक(कृ2;क्त;कृञ्;:स्वादिः)}/कृत{नपुं;3;एक(कृ2;क्त;कृञ्;:स्वादिः)}/कृत{पुं;3;एक(कृ1;क्त;कृञ्;:भ्वादिः)}/कृत{नपुं;3;एक(कृ1;क्त;कृञ्;:भ्वादिः)}	कृत{नपुं;3;एक(कृ1;क्त;कृञ्;:भ्वादिः)}	हेतुः,5.1	कर्म_करने_से	ब्य्_अच्टिओन्				
+5	अर्थः	3	0	अर्थ{पुं;1;एक}	अर्थ{पुं;1;एक}	कर्ता,5.1	प्रयोजन	टो_गइन्				
+5.1	(अस्ति)	6	(0)	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,5;अकर्मकः	(रहता_है)	इस्				
+6	न	10	नाकृतेनेह	न{अव्य}	न{अव्य}	प्रतिषेधः,9.1	न	नोर्				
+7	अ-कृतेन	8	0	अ-कृत{नपुं;3;एक}/अ-कृत{पुं;3;एक(कृ3;क्त;डुकृञ्;:तनादिः)}/अ-कृत{नपुं;3;एक(कृ3;क्त;डुकृञ्;:तनादिः)}/अ-कृत{पुं;3;एक(कृ2;क्त;कृञ्;:स्वादिः)}/अ-कृत{नपुं;3;एक(कृ2;क्त;कृञ्;:स्वादिः)}/अ-कृत{पुं;3;एक(कृ1;क्त;कृञ्;:भ्वादिः)}/अ-कृत{नपुं;3;एक(कृ1;क्त;कृञ्;:भ्वादिः)}	अ-कृत{नपुं;3;एक(अ-कृ1;क्त;कृञ्;:भ्वादिः)}	हेतुः,9.1	कर्मों_के_न_करने_से	ब्य्_अब्स्टइनिन्ग्_ङ्रोम्_अच्टिओन्	<न-कृतेन>ठ्न्			
+8	इह	7	0	इह{अव्य}	इह{अव्य}	देशाधिकरणम्,9.1	यहाँ_(इस_विश्व_में)	इन्_ट्हिस्_(तोर्ल्ड्)				
+9	कश्चन	9	कश्चन	किञ्चन{सर्वनाम;पुं;1;एक}	किञ्चन{सर्वनाम;पुं;1;एक}	कर्ता,9.1	कोई	त्हटेवेर्				
+9.1	(अस्ति)	11	(0)	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अभिहित_कर्ता,4;अकर्मकः	(रहता_है)	इस्				
+10	न	17	न	न{अव्य}	न{अव्य}	प्रतिषेधः,15.1	तथा	अन्ड्				
+11	च	13	चास्य	च{अव्य}	च{अव्य}	सम्बन्धः,10	तथा	अन्ड्				
+12	अस्य	12	0	इदम्{सर्वनाम;पुं;6;एक}/इदम्{सर्वनाम;नपुं;6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;:दिवादिः}	इदम्{सर्वनाम;नपुं;6;एक}	षष्ठीसम्बन्धः,13	इसका	ओङ्_हिस्				
+13	सर्व-भूतेषु	14	सर्वभूतेषु	सर्व-भूत{नपुं;7;बहु}/सर्व-भूत{पुं;7;बहु(अस्2;क्त;असँ;:अदादिः)}/सर्व-भूत{नपुं;7;बहु(अस्2;क्त;असँ;:अदादिः)}/सर्व-भूत{पुं;7;बहु(भू1;क्त;भू;:भ्वादिः)}/सर्व-भूत{नपुं;7;बहु(भू1;क्त;भू;:भ्वादिः)}	सर्व-भूत{नपुं;7;बहु(सर्व-भू1;क्त;भू;:भ्वादिः)}	निर्धारणम्,14	सम्पूर्ण_प्राणियों_में	ओन्_अन्य्_च्रेअटुरे	<सर्व-भूतेषु>ख्1			
+14	कश्चित्	15	कश्चिदर्थव्यपाश्रयः	किञ्चित्{सर्वनाम;पुं;1;एक}	किञ्चित्{सर्वनाम;पुं;1;एक}	विशेषणम्,15	किंचिन्मात्र_भी	ओङ्_अन्य्_किन्ड्				
+15	अर्थ-व्यपाश्रयः	16	0	अर्थ-व्यपाश्रय{पुं;1;एक}	अर्थ-व्यपाश्रय{पुं;1;एक}	कर्ता,15.1	स्वार्थ_का_सम्बन्ध	सेल्ङिस्ह्_डेपेन्डेन्चे	<अर्थ-व्यपाश्रयः>ठ्7			
+15.1	(भवति)	18	(0)	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;:भ्वादिः}/भवती{स्त्री;8;एक}/भवत्{सर्वनाम;पुं;7;एक}/भवत्{पुं;7;एक}	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;:भ्वादिः}	अभिहित_कर्ता,15;अकर्मकः	(रहता)	हस्				

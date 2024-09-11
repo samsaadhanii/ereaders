@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kAmEH	4	kAmEswEswErhqwa-jFAnAH	kAma{puM}{3;bahu}	kAma{puM}{3;bahu}	karaNam,4	BogoM_kI_kAmanA_xvArA	by_desires				
+2	wEH	2	0	wax{puM}{3;bahu}/wax{napuM}{3;bahu}	wax{puM}{3;bahu}	vIpsA,3	una	by_those				
+3	wEH	3	0	wax{puM}{3;bahu}/wax{napuM}{3;bahu}	wax{puM}{3;bahu}	viSeRaNam,1	una	by_those				
+4	hqwa-jFAnAH	1	0	hqwa-jFAna{puM}{1;bahu}/jFAna{puM}{8;bahu}	hqwa-jFAna{puM}{1;bahu}	karwA,5	jinakA_jFAna_harA_jA_cukA_hE	distorted_knowledge	<hqwa-jFAnAH>Bs6			
+5	prapaxyanwe	15	prapaxyanweZnyaxevawAH	pra_pax1{karwari;lat;pra;bahu;AwmanepaxI;paxaz;xivAxiH}/pra_pax1{karmaNi;lat;pra;bahu;AwmanepaxI;paxaz;xivAxiH}	pra_pax1{karwari;lat;pra;bahu;AwmanepaxI;pra_paxaz;xivAxiH}	aBihiwa_karwA,4	Bajawe_hEM_arWAw_pUjawe_hEM	surrender				
+6	anya-xevawAH	14	0	anya-xevawA{swrI}{1;bahu}/xevawA{swrI}{2;bahu}/xevawA{swrI}{8;bahu}	anya-xevawA{swrI}{2;bahu}	muKyakarma,5	anya_xevawAoM_ko	other_demigods	<anya-xevawAH>K1			
+7	wam	10	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	vIpsA,8	usa	that				
+8	wam	11	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	viSeRaNam,9	usa	that				
+9	niyamam	12	niyamamAsWAya	niyama{puM}{2;eka}	niyama{puM}{2;eka}	karma,10	niyama_ko	rules				
+10	AsWAya	13	0	Af_sWA1{kqw_prawyayaH:lyap;RTA;BvAxiH}	Af_sWA1{kqw_prawyayaH:lyap;Af_RTA;BvAxiH}	pUrvakAlaH,5	lekara	following				
+11	prakqwyA	6	prakqwyA	prakqwi{swrI}{3;eka}	prakqwi{swrI}{3;eka}	karaNam,12	svaBAva_se	by_nature				
+12	niyawAH	7	niyawAH	niyawa{puM}{1;bahu}/niyawa{puM}{8;bahu}/niyawA{swrI}{1;bahu}/niyawA{swrI}{2;bahu}/niyawA{swrI}{8;bahu}	ni_yam3{kqw_prawyayaH:kwa;ni_yamaz;BvAxiH;puM}{2;bahu}	viSeRaNam,4	preriwa	controlled				
+13	svayA	5	svayA	svA{swrI}{3;eka}/svA{swrI}{3;eka}	svA{swrI}{3;eka}	viSeRaNam,11	apane	by_their_own				

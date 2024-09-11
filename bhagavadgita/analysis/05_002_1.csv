@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sannyAsaH	1	sannyAsaH	sannyAsa{puM}{1;eka}	sannyAsa{puM}{1;eka}	sup_samucciwaH,2	saMnyAsa	renunciation_of_work				
-2	karma-yogaH	2	karmayogaSca	karman-yoga{puM}{1;eka}	karman-yoga{puM}{1;eka}	samucciwakarwA,5.1	karmayoga	work_in_devotion	<karma-yogena>K6			
-3	ca	3	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	also				
-4	nis-Sreyasa-karO	5	niHSreyasakarAvuBO	niHSreyasa-kara{puM}{1;xvi}/kara{puM}{2;xvi}	niHSreyasa-kara{puM}{1;xvi}	viXeya_viSeRaNam,5.1	parama_kalyANa_ke_karanevAle	all_leading_to_the_path_of_liberation				
-5	uBO	4	0	uBa{puM}{1;xvi}/uBa{puM}{2;xvi}/uBa{puM}{1;xvi}/uBa{puM}{2;xvi}	uBa{puM}{1;xvi}	viSeRaNam,4	xonoM	both				
-5.1	(swaH)	6	(0)	(swq{puM}{8;eka}/as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(howe_hEM)	are				
-6	wayoH	8	wayoswu	wax{puM}{6;xvi}/wax{puM}{7;xvi}/wax{swrI}{6;xvi}/wax{swrI}{7;xvi}/wax{napuM}{6;xvi}/wax{napuM}{7;xvi}	wax{puM}{6;xvi}	nirXAraNam,9	una_xonoM_meM	of_the_two				
-7	wu	7	0	wu{avya}	wu{avya}	sambanXaH,10	paraMwu	but				
-8	karma-sannyAsAw	10	karmasannyAsAwkarmayogo	karman-sannyAsa{puM}{5;eka}	karman-sannyAsa{puM}{5;eka}	apAxAnam,10	karmasaMnyAsa_se	in_comparison_to_the_renunciation_of_fruitive_work	<karma-sannyAsAw>T6			
-9	karma-yogaH	9	0	karman-yoga{puM}{1;eka}	karman-yoga{puM}{1;eka}	karwA,10	karmayoga	work_in_devotion	<karma-yogena>K6			
-10	viSiRyawe	11	viSiRyawe	viSiRyawA{swrI}{1;xvi}/viSiRyawA{swrI}{2;xvi}/viSiRyawA{swrI}{8;eka}/viSiRyawA{swrI}{8;xvi}/vi_SAs1{karmaNi;lat;pra;eka;AwmanepaxI;SAsuz;axAxiH}/vi_SiR2{karmaNi;lat;pra;eka;AwmanepaxI;SiRLz;ruXAxiH}	vi_SAs1{karwari;lat;pra;eka;AwmanepaxI;vi_SAsuz;axAxiH}	aBihiwakarwA,9;akarmakaH	SreRTa_hE	is_better				
+1	सन्न्यासः	1	सन्न्यासः	सन्न्यास{पुं}{1;एक}	सन्न्यास{पुं}{1;एक}	सुप्_समुच्चितः,2	संन्यास	रेनुन्चिअटिओन्_ओङ्_तोर्क्				
+2	कर्म-योगः	2	कर्मयोगश्च	कर्मन्-योग{पुं}{1;एक}	कर्मन्-योग{पुं}{1;एक}	समुच्चितकर्ता,5.1	कर्मयोग	तोर्क्_इन्_डेवोटिओन्	<कर्म-योगेन>ख्6			
+3	च	3	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	और	अल्सो				
+4	निस्-श्रेयस-करौ	5	निःश्रेयसकरावुभौ	निःश्रेयस-कर{पुं}{1;द्वि}/कर{पुं}{2;द्वि}	निःश्रेयस-कर{पुं}{1;द्वि}	विधेय_विशेषणम्,5.1	परम_कल्याण_के_करनेवाले	अल्ल्_लेअडिन्ग्_टो_ट्हे_पट्ह्_ओङ्_लिबेरटिओन्				
+5	उभौ	4	0	उभ{पुं}{1;द्वि}/उभ{पुं}{2;द्वि}/उभ{पुं}{1;द्वि}/उभ{पुं}{2;द्वि}	उभ{पुं}{1;द्वि}	विशेषणम्,4	दोनों	बोट्ह्				
+5.1	(स्तः)	6	(0)	(स्तृ{पुं}{8;एक}/अस्2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,2;अकर्मकः	(होते_हैं)	अरे				
+6	तयोः	8	तयोस्तु	तद्{पुं}{6;द्वि}/तद्{पुं}{7;द्वि}/तद्{स्त्री}{6;द्वि}/तद्{स्त्री}{7;द्वि}/तद्{नपुं}{6;द्वि}/तद्{नपुं}{7;द्वि}	तद्{पुं}{6;द्वि}	निर्धारणम्,9	उन_दोनों_में	ओङ्_ट्हे_ट्तो				
+7	तु	7	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,10	परंतु	बुट्				
+8	कर्म-सन्न्यासात्	10	कर्मसन्न्यासात्कर्मयोगो	कर्मन्-सन्न्यास{पुं}{5;एक}	कर्मन्-सन्न्यास{पुं}{5;एक}	अपादानम्,10	कर्मसंन्यास_से	इन्_चोम्परिसोन्_टो_ट्हे_रेनुन्चिअटिओन्_ओङ्_ङ्रुइटिवे_तोर्क्	<कर्म-सन्न्यासात्>ठ्6			
+9	कर्म-योगः	9	0	कर्मन्-योग{पुं}{1;एक}	कर्मन्-योग{पुं}{1;एक}	कर्ता,10	कर्मयोग	तोर्क्_इन्_डेवोटिओन्	<कर्म-योगेन>ख्6			
+10	विशिष्यते	11	विशिष्यते	विशिष्यता{स्त्री}{1;द्वि}/विशिष्यता{स्त्री}{2;द्वि}/विशिष्यता{स्त्री}{8;एक}/विशिष्यता{स्त्री}{8;द्वि}/वि_शास्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;शासुँ;अदादिः}/वि_शिष्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;शिषॢँ;रुधादिः}	वि_शास्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;वि_शासुँ;अदादिः}	अभिहितकर्ता,9;अकर्मकः	श्रेष्ठ_है	इस्_बेट्टेर्				

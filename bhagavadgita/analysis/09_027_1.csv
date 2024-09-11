@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaw	3	yawkaroRi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,2;niwya_sambanXaH,12	jo	whatever				
-2	karoRi	4	0	kq3{karwari;lat;ma;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;ma;eka;parasmEpaxI;dukqF;wanAxiH}	sup_samucciwaH,12	karawA_hE	do				
-3	yaw	5	yaxaSnAsi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,4;niwya_sambanXaH,12	jo	whatever				
-4	aSnAsi	6	0	aS2{karwari;lat;ma;eka;parasmEpaxI;aSaz;kryAxiH}	aS2{karwari;lat;ma;eka;parasmEpaxI;aSaz;kryAxiH}	sup_samucciwaH,12	KAwA_hE	eat				
-5	yaw	7	yajjuhoRi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,6;niwya_sambanXaH,12	jo	whatever				
-6	juhoRi	8	0	hu1{karwari;lat;ma;eka;parasmEpaxI;hu;juhowyAxiH}	hu1{karwari;lat;ma;eka;parasmEpaxI;hu;juhowyAxiH}	sup_samucciwaH,12	havana_karawA_hE	offer				
-7	xaxAsi	10	xaxAsi	xA3{karwari;lat;ma;eka;parasmEpaxI;duxAF;juhowyAxiH}	xA3{karwari;lat;ma;eka;parasmEpaxI;duxAF;juhowyAxiH}	sup_samucciwaH,12	xAna_xewA_hE	give_away				
-8	yaw	9	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,7;niwya_sambanXaH,12	jo	whatever				
-9	yaw	12	yawwapasyasi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,10;niwya_sambanXaH,12	jo	whatever				
-10	wapasyasi	13	0	wapasyasi	wapasya{karwari;lat;ma;eka;parasmEpaxI;wapasya;nAmaXAwu}	sup_samucciwaH,12	wapa_karawA_hE	perform_austerities				
-10.1	(ca)	11	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,12	(Ora)	also				
-11	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,13	he_arjuna	O_son_of_Kunti				
-12	waw	14	wawkuruRva	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,13	vaha_(saba)	that				
-13	kuruRva	16	0	kq3{karwari;lot;ma;eka;AwmanepaxI;dukqF;wanAxiH}/kq1{karwari;lot;maDyama;eka;AtmanepaxI;kq;wanAxiH}	kq3{karwari;lot;ma;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwa_karwA,14.1;sakarmakaH	kara	make				
-14	maw-arpaNam	15	maxarpaNam	asmax-arpaNa{napuM}{1;eka}/arpaNa{napuM}{2;eka}	asmax-arpaNa{napuM}{1;eka}	karmasamAnAXikaraNam,13	 muJe_arpaNa	offering_unto_me	<asmax-arpaNam>T7			
-14.1	(wvam)	2	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,13	(wU)	you				
+1	यत्	3	यत्करोषि	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,2;नित्य_सम्बन्धः,12	जो	त्हटेवेर्				
+2	करोषि	4	0	कृ3{कर्तरि;लट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	सुप्_समुच्चितः,12	करता_है	डो				
+3	यत्	5	यदश्नासि	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,4;नित्य_सम्बन्धः,12	जो	त्हटेवेर्				
+4	अश्नासि	6	0	अश्2{कर्तरि;लट्;म;एक;परस्मैपदी;अशँ;क्र्यादिः}	अश्2{कर्तरि;लट्;म;एक;परस्मैपदी;अशँ;क्र्यादिः}	सुप्_समुच्चितः,12	खाता_है	एअट्				
+5	यत्	7	यज्जुहोषि	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,6;नित्य_सम्बन्धः,12	जो	त्हटेवेर्				
+6	जुहोषि	8	0	हु1{कर्तरि;लट्;म;एक;परस्मैपदी;हु;जुहोत्यादिः}	हु1{कर्तरि;लट्;म;एक;परस्मैपदी;हु;जुहोत्यादिः}	सुप्_समुच्चितः,12	हवन_करता_है	ओङ्ङेर्				
+7	ददासि	10	ददासि	दा3{कर्तरि;लट्;म;एक;परस्मैपदी;डुदाञ्;जुहोत्यादिः}	दा3{कर्तरि;लट्;म;एक;परस्मैपदी;डुदाञ्;जुहोत्यादिः}	सुप्_समुच्चितः,12	दान_देता_है	गिवे_अतय्				
+8	यत्	9	यत्	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,7;नित्य_सम्बन्धः,12	जो	त्हटेवेर्				
+9	यत्	12	यत्तपस्यसि	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,10;नित्य_सम्बन्धः,12	जो	त्हटेवेर्				
+10	तपस्यसि	13	0	तपस्यसि	तपस्य{कर्तरि;लट्;म;एक;परस्मैपदी;तपस्य;नामधातु}	सुप्_समुच्चितः,12	तप_करता_है	पेर्ङोर्म्_अउस्टेरिटिएस्				
+10.1	(च)	11	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,12	(और)	अल्सो				
+11	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,13	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+12	तत्	14	तत्कुरुष्व	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	कर्म,13	वह_(सब)	ट्हट्				
+13	कुरुष्व	16	0	कृ3{कर्तरि;लोट्;म;एक;आत्मनेपदी;डुकृञ्;तनादिः}/कृ1{कर्तरि;लोट्;मढ्यम;एक;आट्मनेपदी;कृ;तनादिः}	कृ3{कर्तरि;लोट्;म;एक;आत्मनेपदी;डुकृञ्;तनादिः}	अभिहित_कर्ता,14.1;सकर्मकः	कर	मके				
+14	मत्-अर्पणम्	15	मदर्पणम्	अस्मद्-अर्पण{नपुं}{1;एक}/अर्पण{नपुं}{2;एक}	अस्मद्-अर्पण{नपुं}{1;एक}	कर्मसमानाधिकरणम्,13	 मुझे_अर्पण	ओङ्ङेरिन्ग्_उन्टो_मे	<अस्मद्-अर्पणम्>ठ्7			
+14.1	(त्वम्)	2	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,13	(तू)	योउ				

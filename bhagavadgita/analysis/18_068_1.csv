@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaH	1	ya	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,6;niwya_sambanXaH,11	jo_(puruRa)	anyone				
-2	imam	6	imaM	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,4	isa	this				
-3	paramam	7	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{2;eka}	viSeRaNam,4	parama	most				
-4	guhyam	8	guhyaM	guhya{puM}{2;eka}/guhya{napuM}{1;eka}/guhya{napuM}{2;eka}	guhya{napuM}{2;eka}	karma,6	rahasyayukwa_gIwASAswra_ko	confidential				
-5	max-BakweRu	9	maxBakweRvaBiXAsyawi	maxBakwa{puM}{7;bahu}/maxBakwa{napuM}{7;bahu}	asmax-Bakwa{puM}{7;bahu}	aXikaraNam,6	mere_BakwoM_meM	amongst_my_devotees_of	<asmaw-BakweRu>T7			
-6	aBiXAsyawi	10	0	aBi_XA1{karwari;lqt;pra;eka;uBayapaxI;duXAF;juhowyAxiH}	aBi_XA1{karwari;lqt;pra;eka;parasmEpaxI;aBi_duXAF;juhowyAxiH}	aBihiwakarwA,1;sakarmakaH	kahegA	explains				
-7	Bakwim	4	BakwiM	Bakwi{swrI}{2;eka}	Bakwi{swrI}{2;eka}	karma,10	prema	devotional_service				
-8	mayi	2	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,10	muJameM	unto_Me				
-9	parAm	3	parAM	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	viSeRaNam,7	parama	transcendental				
-10	kqwvA	5	kqwvA	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,6	karake	having_done				
-11	mAm	12	mAmevERyawyasaMSayaH	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	unto_Me				
-12	eva	13	0	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
-13	eRyawi	14	0	i1{karwari;lqt;pra;eka;parasmEpaxI;iN;axAxiH}	i1{karwari;lqt;pra;eka;parasmEpaxI;iN;axAxiH}	aBihiwakarwA,13.1;sakarmakaH	prApwa_hogA	comes				
-13.1	(saH)	11	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,13	(vaha)	he				
-14	a-saMSayaH	16	0	asaMSaya{puM}{1;eka}	na-saMSaya{puM}{1;eka}	karwA,14.2	koI_saMxeha_nahIM	without_doubt	<na-saMSayaH>Tn			
-14.1	(awra)	15	(0)	(awra{avya})	(awra{avya})	aXikaraNam,14.2	(isameM)	here				
-14.2	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,14;akarmakaH	(hE)	is				
+1	यः	1	य	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,6;नित्य_सम्बन्धः,11	जो_(पुरुष)	अन्योने				
+2	इमम्	6	इमं	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	विशेषणम्,4	इस	ट्हिस्				
+3	परमम्	7	परमं	परमम्{अव्य}/परम{पुं}{2;एक}/परम{नपुं}{1;एक}/परम{नपुं}{2;एक}	परम{नपुं}{2;एक}	विशेषणम्,4	परम	मोस्ट्				
+4	गुह्यम्	8	गुह्यं	गुह्य{पुं}{2;एक}/गुह्य{नपुं}{1;एक}/गुह्य{नपुं}{2;एक}	गुह्य{नपुं}{2;एक}	कर्म,6	रहस्ययुक्त_गीताशास्त्र_को	चोन्ङिडेन्टिअल्				
+5	मद्-भक्तेषु	9	मद्भक्तेष्वभिधास्यति	मद्भक्त{पुं}{7;बहु}/मद्भक्त{नपुं}{7;बहु}	अस्मद्-भक्त{पुं}{7;बहु}	अधिकरणम्,6	मेरे_भक्तों_में	अमोन्ग्स्ट्_म्य्_डेवोटेएस्_ओङ्	<अस्मत्-भक्तेषु>ठ्7			
+6	अभिधास्यति	10	0	अभि_धा1{कर्तरि;लृट्;प्र;एक;उभयपदी;डुधाञ्;जुहोत्यादिः}	अभि_धा1{कर्तरि;लृट्;प्र;एक;परस्मैपदी;अभि_डुधाञ्;जुहोत्यादिः}	अभिहितकर्ता,1;सकर्मकः	कहेगा	एद्प्लइन्स्				
+7	भक्तिम्	4	भक्तिं	भक्ति{स्त्री}{2;एक}	भक्ति{स्त्री}{2;एक}	कर्म,10	प्रेम	डेवोटिओनल्_सेर्विचे				
+8	मयि	2	मयि	अस्मद्{7;एक}	अस्मद्{7;एक}	अधिकरणम्,10	मुझमें	उन्टो_ंए				
+9	पराम्	3	परां	परा{स्त्री}{2;एक}/परा{स्त्री}{2;एक}	परा{स्त्री}{2;एक}	विशेषणम्,7	परम	ट्रन्स्चेन्डेन्टल्				
+10	कृत्वा	5	कृत्वा	कृ1{कृत्_प्रत्ययः:क्त्वा;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:क्त्वा;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	पूर्वकालः,6	करके	हविन्ग्_डोने				
+11	माम्	12	मामेवैष्यत्यसंशयः	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,12	मुझको	उन्टो_ंए				
+12	एव	13	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,10	ही	चेर्टइन्ल्य्				
+13	एष्यति	14	0	इ1{कर्तरि;लृट्;प्र;एक;परस्मैपदी;इण्;अदादिः}	इ1{कर्तरि;लृट्;प्र;एक;परस्मैपदी;इण्;अदादिः}	अभिहितकर्ता,13.1;सकर्मकः	प्राप्त_होगा	चोमेस्				
+13.1	(सः)	11	(0)	(तद्{पुं}{1;एक})	(तद्{पुं}{1;एक})	कर्ता,13	(वह)	हे				
+14	अ-संशयः	16	0	असंशय{पुं}{1;एक}	न-संशय{पुं}{1;एक}	कर्ता,14.2	कोई_संदेह_नहीं	तिट्होउट्_डोउब्ट्	<न-संशयः>ठ्न्			
+14.1	(अत्र)	15	(0)	(अत्र{अव्य})	(अत्र{अव्य})	अधिकरणम्,14.2	(इसमें)	हेरे				
+14.2	(अस्ति)	17	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,14;अकर्मकः	(है)	इस्				

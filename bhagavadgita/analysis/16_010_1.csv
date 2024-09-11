@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kAmam	3	kAmamASriwya	kAmam{avya}/kAma{puM}{2;eka}	kAma{puM}{2;eka}	karma,2	kAmanAoM_kA	lust				
-2	ASriwya	4	0	Af_Sri1{kqw_prawyayaH:lyap;SriF;BvAxiH}	Af_Sri1{kqw_prawyayaH:lyap;Af_SriF;BvAxiH}	pUrvakAlaH,8	ASraya_lekara	taking_shelter_of				
-3	xuR-pUram	2	xuRpUraM	xuRpUra{puM}{2;eka}/xuRpUra{napuM}{1;eka}/xuRpUra{napuM}{2;eka}	xuRpUra{puM}{2;eka}	viSeRaNam,1	kisI_prakAra_BI_pUrNa_na_honevAlI	insatiable	<xuR-pUreNa>Tp			
-4	xamBa-mAna-maxa-anviwAH	1	xamBamAnamaxAnviwAH	xamBamAnamaxAnviwAH	xamBa-mAna-maxa-anviwa{puM}{1;bahu}	karwA,8	xamBa_mAna_Ora_maxa_se_yukwa_manuRya	absorbed_in_pride_false_prestige_and_conceit	<<xamBa-mAna-maxa>Di-anviwAH>T3			
-5	mohAw	5	mohAxgqhIwvAsaxgrAhAnpravarwanweZSucivrawAH	moha{puM}{5;eka}	moha{puM}{5;eka}	hewuH,6	ajFAna_se	by_illusion				
-6	gqhIwvA	7	0	gqh1{kqw_prawyayaH:kwvA;gqhU;BvAxiH}	grah1{kqw_prawyayaH:kwvA;grahaz;kryAxiH}	pUrvakAlaH,8	grahaNa_karake	taking				
-7	a-sax-grAhAn	6	0	asaxgrAha{puM}{2;bahu}	asax-grAha{puM}{2;bahu}	karma,6	miWyA_sixXAnwoM_ko	nonpermanent_things	<<na-saw>Tn-grAhAn>K1			
-8	pravarwanwe	9	0	pra_vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	pra_vqw1{karwari;lat;pra;bahu;AwmanepaxI;pra_vqwuz;BvAxiH}	aBihiwakarwA,4;akarmakaH	vicarawe_hEM	flourish				
-9	a-Suci-vrawAH	8	0	aSucivrawAH	aSuci-vrawa{puM}{1;bahu}	viSeRaNam,8	BraRta_AcaraNoM_ko_XAraNa_karake_(saMsAra_meM)	unclean_avowed	<<na-Suci>Tn-vrawAH>Bs6			
+1	कामम्	3	काममाश्रित्य	कामम्{अव्य}/काम{पुं}{2;एक}	काम{पुं}{2;एक}	कर्म,2	कामनाओं_का	लुस्ट्				
+2	आश्रित्य	4	0	आङ्_श्रि1{कृत्_प्रत्ययः:ल्यप्;श्रिञ्;भ्वादिः}	आङ्_श्रि1{कृत्_प्रत्ययः:ल्यप्;आङ्_श्रिञ्;भ्वादिः}	पूर्वकालः,8	आश्रय_लेकर	टकिन्ग्_स्हेल्टेर्_ओङ्				
+3	दुष्-पूरम्	2	दुष्पूरं	दुष्पूर{पुं}{2;एक}/दुष्पूर{नपुं}{1;एक}/दुष्पूर{नपुं}{2;एक}	दुष्पूर{पुं}{2;एक}	विशेषणम्,1	किसी_प्रकार_भी_पूर्ण_न_होनेवाली	इन्सटिअब्ले	<दुष्-पूरेण>ठ्प्			
+4	दम्भ-मान-मद-अन्विताः	1	दम्भमानमदान्विताः	दम्भमानमदान्विताः	दम्भ-मान-मद-अन्वित{पुं}{1;बहु}	कर्ता,8	दम्भ_मान_और_मद_से_युक्त_मनुष्य	अब्सोर्बेड्_इन्_प्रिडे_ङल्से_प्रेस्टिगे_अन्ड्_चोन्चेइट्	<<दम्भ-मान-मद>ढि-अन्विताः>ठ्3			
+5	मोहात्	5	मोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः	मोह{पुं}{5;एक}	मोह{पुं}{5;एक}	हेतुः,6	अज्ञान_से	ब्य्_इल्लुसिओन्				
+6	गृहीत्वा	7	0	गृह्1{कृत्_प्रत्ययः:क्त्वा;गृहू;भ्वादिः}	ग्रह्1{कृत्_प्रत्ययः:क्त्वा;ग्रहँ;क्र्यादिः}	पूर्वकालः,8	ग्रहण_करके	टकिन्ग्				
+7	अ-सद्-ग्राहान्	6	0	असद्ग्राह{पुं}{2;बहु}	असद्-ग्राह{पुं}{2;बहु}	कर्म,6	मिथ्या_सिद्धान्तों_को	नोन्पेर्मनेन्ट्_ट्हिन्ग्स्	<<न-सत्>ठ्न्-ग्राहान्>ख्1			
+8	प्रवर्तन्ते	9	0	प्र_वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;वृतुँ;भ्वादिः}	प्र_वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;प्र_वृतुँ;भ्वादिः}	अभिहितकर्ता,4;अकर्मकः	विचरते_हैं	ङ्लोउरिस्ह्				
+9	अ-शुचि-व्रताः	8	0	अशुचिव्रताः	अशुचि-व्रत{पुं}{1;बहु}	विशेषणम्,8	भ्रष्ट_आचरणों_को_धारण_करके_(संसार_में)	उन्च्लेअन्_अवोतेड्	<<न-शुचि>ठ्न्-व्रताः>भ्स्6			

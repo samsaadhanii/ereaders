@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	an-AxiwvAw	2	anAxiwvAnnirguNawvAwparamAwmAyamavyayaH	an-{avya}-Axiwva{puM}{5;eka}/Axiwva{napuM}{5;eka}	na-Axiwva{puM}{5;eka}	hewuH,10	anAxi_hone_se	due_to_eternity	<na-AxiwvAw>Bsmn			
-2	nir-guNawvAw	3	0	nir-{avya}-guNawva{puM}{5;eka}/guNawva{napuM}{5;eka}	nirguNawva{puM}{5;eka}	hewuH,10	nirguNa_hone_se	due_to_transcendental	<nir-guNawvAw>Bvp			
-3	parama-AwmA	6	0	param-Awman{puM}{1;eka}	paramAwman{puM}{1;eka}	karwA,10	paramAwmA	Supreme_spirit	<parama-AwmA>K1			
-4	ayam	4	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,3	yaha	this				
-5	a-vyayaH	5	0	a-vyaya{puM}{1;eka}	avyaya{puM}{1;eka}	viSeRaNam,3	avinASI	inexhaustible	<na-vyayaH>Bsmn			
-6	SarIra-sWaH	7	SarIrasWoZpi	SarIra-sWa{puM}{1;eka}	SarIra-sWa{puM}{1;eka}	viXeya_viSeRaNam,6.1	SarIra_meM_sWiwa_honepara	dwelling_in_the_body	<SarIra-sWaH>U			
-7	api	8	0	api{avya}	api{avya}	sambanXaH,6	BI	though				
-8	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,10	he_arjuna	O_son_of_Kunti				
-9	na	9	na	na{avya}	na{avya}	prawiReXaH,10	na	never				
-10	karowi	10	karowi	kq3{karwari;lat;pra;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;pra;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,3;sakarmakaH	kuCa_karawA_hE	does_anything				
-11	na	11	na	na{avya}	na{avya}	prawiReXaH,12	na	nor				
-12	lipyawe	13	lipyawe	lip1{karmaNi;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	lip1{karwari;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	samucciwaH,10	lipwa_howA_hE	is_entangled				
-12.1	(ca)	12	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,10	(Ora)	also				
+1	अन्-आदित्वात्	2	अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः	अन्-{अव्य}-आदित्व{पुं}{5;एक}/आदित्व{नपुं}{5;एक}	न-आदित्व{पुं}{5;एक}	हेतुः,10	अनादि_होने_से	डुए_टो_एटेर्निट्य्	<न-आदित्वात्>भ्स्म्न्			
+2	निर्-गुणत्वात्	3	0	निर्-{अव्य}-गुणत्व{पुं}{5;एक}/गुणत्व{नपुं}{5;एक}	निर्गुणत्व{पुं}{5;एक}	हेतुः,10	निर्गुण_होने_से	डुए_टो_ट्रन्स्चेन्डेन्टल्	<निर्-गुणत्वात्>भ्व्प्			
+3	परम-आत्मा	6	0	परम्-आत्मन्{पुं}{1;एक}	परमात्मन्{पुं}{1;एक}	कर्ता,10	परमात्मा	शुप्रेमे_स्पिरिट्	<परम-आत्मा>ख्1			
+4	अयम्	4	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	विशेषणम्,3	यह	ट्हिस्				
+5	अ-व्ययः	5	0	अ-व्यय{पुं}{1;एक}	अव्यय{पुं}{1;एक}	विशेषणम्,3	अविनाशी	इनेद्हउस्टिब्ले	<न-व्ययः>भ्स्म्न्			
+6	शरीर-स्थः	7	शरीरस्थोऽपि	शरीर-स्थ{पुं}{1;एक}	शरीर-स्थ{पुं}{1;एक}	विधेय_विशेषणम्,6.1	शरीर_में_स्थित_होनेपर	ड्तेल्लिन्ग्_इन्_ट्हे_बोड्य्	<शरीर-स्थः>ऊ			
+7	अपि	8	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,6	भी	ट्होउग्ह्				
+8	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,10	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+9	न	9	न	न{अव्य}	न{अव्य}	प्रतिषेधः,10	न	नेवेर्				
+10	करोति	10	करोति	कृ3{कर्तरि;लट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}	अभिहितकर्ता,3;सकर्मकः	कुछ_करता_है	डोएस्_अन्य्ट्हिन्ग्				
+11	न	11	न	न{अव्य}	न{अव्य}	प्रतिषेधः,12	न	नोर्				
+12	लिप्यते	13	लिप्यते	लिप्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;लिपँ;तुदादिः}	लिप्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;लिपँ;तुदादिः}	समुच्चितः,10	लिप्त_होता_है	इस्_एन्टन्ग्लेड्				
+12.1	(च)	12	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,10	(और)	अल्सो				

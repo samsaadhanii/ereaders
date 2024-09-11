@@ -1,22 +1,22 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	saH	1	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karmasamAnAXikaraNam,8	vaha	the_same_ancient				
-2	eva	2	evAyaM	eva{avya}	eva{avya}	sambanXaH,9	hI	certainly				
-3	ayam	3		aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,7	yaha	this				
-4	mayA	6	mayA	asmax{3;eka}	asmax{3;eka}	karwA,8	mEMne	by_Me				
-5	we	8	weZxya	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,8	wuJako	unto_you				
-6	axya	7		axya{avya}	axya{avya}	aXikaraNam,8	Aja	today				
-7	yogaH	5	yogaH	yoga{puM}{1;eka}	yoga{puM}{1;eka}	karma,8	yoga	the_science_of_yoga				
-8	prokwaH	9	prokwaH	prokwa{puM}{1;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;puM}{1;eka}	aBihiwa_karma,7	kahA_hE	spoken				
-9	purAwanaH	4	purAwanaH	purAwana{puM}{1;eka}	purAwana{puM}{1;eka}	viSeRaNam,1	purAwana	very_old				
-10	BakwaH	12	BakwoZsi	Bakwa{puM}{1;eka}	Bakwa{puM}{1;eka}	viXeya_viSeRaNam,11	Bakwa	devotee				
-10.1	(wvam)	10	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wU)	you				
-11	asi	15		as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,10.1	hE	are				
-12	me	11	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,10	merA	my				
-13	saKA	13	saKA	saKi{puM}{1;eka}	saKi{puM}{1;eka}	sup_samucciwaH,10	priya_saKA	friend				
-14	ca	14	cewi	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora	also				
-15	iwi	16		iwi{avya}	iwi{avya}	sambanXaH,14	isaliye	therefore				
-16	rahasyam	20	rahasyaM	rahasya{puM}{2;eka}/rahasya{napuM}{1;eka}/rahasya{napuM}{2;eka}	rahasya{napuM}{1;eka}	viXeya_viSeRaNam,19.1	rahasya	mystery				
-17	hi	18	hyewaxuwwamam	hi{avya}	hi{avya}	sambanXaH,18	kyoMki	certainly				
-18	ewaw	17		ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{1;eka}	karwA,19.1	yaha	this				
-19	uwwamam	19		uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	uwwama{napuM}{1;eka}	viSeRaNam,16	uwwama	transcendental				
-19.1	(aswi)	21	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,18	(hE)	is				
+1	सः	1	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्मसमानाधिकरणम्,8	वह	ट्हे_समे_अन्चिएन्ट्				
+2	एव	2	एवायं	एव{अव्य}	एव{अव्य}	सम्बन्धः,9	ही	चेर्टइन्ल्य्				
+3	अयम्	3		अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	विशेषणम्,7	यह	ट्हिस्				
+4	मया	6	मया	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,8	मैंने	ब्य्_ंए				
+5	ते	8	तेऽद्य	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	सम्प्रदानम्,8	तुझको	उन्टो_योउ				
+6	अद्य	7		अद्य{अव्य}	अद्य{अव्य}	अधिकरणम्,8	आज	टोडय्				
+7	योगः	5	योगः	योग{पुं}{1;एक}	योग{पुं}{1;एक}	कर्म,8	योग	ट्हे_स्चिएन्चे_ओङ्_योग				
+8	प्रोक्तः	9	प्रोक्तः	प्रोक्त{पुं}{1;एक}	प्र_वच्1{कृत्_प्रत्ययः:क्त;प्र_वचँ;अदादिः;पुं}{1;एक}	अभिहित_कर्म,7	कहा_है	स्पोकेन्				
+9	पुरातनः	4	पुरातनः	पुरातन{पुं}{1;एक}	पुरातन{पुं}{1;एक}	विशेषणम्,1	पुरातन	वेर्य्_ओल्ड्				
+10	भक्तः	12	भक्तोऽसि	भक्त{पुं}{1;एक}	भक्त{पुं}{1;एक}	विधेय_विशेषणम्,11	भक्त	डेवोटेए				
+10.1	(त्वम्)	10	()	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,11	(तू)	योउ				
+11	असि	15		अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अभिहित_कर्ता,10.1	है	अरे				
+12	मे	11	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,10	मेरा	म्य्				
+13	सखा	13	सखा	सखि{पुं}{1;एक}	सखि{पुं}{1;एक}	सुप्_समुच्चितः,10	प्रिय_सखा	ङ्रिएन्ड्				
+14	च	14	चेति	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,10	और	अल्सो				
+15	इति	16		इति{अव्य}	इति{अव्य}	सम्बन्धः,14	इसलिये	ट्हेरेङोरे				
+16	रहस्यम्	20	रहस्यं	रहस्य{पुं}{2;एक}/रहस्य{नपुं}{1;एक}/रहस्य{नपुं}{2;एक}	रहस्य{नपुं}{1;एक}	विधेय_विशेषणम्,19.1	रहस्य	म्य्स्टेर्य्				
+17	हि	18	ह्येतदुत्तमम्	हि{अव्य}	हि{अव्य}	सम्बन्धः,18	क्योंकि	चेर्टइन्ल्य्				
+18	एतत्	17		एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{1;एक}	कर्ता,19.1	यह	ट्हिस्				
+19	उत्तमम्	19		उत्तम{पुं}{2;एक}/उत्तम{नपुं}{1;एक}/उत्तम{नपुं}{2;एक}	उत्तम{नपुं}{1;एक}	विशेषणम्,16	उत्तम	ट्रन्स्चेन्डेन्टल्				
+19.1	(अस्ति)	21	()	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,18	(है)	इस्				

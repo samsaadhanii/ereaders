@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaWA	1	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,5;niwya_sambanXaH,6	jisa_prakAra	as				
+2	xIpaH	3	xIpo	xIpa{puM}{1;eka}	xIpa{puM}{1;eka}	karwA,5	xIpaka	a_lamp				
+3	ni-vAwa-sWaH	2	nivAwasWo	ni-vAwa-sWa{puM}{1;eka}	ni-vAwa-sWa{puM}{1;eka}	viSeRaNam,2	vAyurahiwa_sWAna_meM_sWiwa	in_a_place_without_wind	<<ni-vAwa>Bvp-sWaH>U			
+4	na	4	nefgawe	na{avya}	na{avya}	prawiReXaH,5	nahIM	does_not				
+5	ifgawe	5	0	ifgaw{puM}{4;eka}/ifgaw{napuM}{4;eka}/ifgawA{swrI}{1;xvi}/ifgawA{swrI}{2;xvi}	ifg1{karwari;lat;pra;eka;AwmanepaxI;igiz;BvAxiH}	aBihiwa_karwA,2	calAyamAna_howA	waver				
+6	sA	11	sopamA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,7	vEsI	that				
+7	upamA	12	0	upamA{swrI}{1;eka}	upamA{swrI}{1;eka}	karma,8	upamA	compared_to				
+8	smqwA	13	smqwA	smqwA{swrI}{1;eka}	smq1{kqw_prawyayaH:kwa;smq;BvAxiH;swrI}{1;eka}	aBihiwa_karma,7	kahI_gayI_hE	likened				
+9	yoginaH	10	yogino	yogin{puM}{1;bahu}/yogin{puM}{2;bahu}/yogin{puM}{5;eka}/yogin{puM}{6;eka}	yogin{puM}{6;eka}	RaRTIsambanXaH,7	yogI_ke	of_the_yogi				
+10	yawa-ciwwasya	9	yawaciwwasya	yawa-ciwwa{puM}{6;eka}/ciwwa{napuM}{6;eka}	yawa-ciwwa{puM}{6;eka}	viSeRaNam,9	jIwe_hue_ciwwa_kI	whose_mind_is_controlled	<yawa-ciwwasya>Bs6			
+11	yuFjawaH	8	yuFjawo	yuFjaw{puM}{2;bahu}/yuFjaw{puM}{5;eka}/yuFjaw{puM}{6;eka}/yuFjaw{napuM}{5;eka}/yuFjaw{napuM}{6;eka}	yuj2{kqw_prawyayaH:Sawq;yujizr;ruXAxiH;puM}{1;eka}	viSeRaNam,9	lage_hue	constantly_engaged_in				
+12	yogam	7	yogamAwmanaH	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,11	XyAna_meM	meditation				
+13	AwmanaH	6	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,12	paramAwmA_ke	on_transcendence				

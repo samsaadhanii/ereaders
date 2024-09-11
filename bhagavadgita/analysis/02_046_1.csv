@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yAvAn	4	yAvAnarWa	yAva{puM}{2;bahu}/yAvaw{puM}{1;eka}/yAvaw{puM}{1;eka}	yAvaw{puM}{1;eka}	viSeRaNam,2	jiwanA	so_much				
-2	arWaH	5	0	arWa{puM}{1;eka}	arWa{puM}{1;eka}	karwA,5.1	prayojana	meant				
-3	uxan-pAne	3	uxapAne	uxapAna{puM}{7;eka}	uxan-pAna{puM}{7;eka}	aXikaraNam,5.1	Cote_jalASaya_meM	in_a_small_reservoir_of_water	<uxa-pAne>T6			
-4	sarvawaH	1	sarvawaH	sarvawaH{avya}	sarvawaH{avya}	viSeRaNam,3	saba_ora_se	on_all_sides				
-5	sampluwa-uxake	2	sampluwoxake	sampluwoxaka{puM}{7;eka}/sampluwoxaka{napuM}{1;xvi}/sampluwoxaka{napuM}{2;xvi}/sampluwoxaka{napuM}{7;eka}/sampluwoxaka{napuM}{8;xvi}	sampluwoxaka{puM}{7;eka}	viSeRaNam,3	paripUrNa_jalASaya_ke	in_a_great_reservoir_of_water	<sampluwa-uxake>Bs7			
-5.1	(Bavawi)	6	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,2;akarmakaH	(rahawA_hE)	is				
-6	wAvAn	7	wAvAnsarveRu	wAvaw{puM}{1;eka}	wAvaw{puM}{1;eka}	viSeRaNam,10.2	uwanA	as_much				
-7	sarveRu	11	0	sarva{puM}{7;bahu}/sarva{napuM}{7;bahu}	sarva{puM}{7;bahu}	viSeRaNam,8	samaswa	all				
-8	vexeRu	12	vexeRu	vexa{puM}{7;bahu}	vexa{puM}{7;bahu}	aXikaraNam,10.1	vexoM_meM	in_Vedas				
-9	brAhmaNasya	10	brAhmaNasya	brAhmaNa{puM}{6;eka}	brAhmaNa{puM}{6;eka}	RaRTIsambanXaH,10.2	brAhmaNa_kA	Brahman				
-10	vijAnawaH	9	vijAnawaH	vijAnaw{puM}{1;bahu}/vijAnaw{puM}{2;bahu}/vijAnaw{puM}{5;eka}/vijAnaw{puM}{6;eka}/vijAnaw{puM}{8;bahu}/vijAnaw{napuM}{5;eka}/vijAnaw{napuM}{6;eka}	vi_jFA2{kqw_prawyayaH:Sawq;vi_jFA;kryAxiH;puM}{1;eka}	viSeRaNam,9	wawwva_se_jAnanevAle	who_has_obtained_enlightenment				
-10.1	(Bavawi)	13	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,10.2;akarmakaH	(howA_hE)	is				
-10.2	(arWaH)	8	(0)	(arWa{puM}{1;eka})	(arWa{puM}{1;eka})	karwA,10.1	(arWa)	meant				
+1	यावान्	4	यावानर्थ	याव{पुं}{2;बहु}/यावत्{पुं}{1;एक}/यावत्{पुं}{1;एक}	यावत्{पुं}{1;एक}	विशेषणम्,2	जितना	सो_मुच्ह्				
+2	अर्थः	5	0	अर्थ{पुं}{1;एक}	अर्थ{पुं}{1;एक}	कर्ता,5.1	प्रयोजन	मेअन्ट्				
+3	उदन्-पाने	3	उदपाने	उदपान{पुं}{7;एक}	उदन्-पान{पुं}{7;एक}	अधिकरणम्,5.1	छोटे_जलाशय_में	इन्_अ_स्मल्ल्_रेसेर्वोइर्_ओङ्_तटेर्	<उद-पाने>ठ्6			
+4	सर्वतः	1	सर्वतः	सर्वतः{अव्य}	सर्वतः{अव्य}	विशेषणम्,3	सब_ओर_से	ओन्_अल्ल्_सिडेस्				
+5	सम्प्लुत-उदके	2	सम्प्लुतोदके	सम्प्लुतोदक{पुं}{7;एक}/सम्प्लुतोदक{नपुं}{1;द्वि}/सम्प्लुतोदक{नपुं}{2;द्वि}/सम्प्लुतोदक{नपुं}{7;एक}/सम्प्लुतोदक{नपुं}{8;द्वि}	सम्प्लुतोदक{पुं}{7;एक}	विशेषणम्,3	परिपूर्ण_जलाशय_के	इन्_अ_ग्रेअट्_रेसेर्वोइर्_ओङ्_तटेर्	<सम्प्लुत-उदके>भ्स्7			
+5.1	(भवति)	6	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,2;अकर्मकः	(रहता_है)	इस्				
+6	तावान्	7	तावान्सर्वेषु	तावत्{पुं}{1;एक}	तावत्{पुं}{1;एक}	विशेषणम्,10.2	उतना	अस्_मुच्ह्				
+7	सर्वेषु	11	0	सर्व{पुं}{7;बहु}/सर्व{नपुं}{7;बहु}	सर्व{पुं}{7;बहु}	विशेषणम्,8	समस्त	अल्ल्				
+8	वेदेषु	12	वेदेषु	वेद{पुं}{7;बहु}	वेद{पुं}{7;बहु}	अधिकरणम्,10.1	वेदों_में	इन्_Vएडस्				
+9	ब्राह्मणस्य	10	ब्राह्मणस्य	ब्राह्मण{पुं}{6;एक}	ब्राह्मण{पुं}{6;एक}	षष्ठीसम्बन्धः,10.2	ब्राह्मण_का	भ्रह्मन्				
+10	विजानतः	9	विजानतः	विजानत्{पुं}{1;बहु}/विजानत्{पुं}{2;बहु}/विजानत्{पुं}{5;एक}/विजानत्{पुं}{6;एक}/विजानत्{पुं}{8;बहु}/विजानत्{नपुं}{5;एक}/विजानत्{नपुं}{6;एक}	वि_ज्ञा2{कृत्_प्रत्ययः:शतृ;वि_ज्ञा;क्र्यादिः;पुं}{1;एक}	विशेषणम्,9	तत्त्व_से_जाननेवाले	त्हो_हस्_ओब्टइनेड्_एन्लिग्ह्टेन्मेन्ट्				
+10.1	(भवति)	13	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,10.2;अकर्मकः	(होता_है)	इस्				
+10.2	(अर्थः)	8	(0)	(अर्थ{पुं}{1;एक})	(अर्थ{पुं}{1;एक})	कर्ता,10.1	(अर्थ)	मेअन्ट्				

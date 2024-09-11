@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yajFa-SiRta-amqwa-BujaH	2	yajFaSiRtAmqwaBujo	yajFa-SiRta-amqwa-Buja{puM}{1;eka}	yajFa-SiRta-amqwa-Buja{puM}{1;eka}	karwA,2	yajFa_se_bace_hue_amqwa_kA_anuBava_karanevAle_(yogIjana)	those_who_have_tasted_such_nectar_as_a_result_of_sacrifices	<<<yajFa-SiRta>T6-amqwa>K1-BujaH>U			
-2	yAnwi	5	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwakarwA,1;sakarmakaH	prApwa_howe_hEM	do_apprach				
-3	brahma	4	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{2;eka}	karma,2	parabrahma_paramAwmA_ko	the_supreme				
-4	sanAwanam	3	sanAwanam	sanAwana{puM}{2;eka}	sanAwana{puM}{2;eka}	viSeRaNam,3	sanAwana	eternal_atmosphere				
-5	na	9	nAyaM	na{avya}	na{avya}	prawiReXaH,8	nahIM	never				
-6	ayam	7		aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,7	yaha	this				
-7	lokaH	8	lokoZswyayajFasya	loka{puM}{1;eka}	loka{puM}{1;eka}	karwA,8	manuRyaloka	planet				
-8	aswi	10		as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,7;akarmakaH	hE	is				
-9	a-yajFasya	6		a-yajFa{puM}{6;eka}	ayajFa{puM}{6;eka}	RaRTIsambanXaH,7	yajFa_na_karanevAle_puruRa_ke_liye	of_the_foolish	<na-yajFasya>Bsmn			
-10	kuwaH	12	kuwoZnyaH	kuwaH{avya}/ku2{karwari;lat;pra;xvi;parasmEpaxI;ku;axAxiH}	kuwaH{avya}	kriyAviSeRaNam,12.1	kEse	where				
-11	anyaH	11		anya{puM}{1;eka}	anya{puM}{1;eka}	karwA,12.1	paraloka	the_other				
-12	kuru-sawwama	1	kurusawwama	kurusawwama{puM}{8;eka}	kurusawwama{puM}{8;eka}	samboXyaH,2	he_kuruSreRTa_arjuna	O_best_amongst_the_Kurus	<kuru-sawwama>T7			
-12.1	(Bavawi)	13	()	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(hE)	is				
+1	यज्ञ-शिष्ट-अमृत-भुजः	2	यज्ञशिष्टामृतभुजो	यज्ञ-शिष्ट-अमृत-भुज{पुं}{1;एक}	यज्ञ-शिष्ट-अमृत-भुज{पुं}{1;एक}	कर्ता,2	यज्ञ_से_बचे_हुए_अमृत_का_अनुभव_करनेवाले_(योगीजन)	ट्होसे_त्हो_हवे_टस्टेड्_सुच्ह्_नेच्टर्_अस्_अ_रेसुल्ट्_ओङ्_सच्रिङिचेस्	<<<यज्ञ-शिष्ट>ठ्6-अमृत>ख्1-भुजः>ऊ			
+2	यान्ति	5	यान्ति	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	अभिहितकर्ता,1;सकर्मकः	प्राप्त_होते_हैं	डो_अप्प्रच्ह्				
+3	ब्रह्म	4	ब्रह्म	ब्रह्मन्{नपुं}{1;एक}/ब्रह्मन्{नपुं}{2;एक}	ब्रह्मन्{नपुं}{2;एक}	कर्म,2	परब्रह्म_परमात्मा_को	ट्हे_सुप्रेमे				
+4	सनातनम्	3	सनातनम्	सनातन{पुं}{2;एक}	सनातन{पुं}{2;एक}	विशेषणम्,3	सनातन	एटेर्नल्_अट्मोस्प्हेरे				
+5	न	9	नायं	न{अव्य}	न{अव्य}	प्रतिषेधः,8	नहीं	नेवेर्				
+6	अयम्	7		अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	विशेषणम्,7	यह	ट्हिस्				
+7	लोकः	8	लोकोऽस्त्ययज्ञस्य	लोक{पुं}{1;एक}	लोक{पुं}{1;एक}	कर्ता,8	मनुष्यलोक	प्लनेट्				
+8	अस्ति	10		अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,7;अकर्मकः	है	इस्				
+9	अ-यज्ञस्य	6		अ-यज्ञ{पुं}{6;एक}	अयज्ञ{पुं}{6;एक}	षष्ठीसम्बन्धः,7	यज्ञ_न_करनेवाले_पुरुष_के_लिये	ओङ्_ट्हे_ङोओलिस्ह्	<न-यज्ञस्य>भ्स्म्न्			
+10	कुतः	12	कुतोऽन्यः	कुतः{अव्य}/कु2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;कु;अदादिः}	कुतः{अव्य}	क्रियाविशेषणम्,12.1	कैसे	त्हेरे				
+11	अन्यः	11		अन्य{पुं}{1;एक}	अन्य{पुं}{1;एक}	कर्ता,12.1	परलोक	ट्हे_ओट्हेर्				
+12	कुरु-सत्तम	1	कुरुसत्तम	कुरुसत्तम{पुं}{8;एक}	कुरुसत्तम{पुं}{8;एक}	सम्बोध्यः,2	हे_कुरुश्रेष्ठ_अर्जुन	औ_बेस्ट्_अमोन्ग्स्ट्_ट्हे_खुरुस्	<कुरु-सत्तम>ठ्7			
+12.1	(भवति)	13	()	(भवत्{पुं}{7;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,11;अकर्मकः	(है)	इस्				

@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wri-viXA	11	wriviXA	wri-viXA{swrI}{1;eka}	wri-viXA{swrI}{1;eka}	viXeya_viSeRaNam,2	wInoM_prakAra_kI	three_kinds	<wri-viXA>Bs6			
-2	Bavawi	12	Bavawi	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,3;akarmakaH	howI_hE	become				
-3	SraxXA	4	SraxXA	SraxXA{swrI}{1;eka}	SraxXA{swrI}{1;eka}	karwA,2	SraxXA	faith				
-4	xehinAm	1	xehinAM	xehin{puM}{6;bahu}/xehin{napuM}{6;bahu}	xehin{puM}{6;bahu}	RaRTIsambanXaH,5	manuRyoM_kI	of_the_embodied				
-5	sA	2	sA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,3	vaha	that				
-6	sva-BAva-jA	3	svaBAvajA	sva-BAva-ja{puM}/ja{napuM}	svaBAva-jA{swrI}{1;eka}	viSeRaNam,3	svaBAva_se_uwpanna	according_to_his_mode_of_material_nature	<<sva-BAva>T6-jA>U			
-7	sAwwvikI	5	sAwwvikI	sAwwvikI{swrI}{1;eka}	sAwwvikI{swrI}{1;eka}	Gataka,1	sAwwvikI	mode_of_goodness				
-8	rAjasI	7	rAjasI	rAjasI{swrI}{1;eka}	rAjasI{swrI}{1;eka}	Gataka,1	rAjasI	mode_of_passion				
-9	ca_eva	6	cEva	ca{avya}	ca{avya}_eva{avya}	samuccaya_xyowakaH,8	Ora	also				
-10	wAmasI	9	wAmasI	wAmasI{swrI}{1;eka}	wAmasI{swrI}{1;eka}	Gataka,1	wAmasI	mode_of_ignorance				
-11	ca	8	cewi	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	waWA	and				
-12	iwi	10	0	iwi{avya}	iwi{avya}	Gataka_xyowakaH,10	Ese	thus				
-13	wAm	14	wAM	wax{swrI}{2;eka}	wax{swrI}{2;eka}	karma,14	usako	that				
-14	SqNu	16	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,14.2;sakarmakaH	suna	hear				
-14.1	(mawwaH)	15	(0)	(mawwa{puM}{1;eka})	(mawwa{avya})	apAxAnam,14	(muJase)	from_me				
-14.2	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,14	(wU)	you				
+1	त्रि-विधा	11	त्रिविधा	त्रि-विधा{स्त्री}{1;एक}	त्रि-विधा{स्त्री}{1;एक}	विधेय_विशेषणम्,2	तीनों_प्रकार_की	ट्ह्रेए_किन्ड्स्	<त्रि-विधा>भ्स्6			
+2	भवति	12	भवति	भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,3;अकर्मकः	होती_है	बेचोमे				
+3	श्रद्धा	4	श्रद्धा	श्रद्धा{स्त्री}{1;एक}	श्रद्धा{स्त्री}{1;एक}	कर्ता,2	श्रद्धा	ङइट्ह्				
+4	देहिनाम्	1	देहिनां	देहिन्{पुं}{6;बहु}/देहिन्{नपुं}{6;बहु}	देहिन्{पुं}{6;बहु}	षष्ठीसम्बन्धः,5	मनुष्यों_की	ओङ्_ट्हे_एम्बोडिएड्				
+5	सा	2	सा	तद्{स्त्री}{1;एक}	तद्{स्त्री}{1;एक}	विशेषणम्,3	वह	ट्हट्				
+6	स्व-भाव-जा	3	स्वभावजा	स्व-भाव-ज{पुं}/ज{नपुं}	स्वभाव-जा{स्त्री}{1;एक}	विशेषणम्,3	स्वभाव_से_उत्पन्न	अच्चोर्डिन्ग्_टो_हिस्_मोडे_ओङ्_मटेरिअल्_नटुरे	<<स्व-भाव>ठ्6-जा>ऊ			
+7	सात्त्विकी	5	सात्त्विकी	सात्त्विकी{स्त्री}{1;एक}	सात्त्विकी{स्त्री}{1;एक}	घटक,1	सात्त्विकी	मोडे_ओङ्_गोओड्नेस्स्				
+8	राजसी	7	राजसी	राजसी{स्त्री}{1;एक}	राजसी{स्त्री}{1;एक}	घटक,1	राजसी	मोडे_ओङ्_पस्सिओन्				
+9	च_एव	6	चैव	च{अव्य}	च{अव्य}_एव{अव्य}	समुच्चय_द्योतकः,8	और	अल्सो				
+10	तामसी	9	तामसी	तामसी{स्त्री}{1;एक}	तामसी{स्त्री}{1;एक}	घटक,1	तामसी	मोडे_ओङ्_इग्नोरन्चे				
+11	च	8	चेति	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,10	तथा	अन्ड्				
+12	इति	10	0	इति{अव्य}	इति{अव्य}	घटक_द्योतकः,10	ऐसे	ट्हुस्				
+13	ताम्	14	तां	तद्{स्त्री}{2;एक}	तद्{स्त्री}{2;एक}	कर्म,14	उसको	ट्हट्				
+14	शृणु	16	शृणु	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	अभिहितकर्ता,14.2;सकर्मकः	सुन	हेअर्				
+14.1	(मत्तः)	15	(0)	(मत्त{पुं}{1;एक})	(मत्त{अव्य})	अपादानम्,14	(मुझसे)	ङ्रोम्_मे				
+14.2	(त्वम्)	13	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,14	(तू)	योउ				

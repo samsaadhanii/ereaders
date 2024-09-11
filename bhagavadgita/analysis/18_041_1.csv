@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	brAhmaNa-kRawriya-viSAm	2	brAhmaNakRawriyaviSAM	brAhmaNa-kRawriya-viS{puM}{6;bahu}/viS{napuM}{6;bahu}	brAhmaNa-kRawriya-viS{puM}{6;bahu}	sup_samucciwaH,2	brAhmaNa_kRawriya_Ora_vESyoM_ke	the_brahmanas,_ksatriyas_and_vaisyas	<brAhmaNa-kRawriya-viSAM>Di			
-2	SUxrANAm	4	SUxrANAM	SUxra{puM}{6;bahu}/SUxrA{swrI}{6;bahu}	SUxra{puM}{6;bahu}	RaRTIsambanXaH,5	SUxroM_ke	the_sudras				
-3	ca	3	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	waWA	and				
-4	paranwapa	1	paranwapa	paranwapa{puM}{8;eka}/paranwapa{napuM}{8;eka}	paranwapa{puM}{8;eka}	samboXyaH,6	he_paranwapa	O_subduer_of_the_enemies				
-5	karmANi	5	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}	karman{napuM}{2;bahu}	karma,6	karma	activities				
-6	pra-viBakwAni	8	praviBakwAni	praviBakwa{napuM}{1;bahu}/praviBakwa{napuM}{2;bahu}	pra_vi_Baj1{kqw_prawyayaH:kwa;pra_vi_Bajaz;BvAxiH;napuM}{1;bahu}	aBihiwakarma,5;sakarmakaH	viBakwa_kiye_gaye_hEM	are_divided	<pra-viBakwAni>Tp			
-7	sva-BAva-pra-BavEH	6	svaBAvapraBavErguNEH	svaBAvapraBava{puM}{3;bahu}/svaBAvapraBava{napuM}{3;bahu}	svaBAva-praBava{puM}{3;bahu}	viSeRaNam,8	svaBAva_se_uwpanna	born_of_own_nature	<<sva-BAva>T6-<pra-BavEH>Tp>Bs6			
-8	guNEH	7	0	guNa{puM}{3;bahu}	guNa{puM}{3;bahu}	karaNam,6	guNoM_ke_xvArA	by_the_modes_of_material_nature				
+1	ब्राह्मण-क्षत्रिय-विशाम्	2	ब्राह्मणक्षत्रियविशां	ब्राह्मण-क्षत्रिय-विश्{पुं}{6;बहु}/विश्{नपुं}{6;बहु}	ब्राह्मण-क्षत्रिय-विश्{पुं}{6;बहु}	सुप्_समुच्चितः,2	ब्राह्मण_क्षत्रिय_और_वैश्यों_के	ट्हे_ब्रह्मनस्,_क्सट्रियस्_अन्ड्_वइस्यस्	<ब्राह्मण-क्षत्रिय-विशां>ढि			
+2	शूद्राणाम्	4	शूद्राणां	शूद्र{पुं}{6;बहु}/शूद्रा{स्त्री}{6;बहु}	शूद्र{पुं}{6;बहु}	षष्ठीसम्बन्धः,5	शूद्रों_के	ट्हे_सुड्रस्				
+3	च	3	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	तथा	अन्ड्				
+4	परन्तप	1	परन्तप	परन्तप{पुं}{8;एक}/परन्तप{नपुं}{8;एक}	परन्तप{पुं}{8;एक}	सम्बोध्यः,6	हे_परन्तप	औ_सुब्डुएर्_ओङ्_ट्हे_एनेमिएस्				
+5	कर्माणि	5	कर्माणि	कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}	कर्मन्{नपुं}{2;बहु}	कर्म,6	कर्म	अच्टिविटिएस्				
+6	प्र-विभक्तानि	8	प्रविभक्तानि	प्रविभक्त{नपुं}{1;बहु}/प्रविभक्त{नपुं}{2;बहु}	प्र_वि_भज्1{कृत्_प्रत्ययः:क्त;प्र_वि_भजँ;भ्वादिः;नपुं}{1;बहु}	अभिहितकर्म,5;सकर्मकः	विभक्त_किये_गये_हैं	अरे_डिविडेड्	<प्र-विभक्तानि>ठ्प्			
+7	स्व-भाव-प्र-भवैः	6	स्वभावप्रभवैर्गुणैः	स्वभावप्रभव{पुं}{3;बहु}/स्वभावप्रभव{नपुं}{3;बहु}	स्वभाव-प्रभव{पुं}{3;बहु}	विशेषणम्,8	स्वभाव_से_उत्पन्न	बोर्न्_ओङ्_ओत्न्_नटुरे	<<स्व-भाव>ठ्6-<प्र-भवैः>ठ्प्>भ्स्6			
+8	गुणैः	7	0	गुण{पुं}{3;बहु}	गुण{पुं}{3;बहु}	करणम्,6	गुणों_के_द्वारा	ब्य्_ट्हे_मोडेस्_ओङ्_मटेरिअल्_नटुरे				

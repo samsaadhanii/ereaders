@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	piwA	8	piwAsi	piwq{puM}{1;eka}	piwq{puM}{1;eka}	viXeya_viSeRaNam,2	piwA	father				
-2	asi	10	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,5;akarmakaH	hEM	are				
-3	lokasya	4	lokasya	loka{puM}{6;eka}	loka{puM}{6;eka}	RaRTIsambanXaH,8	jagaw_ke	of_all_the_world				
-4	cara-a-carasya	3	carAcarasya	cara-a-cara{puM}{6;eka}/cara{napuM}{6;eka}	carAcara{puM}{6;eka}	viSeRaNam,3	carAcara	moving_and_nonmoving	<cara-<na-carasya>Tn>Ds			
-5	wvam	1	wvamasya	yuRmax{1;eka}	yuRmax{1;eka}	karwA,2	Apa	you				
-6	asya	2	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	viSeRaNam,3	isa	of_this				
-7	pUjyaH	5	pUjyaSca	pUjya{puM}{1;eka}	pUjya{puM}{1;eka}	sup_samucciwaH,2	awi_pUjanIya	worshipable				
-8	ca	9	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,1	Ora	also				
-9	guruH	7	gururgarIyAn	guru{puM}{1;eka}	guru{puM}{1;eka}	sup_samucciwaH,2	guru	master				
-10	garIyAn	6	0	garIyas{puM}{1;eka}	garIyas{puM}{1;eka}	viSeRaNam,9	sabase_bada़e	glorious				
-11	na	12	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	never				
-12	wvaw-samaH	11	wvawsamoZswyaByaXikaH	wvaw-sama{puM}{1;eka}/sama{puM}{1;eka}	wvax-sama{puM}{1;eka}	karwA,13	Apake_samAna	equal_to_You				
-13	aswi	13	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,12;akarmakaH	hE	is				
-14	aByaXikaH	18	0	aXika{puM}{1;eka}	aXika{puM}{1;eka}	karwA,19.1	aXika	greater				
-15	kuwaH	19	kuwoZnyo	kuwaH{avya}/ku2{karwari;lat;pra;xvi;parasmEpaxI;ku;axAxiH}	kuwaH{avya}	hewuH,19.1	kEse	how				
-16	anyaH	17	0	anya{puM}{1;eka}	anya{puM}{1;eka}	viSeRaNam,14	xUsarA_koI	other				
-17	loka-wraye	15	lokawrayeZpyaprawimapraBAva	loka-wri{puM}{4;eka}/wraya{puM}{7;eka}/wraya{napuM}{1;xvi}/wraya{napuM}{2;xvi}/wraya{napuM}{7;eka}/wraya{napuM}{8;xvi}/wrayA{swrI}{1;xvi}/wrayA{swrI}{2;xvi}/wrayA{swrI}{8;eka}/wrayA{swrI}{8;xvi}	loka-wraya{napuM}{7;eka}	aXikaraNam,13	wInoM_lokoM_meM	in_three_planetary_systems	<loka-wraye>T6			
-18	api	16	0	api{avya}	api{avya}	sambanXaH,17	BI	also				
-19	a-prawima-praBAva	14	0	a-prawima-praBAva{puM}{8;eka}	aprawima-praBAva{puM}{8;eka}	samboXyaH,13	he_anupama_praBAvavAle	immeasurable_power	<<na-prawima>Tn-praBAva>Bs6			
-19.1	(samBavawi)	20	(0)	(sam_BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(sam_BU1{karwari;lat;pra;eka;parasmEpaxI;sam_BU;BvAxiH})	aBihiwakarwA,14;akarmakaH	(samBava_hE)	is_possible				
+1	पिता	8	पितासि	पितृ{पुं}{1;एक}	पितृ{पुं}{1;एक}	विधेय_विशेषणम्,2	पिता	ङट्हेर्				
+2	असि	10	0	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,5;अकर्मकः	हैं	अरे				
+3	लोकस्य	4	लोकस्य	लोक{पुं}{6;एक}	लोक{पुं}{6;एक}	षष्ठीसम्बन्धः,8	जगत्_के	ओङ्_अल्ल्_ट्हे_तोर्ल्ड्				
+4	चर-अ-चरस्य	3	चराचरस्य	चर-अ-चर{पुं}{6;एक}/चर{नपुं}{6;एक}	चराचर{पुं}{6;एक}	विशेषणम्,3	चराचर	मोविन्ग्_अन्ड्_नोन्मोविन्ग्	<चर-<न-चरस्य>ठ्न्>ढ्स्			
+5	त्वम्	1	त्वमस्य	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,2	आप	योउ				
+6	अस्य	2	0	इदम्{पुं}{6;एक}/इदम्{नपुं}{6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	इदम्{पुं}{6;एक}	विशेषणम्,3	इस	ओङ्_ट्हिस्				
+7	पूज्यः	5	पूज्यश्च	पूज्य{पुं}{1;एक}	पूज्य{पुं}{1;एक}	सुप्_समुच्चितः,2	अति_पूजनीय	तोर्स्हिपब्ले				
+8	च	9	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,1	और	अल्सो				
+9	गुरुः	7	गुरुर्गरीयान्	गुरु{पुं}{1;एक}	गुरु{पुं}{1;एक}	सुप्_समुच्चितः,2	गुरु	मस्टेर्				
+10	गरीयान्	6	0	गरीयस्{पुं}{1;एक}	गरीयस्{पुं}{1;एक}	विशेषणम्,9	सबसे_बडॆअञए	ग्लोरिओउस्				
+11	न	12	न	न{अव्य}	न{अव्य}	प्रतिषेधः,13	नहीं	नेवेर्				
+12	त्वत्-समः	11	त्वत्समोऽस्त्यभ्यधिकः	त्वत्-सम{पुं}{1;एक}/सम{पुं}{1;एक}	त्वद्-सम{पुं}{1;एक}	कर्ता,13	आपके_समान	एऋउअल्_टो_Yओउ				
+13	अस्ति	13	0	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,12;अकर्मकः	है	इस्				
+14	अभ्यधिकः	18	0	अधिक{पुं}{1;एक}	अधिक{पुं}{1;एक}	कर्ता,19.1	अधिक	ग्रेअटेर्				
+15	कुतः	19	कुतोऽन्यो	कुतः{अव्य}/कु2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;कु;अदादिः}	कुतः{अव्य}	हेतुः,19.1	कैसे	होत्				
+16	अन्यः	17	0	अन्य{पुं}{1;एक}	अन्य{पुं}{1;एक}	विशेषणम्,14	दूसरा_कोई	ओट्हेर्				
+17	लोक-त्रये	15	लोकत्रयेऽप्यप्रतिमप्रभाव	लोक-त्रि{पुं}{4;एक}/त्रय{पुं}{7;एक}/त्रय{नपुं}{1;द्वि}/त्रय{नपुं}{2;द्वि}/त्रय{नपुं}{7;एक}/त्रय{नपुं}{8;द्वि}/त्रया{स्त्री}{1;द्वि}/त्रया{स्त्री}{2;द्वि}/त्रया{स्त्री}{8;एक}/त्रया{स्त्री}{8;द्वि}	लोक-त्रय{नपुं}{7;एक}	अधिकरणम्,13	तीनों_लोकों_में	इन्_ट्ह्रेए_प्लनेटर्य्_स्य्स्टेम्स्	<लोक-त्रये>ठ्6			
+18	अपि	16	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,17	भी	अल्सो				
+19	अ-प्रतिम-प्रभाव	14	0	अ-प्रतिम-प्रभाव{पुं}{8;एक}	अप्रतिम-प्रभाव{पुं}{8;एक}	सम्बोध्यः,13	हे_अनुपम_प्रभाववाले	इम्मेअसुरब्ले_पोतेर्	<<न-प्रतिम>ठ्न्-प्रभाव>भ्स्6			
+19.1	(सम्भवति)	20	(0)	(सम्_भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(सम्_भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;सम्_भू;भ्वादिः})	अभिहितकर्ता,14;अकर्मकः	(सम्भव_है)	इस्_पोस्सिब्ले				

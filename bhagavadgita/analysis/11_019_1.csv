@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	an-Axi-maXya-anwam	3	anAximaXyAnwamananwavIryamananwabAhuM	anAxin-maXya-anwa{puM}{2;eka}/anwa{napuM}{1;eka}/anwa{napuM}{2;eka}	anAxi-maXya-anwa{puM}{2;eka}	sup_samucciwaH,7	Axi_anwa_Ora_maXya_se_rahiwa	without_beginning_middle_and_end	<na-<Axi-maXya-anwam>Di>Bs6			
-2	an-anwa-vIryam	4	0	ananwa-vIrya{napuM}{1;eka}/vIrya{napuM}{2;eka}	ananwa-vIrya{puM}{2;eka}	sup_samucciwaH,7	ananwa_sAmarWya_se_yukwa	unlimited_glory	<<na-anwa>Bsmn-vIryam>Bs6			
-3	an-anwa-bAhum	5	0	ananwa-bAhu{puM}{2;eka}	ananwa-bAhu{puM}{2;eka}	sup_samucciwaH,7	ananwa_BujAvAle	unlimited_arms	<<na-anwa>Bsmn-bAhuM>Bs6			
-4	SaSi-sUrya-newram	6	SaSisUryanewram	SaSin-sUrya-newra{napuM}{1;eka}/newra{napuM}{2;eka}	SaSin-sUrya-newra{puM}{2;eka}	sup_samucciwaH,7	canxra_sUryarUpa_newroMvAle	eyes_of_moon_and_sun	<<SaSi-sUrya>Di-newram>Bs6			
-5	paSyAmi	13	paSyAmi	xqS1{karwari;lat;u;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;u;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,11.1;sakarmakaH	xeKawA_hUz	see				
-6	wvAm	2	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,5	Apako	you				
-7	xIpwa-huwASa-vakwram	7	xIpwahuwASavakwraM	xIpwa-huwASa-vakwra{puM}{2;eka}/vakwra{napuM}{1;eka}/vakwra{napuM}{2;eka}	xIpwa-huwASa-vakwra{puM}{2;eka}	karmasamAnAXikaraNam,5	prajvaliwa_AgnirUpa_muKavAle	blazing_fire_coming_out_of_your_mouth	<<xIpwa-huwASa>K3-vakwram>Bs6			
-7.1	(ca)	8	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,7	(Ora)	also				
-8	sva-wejasA	9	svawejasA	sva-wejas{napuM}{3;eka}	sva-wejas{napuM}{3;eka}	karaNam,11	apane_weja_se	by_your	<sva-wejasA>T6			
-9	viSvam	11	viSvamixaM	viSva{puM}{2;eka}/viSva{napuM}{1;eka}/viSva{napuM}{2;eka}/viSva{puM}{2;eka}	viSva{napuM}{2;eka}	karma,11	jagaw_ko	universe				
-10	ixam	10	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,9	isa	this				
-11	wapanwam	12	wapanwam	wapaw{puM}{2;eka}	wap1{kqw_prawyayaH:Sawq;wapaz;BvAxiH;napuM}{2;eka}	viSeRaNam,7	saMwapwa_karawe_hue	heating				
-11.1	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,5	(mEM)	I				
+1	अन्-आदि-मध्य-अन्तम्	3	अनादिमध्यान्तमनन्तवीर्यमनन्तबाहुं	अनादिन्-मध्य-अन्त{पुं}{2;एक}/अन्त{नपुं}{1;एक}/अन्त{नपुं}{2;एक}	अनादि-मध्य-अन्त{पुं}{2;एक}	सुप्_समुच्चितः,7	आदि_अन्त_और_मध्य_से_रहित	तिट्होउट्_बेगिन्निन्ग्_मिड्ड्ले_अन्ड्_एन्ड्	<न-<आदि-मध्य-अन्तम्>ढि>भ्स्6			
+2	अन्-अन्त-वीर्यम्	4	0	अनन्त-वीर्य{नपुं}{1;एक}/वीर्य{नपुं}{2;एक}	अनन्त-वीर्य{पुं}{2;एक}	सुप्_समुच्चितः,7	अनन्त_सामर्थ्य_से_युक्त	उन्लिमिटेड्_ग्लोर्य्	<<न-अन्त>भ्स्म्न्-वीर्यम्>भ्स्6			
+3	अन्-अन्त-बाहुम्	5	0	अनन्त-बाहु{पुं}{2;एक}	अनन्त-बाहु{पुं}{2;एक}	सुप्_समुच्चितः,7	अनन्त_भुजावाले	उन्लिमिटेड्_अर्म्स्	<<न-अन्त>भ्स्म्न्-बाहुं>भ्स्6			
+4	शशि-सूर्य-नेत्रम्	6	शशिसूर्यनेत्रम्	शशिन्-सूर्य-नेत्र{नपुं}{1;एक}/नेत्र{नपुं}{2;एक}	शशिन्-सूर्य-नेत्र{पुं}{2;एक}	सुप्_समुच्चितः,7	चन्द्र_सूर्यरूप_नेत्रोंवाले	एयेस्_ओङ्_मोओन्_अन्ड्_सुन्	<<शशि-सूर्य>ढि-नेत्रम्>भ्स्6			
+5	पश्यामि	13	पश्यामि	दृश्1{कर्तरि;लट्;उ;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लट्;उ;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहितकर्ता,11.1;सकर्मकः	देखता_हूँ	सेए				
+6	त्वाम्	2	त्वां	युष्मद्{2;एक}	युष्मद्{2;एक}	कर्म,5	आपको	योउ				
+7	दीप्त-हुताश-वक्त्रम्	7	दीप्तहुताशवक्त्रं	दीप्त-हुताश-वक्त्र{पुं}{2;एक}/वक्त्र{नपुं}{1;एक}/वक्त्र{नपुं}{2;एक}	दीप्त-हुताश-वक्त्र{पुं}{2;एक}	कर्मसमानाधिकरणम्,5	प्रज्वलित_आग्निरूप_मुखवाले	ब्लँइन्ग्_ङिरे_चोमिन्ग्_ओउट्_ओङ्_योउर्_मोउट्ह्	<<दीप्त-हुताश>ख्3-वक्त्रम्>भ्स्6			
+7.1	(च)	8	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,7	(और)	अल्सो				
+8	स्व-तेजसा	9	स्वतेजसा	स्व-तेजस्{नपुं}{3;एक}	स्व-तेजस्{नपुं}{3;एक}	करणम्,11	अपने_तेज_से	ब्य्_योउर्	<स्व-तेजसा>ठ्6			
+9	विश्वम्	11	विश्वमिदं	विश्व{पुं}{2;एक}/विश्व{नपुं}{1;एक}/विश्व{नपुं}{2;एक}/विश्व{पुं}{2;एक}	विश्व{नपुं}{2;एक}	कर्म,11	जगत्_को	उनिवेर्से				
+10	इदम्	10	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,9	इस	ट्हिस्				
+11	तपन्तम्	12	तपन्तम्	तपत्{पुं}{2;एक}	तप्1{कृत्_प्रत्ययः:शतृ;तपँ;भ्वादिः;नपुं}{2;एक}	विशेषणम्,7	संतप्त_करते_हुए	हेअटिन्ग्				
+11.1	(अहम्)	1	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,5	(मैं)	ई				

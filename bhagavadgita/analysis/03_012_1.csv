@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	iRtAn	4	iRtAnBogAnhi	iRta{puM}{2;bahu}	iRta{puM}{2;bahu}	viSeRaNam,2	icCiwa	desired				
-2	BogAn	5	0	Boga{puM}{2;bahu}	Boga{puM}{2;bahu}	karma,6	Boga	enjoyments				
-3	hi	6	0	hi{avya}	hi{avya}	sambanXaH,2	niScaya_hI	surely				
-4	vaH	3	vo	va{puM}{1;eka}/yuRmax{2;bahu}/yuRmax{4;bahu}/yuRmax{6;bahu}	yuRmax{4;bahu}	karma,6	wumalogoM_ko	unto_you				
-5	xevAH	2	xevA	xeva{puM}{1;bahu}/xeva{puM}{8;bahu}	xeva{puM}{1;bahu}	karwA,6	xevawA	the_gods				
-6	xAsyanwe	7	xAsyanwe	xA1{karmaNi;lqt;pra;bahu;AwmanepaxI;xAN;BvAxiH}/xA2{karmaNi;lqt;pra;bahu;AwmanepaxI;xAp;axAxiH}/xA3{karwari;lqt;pra;bahu;AwmanepaxI;duxAF;juhowyAxiH}/xA3{karmaNi;lqt;pra;bahu;AwmanepaxI;duxAF;juhowyAxiH}/xo1{karmaNi;lqt;pra;bahu;AwmanepaxI;xo;xivAxiH}/xe1{karwari;lqt;pra;bahu;AwmanepaxI;xef;BvAxiH}/xe1{karmaNi;lqt;pra;bahu;AwmanepaxI;xef;BvAxiH}/xI1{karwari;lqt;pra;bahu;AwmanepaxI;xIf;xivAxiH}/xI1{BAve;lqt;pra;bahu;AwmanepaxI;xIf;xivAxiH}/xAs1{karmaNi;lat;pra;bahu;AwmanepaxI;xAsqz;BvAxiH}	xA3{karwari;lqt;pra;bahu;AwmanepaxI;duxAF;juhowyAxiH}	aBihiwa_karwA,5;sakarmakaH	xewe_raheMge	bestow				
-7	yajFa-BAviwAH	1	yajFaBAviwAH	yajFaBAviwa{puM}{1;bahu}/yajFaBAviwa{puM}{8;bahu}/yajFaBAviwA{swrI}{1;bahu}/yajFaBAviwA{swrI}{2;bahu}/yajFaBAviwA{swrI}{8;bahu}	yajFaBAviwa{puM}{1;bahu}	viSeRaNam,5	yajFa_ke_xvArA_baDa़Aye_hue	fostered_by_sacrifice	<yajFa-BAviwAH>T3			
-8	wEH	8	wErxawwAnapraxAyEByo	wax{puM}{3;bahu}/wax{napuM}{3;bahu}	wax{puM}{3;bahu}	karwA,9	una_xevawAoM_ke_xvArA	by_them				
-9	xawwAn	9	0	xawwa{puM}{2;bahu}	xA3{kqw_prawyayaH:kwa;duxAF;juhowyAxiH;puM}{2;eka}	karma,13	xiye_hue	bestowed				
-10	a-praxAya	13	0	a-praxa{puM;4;eka}/xA3{avya;lyap;duxAF;:juhowyAxiH}/xA1{avya;lyap;xAN;:BvAxiH}/xA2{avya;lyap;xAp;:axAxiH}	a-pra_xA2{avya;lyap;xAp;:axAxiH}	pUrvakAlaH,9	binA_xiye	without_offering_anything_in_return				
-11	eByaH	12	0	ixam{sarvanAma;puM;4;bahu}/ixam{sarvanAma;puM;5;bahu}/ixam{sarvanAma;napuM;4;bahu}/ixam{sarvanAma;napuM;5;bahu}	ixam{sarvanAma;puM;4;bahu}	sampraxAnam,10	inako	to_them_(gods)				
-12	yaH	11	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,14	jo_(puruRa)	he_who				
-13	Bufkwe	14	Bufkwe	Buj2{karwari;lat;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{karwari;lat;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}	aBihiwa_karwA,14;sakarmaka	BogawA_hE	enjoys				
-14	swenaH	16	swena	swena{puM}{1;eka}	swena{puM}{1;eka}	viXeya_viSeRaNam,13	cora	thief				
-15	eva	17	eva	eva{avya}	eva{avya}	sambanXaH,14	hI	undoubtedly				
-16	saH	15	saH	wax{puM}{1;eka}	wax{puM}{1;eka}	niwya_sambanXaH,12	vaha	he				
+1	इष्टान्	4	इष्टान्भोगान्हि	इष्ट{पुं}{2;बहु}	इष्ट{पुं}{2;बहु}	विशेषणम्,2	इच्छित	डेसिरेड्				
+2	भोगान्	5	0	भोग{पुं}{2;बहु}	भोग{पुं}{2;बहु}	कर्म,6	भोग	एन्जोय्मेन्ट्स्				
+3	हि	6	0	हि{अव्य}	हि{अव्य}	सम्बन्धः,2	निश्चय_ही	सुरेल्य्				
+4	वः	3	वो	व{पुं}{1;एक}/युष्मद्{2;बहु}/युष्मद्{4;बहु}/युष्मद्{6;बहु}	युष्मद्{4;बहु}	कर्म,6	तुमलोगों_को	उन्टो_योउ				
+5	देवाः	2	देवा	देव{पुं}{1;बहु}/देव{पुं}{8;बहु}	देव{पुं}{1;बहु}	कर्ता,6	देवता	ट्हे_गोड्स्				
+6	दास्यन्ते	7	दास्यन्ते	दा1{कर्मणि;लृट्;प्र;बहु;आत्मनेपदी;दाण्;भ्वादिः}/दा2{कर्मणि;लृट्;प्र;बहु;आत्मनेपदी;दाप्;अदादिः}/दा3{कर्तरि;लृट्;प्र;बहु;आत्मनेपदी;डुदाञ्;जुहोत्यादिः}/दा3{कर्मणि;लृट्;प्र;बहु;आत्मनेपदी;डुदाञ्;जुहोत्यादिः}/दो1{कर्मणि;लृट्;प्र;बहु;आत्मनेपदी;दो;दिवादिः}/दे1{कर्तरि;लृट्;प्र;बहु;आत्मनेपदी;देङ्;भ्वादिः}/दे1{कर्मणि;लृट्;प्र;बहु;आत्मनेपदी;देङ्;भ्वादिः}/दी1{कर्तरि;लृट्;प्र;बहु;आत्मनेपदी;दीङ्;दिवादिः}/दी1{भावे;लृट्;प्र;बहु;आत्मनेपदी;दीङ्;दिवादिः}/दास्1{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;दासृँ;भ्वादिः}	दा3{कर्तरि;लृट्;प्र;बहु;आत्मनेपदी;डुदाञ्;जुहोत्यादिः}	अभिहित_कर्ता,5;सकर्मकः	देते_रहेंगे	बेस्टोत्				
+7	यज्ञ-भाविताः	1	यज्ञभाविताः	यज्ञभावित{पुं}{1;बहु}/यज्ञभावित{पुं}{8;बहु}/यज्ञभाविता{स्त्री}{1;बहु}/यज्ञभाविता{स्त्री}{2;बहु}/यज्ञभाविता{स्त्री}{8;बहु}	यज्ञभावित{पुं}{1;बहु}	विशेषणम्,5	यज्ञ_के_द्वारा_बढॆअञआये_हुए	ङोस्टेरेड्_ब्य्_सच्रिङिचे	<यज्ञ-भाविताः>ठ्3			
+8	तैः	8	तैर्दत्तानप्रदायैभ्यो	तद्{पुं}{3;बहु}/तद्{नपुं}{3;बहु}	तद्{पुं}{3;बहु}	कर्ता,9	उन_देवताओं_के_द्वारा	ब्य्_ट्हेम्				
+9	दत्तान्	9	0	दत्त{पुं}{2;बहु}	दा3{कृत्_प्रत्ययः:क्त;डुदाञ्;जुहोत्यादिः;पुं}{2;एक}	कर्म,13	दिये_हुए	बेस्टोतेड्				
+10	अ-प्रदाय	13	0	अ-प्रद{पुं;4;एक}/दा3{अव्य;ल्यप्;डुदाञ्;:जुहोत्यादिः}/दा1{अव्य;ल्यप्;दाण्;:भ्वादिः}/दा2{अव्य;ल्यप्;दाप्;:अदादिः}	अ-प्र_दा2{अव्य;ल्यप्;दाप्;:अदादिः}	पूर्वकालः,9	बिना_दिये	तिट्होउट्_ओङ्ङेरिन्ग्_अन्य्ट्हिन्ग्_इन्_रेटुर्न्				
+11	एभ्यः	12	0	इदम्{सर्वनाम;पुं;4;बहु}/इदम्{सर्वनाम;पुं;5;बहु}/इदम्{सर्वनाम;नपुं;4;बहु}/इदम्{सर्वनाम;नपुं;5;बहु}	इदम्{सर्वनाम;पुं;4;बहु}	सम्प्रदानम्,10	इनको	टो_ट्हेम्_(गोड्स्)				
+12	यः	11	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	विशेषणम्,14	जो_(पुरुष)	हे_त्हो				
+13	भुङ्क्ते	14	भुङ्क्ते	भुज्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;भुजँ;रुधादिः}	भुज्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;भुजँ;रुधादिः}	अभिहित_कर्ता,14;सकर्मक	भोगता_है	एन्जोय्स्				
+14	स्तेनः	16	स्तेन	स्तेन{पुं}{1;एक}	स्तेन{पुं}{1;एक}	विधेय_विशेषणम्,13	चोर	ट्हिएङ्				
+15	एव	17	एव	एव{अव्य}	एव{अव्य}	सम्बन्धः,14	ही	उन्डोउब्टेड्ल्य्				
+16	सः	15	सः	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	नित्य_सम्बन्धः,12	वह	हे				

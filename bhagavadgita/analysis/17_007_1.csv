@@ -1,22 +1,22 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	AhAraH	2	AhAraswvapi	AhAra{puM}{1;eka}	AhAra{puM}{1;eka}	karwA,6	Bojana	eating				
-2	wu	8	0	wu{avya}	wu{avya}	sambanXaH,1	Ora	certainly				
-3	api	3	0	api{avya}	api{avya}	sambanXaH,1	BI	also				
-4	sarvasya	4	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,7	sabako	of_everyone				
-5	wri-viXaH	5	wriviXo	wri-viXa{puM}{1;eka}/viXas{puM}{8;eka}	wri-viXa{puM}{1;eka}	viXeya_viSeRaNam,6	wIna_prakAra_kA	three_kinds	<wri-viXaH>Bs6			
-6	Bavawi	7	Bavawi	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,1;akarmakaH	howA_hE	are				
-7	priyaH	6	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	viSeRaNam,1	priya	dear				
-7.1	(yaWA)	1	(0)	(yaWA{avya})	(yaWA{avya})	kriyAviSeRaNam,6;niwya_sambanXaH,10	(jEse)	as				
-8	yajFaH	10	yajFaswapaswaWA	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	sup_samucciwaH,11	yajFa	sacrifice				
-9	wapaH	11	0	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}/wapas{napuM}{8;eka}	wapas{napuM}{1;eka}	sup_samucciwaH,11	wapa	austerity				
-10	waWA	9	0	waWA{avya}	waWA{avya}	kriyAviSeRaNam,11.3	vEse	also				
-11	xAnam	12	xAnaM	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{1;eka}	karwA,11.3	xAna	charity				
-11.1	(ca)	13	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,11	(Ora)	and				
-11.2	(wri-viXAH)	14	(0)	(wriviXa{puM}{1;bahu}/wriviXa{puM}{8;bahu}/wriviXA{swrI}{1;bahu}/wriviXA{swrI}{2;bahu}/wriviXA{swrI}{8;bahu})	(wri-viXa{puM}{1;bahu})	viXeya_viSeRaNam,11.3	(wIna_prakAra_ke)	three_kinds	<wri-viXAH>Bs6			
-11.3	(Bavanwi)	15	(0)	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(howe_hEM)	becomes				
-12	weRAm	16	weRAM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	RaRTIsambanXaH,13	unake	of_them				
-13	Bexam	18	BexamimaM	Bexa{puM}{2;eka}	Bexa{puM}{2;eka}	karma,15	Bexa_ko	differences				
-14	imam	17	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,13	isa	thus				
-15	SqNu	21	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,15.1;sakarmakaH	suna	hear				
-15.1	(mawwaH)	20	(0)	(mawwa{puM}{1;eka})	(mawwa{avya})	apAxAnam,15	(muJase)	from_me				
-15.2	(wvam)	19	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,15	(wuma)	you				
+1	आहारः	2	आहारस्त्वपि	आहार{पुं}{1;एक}	आहार{पुं}{1;एक}	कर्ता,6	भोजन	एअटिन्ग्				
+2	तु	8	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,1	और	चेर्टइन्ल्य्				
+3	अपि	3	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,1	भी	अल्सो				
+4	सर्वस्य	4	सर्वस्य	सर्व{पुं}{6;एक}/सर्व{नपुं}{6;एक}	सर्व{पुं}{6;एक}	षष्ठीसम्बन्धः,7	सबको	ओङ्_एवेर्योने				
+5	त्रि-विधः	5	त्रिविधो	त्रि-विध{पुं}{1;एक}/विधस्{पुं}{8;एक}	त्रि-विध{पुं}{1;एक}	विधेय_विशेषणम्,6	तीन_प्रकार_का	ट्ह्रेए_किन्ड्स्	<त्रि-विधः>भ्स्6			
+6	भवति	7	भवति	भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,1;अकर्मकः	होता_है	अरे				
+7	प्रियः	6	प्रियः	प्री{नपुं}{5;एक}/प्री{नपुं}{6;एक}/प्रिय{पुं}{1;एक}	प्रिय{पुं}{1;एक}	विशेषणम्,1	प्रिय	डेअर्				
+7.1	(यथा)	1	(0)	(यथा{अव्य})	(यथा{अव्य})	क्रियाविशेषणम्,6;नित्य_सम्बन्धः,10	(जैसे)	अस्				
+8	यज्ञः	10	यज्ञस्तपस्तथा	यज्ञ{पुं}{1;एक}	यज्ञ{पुं}{1;एक}	सुप्_समुच्चितः,11	यज्ञ	सच्रिङिचे				
+9	तपः	11	0	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}/तपस्{नपुं}{8;एक}	तपस्{नपुं}{1;एक}	सुप्_समुच्चितः,11	तप	अउस्टेरिट्य्				
+10	तथा	9	0	तथा{अव्य}	तथा{अव्य}	क्रियाविशेषणम्,11.3	वैसे	अल्सो				
+11	दानम्	12	दानं	दान{नपुं}{1;एक}/दान{नपुं}{2;एक}	दान{नपुं}{1;एक}	कर्ता,11.3	दान	च्हरिट्य्				
+11.1	(च)	13	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,11	(और)	अन्ड्				
+11.2	(त्रि-विधाः)	14	(0)	(त्रिविध{पुं}{1;बहु}/त्रिविध{पुं}{8;बहु}/त्रिविधा{स्त्री}{1;बहु}/त्रिविधा{स्त्री}{2;बहु}/त्रिविधा{स्त्री}{8;बहु})	(त्रि-विध{पुं}{1;बहु})	विधेय_विशेषणम्,11.3	(तीन_प्रकार_के)	ट्ह्रेए_किन्ड्स्	<त्रि-विधाः>भ्स्6			
+11.3	(भवन्ति)	15	(0)	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}/भवन्ती{स्त्री}{8;एक})	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,11;अकर्मकः	(होते_हैं)	बेचोमेस्				
+12	तेषाम्	16	तेषां	तद्{पुं}{6;बहु}/तद्{नपुं}{6;बहु}	तद्{पुं}{6;बहु}	षष्ठीसम्बन्धः,13	उनके	ओङ्_ट्हेम्				
+13	भेदम्	18	भेदमिमं	भेद{पुं}{2;एक}	भेद{पुं}{2;एक}	कर्म,15	भेद_को	डिङ्ङेरेन्चेस्				
+14	इमम्	17	0	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	विशेषणम्,13	इस	ट्हुस्				
+15	शृणु	21	शृणु	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	अभिहितकर्ता,15.1;सकर्मकः	सुन	हेअर्				
+15.1	(मत्तः)	20	(0)	(मत्त{पुं}{1;एक})	(मत्त{अव्य})	अपादानम्,15	(मुझसे)	ङ्रोम्_मे				
+15.2	(त्वम्)	19	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,15	(तुम)	योउ				

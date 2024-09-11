@@ -1,0 +1,21 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	xaMRtrA-karAlAni	1	xaMRtrAkarAlAni	xaMRtrA-karAla{napuM}{1;bahu}/karAla{napuM}{2;bahu}/karAla{napuM}{8;bahu}	xaMRtrA-karAla{napuM}{2;bahu}	viSeRaNam,4	xADa़oM_ke_kAraNa_vikarAla	horrible_due_to_teeth_like_that	<xaMRtrA-karAlAni>T3			
+2	ca	2	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,1	Ora	also				
+3	we	4	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,4	Apake	Your				
+4	muKAni	5	muKAni	muKa{napuM}{1;bahu}/muKa{napuM}{2;bahu}/muKa{napuM}{8;bahu}	muKa{napuM}{2;bahu}	karma,5	muKoM_ko	faces				
+5	xqRtvA	6	xqRtvEva	xqS1{avya;kwvA;xqSizr;:BvAxiH}	xqS1{avya;kwvA;xqSizr;:BvAxiH}	pUrvakAlaH,10	xeKakara	seeing				
+6	eva	14	0	eva{avya}	eva{avya}	sambanXaH,5	BI	thus				
+7	kAla-anala-sanniBAni	3	kAlAnalasanniBAni	kAla-anala-sanniBa{napuM}{1;bahu}/sanniBa{napuM}{2;bahu}/sanniBa{napuM}{8;bahu}	kAla-anala-sanniBa{napuM}{2;bahu}	sup_samucciwaH,1	pralayakAla_kI_agni_ke_samAna_prajvaliwa	as_if_blazing_like_the_fire_of_death	<<kAla-anala>T6-sanniBAni>T6			
+8	xiSaH	8	xiSo	xiS{swrI}{1;bahu}/xiS{swrI}{2;bahu}/xiS{swrI}{5;eka}/xiS{swrI}{6;eka}/xiS{swrI}{8;bahu}	xiS{swrI}{2;bahu}	karma,10	xiSAoM_ko	directions				
+9	na	9	na	na{avya}	na{avya}	prawiReXaH,10	nahIM	not				
+10	jAne	10	jAne	jAna{puM}{7;eka}/jAna{napuM}{1;xvi}/jAna{napuM}{2;xvi}/jAna{napuM}{7;eka}/jAna{napuM}{8;xvi}	jFA2{karwari;lat;u;eka;AwmanepaxI;jFA;kryAxiH}	aBihiwa_karwA,10.1	jAnawA_hUz	know				
+10.1	(aham)	12	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,10	(mEM)	I				
+11	na	15	na	na{avya}	na{avya}	prawiReXaH,12	nahIM	nor				
+12	laBe	16	laBe	laB1{karwari;lat;u;eka;AwmanepaxI;dulaBazR;BvAxiH}	laB1{karwari;lat;u;eka;AwmanepaxI;dulaBazR;BvAxiH}	aBihiwa_karwA,14.1	pAwA_hUz	obtain				
+13	ca	11	ca	ca{avya}	ca{avya}	sambanXaH,12	Ora	and				
+14	Sarma	13	Sarma	Sarma{napuM}{8;eka}/Sarman{napuM}{1;eka}/Sarman{napuM}{2;eka}	Sarman{napuM}{2;eka}	karma,12	suKa	grace				
+14.1	(aham)	7	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,12	(mEM)	I				
+15	prasIxa	20	prasIxa	pra_sax1{karwari;lot;ma;eka;parasmEpaxI;RaxLz;BvAxiH}/pra_saxa1{karwari;lot;ma;eka;parasmEpaxI;RaxaLz;wuxAxiH}	pra_sax1{karwari;lot;ma;eka;parasmEpaxI;pra_RaxLz;BvAxiH}	aBihiwa_karwA,18	prasanna_hoM	be_pleased				
+16	xeva-ISa	17	xeveSa	xeva-ISa{puM}{8;eka}	xeveSa{puM}{8;eka}	samboXyaH,15	he_xeveSa	O_Lord_of_all_lords	<xeva-ISa>T6			
+17	jagaw-nivAsa	18	jagannivAsa	jagaw-nivAsa{puM}{8;eka}/nivAsa{napuM}{8;eka}	jagaw-nivAsa{puM}{8;eka}	samboXyaH,15	he_jagannivAsa	refuge_of_the_worlds	<jagaw-nivAsa>Bs6			
+17.1	(wvam)	19	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,15	(Apa)	you				

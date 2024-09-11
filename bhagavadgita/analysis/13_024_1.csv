@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	XyAnena	4	XyAnenAwmani	XyAna{napuM}{3;eka}	XyAna{napuM}{3;eka}	karaNam,3	XyAna_ke_xvArA	by_meditation				
-2	Awmani	5	0	Awman{puM}{7;eka}	Awman{puM}{7;eka}	aXikaraNam,3	hqxaya_meM	self				
-3	paSyanwi	6	paSyanwi	paSyaw{napuM}{1;bahu}/paSyaw{napuM}{2;bahu}/paSyaw{napuM}{8;bahu}/xqS1{karwari;lat;pra;bahu;parasmEpaxI;xqSizr;BvAxiH}/paSyanwI{swrI}{8;eka}	xqS1{karwari;lat;pra;bahu;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,4;sakarmakaH	xeKawe_hEM	see				
-4	keciw	1	kecixAwmAnamAwmanA	keciw{avya}/kiFciw{puM}{1;bahu}/kiFciw{swrI}{1;xvi}/kiFciw{swrI}{2;xvi}/kiFciw{napuM}{1;xvi}/kiFciw{napuM}{2;xvi}	kiFciw{puM}{1;bahu}	karwA,3	kiwane_hI	one				
-5	AwmAnam	2	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,3	paramAwmA_ko	Supersoul				
-6	AwmanA	3	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,3	SuxXa_huI_sUkRma_buxXi_se	by_the_mind				
-7	anye	7	anye	anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anya{napuM}{7;eka}/anya{napuM}{8;xvi}/anya{puM}{1;bahu}/anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/anyA{swrI}{8;eka}/anyA{swrI}{8;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/an1{BAve;lat;u;eka;AwmanepaxI;anaz;axAxiH}	anya{puM}{1;bahu}	karwA,9.1	anya_kiwane_hI	others				
-8	sAfKyena	8	sAfKyena	sAfKya{puM}{3;eka}/sAfKya{napuM}{3;eka}	sAfKya{napuM}{3;eka}	viSeRaNam,9	sAMKya	by_philosophical_discussion				
-9	yogena	9	yogena	yoga{puM}{3;eka}	yoga{puM}{3;eka}	karaNam,9.1	yoga_ke_xvArA	by_the_yoga_system				
-9.1	(paSyanwi)	10	(0)	(paSyaw{napuM}{1;bahu}/paSyaw{napuM}{2;bahu}/paSyaw{napuM}{8;bahu}/xqS1{karwari;lat;pra;bahu;parasmEpaxI;xqSizr;BvAxiH}/paSyanwI{swrI}{8;eka})	(xqS1{karwari;lat;pra;bahu;parasmEpaxI;xqSizr;BvAxiH})	aBihiwakarwA,7;sakarmakaH	(xeKawe_hEM)	see				
-10	karma-yogena	13	karmayogena	karman-yoga{puM}{3;eka}	karman-yoga{puM}{3;eka}	karaNam,12.1	karmayoga_ke_xvArA	by_activities_without_fruitive_desire	<karma-yogena>K6			
-11	ca	11	cApare	ca{avya}	ca{avya}	sambanXaH,12.1	Ora	also				
-12	a-pare	12	0	a-para{puM}{7;eka}/para{napuM}{1;xvi}/para{napuM}{2;xvi}/para{napuM}{7;eka}/para{napuM}{8;xvi}/para{napuM}{1;xvi}/para{napuM}{2;xvi}/parA{swrI}{1;xvi}/parA{swrI}{2;xvi}/parA{swrI}{8;eka}/parA{swrI}{8;xvi}/parA{swrI}{1;xvi}/parA{swrI}{2;xvi}	apara{puM}{1;bahu}	karwA,12.1	xUsare	others	<na-pare>Tn			
-12.1	(paSyanwi)	14	(0)	(paSyaw{napuM}{1;bahu}/paSyaw{napuM}{2;bahu}/paSyaw{napuM}{8;bahu}/xqS1{karwari;lat;pra;bahu;parasmEpaxI;xqSizr;BvAxiH}/paSyanwI{swrI}{8;eka})	(xqS1{karwari;lat;pra;bahu;parasmEpaxI;xqSizr;BvAxiH})	aBihiwakarwA,12;sakarmakaH	(xeKawe_hEM)	see				
+1	ध्यानेन	4	ध्यानेनात्मनि	ध्यान{नपुं}{3;एक}	ध्यान{नपुं}{3;एक}	करणम्,3	ध्यान_के_द्वारा	ब्य्_मेडिटटिओन्				
+2	आत्मनि	5	0	आत्मन्{पुं}{7;एक}	आत्मन्{पुं}{7;एक}	अधिकरणम्,3	हृदय_में	सेल्ङ्				
+3	पश्यन्ति	6	पश्यन्ति	पश्यत्{नपुं}{1;बहु}/पश्यत्{नपुं}{2;बहु}/पश्यत्{नपुं}{8;बहु}/दृश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;दृशिँर्;भ्वादिः}/पश्यन्ती{स्त्री}{8;एक}	दृश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहितकर्ता,4;सकर्मकः	देखते_हैं	सेए				
+4	केचित्	1	केचिदात्मानमात्मना	केचित्{अव्य}/किञ्चित्{पुं}{1;बहु}/किञ्चित्{स्त्री}{1;द्वि}/किञ्चित्{स्त्री}{2;द्वि}/किञ्चित्{नपुं}{1;द्वि}/किञ्चित्{नपुं}{2;द्वि}	किञ्चित्{पुं}{1;बहु}	कर्ता,3	कितने_ही	ओने				
+5	आत्मानम्	2	0	आत्मन्{पुं}{2;एक}	आत्मन्{पुं}{2;एक}	कर्म,3	परमात्मा_को	शुपेर्सोउल्				
+6	आत्मना	3	0	आत्मन्{पुं}{3;एक}	आत्मन्{पुं}{3;एक}	करणम्,3	शुद्ध_हुई_सूक्ष्म_बुद्धि_से	ब्य्_ट्हे_मिन्ड्				
+7	अन्ये	7	अन्ये	अन्य{नपुं}{1;द्वि}/अन्य{नपुं}{2;द्वि}/अन्य{नपुं}{7;एक}/अन्य{नपुं}{8;द्वि}/अन्य{पुं}{1;बहु}/अन्य{नपुं}{1;द्वि}/अन्य{नपुं}{2;द्वि}/अन्या{स्त्री}{1;द्वि}/अन्या{स्त्री}{2;द्वि}/अन्या{स्त्री}{8;एक}/अन्या{स्त्री}{8;द्वि}/अन्या{स्त्री}{1;द्वि}/अन्या{स्त्री}{2;द्वि}/अन्1{भावे;लट्;उ;एक;आत्मनेपदी;अनँ;अदादिः}	अन्य{पुं}{1;बहु}	कर्ता,9.1	अन्य_कितने_ही	ओट्हेर्स्				
+8	साङ्ख्येन	8	साङ्ख्येन	साङ्ख्य{पुं}{3;एक}/साङ्ख्य{नपुं}{3;एक}	साङ्ख्य{नपुं}{3;एक}	विशेषणम्,9	सांख्य	ब्य्_प्हिलोसोप्हिचल्_डिस्चुस्सिओन्				
+9	योगेन	9	योगेन	योग{पुं}{3;एक}	योग{पुं}{3;एक}	करणम्,9.1	योग_के_द्वारा	ब्य्_ट्हे_योग_स्य्स्टेम्				
+9.1	(पश्यन्ति)	10	(0)	(पश्यत्{नपुं}{1;बहु}/पश्यत्{नपुं}{2;बहु}/पश्यत्{नपुं}{8;बहु}/दृश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;दृशिँर्;भ्वादिः}/पश्यन्ती{स्त्री}{8;एक})	(दृश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;दृशिँर्;भ्वादिः})	अभिहितकर्ता,7;सकर्मकः	(देखते_हैं)	सेए				
+10	कर्म-योगेन	13	कर्मयोगेन	कर्मन्-योग{पुं}{3;एक}	कर्मन्-योग{पुं}{3;एक}	करणम्,12.1	कर्मयोग_के_द्वारा	ब्य्_अच्टिविटिएस्_तिट्होउट्_ङ्रुइटिवे_डेसिरे	<कर्म-योगेन>ख्6			
+11	च	11	चापरे	च{अव्य}	च{अव्य}	सम्बन्धः,12.1	और	अल्सो				
+12	अ-परे	12	0	अ-पर{पुं}{7;एक}/पर{नपुं}{1;द्वि}/पर{नपुं}{2;द्वि}/पर{नपुं}{7;एक}/पर{नपुं}{8;द्वि}/पर{नपुं}{1;द्वि}/पर{नपुं}{2;द्वि}/परा{स्त्री}{1;द्वि}/परा{स्त्री}{2;द्वि}/परा{स्त्री}{8;एक}/परा{स्त्री}{8;द्वि}/परा{स्त्री}{1;द्वि}/परा{स्त्री}{2;द्वि}	अपर{पुं}{1;बहु}	कर्ता,12.1	दूसरे	ओट्हेर्स्	<न-परे>ठ्न्			
+12.1	(पश्यन्ति)	14	(0)	(पश्यत्{नपुं}{1;बहु}/पश्यत्{नपुं}{2;बहु}/पश्यत्{नपुं}{8;बहु}/दृश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;दृशिँर्;भ्वादिः}/पश्यन्ती{स्त्री}{8;एक})	(दृश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;दृशिँर्;भ्वादिः})	अभिहितकर्ता,12;सकर्मकः	(देखते_हैं)	सेए				

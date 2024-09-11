@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-8	anaGa	1		anaGa{puM}{8;eka}/anaGa{napuM}{8;eka}	anaGa{puM}{8;eka}	samboXyaH,3.1	he_niRpApa	O_sinless_one	<na-aGa>Bsmn			
-2	asmin	2		ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{puM}{7;eka}	viSeRaNam,1	isa	this				
-1	loke	3	lokeZsminxviviXA	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	aXikaraNam,3.1	loka_meM	in_world				
-5	purA	4	purA	purA{avya}/pur{swrI}{3;eka}/purA{swrI}{1;eka}	purA{avya}	kAlAXikaraNam,6	pahale	in_the_past				
-7	mayA	5	mayAnaGa	asmax{3;eka}	asmax{3;eka}	karwA,6	mere_xvArA	by_me				
-6	prokwA	6	prokwA	prokwA{swrI}{1;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH}{swrI}{1;eka}	viSeRaNam,4	kahI_gayI_hE	have_been_enunciated				
-4	niRTA	7	niRTA	niRTA{swrI}{1;eka}	niRTA{swrI}{1;eka}	karwA,3.1	niRTA	Sadhana_(spiritual_discipline)				
-10	sAfKyAnAm	8	sAfKyAnAM	sAfKya{puM}{6;bahu}/sAfKya{napuM}{6;bahu}/sAfKyA{swrI}{6;bahu}	sAfKya{napuM}{6;bahu}	RaRTIsambanXaH,9	sAfKyayogiyoM_kI	the_case_of_the_Sankhyayogi				
-9	jFAnayogena	9	jFAnayogena	jFAna-yoga{puM}{3;eka}	jFAna-yoga{puM}{3;eka}	karaNam,12.1	jFAnayoga_se	along_the_path_of_Knowledge	<jFAna-yogena>K6			
-12	yoginAm	10	yoginAm	yogin{puM}{6;bahu}	yogin{puM}{6;bahu}	RaRTIsambanXaH,11	yogiyoM_kI	the_case_of_the_Karmayogi				
-11	karmayogena	11	karmayogena	karman-yoga{puM}{3;eka}	karman-yoga{puM}{3;eka}	karaNam,12.1	karmayoga_se	along_the_path_of_Action	<karma-yogena>K6			
-3	xviviXA	12		xviviXA{swrI}{1;eka}	xviviXA{swrI}{1;eka}	samucciwaH,4	xo_prakAra_kI	two_courses_of	<xvi-viXA>Bs6			
-3.1	(Bavawi)	13	()	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,7	(howI_hE)	proceeds_along				
-12.1	(karaNIyA)	14	()	karaNIyA{swrI;1;eka(kQ1;anIyar;kQ;:wuxAxiH)}/karaNIyA{swrI;1;eka(kq3;anIyar;dukqF;:wanAxiH)}/karaNIyA{swrI;1;eka(kq2;anIyar;kqF;:svAxiH)}/karaNIyA{swrI;1;eka(kq1;anIyar;kqF;:BvAxiH)}/karaNIyA{swrI;1;eka(kQ2;anIyar;kQF;:kryAxiH)}/karaNIyA{swrI;1;eka(kQ3;anIyar;kQ;:kryAxiH)}	karaNIyA{swrI}{1;eka}	viSeRaNam,3	karaNIya					
+8	अनघ	1		अनघ{पुं}{8;एक}/अनघ{नपुं}{8;एक}	अनघ{पुं}{8;एक}	सम्बोध्यः,3.1	हे_निष्पाप	औ_सिन्लेस्स्_ओने	<न-अघ>भ्स्म्न्			
+2	अस्मिन्	2		इदम्{पुं}{7;एक}/इदम्{नपुं}{7;एक}	इदम्{पुं}{7;एक}	विशेषणम्,1	इस	ट्हिस्				
+1	लोके	3	लोकेऽस्मिन्द्विविधा	लोक{पुं}{7;एक}/लोक्1{कर्तरि;लट्;उ;एक;आत्मनेपदी;लोकृँ;भ्वादिः}	लोक{पुं}{7;एक}	अधिकरणम्,3.1	लोक_में	इन्_तोर्ल्ड्				
+5	पुरा	4	पुरा	पुरा{अव्य}/पुर्{स्त्री}{3;एक}/पुरा{स्त्री}{1;एक}	पुरा{अव्य}	कालाधिकरणम्,6	पहले	इन्_ट्हे_पस्ट्				
+7	मया	5	मयानघ	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,6	मेरे_द्वारा	ब्य्_मे				
+6	प्रोक्ता	6	प्रोक्ता	प्रोक्ता{स्त्री}{1;एक}	प्र_वच्1{कृत्_प्रत्ययः:क्त;प्र_वचँ;अदादिः}{स्त्री}{1;एक}	विशेषणम्,4	कही_गयी_है	हवे_बेएन्_एनुन्चिअटेड्				
+4	निष्ठा	7	निष्ठा	निष्ठा{स्त्री}{1;एक}	निष्ठा{स्त्री}{1;एक}	कर्ता,3.1	निष्ठा	शड्हन_(स्पिरिटुअल्_डिस्चिप्लिने)				
+10	साङ्ख्यानाम्	8	साङ्ख्यानां	साङ्ख्य{पुं}{6;बहु}/साङ्ख्य{नपुं}{6;बहु}/साङ्ख्या{स्त्री}{6;बहु}	साङ्ख्य{नपुं}{6;बहु}	षष्ठीसम्बन्धः,9	साङ्ख्ययोगियों_की	ट्हे_चसे_ओङ्_ट्हे_शन्क्ह्ययोगि				
+9	ज्ञानयोगेन	9	ज्ञानयोगेन	ज्ञान-योग{पुं}{3;एक}	ज्ञान-योग{पुं}{3;एक}	करणम्,12.1	ज्ञानयोग_से	अलोन्ग्_ट्हे_पट्ह्_ओङ्_ख्नोत्लेड्गे	<ज्ञान-योगेन>ख्6			
+12	योगिनाम्	10	योगिनाम्	योगिन्{पुं}{6;बहु}	योगिन्{पुं}{6;बहु}	षष्ठीसम्बन्धः,11	योगियों_की	ट्हे_चसे_ओङ्_ट्हे_खर्मयोगि				
+11	कर्मयोगेन	11	कर्मयोगेन	कर्मन्-योग{पुं}{3;एक}	कर्मन्-योग{पुं}{3;एक}	करणम्,12.1	कर्मयोग_से	अलोन्ग्_ट्हे_पट्ह्_ओङ्_आच्टिओन्	<कर्म-योगेन>ख्6			
+3	द्विविधा	12		द्विविधा{स्त्री}{1;एक}	द्विविधा{स्त्री}{1;एक}	समुच्चितः,4	दो_प्रकार_की	ट्तो_चोउर्सेस्_ओङ्	<द्वि-विधा>भ्स्6			
+3.1	(भवति)	13	()	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहित_कर्ता,7	(होती_है)	प्रोचेएड्स्_अलोन्ग्				
+12.1	(करणीया)	14	()	करणीया{स्त्री;1;एक(कॄ1;अनीयर्;कॄ;:तुदादिः)}/करणीया{स्त्री;1;एक(कृ3;अनीयर्;डुकृञ्;:तनादिः)}/करणीया{स्त्री;1;एक(कृ2;अनीयर्;कृञ्;:स्वादिः)}/करणीया{स्त्री;1;एक(कृ1;अनीयर्;कृञ्;:भ्वादिः)}/करणीया{स्त्री;1;एक(कॄ2;अनीयर्;कॄञ्;:क्र्यादिः)}/करणीया{स्त्री;1;एक(कॄ3;अनीयर्;कॄ;:क्र्यादिः)}	करणीया{स्त्री}{1;एक}	विशेषणम्,3	करणीय					

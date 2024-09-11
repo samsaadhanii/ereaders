@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	Awma-samBAviwAH	2	AwmasaMBAviwAH	Awman-samBAviwa{puM}{1;bahu}/samBAviwa{puM}{8;bahu}/samBAviwA{swrI}{1;bahu}/samBAviwA{swrI}{2;bahu}/samBAviwA{swrI}{8;bahu}	Awman-samBAviwa{puM}{1;bahu}	sup_samucciwaH,3	apane-Apako_hI_SreRTa_mAnanevAle	self-complacent	<Awma-samBAviwAH>T3			
-2	swabXAH	3	swabXA	swabXA{swrI}{1;bahu}/swabXA{swrI}{2;bahu}/swabXA{swrI}{8;bahu}	swamB1{kqw_prawyayaH:kwa;RtaBiz;BvAxiH;puM}{1;bahu}	sup_samucciwaH,3	GamaNdI_puruRa	impudent				
-3	Xana-mAna-maxa-anviwAH	4	XanamAnamaxAnviwAH	XanamAna-maxa-anviwa{puM}{1;bahu}/anviwa{puM}{8;bahu}/anviwA{swrI}{1;bahu}/anviwA{swrI}{2;bahu}/anviwA{swrI}{8;bahu}	Xana-mAna-maxa-anviwa{puM}{1;bahu}	karwA,4	Xana_Ora_mAna_ke_maxa_se_yukwa_hokara	absorbed_in_wealth,_false_prestige_and_pride	<<Xana-mAna-maxa>Di-anviwAH>T3			
-3.1	(ca)	5	()	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,3	(Ora)	also				
-4	yajanwe	9	yajanwe	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	aBihiwakarwA,3;akarmakaH	yajana_karawe_hEM	perform_sacrifices				
-5	nAma-yajFEH	6	nAmayajFEswe	nAman-yajFa{puM}{3;bahu}	nAman-yajFa{puM}{3;bahu}	karaNam,4	kevala_nAmamAwra_ke_yajFoM_xvArA	with_sacrifice_in_name_only	<nAma-yajFEH>Km			
-6	we	1	0	wax{puM}{1;bahu}	wax{puM}{1;bahu}	karwA,4	ve	they				
-7	xamBena	7	xamBenAviXipUrvakam	xamBa{puM}{3;eka}	xamBa{puM}{3;eka}	hewuH,4	pAKaNda_se	out_of_pride				
-8	a-viXi-pUrvakam	8	0	a-viXi-pUrvakam	na-viXi-pUrvaka{avya}	kriyAviSeRaNam,4	SAswraviXirahiwa	without_following_any_rules_and_regulations	<na-<viXi-pUrvakam>Bs6>Tn			
+1	आत्म-सम्भाविताः	2	आत्मसंभाविताः	आत्मन्-सम्भावित{पुं}{1;बहु}/सम्भावित{पुं}{8;बहु}/सम्भाविता{स्त्री}{1;बहु}/सम्भाविता{स्त्री}{2;बहु}/सम्भाविता{स्त्री}{8;बहु}	आत्मन्-सम्भावित{पुं}{1;बहु}	सुप्_समुच्चितः,3	अपने-आपको_ही_श्रेष्ठ_माननेवाले	सेल्ङ्-चोम्प्लचेन्ट्	<आत्म-सम्भाविताः>ठ्3			
+2	स्तब्धाः	3	स्तब्धा	स्तब्धा{स्त्री}{1;बहु}/स्तब्धा{स्त्री}{2;बहु}/स्तब्धा{स्त्री}{8;बहु}	स्तम्भ्1{कृत्_प्रत्ययः:क्त;ष्टभिँ;भ्वादिः;पुं}{1;बहु}	सुप्_समुच्चितः,3	घमण्डी_पुरुष	इम्पुडेन्ट्				
+3	धन-मान-मद-अन्विताः	4	धनमानमदान्विताः	धनमान-मद-अन्वित{पुं}{1;बहु}/अन्वित{पुं}{8;बहु}/अन्विता{स्त्री}{1;बहु}/अन्विता{स्त्री}{2;बहु}/अन्विता{स्त्री}{8;बहु}	धन-मान-मद-अन्वित{पुं}{1;बहु}	कर्ता,4	धन_और_मान_के_मद_से_युक्त_होकर	अब्सोर्बेड्_इन्_तेअल्ट्ह्,_ङल्से_प्रेस्टिगे_अन्ड्_प्रिडे	<<धन-मान-मद>ढि-अन्विताः>ठ्3			
+3.1	(च)	5	()	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,3	(और)	अल्सो				
+4	यजन्ते	9	यजन्ते	यज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;यजँ;भ्वादिः}	यज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;यजँ;भ्वादिः}	अभिहितकर्ता,3;अकर्मकः	यजन_करते_हैं	पेर्ङोर्म्_सच्रिङिचेस्				
+5	नाम-यज्ञैः	6	नामयज्ञैस्ते	नामन्-यज्ञ{पुं}{3;बहु}	नामन्-यज्ञ{पुं}{3;बहु}	करणम्,4	केवल_नाममात्र_के_यज्ञों_द्वारा	तिट्ह्_सच्रिङिचे_इन्_नमे_ओन्ल्य्	<नाम-यज्ञैः>ख्म्			
+6	ते	1	0	तद्{पुं}{1;बहु}	तद्{पुं}{1;बहु}	कर्ता,4	वे	ट्हेय्				
+7	दम्भेन	7	दम्भेनाविधिपूर्वकम्	दम्भ{पुं}{3;एक}	दम्भ{पुं}{3;एक}	हेतुः,4	पाखण्ड_से	ओउट्_ओङ्_प्रिडे				
+8	अ-विधि-पूर्वकम्	8	0	अ-विधि-पूर्वकम्	न-विधि-पूर्वक{अव्य}	क्रियाविशेषणम्,4	शास्त्रविधिरहित	तिट्होउट्_ङोल्लोतिन्ग्_अन्य्_रुलेस्_अन्ड्_रेगुलटिओन्स्	<न-<विधि-पूर्वकम्>भ्स्6>ठ्न्			

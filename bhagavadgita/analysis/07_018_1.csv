@@ -1,24 +1,24 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	uxArAH	4	uxArAH	uxAra{puM}{1;bahu}/uxAra{puM}{8;bahu}	uxAra{puM}{1;bahu}	viXeya_viSeRaNam,4.1	uxAra	magnanimous				
-2	sarve	2	sarva	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,4.1	saba	all				
-3	eva	3	evEwe	eva{avya}	eva{avya}	sambanXaH,2	hI	certainly				
-4	ewe	1	0	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{puM}{1;bahu}	viSeRaNam,2	ye	these				
-4.1	(sanwi)	4	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,2	(hEM)	are				
-5	jFAnI	5	jFAnI	jFAnin{puM}{1;eka}	jFAnin{puM}{1;eka}	karwA,8.1	jFAnI	one_who_is_in_knowledge				
-6	wu	6	wvAwmEva	wu{avya}	wu{avya}	sambanXaH,8.1	paraMwu	but				
-6.1	(mama)	7	(0)	(asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH})	(asmax{6;eka})	RaRTIsambanXaH,7	(merA_svarUpa)	mine				
-7	AwmA	9	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	viXeya_viSeRaNam,8.1	AwmA	soul				
-8	eva	8	0	eva{avya}	eva{avya}	sambanXaH,6.1	hI	just_like				
-8.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	vAkyakarma,10	(hE)	is				
-8.2	(iwi)	11	(0)	(iwi{avya})	(iwi{avya})	vAkyakarma_xyowakaH,8.1	(EsA)	thus				
-9	me	12	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,10	merA	my				
-10	mawam	13	mawam	mawa{puM}{2;eka}/mawa{napuM}{1;eka}/mawa{napuM}{2;eka}	mawa{napuM}{1;eka}	karwA,10.1	mawa	opinion				
-10.1	(aswi)	14	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,10	(hE)	is				
-11	AsWiwaH	22	AsWiwaH	AsWiwa{puM}{1;eka}	AsWiwa{puM}{1;eka}	aBihiwa_karwA,12	acCI_prakAra_sWiwa_hE	situated				
-12	saH	16	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,11	vaha	he				
-13	hi	15	hi	hi{avya}	hi{avya}	sambanXaH,12	kyoMki	certainly				
-14	yukwa-AwmA	17	yukwAwmA	yukwa-Awman{puM}{1;eka}	yukwa-Awman{puM}{1;eka}	viSeRaNam,12	maxgawa_manabuxXivAlA_(jFAnI_Bakwa)	engaged_in_devotional_service	<yukwa-AwmA>Bs6			
-15	mAm	20	mAmevAnuwwamAM	asmax{2;eka}	asmax{2;eka}	karma,11	muJameM	unto_Me				
-16	eva	21	0	eva{avya}	eva{avya}	sambanXaH,15	hI	certainly				
-17	an-uwwamAm	18	0	an-{avya}-uwwamA{swrI}{2;eka}	anuwwamA{swrI}{2;eka}	viSeRaNam,18	awi_uwwama	the_highest_goal	<na-uwwamAm>Bsmn			
-18	gawim	19	gawim	gawi{swrI}{2;eka}	gawi{swrI}{2;eka}	viSeRaNam,15	gawisvarUpa	destination				
+1	उदाराः	4	उदाराः	उदार{पुं}{1;बहु}/उदार{पुं}{8;बहु}	उदार{पुं}{1;बहु}	विधेय_विशेषणम्,4.1	उदार	मग्ननिमोउस्				
+2	सर्वे	2	सर्व	सर्व{पुं}{1;बहु}/सर्व{नपुं}{1;द्वि}/सर्व{नपुं}{2;द्वि}/सर्वा{स्त्री}{1;द्वि}/सर्वा{स्त्री}{2;द्वि}	सर्व{पुं}{1;बहु}	कर्ता,4.1	सब	अल्ल्				
+3	एव	3	एवैते	एव{अव्य}	एव{अव्य}	सम्बन्धः,2	ही	चेर्टइन्ल्य्				
+4	एते	1	0	एता{स्त्री}{1;द्वि}/एता{स्त्री}{2;द्वि}/एतद्{पुं}{1;बहु}/एतद्{स्त्री}{1;द्वि}/एतद्{स्त्री}{2;द्वि}/एतद्{नपुं}{1;द्वि}/एतद्{नपुं}{2;द्वि}	एतद्{पुं}{1;बहु}	विशेषणम्,2	ये	ट्हेसे				
+4.1	(सन्ति)	4	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/सत्{नपुं}{8;बहु}/सन्ती{स्त्री}{8;एक}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,2	(हैं)	अरे				
+5	ज्ञानी	5	ज्ञानी	ज्ञानिन्{पुं}{1;एक}	ज्ञानिन्{पुं}{1;एक}	कर्ता,8.1	ज्ञानी	ओने_त्हो_इस्_इन्_क्नोत्लेड्गे				
+6	तु	6	त्वात्मैव	तु{अव्य}	तु{अव्य}	सम्बन्धः,8.1	परंतु	बुट्				
+6.1	(मम)	7	(0)	(अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः})	(अस्मद्{6;एक})	षष्ठीसम्बन्धः,7	(मेरा_स्वरूप)	मिने				
+7	आत्मा	9	0	आत्मन्{पुं}{1;एक}	आत्मन्{पुं}{1;एक}	विधेय_विशेषणम्,8.1	आत्मा	सोउल्				
+8	एव	8	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,6.1	ही	जुस्ट्_लिके				
+8.1	(अस्ति)	10	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	वाक्यकर्म,10	(है)	इस्				
+8.2	(इति)	11	(0)	(इति{अव्य})	(इति{अव्य})	वाक्यकर्म_द्योतकः,8.1	(ऐसा)	ट्हुस्				
+9	मे	12	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,10	मेरा	म्य्				
+10	मतम्	13	मतम्	मत{पुं}{2;एक}/मत{नपुं}{1;एक}/मत{नपुं}{2;एक}	मत{नपुं}{1;एक}	कर्ता,10.1	मत	ओपिनिओन्				
+10.1	(अस्ति)	14	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,10	(है)	इस्				
+11	आस्थितः	22	आस्थितः	आस्थित{पुं}{1;एक}	आस्थित{पुं}{1;एक}	अभिहित_कर्ता,12	अच्छी_प्रकार_स्थित_है	सिटुअटेड्				
+12	सः	16	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,11	वह	हे				
+13	हि	15	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,12	क्योंकि	चेर्टइन्ल्य्				
+14	युक्त-आत्मा	17	युक्तात्मा	युक्त-आत्मन्{पुं}{1;एक}	युक्त-आत्मन्{पुं}{1;एक}	विशेषणम्,12	मद्गत_मनबुद्धिवाला_(ज्ञानी_भक्त)	एन्गगेड्_इन्_डेवोटिओनल्_सेर्विचे	<युक्त-आत्मा>भ्स्6			
+15	माम्	20	मामेवानुत्तमां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,11	मुझमें	उन्टो_ंए				
+16	एव	21	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,15	ही	चेर्टइन्ल्य्				
+17	अन्-उत्तमाम्	18	0	अन्-{अव्य}-उत्तमा{स्त्री}{2;एक}	अनुत्तमा{स्त्री}{2;एक}	विशेषणम्,18	अति_उत्तम	ट्हे_हिग्हेस्ट्_गोअल्	<न-उत्तमाम्>भ्स्म्न्			
+18	गतिम्	19	गतिम्	गति{स्त्री}{2;एक}	गति{स्त्री}{2;एक}	विशेषणम्,15	गतिस्वरूप	डेस्टिनटिओन्				

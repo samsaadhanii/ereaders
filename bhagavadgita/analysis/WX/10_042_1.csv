@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aWavA	1	aWavA	aWavA{avya}	aWavA{avya}	sambanXaH,16	aWavA	or				
+2	bahunA	4	bahunEwena	bahunA{avya}/bahu{puM}{3;eka}/bahu{swrI}{3;eka}/bahu{napuM}{3;eka}	bahu{puM}{3;eka}	viSeRaNam,5	bahuwa	many				
+3	ewena	3	0	ewax{puM}{3;eka}/ewax{napuM}{3;eka}	ewax{puM}{3;eka}	viSeRaNam,5	isa	by_this_kind				
+4	kim	7	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	prayojanam,8.1	kyA_(prayojana_hE)	what				
+5	jFAwena	5	jFAwena	jFAwa{puM}{3;eka}/jFAwa{napuM}{3;eka}	jFA2{kqw_prawyayaH:kwa;jFA;kryAxiH;puM}{3;eka}	hewuH,8.1	jAnane_se	knowing				
+6	wava	6	wavArjuna	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,5	werA	you				
+7	arjuna	2	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,8.1	he_arjuna	O_Arjuna				
+8.1	(aswi)	8	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				
+8	viRtaBya	14	viRtaByAhamixaM	viRtaBya	vi_swamB1{kqw_prawyayaH:lyap;vi_RtaBiz;BvAxiH}	pUrvakAlaH,13	XAraNa_karake	entire				
+9	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,13	mEM	I				
+10	ixam	10	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,14	isa	this				
+11	kqwsnam	11	kqwsnamekAMSena	kqwsna{napuM}{1;eka}/kqwsna{napuM}{2;eka}	kqwsna{napuM}{2;eka}	viSeRaNam,14	sampUrNa	of_all_manifestations				
+12	eka-aMSena	13	0	ekAMSa{puM}{3;eka}	eka-aMSa{puM}{3;eka}	karaNam,8	eka_aMSamAwra_se	with_one_part				
+13	sWiwaH	15	sWiwo	sWiwa{puM}{1;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;eka}	aBihiwakarwA,9;akarmakaH	sWiwa	situated				
+14	jagaw	12	jagaw	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,8	jagaw_ko_(apanI_yogaSakwi_ke)	in_the_universe				

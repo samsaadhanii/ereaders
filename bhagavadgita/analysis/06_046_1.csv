@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wapasviByaH	1	wapasviByoZXiko	wapasvin{puM}{4;bahu}/wapasvin{puM}{5;bahu}	wapasvin{puM}{5;bahu}	viBakwam,2	wapasviyoM_se	than_the_ascetic				
-2	aXikaH	2	0	aXika{puM}{1;eka}	aXika{puM}{1;eka}	karmasamAnAXikaraNam,3.1	SreRTa	greater				
-3	yogI	3	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karma,3.1	yogI	the_yogi				
-3.1	(mawaH)		()	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	aBihiwakarma,3						
-4	jFAniByaH	4	jFAniByoZpi	jFAnin{puM}{4;bahu}/jFAnin{puM}{5;bahu}	jFAnin{puM}{5;bahu}	viBakwam,7	SAswrajFAniyoM_se	than_the_wise				
-5	api	5	0	api{avya}	api{avya}	sambanXaH,4	BI	also				
-6	mawaH	11	mawoZXikaH	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}		mAnA_gayA_hE	considered				
-7	aXikaH	6	0	aXika{puM}{1;eka}	aXika{puM}{1;eka}	karmasamAnAXikaraNam,6	SreRTa	greater_than				
-7.1	(yogI)		()	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karma,6						
-8	karmiByaH	7	karmiByaScAXiko	karmin{puM}{4;bahu}/karmin{puM}{5;bahu}	karmin{puM}{5;bahu}	viBakwam,10	sakAma_karma_karanevAloM_se_BI	than_the_fruitive_worker				
-9	ca	8	ca	ca{avya}	ca{avya}	sambanXaH,11	Ora	also				
-10	aXikaH	9	0	aXika{puM}{1;eka}	aXika{puM}{1;eka}	karmasamAnAXikaraNam,11.1	SreRTa	greater_than				
-11	yogI	10	yogI	yogin{puM}{1;eka}	yogin{puM}{1;eka}	karma,11.1	yogI	the_yogi				
-11.1	(mawaH)		()	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	mawa{puM;1;eka(man2;kwa;manuz;:wanAxiH)}	aBihiwakarma,11						
-12	wasmAw	12	wasmAxyogI	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wasmAw{avya}	hewuH,14	isase	therefore				
-13	yogI	13	0	yogin{puM}{1;eka}	yogin{puM}{1;eka}	viXeya_viSeRaNam,14	yogI	a_transcendentalist				
-14	Bava	14	BavArjuna	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,13;akarmakaH	ho	just_become				
-15	arjuna	15		arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,14	he_arjuna	O_Arjuna				
+1	तपस्विभ्यः	1	तपस्विभ्योऽधिको	तपस्विन्{पुं}{4;बहु}/तपस्विन्{पुं}{5;बहु}	तपस्विन्{पुं}{5;बहु}	विभक्तम्,2	तपस्वियों_से	ट्हन्_ट्हे_अस्चेटिच्				
+2	अधिकः	2	0	अधिक{पुं}{1;एक}	अधिक{पुं}{1;एक}	कर्मसमानाधिकरणम्,3.1	श्रेष्ठ	ग्रेअटेर्				
+3	योगी	3	योगी	योगिन्{पुं}{1;एक}	योगिन्{पुं}{1;एक}	कर्म,3.1	योगी	ट्हे_योगि				
+3.1	(मतः)		()	मत{पुं;1;एक(मन्2;क्त;मनुँ;:तनादिः)}	मत{पुं;1;एक(मन्2;क्त;मनुँ;:तनादिः)}	अभिहितकर्म,3						
+4	ज्ञानिभ्यः	4	ज्ञानिभ्योऽपि	ज्ञानिन्{पुं}{4;बहु}/ज्ञानिन्{पुं}{5;बहु}	ज्ञानिन्{पुं}{5;बहु}	विभक्तम्,7	शास्त्रज्ञानियों_से	ट्हन्_ट्हे_तिसे				
+5	अपि	5	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,4	भी	अल्सो				
+6	मतः	11	मतोऽधिकः	मत{पुं;1;एक(मन्2;क्त;मनुँ;:तनादिः)}	मत{पुं;1;एक(मन्2;क्त;मनुँ;:तनादिः)}		माना_गया_है	चोन्सिडेरेड्				
+7	अधिकः	6	0	अधिक{पुं}{1;एक}	अधिक{पुं}{1;एक}	कर्मसमानाधिकरणम्,6	श्रेष्ठ	ग्रेअटेर्_ट्हन्				
+7.1	(योगी)		()	योगिन्{पुं}{1;एक}	योगिन्{पुं}{1;एक}	कर्म,6						
+8	कर्मिभ्यः	7	कर्मिभ्यश्चाधिको	कर्मिन्{पुं}{4;बहु}/कर्मिन्{पुं}{5;बहु}	कर्मिन्{पुं}{5;बहु}	विभक्तम्,10	सकाम_कर्म_करनेवालों_से_भी	ट्हन्_ट्हे_ङ्रुइटिवे_तोर्केर्				
+9	च	8	च	च{अव्य}	च{अव्य}	सम्बन्धः,11	और	अल्सो				
+10	अधिकः	9	0	अधिक{पुं}{1;एक}	अधिक{पुं}{1;एक}	कर्मसमानाधिकरणम्,11.1	श्रेष्ठ	ग्रेअटेर्_ट्हन्				
+11	योगी	10	योगी	योगिन्{पुं}{1;एक}	योगिन्{पुं}{1;एक}	कर्म,11.1	योगी	ट्हे_योगि				
+11.1	(मतः)		()	मत{पुं;1;एक(मन्2;क्त;मनुँ;:तनादिः)}	मत{पुं;1;एक(मन्2;क्त;मनुँ;:तनादिः)}	अभिहितकर्म,11						
+12	तस्मात्	12	तस्माद्योगी	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तस्मात्{अव्य}	हेतुः,14	इससे	ट्हेरेङोरे				
+13	योगी	13	0	योगिन्{पुं}{1;एक}	योगिन्{पुं}{1;एक}	विधेय_विशेषणम्,14	योगी	अ_ट्रन्स्चेन्डेन्टलिस्ट्				
+14	भव	14	भवार्जुन	भू1{कर्तरि;लोट्;म;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लोट्;म;एक;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,13;अकर्मकः	हो	जुस्ट्_बेचोमे				
+15	अर्जुन	15		अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,14	हे_अर्जुन	औ_आर्जुन				

@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	inxriyANi	1	inxriyANi	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}/inxriya{napuM}{8;bahu}	inxriya{napuM}{1;bahu}	karwA,3	inxriyoM_ko_(sWUla_SarIra_se)	senses				
-2	parANi	2	parANyAhurinxriyeByaH	para{napuM}{1;bahu}/para{napuM}{2;bahu}/para{napuM}{8;bahu}/para{napuM}{1;bahu}/para{napuM}{2;bahu}/pQ3{karwari;lot;u;eka;parasmEpaxI;pQ;curAxiH}	para{napuM}{1;bahu}	viXeya_viSeRaNam,3	para	superior				
-3	AhuH	3	0	ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;bahu;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,1;sakarmakaH	kahawe_hEM	is_said				
-4	inxriyeByaH	4	0	inxriya{puM}{4;bahu}/inxriya{puM}{5;bahu}/inxriya{napuM}{4;bahu}/inxriya{napuM}{5;bahu}	inxriya{napuM}{5;bahu}	wulanA_binxuH,6	ina_inxriyoM_se	more_than_the_senses				
-5	paraM	5	paraM		para{napuM}{1; eka}	viXeya_viSeRaNam,6.1	para	superior				
-6	manaH	6	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	karwA,6.1	mana	the_mind				
-6.1	(aswi)	7	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,6;akarmakaH	(kahawe_hEM)	is_said				
-7	manasaH	8	manasaswu	manas{napuM}{5;eka}/manas{napuM}{6;eka}	manas{napuM}{5;eka}	wulanA_binxuH,10	mana_se	more_than_the_mind				
-8	wu	10	0	wu{avya}	wu{avya}	sambanXaH,10.1	BI	also				
-9	parA	9	parA	parA{swrI}{1;eka}/parA{swrI}{1;eka}	parA{swrI}{1;eka}	viXeya_viSeRaNam,10.1	para	superior				
-10	buxXiH	11	buxXiryo	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,10.1	buxXi	intelligence				
-10.1	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,10;akarmakaH	(hE)	is				
-11	yaH	14		"  	yax{puM}{1;eka}"	"  	yax{puM}{1;eka}"	karwA,14.1;niwya_sambanXaH,15	jo	he_who				
-12	buxXeH	15	buxXeH	buxXi{swrI}{5;eka}/buxXi{swrI}{6;eka}	buxXi{swrI}{5;eka}	wulanA_binxuH,11	buxXi_se	more_than_the_intelligence				
-13	parawaH	16	parawaswu	paraw{puM}{2;bahu}/paraw{puM}{5;eka}/paraw{puM}{6;eka}/paraw{napuM}{5;eka}/paraw{napuM}{6;eka}/pQ3{karwari;lat;pra;xvi;parasmEpaxI;pQ;curAxiH}	parawaH{avya}	viXeya_viSeRaNam,14.1	awyanwa_para	superior				
-14	wu	13	0	wu{avya}	wu{avya}	sambanXaH,14.1	paranwu 	but				
-14.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,11;akarmakaH	(hE)	is				
-15	saH	18	saH	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,15.1	vaha	that				
-15.1	(aswi)	20	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,15;akarmakaH	(hE)	is				
-15.2	(AwmA)	19	(0)	(Awman{puM}{1;eka})	(Awman{puM}{1;eka})	viXeya_viSeRaNam,15.1	(AwmA)	soul				
+1	इन्द्रियाणि	1	इन्द्रियाणि	इन्द्रिय{नपुं}{1;बहु}/इन्द्रिय{नपुं}{2;बहु}/इन्द्रिय{नपुं}{8;बहु}	इन्द्रिय{नपुं}{1;बहु}	कर्ता,3	इन्द्रियों_को_(स्थूल_शरीर_से)	सेन्सेस्				
+2	पराणि	2	पराण्याहुरिन्द्रियेभ्यः	पर{नपुं}{1;बहु}/पर{नपुं}{2;बहु}/पर{नपुं}{8;बहु}/पर{नपुं}{1;बहु}/पर{नपुं}{2;बहु}/पॄ3{कर्तरि;लोट्;उ;एक;परस्मैपदी;पॄ;चुरादिः}	पर{नपुं}{1;बहु}	विधेय_विशेषणम्,3	पर	सुपेरिओर्				
+3	आहुः	3	0	अह्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;अहँ;स्वादिः}/ब्रू1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;ब्रूञ्;अदादिः}	ब्रू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ब्रूञ्;अदादिः}	अभिहित_कर्ता,1;सकर्मकः	कहते_हैं	इस्_सइड्				
+4	इन्द्रियेभ्यः	4	0	इन्द्रिय{पुं}{4;बहु}/इन्द्रिय{पुं}{5;बहु}/इन्द्रिय{नपुं}{4;बहु}/इन्द्रिय{नपुं}{5;बहु}	इन्द्रिय{नपुं}{5;बहु}	तुलना_बिन्दुः,6	इन_इन्द्रियों_से	मोरे_ट्हन्_ट्हे_सेन्सेस्				
+5	परं	5	परं		पर{नपुं}{1; एक}	विधेय_विशेषणम्,6.1	पर	सुपेरिओर्				
+6	मनः	6	मनः	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}/मनस्{नपुं}{8;एक}	मनस्{नपुं}{1;एक}	कर्ता,6.1	मन	ट्हे_मिन्ड्				
+6.1	(अस्ति)	7	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,6;अकर्मकः	(कहते_हैं)	इस्_सइड्				
+7	मनसः	8	मनसस्तु	मनस्{नपुं}{5;एक}/मनस्{नपुं}{6;एक}	मनस्{नपुं}{5;एक}	तुलना_बिन्दुः,10	मन_से	मोरे_ट्हन्_ट्हे_मिन्ड्				
+8	तु	10	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,10.1	भी	अल्सो				
+9	परा	9	परा	परा{स्त्री}{1;एक}/परा{स्त्री}{1;एक}	परा{स्त्री}{1;एक}	विधेय_विशेषणम्,10.1	पर	सुपेरिओर्				
+10	बुद्धिः	11	बुद्धिर्यो	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	कर्ता,10.1	बुद्धि	इन्टेल्लिगेन्चे				
+10.1	(अस्ति)	12	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,10;अकर्मकः	(है)	इस्				
+11	यः	14		"  	यद्{पुं}{1;एक}"	"  	यद्{पुं}{1;एक}"	कर्ता,14.1;नित्य_सम्बन्धः,15	जो	हे_त्हो				
+12	बुद्धेः	15	बुद्धेः	बुद्धि{स्त्री}{5;एक}/बुद्धि{स्त्री}{6;एक}	बुद्धि{स्त्री}{5;एक}	तुलना_बिन्दुः,11	बुद्धि_से	मोरे_ट्हन्_ट्हे_इन्टेल्लिगेन्चे				
+13	परतः	16	परतस्तु	परत्{पुं}{2;बहु}/परत्{पुं}{5;एक}/परत्{पुं}{6;एक}/परत्{नपुं}{5;एक}/परत्{नपुं}{6;एक}/पॄ3{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;पॄ;चुरादिः}	परतः{अव्य}	विधेय_विशेषणम्,14.1	अत्यन्त_पर	सुपेरिओर्				
+14	तु	13	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,14.1	परन्तु 	बुट्				
+14.1	(अस्ति)	17	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,11;अकर्मकः	(है)	इस्				
+15	सः	18	सः	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,15.1	वह	ट्हट्				
+15.1	(अस्ति)	20	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,15;अकर्मकः	(है)	इस्				
+15.2	(आत्मा)	19	(0)	(आत्मन्{पुं}{1;एक})	(आत्मन्{पुं}{1;एक})	विधेय_विशेषणम्,15.1	(आत्मा)	सोउल्				

@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kroXAw	1	kroXAxBavawi	kroXa{puM}{5;eka}/kroXa{napuM}{5;eka}	kroXa{puM;5;eka}	hewuH,2	kroXa_se	from_anger				
-2	Bavawi	3	0	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,2	uwpanna_ho_jAwA_hE	arises				
-3	sammohaH	2	sammohaH	sammoha{puM}{1;eka}	sammoha{puM;1;eka(muh1;GaF;muhaz;:xivAxiH)}	karwA,2	awyanwa_mUDa़BAva	delusion				
-4	sammohAw	4	sammohAwsmqwiviBramaH	sammoha{puM}{5;eka}	sammoha{puM;5;eka(muh1;GaF;muhaz;:xivAxiH)}	hewuH,5.1	mUDa़BAva_se	from_delusion				
-5	smqwi-viBramaH	5	0	smqwi-viBrama{puM}{1;eka}	smqwi-viBrama{puM;1;eka}	karwA,5.1	smqwi_meM_Brama	confusion_of_memory	<smqwi-viBramaH>T6			
-5.1	(Bavawi)	6	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,5	(ho_jAwA_hE)	takes_place				
-6	smqwi-BraMSAw	7	smqwiBraMSAxbuxXinASo	smqwi-BraMSa{puM}{5;eka}	smqwi-BraMSa{puM;5;eka}	hewuH,7.1	smqwi_meM_Brama_ho_jAne_se	from_confusion_of_memory	<smqwi-BraMSAw>T6			
-7	buxXi-nASaH	8	0	buxXi-nASa{puM}{1;eka}	buxXi-nASa{puM;1;eka}	karwA,7.1	buxXi_kA_nASa	loss_of_reason	<buxXi-nASaH>T6			
-7.1	(Bavawi)	9	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,7.1	(ho_jAwA_hE)	takes_place				
-8	buxXi-nASAw	10	buxXinASAwpraNaSyawi	buxXi-nASa{puM}{5;eka}	buxXi-nASa{puM;5;eka}	hewuH,9	buxXi_kA_nASa_hone_se	from_loss_of_reason	<buxXi-nASAw>T6			
-9	praNaSyawi	12	0	praNaSyawi	pra_naS1{karwari;lat;pra;eka;parasmEpaxI;pra_NaSaz;xivAxiH}	aBihiwa_karwA,9.1	naRta_ho_jAwA_hE	is_completely_ruined				
-9.1	(saH)	11	(0)	(wax{puM}{1;eka})	wax{puM;1;eka}	karwA,9	(vaha)	he				
+1	क्रोधात्	1	क्रोधाद्भवति	क्रोध{पुं}{5;एक}/क्रोध{नपुं}{5;एक}	क्रोध{पुं;5;एक}	हेतुः,2	क्रोध_से	ङ्रोम्_अन्गेर्				
+2	भवति	3	0	भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहित_कर्ता,2	उत्पन्न_हो_जाता_है	अरिसेस्				
+3	सम्मोहः	2	सम्मोहः	सम्मोह{पुं}{1;एक}	सम्मोह{पुं;1;एक(मुह्1;घञ्;मुहँ;:दिवादिः)}	कर्ता,2	अत्यन्त_मूढॆअञभाव	डेलुसिओन्				
+4	सम्मोहात्	4	सम्मोहात्स्मृतिविभ्रमः	सम्मोह{पुं}{5;एक}	सम्मोह{पुं;5;एक(मुह्1;घञ्;मुहँ;:दिवादिः)}	हेतुः,5.1	मूढॆअञभाव_से	ङ्रोम्_डेलुसिओन्				
+5	स्मृति-विभ्रमः	5	0	स्मृति-विभ्रम{पुं}{1;एक}	स्मृति-विभ्रम{पुं;1;एक}	कर्ता,5.1	स्मृति_में_भ्रम	चोन्ङुसिओन्_ओङ्_मेमोर्य्	<स्मृति-विभ्रमः>ठ्6			
+5.1	(भवति)	6	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहित_कर्ता,5	(हो_जाता_है)	टकेस्_प्लचे				
+6	स्मृति-भ्रंशात्	7	स्मृतिभ्रंशाद्बुद्धिनाशो	स्मृति-भ्रंश{पुं}{5;एक}	स्मृति-भ्रंश{पुं;5;एक}	हेतुः,7.1	स्मृति_में_भ्रम_हो_जाने_से	ङ्रोम्_चोन्ङुसिओन्_ओङ्_मेमोर्य्	<स्मृति-भ्रंशात्>ठ्6			
+7	बुद्धि-नाशः	8	0	बुद्धि-नाश{पुं}{1;एक}	बुद्धि-नाश{पुं;1;एक}	कर्ता,7.1	बुद्धि_का_नाश	लोस्स्_ओङ्_रेअसोन्	<बुद्धि-नाशः>ठ्6			
+7.1	(भवति)	9	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहित_कर्ता,7.1	(हो_जाता_है)	टकेस्_प्लचे				
+8	बुद्धि-नाशात्	10	बुद्धिनाशात्प्रणश्यति	बुद्धि-नाश{पुं}{5;एक}	बुद्धि-नाश{पुं;5;एक}	हेतुः,9	बुद्धि_का_नाश_होने_से	ङ्रोम्_लोस्स्_ओङ्_रेअसोन्	<बुद्धि-नाशात्>ठ्6			
+9	प्रणश्यति	12	0	प्रणश्यति	प्र_नश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;प्र_णशँ;दिवादिः}	अभिहित_कर्ता,9.1	नष्ट_हो_जाता_है	इस्_चोम्प्लेटेल्य्_रुइनेड्				
+9.1	(सः)	11	(0)	(तद्{पुं}{1;एक})	तद्{पुं;1;एक}	कर्ता,9	(वह)	हे				

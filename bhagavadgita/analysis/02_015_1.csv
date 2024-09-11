@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yam	3	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	viSeRaNam,6;niwya_sambanXaH,10	jisa	to_whom				
-2	hi	2	hi	hi{avya}	hi{avya}	sambanXaH,4	kyoMki	because				
-3	na	8	na	na{avya}	na{avya}	prawiReXaH,4	nahIM	not				
-4	vyaWayanwi	9	vyaWayanwyewe	vyaW1_Nic{karwari;lat;pra;bahu;parasmEpaxI;vyaWaz;BvAxiH}	vyaW1_Nic{karwari;lat;pra;bahu;parasmEpaxI;vyaWaz_Nic;BvAxiH}	aBihiwakarwA,5;sakarmakaH	vyAkula_karawe	is_tormented				
-5	ewe	7	0	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewA{swrI}{8;eka}/ewA{swrI}{8;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{napuM}{2;xvi}	karwA,4	ye	these				
-6	puruRam	6	puruRaM	puruRa{puM}{2;eka}	puruRa{puM}{2;eka}	karma,4	puruRa_ko	to_man				
-7	puruRa-qRaBa	1	puruRarRaBa	puruRarRaBa{puM}{8;eka}	puruRarRaBa{puM}{8;eka}	samboXyaH,4	he_puruRaSreRTa	O_best_among_men	<puruRa-qRaBa>K5			
-8	sama-xuHKa-suKam	4	samaxuHKasuKaM	sama-xuHKa-suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	sama-xuHKa-suKa{puM}{2;eka}	viSeRaNam,6	xuHKa-suKa_ko_samAna_samaJanevAle	one_to_whom_pain_and_pleasure_are_alike	<sama-<xuHKa-suKam>Di>Bs6			
-9	XIram	5	XIraM	XIra{puM}{2;eka}/XIra{napuM}{1;eka}/XIra{napuM}{2;eka}	XIra{puM}{2;eka}	viSeRaNam,6	XIra	to_the_wise				
-10	saH	10	soZmqwawvAya	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,12	vaha	he				
-11	amqwawvAya	11	0	amqwawva{napuM}{4;eka}	amqwawva{napuM}{4;eka}	prayojanam,12	mokRa_ke	for_immortality				
-12	kalpawe	12	kalpawe	kalpawA{swrI}{1;xvi}/kalpawA{swrI}{2;xvi}/kalpawA{swrI}{8;eka}/kalpawA{swrI}{8;xvi}/kqp1{karwari;lat;pra;eka;AwmanepaxI;kqpUz;BvAxiH}	kqp1{karwari;lat;pra;eka;AwmanepaxI;kqpUz;BvAxiH}	aBihiwakarwA,10;akarmakaH	yogya_howA_hE	becomes_eligible				
+1	यम्	3	यं	यद्{पुं}{2;एक}	यद्{पुं}{2;एक}	विशेषणम्,6;नित्य_सम्बन्धः,10	जिस	टो_त्होम्				
+2	हि	2	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,4	क्योंकि	बेचउसे				
+3	न	8	न	न{अव्य}	न{अव्य}	प्रतिषेधः,4	नहीं	नोट्				
+4	व्यथयन्ति	9	व्यथयन्त्येते	व्यथ्1_णिच्{कर्तरि;लट्;प्र;बहु;परस्मैपदी;व्यथँ;भ्वादिः}	व्यथ्1_णिच्{कर्तरि;लट्;प्र;बहु;परस्मैपदी;व्यथँ_णिच्;भ्वादिः}	अभिहितकर्ता,5;सकर्मकः	व्याकुल_करते	इस्_टोर्मेन्टेड्				
+5	एते	7	0	एता{स्त्री}{1;द्वि}/एता{स्त्री}{2;द्वि}/एता{स्त्री}{8;एक}/एता{स्त्री}{8;द्वि}/एतद्{पुं}{1;बहु}/एतद्{स्त्री}{1;द्वि}/एतद्{स्त्री}{2;द्वि}/एतद्{नपुं}{1;द्वि}/एतद्{नपुं}{2;द्वि}	एतद्{नपुं}{2;द्वि}	कर्ता,4	ये	ट्हेसे				
+6	पुरुषम्	6	पुरुषं	पुरुष{पुं}{2;एक}	पुरुष{पुं}{2;एक}	कर्म,4	पुरुष_को	टो_मन्				
+7	पुरुष-ऋषभ	1	पुरुषर्षभ	पुरुषर्षभ{पुं}{8;एक}	पुरुषर्षभ{पुं}{8;एक}	सम्बोध्यः,4	हे_पुरुषश्रेष्ठ	औ_बेस्ट्_अमोन्ग्_मेन्	<पुरुष-ऋषभ>ख्5			
+8	सम-दुःख-सुखम्	4	समदुःखसुखं	सम-दुःख-सुखम्{अव्य}/सुख{पुं}{2;एक}/सुख{नपुं}{1;एक}/सुख{नपुं}{2;एक}	सम-दुःख-सुख{पुं}{2;एक}	विशेषणम्,6	दुःख-सुख_को_समान_समझनेवाले	ओने_टो_त्होम्_पइन्_अन्ड्_प्लेअसुरे_अरे_अलिके	<सम-<दुःख-सुखम्>ढि>भ्स्6			
+9	धीरम्	5	धीरं	धीर{पुं}{2;एक}/धीर{नपुं}{1;एक}/धीर{नपुं}{2;एक}	धीर{पुं}{2;एक}	विशेषणम्,6	धीर	टो_ट्हे_तिसे				
+10	सः	10	सोऽमृतत्वाय	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,12	वह	हे				
+11	अमृतत्वाय	11	0	अमृतत्व{नपुं}{4;एक}	अमृतत्व{नपुं}{4;एक}	प्रयोजनम्,12	मोक्ष_के	ङोर्_इम्मोर्टलिट्य्				
+12	कल्पते	12	कल्पते	कल्पता{स्त्री}{1;द्वि}/कल्पता{स्त्री}{2;द्वि}/कल्पता{स्त्री}{8;एक}/कल्पता{स्त्री}{8;द्वि}/कृप्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;कृपूँ;भ्वादिः}	कृप्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;कृपूँ;भ्वादिः}	अभिहितकर्ता,10;अकर्मकः	योग्य_होता_है	बेचोमेस्_एलिगिब्ले				

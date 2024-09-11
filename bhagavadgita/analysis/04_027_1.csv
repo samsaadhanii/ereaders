@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sarvANi	2	sarvANInxriya-karmANi	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{2;bahu}	viSeRaNam,2	samaswa	all				
-2	inxriya-karmANi	3		inxriya-karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	inxriya-karman{napuM}{2;bahu}	sup_samucciwaH,3	inxriyoM_kI_sampUrNa_kriyAoM_ko	functions_of_the_senses	<inxriya-karmANi>T6			
-3	prANa-karmANi	5	prANakarmANi	prANa-karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	prANa-karman{napuM}{2;bahu}	karma,7	prANoM_kI_samaswa_kriyAoM_ko	functions_of_the_life_breath	<prANa-karmANi>T6			
-4	ca	4	cApare	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	also				
-5	a-pare	1		apara{puM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/apara{napuM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}	apara{puM}{1;bahu}	karwA,7	xUsare_(yogIjana)	others	<na-pare>Tn			
-6	Awman-saMyama-yoga-agnO	7	AwmasaMyamayogAgnO	Awman-saMyama-yoga-agni{puM}{7;eka}	Awman-saMyama-yoga-agni{puM}{7;eka}	aXikaraNam,7	AwmasaMyama_yogarUpa_agni_meM	in_the_fire_of_controlling_the_mind_and_linking_process	<<<Awman-saMyama>T7-yoga>K6-agnO>K6			
-7	juhvawi	8	juhvawi	juhvaw{puM}{7;eka}/juhvaw{napuM}{7;eka}/hu1{karwari;lat;pra;bahu;parasmEpaxI;hu;juhowyAxiH}	hu1{karwari;lat;pra;bahu;parasmEpaxI;hu;juhowyAxiH}		havana_kiyA_karawe_hEM	offers				
-8	jFAna-xIpiwe	6	jFAnaxIpiwe	jFAna-xIpiwa{puM}{7;eka}/xIpiwa{napuM}{1;xvi}/xIpiwa{napuM}{2;xvi}/xIpiwa{napuM}{7;eka}/xIpiwA{swrI}{1;xvi}/xIpiwA{swrI}{2;xvi}	jFAna-xIpiwa{puM}{7;eka}	viSeRaNam,6	jFAna_se_prakASiwa	because_of_the_urge_for_self-realization	<jFAna-xIpiwe>T3			
+1	सर्वाणि	2	सर्वाणीन्द्रिय-कर्माणि	सर्व{नपुं}{1;बहु}/सर्व{नपुं}{2;बहु}/सर्व्1{कर्तरि;लोट्;उ;एक;परस्मैपदी;षर्वँ;भ्वादिः}	सर्व{नपुं}{2;बहु}	विशेषणम्,2	समस्त	अल्ल्				
+2	इन्द्रिय-कर्माणि	3		इन्द्रिय-कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}/कर्मन्{नपुं}{8;बहु}	इन्द्रिय-कर्मन्{नपुं}{2;बहु}	सुप्_समुच्चितः,3	इन्द्रियों_की_सम्पूर्ण_क्रियाओं_को	ङुन्च्टिओन्स्_ओङ्_ट्हे_सेन्सेस्	<इन्द्रिय-कर्माणि>ठ्6			
+3	प्राण-कर्माणि	5	प्राणकर्माणि	प्राण-कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}/कर्मन्{नपुं}{8;बहु}	प्राण-कर्मन्{नपुं}{2;बहु}	कर्म,7	प्राणों_की_समस्त_क्रियाओं_को	ङुन्च्टिओन्स्_ओङ्_ट्हे_लिङे_ब्रेअट्ह्	<प्राण-कर्माणि>ठ्6			
+4	च	4	चापरे	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	और	अल्सो				
+5	अ-परे	1		अपर{पुं}{7;एक}/अपर{नपुं}{1;द्वि}/अपर{नपुं}{2;द्वि}/अपर{नपुं}{7;एक}/अपर{नपुं}{1;द्वि}/अपर{नपुं}{2;द्वि}/अपरा{स्त्री}{1;द्वि}/अपरा{स्त्री}{2;द्वि}/अपरा{स्त्री}{1;द्वि}/अपरा{स्त्री}{2;द्वि}	अपर{पुं}{1;बहु}	कर्ता,7	दूसरे_(योगीजन)	ओट्हेर्स्	<न-परे>ठ्न्			
+6	आत्मन्-संयम-योग-अग्नौ	7	आत्मसंयमयोगाग्नौ	आत्मन्-संयम-योग-अग्नि{पुं}{7;एक}	आत्मन्-संयम-योग-अग्नि{पुं}{7;एक}	अधिकरणम्,7	आत्मसंयम_योगरूप_अग्नि_में	इन्_ट्हे_ङिरे_ओङ्_चोन्ट्रोल्लिन्ग्_ट्हे_मिन्ड्_अन्ड्_लिन्किन्ग्_प्रोचेस्स्	<<<आत्मन्-संयम>ठ्7-योग>ख्6-अग्नौ>ख्6			
+7	जुह्वति	8	जुह्वति	जुह्वत्{पुं}{7;एक}/जुह्वत्{नपुं}{7;एक}/हु1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;हु;जुहोत्यादिः}	हु1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;हु;जुहोत्यादिः}		हवन_किया_करते_हैं	ओङ्ङेर्स्				
+8	ज्ञान-दीपिते	6	ज्ञानदीपिते	ज्ञान-दीपित{पुं}{7;एक}/दीपित{नपुं}{1;द्वि}/दीपित{नपुं}{2;द्वि}/दीपित{नपुं}{7;एक}/दीपिता{स्त्री}{1;द्वि}/दीपिता{स्त्री}{2;द्वि}	ज्ञान-दीपित{पुं}{7;एक}	विशेषणम्,6	ज्ञान_से_प्रकाशित	बेचउसे_ओङ्_ट्हे_उर्गे_ङोर्_सेल्ङ्-रेअलिँअटिओन्	<ज्ञान-दीपिते>ठ्3			

@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	a-Pala-AkAfkRiBiH	9	aPalAkAfkRiBiryajFo	a-Pala-AkAfkRin{puM}{3;bahu}/AkAfkRin{napuM}{3;bahu}	na-Pala-AkAfkRin{puM}{3;bahu}	karwA,5	Pala_na_cAhanevAle_puruRoM_xvArA	devoid_of_desire_for_result	<a-<Pala-AkAfkRiBiH>U>Tn			
+2	yajFaH	3	0	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	karma,6	yajFa	sacrifice				
+3	viXi-xqRtaH	2	viXixqRto	viXi-xqRta{puM}{1;eka}	viXi-xqS1{kqw_prawyayaH:kwa;xqSizr;BvAxiH;puM}{1;eka}	viSeRaNam,2	SAswraviXi_se_niyawa	according_to_the_directions_of_the_scriptures	<viXi-xqRtaH>T3			
+4	yaH	1	ya	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,2;niwya_sambanXaH,11	jo	anyone				
+5	ijyawe	10	ijyawe	ijyawA{swrI}{1;xvi}/ijyawA{swrI}{2;xvi}/ijyawA{swrI}{8;eka}/ijyawA{swrI}{8;xvi}/yaj1{karmaNi;lat;pra;eka;AwmanepaxI;yajaz;BvAxiH}	yaj1{karmaNi;lat;pra;eka;AwmanepaxI;yajaz;BvAxiH}	aBihiwakarma,2,sakarmakaH	kiyA_jAwA_hE	performs				
+6	yaRtavyam	4	yaRtavyamevewi	yaRtavya{puM}{2;eka}/yaRtavya{napuM}{1;eka}/yaRtavya{napuM}{2;eka}	yaj1{kqw_prawyayaH:wavyaw;yajaz;BvAxiH;napuM}{1;eka}	vAkyakarma,10	karanA_karwavya_hE	must_be_performed				
+7	eva	5	0	eva{avya}	eva{avya}	sambanXaH,6	hI	certainly				
+8	iwi	6	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,6	isa_prakAra	thus				
+9	manaH	7	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{2;eka}	karma,10	mana_ko	mind				
+10	samAXAya	8	samAXAya	samAXAya	sam_Af_XA1{kqw_prawyayaH:lyap;sam_Af_duXAF;juhowyAxiH}	pUrvakAlaH,5	samAXAna_karake	fixed_in				
+11	saH	11	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,12.1	vaha	he				
+12	sAwwvikaH	12	sAwwvikaH	sAwwvika{puM}{1;eka}	sAwwvika{puM}{1;eka}	viXeya_viSeRaNam,12.1	sAwwvika	in_the_mode_of_goodness				
+12.1	(aswi)	13	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11,akarmakaH	(hE)	is				

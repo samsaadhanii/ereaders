@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yam	3	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	vIpsA,2	jisa	whatever				
-2	yam	4	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	viSeRaNam,6;niwya_sambanXaH,11	jisa	whatever				
-3	vA	5	vApi	vA{avya}	vA{avya}	sambanXaH,4	aWavA	either				
-4	api	6	0	api{avya}	api{avya}	sambanXaH,2	BI	also				
-5	smaran	8	smaranBAvaM	smaraw{puM}{1;eka}/smaraw{puM}{8;eka}	smq1{kqw_prawyayaH:Sawq;smq;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,7	smaraNa_karawA_huA	remembering				
-6	BAvam	7	0	BAva{puM}{2;eka}	BAva{puM}{2;eka}	karma,5	BAva_ko	nature				
-7	wyajawi	10	wyajawyanwe	wyajaw{puM}{7;eka}/wyajaw{napuM}{7;eka}/wyaj1{karwari;lat;pra;eka;parasmEpaxI;wyajaz;BvAxiH}	wyaj1{karwari;lat;pra;eka;parasmEpaxI;wyajaz;BvAxiH}		wyAga_karawA_hE	give_up				
-8	anwe	2	0	anwa{puM}{7;eka}/anwa{napuM}{1;xvi}/anwa{napuM}{2;xvi}/anwa{napuM}{7;eka}/anwa{napuM}{8;xvi}/anwi{swrI}{8;eka}/anwA{swrI}{1;xvi}/anwA{swrI}{2;xvi}/anwA{swrI}{8;eka}/anwA{swrI}{8;xvi}	anwa{puM}{7;eka}	aXikaraNam,7	anwakAla_meM	at_the_end				
-9	kalevaram	9	kalevaram	kalevara{puM}{2;eka}/kalevara{napuM}{1;eka}/kalevara{napuM}{2;eka}	kalevara{puM}{2;eka}	karma,7	SarIra_kA	this_body				
-10	wam	11	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	vIpsA,11	usako	similar				
-11	wam	12	wamevEwi	wax{puM}{2;eka}	wax{puM}{2;eka}	karma,13	usako					
-12	eva	13	0	eva{avya}	eva{avya}	sambanXaH,11	hI	certainly				
-13	ewi	14	0	i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}		prApwa_howA_hE	gets				
-14	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,7	he_kunwIpuwra_arjuna	O_son_of_Kunti				
-15	saxA	16	saxA	saxA{avya}	saxA{avya}	kriyAviSeRaNam,16.1	saxA	always				
-16	waw-BAva-BAviwaH	17	waxBAvaBAviwaH	waxBAvaBAviwaH	wax-BAva-BAviwa{puM}{1;eka}	viXeya_viSeRaNam,16.1	usI_BAva_se_BAviwa	remembering_that_state_of_being	<<wax-BAva>T7-BAviwaH>T3			
-16.1	(aswi)	18	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,16.2;akarmakaH	(hE)	is				
-16.2	(saH)	15	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,16.1	(vaha)	he				
+1	यम्	3	यं	यद्{पुं}{2;एक}	यद्{पुं}{2;एक}	वीप्सा,2	जिस	त्हटेवेर्				
+2	यम्	4	यं	यद्{पुं}{2;एक}	यद्{पुं}{2;एक}	विशेषणम्,6;नित्य_सम्बन्धः,11	जिस	त्हटेवेर्				
+3	वा	5	वापि	वा{अव्य}	वा{अव्य}	सम्बन्धः,4	अथवा	एइट्हेर्				
+4	अपि	6	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,2	भी	अल्सो				
+5	स्मरन्	8	स्मरन्भावं	स्मरत्{पुं}{1;एक}/स्मरत्{पुं}{8;एक}	स्मृ1{कृत्_प्रत्ययः:शतृ;स्मृ;भ्वादिः;पुं}{1;एक}	वर्तमानसमानकालः,7	स्मरण_करता_हुआ	रेमेम्बेरिन्ग्				
+6	भावम्	7	0	भाव{पुं}{2;एक}	भाव{पुं}{2;एक}	कर्म,5	भाव_को	नटुरे				
+7	त्यजति	10	त्यजत्यन्ते	त्यजत्{पुं}{7;एक}/त्यजत्{नपुं}{7;एक}/त्यज्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;त्यजँ;भ्वादिः}	त्यज्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;त्यजँ;भ्वादिः}		त्याग_करता_है	गिवे_उप्				
+8	अन्ते	2	0	अन्त{पुं}{7;एक}/अन्त{नपुं}{1;द्वि}/अन्त{नपुं}{2;द्वि}/अन्त{नपुं}{7;एक}/अन्त{नपुं}{8;द्वि}/अन्ति{स्त्री}{8;एक}/अन्ता{स्त्री}{1;द्वि}/अन्ता{स्त्री}{2;द्वि}/अन्ता{स्त्री}{8;एक}/अन्ता{स्त्री}{8;द्वि}	अन्त{पुं}{7;एक}	अधिकरणम्,7	अन्तकाल_में	अट्_ट्हे_एन्ड्				
+9	कलेवरम्	9	कलेवरम्	कलेवर{पुं}{2;एक}/कलेवर{नपुं}{1;एक}/कलेवर{नपुं}{2;एक}	कलेवर{पुं}{2;एक}	कर्म,7	शरीर_का	ट्हिस्_बोड्य्				
+10	तम्	11	तं	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	वीप्सा,11	उसको	सिमिलर्				
+11	तम्	12	तमेवैति	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	कर्म,13	उसको					
+12	एव	13	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,11	ही	चेर्टइन्ल्य्				
+13	एति	14	0	इ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;इण्;अदादिः}	इ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;इण्;अदादिः}		प्राप्त_होता_है	गेट्स्				
+14	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,7	हे_कुन्तीपुत्र_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+15	सदा	16	सदा	सदा{अव्य}	सदा{अव्य}	क्रियाविशेषणम्,16.1	सदा	अल्तय्स्				
+16	तत्-भाव-भावितः	17	तद्भावभावितः	तद्भावभावितः	तद्-भाव-भावित{पुं}{1;एक}	विधेय_विशेषणम्,16.1	उसी_भाव_से_भावित	रेमेम्बेरिन्ग्_ट्हट्_स्टटे_ओङ्_बेइन्ग्	<<तद्-भाव>ठ्7-भावितः>ठ्3			
+16.1	(अस्ति)	18	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,16.2;अकर्मकः	(है)	इस्				
+16.2	(सः)	15	(0)	(तद्{पुं}{1;एक})	(तद्{पुं}{1;एक})	कर्ता,16.1	(वह)	हे				

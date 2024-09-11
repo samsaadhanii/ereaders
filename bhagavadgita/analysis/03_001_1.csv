@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	jyAyasI	5	jyAyasI	jyAyas{napuM}{1;xvi}/jyAyas{napuM}{2;xvi}/jyAyas{napuM}{8;xvi}/jyAyasI{swrI}{1;eka}	jyAyasI{swrI}{1;eka}	karmasamAnAXikaraNam,5	SreRTa	superior				
-2	cew	2	cewkarmaNaswe	cew{avya}	cew{avya}	sambanXaH,5;niwya_sambanXaH,8	yaxi	if				
-3	karmaNaH	3		karman{napuM}{5;eka}/karman{napuM}{6;eka}	karman{napuM}{5;eka}	wulanA_binxuH,6	karma_kI_apekRA	than_action				
-4	we	6		wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,5	Apako	your				
-5	mawA	7	mawA	mawA{swrI}{1;eka}/mawA{swrI}{1;eka}	man1{kqw_prawyayaH:kwa;manaz;xivAxiH;swrI}{1;eka}	aBihiwakarma,6;sakarmakaH	mAnya	consideration				
-6	buxXiH	4	buxXirjanArxana	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karma,5	jFAna	Knowledge				
-7	janArxana	1		janArxana{puM}{8;eka}	janArxana{puM}{8;eka}	samboXyaH,5	he_janArxana	O_Krsna				
-8	waw	9	wawkiM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	sambanXaH,13	wo	then				
-9	kim	11		kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{2;eka}	prayojanam,13	kyoM	why				
-10	karmaNi	13	karmaNi	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,13	karma_meM	action				
-11	Gore	12	Gore	Gora{puM}{7;eka}/Gora{napuM}{1;xvi}/Gora{napuM}{2;xvi}/Gora{napuM}{7;eka}/Gora{napuM}{8;xvi}/GorA{swrI}{1;xvi}/GorA{swrI}{2;xvi}/GorA{swrI}{8;eka}/GorA{swrI}{8;xvi}	Gora{napuM}{7;eka}	viSeRaNam,10	BayaMkara	(in)dreadful				
-12	mAm	14	mAM	asmax{2;eka}	asmax{2;eka}	prayojyakarwA,13	muJe	me				
-13	niyojayasi	15	niyojayasi	ni_yuj1{karwari;lat;ma;eka;parasmEpaxI;yujaz;curAxiH}/yuj3{karwari;lat;ma;eka;parasmEpaxI;yujaz;curAxiH}	ni-yuj2{Nijanwa;karwari;lat;ma;eka;parasmEpaxI;yujaz;curAxiH}	aBihiwa_karwA,14.1	lagAwe_hEM	assign				
-14	keSava	8	keSava	keSava{puM}{8;eka}	keSava{puM}{8;eka}	samboXyaH,13	he_keSava	O_Keshava				
-14.1	(wvam)	10	()	yuRmax{sarvanAma;1;eka}	yuRmax{1;eka}	prayojakakarwA,13	wuma	(do) you				
+1	ज्यायसी	5	ज्यायसी	ज्यायस्{नपुं}{1;द्वि}/ज्यायस्{नपुं}{2;द्वि}/ज्यायस्{नपुं}{8;द्वि}/ज्यायसी{स्त्री}{1;एक}	ज्यायसी{स्त्री}{1;एक}	कर्मसमानाधिकरणम्,5	श्रेष्ठ	सुपेरिओर्				
+2	चेत्	2	चेत्कर्मणस्ते	चेत्{अव्य}	चेत्{अव्य}	सम्बन्धः,5;नित्य_सम्बन्धः,8	यदि	इङ्				
+3	कर्मणः	3		कर्मन्{नपुं}{5;एक}/कर्मन्{नपुं}{6;एक}	कर्मन्{नपुं}{5;एक}	तुलना_बिन्दुः,6	कर्म_की_अपेक्षा	ट्हन्_अच्टिओन्				
+4	ते	6		तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,5	आपको	योउर्				
+5	मता	7	मता	मता{स्त्री}{1;एक}/मता{स्त्री}{1;एक}	मन्1{कृत्_प्रत्ययः:क्त;मनँ;दिवादिः;स्त्री}{1;एक}	अभिहितकर्म,6;सकर्मकः	मान्य	चोन्सिडेरटिओन्				
+6	बुद्धिः	4	बुद्धिर्जनार्दन	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	कर्म,5	ज्ञान	ख्नोत्लेड्गे				
+7	जनार्दन	1		जनार्दन{पुं}{8;एक}	जनार्दन{पुं}{8;एक}	सम्बोध्यः,5	हे_जनार्दन	औ_ख्र्स्न				
+8	तत्	9	तत्किं	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	सम्बन्धः,13	तो	ट्हेन्				
+9	किम्	11		किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{2;एक}	प्रयोजनम्,13	क्यों	त्ह्य्				
+10	कर्मणि	13	कर्मणि	कर्मन्{नपुं}{7;एक}	कर्मन्{नपुं}{7;एक}	अधिकरणम्,13	कर्म_में	अच्टिओन्				
+11	घोरे	12	घोरे	घोर{पुं}{7;एक}/घोर{नपुं}{1;द्वि}/घोर{नपुं}{2;द्वि}/घोर{नपुं}{7;एक}/घोर{नपुं}{8;द्वि}/घोरा{स्त्री}{1;द्वि}/घोरा{स्त्री}{2;द्वि}/घोरा{स्त्री}{8;एक}/घोरा{स्त्री}{8;द्वि}	घोर{नपुं}{7;एक}	विशेषणम्,10	भयंकर	(इन्)ड्रेअड्ङुल्				
+12	माम्	14	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	प्रयोज्यकर्ता,13	मुझे	मे				
+13	नियोजयसि	15	नियोजयसि	नि_युज्1{कर्तरि;लट्;म;एक;परस्मैपदी;युजँ;चुरादिः}/युज्3{कर्तरि;लट्;म;एक;परस्मैपदी;युजँ;चुरादिः}	नि-युज्2{णिजन्त;कर्तरि;लट्;म;एक;परस्मैपदी;युजँ;चुरादिः}	अभिहित_कर्ता,14.1	लगाते_हैं	अस्सिग्न्				
+14	केशव	8	केशव	केशव{पुं}{8;एक}	केशव{पुं}{8;एक}	सम्बोध्यः,13	हे_केशव	औ_खेस्हव				
+14.1	(त्वम्)	10	()	युष्मद्{सर्वनाम;1;एक}	युष्मद्{1;एक}	प्रयोजककर्ता,13	तुम	(डो) योउ				

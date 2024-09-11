@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	iwi	1	iwi	iwi{avya}	iwi{avya}	sambanXaH,7	isa_prakAra	thus				
-2	kRewram	3	kRewraM	kRewra{napuM}{1;eka}/kRewra{napuM}{2;eka}	kRewra{napuM}{1;eka}	sup_samucciwaH,5	kRewra	the_field_of_activities_(the_body)				
-3	waWA	4	waWA	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,2	waWA	also				
-4	jFAnam	5	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	sup_samucciwaH,5	jFAna	knowledge				
-5	jFeyam	6	jFeyaM	jFeya{puM}{2;eka}/jFeya{napuM}{1;eka}/jFeya{napuM}{2;eka}	jFA2{kqw_prawyayaH:yaw;jFA;kryAxiH;napuM}{1;eka}	karma,7	jAnane_yogya_paramAwmA_kA_svarUpa	the_knowable				
-6	ca	7	cokwaM	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
-7	ukwam	8	0	ukwa{puM}{2;eka}/ukwa{napuM}{1;eka}/ukwa{napuM}{2;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;napuM}{1;eka}	aBihiwakarma,5;sakarmakaH	kahA_gayA	described				
-8	samAsawaH	2	samAsawaH	samAsa{wasil}	samAsa{wasil}	kriyAviSeRaNam,7	saMkRepa_se	in_summary				
-9	max-BakwaH	9	maxBakwa	asmax-Bakwa{puM}{1;eka}	asmax-Bakwa{puM}{1;eka}	karwA,13	merA_Bakwa	My_devotee	<asmaw-BakwaH>T7			
-10	ewaw	10	ewaxvijFAya	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{1;eka}	karma,11	isako	all_this				
-11	vijFAya	11	0	vijFa{puM}{4;eka}/vijFa{napuM}{4;eka}/vi_jFA2{kqw_prawyayaH:lyap;jFA;kryAxiH}/vi_jFA3{kqw_prawyayaH:lyap;jFA;curAxiH}	vi_jFA2{kqw_prawyayaH:lyap;vi_jFA;kryAxiH}	pUrvakAlaH,13	wawwva_se_jAnakara	after_understanding				
-12	max-BAvAya	12	maxBAvAyopapaxyawe	asmax-BAva{puM}{4;eka}	asmax-BAva{puM}{4;eka}	prayojanam,13	mere_svarUpa_ko	My_nature	<asmaw-BAvAya>T6			
-13	upapaxyawe	13	0	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/upa_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;upa_paxaz;xivAxiH}	aBihiwakarwA,9;sakarmakaH	prApwa_howA_hE	attains				
+1	इति	1	इति	इति{अव्य}	इति{अव्य}	सम्बन्धः,7	इस_प्रकार	ट्हुस्				
+2	क्षेत्रम्	3	क्षेत्रं	क्षेत्र{नपुं}{1;एक}/क्षेत्र{नपुं}{2;एक}	क्षेत्र{नपुं}{1;एक}	सुप्_समुच्चितः,5	क्षेत्र	ट्हे_ङिएल्ड्_ओङ्_अच्टिविटिएस्_(ट्हे_बोड्य्)				
+3	तथा	4	तथा	तथा{अव्य}	तथा{अव्य}	समुच्चय_द्योतकः,2	तथा	अल्सो				
+4	ज्ञानम्	5	ज्ञानं	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{1;एक}	सुप्_समुच्चितः,5	ज्ञान	क्नोत्लेड्गे				
+5	ज्ञेयम्	6	ज्ञेयं	ज्ञेय{पुं}{2;एक}/ज्ञेय{नपुं}{1;एक}/ज्ञेय{नपुं}{2;एक}	ज्ञा2{कृत्_प्रत्ययः:यत्;ज्ञा;क्र्यादिः;नपुं}{1;एक}	कर्म,7	जानने_योग्य_परमात्मा_का_स्वरूप	ट्हे_क्नोतब्ले				
+6	च	7	चोक्तं	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और	अल्सो				
+7	उक्तम्	8	0	उक्त{पुं}{2;एक}/उक्त{नपुं}{1;एक}/उक्त{नपुं}{2;एक}	वच्1{कृत्_प्रत्ययः:क्त;वचँ;अदादिः;नपुं}{1;एक}	अभिहितकर्म,5;सकर्मकः	कहा_गया	डेस्च्रिबेड्				
+8	समासतः	2	समासतः	समास{तसिल्}	समास{तसिल्}	क्रियाविशेषणम्,7	संक्षेप_से	इन्_सुम्मर्य्				
+9	मद्-भक्तः	9	मद्भक्त	अस्मद्-भक्त{पुं}{1;एक}	अस्मद्-भक्त{पुं}{1;एक}	कर्ता,13	मेरा_भक्त	ंय्_डेवोटेए	<अस्मत्-भक्तः>ठ्7			
+10	एतत्	10	एतद्विज्ञाय	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{1;एक}	कर्म,11	इसको	अल्ल्_ट्हिस्				
+11	विज्ञाय	11	0	विज्ञ{पुं}{4;एक}/विज्ञ{नपुं}{4;एक}/वि_ज्ञा2{कृत्_प्रत्ययः:ल्यप्;ज्ञा;क्र्यादिः}/वि_ज्ञा3{कृत्_प्रत्ययः:ल्यप्;ज्ञा;चुरादिः}	वि_ज्ञा2{कृत्_प्रत्ययः:ल्यप्;वि_ज्ञा;क्र्यादिः}	पूर्वकालः,13	तत्त्व_से_जानकर	अङ्टेर्_उन्डेर्स्टन्डिन्ग्				
+12	मद्-भावाय	12	मद्भावायोपपद्यते	अस्मद्-भाव{पुं}{4;एक}	अस्मद्-भाव{पुं}{4;एक}	प्रयोजनम्,13	मेरे_स्वरूप_को	ंय्_नटुरे	<अस्मत्-भावाय>ठ्6			
+13	उपपद्यते	13	0	उप_पद्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;पदँ;दिवादिः}/उप_पद्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;पदँ;दिवादिः}	उप_पद्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;उप_पदँ;दिवादिः}	अभिहितकर्ता,9;सकर्मकः	प्राप्त_होता_है	अट्टइन्स्				

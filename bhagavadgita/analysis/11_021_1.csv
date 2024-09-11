@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	amI	1	amI	axas{puM}{1;bahu}	axas{puM}{1;bahu}	viSeRaNam,4	ve	all_those				
-2	hi	3	hi	hi{avya}	hi{avya}	sambanXaH,4	wo	certainly				
-3	wvAm	4	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,5	ApameM	unto_You				
-4	sura-safGAH	2	surasafGAH	sura-safGa{puM}{1;bahu}/safGa{puM}{8;bahu}	sura-safGa{puM}{1;bahu}	karwA,5	xevawAoM_ke_samUha	groups_of_demigods	<sura-safGAH>T6			
-5	viSanwi	5	viSanwi	viSaw{napuM}{1;bahu}/viSaw{napuM}{2;bahu}/viSaw{napuM}{8;bahu}	viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	aBihiwakarwA,4;sakarmakaH	praveSa_karawe_hEM	entering				
-6	keciw	6	kecixBIwAH	keciw{avya}/kiFciw{puM}{1;bahu}/kiFciw{swrI}{1;xvi}/kiFciw{swrI}{2;xvi}/kiFciw{napuM}{1;xvi}/kiFciw{napuM}{2;xvi}	kiFciw{puM}{1;bahu}	viSeRaNam,7	kuCa	some_of_them				
-7	BIwAH	7	0	BIwa{puM}{1;bahu}/BIwa{puM}{8;bahu}/BIwA{swrI}{1;bahu}/BIwA{swrI}{2;bahu}/BIwA{swrI}{8;bahu}/BIwA{swrI}{1;bahu}/BIwA{swrI}{2;bahu}/BIwA{swrI}{8;bahu}	BIwa{puM}{1;bahu}	karwA,9	BayaBIwa_hokara	out_of_fear				
-8	prAFjalayaH	8	prAFjalayo	prAFjali{puM}{1;bahu}/prAFjali{puM}{8;bahu}	prAFjali{puM}{1;bahu}	kriyAviSeRaNam,9	hAWa_joda़e_(Apake_nAma_Ora_guNoM_kA)	with_folded_hands				
-9	gqNanwi	9	gqNanwi	gqNaw{napuM}{1;bahu}/gqNaw{napuM}{2;bahu}/gqNaw{napuM}{8;bahu}/gQ2{karwari;lat;pra;bahu;parasmEpaxI;gQ;kryAxiH}/gqNanwI{swrI}{8;eka}	gQ2{karwari;lat;pra;bahu;parasmEpaxI;gQ;kryAxiH}	aBihiwakarwA,7;sakarmakaH	uccAraNa_karawe_hEM	offering_prayers_unto				
-10	svaswi	11	svaswIwyukwvA	svaswi{avya}	svaswi{avya}	vAkyakarma,12	kalyANa_ho	all_peace				
-11	iwi	12	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,10	EsA	thus				
-12	ukwvA	13	0	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	pUrvakAlaH,14	kahakara	speaking_like_that				
-13	mahaw-qRi-sixXa-safGAH	10	maharRisixXasafGAH	mahaw-qRi-sixXa-safGa{puM}{1;bahu}/safGa{puM}{8;bahu}	mahax-qRi-sixXa-safGa{puM}{1;bahu}	karwA,14	maharRi_Ora_sixXoM_ke_samuxAya	great_and_perfect_sages	<<<mahaw-qRi>K1-sixXa>Di-safGAH>T6			
-14	swuvanwi	17	swuvanwi	swuvaw{napuM}{1;bahu}/swuvaw{napuM}{2;bahu}/swuvaw{napuM}{8;bahu}/swu1{karwari;lat;pra;bahu;parasmEpaxI;RtuF;axAxiH}	swu1{karwari;lat;pra;bahu;parasmEpaxI;RtuF;axAxiH}	aBihiwakarwA,13;sakarmakaH	swuwi_karawe_hEM	singing_hymns				
-15	wvAm	14	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,14	ApakI	unto_You				
-16	swuwiBiH	16	swuwiBiH	swuwi{swrI}{3;bahu}	swuwi{swrI}{3;bahu}	karaNam,14	swowroM_xvArA	with_prayers				
-17	puRkalABiH	15	puRkalABiH	puRkalA{swrI}{3;bahu}	puRkalA{swrI}{3;bahu}	viSeRaNam,16	uwwama-uwwama	Vedic_hymns				
+1	अमी	1	अमी	अदस्{पुं}{1;बहु}	अदस्{पुं}{1;बहु}	विशेषणम्,4	वे	अल्ल्_ट्होसे				
+2	हि	3	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,4	तो	चेर्टइन्ल्य्				
+3	त्वाम्	4	त्वां	युष्मद्{2;एक}	युष्मद्{2;एक}	कर्म,5	आपमें	उन्टो_Yओउ				
+4	सुर-सङ्घाः	2	सुरसङ्घाः	सुर-सङ्घ{पुं}{1;बहु}/सङ्घ{पुं}{8;बहु}	सुर-सङ्घ{पुं}{1;बहु}	कर्ता,5	देवताओं_के_समूह	ग्रोउप्स्_ओङ्_डेमिगोड्स्	<सुर-सङ्घाः>ठ्6			
+5	विशन्ति	5	विशन्ति	विशत्{नपुं}{1;बहु}/विशत्{नपुं}{2;बहु}/विशत्{नपुं}{8;बहु}	विश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विशँ;तुदादिः}	अभिहितकर्ता,4;सकर्मकः	प्रवेश_करते_हैं	एन्टेरिन्ग्				
+6	केचित्	6	केचिद्भीताः	केचित्{अव्य}/किञ्चित्{पुं}{1;बहु}/किञ्चित्{स्त्री}{1;द्वि}/किञ्चित्{स्त्री}{2;द्वि}/किञ्चित्{नपुं}{1;द्वि}/किञ्चित्{नपुं}{2;द्वि}	किञ्चित्{पुं}{1;बहु}	विशेषणम्,7	कुछ	सोमे_ओङ्_ट्हेम्				
+7	भीताः	7	0	भीत{पुं}{1;बहु}/भीत{पुं}{8;बहु}/भीता{स्त्री}{1;बहु}/भीता{स्त्री}{2;बहु}/भीता{स्त्री}{8;बहु}/भीता{स्त्री}{1;बहु}/भीता{स्त्री}{2;बहु}/भीता{स्त्री}{8;बहु}	भीत{पुं}{1;बहु}	कर्ता,9	भयभीत_होकर	ओउट्_ओङ्_ङेअर्				
+8	प्राञ्जलयः	8	प्राञ्जलयो	प्राञ्जलि{पुं}{1;बहु}/प्राञ्जलि{पुं}{8;बहु}	प्राञ्जलि{पुं}{1;बहु}	क्रियाविशेषणम्,9	हाथ_जोडॆअञए_(आपके_नाम_और_गुणों_का)	तिट्ह्_ङोल्डेड्_हन्ड्स्				
+9	गृणन्ति	9	गृणन्ति	गृणत्{नपुं}{1;बहु}/गृणत्{नपुं}{2;बहु}/गृणत्{नपुं}{8;बहु}/गॄ2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;गॄ;क्र्यादिः}/गृणन्ती{स्त्री}{8;एक}	गॄ2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;गॄ;क्र्यादिः}	अभिहितकर्ता,7;सकर्मकः	उच्चारण_करते_हैं	ओङ्ङेरिन्ग्_प्रयेर्स्_उन्टो				
+10	स्वस्ति	11	स्वस्तीत्युक्त्वा	स्वस्ति{अव्य}	स्वस्ति{अव्य}	वाक्यकर्म,12	कल्याण_हो	अल्ल्_पेअचे				
+11	इति	12	0	इति{अव्य}	इति{अव्य}	वाक्यकर्म_द्योतकः,10	ऐसा	ट्हुस्				
+12	उक्त्वा	13	0	वच्1{कृत्_प्रत्ययः:क्त्वा;वचँ;अदादिः}	वच्1{कृत्_प्रत्ययः:क्त्वा;वचँ;अदादिः}	पूर्वकालः,14	कहकर	स्पेअकिन्ग्_लिके_ट्हट्				
+13	महत्-ऋषि-सिद्ध-सङ्घाः	10	महर्षिसिद्धसङ्घाः	महत्-ऋषि-सिद्ध-सङ्घ{पुं}{1;बहु}/सङ्घ{पुं}{8;बहु}	महद्-ऋषि-सिद्ध-सङ्घ{पुं}{1;बहु}	कर्ता,14	महर्षि_और_सिद्धों_के_समुदाय	ग्रेअट्_अन्ड्_पेर्ङेच्ट्_सगेस्	<<<महत्-ऋषि>ख्1-सिद्ध>ढि-सङ्घाः>ठ्6			
+14	स्तुवन्ति	17	स्तुवन्ति	स्तुवत्{नपुं}{1;बहु}/स्तुवत्{नपुं}{2;बहु}/स्तुवत्{नपुं}{8;बहु}/स्तु1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ष्टुञ्;अदादिः}	स्तु1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ष्टुञ्;अदादिः}	अभिहितकर्ता,13;सकर्मकः	स्तुति_करते_हैं	सिन्गिन्ग्_ह्य्म्न्स्				
+15	त्वाम्	14	त्वां	युष्मद्{2;एक}	युष्मद्{2;एक}	कर्म,14	आपकी	उन्टो_Yओउ				
+16	स्तुतिभिः	16	स्तुतिभिः	स्तुति{स्त्री}{3;बहु}	स्तुति{स्त्री}{3;बहु}	करणम्,14	स्तोत्रों_द्वारा	तिट्ह्_प्रयेर्स्				
+17	पुष्कलाभिः	15	पुष्कलाभिः	पुष्कला{स्त्री}{3;बहु}	पुष्कला{स्त्री}{3;बहु}	विशेषणम्,16	उत्तम-उत्तम	Vएडिच्_ह्य्म्न्स्				

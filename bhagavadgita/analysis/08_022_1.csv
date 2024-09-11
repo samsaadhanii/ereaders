@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	puruRaH	12	puruRaH	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	karma,6	puruRa	the_Supreme_Personality				
-2	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,1	vaha_(sanAwana_avyakwa)	he				
-3	paraH	11	paraH	para{puM}{1;eka}/para{puM}{1;eka}	para{puM}{1;eka}	viSeRaNam,1	parama	the_Supreme_than_whom_no_one_is_greater				
-4	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,6	he_pArWa	O_son_of_Prtha				
-5	BakwyA	15	BakwyA	Bakwi{swrI}{3;eka}	Bakwi{swrI}{3;eka}	hewuH,6	Bakwi_se	by_devotional_service				
-6	laByaH	15.1	laByaswvananyayA	laBya{puM}{1;eka}	laB1{kqw_prawyayaH:yaw;dulaBazR;BvAxiH;puM}{1;eka}	aBihiwa_karma,1	prApwa_hone_yogya_hE	can_be_achieved				
-7	wu	13	0	wu{avya}	wu{avya}	sambanXaH,1	wo	but				
-8	an-anyayA	14	0	na-anyA{swrI}{3;eka}	na-anyA{swrI}{3;eka}	viSeRaNam,5	ananya	unalloyed_undeviating_devotion	<na-anyayA>Bs7			
-9	yasya	3	yasyAnwaHsWAni	yax{puM}{6;eka}/yax{napuM}{6;eka}/yas1{karwari;lot;ma;eka;parasmEpaxI;yasuz;xivAxiH}	yax{puM}{6;eka}	RaRTIsambanXaH,11	jisake_(paramAwmA_ke)	whom				
-10	anwaH-sWAni	4	0	anwaHsWa{napuM}{1;bahu}/anwaHsWa{napuM}{2;bahu}	anwa-sWa{napuM}{1;bahu}	viXeya_viSeRaNam,11.1	anwargawa	within	<anwaH-sWAni>U			
-11	BUwAni	2	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}	BUwa{napuM}{1;bahu}	karwA,11.1	sarvaBUwa	all_of_this_material_manifestation				
-11.1	(Bavanwi)	4.1	(0)	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,11	(hEM)	are				
-12	yena	5	yena	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{puM}{3;eka}	karwA,15	jisase_(saccixAnanxaGana_paramAwmA_se)	by_whom				
-13	sarvam	7	sarvamixaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{1;eka}	karma,15	samaswa_jagaw	all				
-14	ixam	6	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,13	yaha	whatever_we_can_see				
-15	wawam	8	wawam	waw{puM}{2;eka}/wawa{puM}{2;eka}/wawa{napuM}{1;eka}/wawa{napuM}{2;eka}	wan1{kqw_prawyayaH:yaw;wanu;wanAxiH;napuM}{1;eka}	aBihiwa_karma,13	paripUrNa	distributed				
+1	पुरुषः	12	पुरुषः	पुरुष{पुं}{1;एक}	पुरुष{पुं}{1;एक}	कर्म,6	पुरुष	ट्हे_शुप्रेमे_फेर्सोनलिट्य्				
+2	सः	10	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	विशेषणम्,1	वह_(सनातन_अव्यक्त)	हे				
+3	परः	11	परः	पर{पुं}{1;एक}/पर{पुं}{1;एक}	पर{पुं}{1;एक}	विशेषणम्,1	परम	ट्हे_शुप्रेमे_ट्हन्_त्होम्_नो_ओने_इस्_ग्रेअटेर्				
+4	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,6	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह				
+5	भक्त्या	15	भक्त्या	भक्ति{स्त्री}{3;एक}	भक्ति{स्त्री}{3;एक}	हेतुः,6	भक्ति_से	ब्य्_डेवोटिओनल्_सेर्विचे				
+6	लभ्यः	15.1	लभ्यस्त्वनन्यया	लभ्य{पुं}{1;एक}	लभ्1{कृत्_प्रत्ययः:यत्;डुलभँष्;भ्वादिः;पुं}{1;एक}	अभिहित_कर्म,1	प्राप्त_होने_योग्य_है	चन्_बे_अच्हिएवेड्				
+7	तु	13	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,1	तो	बुट्				
+8	अन्-अन्यया	14	0	न-अन्या{स्त्री}{3;एक}	न-अन्या{स्त्री}{3;एक}	विशेषणम्,5	अनन्य	उनल्लोयेड्_उन्डेविअटिन्ग्_डेवोटिओन्	<न-अन्यया>भ्स्7			
+9	यस्य	3	यस्यान्तःस्थानि	यद्{पुं}{6;एक}/यद्{नपुं}{6;एक}/यस्1{कर्तरि;लोट्;म;एक;परस्मैपदी;यसुँ;दिवादिः}	यद्{पुं}{6;एक}	षष्ठीसम्बन्धः,11	जिसके_(परमात्मा_के)	त्होम्				
+10	अन्तः-स्थानि	4	0	अन्तःस्थ{नपुं}{1;बहु}/अन्तःस्थ{नपुं}{2;बहु}	अन्त-स्थ{नपुं}{1;बहु}	विधेय_विशेषणम्,11.1	अन्तर्गत	तिट्हिन्	<अन्तः-स्थानि>ऊ			
+11	भूतानि	2	भूतानि	भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}	भूत{नपुं}{1;बहु}	कर्ता,11.1	सर्वभूत	अल्ल्_ओङ्_ट्हिस्_मटेरिअल्_मनिङेस्टटिओन्				
+11.1	(भवन्ति)	4.1	(0)	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}/भवन्ती{स्त्री}{8;एक})	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः})	अभिहित_कर्ता,11	(हैं)	अरे				
+12	येन	5	येन	येन{अव्य}/यद्{पुं}{3;एक}/यद्{नपुं}{3;एक}	यद्{पुं}{3;एक}	कर्ता,15	जिससे_(सच्चिदानन्दघन_परमात्मा_से)	ब्य्_त्होम्				
+13	सर्वम्	7	सर्वमिदं	सर्व{पुं}{2;एक}/सर्व{नपुं}{1;एक}/सर्व{नपुं}{2;एक}	सर्व{नपुं}{1;एक}	कर्म,15	समस्त_जगत्	अल्ल्				
+14	इदम्	6	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	विशेषणम्,13	यह	त्हटेवेर्_ते_चन्_सेए				
+15	ततम्	8	ततम्	तत्{पुं}{2;एक}/तत{पुं}{2;एक}/तत{नपुं}{1;एक}/तत{नपुं}{2;एक}	तन्1{कृत्_प्रत्ययः:यत्;तनु;तनादिः;नपुं}{1;एक}	अभिहित_कर्म,13	परिपूर्ण	डिस्ट्रिबुटेड्				

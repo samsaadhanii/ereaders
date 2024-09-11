@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kim	4	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	viXeya_viSeRaNam,3.1	kyA	what				
+2	waw	2	waxbrahma	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,3	vaha	that				
+3	brahma	3	0	brahma{napuM}{8;eka}/brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwA,3.1	brahma	Brahman				
+3.1	(aswi)	5	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,3	(hE)	is				
+4	kim	8	kimaXyAwmaM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	viXeya_viSeRaNam,5.1	kyA	what				
+5	aXi-Awmam	7	0	aXyAwma{puM}{2;eka}/aXyAwma{napuM}{1;eka}/aXyAwma{napuM}{2;eka}	aXyAwma{napuM}{1;eka}	karwA,5.1	aXyAwma	the_self	<aXi-AwmaM>A1			
+5.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,5;akarmakaH	(hE)	is				
+6	kim	11	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	viXeya_viSeRaNam,8.1	kyA	what				
+7	karma	10	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwA,8.1	karma	fruitive_activities				
+8	puruRa-uwwama	1	puruRowwama	puruRowwama{puM}{8;eka}	puruRowwama{puM}{8;eka}	samboXyaH,8.1	he_puruRowwama	O_Supreme_Person	<puruRa-uwwama>T7			
+8.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA	(hE)	is				
+9	aXi-BUwam	12	aXiBUwaM	aXiBUwa{napuM}{1;eka}/aXiBUwa{napuM}{2;eka}	aXi-BUwa{napuM}{1;eka}	karma,12	aXiBUwa_(nAma_se)	the_material_manifestation	<aXi-BUwam>A1			
+10	ca	15	ca	ca{avya}	ca{avya}	sambanXaH,12	Ora	and				
+11	kim	13	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	karmasamAnAXikaraNam,12	kyA	what				
+12	prokwam	14	prokwamaXixEvaM	prokwa{puM}{2;eka}/prokwa{napuM}{1;eka}/prokwa{napuM}{2;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;napuM}{1;eka}	aBihiwa_karma,9;sakarmakaH	kahA_gayA_hE	is_called				
+13	aXi-xEvam	16	0	aXi-xEva{puM}{2;eka}/xEva{napuM}{1;eka}/xEva{napuM}{2;eka}	aXi-xEva{napuM}{1;eka}	karma,15	aXixEva	the_demigods	<aXi-xEvaM>A1			
+14	kim	17	kimucyawe	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	karmasamAnAXikaraNam,13	kisako	what				
+15	ucyawe	18	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karwA,15;sakarmakaH	kahawe_hEM	is_called				

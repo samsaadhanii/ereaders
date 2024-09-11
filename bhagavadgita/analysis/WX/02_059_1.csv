@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	viRayAH	1	viRayA	viRaya{puM}{1;bahu}	viRaya{puM;8;bahu}	samboXyaH,2	viRaya	Sense-objects				
+2	vinivarwanwe	3	vinivarwanwe	vi_ni_vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	vi_ni_vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;:BvAxiH}		nivqwwa_ho_jAwe_hEM	turn_away				
+3	nir-AhArasya	2	nirAhArasya	nirAhAra{puM}{6;eka}/nirAhAra{napuM}{6;eka}	nir-AhAra{puM;6;eka(nir-hq1;GaF;hqF;:BvAxiH)}	viSeRaNam,4	viRayoM_ko_grahaNa_na_karanevAle	who_abstains_from_feeding	<nir-AhArasya>Bvp			
+4	xehinaH	4	xehinaH	xehin{puM}{1;bahu}/xehin{puM}{2;bahu}/xehin{puM}{5;eka}/xehin{puM}{6;eka}/xehin{napuM}{5;eka}/xehin{napuM}{6;eka}	xehin{puM}{6;eka}	RaRTIsambanXaH,5	puruRa_ke	from_him				
+5	rasa-varjam	5	rasavarjaM	rasavarja{puM}{2;eka}	rasa-varja{puM}{2;eka}	karma,11	Asakwi_nivqwwa_nahIM_howI	the_taste_for_them_persists	<rasa-varjaM>U			
+6	rasaH	6	rasoZpyasya	rasa{puM}{1;eka}	rasa{puM}{1;eka}	karwA,11	Asakwi	relish_for_sense_enjoyment				
+7	api	7	0	api{avya}	api{avya}	sambanXaH,6	BI	also				
+8	asya	8	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	RaRTIsambanXaH,9	isa_sWiwaprajFa_puruRa_kI	his_(the_man_of_stable_mind)				
+9	param	9	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{sarvanAma;napuM;2;eka}	karma,10	paramAwmA_kA	the_Supreme				
+10	xqRtvA	10	xqRtvA	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	xqS1{avya;kwvA;xqSizr;:BvAxiH}	pUrvakAlaH,11	sAkRAwkAra_karake	by_realizing				
+11	nivarwawe	11	nivarwawe	nivarwawA{swrI}{1;xvi}/nivarwawA{swrI}{2;xvi}/nivarwawA{swrI}{8;eka}/nivarwawA{swrI}{8;xvi}	ni_vqw1{karwari;lat;pra;eka;AwmanepaxI;ni_vqwuz;BvAxiH}	aBihiwa_karwA,6;sakarmaka	nivqwwa_ho_jAwI_hE	disappears				

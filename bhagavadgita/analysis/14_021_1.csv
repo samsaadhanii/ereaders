@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kEH	6	kErlifgEswrInguNAnewAnawIwo	kim{puM}{3;bahu}/kim{napuM}{3;bahu}	kim{napuM}{3;bahu}	viSeRaNam,2	kina	by_which				
-2	lifgEH	7	0	lifga{napuM}{3;bahu}	lifga{napuM}{3;bahu}	karaNam,6	lakRaNoM_se	symptoms				
-3	wrIn	2	0	wri{puM}{2;bahu}/wri{puM}{2;bahu}	wri{puM}{2;bahu}	viSeRaNam,4	wInoM	three				
-4	guNAn	3	0	guNa{puM}{2;bahu}	guNa{puM}{2;bahu}	karma,6	guNoM_se	qualities				
-5	ewAn	1	0	ewax{puM}{2;bahu}	ewax{puM}{2;bahu}	viSeRaNam,4	ina	all_this				
-6	awIwaH	4	0	awIwa{puM}{1;eka}	awi_i1{kqw_prawyayaH:kwa;awi_iN;axAxiH;puM}{1;eka}	karwA,7	awIwa	having_transcended				
-7	Bavawi	8	Bavawi	Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}		howA_hE	become				
-8	praBo	12	praBo	praBu{puM}{8;eka}/praBu{napuM}{8;eka}	praBu{puM}{8;eka}	samboXyaH,7	he_praBo	my_Lord				
-9	kim-AcAraH	10	kimAcAraH	kim-AcAra{puM}{1;eka}	kim-AcAra{puM}{1;eka}	karwA,9.1	kisa_prakAra_ke_AcaraNoMvAlA	what_behaviour	<kim-AcAraH>Bs6			
-9.1	(Bavawi)	11	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,9;akarmakaH	(howA_hE)	becomes				
-10	kaWam	13	kaWaM	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,14	kEse	what				
-11	ca	9	cEwAMswrInguNAnawivarwawe	ca{avya}	ca{avya}	sambanXaH,15	Ora	also				
-12	ewAn	14	0	ewax{puM}{2;bahu}	ewax{puM}{2;bahu}	viSeRaNam,13	ina	these				
-13	wrIn	15	0	wri{puM}{2;bahu}/wri{puM}{2;bahu}	wri{puM}{2;bahu}	viSeRaNam,14	wInoM	three				
-14	guNAn	16	0	guNa{puM}{2;bahu}	guNa{puM}{2;bahu}	karma,15	guNoM_se	qualities				
-15	awivarwawe	17	0	awi_vqw1{karwari;lat;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	awi_vqw1{karwari;lat;pra;eka;AwmanepaxI;awi_vqwuz;BvAxiH}	aBihiwakarwA,15.1;sakarmakaH	awIwa_howA_hE	transcend				
-15.1	(puruRaH)	5	(0)	(puruRa{puM}{1;eka})	(puruRa{puM}{1;eka})	karwA,15	(puruRa)	person				
+1	कैः	6	कैर्लिङ्गैस्त्रीन्गुणानेतानतीतो	किम्{पुं}{3;बहु}/किम्{नपुं}{3;बहु}	किम्{नपुं}{3;बहु}	विशेषणम्,2	किन	ब्य्_त्हिच्ह्				
+2	लिङ्गैः	7	0	लिङ्ग{नपुं}{3;बहु}	लिङ्ग{नपुं}{3;बहु}	करणम्,6	लक्षणों_से	स्य्म्प्टोम्स्				
+3	त्रीन्	2	0	त्रि{पुं}{2;बहु}/त्रि{पुं}{2;बहु}	त्रि{पुं}{2;बहु}	विशेषणम्,4	तीनों	ट्ह्रेए				
+4	गुणान्	3	0	गुण{पुं}{2;बहु}	गुण{पुं}{2;बहु}	कर्म,6	गुणों_से	ऋउअलिटिएस्				
+5	एतान्	1	0	एतद्{पुं}{2;बहु}	एतद्{पुं}{2;बहु}	विशेषणम्,4	इन	अल्ल्_ट्हिस्				
+6	अतीतः	4	0	अतीत{पुं}{1;एक}	अति_इ1{कृत्_प्रत्ययः:क्त;अति_इण्;अदादिः;पुं}{1;एक}	कर्ता,7	अतीत	हविन्ग्_ट्रन्स्चेन्डेड्				
+7	भवति	8	भवति	भवत्{पुं}{7;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}		होता_है	बेचोमे				
+8	प्रभो	12	प्रभो	प्रभु{पुं}{8;एक}/प्रभु{नपुं}{8;एक}	प्रभु{पुं}{8;एक}	सम्बोध्यः,7	हे_प्रभो	म्य्_ऌओर्ड्				
+9	किम्-आचारः	10	किमाचारः	किम्-आचार{पुं}{1;एक}	किम्-आचार{पुं}{1;एक}	कर्ता,9.1	किस_प्रकार_के_आचरणोंवाला	त्हट्_बेहविओउर्	<किम्-आचारः>भ्स्6			
+9.1	(भवति)	11	(0)	(भवत्{पुं}{7;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,9;अकर्मकः	(होता_है)	बेचोमेस्				
+10	कथम्	13	कथं	कथम्{अव्य}	कथम्{अव्य}	क्रियाविशेषणम्,14	कैसे	त्हट्				
+11	च	9	चैतांस्त्रीन्गुणानतिवर्तते	च{अव्य}	च{अव्य}	सम्बन्धः,15	और	अल्सो				
+12	एतान्	14	0	एतद्{पुं}{2;बहु}	एतद्{पुं}{2;बहु}	विशेषणम्,13	इन	ट्हेसे				
+13	त्रीन्	15	0	त्रि{पुं}{2;बहु}/त्रि{पुं}{2;बहु}	त्रि{पुं}{2;बहु}	विशेषणम्,14	तीनों	ट्ह्रेए				
+14	गुणान्	16	0	गुण{पुं}{2;बहु}	गुण{पुं}{2;बहु}	कर्म,15	गुणों_से	ऋउअलिटिएस्				
+15	अतिवर्तते	17	0	अति_वृत्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;वृतुँ;भ्वादिः}	अति_वृत्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;अति_वृतुँ;भ्वादिः}	अभिहितकर्ता,15.1;सकर्मकः	अतीत_होता_है	ट्रन्स्चेन्ड्				
+15.1	(पुरुषः)	5	(0)	(पुरुष{पुं}{1;एक})	(पुरुष{पुं}{1;एक})	कर्ता,15	(पुरुष)	पेर्सोन्				

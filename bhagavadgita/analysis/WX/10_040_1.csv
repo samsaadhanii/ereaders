@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	6	nAnwoZswi	na{avya}	na{avya}	prawiReXaH,3	nahIM	nor				
+2	anwaH	5	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	karwA,3	anwa	a_limit				
+3	aswi	7	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwA	hE	is				
+4	mama	2	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,6	merI	my				
+5	xivyAnAm	3	xivyAnAM	xivya{puM}{6;bahu}/xivya{napuM}{6;bahu}/xivyA{swrI}{6;bahu}	xivya{puM}{6;bahu}	viSeRaNam,6	xivya	divine				
+6	vi-BUwInAm	4	viBUwInAM	vi-BUwi{swrI}{6;bahu}	viBUwi{swrI}{6;bahu}	RaRTIsambanXaH,2	viBUwiyoM_kA	opulences	<vi-BUwInAM>Bvp			
+7	paranwapa	1	paranwapa	paranwapa{puM}{8;eka}/paranwapa{napuM}{8;eka}	paranwapa{puM}{8;eka}	samboXyaH,3	he_paraMwapa	O_conqueror_of_the_enemies				
+8	eRaH	10	eRa	ewax{puM}{1;eka}	ewax{puM}{1;eka}	viSeRaNam,13	yaha	all_this				
+9	wu	12	wUxxeSawaH	wu{avya}	wu{avya}	sambanXaH,13	wo	that				
+10	uxxeSawaH	13	0	uxxeSa{wasil}	uxxeSa{avya}	kriyAviSeRaNam,11	ekaxeSa_se_arWAw_saMkRepa_se	examples				
+11	prokwaH	14	prokwo	prokwa{puM}{1;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;puM}{1;eka}	viXeya_viSeRaNam,3	kahA_hE	spoken				
+12	vi-BUweH	9	viBUwerviswaro	vi-BUwi{swrI}{5;eka}/BUwi{swrI}{6;eka}	viBUwi{swrI}{6;eka}	RaRTIsambanXaH,13	viBUwiyoM_kA	opulences	<vi-BUweH>Bvp			
+13	viswaraH	11	0	viswara{puM}{1;eka}	viswara{puM}{1;eka}	karma,11	viswAra	expanded				
+14	mayA	8	mayA	asmax{3;eka}	asmax{3;eka}	karwA,11	mEMne	by_Me				

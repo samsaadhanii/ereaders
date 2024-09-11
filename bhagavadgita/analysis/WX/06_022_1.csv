@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yam	1	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	karma,2	jisako	that_which				
+2	labXvA	2	labXvA	laB1{kqw_prawyayaH:kwvA;dulaBazR;BvAxiH}	laB1{kqw_prawyayaH:kwvA;dulaBazR;BvAxiH}	pUrvakAlaH,6	prApwa_hokara	by_attainment				
+3	ca	9	cAparaM	ca{avya}	ca{avya}	sambanXaH,6	Ora	also				
+4	a-param	4	0	a-para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	apara{puM}{2;eka}	viSeRaNam,5	xUsarA	any_other	<na-paraM>Tn			
+5	lABam	5	lABaM	lABa{puM}{2;eka}	lABa{puM}{2;eka}	karma,6	lABa_ko	gain				
+6	manyawe	8	manyawe	manyawA{swrI}{1;xvi}/manyawA{swrI}{2;xvi}/man1{karmaNi;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}		mAnawA	does_not_mind				
+7	na	7	nAXikaM	na{avya}	na{avya}	prawiReXaH,6	nahIM	never				
+8	aXikam	6	0	aXika{puM}{2;eka}/aXika{napuM}{1;eka}/aXika{napuM}{2;eka}	aXika{puM}{2;eka}	karmasamAnAXikaraNam,6	aXika	more_than_that				
+9	wawaH	3	wawaH	wawaH{avya}	wawaH{avya}	apAxAnam,6	usase	from_that				
+10	yasmin	10	yasminsWiwo	yax{puM}{7;eka}/yax{napuM}{7;eka}	yax{puM}{7;eka}	aXikaraNam,11	jisa_avasWA_meM					
+11	sWiwaH	11	0	sWiwa{puM}{1;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;eka}	viSeRaNam,16.1	sWiwa	in_which				
+12	na	16	na	na{avya}	na{avya}	prawiReXaH,16	nahIM	never				
+13	xuHKena	14	xuHKena	xuHKa{napuM}{3;eka}	xuHKa{napuM}{3;eka}	karwA,16	xuHKa_se	by_miseries				
+14	guruNA	13	guruNApi	guru{puM}{3;eka}	guru{puM}{3;eka}	viSeRaNam,13	bada़e_BArI	very_difficult				
+15	api	15	0	api{avya}	api{avya}	sambanXaH,13	BI	even_though				
+16	vicAlyawe	17	vicAlyawe	vicAlyawe	vi_cal1_Nic{karmaNi;lat;pra;eka;AwmanepaxI;vi_calaz_Nic;BvAxiH}		calAyamAna_howA_hE	becomes_shaken				
+16.1	(puruRaH)	12	(0)	(puruRa{puM}{1;eka})	(puruRa{puM}{1;eka})	karma,16	(puruRa)	person				

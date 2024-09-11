@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-4	wvam	1	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,2	wU	you				
-1	niyawam	2	niyawaM	niyawa{puM}{2;eka}/niyawa{napuM}{1;eka}/niyawa{napuM}{2;eka}	niyawa{napuM}{2;eka}	kriyAviSeRaNam,2	SAswravihiwa	alloted				
-3	karma	3	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,2	karwavyakarma	duty				
-2	kuru	4	kuru	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwa_karwA,4;sakarmaka	kara	perform				
-8	a-karmaNaH	5	0	a-karman{napuM}{5;eka}/karman{napuM}{6;eka}	na-karman{napuM}{6;eka}	wulanA_binxuH,5	karma_na_karane_se	desisting_from_action	<na-karmaNaH>Tn			
-5	karma	6	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwA,6.1	karma_karanA	action				
-7	hi	7	hyakarmaNaH	hi{avya}	hi{avya}	sambanXaH,6.1	kyoMki	for				
-6	jyAyaH	8	jyAyo	jyAyas{napuM}{1;eka}/jyAyas{napuM}{2;eka}/jyAyas{napuM}{8;eka}	jyAyas{napuM}{1;eka}	viXeya_viSeRaNam,6.1	SreRTa	superior				
-6.1	(aswi)	9	()	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	samucciwaH,9	hE					
-12	we	10	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,9	werA	your				
-9	SarIra-yAwrA	11	SarIrayAwrApi	SarIra-yAwq{swrI}{3;eka}/yAwrA{swrI}{1;eka}	SarIra-yAwrA{swrI}{1;eka}	karwA,14	SarIra-nirvAha	maintenance_of_body	<SarIra-yAwrA>T6			
-11	ca	12	ca	ca{avya}	ca{avya}	sambanXaH,9	waWA	also				
-10	api	13	0	api{avya}	api{avya}	sambanXaH,9	BI	even				
-15	akarmaNaH	14	0	a-karman{napuM}{5;eka}/karman{napuM}{6;eka}	na-karman{napuM}{5;eka}	hewuH,14	karma_na_karane_kI_apekRA	to_inaction	<na-karmaNaH>Tn			
-13	na	15	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	cannot				
-14	prasixXyew	16	prasixXyexakarmaNaH	prasixXyew	pra_siX3{karwari;viXilif;pra;eka;parasmEpaxI;pra_RiXuz;xivAxiH}	aBihiwa_karwA,9	sixXa_hogA	maintain				
+4	त्वम्	1	त्वं	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,2	तू	योउ				
+1	नियतम्	2	नियतं	नियत{पुं}{2;एक}/नियत{नपुं}{1;एक}/नियत{नपुं}{2;एक}	नियत{नपुं}{2;एक}	क्रियाविशेषणम्,2	शास्त्रविहित	अल्लोटेड्				
+3	कर्म	3	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,2	कर्तव्यकर्म	डुट्य्				
+2	कुरु	4	कुरु	कृ3{कर्तरि;लोट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लोट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	अभिहित_कर्ता,4;सकर्मक	कर	पेर्ङोर्म्				
+8	अ-कर्मणः	5	0	अ-कर्मन्{नपुं}{5;एक}/कर्मन्{नपुं}{6;एक}	न-कर्मन्{नपुं}{6;एक}	तुलना_बिन्दुः,5	कर्म_न_करने_से	डेसिस्टिन्ग्_ङ्रोम्_अच्टिओन्	<न-कर्मणः>ठ्न्			
+5	कर्म	6	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{1;एक}	कर्ता,6.1	कर्म_करना	अच्टिओन्				
+7	हि	7	ह्यकर्मणः	हि{अव्य}	हि{अव्य}	सम्बन्धः,6.1	क्योंकि	ङोर्				
+6	ज्यायः	8	ज्यायो	ज्यायस्{नपुं}{1;एक}/ज्यायस्{नपुं}{2;एक}/ज्यायस्{नपुं}{8;एक}	ज्यायस्{नपुं}{1;एक}	विधेय_विशेषणम्,6.1	श्रेष्ठ	सुपेरिओर्				
+6.1	(अस्ति)	9	()	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;:अदादिः}	समुच्चितः,9	है					
+12	ते	10	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,9	तेरा	योउर्				
+9	शरीर-यात्रा	11	शरीरयात्रापि	शरीर-यातृ{स्त्री}{3;एक}/यात्रा{स्त्री}{1;एक}	शरीर-यात्रा{स्त्री}{1;एक}	कर्ता,14	शरीर-निर्वाह	मइन्टेनन्चे_ओङ्_बोड्य्	<शरीर-यात्रा>ठ्6			
+11	च	12	च	च{अव्य}	च{अव्य}	सम्बन्धः,9	तथा	अल्सो				
+10	अपि	13	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,9	भी	एवेन्				
+15	अकर्मणः	14	0	अ-कर्मन्{नपुं}{5;एक}/कर्मन्{नपुं}{6;एक}	न-कर्मन्{नपुं}{5;एक}	हेतुः,14	कर्म_न_करने_की_अपेक्षा	टो_इनच्टिओन्	<न-कर्मणः>ठ्न्			
+13	न	15	न	न{अव्य}	न{अव्य}	प्रतिषेधः,14	नहीं	चन्नोट्				
+14	प्रसिद्ध्येत्	16	प्रसिद्ध्येदकर्मणः	प्रसिद्ध्येत्	प्र_सिध्3{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;प्र_षिधुँ;दिवादिः}	अभिहित_कर्ता,9	सिद्ध_होगा	मइन्टइन्				

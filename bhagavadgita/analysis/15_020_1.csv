@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	iwi	3	iwi	iwi{avya}	iwi{avya}	sambanXaH,5	isa_prakAra	thus				
-2	guhya-wamam	5	guhyawamaM	guhya-wama{puM}{2;eka}/wama{napuM}{1;eka}/wama{napuM}{2;eka}	guhya-wama{napuM}{1;eka}	viSeRaNam,3	awi_rahasyayukwa_gopanIya	the_most_confidential				
-3	SAswram	6	SAswramixamukwaM	SAswra{napuM}{1;eka}/SAswra{napuM}{2;eka}	SAswra{napuM}{1;eka}	karma,5	SAswra	revealed_scripture				
-4	ixam	4	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,3	yaha	this				
-5	ukwam	8	0	ukwa{puM}{2;eka}/ukwa{napuM}{1;eka}/ukwa{napuM}{2;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;napuM}{1;eka}	aBihiwakarma,3;sakarmakaH	kahA_gayA	disclosed				
-6	mayA	7	mayAnaGa	asmax{3;eka}	asmax{3;eka}	karwA,5	mere_xvArA	by_Me				
-7	an-aGa	1	0	anaGa{puM}{8;eka}/anaGa{napuM}{8;eka}	anaGa{puM}{8;eka}	samboXyaH,5	he_niRpApa	O_sinless_one	<na-aGa>Bsmn			
-8	ewax	9	ewaxbuxXvA	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	karma,9	isako	this				
-9	buxXvA	10	0	buX1{kwvA;buXir;BvAxi}	buX2{kqw_prawyayaH:kwvA;buXizr;BvAxiH}	pUrvakAlaH,11	wawwva_se_jAnakara	understanding				
-10	buxXimAn	11	buxXimAnsyAwkqwakqwyaSca	buxXimaw{puM}{1;eka}	buxXimaw{puM}{1;eka}	sup_samucciwaH,12	jFAnavAn	intelligent				
-11	syAw	14	0	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}		ho_jAwA_hE	becomes				
-12	kqwa-kqwyaH	13	0	kqwa-kqwya{puM}{1;eka}	kqwa-kqwya{puM}{1;eka}	viXeya_viSeRaNam,11	kqwArWa	the_most_perfect	<kqwa-kqwyaH>Bs3			
-13	ca	12	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora	and				
-14	BArawa	2	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,11	arjuna	O_son_of_Bharata				
+1	इति	3	इति	इति{अव्य}	इति{अव्य}	सम्बन्धः,5	इस_प्रकार	ट्हुस्				
+2	गुह्य-तमम्	5	गुह्यतमं	गुह्य-तम{पुं}{2;एक}/तम{नपुं}{1;एक}/तम{नपुं}{2;एक}	गुह्य-तम{नपुं}{1;एक}	विशेषणम्,3	अति_रहस्ययुक्त_गोपनीय	ट्हे_मोस्ट्_चोन्ङिडेन्टिअल्				
+3	शास्त्रम्	6	शास्त्रमिदमुक्तं	शास्त्र{नपुं}{1;एक}/शास्त्र{नपुं}{2;एक}	शास्त्र{नपुं}{1;एक}	कर्म,5	शास्त्र	रेवेअलेड्_स्च्रिप्टुरे				
+4	इदम्	4	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	विशेषणम्,3	यह	ट्हिस्				
+5	उक्तम्	8	0	उक्त{पुं}{2;एक}/उक्त{नपुं}{1;एक}/उक्त{नपुं}{2;एक}	वच्1{कृत्_प्रत्ययः:क्त;वचँ;अदादिः;नपुं}{1;एक}	अभिहितकर्म,3;सकर्मकः	कहा_गया	डिस्च्लोसेड्				
+6	मया	7	मयानघ	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,5	मेरे_द्वारा	ब्य्_ंए				
+7	अन्-अघ	1	0	अनघ{पुं}{8;एक}/अनघ{नपुं}{8;एक}	अनघ{पुं}{8;एक}	सम्बोध्यः,5	हे_निष्पाप	औ_सिन्लेस्स्_ओने	<न-अघ>भ्स्म्न्			
+8	एतद्	9	एतद्बुद्ध्वा	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{2;एक}	कर्म,9	इसको	ट्हिस्				
+9	बुद्ध्वा	10	0	बुध्1{क्त्वा;बुधिर्;भ्वादि}	बुध्2{कृत्_प्रत्ययः:क्त्वा;बुधिँर्;भ्वादिः}	पूर्वकालः,11	तत्त्व_से_जानकर	उन्डेर्स्टन्डिन्ग्				
+10	बुद्धिमान्	11	बुद्धिमान्स्यात्कृतकृत्यश्च	बुद्धिमत्{पुं}{1;एक}	बुद्धिमत्{पुं}{1;एक}	सुप्_समुच्चितः,12	ज्ञानवान्	इन्टेल्लिगेन्ट्				
+11	स्यात्	14	0	अस्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;असँ;अदादिः}		हो_जाता_है	बेचोमेस्				
+12	कृत-कृत्यः	13	0	कृत-कृत्य{पुं}{1;एक}	कृत-कृत्य{पुं}{1;एक}	विधेय_विशेषणम्,11	कृतार्थ	ट्हे_मोस्ट्_पेर्ङेच्ट्	<कृत-कृत्यः>भ्स्3			
+13	च	12	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,12	और	अन्ड्				
+14	भारत	2	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,11	अर्जुन	औ_सोन्_ओङ्_भ्हरट				

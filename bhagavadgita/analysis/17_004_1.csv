@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yajanwe	3	yajanwe	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	aBihiwakarwA,2;sakarmakaH	pUjawe_hEM	worship				
-2	sAwwvikAH	1	sAwwvikA	sAwwvika{puM}{1;bahu}/sAwwvika{puM}{8;bahu}	sAwwvika{puM}{1;bahu}	karwA,1	sAwwvika_puruRa	those_who_are_in_the_mode_of_goodness				
-3	xevAn	2	xevAnyakRarakRAMsi	xeva{puM}{2;bahu}	xeva{puM}{2;bahu}	karma,1	xevoM_ko	demigods				
-4	yakRa-rakRAMsi	5	0	yakRa-rakRas{napuM}{1;bahu}/rakRas{napuM}{2;bahu}/rakRas{napuM}{8;bahu}	yakRa-rakRas{napuM}{2;bahu}	karma,5.1	yakRa_Ora_rAkRasoM_ko	demons	<yakRa-rakRAMsi>Di			
-5	rAjasAH	4	rAjasAH	rAjasa{puM}{1;bahu}/rAjasa{puM}{8;bahu}/rAjasA{swrI}{1;bahu}/rAjasA{swrI}{2;bahu}/rAjasA{swrI}{8;bahu}	rAjasa{puM}{1;bahu}	karwA,5.1	rAjasa_puruRa	those_who_are_in_the_mode_of_passion				
-5.1	(yajanwe)	6	(0)	(yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH})	(yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH})	aBihiwakarwA,5;sakarmakaH	(pUjawe_hEM)	worship				
-6	prewAn	10	prewAnBUwagaNAMScAnye	prewa{puM}{2;bahu}	prewa{puM}{2;bahu}	sup_samucciwaH,7	prewa	dead_spirits				
-7	BUwa-gaNAn	12	0	BUwa-gaNa{puM}{2;bahu}	BUwa-gaNa{puM}{2;bahu}	karma,10	BUwagaNoM_ko	ghosts	<BUwa-gaNAn>T6			
-8	ca	11	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	Ora	and				
-9	anye	7	0	anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anya{napuM}{7;eka}/anya{napuM}{8;xvi}/anya{puM}{1;bahu}/anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/anyA{swrI}{8;eka}/anyA{swrI}{8;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/an1{BAve;lat;u;eka;AwmanepaxI;anaz;axAxiH}	anya{puM}{1;bahu}	viSeRaNam,12	anya	others				
-10	yajanwe	13	yajanwe	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	aBihiwakarwA,12;sakarmakaH	pUjawe_hEM	worship				
-11	wAmasAH	8	wAmasA	wAmasa{puM}{1;bahu}/wAmasa{puM}{8;bahu}	wAmasa{puM}{1;bahu}	viSeRaNam,12	wAmasa	in_the_mode_of_ignorance				
-12	janAH	9	janAH	jana{puM}{1;bahu}/jana{puM}{8;bahu}	jana{puM}{1;bahu}	karwA,10	manuRya	people				
+1	यजन्ते	3	यजन्ते	यज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;यजँ;भ्वादिः}	यज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;यजँ;भ्वादिः}	अभिहितकर्ता,2;सकर्मकः	पूजते_हैं	तोर्स्हिप्				
+2	सात्त्विकाः	1	सात्त्विका	सात्त्विक{पुं}{1;बहु}/सात्त्विक{पुं}{8;बहु}	सात्त्विक{पुं}{1;बहु}	कर्ता,1	सात्त्विक_पुरुष	ट्होसे_त्हो_अरे_इन्_ट्हे_मोडे_ओङ्_गोओड्नेस्स्				
+3	देवान्	2	देवान्यक्षरक्षांसि	देव{पुं}{2;बहु}	देव{पुं}{2;बहु}	कर्म,1	देवों_को	डेमिगोड्स्				
+4	यक्ष-रक्षांसि	5	0	यक्ष-रक्षस्{नपुं}{1;बहु}/रक्षस्{नपुं}{2;बहु}/रक्षस्{नपुं}{8;बहु}	यक्ष-रक्षस्{नपुं}{2;बहु}	कर्म,5.1	यक्ष_और_राक्षसों_को	डेमोन्स्	<यक्ष-रक्षांसि>ढि			
+5	राजसाः	4	राजसाः	राजस{पुं}{1;बहु}/राजस{पुं}{8;बहु}/राजसा{स्त्री}{1;बहु}/राजसा{स्त्री}{2;बहु}/राजसा{स्त्री}{8;बहु}	राजस{पुं}{1;बहु}	कर्ता,5.1	राजस_पुरुष	ट्होसे_त्हो_अरे_इन्_ट्हे_मोडे_ओङ्_पस्सिओन्				
+5.1	(यजन्ते)	6	(0)	(यज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;यजँ;भ्वादिः})	(यज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;यजँ;भ्वादिः})	अभिहितकर्ता,5;सकर्मकः	(पूजते_हैं)	तोर्स्हिप्				
+6	प्रेतान्	10	प्रेतान्भूतगणांश्चान्ये	प्रेत{पुं}{2;बहु}	प्रेत{पुं}{2;बहु}	सुप्_समुच्चितः,7	प्रेत	डेअड्_स्पिरिट्स्				
+7	भूत-गणान्	12	0	भूत-गण{पुं}{2;बहु}	भूत-गण{पुं}{2;बहु}	कर्म,10	भूतगणों_को	ग्होस्ट्स्	<भूत-गणान्>ठ्6			
+8	च	11	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,9	और	अन्ड्				
+9	अन्ये	7	0	अन्य{नपुं}{1;द्वि}/अन्य{नपुं}{2;द्वि}/अन्य{नपुं}{7;एक}/अन्य{नपुं}{8;द्वि}/अन्य{पुं}{1;बहु}/अन्य{नपुं}{1;द्वि}/अन्य{नपुं}{2;द्वि}/अन्या{स्त्री}{1;द्वि}/अन्या{स्त्री}{2;द्वि}/अन्या{स्त्री}{8;एक}/अन्या{स्त्री}{8;द्वि}/अन्या{स्त्री}{1;द्वि}/अन्या{स्त्री}{2;द्वि}/अन्1{भावे;लट्;उ;एक;आत्मनेपदी;अनँ;अदादिः}	अन्य{पुं}{1;बहु}	विशेषणम्,12	अन्य	ओट्हेर्स्				
+10	यजन्ते	13	यजन्ते	यज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;यजँ;भ्वादिः}	यज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;यजँ;भ्वादिः}	अभिहितकर्ता,12;सकर्मकः	पूजते_हैं	तोर्स्हिप्				
+11	तामसाः	8	तामसा	तामस{पुं}{1;बहु}/तामस{पुं}{8;बहु}	तामस{पुं}{1;बहु}	विशेषणम्,12	तामस	इन्_ट्हे_मोडे_ओङ्_इग्नोरन्चे				
+12	जनाः	9	जनाः	जन{पुं}{1;बहु}/जन{पुं}{8;बहु}	जन{पुं}{1;बहु}	कर्ता,10	मनुष्य	पेओप्ले				

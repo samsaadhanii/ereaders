@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	weRAm	1	weRAmevAnukampArWamahamajFAnajaM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	RaRTIsambanXaH,3	unake_(Upara)	for_them				
+2	eva	5	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
+3	anukampA-arWam	2	0	anukampA{arWam}	anukampA-arWa{napuM}{1;eka}	prayojanam,7	anugraha_karane_ke_liye	to_show_special_mercy				
+4	aham	4	0	asmax{1;eka}	asmax{1;eka}	karwA,7	mEM	I				
+5	a-jFAna-jam	6	0	a-jFAna-ja{puM}{2;eka}	ajFAna-ja{napuM}{2;eka}	viSeRaNam,6	ajFAnajaniwa	due_to_ignorance	<<na-jFAna>Tn-jaM>U			
+6	wamaH	7	wamaH	wama{puM}{1;eka}/wamas{napuM}{1;eka}/wamas{napuM}{2;eka}	wamas{napuM}{2;eka}	karma,7	anXakAra_ko	darkness				
+7	nASayAmi	10	nASayAmyAwmaBAvasWo	naS1_Nic{karwari;lat;u;eka;parasmEpaxI;NaSaz;xivAxiH}	naS1_Nic{karwari;lat;u;eka;parasmEpaxI;NaSaz_Nic;xivAxiH}	aBihiwa_karwA,4;sakarmakaH	naRta_kara_xewA_hUz	dispel				
+8	Awma-BAva-sWaH	3	0	Awman-BAva-sWa{puM}{1;eka}	Awman-BAva-sWa{puM}{1;eka}	viSeRaNam,4	unake_anwaHkaraNa_meM_sWiwa_huA	within_themselves	<<Awma-BAva>T6-sWaH>U			
+9	jFAna-xIpena	9	jFAnaxIpena	jFAna-xIpa{puM}{3;eka}	jFAna-xIpa{puM}{3;eka}	karaNam,7	wawwvajFAnarUpa_xIpaka_ke_xvArA	with_the_lamp_of_knowledge	<jFAna-xIpena>T6			
+10	BAsvawA	8	BAsvawA	BAsvaw{puM}{3;eka}	BAsvaw{puM}{3;eka}	viSeRaNam,9	prakASamaya	glowing				

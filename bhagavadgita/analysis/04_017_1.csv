@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	karmaNaH	1	karmaNo	karman{napuM}{5;eka}/karman{napuM}{6;eka}	karman{napuM}{6;eka}	RaRTIsambanXaH,4	karma_kA	working_order				
-2	hi	13	hyapi	hi{avya}	hi{avya}	sambanXaH,1	kyoMki	certainly				
-3	api	3		api{avya}	api{avya}	sambanXaH,1	BI	also				
-4	boxXavyam	4	boxXavyaM	boxXavya{puM}{2;eka}/boxXavya{napuM}{1;eka}/boxXavya{napuM}{2;eka}	buX2{kqw_prawyayaH:wavyaw;buXizr;BvAxiH;napuM}{1;eka}	aBihiwa_karma,2.1	jAnanA_cAhiye	should_be_understood				
-4.1	(wawwvam)		()	(wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka}/wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka})		karma,4	(wawwva)					
-5	boxXavyam	8	boxXavyaM	boxXavya{puM}{2;eka}/boxXavya{napuM}{1;eka}/boxXavya{napuM}{2;eka}	buX2{kqw_prawyayaH:wavyaw;buXizr;BvAxiH;napuM}{1;eka}	samucciwaH,4;aBihiwa_karma,7	jAnanA_cAhiye	should_be_understood				
-6	ca	9	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	waWA	also				
-7	vi-karmaNaH	10	vikarmaNaH	vi-karman{napuM}{5;eka}/karman{napuM}{6;eka}	vikarman{napuM}{6;eka}	RaRTIsambanXaH,5	vikarma_kA	forbidden_work	<vi-karmaNaH>Bvp			
-7.1	(wawwvam)	7	()	(wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka}/wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka})	(wawwva{napuM}{2;eka})	karma,5	(wawwva)	be_liberated				
-8	a-karmaNaH	6	akarmaNaSca	a-karman{napuM}{5;eka}/karman{napuM}{6;eka}	na-karman{napuM}{6;eka}	RaRTIsambanXaH,10	akarma_kA	inaction	<na-karmaNaH>Tn			
-9	ca	5		ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora	also				
-10	boxXavyam	12	boxXavyam	boxXavya{puM}{2;eka}/boxXavya{napuM}{1;eka}/boxXavya{napuM}{2;eka}	buX2{kqw_prawyayaH:wavyaw;buXizr;BvAxiH;napuM}{1;eka}	samucciwaH,4;aBihiwa_karma,8	jAnanA_cAhiye	should_be_understood				
-10.1	(wawwvam)	11	()	(wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka}/wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka})	(wawwva{napuM}{2;eka})	karma,10	(wawwva)	knowing				
-11	gahanA	16	gahanA	gahanA{swrI}{1;eka}	gahanA{swrI}{1;eka}	viXeya_viSeRaNam,13	gahana	very_difficult				
-12	karmaNaH	14	karmaNo	karman{napuM}{5;eka}/karman{napuM}{6;eka}	karman{napuM}{6;eka}	RaRTIsambanXaH,13	karma_kI	working_order				
-13	gawiH	15	gawiH	gawi{swrI}{1;eka}	gawi{swrI}{1;eka}	karwA,14	gawi	to_enter_in_to				
-14	(Bavawi)	17	()	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,13	(howI_hE)	is				
+1	कर्मणः	1	कर्मणो	कर्मन्{नपुं}{5;एक}/कर्मन्{नपुं}{6;एक}	कर्मन्{नपुं}{6;एक}	षष्ठीसम्बन्धः,4	कर्म_का	तोर्किन्ग्_ओर्डेर्				
+2	हि	13	ह्यपि	हि{अव्य}	हि{अव्य}	सम्बन्धः,1	क्योंकि	चेर्टइन्ल्य्				
+3	अपि	3		अपि{अव्य}	अपि{अव्य}	सम्बन्धः,1	भी	अल्सो				
+4	बोद्धव्यम्	4	बोद्धव्यं	बोद्धव्य{पुं}{2;एक}/बोद्धव्य{नपुं}{1;एक}/बोद्धव्य{नपुं}{2;एक}	बुध्2{कृत्_प्रत्ययः:तव्यत्;बुधिँर्;भ्वादिः;नपुं}{1;एक}	अभिहित_कर्म,2.1	जानना_चाहिये	स्होउल्ड्_बे_उन्डेर्स्टोओड्				
+4.1	(तत्त्वम्)		()	(तत्त्व{नपुं}{1;एक}/तत्त्व{नपुं}{2;एक}/तत्त्व{नपुं}{1;एक}/तत्त्व{नपुं}{2;एक})		कर्म,4	(तत्त्व)					
+5	बोद्धव्यम्	8	बोद्धव्यं	बोद्धव्य{पुं}{2;एक}/बोद्धव्य{नपुं}{1;एक}/बोद्धव्य{नपुं}{2;एक}	बुध्2{कृत्_प्रत्ययः:तव्यत्;बुधिँर्;भ्वादिः;नपुं}{1;एक}	समुच्चितः,4;अभिहित_कर्म,7	जानना_चाहिये	स्होउल्ड्_बे_उन्डेर्स्टोओड्				
+6	च	9	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	तथा	अल्सो				
+7	वि-कर्मणः	10	विकर्मणः	वि-कर्मन्{नपुं}{5;एक}/कर्मन्{नपुं}{6;एक}	विकर्मन्{नपुं}{6;एक}	षष्ठीसम्बन्धः,5	विकर्म_का	ङोर्बिड्डेन्_तोर्क्	<वि-कर्मणः>भ्व्प्			
+7.1	(तत्त्वम्)	7	()	(तत्त्व{नपुं}{1;एक}/तत्त्व{नपुं}{2;एक}/तत्त्व{नपुं}{1;एक}/तत्त्व{नपुं}{2;एक})	(तत्त्व{नपुं}{2;एक})	कर्म,5	(तत्त्व)	बे_लिबेरटेड्				
+8	अ-कर्मणः	6	अकर्मणश्च	अ-कर्मन्{नपुं}{5;एक}/कर्मन्{नपुं}{6;एक}	न-कर्मन्{नपुं}{6;एक}	षष्ठीसम्बन्धः,10	अकर्म_का	इनच्टिओन्	<न-कर्मणः>ठ्न्			
+9	च	5		च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,10	और	अल्सो				
+10	बोद्धव्यम्	12	बोद्धव्यम्	बोद्धव्य{पुं}{2;एक}/बोद्धव्य{नपुं}{1;एक}/बोद्धव्य{नपुं}{2;एक}	बुध्2{कृत्_प्रत्ययः:तव्यत्;बुधिँर्;भ्वादिः;नपुं}{1;एक}	समुच्चितः,4;अभिहित_कर्म,8	जानना_चाहिये	स्होउल्ड्_बे_उन्डेर्स्टोओड्				
+10.1	(तत्त्वम्)	11	()	(तत्त्व{नपुं}{1;एक}/तत्त्व{नपुं}{2;एक}/तत्त्व{नपुं}{1;एक}/तत्त्व{नपुं}{2;एक})	(तत्त्व{नपुं}{2;एक})	कर्म,10	(तत्त्व)	क्नोतिन्ग्				
+11	गहना	16	गहना	गहना{स्त्री}{1;एक}	गहना{स्त्री}{1;एक}	विधेय_विशेषणम्,13	गहन	वेर्य्_डिङ्ङिचुल्ट्				
+12	कर्मणः	14	कर्मणो	कर्मन्{नपुं}{5;एक}/कर्मन्{नपुं}{6;एक}	कर्मन्{नपुं}{6;एक}	षष्ठीसम्बन्धः,13	कर्म_की	तोर्किन्ग्_ओर्डेर्				
+13	गतिः	15	गतिः	गति{स्त्री}{1;एक}	गति{स्त्री}{1;एक}	कर्ता,14	गति	टो_एन्टेर्_इन्_टो				
+14	(भवति)	17	()	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहित_कर्ता,13	(होती_है)	इस्				

@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yukwa-AhAra-vihArasya	1	yukwAhAravihArasya	yukwa-AhAra-vihAra{puM}{6;eka}	yukwa-AhAra-vihAra{puM}{6;eka}	RaRTIsambanXaH,5	yaWAyogya_AhAra-vihAra_karanevAle_kA	regulated_eating_and_recreation	<yukwa-<AhAra-vihArasya>Di>Bs6			
-2	yukwa-ceRtasya	2	yukwaceRtasya	yukwa-ceRta{puM}{6;eka}/ceRta{napuM}{6;eka}	yukwaceRta{puM}{6;eka}	sup_samucciwaH,1	yaWAyogya_ceRtA_karanevAle_kA	of_one_who_has_regulated_work_for_maintenance	<yukwa-ceRtasya>Bs6			
-3	karmasu	6	karmasu	karman{napuM}{7;bahu}	karman{napuM}{7;bahu}	aXikaraNam,6	karmoM_meM	in_discharging_duties				
-4	yukwa-svapna-avaboXasya	3	yukwasvapnAvaboXasya	yukwa-svapna-avaboXa{puM}{6;eka}/avaboXa{napuM}{6;eka}	yukwa-svapna-avaboXa{puM}{6;eka}	sup_samucciwaH,1	yaWAyogya_sone_waWA_jAganevAle_kA	regulated_sleep_and_wakefulness	<yukwa-<svapna-avaboXasya>Di>Bs6			
-4.1	(ca)	4	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,1	(Ora)	also				
-5	yogaH	5	yogo	yoga{puM}{1;eka}	yoga{puM}{1;eka}	karwA,6	yoga	practice_of_yoga				
-6	Bavawi	8	Bavawi	Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,5	howA_hE	becomes				
-7	xuHKa-hA	7	xuHKa-hA	xuHKa-hA{avya}	xuHKa-han{puM}{1;eka}	viXeya_viSeRaNam,6	xuHKoM_kA_nASa_karanevAlA	diminishing_pains	<xuHKa-hA>U			
+1	युक्त-आहार-विहारस्य	1	युक्ताहारविहारस्य	युक्त-आहार-विहार{पुं}{6;एक}	युक्त-आहार-विहार{पुं}{6;एक}	षष्ठीसम्बन्धः,5	यथायोग्य_आहार-विहार_करनेवाले_का	रेगुलटेड्_एअटिन्ग्_अन्ड्_रेच्रेअटिओन्	<युक्त-<आहार-विहारस्य>ढि>भ्स्6			
+2	युक्त-चेष्टस्य	2	युक्तचेष्टस्य	युक्त-चेष्ट{पुं}{6;एक}/चेष्ट{नपुं}{6;एक}	युक्तचेष्ट{पुं}{6;एक}	सुप्_समुच्चितः,1	यथायोग्य_चेष्टा_करनेवाले_का	ओङ्_ओने_त्हो_हस्_रेगुलटेड्_तोर्क्_ङोर्_मइन्टेनन्चे	<युक्त-चेष्टस्य>भ्स्6			
+3	कर्मसु	6	कर्मसु	कर्मन्{नपुं}{7;बहु}	कर्मन्{नपुं}{7;बहु}	अधिकरणम्,6	कर्मों_में	इन्_डिस्च्हर्गिन्ग्_डुटिएस्				
+4	युक्त-स्वप्न-अवबोधस्य	3	युक्तस्वप्नावबोधस्य	युक्त-स्वप्न-अवबोध{पुं}{6;एक}/अवबोध{नपुं}{6;एक}	युक्त-स्वप्न-अवबोध{पुं}{6;एक}	सुप्_समुच्चितः,1	यथायोग्य_सोने_तथा_जागनेवाले_का	रेगुलटेड्_स्लेएप्_अन्ड्_तकेङुल्नेस्स्	<युक्त-<स्वप्न-अवबोधस्य>ढि>भ्स्6			
+4.1	(च)	4	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,1	(और)	अल्सो				
+5	योगः	5	योगो	योग{पुं}{1;एक}	योग{पुं}{1;एक}	कर्ता,6	योग	प्रच्टिचे_ओङ्_योग				
+6	भवति	8	भवति	भवत्{पुं}{7;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहित_कर्ता,5	होता_है	बेचोमेस्				
+7	दुःख-हा	7	दुःख-हा	दुःख-हा{अव्य}	दुःख-हन्{पुं}{1;एक}	विधेय_विशेषणम्,6	दुःखों_का_नाश_करनेवाला	डिमिनिस्हिन्ग्_पइन्स्	<दुःख-हा>ऊ			

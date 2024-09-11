@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	karma-inxriyANi	3	karmenxriyANi	karman-inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}	karman-inxriya{napuM}{2;bahu}	karma,2	samaswa_inxriyoM_ko	the_organs_of_sense_and_action	<karma-inxriyANi>T6			
-2	saMyamya	4	saMyamya	sam_yam1{kqw_prawyayaH:lyap;yamoz;BvAxiH}/sam_yam2{kqw_prawyayaH:lyap;yamaz;BvAxiH}/sam_yam3{kqw_prawyayaH:lyap;yamaz;curAxiH}	sam_yam1{avya;lyap;yamuz;:BvAxiH}	pUrvakAlaH,4	rokakara	outwardly_restraining				
-3	yaH	1	ya	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,8;niwya_sambanXaH,10	jo	he_who				
-4	Aswe	8	Aswe	As1{karwari;lat;pra;eka;AwmanepaxI;Asaz;axAxiH}	As1{karwari;lat;pra;eka;AwmanepaxI;Asaz;axAxiH}	aBihiwa_karwA,4;akarmakaH	rahawA_hE	sits				
-5	manasA	5	manasA	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	karaNam,6	mana_se	mentally				
-6	smaran	7	smaran	smaraw{puM}{1;eka}/smaraw{puM}{8;eka}	smq1{kqw_prawyayaH:Sawq;smq;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,4	cinwan_karawA	dwelling				
-7	inxriya-arWAn	6	inxriyArWAnvimUDAwmA	inxriya-arWa{puM}{2;bahu}	inxriya-arWa{puM}{2;bahu}	karma,6	inxriyoM_ke_viRayoM_kA	on_the_objects_of_senses	<inxriya-arWAn>T6			
-8	vi-mUDa-AwmA	2		vimUDa-Awman{puM}{1;eka}	vimUDa-Awman{puM}{1;eka}	karwA,4	mUDa़buxXi_manuRya	the_man_of_deluded_intellect	<<vi-mUDa>Tp-AwmA>Bs6			
-9	miWyA-AcAraH	10	miWyAcAraH	miWyA-AcAra{puM}{1;eka}	miWyA-AcAra{puM}{1;eka}	karmasamAnAXikaraNam,11	miWyAcArI_arWAw_xamBI	a_hypocrite	<miWyA-AcAraH>Bs6			
-10	saH	9	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,11	vaha	he				
-11	ucyawe	11	ucyawe	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karma,10;sakarmakaH	kahA_jAwA_hE	(he)is_called				
+1	कर्म-इन्द्रियाणि	3	कर्मेन्द्रियाणि	कर्मन्-इन्द्रिय{नपुं}{1;बहु}/इन्द्रिय{नपुं}{2;बहु}	कर्मन्-इन्द्रिय{नपुं}{2;बहु}	कर्म,2	समस्त_इन्द्रियों_को	ट्हे_ओर्गन्स्_ओङ्_सेन्से_अन्ड्_अच्टिओन्	<कर्म-इन्द्रियाणि>ठ्6			
+2	संयम्य	4	संयम्य	सम्_यम्1{कृत्_प्रत्ययः:ल्यप्;यमोँ;भ्वादिः}/सम्_यम्2{कृत्_प्रत्ययः:ल्यप्;यमँ;भ्वादिः}/सम्_यम्3{कृत्_प्रत्ययः:ल्यप्;यमँ;चुरादिः}	सम्_यम्1{अव्य;ल्यप्;यमुँ;:भ्वादिः}	पूर्वकालः,4	रोककर	ओउट्तर्ड्ल्य्_रेस्ट्रइनिन्ग्				
+3	यः	1	य	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	विशेषणम्,8;नित्य_सम्बन्धः,10	जो	हे_त्हो				
+4	आस्ते	8	आस्ते	आस्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;आसँ;अदादिः}	आस्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;आसँ;अदादिः}	अभिहित_कर्ता,4;अकर्मकः	रहता_है	सिट्स्				
+5	मनसा	5	मनसा	मनस्{नपुं}{3;एक}/मनसा{स्त्री}{1;एक}	मनस्{नपुं}{3;एक}	करणम्,6	मन_से	मेन्टल्ल्य्				
+6	स्मरन्	7	स्मरन्	स्मरत्{पुं}{1;एक}/स्मरत्{पुं}{8;एक}	स्मृ1{कृत्_प्रत्ययः:शतृ;स्मृ;भ्वादिः;पुं}{1;एक}	वर्तमानसमानकालः,4	चिन्तन्_करता	ड्तेल्लिन्ग्				
+7	इन्द्रिय-अर्थान्	6	इन्द्रियार्थान्विमूढात्मा	इन्द्रिय-अर्थ{पुं}{2;बहु}	इन्द्रिय-अर्थ{पुं}{2;बहु}	कर्म,6	इन्द्रियों_के_विषयों_का	ओन्_ट्हे_ओब्जेच्ट्स्_ओङ्_सेन्सेस्	<इन्द्रिय-अर्थान्>ठ्6			
+8	वि-मूढ-आत्मा	2		विमूढ-आत्मन्{पुं}{1;एक}	विमूढ-आत्मन्{पुं}{1;एक}	कर्ता,4	मूढॆअञबुद्धि_मनुष्य	ट्हे_मन्_ओङ्_डेलुडेड्_इन्टेल्लेच्ट्	<<वि-मूढ>ठ्प्-आत्मा>भ्स्6			
+9	मिथ्या-आचारः	10	मिथ्याचारः	मिथ्या-आचार{पुं}{1;एक}	मिथ्या-आचार{पुं}{1;एक}	कर्मसमानाधिकरणम्,11	मिथ्याचारी_अर्थात्_दम्भी	अ_ह्य्पोच्रिटे	<मिथ्या-आचारः>भ्स्6			
+10	सः	9	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्म,11	वह	हे				
+11	उच्यते	11	उच्यते	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहित_कर्म,10;सकर्मकः	कहा_जाता_है	(हे)इस्_चल्लेड्				

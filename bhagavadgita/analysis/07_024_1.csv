@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-vyakwam	8	avyakwaM	a-vyakwa{puM}{2;eka}/vyakwa{napuM}{1;eka}/vyakwa{napuM}{2;eka}	avyakwa{puM}{2;eka}	viSeRaNam,5	mana-inxriyoM_se_pare	nonmanifested	<na-vyakwaM>Bsmn			
-2	vyakwim	10	vyakwimApannaM	vyakwi{swrI}{2;eka}	vyakwi{swrI}{2;eka}	karma,3	vyakwi-BAva_ko	personality				
-3	Apannam	11	0	Apanna{puM}{2;eka}/Apanna{napuM}{1;eka}/Apanna{napuM}{2;eka}	A_paw2{kqw_prawyayaH:kwa;jFA;xIvAxi;puM}{2;eka}	karmasamAnAXikaraNam,4	prApwa_huA	achieved				
-4	manyanwe	12	manyanwe	man1{karmaNi;lat;pra;bahu;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;bahu;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;pra;bahu;AwmanepaxI;manaz;xivAxiH}	aBihiwa_karwA,6;sakarmakaH	mAnawe_hEM	think				
-5	mAm	9	mAmabuxXayaH	asmax{2;eka}	asmax{2;eka}	karma,4	muJa_saccixAnanxaGana_paramAwmA_ko	unto_Me				
-6	a-buxXayaH	1	0	a-buxXi{swrI}{1;bahu}/buxXi{swrI}{8;bahu}	na-buxXi{swrI}{1;bahu}	karwA,4	buxXihIna_puruRa	less_intelligent_persons	<na-buxXayaH>Bsmn			
-7	param	5	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{puM}{2;eka}	viSeRaNam,8	parama	supreme				
-8	BAvam	6	BAvamajAnanwo	BAva{puM}{2;eka}	BAva{puM}{2;eka}	karma,9	BAva_ko	state_of_being				
-9	a-jAnanwaH	7	0	a-jAnanwaH	na-jFA2{kqw_prawyayaH:Sawq;jFA;kryAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,4	na_jAnawe_hue	without_knowing	<na-jAnanwaH>Tn			
-10	mama	2	mamAvyayamanuwwamam	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,8	mere	my				
-11	a-vyayam	4	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	avyaya{puM}{2;eka}	viSeRaNam,8	avinASI	imperishable	<na-vyayam>Bsmn			
-12	an-uwwamam	3	0	an-{avya}-uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	anuwwama{puM}{2;eka}	viSeRaNam,8	anuwwama	the_finest	<na-uwwamam>Bsmn			
+1	अ-व्यक्तम्	8	अव्यक्तं	अ-व्यक्त{पुं}{2;एक}/व्यक्त{नपुं}{1;एक}/व्यक्त{नपुं}{2;एक}	अव्यक्त{पुं}{2;एक}	विशेषणम्,5	मन-इन्द्रियों_से_परे	नोन्मनिङेस्टेड्	<न-व्यक्तं>भ्स्म्न्			
+2	व्यक्तिम्	10	व्यक्तिमापन्नं	व्यक्ति{स्त्री}{2;एक}	व्यक्ति{स्त्री}{2;एक}	कर्म,3	व्यक्ति-भाव_को	पेर्सोनलिट्य्				
+3	आपन्नम्	11	0	आपन्न{पुं}{2;एक}/आपन्न{नपुं}{1;एक}/आपन्न{नपुं}{2;एक}	आ_पत्2{कृत्_प्रत्ययः:क्त;ज्ञा;दीवादि;पुं}{2;एक}	कर्मसमानाधिकरणम्,4	प्राप्त_हुआ	अच्हिएवेड्				
+4	मन्यन्ते	12	मन्यन्ते	मन्1{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;मनँ;दिवादिः}/मन्2{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;मनुँ;तनादिः}	मन्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;मनँ;दिवादिः}	अभिहित_कर्ता,6;सकर्मकः	मानते_हैं	ट्हिन्क्				
+5	माम्	9	मामबुद्धयः	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,4	मुझ_सच्चिदानन्दघन_परमात्मा_को	उन्टो_ंए				
+6	अ-बुद्धयः	1	0	अ-बुद्धि{स्त्री}{1;बहु}/बुद्धि{स्त्री}{8;बहु}	न-बुद्धि{स्त्री}{1;बहु}	कर्ता,4	बुद्धिहीन_पुरुष	लेस्स्_इन्टेल्लिगेन्ट्_पेर्सोन्स्	<न-बुद्धयः>भ्स्म्न्			
+7	परम्	5	परं	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{पुं}{2;एक}	विशेषणम्,8	परम	सुप्रेमे				
+8	भावम्	6	भावमजानन्तो	भाव{पुं}{2;एक}	भाव{पुं}{2;एक}	कर्म,9	भाव_को	स्टटे_ओङ्_बेइन्ग्				
+9	अ-जानन्तः	7	0	अ-जानन्तः	न-ज्ञा2{कृत्_प्रत्ययः:शतृ;ज्ञा;क्र्यादिः;पुं}{1;बहु}	वर्तमानसमानकालः,4	न_जानते_हुए	तिट्होउट्_क्नोतिन्ग्	<न-जानन्तः>ठ्न्			
+10	मम	2	ममाव्ययमनुत्तमम्	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,8	मेरे	म्य्				
+11	अ-व्ययम्	4	0	अ-व्यय{पुं}{2;एक}/व्यय{नपुं}{1;एक}/व्यय{नपुं}{2;एक}	अव्यय{पुं}{2;एक}	विशेषणम्,8	अविनाशी	इम्पेरिस्हब्ले	<न-व्ययम्>भ्स्म्न्			
+12	अन्-उत्तमम्	3	0	अन्-{अव्य}-उत्तम{पुं}{2;एक}/उत्तम{नपुं}{1;एक}/उत्तम{नपुं}{2;एक}	अनुत्तम{पुं}{2;एक}	विशेषणम्,8	अनुत्तम	ट्हे_ङिनेस्ट्	<न-उत्तमम्>भ्स्म्न्			

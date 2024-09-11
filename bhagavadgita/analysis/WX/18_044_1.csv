@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kqRi-gO-rakRya-vANijyam	1	kqRigOrakRyavANijyaM	kqRi-gOrakRya-vANijya{napuM}{1;eka}/vANijya{napuM}{2;eka}	kqRi-gO-rakRya-vANijya{napuM}{1;eka}	karwA,3.1	KewI_gopAlana_Ora_kraya-vikrayarUpa_sawya-vyavahAra	plowing,_protection_of_the_cows_and_trading	<<kqRi-<gO-rakRya>U>Di-vANijyam>T6			
+2	vESya-karma	3	vESyakarma	vESyakarman{napuM}{1;eka}/vESyakarman{napuM}{2;eka}	vESya-karman{napuM}{1;eka}	viXeya_viSeRaNam,3.1	vESya_karma	duty_of_vaisya	<vESya-karma>T6			
+3	sva-BAva-jam	2	svaBAvajam	svaBAvaja{puM}{2;eka}/svaBAvaja{napuM}{1;eka}/svaBAvaja{napuM}{2;eka}	svaBAva-ja{napuM}{1;eka}	viSeRaNam,2	svABAvika	born_of_his_own_nature	<<sva-BAva>T6-jam>U			
+3.1	(aswi)	4	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,1;akarmakaH	(hEM)	is				
+4	paricarya-Awmakam	5	paricaryAwmakaM	paricarya-Awmakam	paricarya-Awmaka{napuM}{1;eka}	viSeRaNam,5	saba_varNoM_kI_sevA_karanA	nature_of_service	<paricarya-Awmakam>Bs6			
+5	karma	9	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwA,8.1	karma	duty				
+6	SUxrasya	6	SUxrasyApi	SUxra{puM}{6;eka}	SUxra{puM}{6;eka}	RaRTIsambanXaH,8	SUxra_kA	of_the_sudra				
+7	api	7	0	api{avya}	api{avya}	sambanXaH,6	BI	also				
+8	sva-BAva-jam	8	svaBAvajam	svaBAvaja{puM}{2;eka}/svaBAvaja{napuM}{1;eka}/svaBAvaja{napuM}{2;eka}	svaBAva-ja{napuM}{1;eka}	viXeya_viSeRaNam,8.1	svABAvika	born_of_his_own_nature	<<sva-BAva>T6-jam>U			
+8.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hE)	is				

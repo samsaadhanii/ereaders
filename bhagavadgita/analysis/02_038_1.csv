@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	suKa-xuHKe	2	suKaxuHKe	suKa-xuHKa{napuM}{1;xvi}/xuHKa{napuM}{2;xvi}/xuHKa{napuM}{7;eka}/xuHKa{napuM}{8;xvi}/xuHKA{swrI}{1;xvi}/xuHKA{swrI}{2;xvi}/xuHKA{swrI}{8;eka}/xuHKA{swrI}{8;xvi}	suKa-xuHKa{napuM}{2;xvi}	sup_samucciwaH,5	suKa-xuHKa_ko	in_pleasure_and_pain	<suKa-xuHKe>Di			
-2	same	6	same	sama{puM}{7;eka}/sama{napuM}{1;xvi}/sama{napuM}{2;xvi}/sama{napuM}{7;eka}/sama{napuM}{8;xvi}/sama{puM}{1;bahu}/sama{napuM}{1;xvi}/sama{napuM}{2;xvi}/samA{swrI}{1;xvi}/samA{swrI}{2;xvi}/samA{swrI}{8;eka}/samA{swrI}{8;xvi}/samA{swrI}{1;xvi}/samA{swrI}{2;xvi}	sama{napuM}{2;xvi}	kriyAviSeRaNam,3	samAna	alike				
-3	kqwvA	7	kqwvA	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,8	samaJakara	treating				
-4	lABa-alABO	3	lABAlABO	lABa-alABa{puM}{1;xvi}/alABa{puM}{2;xvi}/alABa{puM}{8;xvi}	lABa-alABa{puM}{2;xvi}	sup_samucciwaH,5	lABa-hAni_ko	both_in_gain_and_loss	<lABa-alABO>Di			
-5	jaya-ajayO	4	jayAjayO	jaya-ajaya{puM}{1;xvi}/ajaya{puM}{2;xvi}/ajaya{puM}{8;xvi}	jaya-ajaya{puM}{2;xvi}	karma,3	jaya-parAjaya_ko	both_in_victory_and_defeat	<jaya-ajayO>Di			
-5.1	(ca)	5	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,5	(Ora)	and				
-5.2	(wvam)	1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wuma)	you				
-6	wawaH	8	wawo	wawaH{avya}	wawaH{avya}	apAxAnam,8	usake_bAxa	thereafter				
-7	yuxXAya	9	yuxXAya	yuxXa{puM}{4;eka}/yuxXa{napuM}{4;eka}	yuxXa{napuM}{4;eka}	prayojanam,8	yuxXa_ke_liye	for_battle				
-8	yujyasva	10	yujyasva	yuj1{BAve;lot;ma;eka;AwmanepaxI;yujaz;xivAxiH}/yuj2{karmaNi;lot;ma;eka;AwmanepaxI;yujizr;ruXAxiH}	yuj1{BAve;lot;ma;eka;AwmanepaxI;yujaz;xivAxiH}	aBihiwakarwA,5.2;akarmakaH	wEyAra_ho_jAo	get_ready				
-9	na	14	nEvaM	na{avya}	na{avya}	prawiReXaH,12	nahIM	not				
-10	evam	11	0	evam{avya}	evam{avya}	kriyAviSeRaNam,12	isa_prakAra	thus				
-11	pApam	13	pApamavApsyasi	pApa{puM}{2;eka}/pApa{napuM}{1;eka}/pApa{napuM}{2;eka}	pApa{napuM}{2;eka}	karma,12	pApa_ko	sin				
-12	avApsyasi	15	0	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ApLz;svAxiH}	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ava_ApLz;svAxiH}	aBihiwakarwA,12.1;akarmakaH	prApwa_hoge	will_incur				
-12.1	(wvam)	12	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wuma)	you				
+1	सुख-दुःखे	2	सुखदुःखे	सुख-दुःख{नपुं}{1;द्वि}/दुःख{नपुं}{2;द्वि}/दुःख{नपुं}{7;एक}/दुःख{नपुं}{8;द्वि}/दुःखा{स्त्री}{1;द्वि}/दुःखा{स्त्री}{2;द्वि}/दुःखा{स्त्री}{8;एक}/दुःखा{स्त्री}{8;द्वि}	सुख-दुःख{नपुं}{2;द्वि}	सुप्_समुच्चितः,5	सुख-दुःख_को	इन्_प्लेअसुरे_अन्ड्_पइन्	<सुख-दुःखे>ढि			
+2	समे	6	समे	सम{पुं}{7;एक}/सम{नपुं}{1;द्वि}/सम{नपुं}{2;द्वि}/सम{नपुं}{7;एक}/सम{नपुं}{8;द्वि}/सम{पुं}{1;बहु}/सम{नपुं}{1;द्वि}/सम{नपुं}{2;द्वि}/समा{स्त्री}{1;द्वि}/समा{स्त्री}{2;द्वि}/समा{स्त्री}{8;एक}/समा{स्त्री}{8;द्वि}/समा{स्त्री}{1;द्वि}/समा{स्त्री}{2;द्वि}	सम{नपुं}{2;द्वि}	क्रियाविशेषणम्,3	समान	अलिके				
+3	कृत्वा	7	कृत्वा	कृ1{कृत्_प्रत्ययः:क्त्वा;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:क्त्वा;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	पूर्वकालः,8	समझकर	ट्रेअटिन्ग्				
+4	लाभ-अलाभौ	3	लाभालाभौ	लाभ-अलाभ{पुं}{1;द्वि}/अलाभ{पुं}{2;द्वि}/अलाभ{पुं}{8;द्वि}	लाभ-अलाभ{पुं}{2;द्वि}	सुप्_समुच्चितः,5	लाभ-हानि_को	बोट्ह्_इन्_गइन्_अन्ड्_लोस्स्	<लाभ-अलाभौ>ढि			
+5	जय-अजयौ	4	जयाजयौ	जय-अजय{पुं}{1;द्वि}/अजय{पुं}{2;द्वि}/अजय{पुं}{8;द्वि}	जय-अजय{पुं}{2;द्वि}	कर्म,3	जय-पराजय_को	बोट्ह्_इन्_विच्टोर्य्_अन्ड्_डेङेअट्	<जय-अजयौ>ढि			
+5.1	(च)	5	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,5	(और)	अन्ड्				
+5.2	(त्वम्)	1	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,8	(तुम)	योउ				
+6	ततः	8	ततो	ततः{अव्य}	ततः{अव्य}	अपादानम्,8	उसके_बाद	ट्हेरेअङ्टेर्				
+7	युद्धाय	9	युद्धाय	युद्ध{पुं}{4;एक}/युद्ध{नपुं}{4;एक}	युद्ध{नपुं}{4;एक}	प्रयोजनम्,8	युद्ध_के_लिये	ङोर्_बट्ट्ले				
+8	युज्यस्व	10	युज्यस्व	युज्1{भावे;लोट्;म;एक;आत्मनेपदी;युजँ;दिवादिः}/युज्2{कर्मणि;लोट्;म;एक;आत्मनेपदी;युजिँर्;रुधादिः}	युज्1{भावे;लोट्;म;एक;आत्मनेपदी;युजँ;दिवादिः}	अभिहितकर्ता,5.2;अकर्मकः	तैयार_हो_जाओ	गेट्_रेअड्य्				
+9	न	14	नैवं	न{अव्य}	न{अव्य}	प्रतिषेधः,12	नहीं	नोट्				
+10	एवम्	11	0	एवम्{अव्य}	एवम्{अव्य}	क्रियाविशेषणम्,12	इस_प्रकार	ट्हुस्				
+11	पापम्	13	पापमवाप्स्यसि	पाप{पुं}{2;एक}/पाप{नपुं}{1;एक}/पाप{नपुं}{2;एक}	पाप{नपुं}{2;एक}	कर्म,12	पाप_को	सिन्				
+12	अवाप्स्यसि	15	0	अव_आप्1{कर्तरि;लृट्;म;एक;परस्मैपदी;आपॢँ;स्वादिः}	अव_आप्1{कर्तरि;लृट्;म;एक;परस्मैपदी;अव_आपॢँ;स्वादिः}	अभिहितकर्ता,12.1;अकर्मकः	प्राप्त_होगे	तिल्ल्_इन्चुर्				
+12.1	(त्वम्)	12	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,12	(तुम)	योउ				

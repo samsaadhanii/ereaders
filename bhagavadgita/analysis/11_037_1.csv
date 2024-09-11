@@ -1,24 +1,24 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kasmAw	8	kasmAcca	kasmAw{avya}/kim{puM}{5;eka}/kim{napuM}{5;eka}	kim{napuM}{5;eka}	hewuH,5	kEse	why				
-2	ca	5	0	ca{avya}	ca{avya}	sambanXaH,7	Ora	also				
-3	we	7	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	karwA,5	Apake_liye	unto_You				
-4	na	9	na	na{avya}	na{avya}	prawiReXaH,5	na	not				
-5	nameran	10	nameranmahAwman	nameran	nam1{karwari;viXilif;pra;bahu;AwmanepaxI;Namaz;BvAxiH}	aBihiwa_karwA,3	namaskAra_kareM	offer_proper_obeisances				
-6	mahaw-Awman	1	0	mahaw-Awman{puM}{8;eka}	mahax-Awman{puM}{8;eka}	samboXyaH,5	he_mahAwman	O_great_one	<mahaw-Awman>Bs6			
-7	garIyase	6	garIyase	garIyas{puM}{4;eka}/garIyas{napuM}{4;eka}	garIyas{puM}{4;eka}	viSeRaNam,10	saba_se_bada़e	are_better_than				
-8	brahmaNaH	2	brahmaNoZpyAxikarwre	brahman{puM}{2;bahu}/brahman{puM}{5;eka}/brahman{puM}{6;eka}/brahman{napuM}{5;eka}/brahman{napuM}{6;eka}	brahman{napuM}{6;eka}	RaRTIsambanXaH,10	brahmA_ke	Brahma				
-9	api	3	0	api{avya}	api{avya}	sambanXaH,10	BI	although				
-10	Axi-karwre	4	0	Axin-karwq{puM}{4;eka}	Axi-karwq{puM}{4;eka}	sampraxAnam,5	AxikarwA	the_supreme_creator	<Axi-karwre>K1			
-11	an-anwa	11	ananwa	an-{avya}-anwa{puM}{8;eka}/anwa{napuM}{8;eka}	ananwa{puM}{8;eka}	samboXyaH,19.1	he_ananwa	unlimited	<na-anwa>Bsmn			
-12	xeva-ISa	12	xeveSa	xeva-ISa{puM}{8;eka}	xeveSa{puM}{8;eka}	samboXyaH,19.1	he_xeveSa	God_of_the_gods	<xeva-ISa>T6			
-13	jagaw-nivAsa	13	jannivAsa	jagaw-nivAsa{puM}{8;eka}/nivAsa{napuM}{8;eka}	jagaw-nivAsa{puM}{8;eka}	samboXyaH,19.1	he_jagannivAsa	O_refuge_of_the_universe	<jagaw-nivAsa>Bs6			
-14	wvam	22	wvamakRaraM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,14.2	Apa	you				
-14.1	(waw)	21	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{1;eka})	viXeya_viSeRaNam,14.2	(vaha)	that				
-14.2	(asi)	23	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,14	(hEM)	are				
-15	a-kRaram	19	0	a-kRara{napuM}{1;eka}/kRara{napuM}{2;eka}	akRara{napuM}{1;eka}	viXeya_viSeRaNam,19.1	akRara	imperishable	<na-kRaram>Tn			
-16	saw	15	saxasawwawparaM	saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	saw{napuM}{1;eka}	sup_samucciwaH,18	saw	cause				
-17	a-saw	16	0	a-saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	asaw{napuM}{1;eka}	sup_samucciwaH,18	asaw	effect	<na-saw>Tn			
-18	waw-param	18	0	wax-para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	wax-para{napuM}{1;eka}	viSeRaNam,15	unase_pare	transcendental				
-18.1	(ca)	17	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,18	(Ora)	and				
-19	yaw	14	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,19.1;niwya_sambanXaH,14.1	jo	because				
-19.1	(aswi)	20	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,19	(hEM)	is				
+1	कस्मात्	8	कस्माच्च	कस्मात्{अव्य}/किम्{पुं}{5;एक}/किम्{नपुं}{5;एक}	किम्{नपुं}{5;एक}	हेतुः,5	कैसे	त्ह्य्				
+2	च	5	0	च{अव्य}	च{अव्य}	सम्बन्धः,7	और	अल्सो				
+3	ते	7	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	कर्ता,5	आपके_लिये	उन्टो_Yओउ				
+4	न	9	न	न{अव्य}	न{अव्य}	प्रतिषेधः,5	न	नोट्				
+5	नमेरन्	10	नमेरन्महात्मन्	नमेरन्	नम्1{कर्तरि;विधिलिङ्;प्र;बहु;आत्मनेपदी;णमँ;भ्वादिः}	अभिहित_कर्ता,3	नमस्कार_करें	ओङ्ङेर्_प्रोपेर्_ओबेइसन्चेस्				
+6	महत्-आत्मन्	1	0	महत्-आत्मन्{पुं}{8;एक}	महद्-आत्मन्{पुं}{8;एक}	सम्बोध्यः,5	हे_महात्मन्	औ_ग्रेअट्_ओने	<महत्-आत्मन्>भ्स्6			
+7	गरीयसे	6	गरीयसे	गरीयस्{पुं}{4;एक}/गरीयस्{नपुं}{4;एक}	गरीयस्{पुं}{4;एक}	विशेषणम्,10	सब_से_बडॆअञए	अरे_बेट्टेर्_ट्हन्				
+8	ब्रह्मणः	2	ब्रह्मणोऽप्यादिकर्त्रे	ब्रह्मन्{पुं}{2;बहु}/ब्रह्मन्{पुं}{5;एक}/ब्रह्मन्{पुं}{6;एक}/ब्रह्मन्{नपुं}{5;एक}/ब्रह्मन्{नपुं}{6;एक}	ब्रह्मन्{नपुं}{6;एक}	षष्ठीसम्बन्धः,10	ब्रह्मा_के	भ्रह्म				
+9	अपि	3	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,10	भी	अल्ट्होउग्ह्				
+10	आदि-कर्त्रे	4	0	आदिन्-कर्तृ{पुं}{4;एक}	आदि-कर्तृ{पुं}{4;एक}	सम्प्रदानम्,5	आदिकर्ता	ट्हे_सुप्रेमे_च्रेअटोर्	<आदि-कर्त्रे>ख्1			
+11	अन्-अन्त	11	अनन्त	अन्-{अव्य}-अन्त{पुं}{8;एक}/अन्त{नपुं}{8;एक}	अनन्त{पुं}{8;एक}	सम्बोध्यः,19.1	हे_अनन्त	उन्लिमिटेड्	<न-अन्त>भ्स्म्न्			
+12	देव-ईश	12	देवेश	देव-ईश{पुं}{8;एक}	देवेश{पुं}{8;एक}	सम्बोध्यः,19.1	हे_देवेश	घोड्_ओङ्_ट्हे_गोड्स्	<देव-ईश>ठ्6			
+13	जगत्-निवास	13	जन्निवास	जगत्-निवास{पुं}{8;एक}/निवास{नपुं}{8;एक}	जगत्-निवास{पुं}{8;एक}	सम्बोध्यः,19.1	हे_जगन्निवास	औ_रेङुगे_ओङ्_ट्हे_उनिवेर्से	<जगत्-निवास>भ्स्6			
+14	त्वम्	22	त्वमक्षरं	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,14.2	आप	योउ				
+14.1	(तत्)	21	(0)	(तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक})	(तद्{नपुं}{1;एक})	विधेय_विशेषणम्,14.2	(वह)	ट्हट्				
+14.2	(असि)	23	(0)	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,14	(हैं)	अरे				
+15	अ-क्षरम्	19	0	अ-क्षर{नपुं}{1;एक}/क्षर{नपुं}{2;एक}	अक्षर{नपुं}{1;एक}	विधेय_विशेषणम्,19.1	अक्षर	इम्पेरिस्हब्ले	<न-क्षरम्>ठ्न्			
+16	सत्	15	सदसत्तत्परं	सत्{पुं}{1;एक}/सत्{पुं}{8;एक}/सत्{स्त्री}{1;एक}/सत्{स्त्री}{8;एक}/सत्{नपुं}{1;एक}/सत्{नपुं}{2;एक}/सत्{नपुं}{8;एक}	सत्{नपुं}{1;एक}	सुप्_समुच्चितः,18	सत्	चउसे				
+17	अ-सत्	16	0	अ-सत्{पुं}{1;एक}/सत्{पुं}{8;एक}/सत्{स्त्री}{1;एक}/सत्{स्त्री}{8;एक}/सत्{नपुं}{1;एक}/सत्{नपुं}{2;एक}/सत्{नपुं}{8;एक}	असत्{नपुं}{1;एक}	सुप्_समुच्चितः,18	असत्	एङ्ङेच्ट्	<न-सत्>ठ्न्			
+18	तत्-परम्	18	0	तद्-पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	तद्-पर{नपुं}{1;एक}	विशेषणम्,15	उनसे_परे	ट्रन्स्चेन्डेन्टल्				
+18.1	(च)	17	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,18	(और)	अन्ड्				
+19	यत्	14	यत्	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	कर्ता,19.1;नित्य_सम्बन्धः,14.1	जो	बेचउसे				
+19.1	(अस्ति)	20	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,19	(हैं)	इस्				

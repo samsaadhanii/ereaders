@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	cawur-viXAH	9	cawurviXA	cawur-viXa{puM}{1;bahu}/viXa{puM}{8;bahu}/viXA{swrI}{1;bahu}/viXA{swrI}{2;bahu}/viXA{swrI}{8;bahu}/viXas{puM}{1;eka}	cawur-viXa{puM}{1;bahu}	viSeRaNam,4	cAra_prakAra_ke	four_kinds_of	<cawar-viXAH>Bs6			
-2	Bajanwe	13	Bajanwe	Baj1{karwari;lat;pra;bahu;AwmanepaxI;Bajaz;BvAxiH}	Baj1{karwari;lat;pra;bahu;AwmanepaxI;Bajaz;BvAxiH}	aBihiwa_karwA,4	Bajawe_hEM	render_services				
-3	mAm	12	mAM	asmax{2;eka}	asmax{2;eka}	karma,2	muJako	unto_Me				
-4	janAH	11	janAH	jana{puM}{1;bahu}/jana{puM}{8;bahu}	jana{puM}{1;bahu}	karwA,2	Bakwajana	persons				
-5	su-kqwinaH	10	sukqwinoZrjuna	su-{avya}-kqwin{puM}{1;bahu}/kqwin{puM}{2;bahu}/kqwin{puM}{5;eka}/kqwin{puM}{6;eka}/kqwin{puM}{8;bahu}	sukqwin{puM}{1;bahu}	viSeRaNam,9	uwwama_karma_karanevAle	those_who_are_pious	<su-kqwinaH>Bs6			
-6	arjuna	2	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,2	arjuna	O_Arjuna				
-7	ArwaH	3	Arwo	Arwa{puM}{1;eka}	Arwa{puM}{1;eka}	Gataka,1	Arwa	the_distressed				
-8	jijFAsuH	4	jijFAsurarWArWI	jijFAsu{puM}{1;eka}	jijFAsu{puM}{1;eka}	Gataka,1	jijFAsu	the_inquisitive				
-9	arWa-arWI	5	0	arWa-arWin{puM}{1;eka}	arWa-arWin{puM}{1;eka}	Gataka,1	arWArWI	one_who_desires_material_gain	<arWa-arWI>T6			
-10	jFAnI	6	jFAnI	jFAnin{puM}{1;eka}	jFAnin{puM}{1;eka}	Gataka,1	jFAnI	one_who_knows_things_as_they_are				
-11	ca	7	ca	ca{avya}	ca{avya}	sambanXaH,1	Ora	also				
-12	BarawarRaBa	1	BarawarRaBa	BarawarRaBa{puM}{8;eka}	BarawarRaBa{puM}{8;eka}	viSeRaNam,6	he_BarawavaMSiyoM_meM_SreRTa	O_great_one_amongst_the_descendants_of_Bharata				
+1	चतुर्-विधाः	9	चतुर्विधा	चतुर्-विध{पुं}{1;बहु}/विध{पुं}{8;बहु}/विधा{स्त्री}{1;बहु}/विधा{स्त्री}{2;बहु}/विधा{स्त्री}{8;बहु}/विधस्{पुं}{1;एक}	चतुर्-विध{पुं}{1;बहु}	विशेषणम्,4	चार_प्रकार_के	ङोउर्_किन्ड्स्_ओङ्	<चतर्-विधाः>भ्स्6			
+2	भजन्ते	13	भजन्ते	भज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;भजँ;भ्वादिः}	भज्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;भजँ;भ्वादिः}	अभिहित_कर्ता,4	भजते_हैं	रेन्डेर्_सेर्विचेस्				
+3	माम्	12	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,2	मुझको	उन्टो_ंए				
+4	जनाः	11	जनाः	जन{पुं}{1;बहु}/जन{पुं}{8;बहु}	जन{पुं}{1;बहु}	कर्ता,2	भक्तजन	पेर्सोन्स्				
+5	सु-कृतिनः	10	सुकृतिनोऽर्जुन	सु-{अव्य}-कृतिन्{पुं}{1;बहु}/कृतिन्{पुं}{2;बहु}/कृतिन्{पुं}{5;एक}/कृतिन्{पुं}{6;एक}/कृतिन्{पुं}{8;बहु}	सुकृतिन्{पुं}{1;बहु}	विशेषणम्,9	उत्तम_कर्म_करनेवाले	ट्होसे_त्हो_अरे_पिओउस्	<सु-कृतिनः>भ्स्6			
+6	अर्जुन	2	0	अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,2	अर्जुन	औ_आर्जुन				
+7	आर्तः	3	आर्तो	आर्त{पुं}{1;एक}	आर्त{पुं}{1;एक}	घटक,1	आर्त	ट्हे_डिस्ट्रेस्सेड्				
+8	जिज्ञासुः	4	जिज्ञासुरर्थार्थी	जिज्ञासु{पुं}{1;एक}	जिज्ञासु{पुं}{1;एक}	घटक,1	जिज्ञासु	ट्हे_इनृउइसिटिवे				
+9	अर्थ-अर्थी	5	0	अर्थ-अर्थिन्{पुं}{1;एक}	अर्थ-अर्थिन्{पुं}{1;एक}	घटक,1	अर्थार्थी	ओने_त्हो_डेसिरेस्_मटेरिअल्_गइन्	<अर्थ-अर्थी>ठ्6			
+10	ज्ञानी	6	ज्ञानी	ज्ञानिन्{पुं}{1;एक}	ज्ञानिन्{पुं}{1;एक}	घटक,1	ज्ञानी	ओने_त्हो_क्नोत्स्_ट्हिन्ग्स्_अस्_ट्हेय्_अरे				
+11	च	7	च	च{अव्य}	च{अव्य}	सम्बन्धः,1	और	अल्सो				
+12	भरतर्षभ	1	भरतर्षभ	भरतर्षभ{पुं}{8;एक}	भरतर्षभ{पुं}{8;एक}	विशेषणम्,6	हे_भरतवंशियों_में_श्रेष्ठ	औ_ग्रेअट्_ओने_अमोन्ग्स्ट्_ट्हे_डेस्चेन्डन्ट्स्_ओङ्_भ्हरट				

@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kEH	6	kErlifgEswrInguNAnewAnawIwo	kim{puM}{3;bahu}/kim{napuM}{3;bahu}	kim{napuM}{3;bahu}	viSeRaNam,2	kina	by_which				
+2	lifgEH	7	0	lifga{napuM}{3;bahu}	lifga{napuM}{3;bahu}	karaNam,6	lakRaNoM_se	symptoms				
+3	wrIn	2	0	wri{puM}{2;bahu}/wri{puM}{2;bahu}	wri{puM}{2;bahu}	viSeRaNam,4	wInoM	three				
+4	guNAn	3	0	guNa{puM}{2;bahu}	guNa{puM}{2;bahu}	karma,6	guNoM_se	qualities				
+5	ewAn	1	0	ewax{puM}{2;bahu}	ewax{puM}{2;bahu}	viSeRaNam,4	ina	all_this				
+6	awIwaH	4	0	awIwa{puM}{1;eka}	awi_i1{kqw_prawyayaH:kwa;awi_iN;axAxiH;puM}{1;eka}	karwA,7	awIwa	having_transcended				
+7	Bavawi	8	Bavawi	Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}		howA_hE	become				
+8	praBo	12	praBo	praBu{puM}{8;eka}/praBu{napuM}{8;eka}	praBu{puM}{8;eka}	samboXyaH,7	he_praBo	my_Lord				
+9	kim-AcAraH	10	kimAcAraH	kim-AcAra{puM}{1;eka}	kim-AcAra{puM}{1;eka}	karwA,9.1	kisa_prakAra_ke_AcaraNoMvAlA	what_behaviour	<kim-AcAraH>Bs6			
+9.1	(Bavawi)	11	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,9;akarmakaH	(howA_hE)	becomes				
+10	kaWam	13	kaWaM	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,14	kEse	what				
+11	ca	9	cEwAMswrInguNAnawivarwawe	ca{avya}	ca{avya}	sambanXaH,15	Ora	also				
+12	ewAn	14	0	ewax{puM}{2;bahu}	ewax{puM}{2;bahu}	viSeRaNam,13	ina	these				
+13	wrIn	15	0	wri{puM}{2;bahu}/wri{puM}{2;bahu}	wri{puM}{2;bahu}	viSeRaNam,14	wInoM	three				
+14	guNAn	16	0	guNa{puM}{2;bahu}	guNa{puM}{2;bahu}	karma,15	guNoM_se	qualities				
+15	awivarwawe	17	0	awi_vqw1{karwari;lat;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	awi_vqw1{karwari;lat;pra;eka;AwmanepaxI;awi_vqwuz;BvAxiH}	aBihiwakarwA,15.1;sakarmakaH	awIwa_howA_hE	transcend				
+15.1	(puruRaH)	5	(0)	(puruRa{puM}{1;eka})	(puruRa{puM}{1;eka})	karwA,15	(puruRa)	person				

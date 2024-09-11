@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-parA	2	apareyamiwaswvanyAM	a-parA{swrI}{1;eka}/parA{swrI}{1;eka}	aparA{swrI}{1;eka}	viXeya_viSeRaNam,2.1	aparA_(arWAw_merI_jada़_prakqwi)	inferior	<na-parA>Tn			
-2	iyam	1	0	ixam{swrI}{1;eka}	ixam{swrI}{1;eka}	karwA,2.1	yaha	this				
-2.1	(aswi)	3	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
-3	iwaH	9	0	iwaH{avya}/iwa{puM}{1;eka}/i1{karwari;lat;pra;xvi;parasmEpaxI;iN;axAxiH}	iwaH{avya}	wulanA_binxuH,5	isase	besides_this				
-4	wu	13	0	wu{avya}	wu{avya}	sambanXaH,7	wo	but				
-5	anyAm	10	0	anyA{swrI}{2;eka}/anyA{swrI}{2;eka}/an1{karwari;viXilif;u;eka;parasmEpaxI;anaz;axAxiH}	anyA{swrI}{2;eka}	viSeRaNam,6	xUsarIko	another				
-6	prakqwim	12	prakqwiM	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	karma,8	prakqwi	energy				
-7	vixXi	15	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}		jAna	just_try_to_understand				
-8	me	11	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,6	merI	my				
-9	parAm	14	parAm	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	karmasamAnAXikaraNam,7	parA_(arWAw_cewana)	superior				
-10	jIva-BUwAm	13	jIvaBUwAm	jIva-BUwA{swrI}{2;eka}	jIva-BUwA{swrI}{2;eka}	viSeRaNam,9	jIvarUpA	the_living_entities	<jIva-BUwAM>T2			
-11	mahAn-bAho	4	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,7	he_mahAbAho	O_mighty-armed_one	<mahaw-bAho>Bs6			
-12	yayA	5	yayexaM	yax{swrI}{3;eka}	yax{swrI}{3;eka}	karwA,14;niwya_sambanXaH,5	jisase	by_whom				
-13	ixam	6	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,15	yaha	this				
-14	XAryawe	8	XAryawe	XAryawA{swrI}{1;xvi}/XAryawA{swrI}{2;xvi}/XAryawA{swrI}{8;eka}/XAryawA{swrI}{8;xvi}	Xq1_Nic{karmaNi;lat;pra;eka;AwmanepaxI;XqF_Nic;BvAxiH}	aBihiwakarma,15;sakarmakaH	XAraNa_kiyA_jAwA_hE	being_utilised_or_exploited				
-15	jagaw	7	jagaw	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,14	jagaw	the_material_world				
+1	अ-परा	2	अपरेयमितस्त्वन्यां	अ-परा{स्त्री}{1;एक}/परा{स्त्री}{1;एक}	अपरा{स्त्री}{1;एक}	विधेय_विशेषणम्,2.1	अपरा_(अर्थात्_मेरी_जडॆअञ_प्रकृति)	इन्ङेरिओर्	<न-परा>ठ्न्			
+2	इयम्	1	0	इदम्{स्त्री}{1;एक}	इदम्{स्त्री}{1;एक}	कर्ता,2.1	यह	ट्हिस्				
+2.1	(अस्ति)	3	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,2;अकर्मकः	(है)	इस्				
+3	इतः	9	0	इतः{अव्य}/इत{पुं}{1;एक}/इ1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;इण्;अदादिः}	इतः{अव्य}	तुलना_बिन्दुः,5	इससे	बेसिडेस्_ट्हिस्				
+4	तु	13	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,7	तो	बुट्				
+5	अन्याम्	10	0	अन्या{स्त्री}{2;एक}/अन्या{स्त्री}{2;एक}/अन्1{कर्तरि;विधिलिङ्;उ;एक;परस्मैपदी;अनँ;अदादिः}	अन्या{स्त्री}{2;एक}	विशेषणम्,6	दूसरीको	अनोट्हेर्				
+6	प्रकृतिम्	12	प्रकृतिं	प्रकृति{स्त्री}{2;एक}	प्रकृति{स्त्री}{2;एक}	कर्म,8	प्रकृति	एनेर्ग्य्				
+7	विद्धि	15	विद्धि	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}		जान	जुस्ट्_ट्र्य्_टो_उन्डेर्स्टन्ड्				
+8	मे	11	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,6	मेरी	म्य्				
+9	पराम्	14	पराम्	परा{स्त्री}{2;एक}/परा{स्त्री}{2;एक}	परा{स्त्री}{2;एक}	कर्मसमानाधिकरणम्,7	परा_(अर्थात्_चेतन)	सुपेरिओर्				
+10	जीव-भूताम्	13	जीवभूताम्	जीव-भूता{स्त्री}{2;एक}	जीव-भूता{स्त्री}{2;एक}	विशेषणम्,9	जीवरूपा	ट्हे_लिविन्ग्_एन्टिटिएस्	<जीव-भूतां>ठ्2			
+11	महान्-बाहो	4	महाबाहो	महाबाहु{पुं}{8;एक}/महाबाहु{नपुं}{8;एक}	महाबाहु{पुं}{8;एक}	सम्बोध्यः,7	हे_महाबाहो	औ_मिग्ह्ट्य्-अर्मेड्_ओने	<महत्-बाहो>भ्स्6			
+12	यया	5	ययेदं	यद्{स्त्री}{3;एक}	यद्{स्त्री}{3;एक}	कर्ता,14;नित्य_सम्बन्धः,5	जिससे	ब्य्_त्होम्				
+13	इदम्	6	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,15	यह	ट्हिस्				
+14	धार्यते	8	धार्यते	धार्यता{स्त्री}{1;द्वि}/धार्यता{स्त्री}{2;द्वि}/धार्यता{स्त्री}{8;एक}/धार्यता{स्त्री}{8;द्वि}	धृ1_णिच्{कर्मणि;लट्;प्र;एक;आत्मनेपदी;धृञ्_णिच्;भ्वादिः}	अभिहितकर्म,15;सकर्मकः	धारण_किया_जाता_है	बेइन्ग्_उटिलिसेड्_ओर्_एद्प्लोइटेड्				
+15	जगत्	7	जगत्	जगत्{पुं}{1;एक}/जगत्{पुं}{8;एक}/जगत्{नपुं}{1;एक}/जगत्{नपुं}{2;एक}/जगत्{नपुं}{8;एक}	जगत्{नपुं}{2;एक}	कर्म,14	जगत्	ट्हे_मटेरिअल्_तोर्ल्ड्				

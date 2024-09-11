@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sixXim	7	sixXiM	sixXi{swrI}{2;eka}	sixXi{swrI}{2;eka}	karma,2	usako_(nERkarmya-sixXi_ko)	perfection				
+2	prApwaH	8	prApwo	prApwa{puM}{1;eka}	pra_Ap1{kqw_prawyayaH:kwa;pra_ApLz;svAxiH;puM}{1;eka}	viSeRaNam,2.1	prApwa_hokara	achieving				
+2.1	(manuRyaH)	9	(0)	(manuRya{puM}{1;eka})	(manuRya{puM}{1;eka})	karwA,6	(manuRya)	man				
+3	yaWA	6	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,6;niwya_sambanXaH,5	jisa_prakAra_se	as				
+4	brahma	10	brahma	brahman{napuM}{2;eka}	brahman{napuM}{2;eka}	karma,6	brahma_ko	the_Supreme				
+5	waWA	12	waWApnowi	waWA{avya}	waWA{avya}	kriyAviSeRaNam,7	usako_(prakAra_ko)	so				
+6	Apnowi	11	0	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	aBihiwakarwA,2.1;sakarmakaH	prApwa_howA_hE	achieves				
+7	niboXa	17	niboXa	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;buXizr;BvAxiH}	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;ni_buXizr;BvAxiH}		samaJa	try_to_understand				
+8	me	16	me	asmax{6;eka}	asmax{5;eka}	apAxAnam,7	muJase	from_Me				
+9	samAsena	14	samAsenEva	samAsa{puM}{3;eka}	samAsa{puM}{3;eka}	kriyAviSeRaNam,7	saMkRepa_meM	summarily				
+10	eva	15	0	eva{avya}	eva{avya}	sambanXaH,9	hI	certainly				
+11	kOnweya	13	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,7	he_kunwIpuwra	O_son_of_Kunti				
+12	niRTA	4	niRTA	niRTA{swrI}{1;eka}	niRTA{swrI}{1;eka}	karwA,15.1	niRTA	stage				
+13	jFAnasya	2	jFAnasya	jFAna{napuM}{6;eka}	jFAna{napuM}{6;eka}	RaRTIsambanXaH,12	jFAnayoga_kI	of_knowledge				
+14	yA	1	yA	yax{swrI}{1;eka}	yax{swrI}{1;eka}	viSeRaNam,12	jo	which				
+15	parA	3	parA	parA{swrI}{1;eka}/parA{swrI}{1;eka}	parA{swrI}{1;eka}	viSeRaNam,12	parA	transcendental				
+15.1	(aswi)	5	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				

@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	iwi	1	iwi	iwi{avya}	iwi{avya}	sambanXaH,4	isa_prakAra	thus				
-2	we	3	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,4	wuJase	unto_you				
-3	jFAnam	6	jFAnamAKyAwaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,4	jFAna	knowledge				
-4	AKyAwam	7	0	AKyAwa{puM}{2;eka}/AKyAwa{napuM}{1;eka}/AKyAwa{napuM}{2;eka}/Af_KyA1{karwari;lot;ma;xvi;parasmEpaxI;KyA;axAxiH}/Af_KyA1{karwari;laf;ma;xvi;parasmEpaxI;KyA;axAxiH}	Af_KyA1{kqw_prawyayaH:kwa;Af_KyA;axAxiH;napuM}{1;eka}	aBihiwakarma,3;sakarmakaH	kaha_xiyA	described				
-5	guhyAw	4	guhyAxguhyawaraM	guhya{puM}{5;eka}/guhya{napuM}{5;eka}/guh1{karwari;ASIrlif;pra;eka;parasmEpaxI;guhUz;BvAxiH}	guhya{napuM}{5;eka}	wulanA_binxuH,3	gopanIya_se_(BI)	confidential				
-6	guhyawaram	5	0	guhyawara{puM}{2;eka}/guhyawara{napuM}{1;eka}/guhyawara{napuM}{2;eka}	guhyawara{napuM}{2;eka}	viSeRaNam,3	awi_gopanIya	still_more_confidential				
-7	mayA	2	mayA	asmax{3;eka}	asmax{3;eka}	karwA,4	mEMne	by_Me				
-8	vimqSya	10	vimqSyEwaxaSeReNa	vi_mqS1{kqw_prawyayaH:lyap;mqSaz;wuxAxiH}	vi_mqS1{kqw_prawyayaH:lyap;vi_mqSaz;wuxAxiH}	pUrvakAlaH,14	BalIBAzwi_vicArakara	by_deliberation				
-9	ewaw	8	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	karma,8	isa_rahasyayukwa_jFAna_ko	that				
-10	a-SeReNa	9	0	aSeRa{puM}{3;eka}	aSeRa{puM}{3;eka}	kriyAviSeRaNam,8	pUrNawayA	fully	<na-SeReNa>Tn			
-11	yaWA	11	yaWecCasi	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,12;niwya_sambanXaH,13	jEse	as				
-12	icCasi	12	0	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}		cAhawA_hE	like				
-13	waWA	13	waWA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,14	vEse_hI	that				
-14	kuru	14	kuru	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,14.1;sakarmakaH	kara	perform				
-14.1	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,14	(wuma)	you				
+1	इति	1	इति	इति{अव्य}	इति{अव्य}	सम्बन्धः,4	इस_प्रकार	ट्हुस्				
+2	ते	3	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	सम्प्रदानम्,4	तुझसे	उन्टो_योउ				
+3	ज्ञानम्	6	ज्ञानमाख्यातं	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{2;एक}	कर्म,4	ज्ञान	क्नोत्लेड्गे				
+4	आख्यातम्	7	0	आख्यात{पुं}{2;एक}/आख्यात{नपुं}{1;एक}/आख्यात{नपुं}{2;एक}/आङ्_ख्या1{कर्तरि;लोट्;म;द्वि;परस्मैपदी;ख्या;अदादिः}/आङ्_ख्या1{कर्तरि;लङ्;म;द्वि;परस्मैपदी;ख्या;अदादिः}	आङ्_ख्या1{कृत्_प्रत्ययः:क्त;आङ्_ख्या;अदादिः;नपुं}{1;एक}	अभिहितकर्म,3;सकर्मकः	कह_दिया	डेस्च्रिबेड्				
+5	गुह्यात्	4	गुह्याद्गुह्यतरं	गुह्य{पुं}{5;एक}/गुह्य{नपुं}{5;एक}/गुह्1{कर्तरि;आशीर्लिङ्;प्र;एक;परस्मैपदी;गुहूँ;भ्वादिः}	गुह्य{नपुं}{5;एक}	तुलना_बिन्दुः,3	गोपनीय_से_(भी)	चोन्ङिडेन्टिअल्				
+6	गुह्यतरम्	5	0	गुह्यतर{पुं}{2;एक}/गुह्यतर{नपुं}{1;एक}/गुह्यतर{नपुं}{2;एक}	गुह्यतर{नपुं}{2;एक}	विशेषणम्,3	अति_गोपनीय	स्टिल्ल्_मोरे_चोन्ङिडेन्टिअल्				
+7	मया	2	मया	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,4	मैंने	ब्य्_ंए				
+8	विमृश्य	10	विमृश्यैतदशेषेण	वि_मृश्1{कृत्_प्रत्ययः:ल्यप्;मृशँ;तुदादिः}	वि_मृश्1{कृत्_प्रत्ययः:ल्यप्;वि_मृशँ;तुदादिः}	पूर्वकालः,14	भलीभाँति_विचारकर	ब्य्_डेलिबेरटिओन्				
+9	एतत्	8	0	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{2;एक}	कर्म,8	इस_रहस्ययुक्त_ज्ञान_को	ट्हट्				
+10	अ-शेषेण	9	0	अशेष{पुं}{3;एक}	अशेष{पुं}{3;एक}	क्रियाविशेषणम्,8	पूर्णतया	ङुल्ल्य्	<न-शेषेण>ठ्न्			
+11	यथा	11	यथेच्छसि	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,12;नित्य_सम्बन्धः,13	जैसे	अस्				
+12	इच्छसि	12	0	इष्2{कर्तरि;लट्;म;एक;परस्मैपदी;इषुँ;तुदादिः}	इष्2{कर्तरि;लट्;म;एक;परस्मैपदी;इषुँ;तुदादिः}		चाहता_है	लिके				
+13	तथा	13	तथा	तथा{अव्य}	तथा{अव्य}	क्रियाविशेषणम्,14	वैसे_ही	ट्हट्				
+14	कुरु	14	कुरु	कृ3{कर्तरि;लोट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लोट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	अभिहितकर्ता,14.1;सकर्मकः	कर	पेर्ङोर्म्				
+14.1	(त्वम्)	13	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,14	(तुम)	योउ				

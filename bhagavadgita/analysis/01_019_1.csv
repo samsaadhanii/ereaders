@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	saH	1	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,2	usa	that				
-2	GoRaH	2	GoRo	GoRa{puM}{1;eka}	GoRa{puM}{1;eka}	karwA,5	Sabxa_ne	sound				
-3	XArwarARtrANAm	3	XArwarARtrANAM	XArwarARtra{puM}{6;bahu}	XArwarARtra{puM}{6;bahu}	RaRTIsambanXaH,4	XArwarARtroM_ke	of_the_sons_of_Dhrtarastra				
-4	hqxayAni	4	hqxayAni	hqxaya{napuM}{1;bahu}/hqxaya{napuM}{2;bahu}	hqxaya{napuM}{2;bahu}	karma,5	hqxaya	the_hearts				
-5	vyaxArayaw	12	vyaxArayaw	vyaxArayaw	vi_xQ2_Nic{karwari;laf;pra;eka;parasmEpaxI;vi_xQ_Nic;kryAxiH}	aBihiwakarwA, 2	vixIrNa_kara_xiye	shattered				
-6	naBaH	5	naBaSca	naBa{puM}{1;eka}/naBas{napuM}{1;eka}/naBas{napuM}{2;eka}	naBas{napuM}{1;eka}	sup_samucciwaH,8	AkASa	the_sky				
-7	ca	6	cEva	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	also				
-8	pqWivIm	7	pqWivIM	pqWivI{swrI}{2;eka}	pqWivI{swrI}{2;eka}	karma,12	pqWavI_ko	the_earth				
-9	ca	8	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	also				
-10	eva	9	0	eva{avya}	eva{avya}	sambanXaH,8	BI	certainly				
-11	wumulaH	10	wumulo	wumula{puM}{1;eka}	wumula{puM}{1;eka}	viSeRaNam,12	BayAnaka	terrible				
-12	vyanunAxayan	11	vyanunAxayan	vyanunAxayan	vi_anu_nax2{kqw_prawyayaH:Sawq;vi_anu_Naxaz;curAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,5	guzjAwe_hue	echoing				
+1	सः	1	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	विशेषणम्,2	उस	ट्हट्				
+2	घोषः	2	घोषो	घोष{पुं}{1;एक}	घोष{पुं}{1;एक}	कर्ता,5	शब्द_ने	सोउन्ड्				
+3	धार्तराष्ट्राणाम्	3	धार्तराष्ट्राणां	धार्तराष्ट्र{पुं}{6;बहु}	धार्तराष्ट्र{पुं}{6;बहु}	षष्ठीसम्बन्धः,4	धार्तराष्ट्रों_के	ओङ्_ट्हे_सोन्स्_ओङ्_ढ्ह्र्टरस्ट्र				
+4	हृदयानि	4	हृदयानि	हृदय{नपुं}{1;बहु}/हृदय{नपुं}{2;बहु}	हृदय{नपुं}{2;बहु}	कर्म,5	हृदय	ट्हे_हेअर्ट्स्				
+5	व्यदारयत्	12	व्यदारयत्	व्यदारयत्	वि_दॄ2_णिच्{कर्तरि;लङ्;प्र;एक;परस्मैपदी;वि_दॄ_णिच्;क्र्यादिः}	अभिहितकर्ता, 2	विदीर्ण_कर_दिये	स्हट्टेरेड्				
+6	नभः	5	नभश्च	नभ{पुं}{1;एक}/नभस्{नपुं}{1;एक}/नभस्{नपुं}{2;एक}	नभस्{नपुं}{1;एक}	सुप्_समुच्चितः,8	आकाश	ट्हे_स्क्य्				
+7	च	6	चैव	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	और	अल्सो				
+8	पृथिवीम्	7	पृथिवीं	पृथिवी{स्त्री}{2;एक}	पृथिवी{स्त्री}{2;एक}	कर्म,12	पृथवी_को	ट्हे_एअर्ट्ह्				
+9	च	8	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	और	अल्सो				
+10	एव	9	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,8	भी	चेर्टइन्ल्य्				
+11	तुमुलः	10	तुमुलो	तुमुल{पुं}{1;एक}	तुमुल{पुं}{1;एक}	विशेषणम्,12	भयानक	टेर्रिब्ले				
+12	व्यनुनादयन्	11	व्यनुनादयन्	व्यनुनादयन्	वि_अनु_नद्2{कृत्_प्रत्ययः:शतृ;वि_अनु_णदँ;चुरादिः;पुं}{1;एक}	वर्तमानसमानकालः,5	गुँजाते_हुए	एच्होइन्ग्				

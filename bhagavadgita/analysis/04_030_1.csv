@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	apare	9	apare	apara{puM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/apara{napuM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}	apara{puM}{1;bahu}	karwA,5	anya_(kiwane_hI)	others				
-2	niyawa-AhArAH	10	niyawAhArAH	niyawa-AhAra{puM}{1;bahu}/AhAra{puM}{8;bahu}	niyawa-AhAra{puM}{1;bahu}	viSeRaNam,1	niyamiwa_AhArakaranevAle	controlled_eating	<niyawa-AhArAH>Bs6			
-3	prANAn	14	prANAnprANeRu	prANa{puM}{2;bahu}	prANa{puM}{2;bahu}	karma,5	prANoM_kA	outgoing_air				
-4	prANeRu	15		prANa{puM}{7;bahu}	prANa{puM}{7;bahu}	aXikaraNam,5	prANoM_meM	in_the_outgoing_air				
-5	juhvawi	16	juhvawi	juhvaw{puM}{7;eka}/juhvaw{napuM}{7;eka}/hu1{karwari;lat;pra;bahu;parasmEpaxI;hu;juhowyAxiH}	hu1{karwari;lat;pra;bahu;parasmEpaxI;hu;juhowyAxiH}	aBihiwakarwA,1;sakarmakaH	havana_kiyA_karawe_hEM	sacrifices				
-6	sarve	18	sarveZpyewe	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,10.2	samaswa	all				
-7	api	19		api{avya}	api{avya}	sambanXaH,6	BI	although_apparently_different				
-8	ewe	17		ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{puM}{1;bahu}	viSeRaNam,6	ye	these				
-9	yajFa-vixaH	20	yajFavixo	yajFavix{puM}{1;bahu}/yajFavix{puM}{2;bahu}/yajFavix{puM}{5;eka}/yajFavix{puM}{6;eka}/yajFavix{puM}{8;bahu}	yajFavix{puM}{1;bahu}	viXeya_viSeRaNam,10.2	yajFoM_xvArA_pApoM_kA_nASa_kara_xenevAle	conversant_with_the_purpose_of_performing	<yajFa-vixaH>U			
-10	yajFa-kRapiwa-kalmaRAH	22	yajFakRapiwakalmaRAH	yajFakRapiwa-kalmaRa{puM}{1;bahu}/kalmaRa{puM}{8;bahu}/kalmaRA{swrI}{1;bahu}/kalmaRA{swrI}{2;bahu}/kalmaRA{swrI}{8;bahu}	yajFakRapiwa-kalmaRa{puM}{1;bahu}	viSeRaNam,9	yajFoM_ko_jAnanevAle	sinful_reactions_being_cleansed_through_sacrifices	<<yajFa-kRapiwa>T3-kalmaRAH>Bs6			
-10.2	(sanwi)	13	()	(as1{karwari;lat;pra;bahu;parasmEpaxI;as;axAxiH})	(as1{karwari;lat;pra;bahu;parasmEpaxI;as;axAxiH})	aBihiwakarwA,10.1;akarmakaH						
+1	अपरे	9	अपरे	अपर{पुं}{7;एक}/अपर{नपुं}{1;द्वि}/अपर{नपुं}{2;द्वि}/अपर{नपुं}{7;एक}/अपर{नपुं}{1;द्वि}/अपर{नपुं}{2;द्वि}/अपरा{स्त्री}{1;द्वि}/अपरा{स्त्री}{2;द्वि}/अपरा{स्त्री}{1;द्वि}/अपरा{स्त्री}{2;द्वि}	अपर{पुं}{1;बहु}	कर्ता,5	अन्य_(कितने_ही)	ओट्हेर्स्				
+2	नियत-आहाराः	10	नियताहाराः	नियत-आहार{पुं}{1;बहु}/आहार{पुं}{8;बहु}	नियत-आहार{पुं}{1;बहु}	विशेषणम्,1	नियमित_आहारकरनेवाले	चोन्ट्रोल्लेड्_एअटिन्ग्	<नियत-आहाराः>भ्स्6			
+3	प्राणान्	14	प्राणान्प्राणेषु	प्राण{पुं}{2;बहु}	प्राण{पुं}{2;बहु}	कर्म,5	प्राणों_का	ओउट्गोइन्ग्_अइर्				
+4	प्राणेषु	15		प्राण{पुं}{7;बहु}	प्राण{पुं}{7;बहु}	अधिकरणम्,5	प्राणों_में	इन्_ट्हे_ओउट्गोइन्ग्_अइर्				
+5	जुह्वति	16	जुह्वति	जुह्वत्{पुं}{7;एक}/जुह्वत्{नपुं}{7;एक}/हु1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;हु;जुहोत्यादिः}	हु1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;हु;जुहोत्यादिः}	अभिहितकर्ता,1;सकर्मकः	हवन_किया_करते_हैं	सच्रिङिचेस्				
+6	सर्वे	18	सर्वेऽप्येते	सर्व{पुं}{1;बहु}/सर्व{नपुं}{1;द्वि}/सर्व{नपुं}{2;द्वि}/सर्वा{स्त्री}{1;द्वि}/सर्वा{स्त्री}{2;द्वि}	सर्व{पुं}{1;बहु}	कर्ता,10.2	समस्त	अल्ल्				
+7	अपि	19		अपि{अव्य}	अपि{अव्य}	सम्बन्धः,6	भी	अल्ट्होउग्ह्_अप्परेन्ट्ल्य्_डिङ्ङेरेन्ट्				
+8	एते	17		एता{स्त्री}{1;द्वि}/एता{स्त्री}{2;द्वि}/एतद्{पुं}{1;बहु}/एतद्{स्त्री}{1;द्वि}/एतद्{स्त्री}{2;द्वि}/एतद्{नपुं}{1;द्वि}/एतद्{नपुं}{2;द्वि}	एतद्{पुं}{1;बहु}	विशेषणम्,6	ये	ट्हेसे				
+9	यज्ञ-विदः	20	यज्ञविदो	यज्ञविद्{पुं}{1;बहु}/यज्ञविद्{पुं}{2;बहु}/यज्ञविद्{पुं}{5;एक}/यज्ञविद्{पुं}{6;एक}/यज्ञविद्{पुं}{8;बहु}	यज्ञविद्{पुं}{1;बहु}	विधेय_विशेषणम्,10.2	यज्ञों_द्वारा_पापों_का_नाश_कर_देनेवाले	चोन्वेर्सन्ट्_तिट्ह्_ट्हे_पुर्पोसे_ओङ्_पेर्ङोर्मिन्ग्	<यज्ञ-विदः>ऊ			
+10	यज्ञ-क्षपित-कल्मषाः	22	यज्ञक्षपितकल्मषाः	यज्ञक्षपित-कल्मष{पुं}{1;बहु}/कल्मष{पुं}{8;बहु}/कल्मषा{स्त्री}{1;बहु}/कल्मषा{स्त्री}{2;बहु}/कल्मषा{स्त्री}{8;बहु}	यज्ञक्षपित-कल्मष{पुं}{1;बहु}	विशेषणम्,9	यज्ञों_को_जाननेवाले	सिन्ङुल्_रेअच्टिओन्स्_बेइन्ग्_च्लेअन्सेड्_ट्ह्रोउग्ह्_सच्रिङिचेस्	<<यज्ञ-क्षपित>ठ्3-कल्मषाः>भ्स्6			
+10.2	(सन्ति)	13	()	(अस्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;अस्;अदादिः})	(अस्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;अस्;अदादिः})	अभिहितकर्ता,10.1;अकर्मकः						

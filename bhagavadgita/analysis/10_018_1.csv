@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	viswareNa	7	viswareNAwmano	viswara{puM}{3;eka}/viswara{napuM}{3;eka}	viswara{avya}	kriyAviSeRaNam,8	viswArapUrvaka	in_description				
-2	AwmanaH	2	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,3	apanI	of_Yourself				
-3	yogam	3	yogaM	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,8	yogaSakwi_ko	mystic_power				
-4	vi-BUwim	5	viBUwiM	vi-BUwi{swrI}{2;eka}	viBUwi{swrI}{2;eka}	sup_samucciwaH,8	viBUwi_ko	opulences	<vi-BUwiM>Bvp			
-5	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	also				
-6	janArxana	1	janArxana	janArxana{puM}{8;eka}	janArxana{puM}{8;eka}	samboXyaH,8	he_janArxana	O_killer_of_the_atheists				
-7	BUyaH	6	BUyaH	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,8	Pira	again				
-8	kaWaya	9	kaWaya	kaWa1{karwari;lot;ma;eka;parasmEpaxI;kaWa;curAxiH}/kaWa1_Nic{karwari;lot;ma;eka;parasmEpaxI;kaWa;curAxiH}	kaWa1{karwari;lot;ma;eka;parasmEpaxI;kaWa;curAxiH}	aBihiwa_karwA,8.1;sakarmakaH	kahiye	describe				
-8.1	(wvam)	8	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	Ap					
-9	wqpwiH	14	wqpwirhi	wqpwi{swrI}{1;eka}	wqpwi{swrI}{1;eka}	karwA,13	wqpwi	satisfaction				
-10	hi	10	0	hi{avya}	hi{avya}	sambanXaH,9	kyoMki	certainly				
-11	SqNvawaH	12	SqNvawo	SqNvawaH	Sru1{kqw_prawyayaH:Sawq;Sru;BvAxiH;puM}{6;eka}	varwamAnasamAnakAlaH,13	sunawe_hue	hearing				
-12	na	15	nAswi	na{avya}	na{avya}	prawiReXaH,13	nahIM	not				
-13	aswi	16	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,9;akarmakaH	howI_hE	is				
-14	me	13	meZmqwam	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,9	merI	my				
-15	amqwam	11	0	a-mqwa{puM}{2;eka}/mqwa{napuM}{1;eka}/mqwa{napuM}{2;eka}	amqwa{napuM}{2;eka}	karma,11	amqwamaya_vacanoM_ko	nectar				
+1	विस्तरेण	7	विस्तरेणात्मनो	विस्तर{पुं}{3;एक}/विस्तर{नपुं}{3;एक}	विस्तर{अव्य}	क्रियाविशेषणम्,8	विस्तारपूर्वक	इन्_डेस्च्रिप्टिओन्				
+2	आत्मनः	2	0	आत्मन्{पुं}{2;बहु}/आत्मन्{पुं}{5;एक}/आत्मन्{पुं}{6;एक}	आत्मन्{पुं}{6;एक}	षष्ठीसम्बन्धः,3	अपनी	ओङ्_Yओउर्सेल्ङ्				
+3	योगम्	3	योगं	योग{पुं}{2;एक}	योग{पुं}{2;एक}	कर्म,8	योगशक्ति_को	म्य्स्टिच्_पोतेर्				
+4	वि-भूतिम्	5	विभूतिं	वि-भूति{स्त्री}{2;एक}	विभूति{स्त्री}{2;एक}	सुप्_समुच्चितः,8	विभूति_को	ओपुलेन्चेस्	<वि-भूतिं>भ्व्प्			
+5	च	4	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	और	अल्सो				
+6	जनार्दन	1	जनार्दन	जनार्दन{पुं}{8;एक}	जनार्दन{पुं}{8;एक}	सम्बोध्यः,8	हे_जनार्दन	औ_किल्लेर्_ओङ्_ट्हे_अट्हेइस्ट्स्				
+7	भूयः	6	भूयः	भूयः{अव्य}/भूयस्{नपुं}{1;एक}/भूयस्{नपुं}{2;एक}/भूयस्{नपुं}{8;एक}	भूयः{अव्य}	क्रियाविशेषणम्,8	फिर	अगइन्				
+8	कथय	9	कथय	कथ1{कर्तरि;लोट्;म;एक;परस्मैपदी;कथ;चुरादिः}/कथ1_णिच्{कर्तरि;लोट्;म;एक;परस्मैपदी;कथ;चुरादिः}	कथ1{कर्तरि;लोट्;म;एक;परस्मैपदी;कथ;चुरादिः}	अभिहित_कर्ता,8.1;सकर्मकः	कहिये	डेस्च्रिबे				
+8.1	(त्वम्)	8	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,8	आप्					
+9	तृप्तिः	14	तृप्तिर्हि	तृप्ति{स्त्री}{1;एक}	तृप्ति{स्त्री}{1;एक}	कर्ता,13	तृप्ति	सटिस्ङच्टिओन्				
+10	हि	10	0	हि{अव्य}	हि{अव्य}	सम्बन्धः,9	क्योंकि	चेर्टइन्ल्य्				
+11	शृण्वतः	12	शृण्वतो	शृण्वतः	श्रु1{कृत्_प्रत्ययः:शतृ;श्रु;भ्वादिः;पुं}{6;एक}	वर्तमानसमानकालः,13	सुनते_हुए	हेअरिन्ग्				
+12	न	15	नास्ति	न{अव्य}	न{अव्य}	प्रतिषेधः,13	नहीं	नोट्				
+13	अस्ति	16	0	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहित_कर्ता,9;अकर्मकः	होती_है	इस्				
+14	मे	13	मेऽमृतम्	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,9	मेरी	म्य्				
+15	अमृतम्	11	0	अ-मृत{पुं}{2;एक}/मृत{नपुं}{1;एक}/मृत{नपुं}{2;एक}	अमृत{नपुं}{2;एक}	कर्म,11	अमृतमय_वचनों_को	नेच्टर्				

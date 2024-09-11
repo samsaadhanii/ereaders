@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kim	4	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	viXeya_viSeRaNam,3.1	kyA	what				
-2	waw	2	waxbrahma	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,3	vaha	that				
-3	brahma	3	0	brahma{napuM}{8;eka}/brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwA,3.1	brahma	Brahman				
-3.1	(aswi)	5	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,3	(hE)	is				
-4	kim	8	kimaXyAwmaM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	viXeya_viSeRaNam,5.1	kyA	what				
-5	aXi-Awmam	7	0	aXyAwma{puM}{2;eka}/aXyAwma{napuM}{1;eka}/aXyAwma{napuM}{2;eka}	aXyAwma{napuM}{1;eka}	karwA,5.1	aXyAwma	the_self	<aXi-AwmaM>A1			
-5.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,5;akarmakaH	(hE)	is				
-6	kim	11	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	viXeya_viSeRaNam,8.1	kyA	what				
-7	karma	10	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwA,8.1	karma	fruitive_activities				
-8	puruRa-uwwama	1	puruRowwama	puruRowwama{puM}{8;eka}	puruRowwama{puM}{8;eka}	samboXyaH,8.1	he_puruRowwama	O_Supreme_Person	<puruRa-uwwama>T7			
-8.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA	(hE)	is				
-9	aXi-BUwam	12	aXiBUwaM	aXiBUwa{napuM}{1;eka}/aXiBUwa{napuM}{2;eka}	aXi-BUwa{napuM}{1;eka}	karma,12	aXiBUwa_(nAma_se)	the_material_manifestation	<aXi-BUwam>A1			
-10	ca	15	ca	ca{avya}	ca{avya}	sambanXaH,12	Ora	and				
-11	kim	13	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	karmasamAnAXikaraNam,12	kyA	what				
-12	prokwam	14	prokwamaXixEvaM	prokwa{puM}{2;eka}/prokwa{napuM}{1;eka}/prokwa{napuM}{2;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;napuM}{1;eka}	aBihiwa_karma,9;sakarmakaH	kahA_gayA_hE	is_called				
-13	aXi-xEvam	16	0	aXi-xEva{puM}{2;eka}/xEva{napuM}{1;eka}/xEva{napuM}{2;eka}	aXi-xEva{napuM}{1;eka}	karma,15	aXixEva	the_demigods	<aXi-xEvaM>A1			
-14	kim	17	kimucyawe	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	karmasamAnAXikaraNam,13	kisako	what				
-15	ucyawe	18	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karwA,15;sakarmakaH	kahawe_hEM	is_called				
+1	किम्	4	किं	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{1;एक}	विधेय_विशेषणम्,3.1	क्या	त्हट्				
+2	तत्	2	तद्ब्रह्म	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	विशेषणम्,3	वह	ट्हट्				
+3	ब्रह्म	3	0	ब्रह्म{नपुं}{8;एक}/ब्रह्मन्{नपुं}{1;एक}/ब्रह्मन्{नपुं}{2;एक}	ब्रह्मन्{नपुं}{1;एक}	कर्ता,3.1	ब्रह्म	भ्रह्मन्				
+3.1	(अस्ति)	5	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,3	(है)	इस्				
+4	किम्	8	किमध्यात्मं	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{1;एक}	विधेय_विशेषणम्,5.1	क्या	त्हट्				
+5	अधि-आत्मम्	7	0	अध्यात्म{पुं}{2;एक}/अध्यात्म{नपुं}{1;एक}/अध्यात्म{नपुं}{2;एक}	अध्यात्म{नपुं}{1;एक}	कर्ता,5.1	अध्यात्म	ट्हे_सेल्ङ्	<अधि-आत्मं>आ1			
+5.1	(अस्ति)	6	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,5;अकर्मकः	(है)	इस्				
+6	किम्	11	किं	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{1;एक}	विधेय_विशेषणम्,8.1	क्या	त्हट्				
+7	कर्म	10	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{1;एक}	कर्ता,8.1	कर्म	ङ्रुइटिवे_अच्टिविटिएस्				
+8	पुरुष-उत्तम	1	पुरुषोत्तम	पुरुषोत्तम{पुं}{8;एक}	पुरुषोत्तम{पुं}{8;एक}	सम्बोध्यः,8.1	हे_पुरुषोत्तम	औ_शुप्रेमे_फेर्सोन्	<पुरुष-उत्तम>ठ्7			
+8.1	(अस्ति)	9	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता	(है)	इस्				
+9	अधि-भूतम्	12	अधिभूतं	अधिभूत{नपुं}{1;एक}/अधिभूत{नपुं}{2;एक}	अधि-भूत{नपुं}{1;एक}	कर्म,12	अधिभूत_(नाम_से)	ट्हे_मटेरिअल्_मनिङेस्टटिओन्	<अधि-भूतम्>आ1			
+10	च	15	च	च{अव्य}	च{अव्य}	सम्बन्धः,12	और	अन्ड्				
+11	किम्	13	किं	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{1;एक}	कर्मसमानाधिकरणम्,12	क्या	त्हट्				
+12	प्रोक्तम्	14	प्रोक्तमधिदैवं	प्रोक्त{पुं}{2;एक}/प्रोक्त{नपुं}{1;एक}/प्रोक्त{नपुं}{2;एक}	प्र_वच्1{कृत्_प्रत्ययः:क्त;प्र_वचँ;अदादिः;नपुं}{1;एक}	अभिहित_कर्म,9;सकर्मकः	कहा_गया_है	इस्_चल्लेड्				
+13	अधि-दैवम्	16	0	अधि-दैव{पुं}{2;एक}/दैव{नपुं}{1;एक}/दैव{नपुं}{2;एक}	अधि-दैव{नपुं}{1;एक}	कर्म,15	अधिदैव	ट्हे_डेमिगोड्स्	<अधि-दैवं>आ1			
+14	किम्	17	किमुच्यते	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{1;एक}	कर्मसमानाधिकरणम्,13	किसको	त्हट्				
+15	उच्यते	18	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहित_कर्ता,15;सकर्मकः	कहते_हैं	इस्_चल्लेड्				

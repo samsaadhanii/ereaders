@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yam	3	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	vIpsA,2	jisa	whatever				
+2	yam	4	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	viSeRaNam,6;niwya_sambanXaH,11	jisa	whatever				
+3	vA	5	vApi	vA{avya}	vA{avya}	sambanXaH,4	aWavA	either				
+4	api	6	0	api{avya}	api{avya}	sambanXaH,2	BI	also				
+5	smaran	8	smaranBAvaM	smaraw{puM}{1;eka}/smaraw{puM}{8;eka}	smq1{kqw_prawyayaH:Sawq;smq;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,7	smaraNa_karawA_huA	remembering				
+6	BAvam	7	0	BAva{puM}{2;eka}	BAva{puM}{2;eka}	karma,5	BAva_ko	nature				
+7	wyajawi	10	wyajawyanwe	wyajaw{puM}{7;eka}/wyajaw{napuM}{7;eka}/wyaj1{karwari;lat;pra;eka;parasmEpaxI;wyajaz;BvAxiH}	wyaj1{karwari;lat;pra;eka;parasmEpaxI;wyajaz;BvAxiH}		wyAga_karawA_hE	give_up				
+8	anwe	2	0	anwa{puM}{7;eka}/anwa{napuM}{1;xvi}/anwa{napuM}{2;xvi}/anwa{napuM}{7;eka}/anwa{napuM}{8;xvi}/anwi{swrI}{8;eka}/anwA{swrI}{1;xvi}/anwA{swrI}{2;xvi}/anwA{swrI}{8;eka}/anwA{swrI}{8;xvi}	anwa{puM}{7;eka}	aXikaraNam,7	anwakAla_meM	at_the_end				
+9	kalevaram	9	kalevaram	kalevara{puM}{2;eka}/kalevara{napuM}{1;eka}/kalevara{napuM}{2;eka}	kalevara{puM}{2;eka}	karma,7	SarIra_kA	this_body				
+10	wam	11	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	vIpsA,11	usako	similar				
+11	wam	12	wamevEwi	wax{puM}{2;eka}	wax{puM}{2;eka}	karma,13	usako					
+12	eva	13	0	eva{avya}	eva{avya}	sambanXaH,11	hI	certainly				
+13	ewi	14	0	i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}		prApwa_howA_hE	gets				
+14	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,7	he_kunwIpuwra_arjuna	O_son_of_Kunti				
+15	saxA	16	saxA	saxA{avya}	saxA{avya}	kriyAviSeRaNam,16.1	saxA	always				
+16	waw-BAva-BAviwaH	17	waxBAvaBAviwaH	waxBAvaBAviwaH	wax-BAva-BAviwa{puM}{1;eka}	viXeya_viSeRaNam,16.1	usI_BAva_se_BAviwa	remembering_that_state_of_being	<<wax-BAva>T7-BAviwaH>T3			
+16.1	(aswi)	18	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,16.2;akarmakaH	(hE)	is				
+16.2	(saH)	15	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,16.1	(vaha)	he				

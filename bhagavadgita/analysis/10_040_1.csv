@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	6	nAnwoZswi	na{avya}	na{avya}	prawiReXaH,3	nahIM	nor				
-2	anwaH	5	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	karwA,3	anwa	a_limit				
-3	aswi	7	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwA	hE	is				
-4	mama	2	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,6	merI	my				
-5	xivyAnAm	3	xivyAnAM	xivya{puM}{6;bahu}/xivya{napuM}{6;bahu}/xivyA{swrI}{6;bahu}	xivya{puM}{6;bahu}	viSeRaNam,6	xivya	divine				
-6	vi-BUwInAm	4	viBUwInAM	vi-BUwi{swrI}{6;bahu}	viBUwi{swrI}{6;bahu}	RaRTIsambanXaH,2	viBUwiyoM_kA	opulences	<vi-BUwInAM>Bvp			
-7	paranwapa	1	paranwapa	paranwapa{puM}{8;eka}/paranwapa{napuM}{8;eka}	paranwapa{puM}{8;eka}	samboXyaH,3	he_paraMwapa	O_conqueror_of_the_enemies				
-8	eRaH	10	eRa	ewax{puM}{1;eka}	ewax{puM}{1;eka}	viSeRaNam,13	yaha	all_this				
-9	wu	12	wUxxeSawaH	wu{avya}	wu{avya}	sambanXaH,13	wo	that				
-10	uxxeSawaH	13	0	uxxeSa{wasil}	uxxeSa{avya}	kriyAviSeRaNam,11	ekaxeSa_se_arWAw_saMkRepa_se	examples				
-11	prokwaH	14	prokwo	prokwa{puM}{1;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;puM}{1;eka}	viXeya_viSeRaNam,3	kahA_hE	spoken				
-12	vi-BUweH	9	viBUwerviswaro	vi-BUwi{swrI}{5;eka}/BUwi{swrI}{6;eka}	viBUwi{swrI}{6;eka}	RaRTIsambanXaH,13	viBUwiyoM_kA	opulences	<vi-BUweH>Bvp			
-13	viswaraH	11	0	viswara{puM}{1;eka}	viswara{puM}{1;eka}	karma,11	viswAra	expanded				
-14	mayA	8	mayA	asmax{3;eka}	asmax{3;eka}	karwA,11	mEMne	by_Me				
+1	न	6	नान्तोऽस्ति	न{अव्य}	न{अव्य}	प्रतिषेधः,3	नहीं	नोर्				
+2	अन्तः	5	0	अन्तः{अव्य}/अन्त{पुं}{1;एक}	अन्त{पुं}{1;एक}	कर्ता,3	अन्त	अ_लिमिट्				
+3	अस्ति	7	0	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहिता	है	इस्				
+4	मम	2	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,6	मेरी	म्य्				
+5	दिव्यानाम्	3	दिव्यानां	दिव्य{पुं}{6;बहु}/दिव्य{नपुं}{6;बहु}/दिव्या{स्त्री}{6;बहु}	दिव्य{पुं}{6;बहु}	विशेषणम्,6	दिव्य	डिविने				
+6	वि-भूतीनाम्	4	विभूतीनां	वि-भूति{स्त्री}{6;बहु}	विभूति{स्त्री}{6;बहु}	षष्ठीसम्बन्धः,2	विभूतियों_का	ओपुलेन्चेस्	<वि-भूतीनां>भ्व्प्			
+7	परन्तप	1	परन्तप	परन्तप{पुं}{8;एक}/परन्तप{नपुं}{8;एक}	परन्तप{पुं}{8;एक}	सम्बोध्यः,3	हे_परंतप	औ_चोनृउएरोर्_ओङ्_ट्हे_एनेमिएस्				
+8	एषः	10	एष	एतद्{पुं}{1;एक}	एतद्{पुं}{1;एक}	विशेषणम्,13	यह	अल्ल्_ट्हिस्				
+9	तु	12	तूद्देशतः	तु{अव्य}	तु{अव्य}	सम्बन्धः,13	तो	ट्हट्				
+10	उद्देशतः	13	0	उद्देश{तसिल्}	उद्देश{अव्य}	क्रियाविशेषणम्,11	एकदेश_से_अर्थात्_संक्षेप_से	एदम्प्लेस्				
+11	प्रोक्तः	14	प्रोक्तो	प्रोक्त{पुं}{1;एक}	प्र_वच्1{कृत्_प्रत्ययः:क्त;प्र_वचँ;अदादिः;पुं}{1;एक}	विधेय_विशेषणम्,3	कहा_है	स्पोकेन्				
+12	वि-भूतेः	9	विभूतेर्विस्तरो	वि-भूति{स्त्री}{5;एक}/भूति{स्त्री}{6;एक}	विभूति{स्त्री}{6;एक}	षष्ठीसम्बन्धः,13	विभूतियों_का	ओपुलेन्चेस्	<वि-भूतेः>भ्व्प्			
+13	विस्तरः	11	0	विस्तर{पुं}{1;एक}	विस्तर{पुं}{1;एक}	कर्म,11	विस्तार	एद्पन्डेड्				
+14	मया	8	मया	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,11	मैंने	ब्य्_ंए				

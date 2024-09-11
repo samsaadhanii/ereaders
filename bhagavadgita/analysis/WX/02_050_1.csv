@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	buxXi-yukwaH	2	buxXiyukwo	buxXi-yukwa{puM}{1;eka}	buxXi-yukwa{puM}{1;eka}	karwA,2	samabuxXiyukwa	who_is_endowed_with_equanimity	<buxXi-yukwaH>T3			
+2	jahAwi	5	jahAwIha	hA2{karwari;lat;pra;eka;parasmEpaxI;ozhAk;juhowyAxiH}	hA2{karwari;lat;pra;eka;parasmEpaxI;ozhAf;juhowyAxiH}	aBihiwakarwA,1;akarmakaH	wyAga_xewA_hE	sheds				
+3	iha	1	0	iha{avya}	iha{avya}	aXikaraNam,2	yahAz	in_this_life				
+4	uBe	3	uBe	uBa{puM}{7;eka}/uBa{napuM}{1;xvi}/uBa{napuM}{2;xvi}/uBa{napuM}{7;eka}/uBa{napuM}{8;xvi}/uBa{napuM}{1;xvi}/uBa{napuM}{2;xvi}/uBA{swrI}{1;xvi}/uBA{swrI}{2;xvi}/uBA{swrI}{8;eka}/uBA{swrI}{8;xvi}/uBA{swrI}{1;xvi}/uBA{swrI}{2;xvi}	uBa{napuM}{2;xvi}	viSeRaNam,5	xonoM_ko	both				
+5	su-kqwa-xuR-kqwe	4	sukqwaxuRkqwe	sukqwa-xuRkqw{puM}{4;eka}/xuRkqwa{puM}{7;eka}/xuRkqwa{napuM}{1;xvi}/xuRkqwa{napuM}{2;xvi}/xuRkqwa{napuM}{7;eka}/xuRkqwa{napuM}{8;xvi}	sukqwa-xuRkqwa{napuM}{2;xvi}	karma,2	puNya_Ora_pApa	good_and_evil_deeds	<<su-kqwa>K1-<xuR-kqwe>K1>Di			
+6	wasmAw	6	wasmAxyogAya	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,8	isase	therefore				
+7	yogAya	8	0	yoga{puM}{4;eka}	yoga{puM}{4;eka}	prayojanam,8	yoga_meM	in_this_Yoga				
+8	yujyasva	9	yujyasva	yuj1{BAve;lot;ma;eka;AwmanepaxI;yujaz;xivAxiH}/yuj2{karmaNi;lot;ma;eka;AwmanepaxI;yujizr;ruXAxiH}	yuj1{BAve;lot;ma;eka;AwmanepaxI;yujaz;xivAxiH}	aBihiwakarwA,8.1;akarmakaH	laga_jAo	strive_for_the_practice				
+8.1	(wvam)	7	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wuma)	you				
+9	yogaH	10	yogaH	yoga{puM}{1;eka}	yoga{puM}{1;eka}	karwA,11.1	samawvarUpa_yoga	Yoga_of_equanimity				
+10	karmasu	11	karmasu	karman{napuM}{7;bahu}	karman{napuM}{7;bahu}	nirXAraNam,11	karmoM_meM	in_action				
+11	kOSalam	12	kOSalam	kOSala{napuM}{1;eka}/kOSala{napuM}{2;eka}	kOSala{napuM}{1;eka}	viXeya_viSeRaNam,11.1	kuSala	skill				
+11.1	(aswi)	13	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,9	(hE)	is				

@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SreyAn	5	SreyAnsvaXarmo	Sreya{puM}{2;bahu}/Sreyas{puM}{1;eka}	Sreyas{puM}{1;eka}	viXeya_viSeRaNam,5.1	SreRTa	better				
-2	sva-XarmaH	4	0	svaXarma{puM}{1;eka}	svaXarma{puM}{1;eka}	karwA,5.1	apanA_Xarma	one's_own_occupation	<sva-XarmaH>T6			
-3	vi-guNaH	3	viguNaH	viguNa{puM}{1;eka}	viguNa{puM}{1;eka}	viSeRaNam,2	guNarahiwa	imperfectly_performed	<vi-guNaH>Bs5			
-4	para-XarmAw	2	paraXarmAwsvanuRTiwAw	paraXarma{puM}{5;eka}	para-Xarma{puM}{5;eka}	wulanA_binxuH,2	xUsare_ke_Xarma_se	another's_occupation	<para-XarmAw>T6			
-5	sva-anuRTiwAw	1	0	svanuRTiwa{puM}{5;eka}/svanuRTiwa{napuM}{5;eka}	sva-anuRTiwa{puM}{5;eka}	viSeRaNam,4	acCI_prakAra_AcaraNa_kiye_hue	perfectly_done	<sva-anuRTiwAw>Tp			
-5.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
-6	sva-BAva-niyawam	7	svaBAvaniyawaM	svaBAva-niyawa{puM}{2;eka}/niyawa{napuM}{1;eka}/niyawa{napuM}{2;eka}	svaBAva-niyawa{napuM}{2;eka}	viSeRaNam,7	svaBAva_se_niyawa_kiye_hue	prescribed_duties_according_to_one's_nature	<<sva-BAva>T6-niyawam>T3			
-7	karma	8	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8	svaXarmarUpa_karma_ko	work				
-8	kurvan	9	kurvannApnowi	kurvaw{puM}{1;eka}/kurvaw{puM}{1;eka}	kq3{kqw_prawyayaH:Sawq;dukqF;wanAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,10	karawA_huA	performing				
-9	na	12	0	na{avya}	na{avya}	prawiReXaH,10	nahIM	never				
-10	Apnowi	13	0	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	aBihiwakarwA,11.1;sakarmakaH	prApwa_howA	achieve				
-11	kilbiRam	11	kilbiRam	kilbiRa{napuM}{1;eka}/kilbiRa{napuM}{2;eka}	kilbiRa{napuM}{2;eka}	karma,10	pApa_ko	sinful_reactions				
-11.1	(manuRyaH)	10	(0)	(manuRya{puM}{1;eka})	(manuRya{puM}{1;eka})	karwA,10	(manuRya)	man				
+1	श्रेयान्	5	श्रेयान्स्वधर्मो	श्रेय{पुं}{2;बहु}/श्रेयस्{पुं}{1;एक}	श्रेयस्{पुं}{1;एक}	विधेय_विशेषणम्,5.1	श्रेष्ठ	बेट्टेर्				
+2	स्व-धर्मः	4	0	स्वधर्म{पुं}{1;एक}	स्वधर्म{पुं}{1;एक}	कर्ता,5.1	अपना_धर्म	ओने'स्_ओत्न्_ओच्चुपटिओन्	<स्व-धर्मः>ठ्6			
+3	वि-गुणः	3	विगुणः	विगुण{पुं}{1;एक}	विगुण{पुं}{1;एक}	विशेषणम्,2	गुणरहित	इम्पेर्ङेच्ट्ल्य्_पेर्ङोर्मेड्	<वि-गुणः>भ्स्5			
+4	पर-धर्मात्	2	परधर्मात्स्वनुष्ठितात्	परधर्म{पुं}{5;एक}	पर-धर्म{पुं}{5;एक}	तुलना_बिन्दुः,2	दूसरे_के_धर्म_से	अनोट्हेर्'स्_ओच्चुपटिओन्	<पर-धर्मात्>ठ्6			
+5	स्व-अनुष्ठितात्	1	0	स्वनुष्ठित{पुं}{5;एक}/स्वनुष्ठित{नपुं}{5;एक}	स्व-अनुष्ठित{पुं}{5;एक}	विशेषणम्,4	अच्छी_प्रकार_आचरण_किये_हुए	पेर्ङेच्ट्ल्य्_डोने	<स्व-अनुष्ठितात्>ठ्प्			
+5.1	(अस्ति)	6	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,2;अकर्मकः	(है)	इस्				
+6	स्व-भाव-नियतम्	7	स्वभावनियतं	स्वभाव-नियत{पुं}{2;एक}/नियत{नपुं}{1;एक}/नियत{नपुं}{2;एक}	स्वभाव-नियत{नपुं}{2;एक}	विशेषणम्,7	स्वभाव_से_नियत_किये_हुए	प्रेस्च्रिबेड्_डुटिएस्_अच्चोर्डिन्ग्_टो_ओने'स्_नटुरे	<<स्व-भाव>ठ्6-नियतम्>ठ्3			
+7	कर्म	8	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,8	स्वधर्मरूप_कर्म_को	तोर्क्				
+8	कुर्वन्	9	कुर्वन्नाप्नोति	कुर्वत्{पुं}{1;एक}/कुर्वत्{पुं}{1;एक}	कृ3{कृत्_प्रत्ययः:शतृ;डुकृञ्;तनादिः;पुं}{1;एक}	वर्तमानसमानकालः,10	करता_हुआ	पेर्ङोर्मिन्ग्				
+9	न	12	0	न{अव्य}	न{अव्य}	प्रतिषेधः,10	नहीं	नेवेर्				
+10	आप्नोति	13	0	आप्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;आपॢँ;स्वादिः}	आप्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;आपॢँ;स्वादिः}	अभिहितकर्ता,11.1;सकर्मकः	प्राप्त_होता	अच्हिएवे				
+11	किल्बिषम्	11	किल्बिषम्	किल्बिष{नपुं}{1;एक}/किल्बिष{नपुं}{2;एक}	किल्बिष{नपुं}{2;एक}	कर्म,10	पाप_को	सिन्ङुल्_रेअच्टिओन्स्				
+11.1	(मनुष्यः)	10	(0)	(मनुष्य{पुं}{1;एक})	(मनुष्य{पुं}{1;एक})	कर्ता,10	(मनुष्य)	मन्				

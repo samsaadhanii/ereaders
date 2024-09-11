@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kArya-karaNa-karwqwve	1	kAryakaraNakarwqwve	kArya-karaNa-karwqwva{napuM}{1;xvi}/karwqwva{napuM}{2;xvi}/karwqwva{napuM}{7;eka}/karwqwva{napuM}{8;xvi}	kArya-karaNa-karwqwva{napuM}{7;eka}	aXikaraNam,4	kArya_Ora_karaNa_ko_uwpanna_karane_meM	in_the_matter_of_creation_of_cause_and_effect	<<kArya-karaNa>Di-karwqwve>T6			
-2	hewuH	3	hewuH	hewu{puM}{1;eka}/hewq{puM}{5;eka}/hewq{puM}{6;eka}/hewq{napuM}{5;eka}/hewq{napuM}{6;eka}	hewu{puM}{1;eka}	karmasamAnAXikaraNam,4	hewu	instrument				
-3	prakqwiH	2	prakqwirucyawe	prakqwi{swrI}{1;eka}	prakqwi{swrI}{1;eka}	karma,4	prakqwi	material_nature				
-4	ucyawe	4	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,2;sakarmakaH	kahI_jAwI_hE	is_said_to_be				
-5	puruRaH	7	puruRaH	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	karma,9	jIvAwmA	the_living_entity				
-6	suKa-xuHKAnAm	5	suKaxuHKAnAM	suKa-xuHKa{napuM}{6;bahu}/xuHKA{swrI}{6;bahu}	suKa-xuHKa{napuM}{6;bahu}	RaRTIsambanXaH,7	suKa-xuHKoM_ke	of_happiness_and_distress	<suKa-xuHKAnAM>Di			
-7	Bokwqwve	6	Bokwqwve	Bokwqwva{napuM}{1;xvi}/Bokwqwva{napuM}{2;xvi}/Bokwqwva{napuM}{7;eka}/Bokwqwva{napuM}{8;xvi}	Bokwqwva{napuM}{7;eka}	aXikaraNam,9	BakwApana_meM_arWAw_Bogane_meM	in_enjoyment				
-8	hewuH	8	hewurucyawe	hewu{puM}{1;eka}/hewq{puM}{5;eka}/hewq{puM}{6;eka}/hewq{napuM}{5;eka}/hewq{napuM}{6;eka}	hewu{puM}{1;eka}	karmasamAnAXikaraNam,4	hewu	the_instrument				
-9	ucyawe	9	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,8;sakarmakaH	kahA_jAwA_hE	is_said_to_be				
+1	कार्य-करण-कर्तृत्वे	1	कार्यकरणकर्तृत्वे	कार्य-करण-कर्तृत्व{नपुं}{1;द्वि}/कर्तृत्व{नपुं}{2;द्वि}/कर्तृत्व{नपुं}{7;एक}/कर्तृत्व{नपुं}{8;द्वि}	कार्य-करण-कर्तृत्व{नपुं}{7;एक}	अधिकरणम्,4	कार्य_और_करण_को_उत्पन्न_करने_में	इन्_ट्हे_मट्टेर्_ओङ्_च्रेअटिओन्_ओङ्_चउसे_अन्ड्_एङ्ङेच्ट्	<<कार्य-करण>ढि-कर्तृत्वे>ठ्6			
+2	हेतुः	3	हेतुः	हेतु{पुं}{1;एक}/हेतृ{पुं}{5;एक}/हेतृ{पुं}{6;एक}/हेतृ{नपुं}{5;एक}/हेतृ{नपुं}{6;एक}	हेतु{पुं}{1;एक}	कर्मसमानाधिकरणम्,4	हेतु	इन्स्ट्रुमेन्ट्				
+3	प्रकृतिः	2	प्रकृतिरुच्यते	प्रकृति{स्त्री}{1;एक}	प्रकृति{स्त्री}{1;एक}	कर्म,4	प्रकृति	मटेरिअल्_नटुरे				
+4	उच्यते	4	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहितकर्म,2;सकर्मकः	कही_जाती_है	इस्_सइड्_टो_बे				
+5	पुरुषः	7	पुरुषः	पुरुष{पुं}{1;एक}	पुरुष{पुं}{1;एक}	कर्म,9	जीवात्मा	ट्हे_लिविन्ग्_एन्टिट्य्				
+6	सुख-दुःखानाम्	5	सुखदुःखानां	सुख-दुःख{नपुं}{6;बहु}/दुःखा{स्त्री}{6;बहु}	सुख-दुःख{नपुं}{6;बहु}	षष्ठीसम्बन्धः,7	सुख-दुःखों_के	ओङ्_हप्पिनेस्स्_अन्ड्_डिस्ट्रेस्स्	<सुख-दुःखानां>ढि			
+7	भोक्तृत्वे	6	भोक्तृत्वे	भोक्तृत्व{नपुं}{1;द्वि}/भोक्तृत्व{नपुं}{2;द्वि}/भोक्तृत्व{नपुं}{7;एक}/भोक्तृत्व{नपुं}{8;द्वि}	भोक्तृत्व{नपुं}{7;एक}	अधिकरणम्,9	भक्तापन_में_अर्थात्_भोगने_में	इन्_एन्जोय्मेन्ट्				
+8	हेतुः	8	हेतुरुच्यते	हेतु{पुं}{1;एक}/हेतृ{पुं}{5;एक}/हेतृ{पुं}{6;एक}/हेतृ{नपुं}{5;एक}/हेतृ{नपुं}{6;एक}	हेतु{पुं}{1;एक}	कर्मसमानाधिकरणम्,4	हेतु	ट्हे_इन्स्ट्रुमेन्ट्				
+9	उच्यते	9	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहितकर्म,8;सकर्मकः	कहा_जाता_है	इस्_सइड्_टो_बे				

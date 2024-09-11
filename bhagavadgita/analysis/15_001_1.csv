@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	UrXva-mUlam	4	UrXvamUlamaXaHSAKamaSvawWaM	UrXva-mUla{puM}{2;eka}/mUla{napuM}{1;eka}/mUla{napuM}{2;eka}	UrXva-mUla{puM}{2;eka}	viSeRaNam,3	Axi_puruRa_parameSvararUpa_mUlavAle	with_roots_above	<UrXva-mUlam>Bs6			
-2	aXaH-SAKam	5	0	aXaHSAKa{puM}{2;eka}	aXaHSAKa{puM}{2;eka}	viSeRaNam,3	brahmArUpa_muKya_SAKAvAle	downward_branches	<aXaH-SAKam>Bs6			
-3	aSvawWam	3	0	aSvawWa{puM}{2;eka}	aSvawWa{puM}{2;eka}	karma,4	saMsArarUpa_pIpala_ke_vqkRa_ko	banyan_tree				
-4	prAhuH	6	prAhuravyayam	pra_brU1{karwari;lit;pra;bahu;parasmEpaxI;pra_brUF;axAxiH}	pra_brU1{karwari;lat;pra;bahu;parasmEpaxI;pra_brUF;axAxiH}		kahawe_hE	said				
-5	a-vyayam	2	0	avyaya{puM}{2;eka}/vye1{karwari;laf;u;eka;parasmEpaxI;vyeF;BvAxiH}/vyay1{karwari;laf;u;eka;parasmEpaxI;vyayaz;BvAxiH}	avyaya{puM}{2;eka}	karmasamAnAXikaraNam,4	avinASI	eternal	<na-vyayam>Bsmn			
-5.1	(wam)	1	(0)	(wax{puM}{2;eka})	(wax{puM}{2;eka})	viSeRaNam,3	(usa)	that				
-6	CanxAMsi	9	CanxAMsi	Canxas{napuM}{1;bahu}/Canxas{napuM}{2;bahu}	Canxas{napuM}{1;bahu}	viXeya_viSeRaNam,8.1	vexa	Vedic_hymns				
-7	yasya	7	yasya	yax{puM}{6;eka}/yax{napuM}{6;eka}/yas1{karwari;lot;ma;eka;parasmEpaxI;yasuz;xivAxiH}	yax{puM}{6;eka}	RaRTIsambanXaH,8	jisake	of_which				
-8	parNAni	8	parNAni	parNa{napuM}{1;bahu}/parNa{napuM}{2;bahu}	parNa{napuM}{1;bahu}	karwA,8.1	pawwe	the_leaves				
-8.1	(Bavanwi)	10	(0)	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,8;akarmakaH	(hE)	become				
-9	yaH	11	yaswaM	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,11;niwya_sambanXaH,12	jo_(puruRa)	anyone				
-10	wam	12	0	wax{puM}{2;eka}	wax{puM}{2;eka}	karma,11	usako_(saMsArarUpa_vqkRa_ko)	that				
-11	vexa	13	vexa	vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}/vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,9;sakarmakaH	wawwva_se_jAnawA_hE	knows				
-12	saH	14	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,13.1	vaha	he				
-13	vexa-viw	15	vexaviw	vexa-vix{napuM}{1;eka}	vexa-vix{puM}{1;eka}	viXeya_viSeRaNam,13.1	vexa_ke_wAwparya_ko_jAnanevAlA	the_knower_of_the_Vedas	<vexa-viw>U			
-13.1	(Bavawi)	16	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,12;akarmakaH	(hE)	becomes				
+1	ऊर्ध्व-मूलम्	4	ऊर्ध्वमूलमधःशाखमश्वत्थं	ऊर्ध्व-मूल{पुं}{2;एक}/मूल{नपुं}{1;एक}/मूल{नपुं}{2;एक}	ऊर्ध्व-मूल{पुं}{2;एक}	विशेषणम्,3	आदि_पुरुष_परमेश्वररूप_मूलवाले	तिट्ह्_रोओट्स्_अबोवे	<ऊर्ध्व-मूलम्>भ्स्6			
+2	अधः-शाखम्	5	0	अधःशाख{पुं}{2;एक}	अधःशाख{पुं}{2;एक}	विशेषणम्,3	ब्रह्मारूप_मुख्य_शाखावाले	डोत्न्तर्ड्_ब्रन्च्हेस्	<अधः-शाखम्>भ्स्6			
+3	अश्वत्थम्	3	0	अश्वत्थ{पुं}{2;एक}	अश्वत्थ{पुं}{2;एक}	कर्म,4	संसाररूप_पीपल_के_वृक्ष_को	बन्यन्_ट्रेए				
+4	प्राहुः	6	प्राहुरव्ययम्	प्र_ब्रू1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;प्र_ब्रूञ्;अदादिः}	प्र_ब्रू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;प्र_ब्रूञ्;अदादिः}		कहते_है	सइड्				
+5	अ-व्ययम्	2	0	अव्यय{पुं}{2;एक}/व्ये1{कर्तरि;लङ्;उ;एक;परस्मैपदी;व्येञ्;भ्वादिः}/व्यय्1{कर्तरि;लङ्;उ;एक;परस्मैपदी;व्ययँ;भ्वादिः}	अव्यय{पुं}{2;एक}	कर्मसमानाधिकरणम्,4	अविनाशी	एटेर्नल्	<न-व्ययम्>भ्स्म्न्			
+5.1	(तम्)	1	(0)	(तद्{पुं}{2;एक})	(तद्{पुं}{2;एक})	विशेषणम्,3	(उस)	ट्हट्				
+6	छन्दांसि	9	छन्दांसि	छन्दस्{नपुं}{1;बहु}/छन्दस्{नपुं}{2;बहु}	छन्दस्{नपुं}{1;बहु}	विधेय_विशेषणम्,8.1	वेद	Vएडिच्_ह्य्म्न्स्				
+7	यस्य	7	यस्य	यद्{पुं}{6;एक}/यद्{नपुं}{6;एक}/यस्1{कर्तरि;लोट्;म;एक;परस्मैपदी;यसुँ;दिवादिः}	यद्{पुं}{6;एक}	षष्ठीसम्बन्धः,8	जिसके	ओङ्_त्हिच्ह्				
+8	पर्णानि	8	पर्णानि	पर्ण{नपुं}{1;बहु}/पर्ण{नपुं}{2;बहु}	पर्ण{नपुं}{1;बहु}	कर्ता,8.1	पत्ते	ट्हे_लेअवेस्				
+8.1	(भवन्ति)	10	(0)	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,8;अकर्मकः	(है)	बेचोमे				
+9	यः	11	यस्तं	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,11;नित्य_सम्बन्धः,12	जो_(पुरुष)	अन्योने				
+10	तम्	12	0	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	कर्म,11	उसको_(संसाररूप_वृक्ष_को)	ट्हट्				
+11	वेद	13	वेद	विद्1{कर्तरि;लट्;उ;एक;परस्मैपदी;विदँ;अदादिः}/विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;उ;एक;परस्मैपदी;विदँ;अदादिः}	अभिहित_कर्ता,9;सकर्मकः	तत्त्व_से_जानता_है	क्नोत्स्				
+12	सः	14	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,13.1	वह	हे				
+13	वेद-वित्	15	वेदवित्	वेद-विद्{नपुं}{1;एक}	वेद-विद्{पुं}{1;एक}	विधेय_विशेषणम्,13.1	वेद_के_तात्पर्य_को_जाननेवाला	ट्हे_क्नोतेर्_ओङ्_ट्हे_Vएडस्	<वेद-वित्>ऊ			
+13.1	(भवति)	16	(0)	(भवत्{पुं}{7;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहित_कर्ता,12;अकर्मकः	(है)	बेचोमेस्				

@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wawaH	1	wawaH	wawaH{avya}	wawaH{avya}	kAlAXikaraNam,9	isake	then				
-2	SafKAH	2	SafKASca	SafKa{puM}{1;bahu}	SafKa{puM}{1;bahu}	sup_samucciwaH,6	SaMKa	conchs				
-3	ca	3	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	also				
-4	BeryaH	4	BeryaSca	BerI{swrI}{1;bahu}	BerI{swrI}{1;bahu}	sup_samucciwaH,6	nagAre	large_drums				
-5	ca	5	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	waWA	and				
-6	paNava-Anaka-gomuKAH	6	paNavAnakagomuKAH	paNavAnaka-gomuKa{puM}{1;bahu}/gomuKA{swrI}{1;bahu}/gomuKA{swrI}{2;bahu}	paNavAnaka-gomuKa{puM}{1;bahu}	karma,9	Dola_mqxaMga_Ora_narasiMGe_Axi_bAje	trumpets_and_small_drums_and_horns	<paNava-Anaka-gomuKAH>Di			
-7	sahasA	7	sahasEvAByahanyanwa	sahasA{avya}	sahasA{avya}	kriyAviSeRaNam,9	eka_sAWa	suddenly				
-8	eva	8	0	eva{avya}	eva{avya}	sambanXaH,7	hI	certainly				
-9	aByahanyanwa	9	0	aBi_han1{karmaNi;laf;pra;bahu;AwmanepaxI;hanaz;axAxiH}	aBi_han1{karmaNi;laf;pra;bahu;AwmanepaxI;aBi_hanaz;axAxiH}	aBihiwa_karma,6;sakarmakaH	baja_uTe	blared_forth				
-10	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,13	vaha	that				
-11	SabxaH	11	SabxaswumuloZBavaw	Sabxa{puM}{1;eka}	Sabxa{puM}{1;eka}	viXeya_viSeRaNam,13	Sabxa	combined_sound				
-12	wumulaH	12	0	wumula{puM}{1;eka}	wumula{puM}{1;eka}	viSeRaNam,11	bada़A_BayaMkara	tumultuous				
-13	aBavaw	13	0	BU1{karwari;laf;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;laf;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,11;akarmakaH	huA	became				
+1	ततः	1	ततः	ततः{अव्य}	ततः{अव्य}	कालाधिकरणम्,9	इसके	ट्हेन्				
+2	शङ्खाः	2	शङ्खाश्च	शङ्ख{पुं}{1;बहु}	शङ्ख{पुं}{1;बहु}	सुप्_समुच्चितः,6	शंख	चोन्च्ह्स्				
+3	च	3	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	और	अल्सो				
+4	भेर्यः	4	भेर्यश्च	भेरी{स्त्री}{1;बहु}	भेरी{स्त्री}{1;बहु}	सुप्_समुच्चितः,6	नगारे	लर्गे_ड्रुम्स्				
+5	च	5	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,4	तथा	अन्ड्				
+6	पणव-आनक-गोमुखाः	6	पणवानकगोमुखाः	पणवानक-गोमुख{पुं}{1;बहु}/गोमुखा{स्त्री}{1;बहु}/गोमुखा{स्त्री}{2;बहु}	पणवानक-गोमुख{पुं}{1;बहु}	कर्म,9	ढोल_मृदंग_और_नरसिंघे_आदि_बाजे	ट्रुम्पेट्स्_अन्ड्_स्मल्ल्_ड्रुम्स्_अन्ड्_होर्न्स्	<पणव-आनक-गोमुखाः>ढि			
+7	सहसा	7	सहसैवाभ्यहन्यन्त	सहसा{अव्य}	सहसा{अव्य}	क्रियाविशेषणम्,9	एक_साथ	सुड्डेन्ल्य्				
+8	एव	8	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,7	ही	चेर्टइन्ल्य्				
+9	अभ्यहन्यन्त	9	0	अभि_हन्1{कर्मणि;लङ्;प्र;बहु;आत्मनेपदी;हनँ;अदादिः}	अभि_हन्1{कर्मणि;लङ्;प्र;बहु;आत्मनेपदी;अभि_हनँ;अदादिः}	अभिहित_कर्म,6;सकर्मकः	बज_उठे	ब्लरेड्_ङोर्ट्ह्				
+10	सः	10	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,13	वह	ट्हट्				
+11	शब्दः	11	शब्दस्तुमुलोऽभवत्	शब्द{पुं}{1;एक}	शब्द{पुं}{1;एक}	विधेय_विशेषणम्,13	शब्द	चोम्बिनेड्_सोउन्ड्				
+12	तुमुलः	12	0	तुमुल{पुं}{1;एक}	तुमुल{पुं}{1;एक}	विशेषणम्,11	बडॆअञआ_भयंकर	टुमुल्टुओउस्				
+13	अभवत्	13	0	भू1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहित_कर्ता,11;अकर्मकः	हुआ	बेचमे				

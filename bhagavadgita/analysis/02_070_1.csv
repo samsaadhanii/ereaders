@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ApUryamANam	3	ApUryamANamacalaprawiRTaM	ApUryamANa{puM}{2;eka}/ApUryamANa{napuM}{1;eka}/ApUryamANa{napuM}{2;eka}	ApUryamANa{puM}{2;eka}	viSeRaNam,3	saba_ora_se_paripUrNa	full_on_all_sides				
-2	a-cala-prawiRTam	4	0	acala-prawiRTam	acala-prawiRTa{puM}{2;eka}	viSeRaNam,3	acala_prawiRTAvAle	remain_undisturbed	<<na-cala>Tn-prawiRTam>Bs6			
-3	samuxram	5	samuxramApaH	samuxra{puM}{2;eka}/samuxra{napuM}{1;eka}/samuxra{napuM}{2;eka}	samuxra{puM}{2;eka}	karma,5	samuxra_meM	the_ocean				
-4	ApaH	2	0	ap{swrI}{1;bahu}/Apas{napuM}{1;eka}/Apas{napuM}{2;eka}/Ap1{karwari;luf;ma;eka;parasmEpaxI;ApLz;svAxiH}	ap{swrI}{1;bahu}	karwA,5	jala	the_waters_of_different_rivers				
-5	praviSanwi	6	praviSanwi	pra_viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	pra_viS1{karwari;lat;pra;bahu;parasmEpaxI;pra_viSaz;wuxAxiH}	aBihiwa_karwA,4;sakarmakaH	samA_jAwe_hEM	enter				
-6	yaxvaw	1	yaxvaw	yaxvaw{avya}	yaxvaw{avya}	kriyAviSeRaNam,5	jEse	though(just as)				
-7	waxvaw	7	waxvawkAmA	waxvaw{avya}	waxvaw{avya}	kriyAviSeRaNam,10	vEse_hI	likewise				
-8	kAmAH	9	0	kAma{puM}{1;bahu}/kAmA{swrI}{1;bahu}/kAmA{swrI}{2;bahu}	kAma{puM}{1;bahu}	karwA,10	Boga	enjoyments				
-9	yam	10	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	karma,10;niwya_sambanXaH,12	jisameM	he,_in_whom				
-10	praviSanwi	11	praviSanwi	pra_viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	pra_viS1{karwari;lat;pra;bahu;parasmEpaxI;pra_viSaz;wuxAxiH}	aBihiwa_karwA,8;sakarmakaH	samA_jAwe_hEM	merge				
-11	sarve	8	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	viSeRaNam,8	saba	all				
-12	saH	12	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,14	vahI_(puruRa)	that_(person_				
-13	SAnwim	13	SAnwimApnowi	SAnwi{swrI}{2;eka}	SAnwi{swrI}{2;eka}	karma,14	parama_SAnwi_ko	peace				
-14	Apnowi	14	0	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	aBihiwa_karwA,12;sakarmakaH	prApwa_howA_hE	attains				
-15	na	16	na	na{avya}	na{avya}	prawiReXaH,16.2	nahIM	not				
-16	kAma-kAmI	15	kAmakAmI	kAma-kAmin{puM}{1;eka}	kAma-kAmin{puM}{1;eka}	karwA,16.2	BogoM_ko_cAhanevAlA	he_who_hankers_after_such_enjoyments	<kAma-kAmI>T7			
-16.1	(SAnwim)	17	(0)	(SAnwi{swrI}{2;eka})	(SAnwi{swrI}{2;eka})	karma,16.2	(parama_SAnwi_ko)	peace				
-16.2	(Apnowi)	18	(0)	(Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH})	(Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH})	aBihiwa_karwA,16;sakarmakaH	(prApwa_howA_hE)	attains				
+1	आपूर्यमाणम्	3	आपूर्यमाणमचलप्रतिष्ठं	आपूर्यमाण{पुं}{2;एक}/आपूर्यमाण{नपुं}{1;एक}/आपूर्यमाण{नपुं}{2;एक}	आपूर्यमाण{पुं}{2;एक}	विशेषणम्,3	सब_ओर_से_परिपूर्ण	ङुल्ल्_ओन्_अल्ल्_सिडेस्				
+2	अ-चल-प्रतिष्ठम्	4	0	अचल-प्रतिष्ठम्	अचल-प्रतिष्ठ{पुं}{2;एक}	विशेषणम्,3	अचल_प्रतिष्ठावाले	रेमइन्_उन्डिस्टुर्बेड्	<<न-चल>ठ्न्-प्रतिष्ठम्>भ्स्6			
+3	समुद्रम्	5	समुद्रमापः	समुद्र{पुं}{2;एक}/समुद्र{नपुं}{1;एक}/समुद्र{नपुं}{2;एक}	समुद्र{पुं}{2;एक}	कर्म,5	समुद्र_में	ट्हे_ओचेअन्				
+4	आपः	2	0	अप्{स्त्री}{1;बहु}/आपस्{नपुं}{1;एक}/आपस्{नपुं}{2;एक}/आप्1{कर्तरि;लुङ्;म;एक;परस्मैपदी;आपॢँ;स्वादिः}	अप्{स्त्री}{1;बहु}	कर्ता,5	जल	ट्हे_तटेर्स्_ओङ्_डिङ्ङेरेन्ट्_रिवेर्स्				
+5	प्रविशन्ति	6	प्रविशन्ति	प्र_विश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विशँ;तुदादिः}	प्र_विश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;प्र_विशँ;तुदादिः}	अभिहित_कर्ता,4;सकर्मकः	समा_जाते_हैं	एन्टेर्				
+6	यद्वत्	1	यद्वत्	यद्वत्{अव्य}	यद्वत्{अव्य}	क्रियाविशेषणम्,5	जैसे	ट्होउग्ह्(जुस्ट् अस्)				
+7	तद्वत्	7	तद्वत्कामा	तद्वत्{अव्य}	तद्वत्{अव्य}	क्रियाविशेषणम्,10	वैसे_ही	लिकेतिसे				
+8	कामाः	9	0	काम{पुं}{1;बहु}/कामा{स्त्री}{1;बहु}/कामा{स्त्री}{2;बहु}	काम{पुं}{1;बहु}	कर्ता,10	भोग	एन्जोय्मेन्ट्स्				
+9	यम्	10	यं	यद्{पुं}{2;एक}	यद्{पुं}{2;एक}	कर्म,10;नित्य_सम्बन्धः,12	जिसमें	हे,_इन्_त्होम्				
+10	प्रविशन्ति	11	प्रविशन्ति	प्र_विश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विशँ;तुदादिः}	प्र_विश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;प्र_विशँ;तुदादिः}	अभिहित_कर्ता,8;सकर्मकः	समा_जाते_हैं	मेर्गे				
+11	सर्वे	8	सर्वे	सर्व{पुं}{1;बहु}/सर्व{नपुं}{1;द्वि}/सर्व{नपुं}{2;द्वि}/सर्वा{स्त्री}{1;द्वि}/सर्वा{स्त्री}{2;द्वि}	सर्व{पुं}{1;बहु}	विशेषणम्,8	सब	अल्ल्				
+12	सः	12	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,14	वही_(पुरुष)	ट्हट्_(पेर्सोन्_				
+13	शान्तिम्	13	शान्तिमाप्नोति	शान्ति{स्त्री}{2;एक}	शान्ति{स्त्री}{2;एक}	कर्म,14	परम_शान्ति_को	पेअचे				
+14	आप्नोति	14	0	आप्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;आपॢँ;स्वादिः}	आप्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;आपॢँ;स्वादिः}	अभिहित_कर्ता,12;सकर्मकः	प्राप्त_होता_है	अट्टइन्स्				
+15	न	16	न	न{अव्य}	न{अव्य}	प्रतिषेधः,16.2	नहीं	नोट्				
+16	काम-कामी	15	कामकामी	काम-कामिन्{पुं}{1;एक}	काम-कामिन्{पुं}{1;एक}	कर्ता,16.2	भोगों_को_चाहनेवाला	हे_त्हो_हन्केर्स्_अङ्टेर्_सुच्ह्_एन्जोय्मेन्ट्स्	<काम-कामी>ठ्7			
+16.1	(शान्तिम्)	17	(0)	(शान्ति{स्त्री}{2;एक})	(शान्ति{स्त्री}{2;एक})	कर्म,16.2	(परम_शान्ति_को)	पेअचे				
+16.2	(आप्नोति)	18	(0)	(आप्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;आपॢँ;स्वादिः})	(आप्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;आपॢँ;स्वादिः})	अभिहित_कर्ता,16;सकर्मकः	(प्राप्त_होता_है)	अट्टइन्स्				

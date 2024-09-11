@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	karmaNA	2	karmaNEva	karman{napuM}{3;eka}	karman{napuM}{3;eka}	karaNam,5	karma_xvArA	by_work				
-2	eva	3	0	eva{avya}	eva{avya}	sambanXaH,1	hI	even				
-3	hi	6	hi	hi{avya}	hi{avya}	sambanXaH,12	isaliye	certainly				
-4	saMsixXim	4	saMsixXimAsWiwA	saMsixXi{swrI}{2;eka}	saMsixXi{swrI}{2;eka}	karma,5	paramasixXi_ko	perfection				
-5	AsWiwAH	5	0	AsWiwa{puM}{1;bahu}/AsWiwa{puM}{8;bahu}/AsWiwA{swrI}{1;bahu}/AsWiwA{swrI}{2;bahu}/AsWiwA{swrI}{8;bahu}	Af_sWA1{kqw_prawyayaH:kwa;Af_RTA;BvAxiH;puM}{1;bahu}	aBihiwa_karwA,6;sakarmakaH	prApwa_hue_We	situated				
-6	janaka-AxayaH	1	janakAxayaH	janaka-Axi{puM}{1;bahu}/Axi{puM}{8;bahu}	janaka-Axi{puM}{1;bahu}	karwA,5	janakAxi_jFAnIjana_BI	Janaka_and_other_kings	<janaka-AxayaH>Bs6			
-6.1	(wvam)	9	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wuma)	you				
-7	loka-safgraham	7	lokasafgrahamevApi	loka-safgraha{puM}{2;eka}	loka-safgraha{puM}{2;eka}	karma,10	lokasaMgraha_ko	Public Educationg	<loka-safgraham>T6			
-8	eva	11	0	eva{avya}	eva{avya}	sambanXaH,10	hI	only				
-9	api	10	0	api{avya}	api{avya}	sambanXaH,6.1	BI	as_well				
-10	sampaSyan	8	sampaSyankarwumarhasi	sampaSyaw{puM;1;eka(xqS1;Sawq_lat;xqSizr;:BvAxiH)}	sampaSyaw{puM;1;eka(xqS1;Sawq_lat;xqSizr;:BvAxiH)}	varwamAnasamAnakAlaH,12	xeKawe_hue	by_considering				
-11	karwum	12	0	kq3{avya;wumun;dukqF;:wanAxiH}	kq3{avya;wumun;dukqF;:wanAxiH}	sahAyakakriyA,12	karma_ke	to_act				
-12	arhasi	13		arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;:curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;:BvAxiH}	aBihiwa_karwA,6.1;sakarmakaH	yogya_howe_ho	deserve				
+1	कर्मणा	2	कर्मणैव	कर्मन्{नपुं}{3;एक}	कर्मन्{नपुं}{3;एक}	करणम्,5	कर्म_द्वारा	ब्य्_तोर्क्				
+2	एव	3	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,1	ही	एवेन्				
+3	हि	6	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,12	इसलिये	चेर्टइन्ल्य्				
+4	संसिद्धिम्	4	संसिद्धिमास्थिता	संसिद्धि{स्त्री}{2;एक}	संसिद्धि{स्त्री}{2;एक}	कर्म,5	परमसिद्धि_को	पेर्ङेच्टिओन्				
+5	आस्थिताः	5	0	आस्थित{पुं}{1;बहु}/आस्थित{पुं}{8;बहु}/आस्थिता{स्त्री}{1;बहु}/आस्थिता{स्त्री}{2;बहु}/आस्थिता{स्त्री}{8;बहु}	आङ्_स्था1{कृत्_प्रत्ययः:क्त;आङ्_ष्ठा;भ्वादिः;पुं}{1;बहु}	अभिहित_कर्ता,6;सकर्मकः	प्राप्त_हुए_थे	सिटुअटेड्				
+6	जनक-आदयः	1	जनकादयः	जनक-आदि{पुं}{1;बहु}/आदि{पुं}{8;बहु}	जनक-आदि{पुं}{1;बहु}	कर्ता,5	जनकादि_ज्ञानीजन_भी	झनक_अन्ड्_ओट्हेर्_किन्ग्स्	<जनक-आदयः>भ्स्6			
+6.1	(त्वम्)	9	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,12	(तुम)	योउ				
+7	लोक-सङ्ग्रहम्	7	लोकसङ्ग्रहमेवापि	लोक-सङ्ग्रह{पुं}{2;एक}	लोक-सङ्ग्रह{पुं}{2;एक}	कर्म,10	लोकसंग्रह_को	फुब्लिच् ऐडुचटिओन्ग्	<लोक-सङ्ग्रहम्>ठ्6			
+8	एव	11	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,10	ही	ओन्ल्य्				
+9	अपि	10	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,6.1	भी	अस्_तेल्ल्				
+10	सम्पश्यन्	8	सम्पश्यन्कर्तुमर्हसि	सम्पश्यत्{पुं;1;एक(दृश्1;शतृ_लट्;दृशिँर्;:भ्वादिः)}	सम्पश्यत्{पुं;1;एक(दृश्1;शतृ_लट्;दृशिँर्;:भ्वादिः)}	वर्तमानसमानकालः,12	देखते_हुए	ब्य्_चोन्सिडेरिन्ग्				
+11	कर्तुम्	12	0	कृ3{अव्य;तुमुन्;डुकृञ्;:तनादिः}	कृ3{अव्य;तुमुन्;डुकृञ्;:तनादिः}	सहायकक्रिया,12	कर्म_के	टो_अच्ट्				
+12	अर्हसि	13		अर्ह्1{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;:भ्वादिः}/अर्ह्2{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;:चुरादिः}	अर्ह्1{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;:भ्वादिः}	अभिहित_कर्ता,6.1;सकर्मकः	योग्य_होते_हो	डेसेर्वे				

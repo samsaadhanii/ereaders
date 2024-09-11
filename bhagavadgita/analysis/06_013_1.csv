@@ -1,25 +1,25 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	samam	2	samaM	samam{avya}/sama{puM}{2;eka}/sama{napuM}{1;eka}/sama{napuM}{2;eka}/sama{puM}{2;eka}	sama{napuM}{1;eka}	sup_samucciwaH,4	samAna	straight				
-2	kAya-SiraH-grIvam	1	kAyaSirogrIvaM	kAya-Siras-grIva{puM}{2;eka}	kAya-Siras-grIva{puM}{2;eka}	karma,3	kAyA_sira_Ora_gale_ko	body,_head_and_neck_	<kAya-SiraH-grIvam>Ds			
-3	XArayan	5	XArayannacalaM	XArayan	Xq1_Nic{kqw_prawyayaH:Sawq;XqF_Nic;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,20	XAraNa_karake	holding				
-4	a-calam	3	0	a-cala{puM}{2;eka}/cala{napuM}{1;eka}/cala{napuM}{2;eka}	acala{napuM}{2;eka}	kriyAviSeRaNam,3	acala	unmoved	<na-calam>Tn			
-4.1	(ca)	4	(0)	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	Ora	also				
-5	sWiraH	6	sWiraH	sWira{puM}{1;eka}	sWira{puM}{2;eka}	samucciwaH,10	sWira_hokara	still				
-5.1	(san)	7	()	as1{kqw_prawyayaH:Sawq;asa;axAxiH;puM}{1;eka}	as1{kqw_prawyayaH:Sawq;asa;axAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,20	XAraNa_karake	holding				
-6	samprekRya	9	samprekRya	samprekRya	sam_pra_IkR1{kqw_prawyayaH:lyap;sam_pra_IkRaz;BvAxiH}	pUrvakAlaH,20	xqRti_jamAkara	looking				
-7	nAsikA-agram	8	nAsikAgraM	nAsikA-agra{napuM}{1;eka}/agra{napuM}{2;eka}	nAsikA-agra{napuM}{2;eka}	karma,6	nAsikA_ke_agraBAga_para	nose-tip	<nAsikA-agraM>T6			
-8	svam	10	svaM	sva{puM}{2;eka}/sva{napuM}{1;eka}/sva{napuM}{2;eka}/sva{puM}{2;eka}	sva{napuM}{2;eka}	RaRTIsambanXaH,7	apanI	own				
-9	xiSaH	11	xiSaScAnavalokayan	xiS{swrI}{1;bahu}/xiS{swrI}{2;bahu}/xiS{swrI}{5;eka}/xiS{swrI}{6;eka}	xiS{swrI}{2;bahu}	karma,11	xiSAoM_ko	all_sides				
-10	ca	12	0	ca{avya}	ca{avya}	sambanXaH,11	Ora	also				
-11	an-avalokayan	13	0	an-{avya}-avalokayan	na-ava_lok2{kqw_prawyayaH:Sawq;ava_lokqz;curAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,20	na_xeKawA_huA	not_seeing	<na-avalokayan>Tn			
-12	praSAnwa-AwmA	14	praSAnwAwmA	praSAnwa-Awman{puM}{1;eka}	praSAnwa-Awman{puM}{1;eka}	viSeRaNam,19	BalIBAzwi_SAnwa_anwaHkaraNavAlA	unagitated_mind	<praSAnwa-AwmA>Bs6			
-13	vigawa-BIH	15	vigawaBIrbrahmacArivrawe	vigawa-BI{swrI}{1;eka}	vigawa-BI{puM}{1;eka}	viSeRaNam,19	Bayarahiwa	devoid_of_fear	<vigawa-BIH>Bs5			
-14	brahmacAri-vrawe	16	0	brahmacArin-vrawa{puM}{7;eka}/vrawa{napuM}{1;xvi}/vrawa{napuM}{2;xvi}/vrawa{napuM}{7;eka}	brahmacArin-vrawa{puM}{7;eka}	aXikaraNam,15	brahmacArI_ke_vrawa_meM	in_the_vow_of_celibacy	<brahmacArin-vrawe>T6			
-15	sWiwaH	17	sWiwaH	sWiwa{puM}{1;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;eka}	viSeRaNam,19	sWiwa	situated				
-16	manaH	18	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}	manas{napuM}{2;eka}	karma,17	mana_ko	mind				
-17	saMyamya	19	saMyamya	sam_yam1{kqw_prawyayaH:lyap;yamoz;BvAxiH}/sam_yam2{kqw_prawyayaH:lyap;yamaz;BvAxiH}/sam_yam3{kqw_prawyayaH:lyap;yamaz;curAxiH}	sam_yam1{kqw_prawyayaH:lyap;sam_yamoz;BvAxiH}	pUrvakAlaH,20	rokakara	completely_subduing				
-18	maw-ciwwaH	21	macciwwo	asmax-ciwwa{puM}{1;eka}	asmax-ciwwa{puM}{1;eka}	sup_samucciwaH,21	muJameM_ciwwavAlA	concentrated_upon_me	<asmaw-ciwwaH>Bs6			
-19	yukwaH	20	yukwa	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	karwA,20	sAvaXAna_yogI	the_actual_yogi				
-20	AsIwa	24	AsIwa	As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH}	As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH}	aBihiwa_karwA,19	sWiwa_hove	being_so				
-21	maw-paraH	22	mawparaH	asmax-para{puM}{1;eka}/para{puM}{1;eka}	asmax-para{puM}{1;eka}	viXeya_viSeRaNam,20	mere_parAyaNa_hokara	taking_me_as_the_ultimate_goal	<asmaw-paraH>Bs6			
-21.1	(ca)	4	(0)	ca{avya}	ca{avya}	samuccaya_xyowakaH,21	Ora	also				
+1	समम्	2	समं	समम्{अव्य}/सम{पुं}{2;एक}/सम{नपुं}{1;एक}/सम{नपुं}{2;एक}/सम{पुं}{2;एक}	सम{नपुं}{1;एक}	सुप्_समुच्चितः,4	समान	स्ट्रइग्ह्ट्				
+2	काय-शिरः-ग्रीवम्	1	कायशिरोग्रीवं	काय-शिरस्-ग्रीव{पुं}{2;एक}	काय-शिरस्-ग्रीव{पुं}{2;एक}	कर्म,3	काया_सिर_और_गले_को	बोड्य्,_हेअड्_अन्ड्_नेच्क्_	<काय-शिरः-ग्रीवम्>ढ्स्			
+3	धारयन्	5	धारयन्नचलं	धारयन्	धृ1_णिच्{कृत्_प्रत्ययः:शतृ;धृञ्_णिच्;भ्वादिः;पुं}{1;एक}	वर्तमानसमानकालः,20	धारण_करके	होल्डिन्ग्				
+4	अ-चलम्	3	0	अ-चल{पुं}{2;एक}/चल{नपुं}{1;एक}/चल{नपुं}{2;एक}	अचल{नपुं}{2;एक}	क्रियाविशेषणम्,3	अचल	उन्मोवेड्	<न-चलम्>ठ्न्			
+4.1	(च)	4	(0)	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,4	और	अल्सो				
+5	स्थिरः	6	स्थिरः	स्थिर{पुं}{1;एक}	स्थिर{पुं}{2;एक}	समुच्चितः,10	स्थिर_होकर	स्टिल्ल्				
+5.1	(सन्)	7	()	अस्1{कृत्_प्रत्ययः:शतृ;अस;अदादिः;पुं}{1;एक}	अस्1{कृत्_प्रत्ययः:शतृ;अस;अदादिः;पुं}{1;एक}	वर्तमानसमानकालः,20	धारण_करके	होल्डिन्ग्				
+6	सम्प्रेक्ष्य	9	सम्प्रेक्ष्य	सम्प्रेक्ष्य	सम्_प्र_ईक्ष्1{कृत्_प्रत्ययः:ल्यप्;सम्_प्र_ईक्षँ;भ्वादिः}	पूर्वकालः,20	दृष्टि_जमाकर	लोओकिन्ग्				
+7	नासिका-अग्रम्	8	नासिकाग्रं	नासिका-अग्र{नपुं}{1;एक}/अग्र{नपुं}{2;एक}	नासिका-अग्र{नपुं}{2;एक}	कर्म,6	नासिका_के_अग्रभाग_पर	नोसे-टिप्	<नासिका-अग्रं>ठ्6			
+8	स्वम्	10	स्वं	स्व{पुं}{2;एक}/स्व{नपुं}{1;एक}/स्व{नपुं}{2;एक}/स्व{पुं}{2;एक}	स्व{नपुं}{2;एक}	षष्ठीसम्बन्धः,7	अपनी	ओत्न्				
+9	दिशः	11	दिशश्चानवलोकयन्	दिश्{स्त्री}{1;बहु}/दिश्{स्त्री}{2;बहु}/दिश्{स्त्री}{5;एक}/दिश्{स्त्री}{6;एक}	दिश्{स्त्री}{2;बहु}	कर्म,11	दिशाओं_को	अल्ल्_सिडेस्				
+10	च	12	0	च{अव्य}	च{अव्य}	सम्बन्धः,11	और	अल्सो				
+11	अन्-अवलोकयन्	13	0	अन्-{अव्य}-अवलोकयन्	न-अव_लोक्2{कृत्_प्रत्ययः:शतृ;अव_लोकृँ;चुरादिः;पुं}{1;एक}	वर्तमानसमानकालः,20	न_देखता_हुआ	नोट्_सेएइन्ग्	<न-अवलोकयन्>ठ्न्			
+12	प्रशान्त-आत्मा	14	प्रशान्तात्मा	प्रशान्त-आत्मन्{पुं}{1;एक}	प्रशान्त-आत्मन्{पुं}{1;एक}	विशेषणम्,19	भलीभाँति_शान्त_अन्तःकरणवाला	उनगिटटेड्_मिन्ड्	<प्रशान्त-आत्मा>भ्स्6			
+13	विगत-भीः	15	विगतभीर्ब्रह्मचारिव्रते	विगत-भी{स्त्री}{1;एक}	विगत-भी{पुं}{1;एक}	विशेषणम्,19	भयरहित	डेवोइड्_ओङ्_ङेअर्	<विगत-भीः>भ्स्5			
+14	ब्रह्मचारि-व्रते	16	0	ब्रह्मचारिन्-व्रत{पुं}{7;एक}/व्रत{नपुं}{1;द्वि}/व्रत{नपुं}{2;द्वि}/व्रत{नपुं}{7;एक}	ब्रह्मचारिन्-व्रत{पुं}{7;एक}	अधिकरणम्,15	ब्रह्मचारी_के_व्रत_में	इन्_ट्हे_वोत्_ओङ्_चेलिबच्य्	<ब्रह्मचारिन्-व्रते>ठ्6			
+15	स्थितः	17	स्थितः	स्थित{पुं}{1;एक}	स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{1;एक}	विशेषणम्,19	स्थित	सिटुअटेड्				
+16	मनः	18	मनः	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}	मनस्{नपुं}{2;एक}	कर्म,17	मन_को	मिन्ड्				
+17	संयम्य	19	संयम्य	सम्_यम्1{कृत्_प्रत्ययः:ल्यप्;यमोँ;भ्वादिः}/सम्_यम्2{कृत्_प्रत्ययः:ल्यप्;यमँ;भ्वादिः}/सम्_यम्3{कृत्_प्रत्ययः:ल्यप्;यमँ;चुरादिः}	सम्_यम्1{कृत्_प्रत्ययः:ल्यप्;सम्_यमोँ;भ्वादिः}	पूर्वकालः,20	रोककर	चोम्प्लेटेल्य्_सुब्डुइन्ग्				
+18	मत्-चित्तः	21	मच्चित्तो	अस्मद्-चित्त{पुं}{1;एक}	अस्मद्-चित्त{पुं}{1;एक}	सुप्_समुच्चितः,21	मुझमें_चित्तवाला	चोन्चेन्ट्रटेड्_उपोन्_मे	<अस्मत्-चित्तः>भ्स्6			
+19	युक्तः	20	युक्त	युक्त{पुं}{1;एक}	युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{1;एक}	कर्ता,20	सावधान_योगी	ट्हे_अच्टुअल्_योगि				
+20	आसीत	24	आसीत	आस्1{कर्तरि;विधिलिङ्;प्र;एक;आत्मनेपदी;आसँ;अदादिः}	आस्1{कर्तरि;विधिलिङ्;प्र;एक;आत्मनेपदी;आसँ;अदादिः}	अभिहित_कर्ता,19	स्थित_होवे	बेइन्ग्_सो				
+21	मत्-परः	22	मत्परः	अस्मद्-पर{पुं}{1;एक}/पर{पुं}{1;एक}	अस्मद्-पर{पुं}{1;एक}	विधेय_विशेषणम्,20	मेरे_परायण_होकर	टकिन्ग्_मे_अस्_ट्हे_उल्टिमटे_गोअल्	<अस्मत्-परः>भ्स्6			
+21.1	(च)	4	(0)	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,21	और	अल्सो				

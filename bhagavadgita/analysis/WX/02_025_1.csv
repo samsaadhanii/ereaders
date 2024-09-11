@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	a-vyakwaH	2	avyakwoZyamacinwyoZyamavikAryoZyamucyawe	avyakwa{puM}{1;eka}	a-vyakwa{puM}{1;eka}	karmasamAnAXikaraNam,2.1	avyakwa	unmanifest	<na-vyakwaH>Tn			
+2	ayam	1	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karma,2.1	yaha	this_soul				
+2.1	(ucyawe)	3	(0)	(ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH})	(vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH})	aBihiwakarma,2	(kahA_jAwA_hE)	spoken_of_as				
+3	a-cinwyaH	5	0	acinwya{puM}{1;eka}	a-cinwya{puM}{1;eka}	karmasamAnAXikaraNam,4.1	acinwya	incomprehensible	<na-cinwyaH>Tn			
+4	ayam	4	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karma,4.1	yaha_(AwmA)	this_soul				
+4.1	(ucyawe)	6	(0)	(ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH})	(vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH})	aBihiwakarma,4;sakarmakaH	(kahA_jAwA_hE)	spoken_of_as				
+5	a-vikAryaH	8	0	a-vikArI{swrI}{1;bahu}/vikArya{puM}{1;eka}	a-vikArya{puM}{1;eka}	karmasamAnAXikaraNam,7	vikArarahiwa	immutable	<na-vikAryaH>Tn			
+6	ayam	7	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karma,7	yaha	this_soul				
+7	ucyawe	9	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,6;sakarmakaH	kahA_jAwA_hE	spoken_of_as				
+8	wasmAw	10	wasmAxevaM	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,10	isaliye	therefore				
+9	evam	12	0	evam{avya}	evam{avya}	kriyAviSeRaNam,10	EsA	as_such				
+10	vixiwvA	13	vixiwvEnaM	vix1{kqw_prawyayaH:kwvA;vixaz;axAxiH}	vix1{kqw_prawyayaH:kwvA;vixaz;axAxiH}	pUrvakAlaH,14	jAnakara	knowing_it				
+11	enam	11	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,10	isako	this_soul				
+12	na	16	nAnuSociwumarhasi	na{avya}	na{avya}	prawiReXaH,14	nahIM	not				
+13	anuSociwum	15	0	anuSociwum	anu_Suc1{kqw_prawyayaH:wumun;anu_Sucaz;BvAxiH}	sahAyakakriyA,14	Soke_karane_ke	grieve				
+14	arhasi	17	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwakarwA,14.1;akarmakaH	yogya_ho	should				
+14.1	(wvam)	14	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,14	(wuma)	you				

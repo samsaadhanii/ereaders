@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	Sukla-kqRNe	4	SuklakqRNe	SuklakqRNa{napuM}{1;xvi}/SuklakqRNa{napuM}{2;xvi}/SuklakqRNa{napuM}{7;eka}/SuklakqRNa{napuM}{8;xvi}	Sukla-kqRNa{napuM}{1;xvi}	viSeRaNam,2	Sukla_Ora_kqRNa_(arWAw_xevayAna_Ora_piwqyAna)	light_darkness	<Sukla-kqRNe>Di			
-2	gawI	5	gawI	gawi{swrI}{1;xvi}/gawi{swrI}{2;xvi}/gawi{swrI}{8;xvi}	gawi{swrI}{1;xvi}	karwA,7.1	mArga	passing_away				
-3	hi	1	hyewe	hi{avya}	hi{avya}	sambanXaH,4	kyoMki	certainly				
-4	ewe	3	0	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewA{swrI}{8;eka}/ewA{swrI}{8;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{napuM}{2;xvi}	viSeRaNam,2	ye_(xo_prakAra_ke)	all_these				
-5	jagawaH	2	jagawaH	jagaw{puM}{1;bahu}/jagaw{puM}{2;bahu}/jagaw{puM}{5;eka}/jagaw{puM}{6;eka}/jagaw{puM}{8;bahu}/jagaw{napuM}{5;eka}/jagaw{napuM}{6;eka}	jagaw{napuM}{6;eka}	RaRTIsambanXaH,7	jagaw_ke	of_the_material_world				
-6	SASvawe	6	SASvawe	SASvawa{puM}{7;eka}/SASvawa{napuM}{1;xvi}/SASvawa{napuM}{2;xvi}/SASvawa{napuM}{7;eka}/SASvawa{napuM}{8;xvi}	SASvawa{napuM}{1;xvi}	viSeRaNam,7	sanAwana	of_the_Vedas				
-7	mawe	7	mawe	mawa{puM}{7;eka}/mawa{napuM}{1;xvi}/mawa{napuM}{2;xvi}/mawa{napuM}{7;eka}/mawa{napuM}{8;xvi}/mawi{swrI}{8;eka}/mawA{swrI}{1;xvi}/mawA{swrI}{2;xvi}/mawA{swrI}{8;eka}/mawA{swrI}{8;xvi}/mawA{swrI}{1;xvi}/mawA{swrI}{2;xvi}/mawA{swrI}{8;eka}/mawA{swrI}{8;xvi}	mawa{napuM}{1;xvi}	viXeya_viSeRaNam,7.1	mAne_gaye	in_the_opinion				
-7.1	(BavawaH)	8	(0)	(Bavaw{puM}{2;bahu}/Bavaw{puM}{5;eka}/Bavaw{puM}{6;eka}/BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,2	(hEM)	becomes				
-8	ekayA	9	ekayA	ekA{swrI}{3;eka}	ekA{swrI}{3;eka}	karaNam,9	eka_ke_xvArA_(gayA_huA)	by_one				
-9	yAwi	11	yAwyanAvqwwimanyayAvarwawe	yAw{puM}{7;eka}/yAw{napuM}{7;eka}/yA1{karwari;lat;pra;eka;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;eka;parasmEpaxI;yA;axAxiH}		prApwa_howA_hE	goes				
-10	an-Avqwwim	10	0	anAvqwwi{swrI}{2;eka}	na-Avqwwi{swrI}{2;eka}	karma,9	jisase_vApasa_nahIM_lOtanA_pada़wA_usa_paramagawi_ko	no_return	<na-Avqwwim>Tn			
-11	anyayA	12	0	anyA{swrI}{3;eka}/anyA{swrI}{3;eka}	anyA{swrI}{3;eka}	karaNam,12	xUsare_ke_xvArA_(gayA_huA)	by_the_other				
-12	Avarwawe	14	0	AvarwawA{swrI}{1;xvi}/AvarwawA{swrI}{2;xvi}/AvarwawA{swrI}{8;eka}/AvarwawA{swrI}{8;xvi}/Af_vqw1{karwari;lat;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	Af_vqw1{karwari;lat;pra;eka;AwmanepaxI;Af_vqwuz;BvAxiH}		vApasa_AwA_hE_arWAw_janma-mqwyu_ko_prApwa_howA_hE	comes_back				
-13	punaH	13	punaH	punaH{avya}	punaH{avya}	kriyAviSeRaNam,12	Pira	again				
+1	शुक्ल-कृष्णे	4	शुक्लकृष्णे	शुक्लकृष्ण{नपुं}{1;द्वि}/शुक्लकृष्ण{नपुं}{2;द्वि}/शुक्लकृष्ण{नपुं}{7;एक}/शुक्लकृष्ण{नपुं}{8;द्वि}	शुक्ल-कृष्ण{नपुं}{1;द्वि}	विशेषणम्,2	शुक्ल_और_कृष्ण_(अर्थात्_देवयान_और_पितृयान)	लिग्ह्ट्_डर्क्नेस्स्	<शुक्ल-कृष्णे>ढि			
+2	गती	5	गती	गति{स्त्री}{1;द्वि}/गति{स्त्री}{2;द्वि}/गति{स्त्री}{8;द्वि}	गति{स्त्री}{1;द्वि}	कर्ता,7.1	मार्ग	पस्सिन्ग्_अतय्				
+3	हि	1	ह्येते	हि{अव्य}	हि{अव्य}	सम्बन्धः,4	क्योंकि	चेर्टइन्ल्य्				
+4	एते	3	0	एता{स्त्री}{1;द्वि}/एता{स्त्री}{2;द्वि}/एता{स्त्री}{8;एक}/एता{स्त्री}{8;द्वि}/एतद्{पुं}{1;बहु}/एतद्{स्त्री}{1;द्वि}/एतद्{स्त्री}{2;द्वि}/एतद्{नपुं}{1;द्वि}/एतद्{नपुं}{2;द्वि}	एतद्{नपुं}{2;द्वि}	विशेषणम्,2	ये_(दो_प्रकार_के)	अल्ल्_ट्हेसे				
+5	जगतः	2	जगतः	जगत्{पुं}{1;बहु}/जगत्{पुं}{2;बहु}/जगत्{पुं}{5;एक}/जगत्{पुं}{6;एक}/जगत्{पुं}{8;बहु}/जगत्{नपुं}{5;एक}/जगत्{नपुं}{6;एक}	जगत्{नपुं}{6;एक}	षष्ठीसम्बन्धः,7	जगत्_के	ओङ्_ट्हे_मटेरिअल्_तोर्ल्ड्				
+6	शाश्वते	6	शाश्वते	शाश्वत{पुं}{7;एक}/शाश्वत{नपुं}{1;द्वि}/शाश्वत{नपुं}{2;द्वि}/शाश्वत{नपुं}{7;एक}/शाश्वत{नपुं}{8;द्वि}	शाश्वत{नपुं}{1;द्वि}	विशेषणम्,7	सनातन	ओङ्_ट्हे_Vएडस्				
+7	मते	7	मते	मत{पुं}{7;एक}/मत{नपुं}{1;द्वि}/मत{नपुं}{2;द्वि}/मत{नपुं}{7;एक}/मत{नपुं}{8;द्वि}/मति{स्त्री}{8;एक}/मता{स्त्री}{1;द्वि}/मता{स्त्री}{2;द्वि}/मता{स्त्री}{8;एक}/मता{स्त्री}{8;द्वि}/मता{स्त्री}{1;द्वि}/मता{स्त्री}{2;द्वि}/मता{स्त्री}{8;एक}/मता{स्त्री}{8;द्वि}	मत{नपुं}{1;द्वि}	विधेय_विशेषणम्,7.1	माने_गये	इन्_ट्हे_ओपिनिओन्				
+7.1	(भवतः)	8	(0)	(भवत्{पुं}{2;बहु}/भवत्{पुं}{5;एक}/भवत्{पुं}{6;एक}/भू1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;भू;भ्वादिः})	अभिहित_कर्ता,2	(हैं)	बेचोमेस्				
+8	एकया	9	एकया	एका{स्त्री}{3;एक}	एका{स्त्री}{3;एक}	करणम्,9	एक_के_द्वारा_(गया_हुआ)	ब्य्_ओने				
+9	याति	11	यात्यनावृत्तिमन्ययावर्तते	यात्{पुं}{7;एक}/यात्{नपुं}{7;एक}/या1{कर्तरि;लट्;प्र;एक;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;एक;परस्मैपदी;या;अदादिः}		प्राप्त_होता_है	गोएस्				
+10	अन्-आवृत्तिम्	10	0	अनावृत्ति{स्त्री}{2;एक}	न-आवृत्ति{स्त्री}{2;एक}	कर्म,9	जिससे_वापस_नहीं_लौटना_पडॆअञता_उस_परमगति_को	नो_रेटुर्न्	<न-आवृत्तिम्>ठ्न्			
+11	अन्यया	12	0	अन्या{स्त्री}{3;एक}/अन्या{स्त्री}{3;एक}	अन्या{स्त्री}{3;एक}	करणम्,12	दूसरे_के_द्वारा_(गया_हुआ)	ब्य्_ट्हे_ओट्हेर्				
+12	आवर्तते	14	0	आवर्तता{स्त्री}{1;द्वि}/आवर्तता{स्त्री}{2;द्वि}/आवर्तता{स्त्री}{8;एक}/आवर्तता{स्त्री}{8;द्वि}/आङ्_वृत्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;वृतुँ;भ्वादिः}	आङ्_वृत्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;आङ्_वृतुँ;भ्वादिः}		वापस_आता_है_अर्थात्_जन्म-मृत्यु_को_प्राप्त_होता_है	चोमेस्_बच्क्				
+13	पुनः	13	पुनः	पुनः{अव्य}	पुनः{अव्य}	क्रियाविशेषणम्,12	फिर	अगइन्				

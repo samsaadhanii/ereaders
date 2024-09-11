@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	balam	5	balaM	bala{puM}{2;eka}/bala{napuM}{1;eka}/bala{napuM}{2;eka}	bala{puM}{1;eka}	sup_samucciwaH,8	bala_arWAw_sAmarWya	strength				
+2	balavawAm	3	balavawAM	balavaw{puM}{6;bahu}/balavaw{napuM}{6;bahu}	balavaw{puM}{6;bahu}	RaRTIsambanXaH,1	balavAnoM_kA	of_the_strong				
+3	ca	9	cAhaM	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	and				
+4	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,9	mEM	I				
+5	kAma-rAga-vivarjiwam	4	kAmarAgavivarjiwam	kAma-rAga-vivarjiwa{puM}{2;eka}/vivarjiwa{napuM}{1;eka}/vivarjiwa{napuM}{2;eka}	kAma-rAga-vivarjiwa{puM}{1;eka}	viSeRaNam,1	Asakwi_Ora_kAmanAoM_se_rahiwa	devoid_of_passion_and_attachment	<<kAma-rAga>Di-vivarjiwam>T3			
+6	Xarma-a-viruxXaH	7	XarmAviruxXo	Xarman-a-viruxXa{puM}{1;eka}	Xarma-aviruxXa{puM}{1;eka}	viSeRaNam,8	Xarma_ke_anukUla_arWAw_SAswra_ke_anukUla	not_against_the_religious_principles	<Xarma-<na-viruxXaH>Tn>T3			
+7	BUweRu	6	BUweRu	BUwa{puM}{7;bahu}/BUwa{napuM}{7;bahu}	BUwa{puM}{7;bahu}	aXikaraNam,8	saba_BUwoM_meM	in_all_beings				
+8	kAmaH	8	kAmoZsmi	kAma{puM}{1;eka}	kAma{puM}{1;eka}	viXeya_viSeRaNam,9	kAma	sex_life				
+9	asmi	10	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,4;akarmakaH	hUz	am				
+10	BarawarRaBa	1	BarawarRaBa	BarawarRaBa{puM}{8;eka}	BarawarRaBa{puM}{8;eka}	samboXyaH,9	he_BarawaSreRTa	O_lord_of_the_Bharatas				

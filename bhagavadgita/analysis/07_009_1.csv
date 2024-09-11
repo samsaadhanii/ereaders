@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	puNyaH	3	puNyo	puNya{puM}{1;eka}	puNya{puM}{1;eka}	viSeRaNam,2	paviwra	original				
-2	ganXaH	4	ganXaH	ganXa{puM}{1;eka}	ganXa{puM}{1;eka}	sup_samucciwaH,5	ganXa	fragrance				
-3	pqWivyAm	2	pqWivyAM	pqWivI{swrI}{7;eka}	pqWivI{swrI}{7;eka}	aXikaraNam,2	pqWvI_meM	in_the_earth				
-4	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	also				
-5	wejaH	7	wejaScAsmi	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{1;eka}	viXeya_viSeRaNam,7	weja	temperature				
-6	ca	8	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	waWA	also				
-7	asmi	9	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,8.1;akarmakaH	hUz	am				
-8	viBAvasO	6	viBAvasO	viBAvasu{puM}{7;eka}	viBAvasu{puM}{7;eka}	aXikaraNam,5	agni_meM	in_the_fire				
-8.1	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,7	(mEM)	I				
-9	jIvanam	12	jIvanaM	jIvana{napuM}{1;eka}/jIvana{napuM}{2;eka}	jIvana{napuM}{1;eka}	sup_samucciwaH,11	jIvana	life				
-10	sarva-BUweRu	11	sarvaBUweRu	sarva-BUwa{puM}{7;bahu}/BUwa{napuM}{7;bahu}	sarva-BUwa{napuM}{7;bahu}	aXikaraNam,9	sampUrNa_BUwoM_meM	all_living_entities	<sarva-BUweRu>K1			
-11	wapaH	14	wapaScAsmi	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}/wapas{napuM}{8;eka}	wapas{napuM}{1;eka}	viXeya_viSeRaNam,13	wapa	penance				
-12	ca	15	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,11	Ora	also				
-13	asmi	16	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,14.1;akarmakaH	hUz	am				
-14	wapasviRu	13	wapasviRu	wapasvin{puM}{7;bahu}	wapasvin{puM}{7;bahu}	aXikaraNam,11	wapasviyoM_meM	in_those_who_practice_penance				
-14.1	(aham)	10	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,13	(mEM)	I				
+1	पुण्यः	3	पुण्यो	पुण्य{पुं}{1;एक}	पुण्य{पुं}{1;एक}	विशेषणम्,2	पवित्र	ओरिगिनल्				
+2	गन्धः	4	गन्धः	गन्ध{पुं}{1;एक}	गन्ध{पुं}{1;एक}	सुप्_समुच्चितः,5	गन्ध	ङ्रग्रन्चे				
+3	पृथिव्याम्	2	पृथिव्यां	पृथिवी{स्त्री}{7;एक}	पृथिवी{स्त्री}{7;एक}	अधिकरणम्,2	पृथ्वी_में	इन्_ट्हे_एअर्ट्ह्				
+4	च	5	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	और	अल्सो				
+5	तेजः	7	तेजश्चास्मि	तेजस्{नपुं}{1;एक}/तेजस्{नपुं}{2;एक}/तेजस्{नपुं}{8;एक}	तेजस्{नपुं}{1;एक}	विधेय_विशेषणम्,7	तेज	टेम्पेरटुरे				
+6	च	8	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	तथा	अल्सो				
+7	अस्मि	9	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,8.1;अकर्मकः	हूँ	अम्				
+8	विभावसौ	6	विभावसौ	विभावसु{पुं}{7;एक}	विभावसु{पुं}{7;एक}	अधिकरणम्,5	अग्नि_में	इन्_ट्हे_ङिरे				
+8.1	(अहम्)	1	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,7	(मैं)	ई				
+9	जीवनम्	12	जीवनं	जीवन{नपुं}{1;एक}/जीवन{नपुं}{2;एक}	जीवन{नपुं}{1;एक}	सुप्_समुच्चितः,11	जीवन	लिङे				
+10	सर्व-भूतेषु	11	सर्वभूतेषु	सर्व-भूत{पुं}{7;बहु}/भूत{नपुं}{7;बहु}	सर्व-भूत{नपुं}{7;बहु}	अधिकरणम्,9	सम्पूर्ण_भूतों_में	अल्ल्_लिविन्ग्_एन्टिटिएस्	<सर्व-भूतेषु>ख्1			
+11	तपः	14	तपश्चास्मि	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}/तपस्{नपुं}{8;एक}	तपस्{नपुं}{1;एक}	विधेय_विशेषणम्,13	तप	पेनन्चे				
+12	च	15	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,11	और	अल्सो				
+13	अस्मि	16	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,14.1;अकर्मकः	हूँ	अम्				
+14	तपस्विषु	13	तपस्विषु	तपस्विन्{पुं}{7;बहु}	तपस्विन्{पुं}{7;बहु}	अधिकरणम्,11	तपस्वियों_में	इन्_ट्होसे_त्हो_प्रच्टिचे_पेनन्चे				
+14.1	(अहम्)	10	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,13	(मैं)	ई				

@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,5;niwya_sambanXaH,6	jisa_kAla_meM	when				
-2	we	2	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,4	wumhArI	your				
-3	moha-kalilam	4	mohakalilaM	moha-kalila{puM}{2;eka}/kalila{napuM}{1;eka}/kalila{napuM}{2;eka}	moha-kalila{napuM}{2;eka}	karma,5	moharUpa_xalaxala_ko	mire_of_delusion	<moha-kalilaM>K6			
-4	buxXiH	3	buxXirvyawiwariRyawi	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,5	buxXi	mind				
-5	vyawiwariRyawi	5	0	vi_awi_wQ1{karwari;lqt;pra;eka;parasmEpaxI;wQ;BvAxiH}	vi_awi_wQ1{karwari;lqt;pra;eka;parasmEpaxI;vi_awi_wQ;BvAxiH}	aBihiwakarwA,4;sakarmakaH	BalIBAzwi_pAra_kara_jAyagI	fully_crossed				
-6	waxA	6	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,7	usa_samaya	then				
-7	ganwAsi	11	ganwAsi	gam1{karwari;lut;ma;eka;parasmEpaxI;gamLz;BvAxiH}	gam1{karwari;lut;ma;eka;parasmEpaxI;gamLz;BvAxiH}	aBihiwakarwA,8.1;sakarmakaH	prApwa_ho_jAoge	grow				
-8	nirvexam	10	nirvexaM	nirvexa{puM}{2;eka}	nirvexa{puM}{2;eka}	karma,7	vErAgya_ko	indifferent				
-9	Srowavyasya	7	Srowavyasya	Srowavya{puM}{6;eka}/Srowavya{napuM}{6;eka}	Sru1{kqw_prawyayaH:wavyaw;Sru;BvAxiH;napuM}{6;eka}	samucciwaH,11	sunane_meM_AnevAle	those_that_are_yet_to_be_heard_of				
-10	Sruwasya	8	Sruwasya	Sruwa{puM}{6;eka}/Sruwa{napuM}{6;eka}	Sru1{kqw_prawyayaH:kwa;Sru;BvAxiH;napuM}{6;eka}	samucciwaH,11	sune_hue	the_next_that_have_been_heard_of				
-11	ca	9	ca	ca{avya}	ca{avya}	RaRTIsambanXaH,8	Ora	as_well_as				
-8.1	(wvam)	6.1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,7	(wuma)	you				
+1	यदा	1	यदा	यदा{अव्य}	यदा{अव्य}	कालाधिकरणम्,5;नित्य_सम्बन्धः,6	जिस_काल_में	त्हेन्				
+2	ते	2	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,4	तुम्हारी	योउर्				
+3	मोह-कलिलम्	4	मोहकलिलं	मोह-कलिल{पुं}{2;एक}/कलिल{नपुं}{1;एक}/कलिल{नपुं}{2;एक}	मोह-कलिल{नपुं}{2;एक}	कर्म,5	मोहरूप_दलदल_को	मिरे_ओङ्_डेलुसिओन्	<मोह-कलिलं>ख्6			
+4	बुद्धिः	3	बुद्धिर्व्यतितरिष्यति	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	कर्ता,5	बुद्धि	मिन्ड्				
+5	व्यतितरिष्यति	5	0	वि_अति_तॄ1{कर्तरि;लृट्;प्र;एक;परस्मैपदी;तॄ;भ्वादिः}	वि_अति_तॄ1{कर्तरि;लृट्;प्र;एक;परस्मैपदी;वि_अति_तॄ;भ्वादिः}	अभिहितकर्ता,4;सकर्मकः	भलीभाँति_पार_कर_जायगी	ङुल्ल्य्_च्रोस्सेड्				
+6	तदा	6	तदा	तदा{अव्य}	तदा{अव्य}	कालाधिकरणम्,7	उस_समय	ट्हेन्				
+7	गन्तासि	11	गन्तासि	गम्1{कर्तरि;लुट्;म;एक;परस्मैपदी;गमॢँ;भ्वादिः}	गम्1{कर्तरि;लुट्;म;एक;परस्मैपदी;गमॢँ;भ्वादिः}	अभिहितकर्ता,8.1;सकर्मकः	प्राप्त_हो_जाओगे	ग्रोत्				
+8	निर्वेदम्	10	निर्वेदं	निर्वेद{पुं}{2;एक}	निर्वेद{पुं}{2;एक}	कर्म,7	वैराग्य_को	इन्डिङ्ङेरेन्ट्				
+9	श्रोतव्यस्य	7	श्रोतव्यस्य	श्रोतव्य{पुं}{6;एक}/श्रोतव्य{नपुं}{6;एक}	श्रु1{कृत्_प्रत्ययः:तव्यत्;श्रु;भ्वादिः;नपुं}{6;एक}	समुच्चितः,11	सुनने_में_आनेवाले	ट्होसे_ट्हट्_अरे_येट्_टो_बे_हेअर्ड्_ओङ्				
+10	श्रुतस्य	8	श्रुतस्य	श्रुत{पुं}{6;एक}/श्रुत{नपुं}{6;एक}	श्रु1{कृत्_प्रत्ययः:क्त;श्रु;भ्वादिः;नपुं}{6;एक}	समुच्चितः,11	सुने_हुए	ट्हे_नेद्ट्_ट्हट्_हवे_बेएन्_हेअर्ड्_ओङ्				
+11	च	9	च	च{अव्य}	च{अव्य}	षष्ठीसम्बन्धः,8	और	अस्_तेल्ल्_अस्				
+8.1	(त्वम्)	6.1	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,7	(तुम)	योउ				

@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-4.1	(yaWA)	1	()	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,6	jEse					
-4.1	(yaWA)	1	()	yaWA{avya}	yaWA{avya}	niwya_sambanXaH,6.1	jEse					
-5	puruRaH	2	puruRoZSnuwe	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	karwA,6	manuRya	man				
-2	karmaNAm	3	karmaNAmanAramBAnnERkarmyaM	karman{napuM}{6;bahu}	karman{napuM}{6;bahu}	RaRTIsambanXaH,3	karmoM_kA	from_action_(culmination_of_the_discipline_of_Action)				
-3	anAramBAw	4		anAramBa{puM}{5;eka}/anAramBa{napuM}{5;eka}	na-AramBa{puM}{5;eka}	hewuH,6	AramBa_kiye_binA	without_entering_upon_action	<na-AramBAw>Tn			
-4	nERkarmyam	5		nERkarmya{napuM}{1;eka}/nERkarmya{napuM}{2;eka}	nERkarmya{napuM}{2;eka}	karma,6	niRkarmawA_ko_yAnI_yoganiRTA_ko	freedom_from_action	<nER-karmyam>Bvp			
-1	na	6	na	na{avya}	na{avya}	prawiReXaH,6	na	not				
-6	aSnuwe	7		aS1{karwari;lat;pra;eka;AwmanepaxI;aSUz;svAxiH}	aS1{karwari;lat;pra;eka;AwmanepaxI;aSUz;svAxiH}	aBihiwa_karwA,5;sakarmaka	prApwa_howA_hE	does_attain				
-6.1	(waWA)	8	()	waWA{avya}	waWA{avya}	sambanXaH,12	vEse					
-6.2	(saH)	9	()	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,12	(vaha)	he				
-9	sannyasanAw	10	sannyasanAxeva	sannyasana{napuM}{5;eka}	sannyasana{napuM}{5;eka}	hewuH,12	karmoM_ke_wyAgamAwra_se	by_ceasing_to_act				
-10	eva	11		eva{avya}	eva{avya}	sambanXaH,9	kevala	merely				
-11	sixXim	12	sixXiM	sixXi{swrI}{2;eka}	sixXi{swrI}{2;eka}	karma,12	sixXi_yAni_sAfKyaniRTA_ko	perfection_(culmination_of_the_discipline_of_Knowledge)				
-7	na	13	na	na{avya}	na{avya}	prawiReXaH,12	na	nor				
-8	ca	14	ca	ca{avya}	ca{avya}	sambanXaH,12	Ora	also				
-12	samaXigacCawi	15	samaXigacCawi	sam_aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	sam_aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;sam_aXi_gamLz;BvAxiH}	aBihiwa_karwA,6.2;sakarmaka	prApwa_howA_hE	does_reach				
+4.1	(यथा)	1	()	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,6	जैसे					
+4.1	(यथा)	1	()	यथा{अव्य}	यथा{अव्य}	नित्य_सम्बन्धः,6.1	जैसे					
+5	पुरुषः	2	पुरुषोऽश्नुते	पुरुष{पुं}{1;एक}	पुरुष{पुं}{1;एक}	कर्ता,6	मनुष्य	मन्				
+2	कर्मणाम्	3	कर्मणामनारम्भान्नैष्कर्म्यं	कर्मन्{नपुं}{6;बहु}	कर्मन्{नपुं}{6;बहु}	षष्ठीसम्बन्धः,3	कर्मों_का	ङ्रोम्_अच्टिओन्_(चुल्मिनटिओन्_ओङ्_ट्हे_डिस्चिप्लिने_ओङ्_आच्टिओन्)				
+3	अनारम्भात्	4		अनारम्भ{पुं}{5;एक}/अनारम्भ{नपुं}{5;एक}	न-आरम्भ{पुं}{5;एक}	हेतुः,6	आरम्भ_किये_बिना	तिट्होउट्_एन्टेरिन्ग्_उपोन्_अच्टिओन्	<न-आरम्भात्>ठ्न्			
+4	नैष्कर्म्यम्	5		नैष्कर्म्य{नपुं}{1;एक}/नैष्कर्म्य{नपुं}{2;एक}	नैष्कर्म्य{नपुं}{2;एक}	कर्म,6	निष्कर्मता_को_यानी_योगनिष्ठा_को	ङ्रेएडोम्_ङ्रोम्_अच्टिओन्	<नैष्-कर्म्यम्>भ्व्प्			
+1	न	6	न	न{अव्य}	न{अव्य}	प्रतिषेधः,6	न	नोट्				
+6	अश्नुते	7		अश्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;अशूँ;स्वादिः}	अश्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;अशूँ;स्वादिः}	अभिहित_कर्ता,5;सकर्मक	प्राप्त_होता_है	डोएस्_अट्टइन्				
+6.1	(तथा)	8	()	तथा{अव्य}	तथा{अव्य}	सम्बन्धः,12	वैसे					
+6.2	(सः)	9	()	(तद्{पुं}{1;एक})	(तद्{पुं}{1;एक})	कर्ता,12	(वह)	हे				
+9	सन्न्यसनात्	10	सन्न्यसनादेव	सन्न्यसन{नपुं}{5;एक}	सन्न्यसन{नपुं}{5;एक}	हेतुः,12	कर्मों_के_त्यागमात्र_से	ब्य्_चेअसिन्ग्_टो_अच्ट्				
+10	एव	11		एव{अव्य}	एव{अव्य}	सम्बन्धः,9	केवल	मेरेल्य्				
+11	सिद्धिम्	12	सिद्धिं	सिद्धि{स्त्री}{2;एक}	सिद्धि{स्त्री}{2;एक}	कर्म,12	सिद्धि_यानि_साङ्ख्यनिष्ठा_को	पेर्ङेच्टिओन्_(चुल्मिनटिओन्_ओङ्_ट्हे_डिस्चिप्लिने_ओङ्_ख्नोत्लेड्गे)				
+7	न	13	न	न{अव्य}	न{अव्य}	प्रतिषेधः,12	न	नोर्				
+8	च	14	च	च{अव्य}	च{अव्य}	सम्बन्धः,12	और	अल्सो				
+12	समधिगच्छति	15	समधिगच्छति	सम्_अधि_गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}	सम्_अधि_गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;सम्_अधि_गमॢँ;भ्वादिः}	अभिहित_कर्ता,6.2;सकर्मक	प्राप्त_होता_है	डोएस्_रेअच्ह्				

@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	vyavasAya-AwmikA	3	vyavasAyAwmikA	vyavasAya-AwmikA{swrI}{1;eka}	vyavasAya-AwmikA{swrI}{1;eka}	viSeRaNam,2	niScayAwmikA	determinate_and_directed_towards_one_ideal	<vyavasAya-AwmikA>Bs6			
-2	buxXiH	4	buxXirekeha	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,5.1	buxXi	intellect				
-3	ekA	5	0	ekA{swrI}{1;eka}	ekA{swrI}{1;eka}	viXeya_viSeRaNam,5.1	eka_hI	singly				
-4	iha	2	0	iha{avya}	iha{avya}	aXikaraNam,5.1	isa_karmayoga_meM	in_this_path_(of_disinterested_action)				
-5	kuru-nanxana	1	kurunanxana	kuru-nanxana{puM}{8;eka}	kurunanxana{puM}{8;eka}	samboXyaH,5.1	he_arjuna	O_beloved_child_of_the_Kurus	<kuru-nanxana>T6			
-5.1	(Bavawi)	6	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,2;akarmakaH	(howI_hE)	becomes				
-6	bahu-SAKAH	12	bahuSAKA	bahu-SAKA{swrI}{1;bahu}/SAKA{swrI}{2;bahu}/SAKA{swrI}{8;bahu}	bahu-SAKA{swrI}{1;bahu}	sup_samucciwaH,8	bahuwa_BexoMvAlI	innumerable_aims	<bahu-SAKAH>Bs7			
-7	hi	8	hyananwASca	hi{avya}	hi{avya}	sambanXaH,11.1	niScaya_hI	whereas				
-8	an-anwAH	10	0	ananwa{puM}{1;bahu}/ananwa{puM}{8;bahu}/ananwA{swrI}{1;bahu}/ananwA{swrI}{2;bahu}/ananwA{swrI}{8;bahu}	ananwA{swrI}{1;bahu}	viXeya_viSeRaNam,11.1	ananwa	wanders_in_all_directions	<na-anwAH>Bsmn			
-9	ca	11	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	and				
-10	buxXayaH	9	buxXayoZvyavasAyinAm	buxXi{swrI}{1;bahu}/buxXi{swrI}{8;bahu}	buxXi{swrI}{1;bahu}	karwA,11.1	buxXiyAz	intellect				
-11	a-vyavasAyinAm	7	0	avyavasAyin{puM}{6;bahu}/avyavasAyin{napuM}{6;bahu}	a-vyavasAyin{puM}{6;bahu}	RaRTIsambanXaH,10	asWira_vicAravAle_kI	of_the_undecided_(ignorant_men_moved_by_desires)	<na-vyavasAyinAm>Tn			
-11.1	(Bavanwi)	13	(0)	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,10;akarmakaH	(howI_hEM)	are				
+1	व्यवसाय-आत्मिका	3	व्यवसायात्मिका	व्यवसाय-आत्मिका{स्त्री}{1;एक}	व्यवसाय-आत्मिका{स्त्री}{1;एक}	विशेषणम्,2	निश्चयात्मिका	डेटेर्मिनटे_अन्ड्_डिरेच्टेड्_टोतर्ड्स्_ओने_इडेअल्	<व्यवसाय-आत्मिका>भ्स्6			
+2	बुद्धिः	4	बुद्धिरेकेह	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	कर्ता,5.1	बुद्धि	इन्टेल्लेच्ट्				
+3	एका	5	0	एका{स्त्री}{1;एक}	एका{स्त्री}{1;एक}	विधेय_विशेषणम्,5.1	एक_ही	सिन्ग्ल्य्				
+4	इह	2	0	इह{अव्य}	इह{अव्य}	अधिकरणम्,5.1	इस_कर्मयोग_में	इन्_ट्हिस्_पट्ह्_(ओङ्_डिसिन्टेरेस्टेड्_अच्टिओन्)				
+5	कुरु-नन्दन	1	कुरुनन्दन	कुरु-नन्दन{पुं}{8;एक}	कुरुनन्दन{पुं}{8;एक}	सम्बोध्यः,5.1	हे_अर्जुन	औ_बेलोवेड्_च्हिल्ड्_ओङ्_ट्हे_खुरुस्	<कुरु-नन्दन>ठ्6			
+5.1	(भवति)	6	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,2;अकर्मकः	(होती_है)	बेचोमेस्				
+6	बहु-शाखाः	12	बहुशाखा	बहु-शाखा{स्त्री}{1;बहु}/शाखा{स्त्री}{2;बहु}/शाखा{स्त्री}{8;बहु}	बहु-शाखा{स्त्री}{1;बहु}	सुप्_समुच्चितः,8	बहुत_भेदोंवाली	इन्नुमेरब्ले_अइम्स्	<बहु-शाखाः>भ्स्7			
+7	हि	8	ह्यनन्ताश्च	हि{अव्य}	हि{अव्य}	सम्बन्धः,11.1	निश्चय_ही	त्हेरेअस्				
+8	अन्-अन्ताः	10	0	अनन्त{पुं}{1;बहु}/अनन्त{पुं}{8;बहु}/अनन्ता{स्त्री}{1;बहु}/अनन्ता{स्त्री}{2;बहु}/अनन्ता{स्त्री}{8;बहु}	अनन्ता{स्त्री}{1;बहु}	विधेय_विशेषणम्,11.1	अनन्त	तन्डेर्स्_इन्_अल्ल्_डिरेच्टिओन्स्	<न-अन्ताः>भ्स्म्न्			
+9	च	11	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	और	अन्ड्				
+10	बुद्धयः	9	बुद्धयोऽव्यवसायिनाम्	बुद्धि{स्त्री}{1;बहु}/बुद्धि{स्त्री}{8;बहु}	बुद्धि{स्त्री}{1;बहु}	कर्ता,11.1	बुद्धियाँ	इन्टेल्लेच्ट्				
+11	अ-व्यवसायिनाम्	7	0	अव्यवसायिन्{पुं}{6;बहु}/अव्यवसायिन्{नपुं}{6;बहु}	अ-व्यवसायिन्{पुं}{6;बहु}	षष्ठीसम्बन्धः,10	अस्थिर_विचारवाले_की	ओङ्_ट्हे_उन्डेचिडेड्_(इग्नोरन्ट्_मेन्_मोवेड्_ब्य्_डेसिरेस्)	<न-व्यवसायिनाम्>ठ्न्			
+11.1	(भवन्ति)	13	(0)	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}/भवन्ती{स्त्री}{8;एक})	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,10;अकर्मकः	(होती_हैं)	अरे				

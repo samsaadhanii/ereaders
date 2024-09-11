@@ -1,0 +1,30 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	25	nEva	na{avya}	na{avya}	prawiReXaH,4	nahIM	never				
+2	eva	26	0	eva{avya}	eva{avya}	sambanXaH,1	niHsanxeha	certainly				
+3	kiFciw	24	kiFciwkaromIwi	kiFciw{avya}/kiFciw{napuM}{1;eka}/kiFciw{napuM}{2;eka}	kiFciw{napuM}{2;eka}	karma,4	kuCa_BI	anything				
+4	karomi	27	0	kq3{karwari;lat;u;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;u;eka;parasmEpaxI;dukqF;wanAxiH}	vAkyakarma,7	karawA_hUz	do				
+4.1	(aham)	23	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,4	(mEM)	I				
+5	iwi	28	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,4	EsA	thus				
+6	yukwaH	2	yukwo	yukwa{puM}{1;eka}	yukwa{puM}{1;eka}	karwA,7	yukwa	engaged_in_the_divine_consciousness				
+7	manyewa	29	manyewa	man1{karmaNi;viXilif;pra;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;viXilif;pra;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;viXilif;pra;eka;AwmanepaxI;manaz;xivAxiH}	aBihiwakarwA,6;sakarmakaH	mAne	thinks				
+8	wawwva-viw	1	wawwvaviw	wawwvavix{napuM}{1;eka}	wawwvavix{puM}{1;eka}	viSeRaNam,6	wawwva_ko_jAnanevAlA	one_who_knows_the_truth	<wawwva-viw>U			
+9	paSyan	3	paSyaFSqNvanspqSaFjiGrannaSnangacCansvapaFSvasan	paSyaw{puM}{1;eka}	xqS1{kqw_prawyayaH:Sawq;xqSizr;BvAxiH;puM}{1;eka}	sup_samucciwaH,21	xeKawA_huA	seeing				
+10	SqNvan	4	0	SqNvaw{puM}{1;eka}	Sru1{kqw_prawyayaH:Sawq;Sru;BvAxiH;puM}{1;eka}	sup_samucciwaH,21	sunawA_huA	hearing				
+11	*spqSan	5	0	spqSaw{puM}{1;eka}	spqS1{kqw_prawyayaH:Sawq;spqSaz;wuxAxiH;puM}{1;eka}	sup_samucciwaH,21	sparSa_karawA_huA	touching				
+12	jiGran	6	0	jiGraw{puM}{1;eka}	GrA1{kqw_prawyayaH:Sawq;GrA;BvAxiH;puM}{1;eka}	sup_samucciwaH,21	sUzGawA_huA	smelling				
+13	aSnan	7	0	aSnaw{puM}{1;eka}	aS2{kqw_prawyayaH:Sawq;aSaz;kryAxiH;puM}{1;eka}	sup_samucciwaH,21	Bojana_karawA_huA	eating				
+14	gacCan	8	0	gacCaw{puM}{1;eka}	gam1{kqw_prawyayaH:Sawq;gamLz;BvAxiH;puM}{1;eka}	sup_samucciwaH,21	gamana_karawA_huA	going				
+15	svapan	9	0	svapaw{puM}{1;eka}	svap1{kqw_prawyayaH:Sawq;FiRvapaz;axAxiH;puM}{1;eka}	sup_samucciwaH,21	sowA_huA	dreaming				
+16	Svasan	10	0	Svasaw{puM}{1;eka}	Svas1{kqw_prawyayaH:Sawq;Svasaz;axAxiH;puM}{1;eka}	sup_samucciwaH,21	SvAsa_lewA_huA	breathing				
+17	pralapan	11	pralapanvisqjangqhNannunmiRannimiRannapi	pralapan	pra_lap1{kqw_prawyayaH:Sawq;pra_lapaz;BvAxiH;puM}{1;eka}	sup_samucciwaH,21	bolawA_huA	talking				
+18	visqjan	12	0	visqjan	vi_sqj2{kqw_prawyayaH:Sawq;vi_sqjaz;wuxAxiH;puM}{1;eka}	sup_samucciwaH,21	wyAga_karawA_huA	giving_up				
+19	*gqhNan	13	0	gqhNan	grah1{kqw_prawyayaH:Sawq;grahaz;kryAxiH;puM}{1;eka}	sup_samucciwaH,21	grahaNa_karawA_huA	accepting				
+20	unmiRan	14	0	unmiRan	uw_miR1{kqw_prawyayaH:Sawq;uw_miRuz;BvAxiH;puM}{1;eka}	sup_samucciwaH,21	AzKoM_ko_KolawA	opening				
+21	nimiRan	15	0	nimiRan	ni_miR1{kqw_prawyayaH:Sawq;ni_miRuz;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,25	mUzxawA_huA	closing				
+21.1	(ca)	16	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,21	(Ora)	and				
+22	api	17	0	api{avya}	api{avya}	sambanXaH,21	BI	in_spite_of				
+23	inxriyANi	18	inxriyANInxriyasyArWeRu	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}	inxriya{napuM}{1;bahu}	karma,25	saba_inxriyAz	the_senses				
+24	inxriya-arWeRu	19	0	inxriyArWa{puM}{7;bahu}	inxriyArWa{puM}{7;bahu}	aXikaraNam,25	inxriya_ke_arWoM_meM	in_sense_gratification	<inxriya-arWeRu>T6			
+25	varwanwe	20	varwanwa	vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	karma,27	barawa_rahI_hEM	let_them_be_so_engaged				
+26	iwi	21	iwi	iwi{avya}	iwi{avya}	karma_xyowakaH,27	isa_prakAra	thus				
+27	XArayan	22	XArayan	XArayan	Xq1_Nic{kqw_prawyayaH:Sawq;XqF_Nic;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,7	samaJakara	considering				

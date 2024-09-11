@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	bqhaw-sAma	4	bqhawsAma	bqhawsAman{napuM}{1;eka}/bqhawsAman{napuM}{2;eka}/bqhawsAman{napuM}{8;eka}	bqhaw-sAman{napuM}{1;eka}	viXeya_viSeRaNam,6.1	bqhawsAma	the_Brhat-sama				
-2	waWA	1	waWA	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,1	waWA	also				
-3	sAmnAm	2	sAmnAM	sAman{napuM}{6;bahu}	sAman{napuM}{6;bahu}	nirXAraNam,1	gAyana_karaneyogya_SruwiyoM_meM	of_the_Sama_Veda_songs				
-4	gAyawrI	7	gAyawrI	gAyawrI{swrI}{1;eka}/gAyawrin{puM}{1;eka}	gAyawrI{swrI}{1;eka}	sup_samucciwaH,1	gAyawrI_Canxa	the_Gayatri_hymns				
-5	CanxasAm	6	CanxasAmaham	Canxas{napuM}{6;bahu}	Canxas{napuM}{6;bahu}	nirXAraNam,4	CanxoM_meM	of_all_poetry				
-6	aham	3	0	asmax{1;eka}	asmax{1;eka}	karwA,6.1	mEM	I				
-6.1	(asmi)	8	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,6;akarmakaH	(hUz)	am				
-7	mAsAnAm	10	mAsAnAM	mAsa{puM}{6;bahu}	mAsa{puM}{6;bahu}	nirXAraNam,8	mahInoM_meM	of_months				
-8	mArgaSIrRaH	11	mArgaSIrRoZhamqwUnAM	mArgaSIrRa{puM}{1;eka}	mArgaSIrRa{puM}{1;eka}	sup_samucciwaH,11	mArgaSIrRa	the_month_of_November-December				
-9	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,11.2	mEM	I				
-10	qwUnAm	13	0	qwu{puM}{6;bahu}	qwu{puM}{6;bahu}	nirXAraNam,11	qwuoM_meM	of_all_seasons				
-11	kusuma-AkaraH	14	kusumAkaraH	kusuma-Akara{puM}{1;eka}	kusumAkara{puM}{1;eka}	viXeya_viSeRaNam,11.2	vasanwa	spring	<kusuma-AkaraH>K4			
-11.1	(ca)	12	(0)	(ca{avya})	(ca{avya})	sup_samucciwaH,11	(Ora)	also				
-11.2	(asmi)	15	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,9;akarmakaH	(hUz)	am				
+1	बृहत्-साम	4	बृहत्साम	बृहत्सामन्{नपुं}{1;एक}/बृहत्सामन्{नपुं}{2;एक}/बृहत्सामन्{नपुं}{8;एक}	बृहत्-सामन्{नपुं}{1;एक}	विधेय_विशेषणम्,6.1	बृहत्साम	ट्हे_भ्र्हट्-सम				
+2	तथा	1	तथा	तथा{अव्य}	तथा{अव्य}	समुच्चय_द्योतकः,1	तथा	अल्सो				
+3	साम्नाम्	2	साम्नां	सामन्{नपुं}{6;बहु}	सामन्{नपुं}{6;बहु}	निर्धारणम्,1	गायन_करनेयोग्य_श्रुतियों_में	ओङ्_ट्हे_शम_Vएड_सोन्ग्स्				
+4	गायत्री	7	गायत्री	गायत्री{स्त्री}{1;एक}/गायत्रिन्{पुं}{1;एक}	गायत्री{स्त्री}{1;एक}	सुप्_समुच्चितः,1	गायत्री_छन्द	ट्हे_घयट्रि_ह्य्म्न्स्				
+5	छन्दसाम्	6	छन्दसामहम्	छन्दस्{नपुं}{6;बहु}	छन्दस्{नपुं}{6;बहु}	निर्धारणम्,4	छन्दों_में	ओङ्_अल्ल्_पोएट्र्य्				
+6	अहम्	3	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,6.1	मैं	ई				
+6.1	(अस्मि)	8	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,6;अकर्मकः	(हूँ)	अम्				
+7	मासानाम्	10	मासानां	मास{पुं}{6;बहु}	मास{पुं}{6;बहु}	निर्धारणम्,8	महीनों_में	ओङ्_मोन्ट्ह्स्				
+8	मार्गशीर्षः	11	मार्गशीर्षोऽहमृतूनां	मार्गशीर्ष{पुं}{1;एक}	मार्गशीर्ष{पुं}{1;एक}	सुप्_समुच्चितः,11	मार्गशीर्ष	ट्हे_मोन्ट्ह्_ओङ्_णोवेम्बेर्-ढेचेम्बेर्				
+9	अहम्	9	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,11.2	मैं	ई				
+10	ऋतूनाम्	13	0	ऋतु{पुं}{6;बहु}	ऋतु{पुं}{6;बहु}	निर्धारणम्,11	ऋतुओं_में	ओङ्_अल्ल्_सेअसोन्स्				
+11	कुसुम-आकरः	14	कुसुमाकरः	कुसुम-आकर{पुं}{1;एक}	कुसुमाकर{पुं}{1;एक}	विधेय_विशेषणम्,11.2	वसन्त	स्प्रिन्ग्	<कुसुम-आकरः>ख्4			
+11.1	(च)	12	(0)	(च{अव्य})	(च{अव्य})	सुप्_समुच्चितः,11	(और)	अल्सो				
+11.2	(अस्मि)	15	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,9;अकर्मकः	(हूँ)	अम्				

@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aham	2	ahamAwmA	asmax{1;eka}	asmax{1;eka}	karwA,4.1	mEM	I				
+2	AwmA	4	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	viXeya_viSeRaNam,4.1	sabakA_AwmA	soul				
+3	gudAkeSa	1	gudAkeSa	gudAkeSa{puM}{8;eka}	gudAkeSa{puM}{8;eka}	samboXyaH,4.1	he_arjuna	O_Arjuna				
+4	sarva-BUwa-ASaya-sWiwaH	3	sarvaBUwASayasWiwaH	sarva-BUwa-ASaya-sWiwa{puM}{1;eka}	sarva-BUwa-ASaya-sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;eka}	viSeRaNam,2	saba_BUwoM_ke_hqxaya_meM_sWiwa	situated_within_all_living_entities	<<<sarva-BUwa>K1-ASaya>T6-sWiwaH>T7			
+4.1	(asmi)	5	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,1;akarmakaH	(hUz)	am				
+5	aham	7	ahamAxiSca	asmax{1;eka}	asmax{1;eka}	karwA,13.1	mEM	I				
+6	AxiH	10	0	Axi{puM}{1;eka}	Axi{puM}{1;eka}	samucciwaH,13.1	Axi	origin				
+7	ca	6	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,13.1	waWA	also				
+8	maXyam	11	maXyaM	maXya{puM}{2;eka}/maXya{napuM}{1;eka}/maXya{napuM}{2;eka}	maXya{napuM}{1;eka}	samucciwaH,13.1	maXya	middle				
+9	ca	12	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,13.1	Ora	and				
+10	BUwAnAm	9	BUwAnAmanwa	BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}/BUwA{swrI}{6;bahu}	BUwa{puM}{6;bahu}	RaRTIsambanXaH,6	sampUrNa_BUwoM_kA	all_living_entities				
+11	anwaH	13	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	samucciwaH,13.1	anwa	end				
+12	eva	8	eva	eva{avya}	eva{avya}	sambanXaH,5	hI	certainly				
+13	ca	14	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,13.1	BI	also				
+13.1	(asmi)	15	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,5;akarmakaH	(hUz)	am				

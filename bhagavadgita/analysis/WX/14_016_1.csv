@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	karmaNaH	2	karmaNaH	karman{napuM}{5;eka}/karman{napuM}{6;eka}	karman{napuM}{6;eka}	RaRTIsambanXaH,4	karma_kA	of_work				
+2	su-kqwasya	1	sukqwasyAhuH	sukqwa{napuM}{6;eka}	sukqwa{napuM}{6;eka}	viSeRaNam,1	SreRTa	in_the_mode_of_goodness	<su-kqwasya>K1			
+3	AhuH	6	0	ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;bahu;parasmEpaxI;brUF;axAxiH}		kahA_hE	said				
+4	sAwwvikam	3	sAwvikaM	sAwvikam	sAwwvika{napuM}{2;eka}	viSeRaNam,6	sAwwvika	mode_of_goodness				
+5	nir-malaM	4	nirmalaM	nirmala{puM}{2;eka}/nirmala{napuM}{1;eka}/nirmala{napuM}{2;eka}	nirmala{napuM}{2;eka}	viSeRaNam,6	nirmala	purified	<nir-malaM>Bvp			
+6	Palam	5	Palam	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karma,3	Pala	result				
+7	rajasaH	8	rajasaswu	rajas{puM}{1;bahu}/rajas{puM}{2;bahu}/rajas{puM}{5;eka}/rajas{puM}{6;eka}/rajas{napuM}{5;eka}/rajas{napuM}{6;eka}	rajas{napuM}{6;eka}	RaRTIsambanXaH,9	rAjasa_karma_kA	of_the_mode_of_passion				
+8	wu	7	0	wu{avya}	wu{avya}	sambanXaH,10.1	kinwu	but				
+9	Palam	9	PalaM	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karwA,10.1	Pala	result				
+10	xuHKam	10	xuHKamajFAnaM	xuHKa{napuM}{1;eka}/xuHKa{napuM}{2;eka}	xuHKa{napuM}{2;eka}	viXeya_viSeRaNam,10.1	xuHKa	misery				
+10.1	(AhuH)	11	(0)	(ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH})	(brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH})		(kahA_hE)	said				
+11	a-jFAnam	14	0	ajFAna{napuM}{1;eka}/ajFAna{napuM}{2;eka}	ajFAna{napuM}{2;eka}	viXeya_viSeRaNam,13.1	ajFAna	nonsense	<na-jFAnam>Tn			
+12	wamasaH	12	wamasaH	wamas{napuM}{5;eka}/wamas{napuM}{6;eka}/wamasa{puM}{1;eka}	wamas{napuM}{6;eka}	RaRTIsambanXaH,11	wAmasa_karma_kA	of_the_mode_of_ignorance				
+13	Palam	13	Palam	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karwA,13.1	Pala	result				
+13.1	(AhuH)	15	(0)	(ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH})	(brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH})		(kahA_hE)	said				

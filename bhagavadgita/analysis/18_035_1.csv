@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yayA	3	yayA	yax{swrI}{3;eka}	yax{swrI}{3;eka}	viSeRaNam,1.1	jisa	by_which				
-1.1	(XqwyA)	4	(0)	(Xqwi{swrI}{3;eka})	(Xqwi{swrI}{3;eka})	karaNam,10	(XAraNa-Sakwi_ke_xvArA)	by_determination				
-2	svapnam	5	svapnaM	svapna{puM}{2;eka}	svapna{napuM}{2;eka}	sup_samucciwaH,6	nixrA	dream				
-3	Bayam	6	BayaM	Baya{napuM}{1;eka}/Baya{napuM}{2;eka}	Baya{napuM}{2;eka}	sup_samucciwaH,8	Baya	fearfulness				
-4	Sokam	7	SokaM	Soka{puM}{2;eka}	Soka{puM}{2;eka}	sup_samucciwaH,8	cinwA	lamentation				
-5	viRAxam	9	viRAxaM	viRAxa{puM}{2;eka}	viRAxa{puM}{2;eka}	sup_samucciwaH,8	xuHKa_ko	moroseness				
-6	maxam	10	maxameva	maxa{puM}{2;eka}/maxa{napuM}{1;eka}/maxa{napuM}{2;eka}	maxa{puM}{2;eka}	karma,10	unmawwawA_ko	illusion				
-7	eva	11	0	eva{avya}	eva{avya}	sambanXaH,6	BI	certainly				
-8	ca	8	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	also				
-9	na	12	na	na{avya}	na{avya}	prawiReXaH,10	nahIM	never				
-10	vimuFcawi	13	vimuFcawi	vimuFcawi	vi_muc1{karwari;lat;pra;eka;parasmEpaxI;vi_mucLz;wuxAxiH}	aBihiwakarwA,11;sakarmakaH	Coda़wA	is_liberated				
-11	xur-meXAH	2	xurmeXA	xurmeXas{puM}{1;eka}	xur-meXas{puM}{1;eka}	karwA,10	xuRta_buxXivAlA_manuRya	unintelligent	<xur-meXAH>Bs6			
-12	XqwiH	15	XqwiH	Xqwi{swrI}{1;eka}	Xqwi{swrI}{1;eka}	karwA,15.1	XAraNa-Sakwi	determination				
-13	sA	14	sA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,12	vaha	that				
-14	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,10	he_pArWa	O_son_of_Prtha				
-15	wAmasI	16	wAmasI	wAmasI{swrI}{1;eka}	wAmasI{swrI}{1;eka}	viXeya_viSeRaNam,15.1	wAmasI	in_the_mode_of_ignorance				
-15.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				
+1	यया	3	यया	यद्{स्त्री}{3;एक}	यद्{स्त्री}{3;एक}	विशेषणम्,1.1	जिस	ब्य्_त्हिच्ह्				
+1.1	(धृत्या)	4	(0)	(धृति{स्त्री}{3;एक})	(धृति{स्त्री}{3;एक})	करणम्,10	(धारण-शक्ति_के_द्वारा)	ब्य्_डेटेर्मिनटिओन्				
+2	स्वप्नम्	5	स्वप्नं	स्वप्न{पुं}{2;एक}	स्वप्न{नपुं}{2;एक}	सुप्_समुच्चितः,6	निद्रा	ड्रेअम्				
+3	भयम्	6	भयं	भय{नपुं}{1;एक}/भय{नपुं}{2;एक}	भय{नपुं}{2;एक}	सुप्_समुच्चितः,8	भय	ङेअर्ङुल्नेस्स्				
+4	शोकम्	7	शोकं	शोक{पुं}{2;एक}	शोक{पुं}{2;एक}	सुप्_समुच्चितः,8	चिन्ता	लमेन्टटिओन्				
+5	विषादम्	9	विषादं	विषाद{पुं}{2;एक}	विषाद{पुं}{2;एक}	सुप्_समुच्चितः,8	दुःख_को	मोरोसेनेस्स्				
+6	मदम्	10	मदमेव	मद{पुं}{2;एक}/मद{नपुं}{1;एक}/मद{नपुं}{2;एक}	मद{पुं}{2;एक}	कर्म,10	उन्मत्तता_को	इल्लुसिओन्				
+7	एव	11	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,6	भी	चेर्टइन्ल्य्				
+8	च	8	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	और	अल्सो				
+9	न	12	न	न{अव्य}	न{अव्य}	प्रतिषेधः,10	नहीं	नेवेर्				
+10	विमुञ्चति	13	विमुञ्चति	विमुञ्चति	वि_मुच्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;वि_मुचॢँ;तुदादिः}	अभिहितकर्ता,11;सकर्मकः	छोडॆअञता	इस्_लिबेरटेड्				
+11	दुर्-मेधाः	2	दुर्मेधा	दुर्मेधस्{पुं}{1;एक}	दुर्-मेधस्{पुं}{1;एक}	कर्ता,10	दुष्ट_बुद्धिवाला_मनुष्य	उनिन्टेल्लिगेन्ट्	<दुर्-मेधाः>भ्स्6			
+12	धृतिः	15	धृतिः	धृति{स्त्री}{1;एक}	धृति{स्त्री}{1;एक}	कर्ता,15.1	धारण-शक्ति	डेटेर्मिनटिओन्				
+13	सा	14	सा	तद्{स्त्री}{1;एक}	तद्{स्त्री}{1;एक}	विशेषणम्,12	वह	ट्हट्				
+14	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,10	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह				
+15	तामसी	16	तामसी	तामसी{स्त्री}{1;एक}	तामसी{स्त्री}{1;एक}	विधेय_विशेषणम्,15.1	तामसी	इन्_ट्हे_मोडे_ओङ्_इग्नोरन्चे				
+15.1	(अस्ति)	17	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,12;अकर्मकः	(है)	इस्				

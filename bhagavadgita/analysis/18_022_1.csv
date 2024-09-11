@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaw	2	yawwu	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,1.1;niwya_sambanXaH,11	jo	that				
-1.1	(jFAnam)	3	(0)	(jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka})	(jFAna{napuM}{1;eka})	karwA,10.1	(jFAna)	knowledge				
-2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,10.1	paraMwu	but				
-3	kqwsnavaw	6	kqwsnavaxekasminkArye	kqwsnavaw{napuM}{1;eka}/kqwsnavaw{napuM}{2;eka}	kqwsnavaw{napuM}{1;eka}	sup_samucciwaH,9	sampUrNa_ke_saxqSa	all_in_all				
-4	ekasmin	4	0	eka{puM}{7;eka}/eka{napuM}{7;eka}/ekasmin{avya}	eka{napuM}{7;eka}	viSeRaNam,5	eka	in_one				
-5	kArye	5	0	kArya{napuM}{1;xvi}/kArya{napuM}{2;xvi}/kArya{napuM}{7;eka}/kAryA{swrI}{1;xvi}/kAryA{swrI}{2;xvi}	kArya{napuM}{7;eka}	aXikaraNam,10.1	kAryarUpa_SarIra_meM	work				
-6	sakwam	7	sakwamahEwukam	sakwa{puM}{2;eka}/sakwa{napuM}{1;eka}/sakwa{napuM}{2;eka}	sakwa{napuM}{1;eka}	sup_samucciwaH,9	Asakwa	attached				
-7	a-hEwukam	8	0	ahEwuka{puM}{2;eka}/ahEwuka{napuM}{1;eka}/ahEwuka{napuM}{2;eka}	na-hEwuka{napuM}{1;eka}	sup_samucciwaH,9	binA_yukwivAlA	without_cause	<na-hEwukam>Bsmn			
-8	a-wawwvArWavaw	9	awawwvArWavaxalpaM	a-wawwvArWa-vaw{avya}	na-wawwvArWavaw{avya}	sup_samucciwaH,9	wAwwvika_arWa_se_rahiwa	without_reality	<na-wawwvArWavaw>Tn			
-9	alpam	10	0	alpam{avya}/alpa{puM}{2;eka}/alpa{napuM}{1;eka}/alpa{napuM}{2;eka}	alpa{napuM}{1;eka}	viXeya_viSeRaNam,10.1	wucCa	very_meager				
-10	ca	11	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	waWA	and				
-10.1	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,1.1;akarmakaH	(hE)	is				
-11	waw	13	wawwAmasamuxAhqwam	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,13	vaha	that				
-12	wAmasam	14	0	wAmasa{puM}{2;eka}/wAmasa{napuM}{1;eka}/wAmasa{napuM}{2;eka}	wAmasa{napuM}{2;eka}	karmasamAnAXikaraNam,13	wAmasa	in_the_mode_of_darkness				
-13	uxAhqwam	15	0	uxAhqwa{puM}{2;eka}/uxAhqwa{napuM}{1;eka}/uxAhqwa{napuM}{2;eka}	uw_Af_hq1{kqw_prawyayaH:kwa;uw_Af_hqF;BvAxiH;napuM}{1;eka}	aBihiwa_karma,11;sakarmakaH	kahA_gayA_hE	is_spoken				
+1	यत्	2	यत्तु	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	विशेषणम्,1.1;नित्य_सम्बन्धः,11	जो	ट्हट्				
+1.1	(ज्ञानम्)	3	(0)	(ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक})	(ज्ञान{नपुं}{1;एक})	कर्ता,10.1	(ज्ञान)	क्नोत्लेड्गे				
+2	तु	1	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,10.1	परंतु	बुट्				
+3	कृत्स्नवत्	6	कृत्स्नवदेकस्मिन्कार्ये	कृत्स्नवत्{नपुं}{1;एक}/कृत्स्नवत्{नपुं}{2;एक}	कृत्स्नवत्{नपुं}{1;एक}	सुप्_समुच्चितः,9	सम्पूर्ण_के_सदृश	अल्ल्_इन्_अल्ल्				
+4	एकस्मिन्	4	0	एक{पुं}{7;एक}/एक{नपुं}{7;एक}/एकस्मिन्{अव्य}	एक{नपुं}{7;एक}	विशेषणम्,5	एक	इन्_ओने				
+5	कार्ये	5	0	कार्य{नपुं}{1;द्वि}/कार्य{नपुं}{2;द्वि}/कार्य{नपुं}{7;एक}/कार्या{स्त्री}{1;द्वि}/कार्या{स्त्री}{2;द्वि}	कार्य{नपुं}{7;एक}	अधिकरणम्,10.1	कार्यरूप_शरीर_में	तोर्क्				
+6	सक्तम्	7	सक्तमहैतुकम्	सक्त{पुं}{2;एक}/सक्त{नपुं}{1;एक}/सक्त{नपुं}{2;एक}	सक्त{नपुं}{1;एक}	सुप्_समुच्चितः,9	आसक्त	अट्टच्हेड्				
+7	अ-हैतुकम्	8	0	अहैतुक{पुं}{2;एक}/अहैतुक{नपुं}{1;एक}/अहैतुक{नपुं}{2;एक}	न-हैतुक{नपुं}{1;एक}	सुप्_समुच्चितः,9	बिना_युक्तिवाला	तिट्होउट्_चउसे	<न-हैतुकम्>भ्स्म्न्			
+8	अ-तत्त्वार्थवत्	9	अतत्त्वार्थवदल्पं	अ-तत्त्वार्थ-वत्{अव्य}	न-तत्त्वार्थवत्{अव्य}	सुप्_समुच्चितः,9	तात्त्विक_अर्थ_से_रहित	तिट्होउट्_रेअलिट्य्	<न-तत्त्वार्थवत्>ठ्न्			
+9	अल्पम्	10	0	अल्पम्{अव्य}/अल्प{पुं}{2;एक}/अल्प{नपुं}{1;एक}/अल्प{नपुं}{2;एक}	अल्प{नपुं}{1;एक}	विधेय_विशेषणम्,10.1	तुच्छ	वेर्य्_मेअगेर्				
+10	च	11	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,9	तथा	अन्ड्				
+10.1	(अस्ति)	12	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,1.1;अकर्मकः	(है)	इस्				
+11	तत्	13	तत्तामसमुदाहृतम्	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	कर्म,13	वह	ट्हट्				
+12	तामसम्	14	0	तामस{पुं}{2;एक}/तामस{नपुं}{1;एक}/तामस{नपुं}{2;एक}	तामस{नपुं}{2;एक}	कर्मसमानाधिकरणम्,13	तामस	इन्_ट्हे_मोडे_ओङ्_डर्क्नेस्स्				
+13	उदाहृतम्	15	0	उदाहृत{पुं}{2;एक}/उदाहृत{नपुं}{1;एक}/उदाहृत{नपुं}{2;एक}	उत्_आङ्_हृ1{कृत्_प्रत्ययः:क्त;उत्_आङ्_हृञ्;भ्वादिः;नपुं}{1;एक}	अभिहित_कर्म,11;सकर्मकः	कहा_गया_है	इस्_स्पोकेन्				

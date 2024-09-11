@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-param	2	aparaM	a-para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	apara{napuM}{1;eka}	viXeya_viSeRaNam,3.1	aBI_hAla_kA	junior	<na-param>Tn			
-2	BavawaH	1	Bavawo	Bavaw{puM}{2;bahu}/Bavaw{puM}{5;eka}/Bavaw{puM}{6;eka}/BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;BvAxiH}	Bavaw{puM}{5;eka}	RaRTIsambanXaH,3	ApakA	your				
-3	janma	3	janma	janma{napuM}{8;eka}/janman{napuM}{1;eka}/janman{napuM}{2;eka}	janman{napuM}{1;eka}	karwA,3.1	janma	birth				
-3.1	(aswi)	6.1	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,3	(hE)	is				
-4	param	6	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{1;eka}	viXeya_viSeRaNam,6.1	prAcIna	superior				
-5	janma	4	janma	janma{napuM}{8;eka}/janman{napuM}{1;eka}/janman{napuM}{2;eka}	janman{napuM}{1;eka}	karwA,6.1	janma	birth				
-6	vivasvawaH	5	vivasvawaH	vivasvaw{puM}{2;bahu}/vivasvaw{puM}{5;eka}/vivasvaw{puM}{6;eka}	vivasvaw{puM}{5;eka}	RaRTIsambanXaH,5	sUrya_kA	of_the_sun-god				
-6.1	(aswi)	6.1	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,3	(hE)	is				
-7	kaWam	10	kaWamewaxvijAnIyAM	kaWam{avya}	kaWam{avya}	kriyAviSeRaNam,9	kEse	how				
-8	ewaw	11		ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	muKyakarma,12	yaha_(yoga)	this				
-9	vijAnIyAm	8		vi_jFA2{karwari;viXilif;u;eka;parasmEpaxI;jFA;kryAxiH}	vi_jFA2{karwari;viXilif;u;eka;parasmEpaxI;vi_jFA;kryAxiH}	aBihiwa_karwA,14	samaJUz	shall_understand				
-10	wvam	12	wvamAxO	yuRmax{1;eka}	yuRmax{1;eka}	karwA,12	Apane	you				
-11	AxO	13		Axi{puM}{7;eka}	Axi{puM}{7;eka}	aXikaraNam,12	kalpa_ke_Axi_meM	in_the_beginning				
-12	prokwavAn	7	prokwavAniwi	prokwavaw{puM}{1;eka}	pra_vac1{kqw_prawyayaH:kwavawu;pra_vacaz;axAxiH;puM}{1;eka}	vAkyakarma,9	kahA_WA	instructed				
-13	iwi	14		iwi{avya}	iwi{avya}	hewu_xyowakaH,7	isa_bAwa_ko	thus				
-14	(aham)	9	()	(asmax{1;eka})	(asmax{1;eka})	karwA,9	(mEM)	I				
+1	अ-परम्	2	अपरं	अ-पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	अपर{नपुं}{1;एक}	विधेय_विशेषणम्,3.1	अभी_हाल_का	जुनिओर्	<न-परम्>ठ्न्			
+2	भवतः	1	भवतो	भवत्{पुं}{2;बहु}/भवत्{पुं}{5;एक}/भवत्{पुं}{6;एक}/भू1{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;भू;भ्वादिः}	भवत्{पुं}{5;एक}	षष्ठीसम्बन्धः,3	आपका	योउर्				
+3	जन्म	3	जन्म	जन्म{नपुं}{8;एक}/जन्मन्{नपुं}{1;एक}/जन्मन्{नपुं}{2;एक}	जन्मन्{नपुं}{1;एक}	कर्ता,3.1	जन्म	बिर्ट्ह्				
+3.1	(अस्ति)	6.1	()	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,3	(है)	इस्				
+4	परम्	6	परं	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{नपुं}{1;एक}	विधेय_विशेषणम्,6.1	प्राचीन	सुपेरिओर्				
+5	जन्म	4	जन्म	जन्म{नपुं}{8;एक}/जन्मन्{नपुं}{1;एक}/जन्मन्{नपुं}{2;एक}	जन्मन्{नपुं}{1;एक}	कर्ता,6.1	जन्म	बिर्ट्ह्				
+6	विवस्वतः	5	विवस्वतः	विवस्वत्{पुं}{2;बहु}/विवस्वत्{पुं}{5;एक}/विवस्वत्{पुं}{6;एक}	विवस्वत्{पुं}{5;एक}	षष्ठीसम्बन्धः,5	सूर्य_का	ओङ्_ट्हे_सुन्-गोड्				
+6.1	(अस्ति)	6.1	()	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,3	(है)	इस्				
+7	कथम्	10	कथमेतद्विजानीयां	कथम्{अव्य}	कथम्{अव्य}	क्रियाविशेषणम्,9	कैसे	होत्				
+8	एतत्	11		एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{2;एक}	मुख्यकर्म,12	यह_(योग)	ट्हिस्				
+9	विजानीयाम्	8		वि_ज्ञा2{कर्तरि;विधिलिङ्;उ;एक;परस्मैपदी;ज्ञा;क्र्यादिः}	वि_ज्ञा2{कर्तरि;विधिलिङ्;उ;एक;परस्मैपदी;वि_ज्ञा;क्र्यादिः}	अभिहित_कर्ता,14	समझूँ	स्हल्ल्_उन्डेर्स्टन्ड्				
+10	त्वम्	12	त्वमादौ	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,12	आपने	योउ				
+11	आदौ	13		आदि{पुं}{7;एक}	आदि{पुं}{7;एक}	अधिकरणम्,12	कल्प_के_आदि_में	इन्_ट्हे_बेगिन्निन्ग्				
+12	प्रोक्तवान्	7	प्रोक्तवानिति	प्रोक्तवत्{पुं}{1;एक}	प्र_वच्1{कृत्_प्रत्ययः:क्तवतु;प्र_वचँ;अदादिः;पुं}{1;एक}	वाक्यकर्म,9	कहा_था	इन्स्ट्रुच्टेड्				
+13	इति	14		इति{अव्य}	इति{अव्य}	हेतु_द्योतकः,7	इस_बात_को	ट्हुस्				
+14	(अहम्)	9	()	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,9	(मैं)	ई				

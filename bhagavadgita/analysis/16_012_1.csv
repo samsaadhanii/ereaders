@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ASA-pASa-SawEH	1	ASApASaSawErbaxXAH	ASApASaSawEH	ASApASa-Sawa{puM}{3;bahu}	karaNam,2	ASA_kI_sEkada़oM_PAzsiyoM_se	by_hundreds_of_entanglements_in_the_network_of_hope	<<ASA-pASa>K6-SawEH>T6			
-2	baxXAH	2	0	baxXa{puM}{1;bahu}/baxXA{swrI}{1;bahu}/baxXA{swrI}{2;bahu}	baxXa{puM}{1;bahu}	viSeRaNam,7.1	bazXe_hue_manuRya	being_bound				
-3	kAma-kroXa-para-ayaNAH	3	kAmakroXaparAyaNAH	kAmakroXaparAyaNAH	kAma-kroXa-parAyaNa{puM}{1;bahu}	viSeRaNam,7.1	kAma-kroXa_ke_parAyaNa_hokara	always_situated_in_the_mentality_of_lust_and_anger	<<kAma-kroXa>Di-<para-ayaNAH>K1>Bs6			
-4	Ihanwe	8	Ihanwe	Ih1{karwari;lat;pra;bahu;AwmanepaxI;Ihaz;BvAxiH}	Ih1{karwari;lat;pra;bahu;AwmanepaxI;Ihaz;BvAxiH}	aBihiwakarwA,7.1;sakarmakaH	ceRtA_karawe_rahawe_hEM	desire				
-5	kAma-Boga-arWam	5	kAmaBogArWamanyAyenArWasaFcayAn	kAma-Boga-arWa{puM}{2;eka}/arWa{napuM}{1;eka}/arWa{napuM}{2;eka}	kAma-Boga-arWa{napuM}{1;eka}	prayojanam,4	viRaya-BogoM_ke_liye	for_the_purpose_of_sense_enjoyment	<<kAma-Boga>T6-arWam>T4			
-6	a-nyAyena	6	0	anyAya{puM}{3;eka}	anyAya{puM}{3;eka}	hewuH,4	anyAyapUrvaka	illegal	<na-nyAyena>Bsmn			
-7	arWa-saFcayAn	7	0	arWasaFcaya{puM}{2;bahu}	arWa-saFcaya{puM}{2;bahu}	karma,4	XanAxi_paxArWoM_ko_saMgraha_karane_kI	accumulation_of_wealth	<arWa-saFcayAn>T6			
-7.1	(janAH)	4	(0)	(jana{puM}{1;bahu})	(jana{puM}{1;bahu})	karwA,4	(loga)	persons				
+1	आशा-पाश-शतैः	1	आशापाशशतैर्बद्धाः	आशापाशशतैः	आशापाश-शत{पुं}{3;बहु}	करणम्,2	आशा_की_सैकडॆअञओं_फाँसियों_से	ब्य्_हुन्ड्रेड्स्_ओङ्_एन्टन्ग्लेमेन्ट्स्_इन्_ट्हे_नेट्तोर्क्_ओङ्_होपे	<<आशा-पाश>ख्6-शतैः>ठ्6			
+2	बद्धाः	2	0	बद्ध{पुं}{1;बहु}/बद्धा{स्त्री}{1;बहु}/बद्धा{स्त्री}{2;बहु}	बद्ध{पुं}{1;बहु}	विशेषणम्,7.1	बँधे_हुए_मनुष्य	बेइन्ग्_बोउन्ड्				
+3	काम-क्रोध-पर-अयणाः	3	कामक्रोधपरायणाः	कामक्रोधपरायणाः	काम-क्रोध-परायण{पुं}{1;बहु}	विशेषणम्,7.1	काम-क्रोध_के_परायण_होकर	अल्तय्स्_सिटुअटेड्_इन्_ट्हे_मेन्टलिट्य्_ओङ्_लुस्ट्_अन्ड्_अन्गेर्	<<काम-क्रोध>ढि-<पर-अयणाः>ख्1>भ्स्6			
+4	ईहन्ते	8	ईहन्ते	ईह्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;ईहँ;भ्वादिः}	ईह्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;ईहँ;भ्वादिः}	अभिहितकर्ता,7.1;सकर्मकः	चेष्टा_करते_रहते_हैं	डेसिरे				
+5	काम-भोग-अर्थम्	5	कामभोगार्थमन्यायेनार्थसञ्चयान्	काम-भोग-अर्थ{पुं}{2;एक}/अर्थ{नपुं}{1;एक}/अर्थ{नपुं}{2;एक}	काम-भोग-अर्थ{नपुं}{1;एक}	प्रयोजनम्,4	विषय-भोगों_के_लिये	ङोर्_ट्हे_पुर्पोसे_ओङ्_सेन्से_एन्जोय्मेन्ट्	<<काम-भोग>ठ्6-अर्थम्>ठ्4			
+6	अ-न्यायेन	6	0	अन्याय{पुं}{3;एक}	अन्याय{पुं}{3;एक}	हेतुः,4	अन्यायपूर्वक	इल्लेगल्	<न-न्यायेन>भ्स्म्न्			
+7	अर्थ-सञ्चयान्	7	0	अर्थसञ्चय{पुं}{2;बहु}	अर्थ-सञ्चय{पुं}{2;बहु}	कर्म,4	धनादि_पदार्थों_को_संग्रह_करने_की	अच्चुमुलटिओन्_ओङ्_तेअल्ट्ह्	<अर्थ-सञ्चयान्>ठ्6			
+7.1	(जनाः)	4	(0)	(जन{पुं}{1;बहु})	(जन{पुं}{1;बहु})	कर्ता,4	(लोग)	पेर्सोन्स्				

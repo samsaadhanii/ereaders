@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xevAn	3	xevAnBAvayawAnena	xeva{puM}{2;bahu}	xeva{puM}{2;bahu}	prayojyakarwA,2	xevawAoM_ko	the_gods				
-2	BAvayawa	4	0	Buv1{karwari;lot;ma;bahu;parasmEpaxI;Buvoz;curAxiH}/BU1_Nic{karwari;lot;ma;bahu;parasmEpaxI;BU;BvAxiH}/BU2_Nic{karwari;lot;ma;bahu;parasmEpaxI;BU;curAxiH}	BU1_Nic{karwari;lot;ma;bahu;parasmEpaxI;BU_Nic;BvAxiH}	aBihiwa_karwA,3.1;sakarmaka	unnawa_karo	foster				
-3	anena	2	0	ana{puM}{3;eka}/ixam{puM}{3;eka}/ixam{napuM}{3;eka}	ixam{puM}{3;eka}	karaNam,2	isa_yajFa_ke_xvArA	through_this_sacrifice				
-3.1	(yUyam)	1	(0)	(yuRmax{1;bahu})	(yuRmax{1;bahu})	prayojakakarwA,2	(wumaloga)	you				
-4	we	5	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	viSeRaNam,5	ve	those				
-5	xevAH	6	xevA	xeva{puM}{1;bahu}/xeva{puM}{8;bahu}	xeva{puM}{1;bahu}	karwA,6	xevawA	gods				
-6	BAvayanwu	8	BAvayanwu	Buv1{karwari;lot;pra;bahu;parasmEpaxI;Buvoz;curAxiH}/BU1_Nic{karwari;lot;pra;bahu;parasmEpaxI;BU;BvAxiH}/BU2_Nic{karwari;lot;pra;bahu;parasmEpaxI;BU;curAxiH}	BU1_Nic{karwari;lot;pra;bahu;parasmEpaxI;BU_Nic;BvAxiH}	aBihiwa_karwA,5;sakarmaka	unnawa_kareM	let_be_gracious				
-7	vaH	7	vaH	va{puM}{1;eka}/yuRmax{2;bahu}/yuRmax{4;bahu}/yuRmax{6;bahu}	yuRmax{2;bahu}	karma,6	wumalogoM_ko	to_you				
-7.1	(yUyam)	9	(0)	(yuRmax{1;bahu})	(yuRmax{1;bahu})	karwA,12	(wumaloga)	you				
-8	parasparam	10	parasparaM	parasparam{avya}/paraspara{puM}{2;eka}/paraspara{napuM}{1;eka}/paraspara{napuM}{2;eka}	parasparam{avya}	kriyAviSeRaNam,9	eka-xUsare_ko	mutual				
-8.1	(evam)	12	(0)	(evam{avya})	(evam{avya})	kriyAviSeRaNam,9	(isa_prakAra)	maintain				
-9	BAvayanwaH	11	BAvayanwaH	BAvayanwaH	BU1_Nic{kqw_prawyayaH:Sawq;BU_Nic;BvAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,12	unnawa_karawe_hue	fostering				
-10	SreyaH	14	SreyaH	Sreya{puM}{1;eka}/Sreyas{napuM}{1;eka}/Sreyas{napuM}{2;eka}/Sreyas{napuM}{8;eka}	Sreyas{napuM}{2;eka}	viSeRaNam,11	aXika AnanxaxAyaka	good				
-11	param	13	paramavApsyaWa	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	karma,12	paramAwmA_ko	the_highest				
-12	avApsyaWa	15	0	ava_Ap1{karwari;lqt;ma;bahu;parasmEpaxI;ApLz;svAxiH}	ava_Ap1{karwari;lqt;ma;bahu;parasmEpaxI;ava_ApLz;svAxiH}	aBihiwa_karwA,7.1;sakarmaka	prApwa_ho_jAoge	will_attain				
+1	देवान्	3	देवान्भावयतानेन	देव{पुं}{2;बहु}	देव{पुं}{2;बहु}	प्रयोज्यकर्ता,2	देवताओं_को	ट्हे_गोड्स्				
+2	भावयत	4	0	भुव्1{कर्तरि;लोट्;म;बहु;परस्मैपदी;भुवोँ;चुरादिः}/भू1_णिच्{कर्तरि;लोट्;म;बहु;परस्मैपदी;भू;भ्वादिः}/भू2_णिच्{कर्तरि;लोट्;म;बहु;परस्मैपदी;भू;चुरादिः}	भू1_णिच्{कर्तरि;लोट्;म;बहु;परस्मैपदी;भू_णिच्;भ्वादिः}	अभिहित_कर्ता,3.1;सकर्मक	उन्नत_करो	ङोस्टेर्				
+3	अनेन	2	0	अन{पुं}{3;एक}/इदम्{पुं}{3;एक}/इदम्{नपुं}{3;एक}	इदम्{पुं}{3;एक}	करणम्,2	इस_यज्ञ_के_द्वारा	ट्ह्रोउग्ह्_ट्हिस्_सच्रिङिचे				
+3.1	(यूयम्)	1	(0)	(युष्मद्{1;बहु})	(युष्मद्{1;बहु})	प्रयोजककर्ता,2	(तुमलोग)	योउ				
+4	ते	5	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	तद्{पुं}{1;बहु}	विशेषणम्,5	वे	ट्होसे				
+5	देवाः	6	देवा	देव{पुं}{1;बहु}/देव{पुं}{8;बहु}	देव{पुं}{1;बहु}	कर्ता,6	देवता	गोड्स्				
+6	भावयन्तु	8	भावयन्तु	भुव्1{कर्तरि;लोट्;प्र;बहु;परस्मैपदी;भुवोँ;चुरादिः}/भू1_णिच्{कर्तरि;लोट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}/भू2_णिच्{कर्तरि;लोट्;प्र;बहु;परस्मैपदी;भू;चुरादिः}	भू1_णिच्{कर्तरि;लोट्;प्र;बहु;परस्मैपदी;भू_णिच्;भ्वादिः}	अभिहित_कर्ता,5;सकर्मक	उन्नत_करें	लेट्_बे_ग्रचिओउस्				
+7	वः	7	वः	व{पुं}{1;एक}/युष्मद्{2;बहु}/युष्मद्{4;बहु}/युष्मद्{6;बहु}	युष्मद्{2;बहु}	कर्म,6	तुमलोगों_को	टो_योउ				
+7.1	(यूयम्)	9	(0)	(युष्मद्{1;बहु})	(युष्मद्{1;बहु})	कर्ता,12	(तुमलोग)	योउ				
+8	परस्परम्	10	परस्परं	परस्परम्{अव्य}/परस्पर{पुं}{2;एक}/परस्पर{नपुं}{1;एक}/परस्पर{नपुं}{2;एक}	परस्परम्{अव्य}	क्रियाविशेषणम्,9	एक-दूसरे_को	मुटुअल्				
+8.1	(एवम्)	12	(0)	(एवम्{अव्य})	(एवम्{अव्य})	क्रियाविशेषणम्,9	(इस_प्रकार)	मइन्टइन्				
+9	भावयन्तः	11	भावयन्तः	भावयन्तः	भू1_णिच्{कृत्_प्रत्ययः:शतृ;भू_णिच्;भ्वादिः;पुं}{1;बहु}	वर्तमानसमानकालः,12	उन्नत_करते_हुए	ङोस्टेरिन्ग्				
+10	श्रेयः	14	श्रेयः	श्रेय{पुं}{1;एक}/श्रेयस्{नपुं}{1;एक}/श्रेयस्{नपुं}{2;एक}/श्रेयस्{नपुं}{8;एक}	श्रेयस्{नपुं}{2;एक}	विशेषणम्,11	अधिक आनन्ददायक	गोओड्				
+11	परम्	13	परमवाप्स्यथ	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{नपुं}{2;एक}	कर्म,12	परमात्मा_को	ट्हे_हिग्हेस्ट्				
+12	अवाप्स्यथ	15	0	अव_आप्1{कर्तरि;लृट्;म;बहु;परस्मैपदी;आपॢँ;स्वादिः}	अव_आप्1{कर्तरि;लृट्;म;बहु;परस्मैपदी;अव_आपॢँ;स्वादिः}	अभिहित_कर्ता,7.1;सकर्मक	प्राप्त_हो_जाओगे	तिल्ल्_अट्टइन्				

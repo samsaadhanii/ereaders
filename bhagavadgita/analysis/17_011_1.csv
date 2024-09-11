@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-Pala-AkAfkRiBiH	9	aPalAkAfkRiBiryajFo	a-Pala-AkAfkRin{puM}{3;bahu}/AkAfkRin{napuM}{3;bahu}	na-Pala-AkAfkRin{puM}{3;bahu}	karwA,5	Pala_na_cAhanevAle_puruRoM_xvArA	devoid_of_desire_for_result	<a-<Pala-AkAfkRiBiH>U>Tn			
-2	yajFaH	3	0	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	karma,6	yajFa	sacrifice				
-3	viXi-xqRtaH	2	viXixqRto	viXi-xqRta{puM}{1;eka}	viXi-xqS1{kqw_prawyayaH:kwa;xqSizr;BvAxiH;puM}{1;eka}	viSeRaNam,2	SAswraviXi_se_niyawa	according_to_the_directions_of_the_scriptures	<viXi-xqRtaH>T3			
-4	yaH	1	ya	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,2;niwya_sambanXaH,11	jo	anyone				
-5	ijyawe	10	ijyawe	ijyawA{swrI}{1;xvi}/ijyawA{swrI}{2;xvi}/ijyawA{swrI}{8;eka}/ijyawA{swrI}{8;xvi}/yaj1{karmaNi;lat;pra;eka;AwmanepaxI;yajaz;BvAxiH}	yaj1{karmaNi;lat;pra;eka;AwmanepaxI;yajaz;BvAxiH}	aBihiwakarma,2,sakarmakaH	kiyA_jAwA_hE	performs				
-6	yaRtavyam	4	yaRtavyamevewi	yaRtavya{puM}{2;eka}/yaRtavya{napuM}{1;eka}/yaRtavya{napuM}{2;eka}	yaj1{kqw_prawyayaH:wavyaw;yajaz;BvAxiH;napuM}{1;eka}	vAkyakarma,10	karanA_karwavya_hE	must_be_performed				
-7	eva	5	0	eva{avya}	eva{avya}	sambanXaH,6	hI	certainly				
-8	iwi	6	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,6	isa_prakAra	thus				
-9	manaH	7	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{2;eka}	karma,10	mana_ko	mind				
-10	samAXAya	8	samAXAya	samAXAya	sam_Af_XA1{kqw_prawyayaH:lyap;sam_Af_duXAF;juhowyAxiH}	pUrvakAlaH,5	samAXAna_karake	fixed_in				
-11	saH	11	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,12.1	vaha	he				
-12	sAwwvikaH	12	sAwwvikaH	sAwwvika{puM}{1;eka}	sAwwvika{puM}{1;eka}	viXeya_viSeRaNam,12.1	sAwwvika	in_the_mode_of_goodness				
-12.1	(aswi)	13	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11,akarmakaH	(hE)	is				
+1	अ-फल-आकाङ्क्षिभिः	9	अफलाकाङ्क्षिभिर्यज्ञो	अ-फल-आकाङ्क्षिन्{पुं}{3;बहु}/आकाङ्क्षिन्{नपुं}{3;बहु}	न-फल-आकाङ्क्षिन्{पुं}{3;बहु}	कर्ता,5	फल_न_चाहनेवाले_पुरुषों_द्वारा	डेवोइड्_ओङ्_डेसिरे_ङोर्_रेसुल्ट्	<अ-<फल-आकाङ्क्षिभिः>ऊ>ठ्न्			
+2	यज्ञः	3	0	यज्ञ{पुं}{1;एक}	यज्ञ{पुं}{1;एक}	कर्म,6	यज्ञ	सच्रिङिचे				
+3	विधि-दृष्टः	2	विधिदृष्टो	विधि-दृष्ट{पुं}{1;एक}	विधि-दृश्1{कृत्_प्रत्ययः:क्त;दृशिँर्;भ्वादिः;पुं}{1;एक}	विशेषणम्,2	शास्त्रविधि_से_नियत	अच्चोर्डिन्ग्_टो_ट्हे_डिरेच्टिओन्स्_ओङ्_ट्हे_स्च्रिप्टुरेस्	<विधि-दृष्टः>ठ्3			
+4	यः	1	य	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	विशेषणम्,2;नित्य_सम्बन्धः,11	जो	अन्योने				
+5	इज्यते	10	इज्यते	इज्यता{स्त्री}{1;द्वि}/इज्यता{स्त्री}{2;द्वि}/इज्यता{स्त्री}{8;एक}/इज्यता{स्त्री}{8;द्वि}/यज्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;यजँ;भ्वादिः}	यज्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;यजँ;भ्वादिः}	अभिहितकर्म,2,सकर्मकः	किया_जाता_है	पेर्ङोर्म्स्				
+6	यष्टव्यम्	4	यष्टव्यमेवेति	यष्टव्य{पुं}{2;एक}/यष्टव्य{नपुं}{1;एक}/यष्टव्य{नपुं}{2;एक}	यज्1{कृत्_प्रत्ययः:तव्यत्;यजँ;भ्वादिः;नपुं}{1;एक}	वाक्यकर्म,10	करना_कर्तव्य_है	मुस्ट्_बे_पेर्ङोर्मेड्				
+7	एव	5	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,6	ही	चेर्टइन्ल्य्				
+8	इति	6	0	इति{अव्य}	इति{अव्य}	वाक्यकर्म_द्योतकः,6	इस_प्रकार	ट्हुस्				
+9	मनः	7	मनः	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}/मनस्{नपुं}{8;एक}	मनस्{नपुं}{2;एक}	कर्म,10	मन_को	मिन्ड्				
+10	समाधाय	8	समाधाय	समाधाय	सम्_आङ्_धा1{कृत्_प्रत्ययः:ल्यप्;सम्_आङ्_डुधाञ्;जुहोत्यादिः}	पूर्वकालः,5	समाधान_करके	ङिदेड्_इन्				
+11	सः	11	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,12.1	वह	हे				
+12	सात्त्विकः	12	सात्त्विकः	सात्त्विक{पुं}{1;एक}	सात्त्विक{पुं}{1;एक}	विधेय_विशेषणम्,12.1	सात्त्विक	इन्_ट्हे_मोडे_ओङ्_गोओड्नेस्स्				
+12.1	(अस्ति)	13	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,11,अकर्मकः	(है)	इस्				

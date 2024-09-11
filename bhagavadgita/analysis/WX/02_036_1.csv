@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	a-vAcya-vAxAn	7	avAcyavAxAMSca	avAcya-vAxa{puM}{2;bahu}	avAcya-vAxa{puM}{2;bahu}	karma,4	na_kahane_yogya_vacana	unbecoming_words	<<na-vAcya>Tn-vAxAn>K1			
+2	ca	8	0	ca{avya}	ca{avya}	sambanXaH,4	BI	also				
+3	bahUn	6	bahUnvaxiRyanwi	bahu{puM}{2;bahu}	bahu{puM}{2;bahu}	viSeRaNam,1	bahuwa_se	many				
+4	vaxiRyanwi	9	0	vax1{karwari;lqt;pra;bahu;parasmEpaxI;vaxaz;BvAxiH}	vax1{karwari;lqt;pra;bahu;parasmEpaxI;vaxaz;BvAxiH}	aBihiwakarwA,6;sakarmakaH	kaheMge	will_speak				
+5	wava	4	wavAhiwAH	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,6	wumhAre	your				
+6	a-hiwAH	5	0	ahiwa{puM}{1;bahu}/ahiwa{puM}{8;bahu}/ahiwA{swrI}{1;bahu}/ahiwA{swrI}{2;bahu}/ahiwA{swrI}{8;bahu}/ahiwA{swrI}{1;bahu}/ahiwA{swrI}{2;bahu}/ahiwA{swrI}{8;bahu}	a-hiwa{puM}{1;bahu}	karwA,4	vErI_loga	enemies	<na-hiwAH>Tn			
+7	ninxanwaH	3	ninxanwaswava	ninxaw{puM}{1;bahu}/ninxaw{puM}{8;bahu}	ninx1{kqw_prawyayaH:Sawq;Nixiz;BvAxiH;puM}{1;bahu}	viSeRaNam,6	ninxA_karawe_hue	disparaging				
+8	wava	1	0	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,9	wumhAre	your				
+9	sAmarWyam	2	sAmarWyaM	sAmarWya{napuM}{1;eka}/sAmarWya{napuM}{2;eka}	sAmarWya{napuM}{2;eka}	karma,7	sAmarWya_kI	might				
+10	wawaH	10	wawo	wawaH{avya}	wawaH{avya}	hewuH,12.1	usase	than_this				
+11	xuHKawaram	11	xuHKawaraM	xuHKawara{puM}{2;eka}/xuHKawara{napuM}{1;eka}/xuHKawara{napuM}{2;eka}	xuHKawara{napuM}{1;eka}	karwA,12.1	aXika_xuHKa	more_distressing				
+12	kim_nu	12	nu_kim	kim{avya}/kim{napuM}{1;eka}/kim{napuM}{2;eka}_nu/nu{avya}	kim{avya}_nu{avya}	sambanXaH,12.1	Ora_kyA	what_can_there				
+12.1	(BaviRyawi)	13	(0)	(as2{karwari;lqt;pra;eka;parasmEpaxI;asaz;axAxiH}/BU1{karwari;lqt;pra;eka;parasmEpaxI;BU;BvAxiH}/BaviRyaw{puM}{7;eka}/BaviRyaw{napuM}{7;eka})	(BU1{karwari;lqt;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(hogA)	be				

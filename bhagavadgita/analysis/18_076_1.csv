@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	rAjan	1	rAjansaMsmqwya	rAjaw{puM}{1;eka}	rAjan{puM}{8;eka}	samboXyaH,9	he_rAjan	O_King				
-2	saMsmqwya	8	0	sam_smq1{kqw_prawyayaH:lyap;smq;BvAxiH}/sam_smq2{kqw_prawyayaH:lyap;smq;BvAxiH}/sam_smq3{kqw_prawyayaH:lyap;smq;svAxiH}	sam_smq1{kqw_prawyayaH:lyap;sam_smq;BvAxiH}	vIpsA,3	smaraNa	remembering				
-3	saMsmqwya	9	saMsmqwya	sam_smq1{kqw_prawyayaH:lyap;smq;BvAxiH}/sam_smq2{kqw_prawyayaH:lyap;smq;BvAxiH}/sam_smq3{kqw_prawyayaH:lyap;smq;svAxiH}	sam_smq1{kqw_prawyayaH:lyap;sam_smq;BvAxiH}	pUrvakAlaH,9	smaraNa_karake	remembering				
-4	saMvAxam	7	saMvAxamimamaxBuwam	saMvAxa{puM}{2;eka}	saMvAxa{puM}{2;eka}	karma,3	saMvAxa_ko	message				
-5	imam	3	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,4	isa_(rahasyayukwa)	this				
-6	axBuwam	6	0	axBuwa{puM}{2;eka}/axBuwa{napuM}{1;eka}/axBuwa{napuM}{2;eka}	axBuwa{puM}{2;eka}	viSeRaNam,4	axBuwa	wonderful				
-7	keSava-arjunayoH	2	keSavArjunayoH	keSava-arjuna{puM}{6;xvi}/arjuna{puM}{7;xvi}/arjunA{swrI}{6;xvi}/arjunA{swrI}{7;xvi}	keSava-arjuna{puM}{6;xvi}	RaRTIsambanXaH,4	BagavAn_SrIkqRNa_Ora_arjuna_ke	Lord_Krsna_and_Arjuna	<keSava-arjunayoH>Di			
-8	puNyam	4	puNyaM	puNya{napuM}{1;eka}/puNya{napuM}{2;eka}	puNya{puM}{2;eka}	viSeRaNam,4	kalyANakAraka	pious				
-9	hqRyAmi	11	hqRyAmi	hqR1{karwari;lat;u;eka;parasmEpaxI;hqRaz;xivAxiH}	hqR1{karwari;lat;u;eka;parasmEpaxI;hqRaz;xivAxiH}	aBihiwakarwA,11.1;akarmakaH	harRiwa_ho_rahA_hUz	take_pleasure				
-10	ca	5	ca	ca{avya}	ca{avya}	sambanXaH,9	Ora	also				
-11	muhurmuhuH	10	muhurmuhuH	muhuH-muhuH{avya}	muhuH-muhuH{avya}	kriyAviSeRaNam,9	bAra_bAra	always_repeatedly				
-11.1	(aham)	14	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,9	(mEM)	I				
+1	राजन्	1	राजन्संस्मृत्य	राजत्{पुं}{1;एक}	राजन्{पुं}{8;एक}	सम्बोध्यः,9	हे_राजन्	औ_खिन्ग्				
+2	संस्मृत्य	8	0	सम्_स्मृ1{कृत्_प्रत्ययः:ल्यप्;स्मृ;भ्वादिः}/सम्_स्मृ2{कृत्_प्रत्ययः:ल्यप्;स्मृ;भ्वादिः}/सम्_स्मृ3{कृत्_प्रत्ययः:ल्यप्;स्मृ;स्वादिः}	सम्_स्मृ1{कृत्_प्रत्ययः:ल्यप्;सम्_स्मृ;भ्वादिः}	वीप्सा,3	स्मरण	रेमेम्बेरिन्ग्				
+3	संस्मृत्य	9	संस्मृत्य	सम्_स्मृ1{कृत्_प्रत्ययः:ल्यप्;स्मृ;भ्वादिः}/सम्_स्मृ2{कृत्_प्रत्ययः:ल्यप्;स्मृ;भ्वादिः}/सम्_स्मृ3{कृत्_प्रत्ययः:ल्यप्;स्मृ;स्वादिः}	सम्_स्मृ1{कृत्_प्रत्ययः:ल्यप्;सम्_स्मृ;भ्वादिः}	पूर्वकालः,9	स्मरण_करके	रेमेम्बेरिन्ग्				
+4	संवादम्	7	संवादमिममद्भुतम्	संवाद{पुं}{2;एक}	संवाद{पुं}{2;एक}	कर्म,3	संवाद_को	मेस्सगे				
+5	इमम्	3	0	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	विशेषणम्,4	इस_(रहस्ययुक्त)	ट्हिस्				
+6	अद्भुतम्	6	0	अद्भुत{पुं}{2;एक}/अद्भुत{नपुं}{1;एक}/अद्भुत{नपुं}{2;एक}	अद्भुत{पुं}{2;एक}	विशेषणम्,4	अद्भुत	तोन्डेर्ङुल्				
+7	केशव-अर्जुनयोः	2	केशवार्जुनयोः	केशव-अर्जुन{पुं}{6;द्वि}/अर्जुन{पुं}{7;द्वि}/अर्जुना{स्त्री}{6;द्वि}/अर्जुना{स्त्री}{7;द्वि}	केशव-अर्जुन{पुं}{6;द्वि}	षष्ठीसम्बन्धः,4	भगवान्_श्रीकृष्ण_और_अर्जुन_के	ऌओर्ड्_ख्र्स्न_अन्ड्_आर्जुन	<केशव-अर्जुनयोः>ढि			
+8	पुण्यम्	4	पुण्यं	पुण्य{नपुं}{1;एक}/पुण्य{नपुं}{2;एक}	पुण्य{पुं}{2;एक}	विशेषणम्,4	कल्याणकारक	पिओउस्				
+9	हृष्यामि	11	हृष्यामि	हृष्1{कर्तरि;लट्;उ;एक;परस्मैपदी;हृषँ;दिवादिः}	हृष्1{कर्तरि;लट्;उ;एक;परस्मैपदी;हृषँ;दिवादिः}	अभिहितकर्ता,11.1;अकर्मकः	हर्षित_हो_रहा_हूँ	टके_प्लेअसुरे				
+10	च	5	च	च{अव्य}	च{अव्य}	सम्बन्धः,9	और	अल्सो				
+11	मुहुर्मुहुः	10	मुहुर्मुहुः	मुहुः-मुहुः{अव्य}	मुहुः-मुहुः{अव्य}	क्रियाविशेषणम्,9	बार_बार	अल्तय्स्_रेपेअटेड्ल्य्				
+11.1	(अहम्)	14	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,9	(मैं)	ई				

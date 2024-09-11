@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	weRAm	1	weRAmevAnukampArWamahamajFAnajaM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	RaRTIsambanXaH,3	unake_(Upara)	for_them				
-2	eva	5	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
-3	anukampA-arWam	2	0	anukampA{arWam}	anukampA-arWa{napuM}{1;eka}	prayojanam,7	anugraha_karane_ke_liye	to_show_special_mercy				
-4	aham	4	0	asmax{1;eka}	asmax{1;eka}	karwA,7	mEM	I				
-5	a-jFAna-jam	6	0	a-jFAna-ja{puM}{2;eka}	ajFAna-ja{napuM}{2;eka}	viSeRaNam,6	ajFAnajaniwa	due_to_ignorance	<<na-jFAna>Tn-jaM>U			
-6	wamaH	7	wamaH	wama{puM}{1;eka}/wamas{napuM}{1;eka}/wamas{napuM}{2;eka}	wamas{napuM}{2;eka}	karma,7	anXakAra_ko	darkness				
-7	nASayAmi	10	nASayAmyAwmaBAvasWo	naS1_Nic{karwari;lat;u;eka;parasmEpaxI;NaSaz;xivAxiH}	naS1_Nic{karwari;lat;u;eka;parasmEpaxI;NaSaz_Nic;xivAxiH}	aBihiwa_karwA,4;sakarmakaH	naRta_kara_xewA_hUz	dispel				
-8	Awma-BAva-sWaH	3	0	Awman-BAva-sWa{puM}{1;eka}	Awman-BAva-sWa{puM}{1;eka}	viSeRaNam,4	unake_anwaHkaraNa_meM_sWiwa_huA	within_themselves	<<Awma-BAva>T6-sWaH>U			
-9	jFAna-xIpena	9	jFAnaxIpena	jFAna-xIpa{puM}{3;eka}	jFAna-xIpa{puM}{3;eka}	karaNam,7	wawwvajFAnarUpa_xIpaka_ke_xvArA	with_the_lamp_of_knowledge	<jFAna-xIpena>T6			
-10	BAsvawA	8	BAsvawA	BAsvaw{puM}{3;eka}	BAsvaw{puM}{3;eka}	viSeRaNam,9	prakASamaya	glowing				
+1	तेषाम्	1	तेषामेवानुकम्पार्थमहमज्ञानजं	तद्{पुं}{6;बहु}/तद्{नपुं}{6;बहु}	तद्{पुं}{6;बहु}	षष्ठीसम्बन्धः,3	उनके_(ऊपर)	ङोर्_ट्हेम्				
+2	एव	5	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,1	ही	चेर्टइन्ल्य्				
+3	अनुकम्पा-अर्थम्	2	0	अनुकम्पा{अर्थम्}	अनुकम्पा-अर्थ{नपुं}{1;एक}	प्रयोजनम्,7	अनुग्रह_करने_के_लिये	टो_स्होत्_स्पेचिअल्_मेर्च्य्				
+4	अहम्	4	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,7	मैं	ई				
+5	अ-ज्ञान-जम्	6	0	अ-ज्ञान-ज{पुं}{2;एक}	अज्ञान-ज{नपुं}{2;एक}	विशेषणम्,6	अज्ञानजनित	डुए_टो_इग्नोरन्चे	<<न-ज्ञान>ठ्न्-जं>ऊ			
+6	तमः	7	तमः	तम{पुं}{1;एक}/तमस्{नपुं}{1;एक}/तमस्{नपुं}{2;एक}	तमस्{नपुं}{2;एक}	कर्म,7	अन्धकार_को	डर्क्नेस्स्				
+7	नाशयामि	10	नाशयाम्यात्मभावस्थो	नश्1_णिच्{कर्तरि;लट्;उ;एक;परस्मैपदी;णशँ;दिवादिः}	नश्1_णिच्{कर्तरि;लट्;उ;एक;परस्मैपदी;णशँ_णिच्;दिवादिः}	अभिहित_कर्ता,4;सकर्मकः	नष्ट_कर_देता_हूँ	डिस्पेल्				
+8	आत्म-भाव-स्थः	3	0	आत्मन्-भाव-स्थ{पुं}{1;एक}	आत्मन्-भाव-स्थ{पुं}{1;एक}	विशेषणम्,4	उनके_अन्तःकरण_में_स्थित_हुआ	तिट्हिन्_ट्हेम्सेल्वेस्	<<आत्म-भाव>ठ्6-स्थः>ऊ			
+9	ज्ञान-दीपेन	9	ज्ञानदीपेन	ज्ञान-दीप{पुं}{3;एक}	ज्ञान-दीप{पुं}{3;एक}	करणम्,7	तत्त्वज्ञानरूप_दीपक_के_द्वारा	तिट्ह्_ट्हे_लम्प्_ओङ्_क्नोत्लेड्गे	<ज्ञान-दीपेन>ठ्6			
+10	भास्वता	8	भास्वता	भास्वत्{पुं}{3;एक}	भास्वत्{पुं}{3;एक}	विशेषणम्,9	प्रकाशमय	ग्लोतिन्ग्				

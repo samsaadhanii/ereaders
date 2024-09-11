@@ -1,0 +1,26 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	3	0	na{avya}	na{avya}	prawiReXaH,2	na	never				
+2	jAyawe	4	jAyawe	jan3{karwari;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}	jan3{karwari;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}	anyawaraH,3	janma_lewA_hE	is_birth				
+3	mriyawe	7	mriyawe	mq1{karwari;lat;pra;eka;AwmanepaxI;mqf;wuxAxiH}/mq1{BAve;lat;pra;eka;AwmanepaxI;mqf;wuxAxiH}	mq1{karwari;lat;pra;eka;AwmanepaxI;mqf;wuxAxiH}		marawA_hE	dies				
+4	vA	6	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,3	Ora	nor				
+5	kaxAciw	2	kaxAcinnAyaM	kaxAciw{avya}	kaxAciw{avya}	aXikaraNam,3	kisI_kAla_meM_BI	at_any_time				
+6	na	5	na	na{avya}	na{avya}	prawiReXaH,3	na	never				
+6.1	(ayam)	1	(0)	(aya{puM}{2;eka}/ixam{puM}{1;eka})	(ixam{puM}{1;eka})	karwA,2	(yaha)	this_(the_soul)				
+7	ayam	8	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karwA,9	yaha_(AwmA)	this_(the_soul)				
+8	BUwvA	9	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,9	uwpanna_hokara	after_being_born				
+9	BaviwA	13	BaviwA	as2{karwari;lut;pra;eka;parasmEpaxI;asaz;axAxiH}/as2{BAve;lut;pra;eka;AwmanepaxI;asaz;axAxiH}/BaviwA{swrI}{1;eka}/Baviwq{puM}{1;eka}/BU1{karwari;lut;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lut;pra;eka;parasmEpaxI;BU;BvAxiH}		honevAlA_hE	does_it_become				
+10	vA	11	vA	vA{avya}	vA{avya}	sambanXaH,9	waWA	nor				
+11	na	12	na	na{avya}	na{avya}	prawiReXaH,8	na	not				
+12	BUyaH	10	BUyaH	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,9	Pira	again				
+13	a-jaH	15	ajo	aja{puM}{1;eka}	aja{puM}{1;eka}	sup_samucciwaH,17	ajanmA	unborn	<na-jaH>U			
+14	niwyaH	16	niwyaH	niwya{puM}{1;eka}	niwya{puM}{1;eka}	sup_samucciwaH,17	niwya	eternal				
+15	SASvawaH	17	SASvawoZyaM	SASvawa{puM}{1;eka}	SASvawa{puM}{1;eka}	sup_samucciwaH,17	sanAwana	everlasting				
+16	ayam	14	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karwA,17.2	yaha	this_(the_soul)				
+17	purANaH	18	purANo	purANa{puM}{1;eka}	purANa{puM}{1;eka}	viXeya_viSeRaNam,17.2	purAwana	primeval				
+17.1	(ca)	19	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,17	(Ora)	and				
+17.2	(aswi)	20	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				
+18	na	24	na	na{avya}	na{avya}	prawiReXaH,19	nahIM	not				
+19	hanyawe	25	hanyawe	han1{karmaNi;lat;pra;eka;AwmanepaxI;hanaz;axAxiH}	han1{karmaNi;lat;pra;eka;AwmanepaxI;hanaz;axAxiH}	aBihiwakarma,21.1;sakarmakaH	mArA_jAwA	is_slain				
+20	hanyamAne	23	hanyamAne	hanyamAna{puM}{7;eka}/hanyamAna{napuM}{1;xvi}/hanyamAna{napuM}{2;xvi}/hanyamAna{napuM}{7;eka}/hanyamAna{napuM}{8;xvi}/hanyamAnA{swrI}{1;xvi}/hanyamAnA{swrI}{2;xvi}/hanyamAnA{swrI}{8;eka}/hanyamAnA{swrI}{8;xvi}	hanyamAna{napuM}{7;eka}	varwamAnasamAnakAlaH,19	mAre_jAnepara	being_slain				
+21	SarIre	22	SarIre	SarIra{napuM}{1;xvi}/SarIra{napuM}{2;xvi}/SarIra{napuM}{7;eka}/SarIra{napuM}{8;xvi}	SarIra{napuM}{7;eka}	aXikaraNam,19	SarIra_ke	of_the_body				
+21.1	(ayam)	21	(0)	(aya{puM}{2;eka}/ixam{puM}{1;eka})	(ixam{puM}{1;eka})	karma,19	(yaha)	this_(the_soul)				

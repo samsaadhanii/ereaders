@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yasmAw	1	yasmAnnoxvijawe	yasmAw{avya}/yax{puM}{5;eka}/yax{napuM}{5;eka}	yax{puM}{5;eka}	apAxAnam,3;niwya_sambanXaH,13	jisase	from_whom				
-2	na	3	0	na{avya}	na{avya}	prawiReXaH,3	nahIM	never				
-3	uxvijawe	4	0	vij2{karwari;lat;pra;eka;AwmanepaxI;ozvijIz;wuxAxiH}	ux_vij2{karwari;lat;pra;eka;AwmanepaxI;ux_ozvijIz;wuxAxiH}	aBihiwakarwA,4;akarmakaH	uxvega_ko_prApwa_howA	agitates				
-4	lokaH	2	loko	loka{puM}{1;eka}	loka{puM}{1;eka}	karwA,3	koI_BI_jIva	persons				
-5	lokAw	7	lokAnnoxvijawe	loka{puM}{5;eka}	loka{puM}{5;eka}	apAxAnam,7	kisI_jIva_se	from_persons				
-6	na	8	0	na{avya}	na{avya}	prawiReXaH,7	nahIM	never				
-7	uxvijawe	9	0	vij2{karwari;lat;pra;eka;AwmanepaxI;ozvijIz;wuxAxiH}	ux_vij2{karwari;lat;pra;eka;AwmanepaxI;ux_ozvijIz;wuxAxiH}	aBihiwakarwA,9;akarmakaH	uxvega_ko_prApwa_howA	disturbed				
-8	ca	5	ca	ca{avya}	ca{avya}	sambanXaH,7	Ora	also				
-9	yaH	6	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,7;niwya_sambanXaH,13	jo	anyone				
-10	harRa-a-marRa-BayaH-uxvegEH	12	harRAmarRaBayoxvegErmukwo	harRAmarRaBayoxvegEH	harRa-amarRa-Baya-uxvega{puM}{3;bahu}	karaNam,11	harRa_amarRa_Baya_Ora_uxvegAxi_se	with_happiness_distress_fear_and_anxiety	<harRa-<a-marRaH>Tn-Baya-uxvegEH>Di			
-11	mukwaH	13	0	mukwa{puM}{1;eka}	muc1{kqw_prawyayaH:kwa;mucLz;wuxAxiH;puM}{1;eka}	viXeya_viSeRaNam,12.1	rahiwa	freed				
-12	yaH	11	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,11;niwya_sambanXaH,13	jo	who				
-12.1	(aswi)	14	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				
-13	saH	15	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,16.1	vaha	anyone				
-14	ca	10	ca	ca{avya}	ca{avya}	sambanXaH,13	waWA	also				
-15	me	16	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,16	muJako	Mine				
-16	priyaH	17	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	viXeya_viSeRaNam,16.1	priya	very_dear				
-16.1	(aswi)	18	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13;akarmakaH	(hE)	is				
+1	यस्मात्	1	यस्मान्नोद्विजते	यस्मात्{अव्य}/यद्{पुं}{5;एक}/यद्{नपुं}{5;एक}	यद्{पुं}{5;एक}	अपादानम्,3;नित्य_सम्बन्धः,13	जिससे	ङ्रोम्_त्होम्				
+2	न	3	0	न{अव्य}	न{अव्य}	प्रतिषेधः,3	नहीं	नेवेर्				
+3	उद्विजते	4	0	विज्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;ओँविजीँ;तुदादिः}	उद्_विज्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;उद्_ओँविजीँ;तुदादिः}	अभिहितकर्ता,4;अकर्मकः	उद्वेग_को_प्राप्त_होता	अगिटटेस्				
+4	लोकः	2	लोको	लोक{पुं}{1;एक}	लोक{पुं}{1;एक}	कर्ता,3	कोई_भी_जीव	पेर्सोन्स्				
+5	लोकात्	7	लोकान्नोद्विजते	लोक{पुं}{5;एक}	लोक{पुं}{5;एक}	अपादानम्,7	किसी_जीव_से	ङ्रोम्_पेर्सोन्स्				
+6	न	8	0	न{अव्य}	न{अव्य}	प्रतिषेधः,7	नहीं	नेवेर्				
+7	उद्विजते	9	0	विज्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;ओँविजीँ;तुदादिः}	उद्_विज्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;उद्_ओँविजीँ;तुदादिः}	अभिहितकर्ता,9;अकर्मकः	उद्वेग_को_प्राप्त_होता	डिस्टुर्बेड्				
+8	च	5	च	च{अव्य}	च{अव्य}	सम्बन्धः,7	और	अल्सो				
+9	यः	6	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,7;नित्य_सम्बन्धः,13	जो	अन्योने				
+10	हर्ष-अ-मर्ष-भयः-उद्वेगैः	12	हर्षामर्षभयोद्वेगैर्मुक्तो	हर्षामर्षभयोद्वेगैः	हर्ष-अमर्ष-भय-उद्वेग{पुं}{3;बहु}	करणम्,11	हर्ष_अमर्ष_भय_और_उद्वेगादि_से	तिट्ह्_हप्पिनेस्स्_डिस्ट्रेस्स्_ङेअर्_अन्ड्_अन्दिएट्य्	<हर्ष-<अ-मर्षः>ठ्न्-भय-उद्वेगैः>ढि			
+11	मुक्तः	13	0	मुक्त{पुं}{1;एक}	मुच्1{कृत्_प्रत्ययः:क्त;मुचॢँ;तुदादिः;पुं}{1;एक}	विधेय_विशेषणम्,12.1	रहित	ङ्रेएड्				
+12	यः	11	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,11;नित्य_सम्बन्धः,13	जो	त्हो				
+12.1	(अस्ति)	14	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,12;अकर्मकः	(है)	इस्				
+13	सः	15	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,16.1	वह	अन्योने				
+14	च	10	च	च{अव्य}	च{अव्य}	सम्बन्धः,13	तथा	अल्सो				
+15	मे	16	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,16	मुझको	ंइने				
+16	प्रियः	17	प्रियः	प्री{नपुं}{5;एक}/प्री{नपुं}{6;एक}/प्रिय{पुं}{1;एक}	प्रिय{पुं}{1;एक}	विधेय_विशेषणम्,16.1	प्रिय	वेर्य्_डेअर्				
+16.1	(अस्ति)	18	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,13;अकर्मकः	(है)	इस्				

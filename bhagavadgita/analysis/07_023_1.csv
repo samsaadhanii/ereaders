@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	anwavaw	6	anwavawwu	anwavaw{napuM}{1;eka}/anwavaw{napuM}{2;eka}	anwavaw{napuM}{1;eka}	viXeya_viSeRaNam,6	nASavAn	limited_and_temporary				
-2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,6	paraMwu	but				
-3	Palam	5	PalaM	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{1;eka}	karwA,6	Pala	fruits				
-4	weRAm	2	weRAM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	viSeRaNam,7	una	their				
-5	waw	4	waxBavawyalpameXasAm	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,3	vaha	that				
-6	Bavawi	7	0	Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,3	hE	becomes				
-7	alpa-meXasAm	3	0	alpa-meXas{puM}{6;bahu}	alpa-meXas{puM}{6;bahu}	RaRTIsambanXaH,3	alpa_buxXivAloM_kA	of_those_of_small_intelligence	<alpa-meXasAm>Bs6			
-8	xevAn	9	xevAnxevayajo	xeva{puM}{2;bahu}	xeva{puM}{2;bahu}	karma,10	xevawAoM_ko	demigods'_planets				
-9	xeva-yajaH	8	0	xeva-yajaH	xeva-yajas{puM}{1;bahu}	karwA,10	xevawAoM_ko_pUjanevAle	worshipers_of_demigods	<xeva-yajaH>U			
-10	yAnwi	10	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwa_karwA,9	prApwa_howe_hEM	achieve				
-11	max-BakwAH	11	maxBakwA	asmax-Bakwa{puM}{1;bahu}/Bakwa{puM}{8;bahu}/BakwA{swrI}{1;bahu}/BakwA{swrI}{2;bahu}/BakwA{swrI}{8;bahu}	asmax-Bakwa{puM}{1;bahu}	karwA,12	mere_Bakwa	my_devotees	<asmaw-BakwAH>T6			
-12	yAnwi	14	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwa_karwA,11	prApwa_howe_hEM	attain				
-13	mAm	12	mAmapi	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	to_Me				
-14	api	13	0	api{avya}	api{avya}	sambanXaH,13	hI	surely				
+1	अन्तवत्	6	अन्तवत्तु	अन्तवत्{नपुं}{1;एक}/अन्तवत्{नपुं}{2;एक}	अन्तवत्{नपुं}{1;एक}	विधेय_विशेषणम्,6	नाशवान्	लिमिटेड्_अन्ड्_टेम्पोरर्य्				
+2	तु	1	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,6	परंतु	बुट्				
+3	फलम्	5	फलं	फल{नपुं}{1;एक}/फल{नपुं}{2;एक}	फल{नपुं}{1;एक}	कर्ता,6	फल	ङ्रुइट्स्				
+4	तेषाम्	2	तेषां	तद्{पुं}{6;बहु}/तद्{नपुं}{6;बहु}	तद्{पुं}{6;बहु}	विशेषणम्,7	उन	ट्हेइर्				
+5	तत्	4	तद्भवत्यल्पमेधसाम्	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	विशेषणम्,3	वह	ट्हट्				
+6	भवति	7	0	भवत्{पुं}{7;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहित_कर्ता,3	है	बेचोमेस्				
+7	अल्प-मेधसाम्	3	0	अल्प-मेधस्{पुं}{6;बहु}	अल्प-मेधस्{पुं}{6;बहु}	षष्ठीसम्बन्धः,3	अल्प_बुद्धिवालों_का	ओङ्_ट्होसे_ओङ्_स्मल्ल्_इन्टेल्लिगेन्चे	<अल्प-मेधसाम्>भ्स्6			
+8	देवान्	9	देवान्देवयजो	देव{पुं}{2;बहु}	देव{पुं}{2;बहु}	कर्म,10	देवताओं_को	डेमिगोड्स्'_प्लनेट्स्				
+9	देव-यजः	8	0	देव-यजः	देव-यजस्{पुं}{1;बहु}	कर्ता,10	देवताओं_को_पूजनेवाले	तोर्स्हिपेर्स्_ओङ्_डेमिगोड्स्	<देव-यजः>ऊ			
+10	यान्ति	10	यान्ति	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	अभिहित_कर्ता,9	प्राप्त_होते_हैं	अच्हिएवे				
+11	मद्-भक्ताः	11	मद्भक्ता	अस्मद्-भक्त{पुं}{1;बहु}/भक्त{पुं}{8;बहु}/भक्ता{स्त्री}{1;बहु}/भक्ता{स्त्री}{2;बहु}/भक्ता{स्त्री}{8;बहु}	अस्मद्-भक्त{पुं}{1;बहु}	कर्ता,12	मेरे_भक्त	म्य्_डेवोटेएस्	<अस्मत्-भक्ताः>ठ्6			
+12	यान्ति	14	यान्ति	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	अभिहित_कर्ता,11	प्राप्त_होते_हैं	अट्टइन्				
+13	माम्	12	मामपि	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,12	मुझको	टो_ंए				
+14	अपि	13	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,13	ही	सुरेल्य्				

@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-Xarmam	5	aXarmaM	aXarma{puM}{2;eka}	aXarma{puM}{2;eka}	karma,5	aXarma_ko	irreligion	<na-XarmaM>Tn			
-2	Xarmam	6	Xarmamiwi	Xarma{puM}{2;eka}	Xarma{puM}{2;eka}	karmasamAnAXikaraNam,5	'yaha_Xarma	religion				
-3	iwi	7	0	iwi{avya}	iwi{avya}	karmasamAnAXikaraNa_xyowakaH,2	EsA	thus				
-4	yA	2	yA	yax{swrI}{1;eka}	yax{swrI}{1;eka}	karwA,5;niwya_sambanXaH,12	jo	which				
-5	manyawe	8	manyawe	manyawA{swrI}{1;xvi}/manyawA{swrI}{2;xvi}/man1{karmaNi;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}	aBihiwa_karwA,4;sakarmakaH	mAna_lewI_hE	thinks				
-6	wamasA	3	wamasAvqwA	wamas{napuM}{3;eka}	wamas{napuM}{3;eka}	karwA,7	wamoguNa_se	by_illusion				
-7	AvqwA	4	0	Avqw{swrI}{3;eka}	Af_vq2{kqw_prawyayaH:kwa;Af_vqF;svAxiH;swrI}{1;eka}	viSeRaNam,4	GirI_huI	covered				
-8	sarva-arWAn	10	sarvArWAnviparIwAMSca	sarvArWa{puM}{2;bahu}	sarva-arWa{puM}{2;bahu}	karma,10.1	sampUrNa_paxArWoM_ko	all_things	<sarva-arWAn>K1			
-9	viparIwAn	11	0	viparIwa{puM}{2;bahu}	viparIwa{puM}{2;bahu}	karmasamAnAXikaraNam,10.1	viparIwa	the_wrong_direction				
-10	ca	9	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,10.1	waWA	also				
-10.1	(manyawe)	12	(0)	(manyawA{swrI}{1;xvi}/manyawA{swrI}{2;xvi}/man1{karmaNi;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;eka;AwmanepaxI;manuz;wanAxiH})	(man1{karwari;lat;pra;eka;AwmanepaxI;manaz;xivAxiH})	samucciwaH,5	(mAna_lewI_hE)	thinks				
-11	buxXiH	14	buxXiH	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,16	buxXi	intelligence				
-12	sA	13	sA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,11	vaha	that				
-13	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,5	he_arjuna	O_son_of_Prtha				
-14	wAmasI	15	wAmasI	wAmasI{swrI}{1;eka}	wAmasI{swrI}{1;eka}	viXeya_viSeRaNam,14.1	wAmasI	the_mode_of_ignorance				
-14.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,11;akarmakaH	(hE)	is				
+1	अ-धर्मम्	5	अधर्मं	अधर्म{पुं}{2;एक}	अधर्म{पुं}{2;एक}	कर्म,5	अधर्म_को	इर्रेलिगिओन्	<न-धर्मं>ठ्न्			
+2	धर्मम्	6	धर्ममिति	धर्म{पुं}{2;एक}	धर्म{पुं}{2;एक}	कर्मसमानाधिकरणम्,5	'यह_धर्म	रेलिगिओन्				
+3	इति	7	0	इति{अव्य}	इति{अव्य}	कर्मसमानाधिकरण_द्योतकः,2	ऐसा	ट्हुस्				
+4	या	2	या	यद्{स्त्री}{1;एक}	यद्{स्त्री}{1;एक}	कर्ता,5;नित्य_सम्बन्धः,12	जो	त्हिच्ह्				
+5	मन्यते	8	मन्यते	मन्यता{स्त्री}{1;द्वि}/मन्यता{स्त्री}{2;द्वि}/मन्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;मनँ;दिवादिः}/मन्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;मनुँ;तनादिः}	मन्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;मनँ;दिवादिः}	अभिहित_कर्ता,4;सकर्मकः	मान_लेती_है	ट्हिन्क्स्				
+6	तमसा	3	तमसावृता	तमस्{नपुं}{3;एक}	तमस्{नपुं}{3;एक}	कर्ता,7	तमोगुण_से	ब्य्_इल्लुसिओन्				
+7	आवृता	4	0	आवृत्{स्त्री}{3;एक}	आङ्_वृ2{कृत्_प्रत्ययः:क्त;आङ्_वृञ्;स्वादिः;स्त्री}{1;एक}	विशेषणम्,4	घिरी_हुई	चोवेरेड्				
+8	सर्व-अर्थान्	10	सर्वार्थान्विपरीतांश्च	सर्वार्थ{पुं}{2;बहु}	सर्व-अर्थ{पुं}{2;बहु}	कर्म,10.1	सम्पूर्ण_पदार्थों_को	अल्ल्_ट्हिन्ग्स्	<सर्व-अर्थान्>ख्1			
+9	विपरीतान्	11	0	विपरीत{पुं}{2;बहु}	विपरीत{पुं}{2;बहु}	कर्मसमानाधिकरणम्,10.1	विपरीत	ट्हे_त्रोन्ग्_डिरेच्टिओन्				
+10	च	9	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,10.1	तथा	अल्सो				
+10.1	(मन्यते)	12	(0)	(मन्यता{स्त्री}{1;द्वि}/मन्यता{स्त्री}{2;द्वि}/मन्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;मनँ;दिवादिः}/मन्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;मनुँ;तनादिः})	(मन्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;मनँ;दिवादिः})	समुच्चितः,5	(मान_लेती_है)	ट्हिन्क्स्				
+11	बुद्धिः	14	बुद्धिः	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	कर्ता,16	बुद्धि	इन्टेल्लिगेन्चे				
+12	सा	13	सा	तद्{स्त्री}{1;एक}	तद्{स्त्री}{1;एक}	विशेषणम्,11	वह	ट्हट्				
+13	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,5	हे_अर्जुन	औ_सोन्_ओङ्_फ्र्ट्ह				
+14	तामसी	15	तामसी	तामसी{स्त्री}{1;एक}	तामसी{स्त्री}{1;एक}	विधेय_विशेषणम्,14.1	तामसी	ट्हे_मोडे_ओङ्_इग्नोरन्चे				
+14.1	(अस्ति)	16	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,11;अकर्मकः	(है)	इस्				

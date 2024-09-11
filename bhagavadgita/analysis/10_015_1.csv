@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	svayam	7	svayamevAwmanAwmAnaM	svayam{avya}	svayam{avya}	viSeRaNam,6	svayaM	personality				
-2	eva	8	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
-3	AwmanA	9	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,5	apanese	by_Yourself				
-4	AwmAnam	10	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,5	apaneko	Yourself				
-5	vewWa	11	vewWa	vix1{karwari;lat;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,1;sakarmakaH	jAnawe_hEM	know				
-6	wvam	6	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,5	Apa	you				
-7	puruRa-uwwama	5	puruRowwama	puruRowwama{puM}{8;eka}	puruRowwama{puM}{8;eka}	samboXyaH,5	he_puruRowwama	O_greatest_of_all_persons	<puruRa-uwwama>T7			
-8	BUwa-BAvana	1	BUwaBAvana	BUwa-BAvana{napuM}{8;eka}	BUwa-BAvana{puM}{8;eka}	samboXyaH,5	he_BUwoM_ko_uwpanna_karanevAle	O_origin_of_everything	<BUwa-BAvana>T6			
-9	BUwa-ISa	2	BUweSa	BUwa-ISa{puM}{8;eka}	BUwa-ISa{puM}{8;eka}	samboXyaH,5	he_BUwoM_ke_ISvara	O_Lord_of_everything	<BUwa-ISa>T6			
-10	xeva-xeva	3	xevaxeva	xeva-xeva{puM}{8;eka}	xeva-xeva{puM}{8;eka}	samboXyaH,5	he_xevoM_ke_xeva	O_Lord_of_all_demigods	<xeva-xeva>T6			
-11	jagaw-pawe	4	jagawpawe	jagaw-pawa{puM}{7;eka}/pawi{puM}{8;eka}	jagaw-pawi{puM}{8;eka}	samboXyaH,5	he_jagaw_ke_svAmI	O_Lord_of_the_entire_universe	<jagaw-pawe>T6			
+1	स्वयम्	7	स्वयमेवात्मनात्मानं	स्वयम्{अव्य}	स्वयम्{अव्य}	विशेषणम्,6	स्वयं	पेर्सोनलिट्य्				
+2	एव	8	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,1	ही	चेर्टइन्ल्य्				
+3	आत्मना	9	0	आत्मन्{पुं}{3;एक}	आत्मन्{पुं}{3;एक}	करणम्,5	अपनेसे	ब्य्_Yओउर्सेल्ङ्				
+4	आत्मानम्	10	0	आत्मन्{पुं}{2;एक}	आत्मन्{पुं}{2;एक}	कर्म,5	अपनेको	Yओउर्सेल्ङ्				
+5	वेत्थ	11	वेत्थ	विद्1{कर्तरि;लट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;म;एक;परस्मैपदी;विदँ;अदादिः}	अभिहित_कर्ता,1;सकर्मकः	जानते_हैं	क्नोत्				
+6	त्वम्	6	त्वं	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,5	आप	योउ				
+7	पुरुष-उत्तम	5	पुरुषोत्तम	पुरुषोत्तम{पुं}{8;एक}	पुरुषोत्तम{पुं}{8;एक}	सम्बोध्यः,5	हे_पुरुषोत्तम	औ_ग्रेअटेस्ट्_ओङ्_अल्ल्_पेर्सोन्स्	<पुरुष-उत्तम>ठ्7			
+8	भूत-भावन	1	भूतभावन	भूत-भावन{नपुं}{8;एक}	भूत-भावन{पुं}{8;एक}	सम्बोध्यः,5	हे_भूतों_को_उत्पन्न_करनेवाले	औ_ओरिगिन्_ओङ्_एवेर्य्ट्हिन्ग्	<भूत-भावन>ठ्6			
+9	भूत-ईश	2	भूतेश	भूत-ईश{पुं}{8;एक}	भूत-ईश{पुं}{8;एक}	सम्बोध्यः,5	हे_भूतों_के_ईश्वर	औ_ऌओर्ड्_ओङ्_एवेर्य्ट्हिन्ग्	<भूत-ईश>ठ्6			
+10	देव-देव	3	देवदेव	देव-देव{पुं}{8;एक}	देव-देव{पुं}{8;एक}	सम्बोध्यः,5	हे_देवों_के_देव	औ_ऌओर्ड्_ओङ्_अल्ल्_डेमिगोड्स्	<देव-देव>ठ्6			
+11	जगत्-पते	4	जगत्पते	जगत्-पत{पुं}{7;एक}/पति{पुं}{8;एक}	जगत्-पति{पुं}{8;एक}	सम्बोध्यः,5	हे_जगत्_के_स्वामी	औ_ऌओर्ड्_ओङ्_ट्हे_एन्टिरे_उनिवेर्से	<जगत्-पते>ठ्6			

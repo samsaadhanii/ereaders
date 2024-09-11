@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaw	2	yaxAxiwyagawaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	viSeRaNam,3;niwya_sambanXaH,12	jo	that				
+2	Axiwya-gawam	1	0	Axiwya-gawa{puM}{2;eka}/gawa{napuM}{1;eka}/gawa{napuM}{2;eka}	Axiwya-gawa{napuM}{1;eka}	samucciwaH,10	sUrya_meM_sWiwa	in_the_sunshine	<Axiwya-gawaM>T2			
+3	wejaH	3	wejo	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}	wejas{napuM}{1;eka}	karwA,5	weja	splendor				
+4	jagaw	5	jagaxBAsayaweZKilam	jagaw{puM}{1;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}	jagaw{napuM}{2;eka}	karma,5	jagaw_ko	world				
+5	BAsayawe	6	0	BAs1_Nic{karwari;lat;pra;eka;AwmanepaxI;BAsqz;BvAxiH}	BAs1_Nic{karwari;lat;pra;eka;AwmanepaxI;BAsqz_Nic;BvAxiH}	aBihiwakarwA,3;sakarmakaH	prakASiwa_karawA_hE	illuminates				
+6	a-Kilam	4	0	aKila{napuM}{1;eka}/aKila{napuM}{2;eka}	aKila{napuM}{2;eka}	viSeRaNam,4	sampUrNa	entire	<na-Kilam>Tn			
+7	yaw	7	yaccanxramasi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	karwA,8.1	jo_(weja)	that				
+8	canxramasi	8	0	canxramas{puM}{7;eka}	canxramas{puM}{7;eka}	aXikaraNam,8.1	canxramA_meM	in_the_moon				
+8.1	(BAsayawe)		(0)	BAs1_Nic{karwari;lat;pra;eka;AwmanepaxI;BAsqz;BvAxiH}	BAs1_Nic{karwari;lat;pra;eka;AwmanepaxI;BAsqz_Nic;BvAxiH}	aBihiwakarwA,7;sakarmakaH	prakASiwa_karawA_hE	illuminates				
+9	yaw	9	yaccAgnO	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	karwA,11.1	jo	that				
+10	ca	10	0	ca{avya}	ca{avya}	sambanXaH,11.1	Ora	also				
+11	agnO	11	0	agni{puM}{7;eka}	agni{puM}{7;eka}	aXikaraNam,11.1	agni_meM	in_the_fire				
+11.1	(BAsayawe)	6	(0)	BAs1_Nic{karwari;lat;pra;eka;AwmanepaxI;BAsqz;BvAxiH}	BAs1_Nic{karwari;lat;pra;eka;AwmanepaxI;BAsqz_Nic;BvAxiH}	aBihiwakarwA,9;sakarmakaH	prakASiwa_karawA_hE	illuminates				
+12	waw	12	wawwejo	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,13	usako	that				
+13	wejaH	14	0	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{2;eka}	karma,14	weja	splendor				
+14	vixXi	15	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,12;sakarmakaH	jAna	understand				
+15	mAmakam	13	mAmakam	mAmaka{puM}{2;eka}	mAmaka{puM}{2;eka}	karmasamAnAXikaraNam,13	merA	from_me				
+15.1	(wvam)		(0)	(yuRmax{puM}{1;eka}	(yuRmax{puM}{1;eka}	karwA,14	(usa)	in_that				

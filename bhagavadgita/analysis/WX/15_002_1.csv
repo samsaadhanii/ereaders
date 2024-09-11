@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	aXaH	5	aXaScorXvaM	aXaH{avya}	aXaH{avya}	sup_samucciwaH,2	nIce	downward				
+2	ca	7	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	and				
+3	UrXvam	6	0	UrXvam{avya}	UrXvam{avya}	aXikaraNam,4	Upara_sarvawra	upward				
+4	prasqwAH	8	prasqwAswasya	prasqwa{puM}{1;bahu}	pra_sq1{kqw_prawyayaH:kwa;pra_sq;BvAxiH;puM}{1;bahu}	aBihiwakarwA,6;akarmakaH	PElI_huI	extended				
+5	wasya	1	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,6	usakI_(saMsAravqkRa_kI)	its				
+6	SAKAH	4	SAKA	SAKA{swrI}{1;bahu}/SAKA{swrI}{2;bahu}	SAKA{swrI}{1;bahu}	karwA,4	xeva_manuRya_Ora_wiryak_Axi_yonirUpa_SAKAez	branches				
+7	guNa-pravqxXAH	2	guNapravqxXA	guNa-pravqxXa{puM}{1;bahu}/pravqxXA{swrI}{1;bahu}/pravqxXA{swrI}{2;bahu}	guNa-pra_vqX1{kqw_prawyayaH:kwa;pra_vqXuz;BvAxiH;puM}{1;bahu}	viSeRaNam,6	wInoM_guNoMrUpa_jala_ke_xvArA_baDa़I_huI	developed_modes_of_material_nature	<guNa-pravqxXAH>T3			
+8	viRaya-pravAlAH	3	viRayapravAlAH	viRaya-pravAla{puM}{1;bahu}/pravAlA{swrI}{1;bahu}/pravAlA{swrI}{2;bahu}	viRaya-pravAla{puM}{1;bahu}	viSeRaNam,6	viRaya_BogarUpa_koMpaloMvAlI	twigs_of_sense_objects	<viRaya-pravAlAH>K5			
+9	aXaH	12	aXaSca	aXaH{avya}	aXaH{avya}	aXikaraNam,14.1	nIce	downward				
+10	ca	13	0	ca{avya}	ca{avya}	sambanXaH,14.1	Ora	and				
+11	mUlAni	11	mUlAnyanusanwawAni	mUla{napuM}{1;bahu}/mUla{napuM}{2;bahu}/mUl1{karwari;lot;u;eka;parasmEpaxI;mUlaz;BvAxiH}	mUla{napuM}{1;bahu}	karwA,14.1	ahaMwA_mamawA_Ora_vAsanArUpa_jada़eM	roots				
+12	anu-sanwawAni	14	0	anusanwawa{napuM}{1;bahu}	anu-sanwawa{napuM}{1;bahu}	viXeya_viSeRaNam,14.1	saBI_lokoM_meM_vyApwa	extended				
+13	karma-anubanXIni	10	karmAnubanXIni	karmAnubanXa{napuM}{1;bahu}/banXa{napuM}{2;bahu}	karma-anubanXa{napuM}{1;bahu}	viSeRaNam,11	karmoM_ke_anusAra_bAzXanevAlI	bound_according_to_work	<karma-anubanXIni>Bs6			
+14	manuRya-loke	9	manuRyaloke	manuRya-loka{puM}{7;eka}/loka{napuM}{1;xvi}/loka{napuM}{2;xvi}/loka{napuM}{7;eka}	manuRya-loka{puM}{7;eka}	aXikaraNam,14.1	manuRyaloka_meM	in_the_world_of_human_society	<manuRya-loke>T6			
+14.1	(sanwi)	15	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hEM)	are				

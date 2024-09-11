@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ArurukRoH	2	ArurukRormuneryogaM	ArurukRu{puM}{5;eka}/ArurukRu{puM}{6;eka}	ArurukRu{puM}{6;eka}	viSeRaNam,2	ArUDa़_hone_kI_icCAvAle	of_one_who_has_just_begun_yoga				
-2	muneH	3	0	muni{puM}{5;eka}/muni{puM}{6;eka}	muni{puM}{6;eka}	RaRTIsambanXaH,4	mananaSIla_puruRa_ke_liye	of_the_sage				
-3	yogam	1	0	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,1	yoga_meM	the_eightfold_yoga_system				
-4	karma	4	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karma,6	niRkAmaBAva_se_karma_karanA_hI	work				
-5	kAraNam	5	kAraNamucyawe	kAraNa{napuM}{1;eka}/kAraNa{napuM}{2;eka}	kAraNa{napuM}{1;eka}	karmasamAnAXikaraNam,6	hewu	the_cause				
-6	ucyawe	6	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,4;sakarmakaH	kahA_jAwA_hE	is_said_to_be				
-7	yoga-ArUDasya	8	yogArUDasya	yoga-ArUDa{puM}{6;eka}	yoga-ArUDa{puM}{6;eka}	RaRTIsambanXaH,10	yogArUDa़_puruRa_kA	of_one_who_has_attained_eightfold_yoga	<yoga-ArUDasya>T2			
-8	wasya	7	wasyEva	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	viSeRaNam,7	usa	his				
-9	eva	10	0	eva{avya}	eva{avya}	sambanXaH,10	vahI	certainly				
-10	SamaH	9	SamaH	Sama{puM}{1;eka}	Sama{puM}{1;eka}	karma,12	jo_sarvasaMsakalpoM_kA_aBAva_hE	cessation_of_all_material_activities				
-11	kAraNam	11	kAraNamucyawe	kAraNa{napuM}{1;eka}/kAraNa{napuM}{2;eka}	kAraNa{napuM}{1;eka}	karmasamAnAXikaraNam,12	hewu	the_cause				
-12	ucyawe	12	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,10;sakarmakaH	kahA_jAwA_hE	is_said_to_be				
+1	आरुरुक्षोः	2	आरुरुक्षोर्मुनेर्योगं	आरुरुक्षु{पुं}{5;एक}/आरुरुक्षु{पुं}{6;एक}	आरुरुक्षु{पुं}{6;एक}	विशेषणम्,2	आरूढॆअञ_होने_की_इच्छावाले	ओङ्_ओने_त्हो_हस्_जुस्ट्_बेगुन्_योग				
+2	मुनेः	3	0	मुनि{पुं}{5;एक}/मुनि{पुं}{6;एक}	मुनि{पुं}{6;एक}	षष्ठीसम्बन्धः,4	मननशील_पुरुष_के_लिये	ओङ्_ट्हे_सगे				
+3	योगम्	1	0	योग{पुं}{2;एक}	योग{पुं}{2;एक}	कर्म,1	योग_में	ट्हे_एइग्ह्ट्ङोल्ड्_योग_स्य्स्टेम्				
+4	कर्म	4	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{1;एक}	कर्म,6	निष्कामभाव_से_कर्म_करना_ही	तोर्क्				
+5	कारणम्	5	कारणमुच्यते	कारण{नपुं}{1;एक}/कारण{नपुं}{2;एक}	कारण{नपुं}{1;एक}	कर्मसमानाधिकरणम्,6	हेतु	ट्हे_चउसे				
+6	उच्यते	6	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहितकर्म,4;सकर्मकः	कहा_जाता_है	इस्_सइड्_टो_बे				
+7	योग-आरूढस्य	8	योगारूढस्य	योग-आरूढ{पुं}{6;एक}	योग-आरूढ{पुं}{6;एक}	षष्ठीसम्बन्धः,10	योगारूढॆअञ_पुरुष_का	ओङ्_ओने_त्हो_हस्_अट्टइनेड्_एइग्ह्ट्ङोल्ड्_योग	<योग-आरूढस्य>ठ्2			
+8	तस्य	7	तस्यैव	तद्{पुं}{6;एक}/तद्{नपुं}{6;एक}	तद्{पुं}{6;एक}	विशेषणम्,7	उस	हिस्				
+9	एव	10	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,10	वही	चेर्टइन्ल्य्				
+10	शमः	9	शमः	शम{पुं}{1;एक}	शम{पुं}{1;एक}	कर्म,12	जो_सर्वसंसकल्पों_का_अभाव_है	चेस्सटिओन्_ओङ्_अल्ल्_मटेरिअल्_अच्टिविटिएस्				
+11	कारणम्	11	कारणमुच्यते	कारण{नपुं}{1;एक}/कारण{नपुं}{2;एक}	कारण{नपुं}{1;एक}	कर्मसमानाधिकरणम्,12	हेतु	ट्हे_चउसे				
+12	उच्यते	12	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहितकर्म,10;सकर्मकः	कहा_जाता_है	इस्_सइड्_टो_बे				

@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ixam	2	ixaM	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	karma,11	yaha_gIwArUpa_rahasyamaya_upaxeSa	this				
-2	we	1	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	karwA,11	wuJe	you				
-3	na	4	nAwapaskAya	na{avya}	na{avya}	prawiReXaH,4	na	never				
-4	a-wapaskAya	5	0	awapaska{puM}{4;eka}/awapaska{napuM}{4;eka}	awapaska{puM}{4;eka}	sup_samucciwaH,10	waparahiwa_manuRya_se	one_who_is_not_austere	<na-wapaskAya>Bsmn			
-5	na	6	nABakwAya	na{avya}	na{avya}	prawiReXaH,6	na	never				
-6	a-BakwAya	7	0	aBakwa{puM}{4;eka}/aBakwa{napuM}{4;eka}	na-Baj1{kqw_prawyayaH:kwa;Bajaz;BvAxiH;puM}{4;eka}	sup_samucciwaH,10	Bakwirahiwa_se	one_who_is_not_a_devotee	<na-aBakwAya>Tn			
-7	kaxAcana	3	kaxAcana	kaxAcana{avya}	kaxAcana{avya}	aXikaraNam,11	kisI_BI_kAla_meM	at_any_time				
-8	na	9	na	na{avya}	na{avya}	prawiReXaH,10	na	never				
-9	ca	8	cASuSrURave	ca{avya}	ca{avya}	sambanXaH,11	Ora	also				
-10	a-SuSrURave	10	0	aSuSrURu{puM}{4;eka}	na-SuSrURu{puM}{4;eka}	sampraxAnam,11	binA_sunane_kI_icCAvAle_se	one_who_is_not_engaged_in_devotional_service	<na-SuSrURave>Tn			
-11	vAcyam	11	vAcyaM	vAcya{puM}{2;eka}/vAcya{napuM}{1;eka}/vAcya{napuM}{2;eka}	vac1{kqw_prawyayaH:Nyaw;vacaz;axAxiH;napuM}{1;eka}		kahanA_cAhiye	to_be_spoken				
-12	na	16	na	na{avya}	na{avya}	prawiReXaH,16.1	nahIM	not				
-13	ca	12	ca	ca{avya}	ca{avya}	sambanXaH,16	Ora	also				
-14	mAm	14	mAM	asmax{2;eka}	asmax{2;eka}	karma,16	muJameM	unto_Me				
-15	yaH	13	yoZByasUyawi	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,16;niwya_sambanXaH,16.1	jo	never				
-16	aByasUyawi	15	0	aByasUyawi	aBi_asUya{karwari;lat;pra;eka;parasmEpaxI;asUya}	aBihiwakarwA,15;sakarmakaH	xoRaxqRti_raKawA_hE	envious				
-16.1	(wasmE)	17	(0)	(wax{puM}{4;eka}/wax{napuM}{4;eka})	(wax{puM}{4;eka})	sup_samucciwaH,10	(usase)	you				
+1	इदम्	2	इदं	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	कर्म,11	यह_गीतारूप_रहस्यमय_उपदेश	ट्हिस्				
+2	ते	1	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	तद्{पुं}{1;बहु}	कर्ता,11	तुझे	योउ				
+3	न	4	नातपस्काय	न{अव्य}	न{अव्य}	प्रतिषेधः,4	न	नेवेर्				
+4	अ-तपस्काय	5	0	अतपस्क{पुं}{4;एक}/अतपस्क{नपुं}{4;एक}	अतपस्क{पुं}{4;एक}	सुप्_समुच्चितः,10	तपरहित_मनुष्य_से	ओने_त्हो_इस्_नोट्_अउस्टेरे	<न-तपस्काय>भ्स्म्न्			
+5	न	6	नाभक्ताय	न{अव्य}	न{अव्य}	प्रतिषेधः,6	न	नेवेर्				
+6	अ-भक्ताय	7	0	अभक्त{पुं}{4;एक}/अभक्त{नपुं}{4;एक}	न-भज्1{कृत्_प्रत्ययः:क्त;भजँ;भ्वादिः;पुं}{4;एक}	सुप्_समुच्चितः,10	भक्तिरहित_से	ओने_त्हो_इस्_नोट्_अ_डेवोटेए	<न-अभक्ताय>ठ्न्			
+7	कदाचन	3	कदाचन	कदाचन{अव्य}	कदाचन{अव्य}	अधिकरणम्,11	किसी_भी_काल_में	अट्_अन्य्_टिमे				
+8	न	9	न	न{अव्य}	न{अव्य}	प्रतिषेधः,10	न	नेवेर्				
+9	च	8	चाशुश्रूषवे	च{अव्य}	च{अव्य}	सम्बन्धः,11	और	अल्सो				
+10	अ-शुश्रूषवे	10	0	अशुश्रूषु{पुं}{4;एक}	न-शुश्रूषु{पुं}{4;एक}	सम्प्रदानम्,11	बिना_सुनने_की_इच्छावाले_से	ओने_त्हो_इस्_नोट्_एन्गगेड्_इन्_डेवोटिओनल्_सेर्विचे	<न-शुश्रूषवे>ठ्न्			
+11	वाच्यम्	11	वाच्यं	वाच्य{पुं}{2;एक}/वाच्य{नपुं}{1;एक}/वाच्य{नपुं}{2;एक}	वच्1{कृत्_प्रत्ययः:ण्यत्;वचँ;अदादिः;नपुं}{1;एक}		कहना_चाहिये	टो_बे_स्पोकेन्				
+12	न	16	न	न{अव्य}	न{अव्य}	प्रतिषेधः,16.1	नहीं	नोट्				
+13	च	12	च	च{अव्य}	च{अव्य}	सम्बन्धः,16	और	अल्सो				
+14	माम्	14	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,16	मुझमें	उन्टो_ंए				
+15	यः	13	योऽभ्यसूयति	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,16;नित्य_सम्बन्धः,16.1	जो	नेवेर्				
+16	अभ्यसूयति	15	0	अभ्यसूयति	अभि_असूय{कर्तरि;लट्;प्र;एक;परस्मैपदी;असूय}	अभिहितकर्ता,15;सकर्मकः	दोषदृष्टि_रखता_है	एन्विओउस्				
+16.1	(तस्मै)	17	(0)	(तद्{पुं}{4;एक}/तद्{नपुं}{4;एक})	(तद्{पुं}{4;एक})	सुप्_समुच्चितः,10	(उससे)	योउ				

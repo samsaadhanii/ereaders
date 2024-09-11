@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wAn	1	wAnahaM	wax{puM}{2;bahu}	wax{puM}{2;bahu}	viSeRaNam,12.1	una	those				
-2	aham	7	0	asmax{1;eka}	asmax{1;eka}	karwA,7	mEM	I				
-3	xviRawaH	2	xviRawaH	xviRaw{puM}{1;bahu}/xviRaw{puM}{2;bahu}/xviRaw{puM}{5;eka}/xviRaw{puM}{6;eka}/xviRaw{puM}{8;bahu}/xviRaw{napuM}{5;eka}/xviRaw{napuM}{6;eka}	xviR1{kqw_prawyayaH:Sawq;xviRaz;axAxiH;puM}{1;eka}	viSeRaNam,12.1	xveRa_karanevAle	envious				
-4	krUrAn	4	krUrAnsaMsAreRu	krUra{puM}{2;bahu}	krUra{puM}{2;bahu}	viSeRaNam,12.1	krUrakarmI	mischievous				
-5	saMsAreRu	8	0	saMsAra{puM}{7;bahu}	saMsAra{puM}{7;bahu}	aXikaraNam,7	saMsAra_meM	into_the_ocean_of_material_existence				
-6	nara-aXamAn	5	narAXamAn	nara-aXamAn	narAXama{puM}{2;bahu}	karma,7	narAXamoM	the_lowest_of_mankind	<nara-aXamAn>T7			
-7	kRipAmi	13	kRipAmyajasramaSuBAnAsurIRveva	kRip2{karwari;lat;u;eka;parasmEpaxI;kRipaz;wuxAxiH}	kRip2{karwari;lat;u;eka;parasmEpaxI;kRipaz;wuxAxiH}	aBihiwakarwA,2;sakarmakaH	dAlawA_hUz	put				
-8	ajasram	9	0	ajasram{avya}/ajasra{napuM}{1;eka}/ajasra{napuM}{2;eka}	ajasram{avya}	kriyAviSeRaNam,7	bAra-bAra	innumerable				
-9	a-SuBAn	3	aSuBAn	aSuBa{puM}{2;bahu}	aSuBa{puM}{2;bahu}	viSeRaNam,12.1	pApAcArI	inauspicious	<na-SuBAn>Tn			
-10	AsurIRu	10	0	AsurI{swrI}{7;bahu}	AsurI{swrI}{7;bahu}	viSeRaNam,12	AsurI	demoniac				
-11	eva	12	0	eva{avya}	eva{avya}	sambanXaH,12	hI	certainly				
-12	yoniRu	11	yoniRu	yoni{puM}{7;bahu}	yoni{puM}{7;bahu}	aXikaraNam,7	yoniyoM_meM	in_the_wombs				
-12.1	(janAn)	6	(0)	(jana{puM}{2;bahu})	(jana{puM}{2;bahu})	karma,7	(logoM_ko)	unto_persons				
+1	तान्	1	तानहं	तद्{पुं}{2;बहु}	तद्{पुं}{2;बहु}	विशेषणम्,12.1	उन	ट्होसे				
+2	अहम्	7	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,7	मैं	ई				
+3	द्विषतः	2	द्विषतः	द्विषत्{पुं}{1;बहु}/द्विषत्{पुं}{2;बहु}/द्विषत्{पुं}{5;एक}/द्विषत्{पुं}{6;एक}/द्विषत्{पुं}{8;बहु}/द्विषत्{नपुं}{5;एक}/द्विषत्{नपुं}{6;एक}	द्विष्1{कृत्_प्रत्ययः:शतृ;द्विषँ;अदादिः;पुं}{1;एक}	विशेषणम्,12.1	द्वेष_करनेवाले	एन्विओउस्				
+4	क्रूरान्	4	क्रूरान्संसारेषु	क्रूर{पुं}{2;बहु}	क्रूर{पुं}{2;बहु}	विशेषणम्,12.1	क्रूरकर्मी	मिस्च्हिएवोउस्				
+5	संसारेषु	8	0	संसार{पुं}{7;बहु}	संसार{पुं}{7;बहु}	अधिकरणम्,7	संसार_में	इन्टो_ट्हे_ओचेअन्_ओङ्_मटेरिअल्_एदिस्टेन्चे				
+6	नर-अधमान्	5	नराधमान्	नर-अधमान्	नराधम{पुं}{2;बहु}	कर्म,7	नराधमों	ट्हे_लोतेस्ट्_ओङ्_मन्किन्ड्	<नर-अधमान्>ठ्7			
+7	क्षिपामि	13	क्षिपाम्यजस्रमशुभानासुरीष्वेव	क्षिप्2{कर्तरि;लट्;उ;एक;परस्मैपदी;क्षिपँ;तुदादिः}	क्षिप्2{कर्तरि;लट्;उ;एक;परस्मैपदी;क्षिपँ;तुदादिः}	अभिहितकर्ता,2;सकर्मकः	डालता_हूँ	पुट्				
+8	अजस्रम्	9	0	अजस्रम्{अव्य}/अजस्र{नपुं}{1;एक}/अजस्र{नपुं}{2;एक}	अजस्रम्{अव्य}	क्रियाविशेषणम्,7	बार-बार	इन्नुमेरब्ले				
+9	अ-शुभान्	3	अशुभान्	अशुभ{पुं}{2;बहु}	अशुभ{पुं}{2;बहु}	विशेषणम्,12.1	पापाचारी	इनउस्पिचिओउस्	<न-शुभान्>ठ्न्			
+10	आसुरीषु	10	0	आसुरी{स्त्री}{7;बहु}	आसुरी{स्त्री}{7;बहु}	विशेषणम्,12	आसुरी	डेमोनिअच्				
+11	एव	12	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,12	ही	चेर्टइन्ल्य्				
+12	योनिषु	11	योनिषु	योनि{पुं}{7;बहु}	योनि{पुं}{7;बहु}	अधिकरणम्,7	योनियों_में	इन्_ट्हे_तोम्ब्स्				
+12.1	(जनान्)	6	(0)	(जन{पुं}{2;बहु})	(जन{पुं}{2;बहु})	कर्म,7	(लोगों_को)	उन्टो_पेर्सोन्स्				

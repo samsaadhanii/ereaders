@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sarva-inxriya-guNa-ABAsam	2	sarvenxriyaguNABAsaM	sarva-inxriya-guNa-ABAsa{puM}{2;eka}	sarva-inxriya-guNa-ABAsa{napuM}{1;eka}	sup_samucciwaH,8	sampUrNa_inxriyoM_ke_viRayoM_ko_jAnanevAlA	original_source_of_qualities_of_all_senses	<<<sarva-inxriya>K1-guNa>T6-ABAsaM>T6			
-2	sarva-inxriya-vivarjiwam	3	sarvenxriyavivarjiwam	sarva-inxriya-vivarjiwa{puM}{2;eka}/vivarjiwa{napuM}{1;eka}/vivarjiwa{napuM}{2;eka}	sarva-inxriya-vi_vqj3{kqw_prawyayaH:kwa;vi_vqjIz;curAxiH;napuM}{1;eka}	sup_samucciwaH,8	saba_inxriyoM_se_rahiwa	being_without_all_senses	<<sarva-inxriya>K1-vivarjiwam>T3			
-3	a-sakwam	4	asakwaM	a-sakwa{puM}{2;eka}/sakwa{napuM}{1;eka}/sakwa{napuM}{2;eka}	asakwa{napuM}{1;eka}	sup_samucciwaH,8	Asakwirahiwa	without_attachment	<na-sakwaM>Tn			
-4	sarva-Bqw	5	sarvaBqccEva	sarva-Bqw{napuM}/Bqw{puM}/Bqw{napuM}/Bqw{puM}	sarva-Bqw{puM}{1;eka}	sup_samucciwaH,8	sabakA_XAraNa-poRaNa_karanevAlA	maintainer_of_everyone	<sarva-Bqw>U			
-5	ca	6	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	waWA	also				
-6	eva	7	0	eva{avya}	eva{avya}	sambanXaH,5	BI	certainly				
-7	nir-guNam	8	nirguNaM	nir-{avya}-guNa{puM}{2;eka}	nir-guNa{puM}{1;eka}	sup_samucciwaH,8	nirguNa_honepara	without_material_qualities	<nir-guNaM>Bvp			
-8	guNa-Bokwq	9	guNaBokwq	guNa-Bokwq{puM}/Bokwq{puM}	guNa-Bokwq{puM}{1;eka}	viXeya_viSeRaNam,9.2	guNoM_ko_BoganevAlA	simultaneously_master_of_the_gunas	<guNa-Bokwq>T6			
-9	ca	10	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	also				
-9.1	(waw)	1	()	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,9.2	vaha	that				
-9.2	(aswi)	11	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,9.1;akarmakaH	(hE)	is				
+1	सर्व-इन्द्रिय-गुण-आभासम्	2	सर्वेन्द्रियगुणाभासं	सर्व-इन्द्रिय-गुण-आभास{पुं}{2;एक}	सर्व-इन्द्रिय-गुण-आभास{नपुं}{1;एक}	सुप्_समुच्चितः,8	सम्पूर्ण_इन्द्रियों_के_विषयों_को_जाननेवाला	ओरिगिनल्_सोउर्चे_ओङ्_ऋउअलिटिएस्_ओङ्_अल्ल्_सेन्सेस्	<<<सर्व-इन्द्रिय>ख्1-गुण>ठ्6-आभासं>ठ्6			
+2	सर्व-इन्द्रिय-विवर्जितम्	3	सर्वेन्द्रियविवर्जितम्	सर्व-इन्द्रिय-विवर्जित{पुं}{2;एक}/विवर्जित{नपुं}{1;एक}/विवर्जित{नपुं}{2;एक}	सर्व-इन्द्रिय-वि_वृज्3{कृत्_प्रत्ययः:क्त;वि_वृजीँ;चुरादिः;नपुं}{1;एक}	सुप्_समुच्चितः,8	सब_इन्द्रियों_से_रहित	बेइन्ग्_तिट्होउट्_अल्ल्_सेन्सेस्	<<सर्व-इन्द्रिय>ख्1-विवर्जितम्>ठ्3			
+3	अ-सक्तम्	4	असक्तं	अ-सक्त{पुं}{2;एक}/सक्त{नपुं}{1;एक}/सक्त{नपुं}{2;एक}	असक्त{नपुं}{1;एक}	सुप्_समुच्चितः,8	आसक्तिरहित	तिट्होउट्_अट्टच्ह्मेन्ट्	<न-सक्तं>ठ्न्			
+4	सर्व-भृत्	5	सर्वभृच्चैव	सर्व-भृत्{नपुं}/भृत्{पुं}/भृत्{नपुं}/भृत्{पुं}	सर्व-भृत्{पुं}{1;एक}	सुप्_समुच्चितः,8	सबका_धारण-पोषण_करनेवाला	मइन्टइनेर्_ओङ्_एवेर्योने	<सर्व-भृत्>ऊ			
+5	च	6	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,4	तथा	अल्सो				
+6	एव	7	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,5	भी	चेर्टइन्ल्य्				
+7	निर्-गुणम्	8	निर्गुणं	निर्-{अव्य}-गुण{पुं}{2;एक}	निर्-गुण{पुं}{1;एक}	सुप्_समुच्चितः,8	निर्गुण_होनेपर	तिट्होउट्_मटेरिअल्_ऋउअलिटिएस्	<निर्-गुणं>भ्व्प्			
+8	गुण-भोक्तृ	9	गुणभोक्तृ	गुण-भोक्तृ{पुं}/भोक्तृ{पुं}	गुण-भोक्तृ{पुं}{1;एक}	विधेय_विशेषणम्,9.2	गुणों_को_भोगनेवाला	सिमुल्टनेओउस्ल्य्_मस्टेर्_ओङ्_ट्हे_गुनस्	<गुण-भोक्तृ>ठ्6			
+9	च	10	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	और	अल्सो				
+9.1	(तत्)	1	()	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्ता,9.2	वह	ट्हट्				
+9.2	(अस्ति)	11	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,9.1;अकर्मकः	(है)	इस्				

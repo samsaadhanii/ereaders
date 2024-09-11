@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	evam	3	evaM	evam{avya}	evam{avya}	sambanXaH,2	pUrvokwa_prakAra_se	thus				
+2	sawawa-yukwAH	4	sawawayukwA	sawawayukwa{puM}{1;bahu}/sawawayukwA{swrI}{1;bahu}/sawawayukwA{swrI}{2;bahu}	sawawa-yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;bahu}	viSeRaNam,4	niranwara_Apake_Bajana-XyAna_meM_lage_rahakara	always_engaged	<sawawa-yukwAH>K1			
+3	ye	1	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,4;niwya_sambanXaH,12	jo	those				
+4	BakwAH	2	BakwAswvAM	Bakwa{puM}{1;bahu}/BakwA{swrI}{1;bahu}/BakwA{swrI}{2;bahu}	Bakwa{puM}{1;bahu}	karwA,6	ananya_premI_Bakwajana	devotees				
+5	wvAm	5	0	yuRmax{2;eka}	yuRmax{2;eka}	karma,6	Apako_(saguNarUpa_parameSvara_ko)	unto_You				
+6	paryupAsawe	6	paryupAsawe	pari_upa_As1{karwari;lat;pra;bahu;AwmanepaxI;Asaz;axAxiH}	pari_upa_As1{karwari;lat;pra;bahu;AwmanepaxI;pari_upa_Asaz;axAxiH}	aBihiwakarwA,4;akarmakaH	awiSreRTa_BAva_se_Bajawe_hEM	properly_worship				
+7	ye	8	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,11.1;niwya_sambanXaH,12	jo	those				
+8	ca	7	cApyakRaramavyakwaM	ca{avya}	ca{avya}	sambanXaH,11	Ora	also				
+9	api	11	0	api{avya}	api{avya}	sambanXaH,11	hI	again				
+10	a-kRaram	9	0	akRara{napuM}{1;eka}/akRara{napuM}{2;eka}/kRar1{karwari;laf;u;eka;parasmEpaxI;kRaraz;BvAxiH}	akRara{napuM}{2;eka}	viSeRaNam,11	avinASI_saccixAnanxaGana	beyond_the_senses	<na-kRaram>Tn			
+11	a-vyakwam	10	0	avyakwa{puM}{2;eka}	avyakwa{puM}{2;eka}	karma,11.1	nirAkAra_brahma_ko	unmanifested	<na-vyakwaM>Bsmn			
+11.1	(paryupAsawe)	12	(0)	(pari_upa_As1{karwari;lat;pra;bahu;AwmanepaxI;Asaz;axAxiH})	(pari_upa_As1{karwari;lat;pra;bahu;AwmanepaxI;pari_upa_Asaz;axAxiH})	aBihiwakarwA,7;akarmakaH	(awiSreRTa_BAva_se_Bajawe_hEM)	properly_worship				
+12	weRAm	13	weRAM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	nirXAraNam,14	unameM_(xonoM_prakAra_ke_upAsakoM_meM)	of_them				
+13	ke	15	ke	kim{puM}{1;bahu}/kim{swrI}{1;xvi}/kim{swrI}{2;xvi}/kim{napuM}{1;xvi}/kim{napuM}{2;xvi}	kim{puM}{1;bahu}	karwA,14.1	kOna	who				
+14	yoga-viwwamAH	14	yogaviwwamAH	yogaviwwama{puM}{1;bahu}/yogaviwwamA{swrI}{1;bahu}/yogaviwwamA{swrI}{2;bahu}	yoga-viwwama{puM}{1;bahu}	viXeya_viSeRaNam,14.1	awi_uwwama_yogavewwA	the_most_perfect	<yoga-viwwamAH>T7			
+14.1	(sanwi)	16	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13;akarmakaH	(hEM)	are				

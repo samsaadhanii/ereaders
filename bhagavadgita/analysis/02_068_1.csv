@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wasmAw	1	wasmAxyasya	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,4	isaliye	therefore				
-2	yasya	3	0	yax{puM}{6;eka}/yax{napuM}{6;eka}/yas1{karwari;lot;ma;eka;parasmEpaxI;yasuz;xivAxiH}	yax{puM}{6;eka}	RaRTIsaMbanXaH,6;niwyasabanXaH,8	jisakI_(puruRa_kI)	he_whose				
-3	mahaw-bAho	2	mahAbAho	mahaw-bAhu{puM}{8;eka}	mahaw-bAhu{puM}{8;eka}	samboXyaH,4.1	he_mahAbAho	O_mighty-armed_one	<mahA-bAho>Bs6			
-4	nigqhIwAni	7	nigqhIwAni	nigqhIwa{napuM}{1;bahu}/nigqhIwa{napuM}{2;bahu}	ni_rah1{kqw_prawyayaH:kwa;ni_rahaz;BvAxiH;napuM}{1;bahu}	viXeya_viSeRaNam,4.1	nigraha_kI_huI	restrained				
-4.1	(sanwi)	8	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,6;akarmakaH	(hEM)	are				
-5	sarvaSaH	6	sarvaSaH	sarvaSaH{avya}	sarvaSaH{avya}	kriyAviSeRaNam,4.1	saba_prakAra	completely				
-6	inxriyANi	4	inxriyANInxriyArWeByaswasya	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}	inxriya{napuM}{1;bahu}	karwA,4.1	inxriyAz	senses				
-7	inxriya-arWeByaH	5	0	inxriya-arWa{puM}{4;bahu}/arWa{puM}{5;bahu}/arWa{napuM}{4;bahu}/arWa{napuM}{5;bahu}	inxriya-arWa{napuM}{5;bahu}	apAxAnam,4	inxriyoM_ke_viRayoM_se	from_their_objects	<inxriya-arWeByaH>T6			
-8	wasya	9	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,9	usIkI	his				
-9	prajFA	10	prajFA	prajFA{swrI}{1;eka}	prajFA{swrI}{1;eka}	karwA,10.1	buxXi	mind				
-10	prawiRTiwA	11	prawiRTiwA	prawiRTiwA{swrI}{1;eka}/prawiRTiwA{swrI}{1;eka}	pra_sWA1{kqw_prawyayaH:kwa;pra_RTA;BvAxiH;swrI}{1;eka}	kriyAviSeRaNam,10.1	sWira	stable				
-10.1	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,9;akarmakaH	(hE)	is				
+1	तस्मात्	1	तस्माद्यस्य	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तद्{पुं}{5;एक}	हेतुः,4	इसलिये	ट्हेरेङोरे				
+2	यस्य	3	0	यद्{पुं}{6;एक}/यद्{नपुं}{6;एक}/यस्1{कर्तरि;लोट्;म;एक;परस्मैपदी;यसुँ;दिवादिः}	यद्{पुं}{6;एक}	षष्ठीसंबन्धः,6;नित्यसबन्धः,8	जिसकी_(पुरुष_की)	हे_त्होसे				
+3	महत्-बाहो	2	महाबाहो	महत्-बाहु{पुं}{8;एक}	महत्-बाहु{पुं}{8;एक}	सम्बोध्यः,4.1	हे_महाबाहो	औ_मिग्ह्ट्य्-अर्मेड्_ओने	<महा-बाहो>भ्स्6			
+4	निगृहीतानि	7	निगृहीतानि	निगृहीत{नपुं}{1;बहु}/निगृहीत{नपुं}{2;बहु}	नि_रह्1{कृत्_प्रत्ययः:क्त;नि_रहँ;भ्वादिः;नपुं}{1;बहु}	विधेय_विशेषणम्,4.1	निग्रह_की_हुई	रेस्ट्रइनेड्				
+4.1	(सन्ति)	8	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,6;अकर्मकः	(हैं)	अरे				
+5	सर्वशः	6	सर्वशः	सर्वशः{अव्य}	सर्वशः{अव्य}	क्रियाविशेषणम्,4.1	सब_प्रकार	चोम्प्लेटेल्य्				
+6	इन्द्रियाणि	4	इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य	इन्द्रिय{नपुं}{1;बहु}/इन्द्रिय{नपुं}{2;बहु}	इन्द्रिय{नपुं}{1;बहु}	कर्ता,4.1	इन्द्रियाँ	सेन्सेस्				
+7	इन्द्रिय-अर्थेभ्यः	5	0	इन्द्रिय-अर्थ{पुं}{4;बहु}/अर्थ{पुं}{5;बहु}/अर्थ{नपुं}{4;बहु}/अर्थ{नपुं}{5;बहु}	इन्द्रिय-अर्थ{नपुं}{5;बहु}	अपादानम्,4	इन्द्रियों_के_विषयों_से	ङ्रोम्_ट्हेइर्_ओब्जेच्ट्स्	<इन्द्रिय-अर्थेभ्यः>ठ्6			
+8	तस्य	9	0	तद्{पुं}{6;एक}/तद्{नपुं}{6;एक}	तद्{पुं}{6;एक}	षष्ठीसम्बन्धः,9	उसीकी	हिस्				
+9	प्रज्ञा	10	प्रज्ञा	प्रज्ञा{स्त्री}{1;एक}	प्रज्ञा{स्त्री}{1;एक}	कर्ता,10.1	बुद्धि	मिन्ड्				
+10	प्रतिष्ठिता	11	प्रतिष्ठिता	प्रतिष्ठिता{स्त्री}{1;एक}/प्रतिष्ठिता{स्त्री}{1;एक}	प्र_स्था1{कृत्_प्रत्ययः:क्त;प्र_ष्ठा;भ्वादिः;स्त्री}{1;एक}	क्रियाविशेषणम्,10.1	स्थिर	स्टब्ले				
+10.1	(अस्ति)	12	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,9;अकर्मकः	(है)	इस्				

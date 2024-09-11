@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	jFeyaH	10	jFeyaH	jFeya{puM}{1;eka}	jFA2{kqw_prawyayaH:yaw;jFA;kryAxiH;puM}{1;eka}	aBihiwakarma,2;sakarmakaH	samaJane_yogya_hE	should_be_known				
-2	saH	8	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,1	vaha_(karmayogI)	he				
-3	niwya-sannyAsI	9	niwyasannyAsI	niwya-sannyAsin{puM}{1;eka}	niwya-sannyAsin{puM}{1;eka}	karmasamAnAXikaraNam,1	saxA_saMnyAsI	always_renouncer	<niwya-sannyAsI>K1			
-4	yaH	2	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,6;niwya_sambanXaH,2	jo_(puruRa)	who				
-5	na	3	na	na{avya}	na{avya}	prawiReXaH,6	na	never				
-6	xveRti	4	xveRti	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	samucciwaH,8	xveRa_karawA_hE	abhors				
-7	na	6	na	na{avya}	na{avya}	prawiReXaH,8	na	nor				
-8	kAfkRawi	7	kAfkRawi	kAfkRaw{puM}{7;eka}/kAfkRaw{napuM}{7;eka}/kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	aBihiwakarwA,4;sakarmakaH	AkAMkRA_karawA_hE	desires				
-8.1	(ca)	5	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,8	(Ora)	and				
-9	nir-xvanxvaH	12	nirxvanxvo	nirxvanxva{puM}{1;eka}	nir-xvanxva{puM}{1;eka}	viSeRaNam,14.1	rAga-xveRAxi_xvanxvoM_se_rahiwa	free_from_all_dualities	<nir-xvanxvaH>Bvp			
-10	hi	11	hi	hi{avya}	hi{avya}	sambanXaH,14	kyoMki	certainly				
-11	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,14	he_arjuna	O_mighty-armed_one	<mahaw-bAho>Bs6			
-12	suKam	14	suKaM	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{avya}	kriyAviSeRaNam,14	suKapUrvaka	happily				
-13	banXAw	15	banXAwpramucyawe	banXa{puM}{5;eka}	banXa{puM}{5;eka}	apAxAnam,14	saMsArabanXana_se	from_bondage				
-14	pramucyawe	16	0	pramucyawe	pra_muc1{karwari;lat;pra;eka;AwmanepaxI;pra_mucLz;wuxAxiH}	aBihiwakarwA,14.1;akarmakaH	mukwa_ho_jAwA_hE	is_completely_liberated				
-14.1	(puruRaH)	13	(0)	(puruRa{puM}{1;eka})	(puruRa{puM}{1;eka})	karwA,14	(puruRa)	person				
+1	ज्ञेयः	10	ज्ञेयः	ज्ञेय{पुं}{1;एक}	ज्ञा2{कृत्_प्रत्ययः:यत्;ज्ञा;क्र्यादिः;पुं}{1;एक}	अभिहितकर्म,2;सकर्मकः	समझने_योग्य_है	स्होउल्ड्_बे_क्नोत्न्				
+2	सः	8	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्म,1	वह_(कर्मयोगी)	हे				
+3	नित्य-सन्न्यासी	9	नित्यसन्न्यासी	नित्य-सन्न्यासिन्{पुं}{1;एक}	नित्य-सन्न्यासिन्{पुं}{1;एक}	कर्मसमानाधिकरणम्,1	सदा_संन्यासी	अल्तय्स्_रेनोउन्चेर्	<नित्य-सन्न्यासी>ख्1			
+4	यः	2	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,6;नित्य_सम्बन्धः,2	जो_(पुरुष)	त्हो				
+5	न	3	न	न{अव्य}	न{अव्य}	प्रतिषेधः,6	न	नेवेर्				
+6	द्वेष्टि	4	द्वेष्टि	द्विष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;द्विषँ;अदादिः}	द्विष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;द्विषँ;अदादिः}	समुच्चितः,8	द्वेष_करता_है	अब्होर्स्				
+7	न	6	न	न{अव्य}	न{अव्य}	प्रतिषेधः,8	न	नोर्				
+8	काङ्क्षति	7	काङ्क्षति	काङ्क्षत्{पुं}{7;एक}/काङ्क्षत्{नपुं}{7;एक}/काङ्क्ष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;काक्षिँ;भ्वादिः}	काङ्क्ष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;काक्षिँ;भ्वादिः}	अभिहितकर्ता,4;सकर्मकः	आकांक्षा_करता_है	डेसिरेस्				
+8.1	(च)	5	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,8	(और)	अन्ड्				
+9	निर्-द्वन्द्वः	12	निर्द्वन्द्वो	निर्द्वन्द्व{पुं}{1;एक}	निर्-द्वन्द्व{पुं}{1;एक}	विशेषणम्,14.1	राग-द्वेषादि_द्वन्द्वों_से_रहित	ङ्रेए_ङ्रोम्_अल्ल्_डुअलिटिएस्	<निर्-द्वन्द्वः>भ्व्प्			
+10	हि	11	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,14	क्योंकि	चेर्टइन्ल्य्				
+11	महान्-बाहो	1	महाबाहो	महाबाहु{पुं}{8;एक}/महाबाहु{नपुं}{8;एक}	महाबाहु{पुं}{8;एक}	सम्बोध्यः,14	हे_अर्जुन	औ_मिग्ह्ट्य्-अर्मेड्_ओने	<महत्-बाहो>भ्स्6			
+12	सुखम्	14	सुखं	सुखम्{अव्य}/सुख{पुं}{2;एक}/सुख{नपुं}{1;एक}/सुख{नपुं}{2;एक}	सुख{अव्य}	क्रियाविशेषणम्,14	सुखपूर्वक	हप्पिल्य्				
+13	बन्धात्	15	बन्धात्प्रमुच्यते	बन्ध{पुं}{5;एक}	बन्ध{पुं}{5;एक}	अपादानम्,14	संसारबन्धन_से	ङ्रोम्_बोन्डगे				
+14	प्रमुच्यते	16	0	प्रमुच्यते	प्र_मुच्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;प्र_मुचॢँ;तुदादिः}	अभिहितकर्ता,14.1;अकर्मकः	मुक्त_हो_जाता_है	इस्_चोम्प्लेटेल्य्_लिबेरटेड्				
+14.1	(पुरुषः)	13	(0)	(पुरुष{पुं}{1;एक})	(पुरुष{पुं}{1;एक})	कर्ता,14	(पुरुष)	पेर्सोन्				

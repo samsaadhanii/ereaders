@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yoga-sWaH	8	yogasWaH	yoga-sWa{puM}{1;eka}	yoga-sWa{puM}{1;eka}	viSeRaNam,9.1	yoga_meM_sWiwa_hue	established_in_yoga	<yoga-sWaH>U			
-2	kuru	10	kuru	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,9.1;akarmakaH	karo	perform				
-3	karmANi	9	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	karman{napuM}{2;bahu}	karma,2	karwavyakarmoM_ko	your_duties				
-4	safgam	3	safgaM	safga{puM}{2;eka}	safga{puM}{2;eka}	karma,5	Asakwi_ko	attachment				
-5	wyakwvA	4	wyakwvA	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	pUrvakAlaH,2	wyAgakara	renouncing				
-6	XanaFjaya	1	XanaFjaya	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,2	he_XanaMjaya	O_Dhananjaya				
-7	sixXi-a-sixXyoH	5	sixXyasixXyoH	sixXi-asixXi{swrI}{6;xvi}/asixXi{swrI}{7;xvi}	sixXi-asixXi{swrI}{7;xvi}	aXikaraNam,9	sixXi_Ora_asixXi_meM	in_success_and_failure	<sixXi-<na-sixXyoH>Tn>Di			
-8	samaH	6	samo	sama{puM}{1;eka}/sama{puM}{1;eka}	sama{puM}{1;eka}	viXeya_viSeRaNam,9	samAna	Even-minded				
-9	BUwvA	7	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,2	hokara	be				
-9.1	(wvam)	2	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,2	(wuma)	you				
-10	samawvam	11	samawvaM	samawva{napuM}{1;eka}/samawva{napuM}{2;eka}/samawva{napuM}{1;eka}/samawva{napuM}{2;eka}	samawva{napuM}{1;eka}	karma,12	samawva	evenness_of_mind				
-11	yogaH	12	yoga	yoga{puM}{1;eka}	yoga{puM}{1;eka}	karmasamAnAXikaraNam,12	yoga	Yoga				
-12	ucyawe	13	ucyawe	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,11;sakarmakaH	kahalAwA_hE	is_called				
+1	योग-स्थः	8	योगस्थः	योग-स्थ{पुं}{1;एक}	योग-स्थ{पुं}{1;एक}	विशेषणम्,9.1	योग_में_स्थित_हुए	एस्टब्लिस्हेड्_इन्_योग	<योग-स्थः>ऊ			
+2	कुरु	10	कुरु	कृ3{कर्तरि;लोट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लोट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	अभिहितकर्ता,9.1;अकर्मकः	करो	पेर्ङोर्म्				
+3	कर्माणि	9	कर्माणि	कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}/कर्मन्{नपुं}{8;बहु}	कर्मन्{नपुं}{2;बहु}	कर्म,2	कर्तव्यकर्मों_को	योउर्_डुटिएस्				
+4	सङ्गम्	3	सङ्गं	सङ्ग{पुं}{2;एक}	सङ्ग{पुं}{2;एक}	कर्म,5	आसक्ति_को	अट्टच्ह्मेन्ट्				
+5	त्यक्त्वा	4	त्यक्त्वा	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	पूर्वकालः,2	त्यागकर	रेनोउन्चिन्ग्				
+6	धनञ्जय	1	धनञ्जय	धनञ्जय{पुं}{8;एक}	धनञ्जय{पुं}{8;एक}	सम्बोध्यः,2	हे_धनंजय	औ_ढ्हनन्जय				
+7	सिद्धि-अ-सिद्ध्योः	5	सिद्ध्यसिद्ध्योः	सिद्धि-असिद्धि{स्त्री}{6;द्वि}/असिद्धि{स्त्री}{7;द्वि}	सिद्धि-असिद्धि{स्त्री}{7;द्वि}	अधिकरणम्,9	सिद्धि_और_असिद्धि_में	इन्_सुच्चेस्स्_अन्ड्_ङइलुरे	<सिद्धि-<न-सिद्ध्योः>ठ्न्>ढि			
+8	समः	6	समो	सम{पुं}{1;एक}/सम{पुं}{1;एक}	सम{पुं}{1;एक}	विधेय_विशेषणम्,9	समान	ऐवेन्-मिन्डेड्				
+9	भूत्वा	7	भूत्वा	अस्2{कृत्_प्रत्ययः:क्त्वा;असँ;अदादिः}	भू1{कृत्_प्रत्ययः:क्त्वा;भू;भ्वादिः}	पूर्वकालः,2	होकर	बे				
+9.1	(त्वम्)	2	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,2	(तुम)	योउ				
+10	समत्वम्	11	समत्वं	समत्व{नपुं}{1;एक}/समत्व{नपुं}{2;एक}/समत्व{नपुं}{1;एक}/समत्व{नपुं}{2;एक}	समत्व{नपुं}{1;एक}	कर्म,12	समत्व	एवेन्नेस्स्_ओङ्_मिन्ड्				
+11	योगः	12	योग	योग{पुं}{1;एक}	योग{पुं}{1;एक}	कर्मसमानाधिकरणम्,12	योग	Yओग				
+12	उच्यते	13	उच्यते	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहितकर्म,11;सकर्मकः	कहलाता_है	इस्_चल्लेड्				

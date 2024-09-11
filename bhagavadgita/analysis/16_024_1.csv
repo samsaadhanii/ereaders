@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wasmAw	1	wasmAcCAswraM	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wasmAw{avya}	hewuH,5.1	isase	therefore				
-2	SAswram	5	0	SAswra{napuM}{1;eka}/SAswra{napuM}{2;eka}	SAswra{napuM}{1;eka}	karwA,5.1	SAswra	scriptures				
-3	pramANam	6	pramANaM	pramANa{puM}{2;eka}/pramANa{napuM}{1;eka}/pramANa{napuM}{2;eka}	pramANa{napuM}{1;eka}	viXeya_viSeRaNam,5.1	pramANa	evidence				
-4	we	2	we	wax{puM}{1;bahu}	yuRmax{4;eka}	RaRTIsambanXaH,3	were_liye	your				
-5	kArya-a-kArya-vyavasWiwO	4	kAryAkAryavyavasWiwO	kArya-akArya-vyavasWiwa{puM}{1;xvi}/vyavasWiwa{puM}{2;xvi}/vyavasWiwa{puM}{8;xvi}	kArya-akArya-vyavasWiwi{swrI}{7;eka}	aXikaraNam,5.1	karwavya_Ora_akarwavya_kI_vyavasWA_meM	in_determining_duty_and_forbidden_activities	<<kArya-<na-kArya>Tn>Di-vyavasWiwO>T6			
-5.1	(aswi)	7	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
-6	jFAwvA	9	jFAwvA	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,11	jAnakara	knowing				
-7	SAswra-viXAna-ukwam	11	SAswraviXAnokwaM	SAswra-viXAna-ukwa{puM}{2;eka}/ukwa{napuM}{1;eka}/ukwa{napuM}{2;eka}	SAswra-viXAna-vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;napuM}{2;eka}	viSeRaNam,8	SAswra_viXAnokwa	as_declared_in_the_regulations_of_the_scriptures	<<SAswra-viXAna>T3-ukwam>T3			
-8	karma	12	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,9	karma	work				
-9	karwum	13	karwumihArhasi	kq1{kqw_prawyayaH:wumun;kqF;BvAxiH}/kq2{kqw_prawyayaH:wumun;kqF;svAxiH}/kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	sahAyakakriyA,11	karane	to_do				
-10	iha	3	0	iha{avya}	iha{avya}	aXikaraNam,9	isa	this				
-11	arhasi	14	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwakarwA,11.1;akarmakaH	yogya_hE	should_do				
-11.1	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wuma)	you				
-11.2	(waw)	8	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{2;eka})	karma,9	(vaha)	that				
+1	तस्मात्	1	तस्माच्छास्त्रं	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तस्मात्{अव्य}	हेतुः,5.1	इससे	ट्हेरेङोरे				
+2	शास्त्रम्	5	0	शास्त्र{नपुं}{1;एक}/शास्त्र{नपुं}{2;एक}	शास्त्र{नपुं}{1;एक}	कर्ता,5.1	शास्त्र	स्च्रिप्टुरेस्				
+3	प्रमाणम्	6	प्रमाणं	प्रमाण{पुं}{2;एक}/प्रमाण{नपुं}{1;एक}/प्रमाण{नपुं}{2;एक}	प्रमाण{नपुं}{1;एक}	विधेय_विशेषणम्,5.1	प्रमाण	एविडेन्चे				
+4	ते	2	ते	तद्{पुं}{1;बहु}	युष्मद्{4;एक}	षष्ठीसम्बन्धः,3	तेरे_लिये	योउर्				
+5	कार्य-अ-कार्य-व्यवस्थितौ	4	कार्याकार्यव्यवस्थितौ	कार्य-अकार्य-व्यवस्थित{पुं}{1;द्वि}/व्यवस्थित{पुं}{2;द्वि}/व्यवस्थित{पुं}{8;द्वि}	कार्य-अकार्य-व्यवस्थिति{स्त्री}{7;एक}	अधिकरणम्,5.1	कर्तव्य_और_अकर्तव्य_की_व्यवस्था_में	इन्_डेटेर्मिनिन्ग्_डुट्य्_अन्ड्_ङोर्बिड्डेन्_अच्टिविटिएस्	<<कार्य-<न-कार्य>ठ्न्>ढि-व्यवस्थितौ>ठ्6			
+5.1	(अस्ति)	7	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,2;अकर्मकः	(है)	इस्				
+6	ज्ञात्वा	9	ज्ञात्वा	ज्ञा1{कृत्_प्रत्ययः:क्त्वा;ज्ञा;भ्वादिः}/ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	पूर्वकालः,11	जानकर	क्नोतिन्ग्				
+7	शास्त्र-विधान-उक्तम्	11	शास्त्रविधानोक्तं	शास्त्र-विधान-उक्त{पुं}{2;एक}/उक्त{नपुं}{1;एक}/उक्त{नपुं}{2;एक}	शास्त्र-विधान-वच्1{कृत्_प्रत्ययः:क्त;वचँ;अदादिः;नपुं}{2;एक}	विशेषणम्,8	शास्त्र_विधानोक्त	अस्_डेच्लरेड्_इन्_ट्हे_रेगुलटिओन्स्_ओङ्_ट्हे_स्च्रिप्टुरेस्	<<शास्त्र-विधान>ठ्3-उक्तम्>ठ्3			
+8	कर्म	12	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,9	कर्म	तोर्क्				
+9	कर्तुम्	13	कर्तुमिहार्हसि	कृ1{कृत्_प्रत्ययः:तुमुन्;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:तुमुन्;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	सहायकक्रिया,11	करने	टो_डो				
+10	इह	3	0	इह{अव्य}	इह{अव्य}	अधिकरणम्,9	इस	ट्हिस्				
+11	अर्हसि	14	0	अर्ह्1{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;भ्वादिः}/अर्ह्2{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;चुरादिः}	अर्ह्1{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;भ्वादिः}	अभिहितकर्ता,11.1;अकर्मकः	योग्य_है	स्होउल्ड्_डो				
+11.1	(त्वम्)	10	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,11	(तुम)	योउ				
+11.2	(तत्)	8	(0)	(तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक})	(तद्{नपुं}{2;एक})	कर्म,9	(वह)	ट्हट्				

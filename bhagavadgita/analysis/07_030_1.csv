@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sa-aXi-BUwa-aXi-xEvam	2	sAXiBUwAXixEvaM	sa-aXi-BUwa-aXixEva{puM}{2;eka}/aXixEva{napuM}{1;eka}/aXixEva{napuM}{2;eka}	sa-aXi-BUwa-aXi-xEva{puM}{2;eka}	karmasamAnAXikaraNam,6	aXiBUwa_Ora_aXixEva_ke_sahiwa	with_the_governing_principle_of_the_material_manifestation_and_underlying_all_the_demigods	<sa-<<aXi-BUwa>A1-<aXi-xEvam>A1>Di>BvS			
-2	mAm	5	mAM	asmax{2;eka}	asmax{2;eka}	karma,6	muJe	me				
-3	sa-aXi-yajFam	4	sAXiyajFaM	sa-aXi-yajFa{puM}{2;eka}	sa-aXi-yajFa{puM}{2;eka}	sup_samucciwaH,1	aXiyajFa_ke_sahiwa_(sabakA_AwmarUpa)	sustaining_all_sacrifices	<sa-<aXi-yajFam>A1>BvS			
-4	ca	3	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	waWA	and				
-5	ye	1	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,2;niwya_sambanXaH,5	jo_(puruRa)	those				
-6	vixuH	13	vixuryukwacewasaH	vixu{puM}{1;eka}/vixus{napuM}{1;eka}/vixus{napuM}{2;eka}/vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,5;sakarmakaH	jAnawe_hEM	know				
-7	prayANakAle	6	prayANakAleZpi	prayANa-kAla{puM}{7;eka}/kAla{napuM}{1;xvi}/kAla{napuM}{2;xvi}/kAla{napuM}{7;eka}/kAlA{swrI}{1;xvi}/kAlA{swrI}{2;xvi}	prayANa-kAla{puM}{7;eka}	aXikaraNam,12	anwakAla_meM	at_the_time_of_death	<prayANa-kAle>T6			
-8	api	11	ca	api{avya}	api{avya}	sambanXaH,7	hI	even				
-8.1	ca	12		ca/ca{avya}	_ca{avya}	sambanXaH,11						
-9	mAm	10	mAM	asmax{2;eka}	asmax{2;eka}	karma,11	muJe	me				
-10	we	8	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	viSeRaNam,12	ve	they				
-11	vixuH	7	vixuH	vixu{puM}{1;eka}/vixus{napuM}{1;eka}/vixus{napuM}{2;eka}/vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,10;sakarmakaH	jAnawe_hEM	know				
-12	yukwacewasaH	9	0	yukwa-cewas{napuM}{5;eka}/cewas{napuM}{6;eka}	yukwacewas{puM}{1;bahu}	karwA,11	yukwaciwwavAle_puruRa	with_steadfast_minds	<yukwa-cewasaH>Bs6			
+1	स-अधि-भूत-अधि-दैवम्	2	साधिभूताधिदैवं	स-अधि-भूत-अधिदैव{पुं}{2;एक}/अधिदैव{नपुं}{1;एक}/अधिदैव{नपुं}{2;एक}	स-अधि-भूत-अधि-दैव{पुं}{2;एक}	कर्मसमानाधिकरणम्,6	अधिभूत_और_अधिदैव_के_सहित	तिट्ह्_ट्हे_गोवेर्निन्ग्_प्रिन्चिप्ले_ओङ्_ट्हे_मटेरिअल्_मनिङेस्टटिओन्_अन्ड्_उन्डेर्ल्यिन्ग्_अल्ल्_ट्हे_डेमिगोड्स्	<स-<<अधि-भूत>आ1-<अधि-दैवम्>आ1>ढि>भ्व्श्			
+2	माम्	5	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,6	मुझे	मे				
+3	स-अधि-यज्ञम्	4	साधियज्ञं	स-अधि-यज्ञ{पुं}{2;एक}	स-अधि-यज्ञ{पुं}{2;एक}	सुप्_समुच्चितः,1	अधियज्ञ_के_सहित_(सबका_आत्मरूप)	सुस्टइनिन्ग्_अल्ल्_सच्रिङिचेस्	<स-<अधि-यज्ञम्>आ1>भ्व्श्			
+4	च	3	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	तथा	अन्ड्				
+5	ये	1	ये	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	कर्ता,2;नित्य_सम्बन्धः,5	जो_(पुरुष)	ट्होसे				
+6	विदुः	13	विदुर्युक्तचेतसः	विदु{पुं}{1;एक}/विदुस्{नपुं}{1;एक}/विदुस्{नपुं}{2;एक}/विद्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विदँ;अदादिः}	अभिहित_कर्ता,5;सकर्मकः	जानते_हैं	क्नोत्				
+7	प्रयाणकाले	6	प्रयाणकालेऽपि	प्रयाण-काल{पुं}{7;एक}/काल{नपुं}{1;द्वि}/काल{नपुं}{2;द्वि}/काल{नपुं}{7;एक}/काला{स्त्री}{1;द्वि}/काला{स्त्री}{2;द्वि}	प्रयाण-काल{पुं}{7;एक}	अधिकरणम्,12	अन्तकाल_में	अट्_ट्हे_टिमे_ओङ्_डेअट्ह्	<प्रयाण-काले>ठ्6			
+8	अपि	11	च	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,7	ही	एवेन्				
+8.1	च	12		च/च{अव्य}	_च{अव्य}	सम्बन्धः,11						
+9	माम्	10	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,11	मुझे	मे				
+10	ते	8	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	तद्{पुं}{1;बहु}	विशेषणम्,12	वे	ट्हेय्				
+11	विदुः	7	विदुः	विदु{पुं}{1;एक}/विदुस्{नपुं}{1;एक}/विदुस्{नपुं}{2;एक}/विद्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विदँ;अदादिः}	अभिहित_कर्ता,10;सकर्मकः	जानते_हैं	क्नोत्				
+12	युक्तचेतसः	9	0	युक्त-चेतस्{नपुं}{5;एक}/चेतस्{नपुं}{6;एक}	युक्तचेतस्{पुं}{1;बहु}	कर्ता,11	युक्तचित्तवाले_पुरुष	तिट्ह्_स्टेअड्ङस्ट्_मिन्ड्स्	<युक्त-चेतसः>भ्स्6			

@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	su-xur-xarSam	8	suxurxarSamixaM	su-{avya}-xur-xarSa{puM}{2;eka}	su-xur-xarSa{napuM}{1;eka}	viXeya_viSeRaNam,2.1	suxurxarSa	very_difficult_to_be_seen	<su-<xur-xarSam>Tp>Tp			
-2	ixam	7	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	karwA,2.1	yaha	this				
-2.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
-3	rUpam	3	rUpaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,4	cawurBujarUpa	form				
-4	xqRtavAn	5	xqRtavAnasi	xqRtavaw{puM}{1;eka}/xqRtavaw{puM}{1;eka}	xqS1{kqw_prawyayaH:kwavawu;xqSizr;BvAxiH;puM}{1;eka}	karwA,5	xeKA	as_seen				
-5	asi	6	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,4;akarmakaH	hE	have				
-6	yaw	2	yanmama	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,3	jo	which				
-7	mama	1	0	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,3	merA	of_Mine				
-7.1	(wvam)	4	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wumane)	you				
-8	xevAH	10	xevA	xeva{puM}{1;bahu}/xeva{puM}{8;bahu}	xeva{puM}{1;bahu}	karwA,13.1	xevawA	the_demigods				
-9	api	11	apyasya	api{avya}	api{avya}	sambanXaH,8	BI	also				
-10	asya	12	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{napuM}{6;eka}	viSeRaNam,11	isa	this				
-11	rUpasya	13	rUpasya	rUpa{napuM}{6;eka}	rUpa{napuM}{6;eka}	RaRTIsambanXaH,13	rUpa_ke	form				
-12	niwyam	14	niwyaM	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{2;eka}	kriyAviSeRaNam,13	saxA	eternally				
-13	xarSana-kAfkRiNaH	15	xarSanakAfkRiNaH	xarSana-kAfkRin{puM}{1;bahu}/kAfkRin{puM}{2;bahu}/kAfkRin{puM}{5;eka}/kAfkRin{puM}{6;eka}/kAfkRin{puM}{8;bahu}	xarSana-kAfkRin{puM}{1;bahu}	viXeya_viSeRaNam,13.1	AkAMkRA_karawe_rahawe	always_aspire_to_see	<xarSana-AkAfkRiNaH>T6			
-13.1	(sanwi)	16	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,8;akarmakaH	(hEM)	are				
+1	सु-दुर्-दर्शम्	8	सुदुर्दर्शमिदं	सु-{अव्य}-दुर्-दर्श{पुं}{2;एक}	सु-दुर्-दर्श{नपुं}{1;एक}	विधेय_विशेषणम्,2.1	सुदुर्दर्श	वेर्य्_डिङ्ङिचुल्ट्_टो_बे_सेएन्	<सु-<दुर्-दर्शम्>ठ्प्>ठ्प्			
+2	इदम्	7	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	कर्ता,2.1	यह	ट्हिस्				
+2.1	(अस्ति)	9	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,2;अकर्मकः	(है)	इस्				
+3	रूपम्	3	रूपं	रूप{नपुं}{1;एक}/रूप{नपुं}{2;एक}	रूप{नपुं}{2;एक}	कर्म,4	चतुर्भुजरूप	ङोर्म्				
+4	दृष्टवान्	5	दृष्टवानसि	दृष्टवत्{पुं}{1;एक}/दृष्टवत्{पुं}{1;एक}	दृश्1{कृत्_प्रत्ययः:क्तवतु;दृशिँर्;भ्वादिः;पुं}{1;एक}	कर्ता,5	देखा	अस्_सेएन्				
+5	असि	6	0	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,4;अकर्मकः	है	हवे				
+6	यत्	2	यन्मम	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	विशेषणम्,3	जो	त्हिच्ह्				
+7	मम	1	0	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,3	मेरा	ओङ्_ंइने				
+7.1	(त्वम्)	4	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,4	(तुमने)	योउ				
+8	देवाः	10	देवा	देव{पुं}{1;बहु}/देव{पुं}{8;बहु}	देव{पुं}{1;बहु}	कर्ता,13.1	देवता	ट्हे_डेमिगोड्स्				
+9	अपि	11	अप्यस्य	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,8	भी	अल्सो				
+10	अस्य	12	0	इदम्{पुं}{6;एक}/इदम्{नपुं}{6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	इदम्{नपुं}{6;एक}	विशेषणम्,11	इस	ट्हिस्				
+11	रूपस्य	13	रूपस्य	रूप{नपुं}{6;एक}	रूप{नपुं}{6;एक}	षष्ठीसम्बन्धः,13	रूप_के	ङोर्म्				
+12	नित्यम्	14	नित्यं	नित्य{पुं}{2;एक}/नित्य{नपुं}{1;एक}/नित्य{नपुं}{2;एक}	नित्य{नपुं}{2;एक}	क्रियाविशेषणम्,13	सदा	एटेर्नल्ल्य्				
+13	दर्शन-काङ्क्षिणः	15	दर्शनकाङ्क्षिणः	दर्शन-काङ्क्षिन्{पुं}{1;बहु}/काङ्क्षिन्{पुं}{2;बहु}/काङ्क्षिन्{पुं}{5;एक}/काङ्क्षिन्{पुं}{6;एक}/काङ्क्षिन्{पुं}{8;बहु}	दर्शन-काङ्क्षिन्{पुं}{1;बहु}	विधेय_विशेषणम्,13.1	आकांक्षा_करते_रहते	अल्तय्स्_अस्पिरे_टो_सेए	<दर्शन-आकाङ्क्षिणः>ठ्6			
+13.1	(सन्ति)	16	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/सत्{नपुं}{8;बहु}/सन्ती{स्त्री}{8;एक}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,8;अकर्मकः	(हैं)	अरे				

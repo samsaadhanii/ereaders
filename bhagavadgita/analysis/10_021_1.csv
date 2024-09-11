@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	AxiwyAnAm	2	AxiwyAnAmahaM	Axiwya{puM}{6;bahu}	Axiwya{puM}{6;bahu}	nirXAraNam,3	axiwi_ke_bAraha_puwroM_meM	of_the_Adityas				
-2	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,6.2	mEM	I				
-3	viRNuH	3	viRNurjyowiRAM	viRNu{puM}{1;eka}/viRNu{swrI}{1;eka}	viRNu{puM}{1;eka}	sup_samucciwaH,5	viRNu	the_Supreme_Lord				
-4	jyowiRAm	4	0	jyowis{puM}{6;bahu}/jyowis{napuM}{6;bahu}	jyowis{puM}{6;bahu}	nirXAraNam,5	jyowiyoM_meM	of_all_luminaries				
-5	raviH	6	raviraMSumAn	ravi{puM}{1;eka}	ravi{puM}{1;eka}	viXeya_viSeRaNam,6.2	sUrya	the_sun				
-6	aMSumAn	5	0	aMSumaw{puM}{1;eka}	aMSumaw{puM}{1;eka}	viSeRaNam,5	kiraNoMvAlA	radiant				
-6.1	(ca)	6.1	(0)	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
-6.2	(asmi)	6.2	(0)	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,2;akarmakaH	hUz	am				
-7	marIciH	9	marIcirmaruwAmasmi	marIci{puM}{1;eka}	marIci{puM}{1;eka}	sup_samucciwaH,12	weja	Marici				
-8	maruwAm	8	0	maruw{puM}{6;bahu}/maruwA{swrI}{2;eka}	maruw{puM}{6;bahu}	nirXAraNam,7	unacAsa_vAyu_xevawAoM_kA	of_the_Maruts				
-9	asmi	12	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}		hUz	am				
-10	nakRawrANAm	10	nakRawrANAmahaM	nakRawra{napuM}{6;bahu}	nakRawra{napuM}{6;bahu}	nirXAraNam,12	nakRawroM_kA	of_stars				
-11	aham	7	0	asmax{1;eka}	asmax{1;eka}	karwA,9	mEM	I				
-12	SaSI	11	SaSI	SaSin{puM}{1;eka}	SaSin{puM}{1;eka}	viXeya_viSeRaNam,9	aXipawi_canxramA	the_moon				
-12.1	(ca)	11.1	(0)	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora	also				
+1	आदित्यानाम्	2	आदित्यानामहं	आदित्य{पुं}{6;बहु}	आदित्य{पुं}{6;बहु}	निर्धारणम्,3	अदिति_के_बारह_पुत्रों_में	ओङ्_ट्हे_आडिट्यस्				
+2	अहम्	1	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,6.2	मैं	ई				
+3	विष्णुः	3	विष्णुर्ज्योतिषां	विष्णु{पुं}{1;एक}/विष्णु{स्त्री}{1;एक}	विष्णु{पुं}{1;एक}	सुप्_समुच्चितः,5	विष्णु	ट्हे_शुप्रेमे_ऌओर्ड्				
+4	ज्योतिषाम्	4	0	ज्योतिस्{पुं}{6;बहु}/ज्योतिस्{नपुं}{6;बहु}	ज्योतिस्{पुं}{6;बहु}	निर्धारणम्,5	ज्योतियों_में	ओङ्_अल्ल्_लुमिनरिएस्				
+5	रविः	6	रविरंशुमान्	रवि{पुं}{1;एक}	रवि{पुं}{1;एक}	विधेय_विशेषणम्,6.2	सूर्य	ट्हे_सुन्				
+6	अंशुमान्	5	0	अंशुमत्{पुं}{1;एक}	अंशुमत्{पुं}{1;एक}	विशेषणम्,5	किरणोंवाला	रडिअन्ट्				
+6.1	(च)	6.1	(0)	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और	अल्सो				
+6.2	(अस्मि)	6.2	(0)	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,2;अकर्मकः	हूँ	अम्				
+7	मरीचिः	9	मरीचिर्मरुतामस्मि	मरीचि{पुं}{1;एक}	मरीचि{पुं}{1;एक}	सुप्_समुच्चितः,12	तेज	ंअरिचि				
+8	मरुताम्	8	0	मरुत्{पुं}{6;बहु}/मरुता{स्त्री}{2;एक}	मरुत्{पुं}{6;बहु}	निर्धारणम्,7	उनचास_वायु_देवताओं_का	ओङ्_ट्हे_ंअरुट्स्				
+9	अस्मि	12	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}		हूँ	अम्				
+10	नक्षत्राणाम्	10	नक्षत्राणामहं	नक्षत्र{नपुं}{6;बहु}	नक्षत्र{नपुं}{6;बहु}	निर्धारणम्,12	नक्षत्रों_का	ओङ्_स्टर्स्				
+11	अहम्	7	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,9	मैं	ई				
+12	शशी	11	शशी	शशिन्{पुं}{1;एक}	शशिन्{पुं}{1;एक}	विधेय_विशेषणम्,9	अधिपति_चन्द्रमा	ट्हे_मोओन्				
+12.1	(च)	11.1	(0)	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,12	और	अल्सो				

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	viRayAH	1	viRayA	viRaya{puM}{1;bahu}	viRaya{puM;8;bahu}	samboXyaH,2	viRaya	Sense-objects				
-2	vinivarwanwe	3	vinivarwanwe	vi_ni_vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	vi_ni_vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;:BvAxiH}		nivqwwa_ho_jAwe_hEM	turn_away				
-3	nir-AhArasya	2	nirAhArasya	nirAhAra{puM}{6;eka}/nirAhAra{napuM}{6;eka}	nir-AhAra{puM;6;eka(nir-hq1;GaF;hqF;:BvAxiH)}	viSeRaNam,4	viRayoM_ko_grahaNa_na_karanevAle	who_abstains_from_feeding	<nir-AhArasya>Bvp			
-4	xehinaH	4	xehinaH	xehin{puM}{1;bahu}/xehin{puM}{2;bahu}/xehin{puM}{5;eka}/xehin{puM}{6;eka}/xehin{napuM}{5;eka}/xehin{napuM}{6;eka}	xehin{puM}{6;eka}	RaRTIsambanXaH,5	puruRa_ke	from_him				
-5	rasa-varjam	5	rasavarjaM	rasavarja{puM}{2;eka}	rasa-varja{puM}{2;eka}	karma,11	Asakwi_nivqwwa_nahIM_howI	the_taste_for_them_persists	<rasa-varjaM>U			
-6	rasaH	6	rasoZpyasya	rasa{puM}{1;eka}	rasa{puM}{1;eka}	karwA,11	Asakwi	relish_for_sense_enjoyment				
-7	api	7	0	api{avya}	api{avya}	sambanXaH,6	BI	also				
-8	asya	8	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	RaRTIsambanXaH,9	isa_sWiwaprajFa_puruRa_kI	his_(the_man_of_stable_mind)				
-9	param	9	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{sarvanAma;napuM;2;eka}	karma,10	paramAwmA_kA	the_Supreme				
-10	xqRtvA	10	xqRtvA	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	xqS1{avya;kwvA;xqSizr;:BvAxiH}	pUrvakAlaH,11	sAkRAwkAra_karake	by_realizing				
-11	nivarwawe	11	nivarwawe	nivarwawA{swrI}{1;xvi}/nivarwawA{swrI}{2;xvi}/nivarwawA{swrI}{8;eka}/nivarwawA{swrI}{8;xvi}	ni_vqw1{karwari;lat;pra;eka;AwmanepaxI;ni_vqwuz;BvAxiH}	aBihiwa_karwA,6;sakarmaka	nivqwwa_ho_jAwI_hE	disappears				
+1	विषयाः	1	विषया	विषय{पुं}{1;बहु}	विषय{पुं;8;बहु}	सम्बोध्यः,2	विषय	शेन्से-ओब्जेच्ट्स्				
+2	विनिवर्तन्ते	3	विनिवर्तन्ते	वि_नि_वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;वृतुँ;भ्वादिः}	वि_नि_वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;वृतुँ;:भ्वादिः}		निवृत्त_हो_जाते_हैं	टुर्न्_अतय्				
+3	निर्-आहारस्य	2	निराहारस्य	निराहार{पुं}{6;एक}/निराहार{नपुं}{6;एक}	निर्-आहार{पुं;6;एक(निर्-हृ1;घञ्;हृञ्;:भ्वादिः)}	विशेषणम्,4	विषयों_को_ग्रहण_न_करनेवाले	त्हो_अब्स्टइन्स्_ङ्रोम्_ङेएडिन्ग्	<निर्-आहारस्य>भ्व्प्			
+4	देहिनः	4	देहिनः	देहिन्{पुं}{1;बहु}/देहिन्{पुं}{2;बहु}/देहिन्{पुं}{5;एक}/देहिन्{पुं}{6;एक}/देहिन्{नपुं}{5;एक}/देहिन्{नपुं}{6;एक}	देहिन्{पुं}{6;एक}	षष्ठीसम्बन्धः,5	पुरुष_के	ङ्रोम्_हिम्				
+5	रस-वर्जम्	5	रसवर्जं	रसवर्ज{पुं}{2;एक}	रस-वर्ज{पुं}{2;एक}	कर्म,11	आसक्ति_निवृत्त_नहीं_होती	ट्हे_टस्टे_ङोर्_ट्हेम्_पेर्सिस्ट्स्	<रस-वर्जं>ऊ			
+6	रसः	6	रसोऽप्यस्य	रस{पुं}{1;एक}	रस{पुं}{1;एक}	कर्ता,11	आसक्ति	रेलिस्ह्_ङोर्_सेन्से_एन्जोय्मेन्ट्				
+7	अपि	7	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,6	भी	अल्सो				
+8	अस्य	8	0	इदम्{पुं}{6;एक}/इदम्{नपुं}{6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	इदम्{पुं}{6;एक}	षष्ठीसम्बन्धः,9	इस_स्थितप्रज्ञ_पुरुष_की	हिस्_(ट्हे_मन्_ओङ्_स्टब्ले_मिन्ड्)				
+9	परम्	9	परं	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{सर्वनाम;नपुं;2;एक}	कर्म,10	परमात्मा_का	ट्हे_शुप्रेमे				
+10	दृष्ट्वा	10	दृष्ट्वा	दृश्1{कृत्_प्रत्ययः:क्त्वा;दृशिँर्;भ्वादिः}	दृश्1{अव्य;क्त्वा;दृशिँर्;:भ्वादिः}	पूर्वकालः,11	साक्षात्कार_करके	ब्य्_रेअलिँइन्ग्				
+11	निवर्तते	11	निवर्तते	निवर्तता{स्त्री}{1;द्वि}/निवर्तता{स्त्री}{2;द्वि}/निवर्तता{स्त्री}{8;एक}/निवर्तता{स्त्री}{8;द्वि}	नि_वृत्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;नि_वृतुँ;भ्वादिः}	अभिहित_कर्ता,6;सकर्मक	निवृत्त_हो_जाती_है	डिसप्पेअर्स्				

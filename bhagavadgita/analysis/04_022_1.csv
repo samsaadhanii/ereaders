@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxqcCA-lABa-sanwuRtaH	1	yaxqcCAlABasanwuRto	yaxqcCA-lABa-sanwuRta{puM}{1;eka}	yaxqcCA-lABa-sanwuRta{puM}{1;eka}	viSeRaNam,11.2	jo_binA_icCA_ke_apane-Apa_prApwa_hue_paxArWa_meM_saxA_saMwuRta_rahawA_hE	satisfied_in_the_gain_attained_out_of_its_own_accord	<<yaxqcCA-lABa>T3-sanwuRtaH>T3			
-2	xvanxva-awIwaH	3	xvanxvAwIwo	xvanxva-awIwa{puM}{1;eka}	xvanxva-awIwa{puM}{1;eka}	viSeRaNam,11.2	jo_harRa-Soka_Axi_xvanxvoM_se_sarvaWA_awIwa_ho_gayA_hE	surpassed_duality	<xvanxva-awIwaH>T2			
-3	vimawsaraH	2	vimawsaraH	vi-mawsara{puM}{1;eka}	vimawsara{puM}{1;eka}	viSeRaNam,11.2	jisameM_IrRyA_kA_sarvaWA_aBAva_ho_gayA_hE	free_from_envy	<vi-mawsaraH>Bs5			
-4	samaH	7	samaH	sama{puM}{1;eka}/sama{puM}{1;eka}	sama{puM}{1;eka}	viSeRaNam,11.2	sama_rahanevAlA_karmayogI	steady				
-5	sixXO	4	sixXAvasixXO	sixXa{puM}{1;xvi}/sixXa{puM}{2;xvi}/sixXi{swrI}{7;eka}	sixXi{swrI}{7;eka}	sup_samucciwaH,6	sixXi	in_success				
-6	a-sixXO	6		a-sixXa{puM}{1;xvi}/sixXa{puM}{2;xvi}/sixXi{swrI}{7;eka}	na-sixXi{swrI}{7;eka}	aXikaraNam,4	asixXi_meM	failure	<na-sixXO>Tn			
-7	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	also				
-8	kqwvA	10	kqwvApi	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,11	karawA_huA	doing				
-9	api	11		api{avya}	api{avya}	sambanXaH,8	BI	although				
-10	na	12	na	na{avya}	na{avya}	prawiReXaH,11	nahIM	never				
-11	nibaXyawe	13	nibaXyawe	ni_banX1{karmaNi;lat;pra;eka;AwmanepaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;eka;AwmanepaxI;ni_banXaz;kryAxiH}	aBihiwakarwA,11.2	bazXawA	is_affected				
-11.1	(karma)	9	()	(karman{napuM}{1;eka}/karman{napuM}{2;eka})	(karman{napuM}{2;eka})	karma,11	(karma_ko)	work				
-11.2	(puruRaH)	8	()	(puruRa{puM}{1;eka})	(puruRa{puM}{1;eka})	karwA,11	(puruRa)	person				
+1	यदृच्छा-लाभ-सन्तुष्टः	1	यदृच्छालाभसन्तुष्टो	यदृच्छा-लाभ-सन्तुष्ट{पुं}{1;एक}	यदृच्छा-लाभ-सन्तुष्ट{पुं}{1;एक}	विशेषणम्,11.2	जो_बिना_इच्छा_के_अपने-आप_प्राप्त_हुए_पदार्थ_में_सदा_संतुष्ट_रहता_है	सटिस्ङिएड्_इन्_ट्हे_गइन्_अट्टइनेड्_ओउट्_ओङ्_इट्स्_ओत्न्_अच्चोर्ड्	<<यदृच्छा-लाभ>ठ्3-सन्तुष्टः>ठ्3			
+2	द्वन्द्व-अतीतः	3	द्वन्द्वातीतो	द्वन्द्व-अतीत{पुं}{1;एक}	द्वन्द्व-अतीत{पुं}{1;एक}	विशेषणम्,11.2	जो_हर्ष-शोक_आदि_द्वन्द्वों_से_सर्वथा_अतीत_हो_गया_है	सुर्पस्सेड्_डुअलिट्य्	<द्वन्द्व-अतीतः>ठ्2			
+3	विमत्सरः	2	विमत्सरः	वि-मत्सर{पुं}{1;एक}	विमत्सर{पुं}{1;एक}	विशेषणम्,11.2	जिसमें_ईर्ष्या_का_सर्वथा_अभाव_हो_गया_है	ङ्रेए_ङ्रोम्_एन्व्य्	<वि-मत्सरः>भ्स्5			
+4	समः	7	समः	सम{पुं}{1;एक}/सम{पुं}{1;एक}	सम{पुं}{1;एक}	विशेषणम्,11.2	सम_रहनेवाला_कर्मयोगी	स्टेअड्य्				
+5	सिद्धौ	4	सिद्धावसिद्धौ	सिद्ध{पुं}{1;द्वि}/सिद्ध{पुं}{2;द्वि}/सिद्धि{स्त्री}{7;एक}	सिद्धि{स्त्री}{7;एक}	सुप्_समुच्चितः,6	सिद्धि	इन्_सुच्चेस्स्				
+6	अ-सिद्धौ	6		अ-सिद्ध{पुं}{1;द्वि}/सिद्ध{पुं}{2;द्वि}/सिद्धि{स्त्री}{7;एक}	न-सिद्धि{स्त्री}{7;एक}	अधिकरणम्,4	असिद्धि_में	ङइलुरे	<न-सिद्धौ>ठ्न्			
+7	च	5	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	और	अल्सो				
+8	कृत्वा	10	कृत्वापि	कृ1{कृत्_प्रत्ययः:क्त्वा;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:क्त्वा;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	पूर्वकालः,11	करता_हुआ	डोइन्ग्				
+9	अपि	11		अपि{अव्य}	अपि{अव्य}	सम्बन्धः,8	भी	अल्ट्होउग्ह्				
+10	न	12	न	न{अव्य}	न{अव्य}	प्रतिषेधः,11	नहीं	नेवेर्				
+11	निबध्यते	13	निबध्यते	नि_बन्ध्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;बन्धँ;क्र्यादिः}	नि_बन्ध्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;नि_बन्धँ;क्र्यादिः}	अभिहितकर्ता,11.2	बँधता	इस्_अङ्ङेच्टेड्				
+11.1	(कर्म)	9	()	(कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक})	(कर्मन्{नपुं}{2;एक})	कर्म,11	(कर्म_को)	तोर्क्				
+11.2	(पुरुषः)	8	()	(पुरुष{पुं}{1;एक})	(पुरुष{पुं}{1;एक})	कर्ता,11	(पुरुष)	पेर्सोन्				

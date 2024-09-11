@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaw	2	yaxakRaraM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,2;niwya_sambanXaH,13	jisa_saccixAnanxaGanarUpa_paramapaxa_ko	that_which				
-2	a-kRaram	3	0	akRara{napuM}{1;eka}/akRara{napuM}{2;eka}/kRar1{karwari;laf;u;eka;parasmEpaxI;kRaraz;BvAxiH}	akRara{napuM}{2;eka}	karma,4	avinASI	inexhaustible	<na-kRaram>Tn			
-3	vexa-vixaH	1	vexavixo	vexavix{puM}{1;bahu}/vexavix{puM}{2;bahu}/vexavix{puM}{5;eka}/vexavix{puM}{6;eka}	vexa-vix{puM}{1;bahu}	karwA,4	vexa_ke_jAnanevAle_vixvAn	a_person_conversant_with_the_Vedas	<vexa-vixaH>U			
-4	vaxanwi	4	vaxanwi	vaxaw{napuM}{1;bahu}/vaxaw{napuM}{2;bahu}/vax1{karwari;lat;pra;bahu;parasmEpaxI;vaxaz;BvAxiH}	vax1{karwari;lat;pra;bahu;parasmEpaxI;vaxaz;BvAxiH}	samucciwaH,12	kahawe_hEM	say				
-5	viSanwi	8	viSanwi	viSaw{napuM}{1;bahu}/viSaw{napuM}{2;bahu}	viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	samucciwaH,12	praveSa_karawe_hEM	enters				
-6	yaw	7	yaxyawayo	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,5;niwya_sambanXaH,13	jisameM	in_which				
-7	yawayaH	6	0	yawi{puM}{1;bahu}/yawi{swrI}{1;bahu}	yawi{puM}{1;bahu}	karwA,5	yawnaSIla_saMnyAsI_mahAwmAjana	great_sages				
-8	vIwa-rAgAH	5	vIwarAgAH	vIwarAga{puM}{1;bahu}	vIwa-rAga{puM}{1;bahu}	viSeRaNam,7	Asakwirahiwa	in_the_renounced_order_of_life	<vIwa-rAgAH>Bs5			
-9	yaw	9	yaxicCanwo	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,10;niwya_sambanXaH,13	jisako_(paramapaxa_ko)	that_which				
-10	icCanwaH	10	0	icCaw{puM}{1;bahu}	iR2{kqw_prawyayaH:Sawq;iRuz;wuxAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,12	cAhanevAle_(brahmacArI_loga)	desiring				
-11	brahma-caryam	12	brahmacaryaM	brahmacarya{napuM}{1;eka}/brahmacarya{napuM}{2;eka}	brahmacarya{napuM}{2;eka}	karma,12	brahmacarya_kA	celibacy	<brahma-caryam>T4			
-12	caranwi	13	caranwi	caraw{napuM}{1;bahu}/caraw{napuM}{2;bahu}/car1{karwari;lat;pra;bahu;parasmEpaxI;caraz;BvAxiH}	car1{karwari;lat;pra;bahu;parasmEpaxI;caraz;BvAxiH}		AcaraNa_karawe_hEM	practices				
-12.1	(ca)	11	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,12	(Ora)	also				
-13	waw	14	wawwe	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,15	usa	that				
-14	we	17	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,17	were_liye	unto_you				
-15	paxam	15	paxaM	pax{puM}{2;eka}/paxa{napuM}{1;eka}/paxa{napuM}{2;eka}	paxa{napuM}{2;eka}	karma,17	paramapaxa_ko	situation				
-16	safgraheNa	18	safgraheNa	safgraha{puM}{3;eka}	safgraha{puM}{3;eka}	kriyAviSeRaNam,17	saMkRepa_se	in_summary				
-17	pravakRye	19	pravakRye	pra_vah1{karwari;lqt;u;eka;uBayapaxI;vahaz;BvAxiH}/pra_vah1{karmaNi;lqt;u;eka;AwmanepaxI;vahaz;BvAxiH}/pra_vah1{karmaNi;lqf;u;eka;AwmanepaxI;vahaz;BvAxiH}	pra_vac1{karwari;lqt;u;eka;AwmanepaxI;pra_vacaz;axAxiH}	aBihiwakarwA,17.1;sakarmakaH	kahUzgA	shall_explain				
-17.1	(aham)	16	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,17	(mEM)	I				
+1	यत्	2	यदक्षरं	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	विशेषणम्,2;नित्य_सम्बन्धः,13	जिस_सच्चिदानन्दघनरूप_परमपद_को	ट्हट्_त्हिच्ह्				
+2	अ-क्षरम्	3	0	अक्षर{नपुं}{1;एक}/अक्षर{नपुं}{2;एक}/क्षर्1{कर्तरि;लङ्;उ;एक;परस्मैपदी;क्षरँ;भ्वादिः}	अक्षर{नपुं}{2;एक}	कर्म,4	अविनाशी	इनेद्हउस्टिब्ले	<न-क्षरम्>ठ्न्			
+3	वेद-विदः	1	वेदविदो	वेदविद्{पुं}{1;बहु}/वेदविद्{पुं}{2;बहु}/वेदविद्{पुं}{5;एक}/वेदविद्{पुं}{6;एक}	वेद-विद्{पुं}{1;बहु}	कर्ता,4	वेद_के_जाननेवाले_विद्वान्	अ_पेर्सोन्_चोन्वेर्सन्ट्_तिट्ह्_ट्हे_Vएडस्	<वेद-विदः>ऊ			
+4	वदन्ति	4	वदन्ति	वदत्{नपुं}{1;बहु}/वदत्{नपुं}{2;बहु}/वद्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;वदँ;भ्वादिः}	वद्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;वदँ;भ्वादिः}	समुच्चितः,12	कहते_हैं	सय्				
+5	विशन्ति	8	विशन्ति	विशत्{नपुं}{1;बहु}/विशत्{नपुं}{2;बहु}	विश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विशँ;तुदादिः}	समुच्चितः,12	प्रवेश_करते_हैं	एन्टेर्स्				
+6	यत्	7	यद्यतयो	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,5;नित्य_सम्बन्धः,13	जिसमें	इन्_त्हिच्ह्				
+7	यतयः	6	0	यति{पुं}{1;बहु}/यति{स्त्री}{1;बहु}	यति{पुं}{1;बहु}	कर्ता,5	यत्नशील_संन्यासी_महात्माजन	ग्रेअट्_सगेस्				
+8	वीत-रागाः	5	वीतरागाः	वीतराग{पुं}{1;बहु}	वीत-राग{पुं}{1;बहु}	विशेषणम्,7	आसक्तिरहित	इन्_ट्हे_रेनोउन्चेड्_ओर्डेर्_ओङ्_लिङे	<वीत-रागाः>भ्स्5			
+9	यत्	9	यदिच्छन्तो	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,10;नित्य_सम्बन्धः,13	जिसको_(परमपद_को)	ट्हट्_त्हिच्ह्				
+10	इच्छन्तः	10	0	इच्छत्{पुं}{1;बहु}	इष्2{कृत्_प्रत्ययः:शतृ;इषुँ;तुदादिः;पुं}{1;बहु}	वर्तमानसमानकालः,12	चाहनेवाले_(ब्रह्मचारी_लोग)	डेसिरिन्ग्				
+11	ब्रह्म-चर्यम्	12	ब्रह्मचर्यं	ब्रह्मचर्य{नपुं}{1;एक}/ब्रह्मचर्य{नपुं}{2;एक}	ब्रह्मचर्य{नपुं}{2;एक}	कर्म,12	ब्रह्मचर्य_का	चेलिबच्य्	<ब्रह्म-चर्यम्>ठ्4			
+12	चरन्ति	13	चरन्ति	चरत्{नपुं}{1;बहु}/चरत्{नपुं}{2;बहु}/चर्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;चरँ;भ्वादिः}	चर्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;चरँ;भ्वादिः}		आचरण_करते_हैं	प्रच्टिचेस्				
+12.1	(च)	11	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,12	(और)	अल्सो				
+13	तत्	14	तत्ते	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	विशेषणम्,15	उस	ट्हट्				
+14	ते	17	0	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	सम्प्रदानम्,17	तेरे_लिये	उन्टो_योउ				
+15	पदम्	15	पदं	पद्{पुं}{2;एक}/पद{नपुं}{1;एक}/पद{नपुं}{2;एक}	पद{नपुं}{2;एक}	कर्म,17	परमपद_को	सिटुअटिओन्				
+16	सङ्ग्रहेण	18	सङ्ग्रहेण	सङ्ग्रह{पुं}{3;एक}	सङ्ग्रह{पुं}{3;एक}	क्रियाविशेषणम्,17	संक्षेप_से	इन्_सुम्मर्य्				
+17	प्रवक्ष्ये	19	प्रवक्ष्ये	प्र_वह्1{कर्तरि;लृट्;उ;एक;उभयपदी;वहँ;भ्वादिः}/प्र_वह्1{कर्मणि;लृट्;उ;एक;आत्मनेपदी;वहँ;भ्वादिः}/प्र_वह्1{कर्मणि;लृङ्;उ;एक;आत्मनेपदी;वहँ;भ्वादिः}	प्र_वच्1{कर्तरि;लृट्;उ;एक;आत्मनेपदी;प्र_वचँ;अदादिः}	अभिहितकर्ता,17.1;सकर्मकः	कहूँगा	स्हल्ल्_एद्प्लइन्				
+17.1	(अहम्)	16	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,17	(मैं)	ई				

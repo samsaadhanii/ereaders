@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sannyAsasya	4	sannyAsasya	sannyAsa{puM}{6;eka}	sannyAsa{puM}{6;eka}	sup_samucciwaH,6	saMnyAsa	renunciation				
-2	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	viSeRaNam,10	he_mahAbAho	O_Mighty-armed_one	<mahaw-bAho>Bs6			
-3	wawwvam	8	wawwvamicCAmi	wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka}/wawwva{napuM}{1;eka}/wawwva{napuM}{2;eka}	wawwva{napuM}{2;eka}	karma,5	wawwva_ko	truth				
-4	icCAmi	11	icCAmi	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	aBihiwa_karwA,10.1;akarmakaH	cAhawA_hUz					
-5	vexiwum	10	vexiwum	vix1{kqw_prawyayaH:wumun;vixaz;axAxiH}/vix3{kqw_prawyayaH:wumun;vixLz;wuxAxiH}	vix1{kqw_prawyayaH:wumun;vixaz;axAxiH}	karma,4	jAnanA	wish_to_understand				
-6	wyAgasya	5	wyAgasya	wyAga{puM}{6;eka}	wyAga{puM}{6;eka}	RaRTIsambanXaH,3	wyAga_ke	of_renunciation				
-7	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	also				
-8	hqRIkeSa	2	hqRIkeSa	hqRIkeSa{puM}{8;eka}	hqRIkeSa{puM}{8;eka}	viSeRaNam,10	he_hqRIkeSa	O_master_of_the_senses				
-9	pqWak	7	pqWakkeSiniRUxana	pqWak{avya}	pqWak{avya}	kriyAviSeRaNam,4	pqWak-pqWak	differently				
-10	keSiniRUxana	3	0	keSiniRUxana{puM}{8;eka}	keSiniRUxana{puM}{8;eka}	samboXyaH,4	he_keSiniRUxana	O_killer_of_the_Kesi_demon				
-10.1	(aham)	9	()	asmax{1;eka}	asmax{1;eka}	karwA,4						
+1	सन्न्यासस्य	4	सन्न्यासस्य	सन्न्यास{पुं}{6;एक}	सन्न्यास{पुं}{6;एक}	सुप्_समुच्चितः,6	संन्यास	रेनुन्चिअटिओन्				
+2	महान्-बाहो	1	महाबाहो	महाबाहु{पुं}{8;एक}/महाबाहु{नपुं}{8;एक}	महाबाहु{पुं}{8;एक}	विशेषणम्,10	हे_महाबाहो	औ_ंइग्ह्ट्य्-अर्मेड्_ओने	<महत्-बाहो>भ्स्6			
+3	तत्त्वम्	8	तत्त्वमिच्छामि	तत्त्व{नपुं}{1;एक}/तत्त्व{नपुं}{2;एक}/तत्त्व{नपुं}{1;एक}/तत्त्व{नपुं}{2;एक}	तत्त्व{नपुं}{2;एक}	कर्म,5	तत्त्व_को	ट्रुट्ह्				
+4	इच्छामि	11	इच्छामि	इष्2{कर्तरि;लट्;उ;एक;परस्मैपदी;इषुँ;तुदादिः}	इष्2{कर्तरि;लट्;उ;एक;परस्मैपदी;इषुँ;तुदादिः}	अभिहित_कर्ता,10.1;अकर्मकः	चाहता_हूँ					
+5	वेदितुम्	10	वेदितुम्	विद्1{कृत्_प्रत्ययः:तुमुन्;विदँ;अदादिः}/विद्3{कृत्_प्रत्ययः:तुमुन्;विदॢँ;तुदादिः}	विद्1{कृत्_प्रत्ययः:तुमुन्;विदँ;अदादिः}	कर्म,4	जानना	तिस्ह्_टो_उन्डेर्स्टन्ड्				
+6	त्यागस्य	5	त्यागस्य	त्याग{पुं}{6;एक}	त्याग{पुं}{6;एक}	षष्ठीसम्बन्धः,3	त्याग_के	ओङ्_रेनुन्चिअटिओन्				
+7	च	6	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	और	अल्सो				
+8	हृषीकेश	2	हृषीकेश	हृषीकेश{पुं}{8;एक}	हृषीकेश{पुं}{8;एक}	विशेषणम्,10	हे_हृषीकेश	औ_मस्टेर्_ओङ्_ट्हे_सेन्सेस्				
+9	पृथक्	7	पृथक्केशिनिषूदन	पृथक्{अव्य}	पृथक्{अव्य}	क्रियाविशेषणम्,4	पृथक्-पृथक्	डिङ्ङेरेन्ट्ल्य्				
+10	केशिनिषूदन	3	0	केशिनिषूदन{पुं}{8;एक}	केशिनिषूदन{पुं}{8;एक}	सम्बोध्यः,4	हे_केशिनिषूदन	औ_किल्लेर्_ओङ्_ट्हे_खेसि_डेमोन्				
+10.1	(अहम्)	9	()	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,4						

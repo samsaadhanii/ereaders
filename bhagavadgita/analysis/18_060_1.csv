@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sva-BAva-jena	10	svaBAvajena	svaBAvaja{puM}{3;eka}/svaBAvaja{napuM}{3;eka}	svaBAva-ja{napuM}{3;eka}	viSeRaNam,5	svABAvika	by_one's_own_nature	<<sva-BAva>T6-jena>U			
-2	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,11	he_kunwIpuwra	O_son_of_Kunti				
-3	nibaxXaH	12	nibaxXaH	nibaxXa{puM}{1;eka}	ni_banX1{kqw_prawyayaH:kwa;ni_banXaz;kryAxiH;puM}{1;eka}	viSeRaNam,14.1	bazXA_huA	conditioned				
-4	svena	9	svena	sva{puM}{3;eka}/sva{napuM}{3;eka}/sva{puM}{3;eka}/sva{napuM}{3;eka}	sva{napuM}{3;eka}	viSeRaNam,5	apane	by_one's_own				
-5	karmaNA	11	karmaNA	karman{napuM}{3;eka}	karman{napuM}{3;eka}	karaNam,6	karma_se	activities				
-6	karwum	4	karwuM	kq1{kqw_prawyayaH:wumun;kqF;BvAxiH}/kq2{kqw_prawyayaH:wumun;kqF;svAxiH}/kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	prayojanam,8	karanA	to_do				
-7	na	5	necCasi	na{avya}/nas{swrI}{8;eka}	na{avya}	prawiReXaH,8	nahIM	not				
-8	icCasi	6	0	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}		cAhawA	like				
-9	yaw	2	yanmohAwkariRyasyavaSoZpi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	karma,6;niwya_sambanXaH,14	jisako_(karma_ko)	that				
-10	mohAw	3	0	moha{puM}{5;eka}	moha{puM}{5;eka}	hewuH,6	moha_ke_kAraNa	by_illusion				
-11	kariRyasi	15	0	kq2{karwari;lqt;ma;eka;parasmEpaxI;kqF;svAxiH}/kq3{karwari;lqt;ma;eka;parasmEpaxI;dukqF;wanAxiH}/kQ1{karwari;lqt;ma;eka;parasmEpaxI;kQ;wuxAxiH}/kQ2{karwari;lqt;ma;eka;parasmEpaxI;kQF;kryAxiH}	kq3{karwari;lqt;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,14.1;sakarmakaH	karoge	will_act				
-12	a-vaSaH	14	0	avaSa{puM}{1;eka}/avaSas{swrI}{1;eka}	avaSa{puM}{1;eka}	viSeRaNam,14.1	paravaSa_hokara	imperceptibly	<na-vaSaH>Tn			
-13	api	8	0	api{avya}	api{avya}	sambanXaH,14	BI	also				
-14	waw	7	waw	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,11	usako	that				
-14.1	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wuma)	you				
+1	स्व-भाव-जेन	10	स्वभावजेन	स्वभावज{पुं}{3;एक}/स्वभावज{नपुं}{3;एक}	स्वभाव-ज{नपुं}{3;एक}	विशेषणम्,5	स्वाभाविक	ब्य्_ओने'स्_ओत्न्_नटुरे	<<स्व-भाव>ठ्6-जेन>ऊ			
+2	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,11	हे_कुन्तीपुत्र	औ_सोन्_ओङ्_खुन्टि				
+3	निबद्धः	12	निबद्धः	निबद्ध{पुं}{1;एक}	नि_बन्ध्1{कृत्_प्रत्ययः:क्त;नि_बन्धँ;क्र्यादिः;पुं}{1;एक}	विशेषणम्,14.1	बँधा_हुआ	चोन्डिटिओनेड्				
+4	स्वेन	9	स्वेन	स्व{पुं}{3;एक}/स्व{नपुं}{3;एक}/स्व{पुं}{3;एक}/स्व{नपुं}{3;एक}	स्व{नपुं}{3;एक}	विशेषणम्,5	अपने	ब्य्_ओने'स्_ओत्न्				
+5	कर्मणा	11	कर्मणा	कर्मन्{नपुं}{3;एक}	कर्मन्{नपुं}{3;एक}	करणम्,6	कर्म_से	अच्टिविटिएस्				
+6	कर्तुम्	4	कर्तुं	कृ1{कृत्_प्रत्ययः:तुमुन्;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:तुमुन्;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	प्रयोजनम्,8	करना	टो_डो				
+7	न	5	नेच्छसि	न{अव्य}/नस्{स्त्री}{8;एक}	न{अव्य}	प्रतिषेधः,8	नहीं	नोट्				
+8	इच्छसि	6	0	इष्2{कर्तरि;लट्;म;एक;परस्मैपदी;इषुँ;तुदादिः}	इष्2{कर्तरि;लट्;म;एक;परस्मैपदी;इषुँ;तुदादिः}		चाहता	लिके				
+9	यत्	2	यन्मोहात्करिष्यस्यवशोऽपि	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यत्{अव्य}	कर्म,6;नित्य_सम्बन्धः,14	जिसको_(कर्म_को)	ट्हट्				
+10	मोहात्	3	0	मोह{पुं}{5;एक}	मोह{पुं}{5;एक}	हेतुः,6	मोह_के_कारण	ब्य्_इल्लुसिओन्				
+11	करिष्यसि	15	0	कृ2{कर्तरि;लृट्;म;एक;परस्मैपदी;कृञ्;स्वादिः}/कृ3{कर्तरि;लृट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}/कॄ1{कर्तरि;लृट्;म;एक;परस्मैपदी;कॄ;तुदादिः}/कॄ2{कर्तरि;लृट्;म;एक;परस्मैपदी;कॄञ्;क्र्यादिः}	कृ3{कर्तरि;लृट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	अभिहितकर्ता,14.1;सकर्मकः	करोगे	तिल्ल्_अच्ट्				
+12	अ-वशः	14	0	अवश{पुं}{1;एक}/अवशस्{स्त्री}{1;एक}	अवश{पुं}{1;एक}	विशेषणम्,14.1	परवश_होकर	इम्पेर्चेप्टिब्ल्य्	<न-वशः>ठ्न्			
+13	अपि	8	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,14	भी	अल्सो				
+14	तत्	7	तत्	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्म,11	उसको	ट्हट्				
+14.1	(त्वम्)	13	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,11	(तुम)	योउ				

@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	9	na	na{avya}	na{avya}	prawiReXaH,3	nahIM	not				
-2	waw(i+)	7	waxaswi	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,3;niwya_sambanXaH,13	vaha	that				
-3	aswi	10	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,2;akarmakaH	hE	is				
-4	pqWivyAm	1	pqWivyAM	pqWivI{swrI}{7;eka}	pqWivI{swrI}{7;eka}	anyawaraH,7	pqWivI_meM	within_the_universe				
-5	vA	2	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,4	yA	or				
-6	xivi	3	xivi	xiv{swrI}{7;eka}	xiv{swrI}{7;eka}	anyawaraH,7	AkASa_meM	in_the_higher_planetary_system				
-7	xeveRu	5	xeveRu	xeva{puM}{7;bahu}	xeva{puM}{7;bahu}	aXikaraNam,3	xevawAoM_meM	amongst_the_demigods				
-8	vA	4	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,7	aWavA	or				
-9	punaH	6	punaH	punaH{avya}	punaH{avya}	kriyAviSeRaNam,3	waWA_inake_sivA_Ora_kahIM_BI	again				
-10	sawwvam	8	sawwvaM	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	viXeya_viSeRaNam,3	sawwva	existence				
-11	prakqwi-jEH	12	prakqwijErmukwaM	prakqwija{puM}{3;bahu}/prakqwija{napuM}{3;bahu}	prakqwi-ja{napuM}{3;bahu}	viSeRaNam,17	prakqwi_se_uwpanna	under_the_influence_of_material_nature	<prakqwi-jEH>U			
-12	mukwam	16	0	mukwa{puM}{2;eka}/mukwa{napuM}{1;eka}/mukwa{napuM}{2;eka}	muc1{kqw_prawyayaH:kwa;mucLz;wuxAxiH;napuM}{1;eka}	viXeya_viSeRaNam,15	rahiwa	liberated				
-13	yaw(i-)	11	yaxeBiH	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,15	jo	that				
-14	eBiH	13	0	ixam{puM}{3;bahu}/ixam{napuM}{3;bahu}	ixam{napuM}{3;bahu}	viSeRaNam,17	ina	by_this				
-15	syAw	17	syAwwriBirguNEH	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,13;akarmakaH	ho	so_becomes				
-16	wriBiH	14	0	wri{puM}{3;bahu}/wri{puM}{3;bahu}/wri{napuM}{3;bahu}	wri{napuM}{3;bahu}	viSeRaNam,17	wInoM	by_three				
-17	guNEH	15	0	guNa{puM}{3;bahu}	guNa{puM}{3;bahu}	karaNam,12	guNoM_se	modes_of_material_nature				
+1	न	9	न	न{अव्य}	न{अव्य}	प्रतिषेधः,3	नहीं	नोट्				
+2	तत्(इ+)	7	तदस्ति	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्ता,3;नित्य_सम्बन्धः,13	वह	ट्हट्				
+3	अस्ति	10	0	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,2;अकर्मकः	है	इस्				
+4	पृथिव्याम्	1	पृथिव्यां	पृथिवी{स्त्री}{7;एक}	पृथिवी{स्त्री}{7;एक}	अन्यतरः,7	पृथिवी_में	तिट्हिन्_ट्हे_उनिवेर्से				
+5	वा	2	वा	वा{अव्य}	वा{अव्य}	अन्यतर_द्योतकः,4	या	ओर्				
+6	दिवि	3	दिवि	दिव्{स्त्री}{7;एक}	दिव्{स्त्री}{7;एक}	अन्यतरः,7	आकाश_में	इन्_ट्हे_हिग्हेर्_प्लनेटर्य्_स्य्स्टेम्				
+7	देवेषु	5	देवेषु	देव{पुं}{7;बहु}	देव{पुं}{7;बहु}	अधिकरणम्,3	देवताओं_में	अमोन्ग्स्ट्_ट्हे_डेमिगोड्स्				
+8	वा	4	वा	वा{अव्य}	वा{अव्य}	अन्यतर_द्योतकः,7	अथवा	ओर्				
+9	पुनः	6	पुनः	पुनः{अव्य}	पुनः{अव्य}	क्रियाविशेषणम्,3	तथा_इनके_सिवा_और_कहीं_भी	अगइन्				
+10	सत्त्वम्	8	सत्त्वं	सत्त्व{पुं}{2;एक}/सत्त्व{नपुं}{1;एक}/सत्त्व{नपुं}{2;एक}/सत्त्व{नपुं}{1;एक}/सत्त्व{नपुं}{2;एक}	सत्त्व{नपुं}{1;एक}	विधेय_विशेषणम्,3	सत्त्व	एदिस्टेन्चे				
+11	प्रकृति-जैः	12	प्रकृतिजैर्मुक्तं	प्रकृतिज{पुं}{3;बहु}/प्रकृतिज{नपुं}{3;बहु}	प्रकृति-ज{नपुं}{3;बहु}	विशेषणम्,17	प्रकृति_से_उत्पन्न	उन्डेर्_ट्हे_इन्ङ्लुएन्चे_ओङ्_मटेरिअल्_नटुरे	<प्रकृति-जैः>ऊ			
+12	मुक्तम्	16	0	मुक्त{पुं}{2;एक}/मुक्त{नपुं}{1;एक}/मुक्त{नपुं}{2;एक}	मुच्1{कृत्_प्रत्ययः:क्त;मुचॢँ;तुदादिः;नपुं}{1;एक}	विधेय_विशेषणम्,15	रहित	लिबेरटेड्				
+13	यत्(इ-)	11	यदेभिः	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	कर्ता,15	जो	ट्हट्				
+14	एभिः	13	0	इदम्{पुं}{3;बहु}/इदम्{नपुं}{3;बहु}	इदम्{नपुं}{3;बहु}	विशेषणम्,17	इन	ब्य्_ट्हिस्				
+15	स्यात्	17	स्यात्त्रिभिर्गुणैः	अस्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,13;अकर्मकः	हो	सो_बेचोमेस्				
+16	त्रिभिः	14	0	त्रि{पुं}{3;बहु}/त्रि{पुं}{3;बहु}/त्रि{नपुं}{3;बहु}	त्रि{नपुं}{3;बहु}	विशेषणम्,17	तीनों	ब्य्_ट्ह्रेए				
+17	गुणैः	15	0	गुण{पुं}{3;बहु}	गुण{पुं}{3;बहु}	करणम्,12	गुणों_से	मोडेस्_ओङ्_मटेरिअल्_नटुरे				

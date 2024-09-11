@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yawawaH	4	yawawo	yawa{wasil}	yawa{wasil}	viSeRaNam,6	yawna_karawe_hue	who_is_practising_self-control				
-2	hi	11	hyapi	hi{avya}	hi{avya}	sambanXaH,9	wo	certainly				
-3	api	5	0	api{avya}	api{avya}	sambanXaH,2	BI	even				
-4	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,9	he_arjuna	O_son_of_Kunti				
-5	puruRasya	6	puruRasya	puruRa{puM}{6;eka}	puruRa{puM}{6;eka}	RaRTIsambanXaH,7	puruRa_ke	of_man				
-6	vipaSciwaH	7	vipaSciwaH	vipaSciw{puM}{1;bahu}/vipaSciw{puM}{2;bahu}/vipaSciw{puM}{5;eka}/vipaSciw{puM}{6;eka}/vipaSciw{napuM}{5;eka}/vipaSciw{napuM}{6;eka}	vipaSciw{puM}{6;eka}	viSeRaNam,6	buxXimAn	of_wise				
-7	inxriyANi	3	inxriyANi	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}	inxriya{napuM}{1;bahu}	karwA,9	inxriyAz	the_senses				
-8	pramAWIni	2	pramAWIni	pramAWin{napuM}{1;bahu}/pramAWin{napuM}{2;bahu}	pramAWin{napuM}{1;bahu}	viSeRaNam,7	ye_pramaWana-svaBAvavAlI	turbulent_by_nature				
-9	haranwi	10	haranwi	haraw{napuM}{1;bahu}/haraw{napuM}{2;bahu}/hq1{karwari;lat;pra;bahu;parasmEpaxI;hqF;BvAxiH}	hq1{karwari;lat;pra;bahu;parasmEpaxI;hqF;BvAxiH}	aBihiwa_karwA,7;sakarmakaH	hara_lewI_hEM	will_carry_away				
-10	prasaBam	9	prasaBaM	prasaBa{napuM}{1;eka}/prasaBa{napuM}{2;eka}	prasaBa{napuM}{2;eka}	kriyAviSeRaNam,9	balAw	forcibly				
-11	manaH	8	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{2;eka}	karma,9	mana_ko	the_mind				
+1	यततः	4	यततो	यत{तसिल्}	यत{तसिल्}	विशेषणम्,6	यत्न_करते_हुए	त्हो_इस्_प्रच्टिसिन्ग्_सेल्ङ्-चोन्ट्रोल्				
+2	हि	11	ह्यपि	हि{अव्य}	हि{अव्य}	सम्बन्धः,9	तो	चेर्टइन्ल्य्				
+3	अपि	5	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,2	भी	एवेन्				
+4	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,9	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+5	पुरुषस्य	6	पुरुषस्य	पुरुष{पुं}{6;एक}	पुरुष{पुं}{6;एक}	षष्ठीसम्बन्धः,7	पुरुष_के	ओङ्_मन्				
+6	विपश्चितः	7	विपश्चितः	विपश्चित्{पुं}{1;बहु}/विपश्चित्{पुं}{2;बहु}/विपश्चित्{पुं}{5;एक}/विपश्चित्{पुं}{6;एक}/विपश्चित्{नपुं}{5;एक}/विपश्चित्{नपुं}{6;एक}	विपश्चित्{पुं}{6;एक}	विशेषणम्,6	बुद्धिमान्	ओङ्_तिसे				
+7	इन्द्रियाणि	3	इन्द्रियाणि	इन्द्रिय{नपुं}{1;बहु}/इन्द्रिय{नपुं}{2;बहु}	इन्द्रिय{नपुं}{1;बहु}	कर्ता,9	इन्द्रियाँ	ट्हे_सेन्सेस्				
+8	प्रमाथीनि	2	प्रमाथीनि	प्रमाथिन्{नपुं}{1;बहु}/प्रमाथिन्{नपुं}{2;बहु}	प्रमाथिन्{नपुं}{1;बहु}	विशेषणम्,7	ये_प्रमथन-स्वभाववाली	टुर्बुलेन्ट्_ब्य्_नटुरे				
+9	हरन्ति	10	हरन्ति	हरत्{नपुं}{1;बहु}/हरत्{नपुं}{2;बहु}/हृ1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;हृञ्;भ्वादिः}	हृ1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;हृञ्;भ्वादिः}	अभिहित_कर्ता,7;सकर्मकः	हर_लेती_हैं	तिल्ल्_चर्र्य्_अतय्				
+10	प्रसभम्	9	प्रसभं	प्रसभ{नपुं}{1;एक}/प्रसभ{नपुं}{2;एक}	प्रसभ{नपुं}{2;एक}	क्रियाविशेषणम्,9	बलात्	ङोर्चिब्ल्य्				
+11	मनः	8	मनः	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}/मनस्{नपुं}{8;एक}	मनस्{नपुं}{2;एक}	कर्म,9	मन_को	ट्हे_मिन्ड्				

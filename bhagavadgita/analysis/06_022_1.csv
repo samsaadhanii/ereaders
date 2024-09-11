@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yam	1	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	karma,2	jisako	that_which				
-2	labXvA	2	labXvA	laB1{kqw_prawyayaH:kwvA;dulaBazR;BvAxiH}	laB1{kqw_prawyayaH:kwvA;dulaBazR;BvAxiH}	pUrvakAlaH,6	prApwa_hokara	by_attainment				
-3	ca	9	cAparaM	ca{avya}	ca{avya}	sambanXaH,6	Ora	also				
-4	a-param	4	0	a-para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	apara{puM}{2;eka}	viSeRaNam,5	xUsarA	any_other	<na-paraM>Tn			
-5	lABam	5	lABaM	lABa{puM}{2;eka}	lABa{puM}{2;eka}	karma,6	lABa_ko	gain				
-6	manyawe	8	manyawe	manyawA{swrI}{1;xvi}/manyawA{swrI}{2;xvi}/man1{karmaNi;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}		mAnawA	does_not_mind				
-7	na	7	nAXikaM	na{avya}	na{avya}	prawiReXaH,6	nahIM	never				
-8	aXikam	6	0	aXika{puM}{2;eka}/aXika{napuM}{1;eka}/aXika{napuM}{2;eka}	aXika{puM}{2;eka}	karmasamAnAXikaraNam,6	aXika	more_than_that				
-9	wawaH	3	wawaH	wawaH{avya}	wawaH{avya}	apAxAnam,6	usase	from_that				
-10	yasmin	10	yasminsWiwo	yax{puM}{7;eka}/yax{napuM}{7;eka}	yax{puM}{7;eka}	aXikaraNam,11	jisa_avasWA_meM					
-11	sWiwaH	11	0	sWiwa{puM}{1;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;eka}	viSeRaNam,16.1	sWiwa	in_which				
-12	na	16	na	na{avya}	na{avya}	prawiReXaH,16	nahIM	never				
-13	xuHKena	14	xuHKena	xuHKa{napuM}{3;eka}	xuHKa{napuM}{3;eka}	karwA,16	xuHKa_se	by_miseries				
-14	guruNA	13	guruNApi	guru{puM}{3;eka}	guru{puM}{3;eka}	viSeRaNam,13	bada़e_BArI	very_difficult				
-15	api	15	0	api{avya}	api{avya}	sambanXaH,13	BI	even_though				
-16	vicAlyawe	17	vicAlyawe	vicAlyawe	vi_cal1_Nic{karmaNi;lat;pra;eka;AwmanepaxI;vi_calaz_Nic;BvAxiH}		calAyamAna_howA_hE	becomes_shaken				
-16.1	(puruRaH)	12	(0)	(puruRa{puM}{1;eka})	(puruRa{puM}{1;eka})	karma,16	(puruRa)	person				
+1	यम्	1	यं	यद्{पुं}{2;एक}	यद्{पुं}{2;एक}	कर्म,2	जिसको	ट्हट्_त्हिच्ह्				
+2	लब्ध्वा	2	लब्ध्वा	लभ्1{कृत्_प्रत्ययः:क्त्वा;डुलभँष्;भ्वादिः}	लभ्1{कृत्_प्रत्ययः:क्त्वा;डुलभँष्;भ्वादिः}	पूर्वकालः,6	प्राप्त_होकर	ब्य्_अट्टइन्मेन्ट्				
+3	च	9	चापरं	च{अव्य}	च{अव्य}	सम्बन्धः,6	और	अल्सो				
+4	अ-परम्	4	0	अ-पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	अपर{पुं}{2;एक}	विशेषणम्,5	दूसरा	अन्य्_ओट्हेर्	<न-परं>ठ्न्			
+5	लाभम्	5	लाभं	लाभ{पुं}{2;एक}	लाभ{पुं}{2;एक}	कर्म,6	लाभ_को	गइन्				
+6	मन्यते	8	मन्यते	मन्यता{स्त्री}{1;द्वि}/मन्यता{स्त्री}{2;द्वि}/मन्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;मनँ;दिवादिः}/मन्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;मनुँ;तनादिः}	मन्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;मनँ;दिवादिः}		मानता	डोएस्_नोट्_मिन्ड्				
+7	न	7	नाधिकं	न{अव्य}	न{अव्य}	प्रतिषेधः,6	नहीं	नेवेर्				
+8	अधिकम्	6	0	अधिक{पुं}{2;एक}/अधिक{नपुं}{1;एक}/अधिक{नपुं}{2;एक}	अधिक{पुं}{2;एक}	कर्मसमानाधिकरणम्,6	अधिक	मोरे_ट्हन्_ट्हट्				
+9	ततः	3	ततः	ततः{अव्य}	ततः{अव्य}	अपादानम्,6	उससे	ङ्रोम्_ट्हट्				
+10	यस्मिन्	10	यस्मिन्स्थितो	यद्{पुं}{7;एक}/यद्{नपुं}{7;एक}	यद्{पुं}{7;एक}	अधिकरणम्,11	जिस_अवस्था_में					
+11	स्थितः	11	0	स्थित{पुं}{1;एक}	स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{1;एक}	विशेषणम्,16.1	स्थित	इन्_त्हिच्ह्				
+12	न	16	न	न{अव्य}	न{अव्य}	प्रतिषेधः,16	नहीं	नेवेर्				
+13	दुःखेन	14	दुःखेन	दुःख{नपुं}{3;एक}	दुःख{नपुं}{3;एक}	कर्ता,16	दुःख_से	ब्य्_मिसेरिएस्				
+14	गुरुणा	13	गुरुणापि	गुरु{पुं}{3;एक}	गुरु{पुं}{3;एक}	विशेषणम्,13	बडॆअञए_भारी	वेर्य्_डिङ्ङिचुल्ट्				
+15	अपि	15	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,13	भी	एवेन्_ट्होउग्ह्				
+16	विचाल्यते	17	विचाल्यते	विचाल्यते	वि_चल्1_णिच्{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वि_चलँ_णिच्;भ्वादिः}		चलायमान_होता_है	बेचोमेस्_स्हकेन्				
+16.1	(पुरुषः)	12	(0)	(पुरुष{पुं}{1;एक})	(पुरुष{पुं}{1;एक})	कर्म,16	(पुरुष)	पेर्सोन्				

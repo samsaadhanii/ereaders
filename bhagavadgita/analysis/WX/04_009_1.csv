@@ -1,0 +1,20 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	janma	4	janma	janma{napuM}{8;eka}/janman{napuM}{1;eka}/janman{napuM}{2;eka}	janman{napuM}{2;eka}	sup_samucciwaH,2	janma	birth				
+2	karma	5	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8	karma	work				
+3	ca	1	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	also				
+4	me	2	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,1	mere	of_Mine				
+5	xivyam	3	xivyamevaM	xivya{puM}{2;eka}/xivya{napuM}{1;eka}/xivya{napuM}{2;eka}	xivya{napuM}{2;eka}	viSeRaNam,1	xivya	transcendental				
+6	evam	7		evam{avya}	evam{avya}	kriyAviSeRaNam,8	isa_prakAra	like_this				
+7	yaH	9	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,8;niwya_sambanXaH,20	jo_(manuRya)	anyone_who				
+8	vewwi	6	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,7	jAna_lewA_hE	knows				
+9	wawwvawaH	8	wawwvawaH	wawwvawaH{avya}	wawwvawaH{avya}	kriyAviSeRaNam,8	wawwva_se	in_reality				
+10	wyakwvA	19	wyakwvA	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	wyaj1{avya:kwvA;wyajaz;BvAxiH}	pUrvakAlaH,15	wyAgakara	leaving_aside				
+11	xeham	20	xehaM	xeha{puM}{2;eka}/xeha{napuM}{1;eka}/xeha{napuM}{2;eka}	xeha{napuM}{2;eka}	karma,10	SarIra_ko	body				
+12	punaH	11	punarjanma	punaH{avya}	punaH{avya}	kriyAviSeRaNam,15	Pira	again				
+13	janma	10		janma{napuM}{8;eka}/janman{napuM}{1;eka}/janman{napuM}{2;eka}	janman{napuM}{2;eka}	karma,15	janma_ko	birth				
+14	na	12	nEwi	na{avya}	na{avya}	prawiReXaH,15	nahIM	never				
+15	ewi	13		i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	aBihiwa_karwA,20;sakarmaka	prApwa_howA_hE	does_attain				
+16	mAm	14	mAmewi	asmax{2;eka}	asmax{2;eka}	karma,17	muJe	unto_Me				
+17	ewi	15		i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	aBihiwa_karwA,20;sakarmaka	prApwa_howA_hE	does_attain				
+19	arjuna	16		arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,15	he_arjuna	O_Arjuna				
+20	(saH)	17	()	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,15	(vaha)	he				

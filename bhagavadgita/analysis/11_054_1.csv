@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	BakwyA	5	BakwyA	Bakwi{swrI}{3;eka}	Bakwi{swrI}{3;eka}	karaNam,4	Bakwi_ke_xvArA	by_devotional_service				
-2	wu	1	wvananyayA	wu{avya}	wu{avya}	sambanXaH,4	paraMwu	but				
-3	an-anyayA	4	0	na-anyA{swrI}{3;eka}/anyA{swrI}{3;eka}	na-anyA{swrI}{3;eka}	viSeRaNam,1	ananya	without_being_mixed_with_fruitive_activities_or_speculative_knowledge	<na-anyayA>Bs6			
-4	SakyaH	14	Sakya	Sakya{puM}{1;eka}	Sak1{kqw_prawyayaH:yaw;Saklqz;svAxiH;puM}{1;eka}	aBihiwakarwA,5;akarmakaH	Sakya_hUz	possible				
-5	aham	7	ahamevaMviXoZrjuna	asmax{1;eka}	asmax{1;eka}	karwA,4	mEM	I				
-6	evaM-viXaH	6	0	evam-{avya}-viXa{puM}{1;eka}/viXas{puM}{8;eka}	evam-viXa{puM}{1;eka}	kriyAviSeRaNam,4	isa_prakAra	like_this	<evaM-viXaH>Bs6			
-7	arjuna	3	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,4	arjuna	O_Arjuna				
-8	jFAwum	10	jFAwuM	jFA1{kqw_prawyayaH:wumun;jFA;BvAxiH}/jFA2{kqw_prawyayaH:wumun;jFA;kryAxiH}	jFA2{kqw_prawyayaH:wumun;jFA;kryAxiH}	samucciwaH,10	jAnane_ke_liye	to_know				
-9	xraRtum	8	xraRtuM	xqS1{kqw_prawyayaH:wumun;xqSizr;BvAxiH}	xqS1{kqw_prawyayaH:wumun;xqSizr;BvAxiH}	samucciwaH,10	prawyakRa_xeKane_ke_liye	to_see				
-10	ca	11	ca	ca{avya}	ca{avya}	prayojanam,4	waWA	and				
-11	wawwvena	9	wawwvena	wawwva{napuM}{3;eka}/wawwva{napuM}{3;eka}	wawwva{napuM}{3;eka}	karaNam,8	wawwva_se	in_fact				
-12	praveRtum	12	praveRtuM	pra_viS1{kqw_prawyayaH:wumun;viS;wuxAxiH}	pra_viS1{kqw_prawyayaH:wumun;pra_viSaz;wuxAxiH}	samucciwaH,10	praveSa_karane_ke_liye	to_enter_into				
-13	ca	13	ca	ca{avya}	ca{avya}		BI	and				
-14	paranwapa	2	paranwapa	paranwapa{puM}{8;eka}/paranwapa{napuM}{8;eka}	paranwapa{puM}{8;eka}	viSeRaNam,7	he_paranwapa	O_mighty-armed_one				
+1	भक्त्या	5	भक्त्या	भक्ति{स्त्री}{3;एक}	भक्ति{स्त्री}{3;एक}	करणम्,4	भक्ति_के_द्वारा	ब्य्_डेवोटिओनल्_सेर्विचे				
+2	तु	1	त्वनन्यया	तु{अव्य}	तु{अव्य}	सम्बन्धः,4	परंतु	बुट्				
+3	अन्-अन्यया	4	0	न-अन्या{स्त्री}{3;एक}/अन्या{स्त्री}{3;एक}	न-अन्या{स्त्री}{3;एक}	विशेषणम्,1	अनन्य	तिट्होउट्_बेइन्ग्_मिदेड्_तिट्ह्_ङ्रुइटिवे_अच्टिविटिएस्_ओर्_स्पेचुलटिवे_क्नोत्लेड्गे	<न-अन्यया>भ्स्6			
+4	शक्यः	14	शक्य	शक्य{पुं}{1;एक}	शक्1{कृत्_प्रत्ययः:यत्;शक्लृँ;स्वादिः;पुं}{1;एक}	अभिहितकर्ता,5;अकर्मकः	शक्य_हूँ	पोस्सिब्ले				
+5	अहम्	7	अहमेवंविधोऽर्जुन	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,4	मैं	ई				
+6	एवं-विधः	6	0	एवम्-{अव्य}-विध{पुं}{1;एक}/विधस्{पुं}{8;एक}	एवम्-विध{पुं}{1;एक}	क्रियाविशेषणम्,4	इस_प्रकार	लिके_ट्हिस्	<एवं-विधः>भ्स्6			
+7	अर्जुन	3	0	अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,4	अर्जुन	औ_आर्जुन				
+8	ज्ञातुम्	10	ज्ञातुं	ज्ञा1{कृत्_प्रत्ययः:तुमुन्;ज्ञा;भ्वादिः}/ज्ञा2{कृत्_प्रत्ययः:तुमुन्;ज्ञा;क्र्यादिः}	ज्ञा2{कृत्_प्रत्ययः:तुमुन्;ज्ञा;क्र्यादिः}	समुच्चितः,10	जानने_के_लिये	टो_क्नोत्				
+9	द्रष्टुम्	8	द्रष्टुं	दृश्1{कृत्_प्रत्ययः:तुमुन्;दृशिँर्;भ्वादिः}	दृश्1{कृत्_प्रत्ययः:तुमुन्;दृशिँर्;भ्वादिः}	समुच्चितः,10	प्रत्यक्ष_देखने_के_लिये	टो_सेए				
+10	च	11	च	च{अव्य}	च{अव्य}	प्रयोजनम्,4	तथा	अन्ड्				
+11	तत्त्वेन	9	तत्त्वेन	तत्त्व{नपुं}{3;एक}/तत्त्व{नपुं}{3;एक}	तत्त्व{नपुं}{3;एक}	करणम्,8	तत्त्व_से	इन्_ङच्ट्				
+12	प्रवेष्टुम्	12	प्रवेष्टुं	प्र_विश्1{कृत्_प्रत्ययः:तुमुन्;विश्;तुदादिः}	प्र_विश्1{कृत्_प्रत्ययः:तुमुन्;प्र_विशँ;तुदादिः}	समुच्चितः,10	प्रवेश_करने_के_लिये	टो_एन्टेर्_इन्टो				
+13	च	13	च	च{अव्य}	च{अव्य}		भी	अन्ड्				
+14	परन्तप	2	परन्तप	परन्तप{पुं}{8;एक}/परन्तप{नपुं}{8;एक}	परन्तप{पुं}{8;एक}	विशेषणम्,7	हे_परन्तप	औ_मिग्ह्ट्य्-अर्मेड्_ओने				

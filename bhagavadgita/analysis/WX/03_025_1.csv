@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sakwAH	3	sakwAH	sakwa{puM}{1;bahu}/sakwa{puM}{8;bahu}/sakwA{swrI}{1;bahu}/sakwA{swrI}{2;bahu}/sakwA{swrI}{8;bahu}	Ranja1{kqw_prawyayaH:kwa;Ranjaz;BvAxiH;puM}{1;bahu}	viSeRaNam,3	Asakwa_hue	being_attached				
+2	karmaNi	2	karmaNyavixvAMso	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,1	karma_meM	prescribed_duties				
+3	a-vixvAMsaH	4	0	a-vixvas{puM}{1;bahu}/vixvas{puM}{8;bahu}	na-vixvas{puM}{1;bahu}	karwA,5	ajFAnIjana	the_ignorant	<na-vixvAMsaH>Tn			
+4	yaWA	5	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,5;niwya_sambanXaH,9	jisa_prakAra_(karma)	as_much_as				
+5	kurvanwi	6	kurvanwi	kurvaw{napuM}{1;bahu}/kurvaw{napuM}{2;bahu}/kurvaw{napuM}{8;bahu}/kq3{karwari;lat;pra;bahu;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;pra;bahu;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,3;sakarmakaH	karawe_hEM	do_it				
+6	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,5	he_BArawa	O_descendant_of_Bharata				
+7	kuryAw	12	kuryAxvixvAMswaWAsakwaScikIrRurlokasafgraham	kq3{karwari;viXilif;pra;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;viXilif;pra;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,8;sakarmakaH	kare	must_do				
+8	vixvAn	8	0	vixvas{puM}{1;eka}	vixvas{puM}{1;eka}	karwA,7	vixvAn	the_learned				
+9	waWA	11	0	waWA{avya}	waWA{avya}	kriyAviSeRaNam,7	usI_prakAra_(karma)	thus				
+10	a-sakwaH	7	0	a-sakwa{puM}{1;eka}	asakwa{puM}{1;eka}	viSeRaNam,8	Asakwirahiwa	without_attachment	<na-sakwaH>Tn			
+11	cikIrRuH	10	0	cikIrRu{puM}{1;eka}	cikIrRu{puM}{1;eka}	viSeRaNam,8	karanA_cAhawA_huA	desiring_to				
+12	loka-safgraham	9	0	loka-safgraha{puM}{2;eka}	loka-safgraha{puM}{2;eka}	karma,11	loka-saMgraha	leading_the_people_in_general	<loka-safgraham>T6			

@@ -1,31 +1,31 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	buxXiH	1	buxXirjFAnamasammohaH	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	Gataka,25	niScaya_karane_kI_Sakwi	intelligence				
-2	jFAnam	2	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	Gataka,25	yaWArWa_jFAna	knowledge				
-3	a-sammohaH	3	0	a-sammoha{puM}{1;eka}	na-sammoha{puM}{1;eka}	Gataka,25	asaMmUDawA	freedom_from_doubt	<na-sammohaH>Tn			
-4	kRamA	4	kRamA	kRamA{avya}/kRamA{swrI}{1;eka}	kRamA{swrI}{1;eka}	Gataka,25	kRamA	forgiveness				
-5	sawyam	5	sawyaM	sawyam{avya}/sawya{puM}{2;eka}/sawya{napuM}{1;eka}/sawya{napuM}{2;eka}	sawya{napuM}{1;eka}	Gataka,25	sawya	truthfulness				
-6	xamaH	6	xamaH	xama{puM}{1;eka}	xama{puM}{1;eka}	Gataka,25	inxriyoM_kA_vaSa_meM_karanA	control_of_the_senses				
-7	SamaH	7	SamaH	Sama{puM}{1;eka}	Sama{puM}{1;eka}	Gataka,25	mana_kA_nigraha	control_of_the_mind				
-8	suKam	9	suKaM	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{1;eka}	Gataka,25	suKa	happiness				
-9	xuHKam	10	xuHKaM	xuHKa{napuM}{1;eka}/xuHKa{napuM}{2;eka}	xuHKa{napuM}{1;eka}	Gataka,25	xuHKa	distress				
-10	BavaH	11	BavoZBAvo	Bava{puM}{1;eka}	Bava{puM}{1;eka}	Gataka,25	uwpawwi	birth				
-11	a-BAvaH	12	0	a-BAva{puM}{1;eka}	aBAva{puM}{1;eka}	Gataka,25	pralaya	death	<na-BAvaH>Tn			
-12	Bayam	14	BayaM	Baya{napuM}{1;eka}/Baya{napuM}{2;eka}	Baya{napuM}{1;eka}	Gataka,25	Baya	fear				
-13	ca	13	cABayameva	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora	and				
-14	a-Bayam	15	0	a-Baya{napuM}{1;eka}/Baya{napuM}{2;eka}	aBaya{napuM}{1;eka}	Gataka,25	aBaya	without_fear	<na-BayaM>Tn			
-15	eva	8	0	eva{avya}	eva{avya}	sambanXaH,14	waWA	also				
-16	ca	16	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,14	waWA	and				
-17	a-hiMsA	17	ahiMsA	a-hiMsA{swrI}{1;eka}	ahiMsA{swrI}{1;eka}	Gataka,25	ahiMsA	nonviolence	<na-hiMsA>Tn			
-18	samawA	18	samawA	samaw{puM}{3;eka}/samaw{napuM}{3;eka}/samawA{swrI}{1;eka}/samawA{swrI}{1;eka}	samawA{swrI}{1;eka}	Gataka,25	samawA	equilibrium				
-19	wuRtiH	19	wuRtiswapo	wuRti{swrI}{1;eka}	wuRti{swrI}{1;eka}	Gataka,25	saMwoRa	satisfaction				
-20	wapaH	20	0	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	Gataka,25	wapa	penance				
-21	xAnam	21	xAnaM	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{1;eka}	Gataka,25	xAna	charity				
-22	yaSaH	22	yaSoZyaSaH	yaSas{napuM}{1;eka}/yaSas{napuM}{2;eka}	yaSas{napuM}{1;eka}	Gataka,25	kIrwi	fame				
-23	a-yaSaH	23	0	a-yaSas{napuM}{1;eka}/yaSas{napuM}{2;eka}	na-yaSas{napuM}{1;eka}	Gataka,25	apakIrwi	infamy	<na-yaSaH>Bsmn			
-24	Bavanwi	30	Bavanwi	BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,25;akarmakaH	howe_hEM	become				
-25	BAvAH	27	BAvA	BAva{puM}{1;bahu}	BAva{puM}{1;bahu}	karwA,24	BAva	natures				
-26	BUwAnAm	25	BUwAnAM	BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}/BUwA{swrI}{6;bahu}	BUwa{puM}{6;bahu}	RaRTIsambanXaH,24	prANiyoM_ke	of_living_entities				
-27	mawwaH	28	mawwa	mawwa{puM}{1;eka}	mawwa{wasil}	apAxAnam,24	muJase	from_Me				
-28	eva	29	eva	eva{avya}	eva{avya}	sambanXaH,27	hI	certainly				
-29	pqWak-viXAH	26	pqWagviXAH	pqWak-{avya}-viXa{puM}{1;bahu}/viXA{swrI}{1;bahu}/viXA{swrI}{2;bahu}/viXas{puM}{1;eka}	pqWak-viXa{puM}{1;bahu}	viSeRaNam,25	nAnA_prakAra_ke	differently_arranged	<pqWak-viXAH>Bs6			
-29.1	(iwi)	24	(0)	(iwi{avya})	(iwi{avya})	GatakaxyowakaH.25	(Ese_ye)	thus				
+1	बुद्धिः	1	बुद्धिर्ज्ञानमसम्मोहः	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	घटक,25	निश्चय_करने_की_शक्ति	इन्टेल्लिगेन्चे				
+2	ज्ञानम्	2	0	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{1;एक}	घटक,25	यथार्थ_ज्ञान	क्नोत्लेड्गे				
+3	अ-सम्मोहः	3	0	अ-सम्मोह{पुं}{1;एक}	न-सम्मोह{पुं}{1;एक}	घटक,25	असंमूढता	ङ्रेएडोम्_ङ्रोम्_डोउब्ट्	<न-सम्मोहः>ठ्न्			
+4	क्षमा	4	क्षमा	क्षमा{अव्य}/क्षमा{स्त्री}{1;एक}	क्षमा{स्त्री}{1;एक}	घटक,25	क्षमा	ङोर्गिवेनेस्स्				
+5	सत्यम्	5	सत्यं	सत्यम्{अव्य}/सत्य{पुं}{2;एक}/सत्य{नपुं}{1;एक}/सत्य{नपुं}{2;एक}	सत्य{नपुं}{1;एक}	घटक,25	सत्य	ट्रुट्ह्ङुल्नेस्स्				
+6	दमः	6	दमः	दम{पुं}{1;एक}	दम{पुं}{1;एक}	घटक,25	इन्द्रियों_का_वश_में_करना	चोन्ट्रोल्_ओङ्_ट्हे_सेन्सेस्				
+7	शमः	7	शमः	शम{पुं}{1;एक}	शम{पुं}{1;एक}	घटक,25	मन_का_निग्रह	चोन्ट्रोल्_ओङ्_ट्हे_मिन्ड्				
+8	सुखम्	9	सुखं	सुखम्{अव्य}/सुख{पुं}{2;एक}/सुख{नपुं}{1;एक}/सुख{नपुं}{2;एक}	सुख{नपुं}{1;एक}	घटक,25	सुख	हप्पिनेस्स्				
+9	दुःखम्	10	दुःखं	दुःख{नपुं}{1;एक}/दुःख{नपुं}{2;एक}	दुःख{नपुं}{1;एक}	घटक,25	दुःख	डिस्ट्रेस्स्				
+10	भवः	11	भवोऽभावो	भव{पुं}{1;एक}	भव{पुं}{1;एक}	घटक,25	उत्पत्ति	बिर्ट्ह्				
+11	अ-भावः	12	0	अ-भाव{पुं}{1;एक}	अभाव{पुं}{1;एक}	घटक,25	प्रलय	डेअट्ह्	<न-भावः>ठ्न्			
+12	भयम्	14	भयं	भय{नपुं}{1;एक}/भय{नपुं}{2;एक}	भय{नपुं}{1;एक}	घटक,25	भय	ङेअर्				
+13	च	13	चाभयमेव	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,12	और	अन्ड्				
+14	अ-भयम्	15	0	अ-भय{नपुं}{1;एक}/भय{नपुं}{2;एक}	अभय{नपुं}{1;एक}	घटक,25	अभय	तिट्होउट्_ङेअर्	<न-भयं>ठ्न्			
+15	एव	8	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,14	तथा	अल्सो				
+16	च	16	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,14	तथा	अन्ड्				
+17	अ-हिंसा	17	अहिंसा	अ-हिंसा{स्त्री}{1;एक}	अहिंसा{स्त्री}{1;एक}	घटक,25	अहिंसा	नोन्विओलेन्चे	<न-हिंसा>ठ्न्			
+18	समता	18	समता	समत्{पुं}{3;एक}/समत्{नपुं}{3;एक}/समता{स्त्री}{1;एक}/समता{स्त्री}{1;एक}	समता{स्त्री}{1;एक}	घटक,25	समता	एऋउइलिब्रिउम्				
+19	तुष्टिः	19	तुष्टिस्तपो	तुष्टि{स्त्री}{1;एक}	तुष्टि{स्त्री}{1;एक}	घटक,25	संतोष	सटिस्ङच्टिओन्				
+20	तपः	20	0	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}	तपस्{नपुं}{1;एक}	घटक,25	तप	पेनन्चे				
+21	दानम्	21	दानं	दान{नपुं}{1;एक}/दान{नपुं}{2;एक}	दान{नपुं}{1;एक}	घटक,25	दान	च्हरिट्य्				
+22	यशः	22	यशोऽयशः	यशस्{नपुं}{1;एक}/यशस्{नपुं}{2;एक}	यशस्{नपुं}{1;एक}	घटक,25	कीर्ति	ङमे				
+23	अ-यशः	23	0	अ-यशस्{नपुं}{1;एक}/यशस्{नपुं}{2;एक}	न-यशस्{नपुं}{1;एक}	घटक,25	अपकीर्ति	इन्ङम्य्	<न-यशः>भ्स्म्न्			
+24	भवन्ति	30	भवन्ति	भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,25;अकर्मकः	होते_हैं	बेचोमे				
+25	भावाः	27	भावा	भाव{पुं}{1;बहु}	भाव{पुं}{1;बहु}	कर्ता,24	भाव	नटुरेस्				
+26	भूतानाम्	25	भूतानां	भूत{पुं}{6;बहु}/भूत{नपुं}{6;बहु}/भूता{स्त्री}{6;बहु}/भूता{स्त्री}{6;बहु}	भूत{पुं}{6;बहु}	षष्ठीसम्बन्धः,24	प्राणियों_के	ओङ्_लिविन्ग्_एन्टिटिएस्				
+27	मत्तः	28	मत्त	मत्त{पुं}{1;एक}	मत्त{तसिल्}	अपादानम्,24	मुझसे	ङ्रोम्_ंए				
+28	एव	29	एव	एव{अव्य}	एव{अव्य}	सम्बन्धः,27	ही	चेर्टइन्ल्य्				
+29	पृथक्-विधाः	26	पृथग्विधाः	पृथक्-{अव्य}-विध{पुं}{1;बहु}/विधा{स्त्री}{1;बहु}/विधा{स्त्री}{2;बहु}/विधस्{पुं}{1;एक}	पृथक्-विध{पुं}{1;बहु}	विशेषणम्,25	नाना_प्रकार_के	डिङ्ङेरेन्ट्ल्य्_अर्रन्गेड्	<पृथक्-विधाः>भ्स्6			
+29.1	(इति)	24	(0)	(इति{अव्य})	(इति{अव्य})	घटकद्योतकः.25	(ऐसे_ये)	ट्हुस्				

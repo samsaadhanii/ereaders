@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	a-Xarmam	5	aXarmaM	aXarma{puM}{2;eka}	aXarma{puM}{2;eka}	karma,5	aXarma_ko	irreligion	<na-XarmaM>Tn			
+2	Xarmam	6	Xarmamiwi	Xarma{puM}{2;eka}	Xarma{puM}{2;eka}	karmasamAnAXikaraNam,5	'yaha_Xarma	religion				
+3	iwi	7	0	iwi{avya}	iwi{avya}	karmasamAnAXikaraNa_xyowakaH,2	EsA	thus				
+4	yA	2	yA	yax{swrI}{1;eka}	yax{swrI}{1;eka}	karwA,5;niwya_sambanXaH,12	jo	which				
+5	manyawe	8	manyawe	manyawA{swrI}{1;xvi}/manyawA{swrI}{2;xvi}/man1{karmaNi;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}	aBihiwa_karwA,4;sakarmakaH	mAna_lewI_hE	thinks				
+6	wamasA	3	wamasAvqwA	wamas{napuM}{3;eka}	wamas{napuM}{3;eka}	karwA,7	wamoguNa_se	by_illusion				
+7	AvqwA	4	0	Avqw{swrI}{3;eka}	Af_vq2{kqw_prawyayaH:kwa;Af_vqF;svAxiH;swrI}{1;eka}	viSeRaNam,4	GirI_huI	covered				
+8	sarva-arWAn	10	sarvArWAnviparIwAMSca	sarvArWa{puM}{2;bahu}	sarva-arWa{puM}{2;bahu}	karma,10.1	sampUrNa_paxArWoM_ko	all_things	<sarva-arWAn>K1			
+9	viparIwAn	11	0	viparIwa{puM}{2;bahu}	viparIwa{puM}{2;bahu}	karmasamAnAXikaraNam,10.1	viparIwa	the_wrong_direction				
+10	ca	9	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,10.1	waWA	also				
+10.1	(manyawe)	12	(0)	(manyawA{swrI}{1;xvi}/manyawA{swrI}{2;xvi}/man1{karmaNi;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;eka;AwmanepaxI;manuz;wanAxiH})	(man1{karwari;lat;pra;eka;AwmanepaxI;manaz;xivAxiH})	samucciwaH,5	(mAna_lewI_hE)	thinks				
+11	buxXiH	14	buxXiH	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,16	buxXi	intelligence				
+12	sA	13	sA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,11	vaha	that				
+13	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,5	he_arjuna	O_son_of_Prtha				
+14	wAmasI	15	wAmasI	wAmasI{swrI}{1;eka}	wAmasI{swrI}{1;eka}	viXeya_viSeRaNam,14.1	wAmasI	the_mode_of_ignorance				
+14.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,11;akarmakaH	(hE)	is				

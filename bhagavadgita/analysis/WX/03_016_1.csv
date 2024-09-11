@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	evam	4	evaM	evam{avya}	evam{avya}	kriyAviSeRaNam,2	isa_prakAra	thus				
+2	pravarwiwam	5	pravarwiwaM	pravarwiwa{puM}{2;eka}/pravarwiwa{napuM}{1;eka}/pravarwiwa{napuM}{2;eka}	pra_vqw1{kqw_prawyayaH:kwa;pra_vqwuz;BvAxiH;napuM}{2;eka}	viSeRaNam,3	pracaliwa	prescribed				
+3	cakram	6	cakraM	cakra{puM}{2;eka}/cakra{napuM}{1;eka}/cakra{napuM}{2;eka}	cakra{napuM}{2;eka}	karma,5	sqRticakra_ke	the_wheel_of_creation				
+4	na	7	nAnuvarwayawIha	na{avya}	na{avya}	prawiReXaH,5	nahIM	does_not				
+5	anuvarwayawi	8	0	anuvarwayawi	anu_vqw1{karwari;lat;pra;eka;parasmEpaxI;anu_vqwuz;BvAxiH}	aBihiwa_karwA,7;sakarmakaH	anukUla_barawawA	follow				
+6	iha	3	0	iha{avya}	iha{avya}	xeSAXikaraNam,5	yahAz_(isa_loka_meM)	in_this_(world)				
+7	yaH	2	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,5;niwya_sambanXaH,12	jo_(puruRa)	he_who				
+8	aGa-AyuH	10	aGAyurinxriyArAmo	aGa-Ayus{napuM;1;eka}/Ayus{napuM;2;eka}/Af_yA1{karwari;laf;pra;bahu;parasmEpaxI;yA;:axAxiH}/Ayus{napuM;8;eka}	aGa-Ayus{puM;1;eka}	viSeRaNam,12	pApa-jIvana	sinner	<aGa-AyuH>Bs6			
+9	inxriya-ArAmaH	11	0	inxriya-ArAma{puM;1;eka}/inxriya-ArAma{puM;1;eka(ram1;GaF;ramuz;:BvAxiH)}	inxriya-ArAma{puM;1;eka(inxriya-ram1;GaF;ramuz;:BvAxiH)}	viSeRaNam,12	inxriyoM_ke_xvArA_BogoM_meM_ramaNa_karanevAlA	leading_a_sinful_and_sensual_life	<inxriya-ArAmaH>Bs6			
+10	moGam	12	moGaM	moGa{puM;2;eka}/moGa{napuM;1;eka}/moGa{napuM;2;eka}	moGa{napuM;2;eka}	kriyAviSeRaNam,8	vyarWa	in_vain				
+11	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,13	he_pArWa	O_son_of_Prtha_(Arjuna)				
+12	saH	9	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,13	vaha	he				
+13	jIvawi	13	jIvawi	jIvaw{puM}{7;eka}/jIvaw{napuM}{7;eka}/jIv1{karwari;lat;pra;eka;parasmEpaxI;jIvaz;BvAxiH}	jIv1{karwari;lat;pra;eka;parasmEpaxI;jIvaz;BvAxiH}	aBihiwa_karwA,12;sakarmakaH	jIwA_hE	lives				

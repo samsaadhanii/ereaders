@@ -1,34 +1,34 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	waw	1	wawkRewraM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,2	vaha	that				
-2	kRewram	2	0	kRewra{napuM}{1;eka}/kRewra{napuM}{2;eka}	kRewra{napuM}{1;eka}	karwA,10.1	kRewra	field_of_activities				
-3	yaw	3	yacca	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	sup_samucciwaH,10	jo	as				
-4	ca	4	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	also				
-5	yAxqk	5	yAxqkca	yAxqS{napuM}{1;eka}/yAxqS{napuM}{8;eka}	yAxqS{napuM}{1;eka}	sup_samucciwaH,10	jEsA	as_it_is				
-6	ca	6	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	waWA	also				
-7	yaw-vikAri	7	yaxvikAri	yax-vikArin{napuM}{1;eka}/vikArin{napuM}{2;eka}	yax-vikArin{napuM}{1;eka}	sup_samucciwaH,8	jina_vikAroMvAlA	that_which_changes	<yaw-vikAri>T3			
-8	yawaH	8	yawaSca	yawaH{avya}/yawa{puM}{1;eka}	yawaH{avya}	sup_samucciwaH,10	jisa_kAraNa_se	from_which				
-9	ca	10	0	ca{avya}	ca{avya}	samuccayaxyowakaH8	Ora	also				
-10	yaw	9	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viXeya_viSeRaNam,10.1	jo	which				
-10.1	(aswi)	11	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
-11	saH	12	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,15.1	vaha	he				
-12	ca	13	0	ca{avya}	ca{avya}	sambanXaH,11	waWA	also				
-13	yaH	14	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	sup_samucciwaH,14	jo	one_who_is				
-14	yaw-praBAvaH	15	yawpraBAvaSca	yax-praBAva{puM}{1;eka}	yax-praBAva{puM}{1;eka}	viXeya_viSeRaNam,15.1	jisa_praBAvavAlA	that_which_influences	<yaw-praBAvaH>Bs6			
-15	ca	16	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,14	Ora	also				
-15.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hE)	is				
-16	waw	30	wawsamAsena	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,19	vaha	that				
-17	samAsena	32	0	samAsa{puM}{3;eka}	samAsa{puM}{3;eka}	kriyAviSeRaNam,19	saMkRepa_meM	in_summary				
-18	me	31	me	asmax{6;eka}	asmax{6;eka}	apAxAnam,19	muJase	from_Me				
-19	SqNu	33	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}		suna	understand				
-20	qRiBiH	18	qRiBirbahuXA	qRi{puM}{3;bahu}	qRi{puM}{3;bahu}	karwA,22	qRiyoM_xvArA	by_the_wise_sages				
-21	bahuXA	19	0	bahuXA{avya}	bahuXA{avya}	kriyAviSeRaNam,22	bahuwa_bAra	in_many_ways				
-22	gIwam	20	gIwaM	gIwa{puM}{2;eka}/gIwa{napuM}{1;eka}/gIwa{napuM}{2;eka}	gE1{kqw_prawyayaH:kwa;gE;BvAxiH;napuM}{1;eka}	viSeRaNam,16	kahA_gayA_hE	described				
-23	CanxoBiH	22	CanxoBirviviXEH	Canxas{napuM}{3;bahu}	Canxas{napuM}{3;bahu}	sup_samucciwaH,29	vexamanwroM_xvArA	Vedic_hymns				
-24	viviXEH	21	0	viviXa{puM}{3;bahu}/viviXa{napuM}{3;bahu}	viviXa{napuM}{3;bahu}	viSeRaNam,23	viviXa	in_various				
-25	pqWak	23	pqWak	pqWak{avya}	pqWak{avya}	kriyAviSeRaNam,	viBAgapUrvaka	variously				
-26	brahma-sUwra-paxEH	24	brahmasUwrapaxEScEva	brahman-sUwra-paxa{napuM}{3;bahu}	brahman-sUwra-paxa{napuM}{3;bahu}	sup_samucciwaH,29	brahmasUwra_ke_paxoM_xvArA	with_the_Vedanta_aphorisms	<<brahma-sUwra>T6-paxEH>T6			
-27	ca	27	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,29	waWA	also				
-28	eva	28	0	eva{avya}	eva{avya}	sambanXaH,27	BI	certainly				
-29	hewumaxBiH	26	hewumaxBirviniSciwEH	hewumaw{puM}{3;bahu}/hewumaw{napuM}{3;bahu}	hewumaw{napuM}{3;bahu}	karaNam,30.1	yukwiyukwa	with_cause_and_effect				
-30	viniSciwEH	25	0	viniSciwa{puM}{3;bahu}/viniSciwa{napuM}{3;bahu}	viniSciwa{napuM}{3;bahu}	viSeRaNam,29	BalIBAzwi_niScaya_kiye_hue	ascertain				
-30.1	(gIwam)	29	(0)	(gIwa{puM}{2;eka}/gIwa{napuM}{1;eka}/gIwa{napuM}{2;eka})	(gE1{kqw_prawyayaH:kwa;gE;BvAxiH;napuM}{1;eka})	viSeRaNam,16	(kahA_gayA_hE)	described				
+1	तत्	1	तत्क्षेत्रं	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	विशेषणम्,2	वह	ट्हट्				
+2	क्षेत्रम्	2	0	क्षेत्र{नपुं}{1;एक}/क्षेत्र{नपुं}{2;एक}	क्षेत्र{नपुं}{1;एक}	कर्ता,10.1	क्षेत्र	ङिएल्ड्_ओङ्_अच्टिविटिएस्				
+3	यत्	3	यच्च	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	सुप्_समुच्चितः,10	जो	अस्				
+4	च	4	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	और	अल्सो				
+5	यादृक्	5	यादृक्च	यादृश्{नपुं}{1;एक}/यादृश्{नपुं}{8;एक}	यादृश्{नपुं}{1;एक}	सुप्_समुच्चितः,10	जैसा	अस्_इट्_इस्				
+6	च	6	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	तथा	अल्सो				
+7	यत्-विकारि	7	यद्विकारि	यद्-विकारिन्{नपुं}{1;एक}/विकारिन्{नपुं}{2;एक}	यद्-विकारिन्{नपुं}{1;एक}	सुप्_समुच्चितः,8	जिन_विकारोंवाला	ट्हट्_त्हिच्ह्_च्हन्गेस्	<यत्-विकारि>ठ्3			
+8	यतः	8	यतश्च	यतः{अव्य}/यत{पुं}{1;एक}	यतः{अव्य}	सुप्_समुच्चितः,10	जिस_कारण_से	ङ्रोम्_त्हिच्ह्				
+9	च	10	0	च{अव्य}	च{अव्य}	समुच्चयद्योतकः8	और	अल्सो				
+10	यत्	9	यत्	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	विधेय_विशेषणम्,10.1	जो	त्हिच्ह्				
+10.1	(अस्ति)	11	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,2;अकर्मकः	(है)	इस्				
+11	सः	12	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,15.1	वह	हे				
+12	च	13	0	च{अव्य}	च{अव्य}	सम्बन्धः,11	तथा	अल्सो				
+13	यः	14	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	सुप्_समुच्चितः,14	जो	ओने_त्हो_इस्				
+14	यत्-प्रभावः	15	यत्प्रभावश्च	यद्-प्रभाव{पुं}{1;एक}	यद्-प्रभाव{पुं}{1;एक}	विधेय_विशेषणम्,15.1	जिस_प्रभाववाला	ट्हट्_त्हिच्ह्_इन्ङ्लुएन्चेस्	<यत्-प्रभावः>भ्स्6			
+15	च	16	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,14	और	अल्सो				
+15.1	(अस्ति)	17	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,11;अकर्मकः	(है)	इस्				
+16	तत्	30	तत्समासेन	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	कर्म,19	वह	ट्हट्				
+17	समासेन	32	0	समास{पुं}{3;एक}	समास{पुं}{3;एक}	क्रियाविशेषणम्,19	संक्षेप_में	इन्_सुम्मर्य्				
+18	मे	31	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	अपादानम्,19	मुझसे	ङ्रोम्_ंए				
+19	शृणु	33	शृणु	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}		सुन	उन्डेर्स्टन्ड्				
+20	ऋषिभिः	18	ऋषिभिर्बहुधा	ऋषि{पुं}{3;बहु}	ऋषि{पुं}{3;बहु}	कर्ता,22	ऋषियों_द्वारा	ब्य्_ट्हे_तिसे_सगेस्				
+21	बहुधा	19	0	बहुधा{अव्य}	बहुधा{अव्य}	क्रियाविशेषणम्,22	बहुत_बार	इन्_मन्य्_तय्स्				
+22	गीतम्	20	गीतं	गीत{पुं}{2;एक}/गीत{नपुं}{1;एक}/गीत{नपुं}{2;एक}	गै1{कृत्_प्रत्ययः:क्त;गै;भ्वादिः;नपुं}{1;एक}	विशेषणम्,16	कहा_गया_है	डेस्च्रिबेड्				
+23	छन्दोभिः	22	छन्दोभिर्विविधैः	छन्दस्{नपुं}{3;बहु}	छन्दस्{नपुं}{3;बहु}	सुप्_समुच्चितः,29	वेदमन्त्रों_द्वारा	Vएडिच्_ह्य्म्न्स्				
+24	विविधैः	21	0	विविध{पुं}{3;बहु}/विविध{नपुं}{3;बहु}	विविध{नपुं}{3;बहु}	विशेषणम्,23	विविध	इन्_वरिओउस्				
+25	पृथक्	23	पृथक्	पृथक्{अव्य}	पृथक्{अव्य}	क्रियाविशेषणम्,	विभागपूर्वक	वरिओउस्ल्य्				
+26	ब्रह्म-सूत्र-पदैः	24	ब्रह्मसूत्रपदैश्चैव	ब्रह्मन्-सूत्र-पद{नपुं}{3;बहु}	ब्रह्मन्-सूत्र-पद{नपुं}{3;बहु}	सुप्_समुच्चितः,29	ब्रह्मसूत्र_के_पदों_द्वारा	तिट्ह्_ट्हे_Vएडन्ट_अप्होरिस्म्स्	<<ब्रह्म-सूत्र>ठ्6-पदैः>ठ्6			
+27	च	27	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,29	तथा	अल्सो				
+28	एव	28	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,27	भी	चेर्टइन्ल्य्				
+29	हेतुमद्भिः	26	हेतुमद्भिर्विनिश्चितैः	हेतुमत्{पुं}{3;बहु}/हेतुमत्{नपुं}{3;बहु}	हेतुमत्{नपुं}{3;बहु}	करणम्,30.1	युक्तियुक्त	तिट्ह्_चउसे_अन्ड्_एङ्ङेच्ट्				
+30	विनिश्चितैः	25	0	विनिश्चित{पुं}{3;बहु}/विनिश्चित{नपुं}{3;बहु}	विनिश्चित{नपुं}{3;बहु}	विशेषणम्,29	भलीभाँति_निश्चय_किये_हुए	अस्चेर्टइन्				
+30.1	(गीतम्)	29	(0)	(गीत{पुं}{2;एक}/गीत{नपुं}{1;एक}/गीत{नपुं}{2;एक})	(गै1{कृत्_प्रत्ययः:क्त;गै;भ्वादिः;नपुं}{1;एक})	विशेषणम्,16	(कहा_गया_है)	डेस्च्रिबेड्				

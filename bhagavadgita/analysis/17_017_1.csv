@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SraxXayA	5	SraxXayA	SraxXA{swrI}{3;eka}	SraxXA{swrI}{3;eka}	kriyAviSeRaNam,3	SraxXA_se	with_faith				
-2	parayA	4	parayA	parA{swrI}{3;eka}/parA{swrI}{3;eka}	parA{swrI}{3;eka}	viSeRaNam,1	parama	transcendental				
-3	wapwam	6	wapwaM	wapwa{puM}{2;eka}/wapwa{napuM}{1;eka}/wapwa{napuM}{2;eka}	wap1{kqw_prawyayaH:kwa;wapaz;BvAxiH;napuM}{1;eka}	viSeRaNam,4	kiye_hue	execution				
-4	wapaH	9	wapaswawwriviXaM	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{2;eka}	karma,11	wapa_ko	austerity				
-5	waw	7	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,4	usa	that				
-6	wri-viXam	8	0	wri-viXa{puM}{2;eka}/viXa{napuM}{1;eka}/viXa{napuM}{2;eka}	wri-viXa{napuM}{2;eka}	viSeRaNam,4	wIna_prakAra_ke	three_kinds	<wri-viXaM>Bs6			
-7	narEH	3	narEH	nara{puM}{3;bahu}	nara{puM}{3;bahu}	karwA,3	puruRoM_xvArA	by_men				
-8	a-Pala-AkAfkRiBiH	1	aPalAkAfkRiBiryukwEH	a-Pala-AkAfkRin{puM}{3;bahu}/AkAfkRin{napuM}{3;bahu}	na-Pala-AkAfkRin{puM}{3;bahu}	viSeRaNam,7	Pala_ko_na_cAhanevAle	without_desires_for_fruits	<a-<Pala-AkAfkRiBiH>U>Tn			
-9	yukwEH	2	0	yukwa{puM}{3;bahu}/yukwa{napuM}{3;bahu}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{3;bahu}	viSeRaNam,7	yogI	engaged				
-10	sAwwvikam	10	sAwwvikaM	sAwwvika{puM}{2;eka}	sAwwvika{napuM}{2;eka}	karmasamAnAXikaraNam,11	sAwwvika	in_the_mode_of_goodness				
-11	paricakRawe	11	paricakRawe	paricakRawe	pari_cakR1{karwari;lat;pra;bahu;AwmanepaxI;pari_cakRizf;axAxiH}		kahawe_hEM	is_called				
+1	श्रद्धया	5	श्रद्धया	श्रद्धा{स्त्री}{3;एक}	श्रद्धा{स्त्री}{3;एक}	क्रियाविशेषणम्,3	श्रद्धा_से	तिट्ह्_ङइट्ह्				
+2	परया	4	परया	परा{स्त्री}{3;एक}/परा{स्त्री}{3;एक}	परा{स्त्री}{3;एक}	विशेषणम्,1	परम	ट्रन्स्चेन्डेन्टल्				
+3	तप्तम्	6	तप्तं	तप्त{पुं}{2;एक}/तप्त{नपुं}{1;एक}/तप्त{नपुं}{2;एक}	तप्1{कृत्_प्रत्ययः:क्त;तपँ;भ्वादिः;नपुं}{1;एक}	विशेषणम्,4	किये_हुए	एदेचुटिओन्				
+4	तपः	9	तपस्तत्त्रिविधं	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}	तपस्{नपुं}{2;एक}	कर्म,11	तप_को	अउस्टेरिट्य्				
+5	तत्	7	0	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	विशेषणम्,4	उस	ट्हट्				
+6	त्रि-विधम्	8	0	त्रि-विध{पुं}{2;एक}/विध{नपुं}{1;एक}/विध{नपुं}{2;एक}	त्रि-विध{नपुं}{2;एक}	विशेषणम्,4	तीन_प्रकार_के	ट्ह्रेए_किन्ड्स्	<त्रि-विधं>भ्स्6			
+7	नरैः	3	नरैः	नर{पुं}{3;बहु}	नर{पुं}{3;बहु}	कर्ता,3	पुरुषों_द्वारा	ब्य्_मेन्				
+8	अ-फल-आकाङ्क्षिभिः	1	अफलाकाङ्क्षिभिर्युक्तैः	अ-फल-आकाङ्क्षिन्{पुं}{3;बहु}/आकाङ्क्षिन्{नपुं}{3;बहु}	न-फल-आकाङ्क्षिन्{पुं}{3;बहु}	विशेषणम्,7	फल_को_न_चाहनेवाले	तिट्होउट्_डेसिरेस्_ङोर्_ङ्रुइट्स्	<अ-<फल-आकाङ्क्षिभिः>ऊ>ठ्न्			
+9	युक्तैः	2	0	युक्त{पुं}{3;बहु}/युक्त{नपुं}{3;बहु}	युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{3;बहु}	विशेषणम्,7	योगी	एन्गगेड्				
+10	सात्त्विकम्	10	सात्त्विकं	सात्त्विक{पुं}{2;एक}	सात्त्विक{नपुं}{2;एक}	कर्मसमानाधिकरणम्,11	सात्त्विक	इन्_ट्हे_मोडे_ओङ्_गोओड्नेस्स्				
+11	परिचक्षते	11	परिचक्षते	परिचक्षते	परि_चक्ष्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;परि_चक्षिँङ्;अदादिः}		कहते_हैं	इस्_चल्लेड्				

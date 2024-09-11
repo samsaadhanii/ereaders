@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	amI	1	amI	axas{puM}{1;bahu}	axas{puM}{1;bahu}	viSeRaNam,4	ve	all_those				
+2	hi	3	hi	hi{avya}	hi{avya}	sambanXaH,4	wo	certainly				
+3	wvAm	4	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,5	ApameM	unto_You				
+4	sura-safGAH	2	surasafGAH	sura-safGa{puM}{1;bahu}/safGa{puM}{8;bahu}	sura-safGa{puM}{1;bahu}	karwA,5	xevawAoM_ke_samUha	groups_of_demigods	<sura-safGAH>T6			
+5	viSanwi	5	viSanwi	viSaw{napuM}{1;bahu}/viSaw{napuM}{2;bahu}/viSaw{napuM}{8;bahu}	viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	aBihiwakarwA,4;sakarmakaH	praveSa_karawe_hEM	entering				
+6	keciw	6	kecixBIwAH	keciw{avya}/kiFciw{puM}{1;bahu}/kiFciw{swrI}{1;xvi}/kiFciw{swrI}{2;xvi}/kiFciw{napuM}{1;xvi}/kiFciw{napuM}{2;xvi}	kiFciw{puM}{1;bahu}	viSeRaNam,7	kuCa	some_of_them				
+7	BIwAH	7	0	BIwa{puM}{1;bahu}/BIwa{puM}{8;bahu}/BIwA{swrI}{1;bahu}/BIwA{swrI}{2;bahu}/BIwA{swrI}{8;bahu}/BIwA{swrI}{1;bahu}/BIwA{swrI}{2;bahu}/BIwA{swrI}{8;bahu}	BIwa{puM}{1;bahu}	karwA,9	BayaBIwa_hokara	out_of_fear				
+8	prAFjalayaH	8	prAFjalayo	prAFjali{puM}{1;bahu}/prAFjali{puM}{8;bahu}	prAFjali{puM}{1;bahu}	kriyAviSeRaNam,9	hAWa_joda़e_(Apake_nAma_Ora_guNoM_kA)	with_folded_hands				
+9	gqNanwi	9	gqNanwi	gqNaw{napuM}{1;bahu}/gqNaw{napuM}{2;bahu}/gqNaw{napuM}{8;bahu}/gQ2{karwari;lat;pra;bahu;parasmEpaxI;gQ;kryAxiH}/gqNanwI{swrI}{8;eka}	gQ2{karwari;lat;pra;bahu;parasmEpaxI;gQ;kryAxiH}	aBihiwakarwA,7;sakarmakaH	uccAraNa_karawe_hEM	offering_prayers_unto				
+10	svaswi	11	svaswIwyukwvA	svaswi{avya}	svaswi{avya}	vAkyakarma,12	kalyANa_ho	all_peace				
+11	iwi	12	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,10	EsA	thus				
+12	ukwvA	13	0	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	pUrvakAlaH,14	kahakara	speaking_like_that				
+13	mahaw-qRi-sixXa-safGAH	10	maharRisixXasafGAH	mahaw-qRi-sixXa-safGa{puM}{1;bahu}/safGa{puM}{8;bahu}	mahax-qRi-sixXa-safGa{puM}{1;bahu}	karwA,14	maharRi_Ora_sixXoM_ke_samuxAya	great_and_perfect_sages	<<<mahaw-qRi>K1-sixXa>Di-safGAH>T6			
+14	swuvanwi	17	swuvanwi	swuvaw{napuM}{1;bahu}/swuvaw{napuM}{2;bahu}/swuvaw{napuM}{8;bahu}/swu1{karwari;lat;pra;bahu;parasmEpaxI;RtuF;axAxiH}	swu1{karwari;lat;pra;bahu;parasmEpaxI;RtuF;axAxiH}	aBihiwakarwA,13;sakarmakaH	swuwi_karawe_hEM	singing_hymns				
+15	wvAm	14	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,14	ApakI	unto_You				
+16	swuwiBiH	16	swuwiBiH	swuwi{swrI}{3;bahu}	swuwi{swrI}{3;bahu}	karaNam,14	swowroM_xvArA	with_prayers				
+17	puRkalABiH	15	puRkalABiH	puRkalA{swrI}{3;bahu}	puRkalA{swrI}{3;bahu}	viSeRaNam,16	uwwama-uwwama	Vedic_hymns				

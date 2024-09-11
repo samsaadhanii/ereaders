@@ -1,24 +1,24 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aWa	2	aWa	aWa{avya}	aWa{avya}	sambanXaH,15	isake_bAxa	thereupon				
-2	vyavasWiwAn	5	vyavasWiwAnxqRtvA	vyavasWiwa{puM}{2;bahu}	vyavasWiwa{puM}{2;bahu}	viSeRaNam,4	morcA_bAzXakara_date_hue	arrayed				
-3	xqRtvA	7	0	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	pUrvakAlaH,15	xeKakara	on_seeing				
-4	XArwarARtrAn	6	XArwarARtrAnkapiXvajaH	XArwarARtra{puM}{2;bahu}	XArwarARtra{puM}{2;bahu}	karma,3	XqwarARtra_sambanXiyoM_ko	the_sons_of_Dhrtarastra				
-5	kapi-XvajaH	3	0	kapi-Xvaja{puM}{1;eka}	kapi-Xvaja{puM}{1;eka}	viSeRaNam,10	kapiXvaja	one_who_had_the_figure_of_Hanuman_on_the_flag_of_his_chariot	<kapi-XvajaH>Bs6			
-6	pravqwwe	10	pravqwwe	pravqwwa{puM}{7;eka}/pravqwwa{napuM}{1;xvi}/pravqwwa{napuM}{2;xvi}/pravqwwa{napuM}{7;eka}/pravqwwA{swrI}{1;xvi}/pravqwwA{swrI}{2;xvi}/pravqwwA{swrI}{1;xvi}/pravqwwA{swrI}{2;xvi}	pravqwwa{puM}{7;eka}	BAvalakRaNasapwamI_pUrvakAlaH,9	samaya	to_be_hurled				
-7	Saswra-sampAwe	9	SaswrasampAwe	Saswra-sampAwa{puM}{7;eka}	Saswra-sampAwa{puM}{7;eka}	karwA,6	Saswra_calane_kI_wEyArI_ke	the_missiles_ready	<Saswra-sampAwe>T6			
-8	XanuH	11	Xanuruxyamya	Xanu{puM}{1;eka}/Xanus{napuM}{1;eka}/Xanus{napuM}{2;eka}/Xanus{napuM}{8;eka}	Xanus{napuM}{2;eka}	karma,9	XanuRa	bow				
-9	uxyamya	12	0	ux_yam1{kqw_prawyayaH:lyap;yamoz;BvAxiH}/ux_yam2{kqw_prawyayaH:lyap;yamaz;BvAxiH}/ux_yam3{kqw_prawyayaH:lyap;yamaz;curAxiH}	ux_yam1{kqw_prawyayaH:lyap;ux_yamoz;BvAxiH}	pUrvakAlaH,15	uTAkara	after_taking_up				
-10	pANdavaH	4	pANdavaH	pANdu{puM}{1;bahu}/pANdu{swrI}{1;bahu}/pANdava{puM}{1;eka}	pANdava{puM}{1;eka}	karwA,15	arjuna_ne	the_son_of_Pandu_(Arjuna)				
-11	hqRIkeSam	13	hqRIkeSaM	hqRIkeSa{puM}{2;eka}	hqRIkeSa{puM}{2;eka}	gONakarma,15	hqRIkeSa_SrIkqRNa_se	unto_Lord_Krsna				
-12	waxA	8	waxA	waxA{avya}	waxA{avya}	aXikaraNam,15	usa	at_that_time				
-13	vAkyam	15	vAkyamixamAha	vAkya{napuM}{1;eka}/vAkya{napuM}{2;eka}	vAkya{napuM}{2;eka}	muKyakarma,15	vacana	words				
-14	ixam	14	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,13	yaha	these				
-15	Aha	16	0	brU1{karwari;lit;pra;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;eka;parasmEpaxI;brUF;axAxiH}	aBihiwakarwA,10	kahA	addressed				
-16	mahI-pawe	1	mahIpawe	mahI-pawa{puM}{7;eka}/pawi{puM}{8;eka}	mahI-pawi{puM}{8;eka}	samboXyaH,21	he_rAjan	O_King	<mahI-pawe>T6			
-17	senayoH	21	senayoruBayormaXye	senA{swrI}{6;xvi}/senA{swrI}{7;xvi}	senA{swrI}{6;xvi}	RaRTIsambanXaH,19	senAoM_ke	of_the_armies				
-18	uBayoH	20	0	uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}	uBa{puM}{6;xvi}	viSeRaNam,17	xonoM	of_two				
-19	maXye	22	0	maXya{puM}{7;eka}/maXya{napuM}{1;xvi}/maXya{napuM}{2;xvi}/maXya{napuM}{7;eka}/maXyA{swrI}{1;xvi}/maXyA{swrI}{2;xvi}	maXya{puM}{7;eka}	aXikaraNam,21	bIca_meM	in_between_them				
-20	raWam	19	raWaM	raWa{puM}{2;eka}	raWa{puM}{2;eka}	karma,21	raWa_ko	chariot				
-21	sWApaya	23	sWApaya	sWA1_Nic{karwari;lot;ma;eka;parasmEpaxI;RTA;BvAxiH}	sWA1_Nic{karwari;lot;ma;eka;parasmEpaxI;RTA_Nic;BvAxiH}	vAkyakarma,15	Kada़A_kIjiye	place				
-22	me	18	meZcyuwa	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,20	mere	my				
-23	a-cyuwa	17	0	acyuwa{puM}{8;eka}	acyuwa{puM}{8;eka}	samboXyaH,21	he_acyuwa	O_infallible_one	<na-cyuwa>Bsmn			
+1	अथ	2	अथ	अथ{अव्य}	अथ{अव्य}	सम्बन्धः,15	इसके_बाद	ट्हेरेउपोन्				
+2	व्यवस्थितान्	5	व्यवस्थितान्दृष्ट्वा	व्यवस्थित{पुं}{2;बहु}	व्यवस्थित{पुं}{2;बहु}	विशेषणम्,4	मोर्चा_बाँधकर_डटे_हुए	अर्रयेड्				
+3	दृष्ट्वा	7	0	दृश्1{कृत्_प्रत्ययः:क्त्वा;दृशिँर्;भ्वादिः}	दृश्1{कृत्_प्रत्ययः:क्त्वा;दृशिँर्;भ्वादिः}	पूर्वकालः,15	देखकर	ओन्_सेएइन्ग्				
+4	धार्तराष्ट्रान्	6	धार्तराष्ट्रान्कपिध्वजः	धार्तराष्ट्र{पुं}{2;बहु}	धार्तराष्ट्र{पुं}{2;बहु}	कर्म,3	धृतराष्ट्र_सम्बन्धियों_को	ट्हे_सोन्स्_ओङ्_ढ्ह्र्टरस्ट्र				
+5	कपि-ध्वजः	3	0	कपि-ध्वज{पुं}{1;एक}	कपि-ध्वज{पुं}{1;एक}	विशेषणम्,10	कपिध्वज	ओने_त्हो_हड्_ट्हे_ङिगुरे_ओङ्_ःअनुमन्_ओन्_ट्हे_ङ्लग्_ओङ्_हिस्_च्हरिओट्	<कपि-ध्वजः>भ्स्6			
+6	प्रवृत्ते	10	प्रवृत्ते	प्रवृत्त{पुं}{7;एक}/प्रवृत्त{नपुं}{1;द्वि}/प्रवृत्त{नपुं}{2;द्वि}/प्रवृत्त{नपुं}{7;एक}/प्रवृत्ता{स्त्री}{1;द्वि}/प्रवृत्ता{स्त्री}{2;द्वि}/प्रवृत्ता{स्त्री}{1;द्वि}/प्रवृत्ता{स्त्री}{2;द्वि}	प्रवृत्त{पुं}{7;एक}	भावलक्षणसप्तमी_पूर्वकालः,9	समय	टो_बे_हुर्लेड्				
+7	शस्त्र-सम्पाते	9	शस्त्रसम्पाते	शस्त्र-सम्पात{पुं}{7;एक}	शस्त्र-सम्पात{पुं}{7;एक}	कर्ता,6	शस्त्र_चलने_की_तैयारी_के	ट्हे_मिस्सिलेस्_रेअड्य्	<शस्त्र-सम्पाते>ठ्6			
+8	धनुः	11	धनुरुद्यम्य	धनु{पुं}{1;एक}/धनुस्{नपुं}{1;एक}/धनुस्{नपुं}{2;एक}/धनुस्{नपुं}{8;एक}	धनुस्{नपुं}{2;एक}	कर्म,9	धनुष	बोत्				
+9	उद्यम्य	12	0	उद्_यम्1{कृत्_प्रत्ययः:ल्यप्;यमोँ;भ्वादिः}/उद्_यम्2{कृत्_प्रत्ययः:ल्यप्;यमँ;भ्वादिः}/उद्_यम्3{कृत्_प्रत्ययः:ल्यप्;यमँ;चुरादिः}	उद्_यम्1{कृत्_प्रत्ययः:ल्यप्;उद्_यमोँ;भ्वादिः}	पूर्वकालः,15	उठाकर	अङ्टेर्_टकिन्ग्_उप्				
+10	पाण्डवः	4	पाण्डवः	पाण्डु{पुं}{1;बहु}/पाण्डु{स्त्री}{1;बहु}/पाण्डव{पुं}{1;एक}	पाण्डव{पुं}{1;एक}	कर्ता,15	अर्जुन_ने	ट्हे_सोन्_ओङ्_फन्डु_(आर्जुन)				
+11	हृषीकेशम्	13	हृषीकेशं	हृषीकेश{पुं}{2;एक}	हृषीकेश{पुं}{2;एक}	गौणकर्म,15	हृषीकेश_श्रीकृष्ण_से	उन्टो_ऌओर्ड्_ख्र्स्न				
+12	तदा	8	तदा	तदा{अव्य}	तदा{अव्य}	अधिकरणम्,15	उस	अट्_ट्हट्_टिमे				
+13	वाक्यम्	15	वाक्यमिदमाह	वाक्य{नपुं}{1;एक}/वाक्य{नपुं}{2;एक}	वाक्य{नपुं}{2;एक}	मुख्यकर्म,15	वचन	तोर्ड्स्				
+14	इदम्	14	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,13	यह	ट्हेसे				
+15	आह	16	0	ब्रू1{कर्तरि;लिट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	ब्रू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ब्रूञ्;अदादिः}	अभिहितकर्ता,10	कहा	अड्ड्रेस्सेड्				
+16	मही-पते	1	महीपते	मही-पत{पुं}{7;एक}/पति{पुं}{8;एक}	मही-पति{पुं}{8;एक}	सम्बोध्यः,21	हे_राजन्	औ_खिन्ग्	<मही-पते>ठ्6			
+17	सेनयोः	21	सेनयोरुभयोर्मध्ये	सेना{स्त्री}{6;द्वि}/सेना{स्त्री}{7;द्वि}	सेना{स्त्री}{6;द्वि}	षष्ठीसम्बन्धः,19	सेनाओं_के	ओङ्_ट्हे_अर्मिएस्				
+18	उभयोः	20	0	उभ{पुं}{6;द्वि}/उभ{पुं}{7;द्वि}/उभ{नपुं}{6;द्वि}/उभ{नपुं}{7;द्वि}/उभ{पुं}{6;द्वि}/उभ{पुं}{7;द्वि}/उभ{नपुं}{6;द्वि}/उभ{नपुं}{7;द्वि}/उभा{स्त्री}{6;द्वि}/उभा{स्त्री}{7;द्वि}/उभा{स्त्री}{6;द्वि}/उभा{स्त्री}{7;द्वि}	उभ{पुं}{6;द्वि}	विशेषणम्,17	दोनों	ओङ्_ट्तो				
+19	मध्ये	22	0	मध्य{पुं}{7;एक}/मध्य{नपुं}{1;द्वि}/मध्य{नपुं}{2;द्वि}/मध्य{नपुं}{7;एक}/मध्या{स्त्री}{1;द्वि}/मध्या{स्त्री}{2;द्वि}	मध्य{पुं}{7;एक}	अधिकरणम्,21	बीच_में	इन्_बेट्तेएन्_ट्हेम्				
+20	रथम्	19	रथं	रथ{पुं}{2;एक}	रथ{पुं}{2;एक}	कर्म,21	रथ_को	च्हरिओट्				
+21	स्थापय	23	स्थापय	स्था1_णिच्{कर्तरि;लोट्;म;एक;परस्मैपदी;ष्ठा;भ्वादिः}	स्था1_णिच्{कर्तरि;लोट्;म;एक;परस्मैपदी;ष्ठा_णिच्;भ्वादिः}	वाक्यकर्म,15	खडॆअञआ_कीजिये	प्लचे				
+22	मे	18	मेऽच्युत	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,20	मेरे	म्य्				
+23	अ-च्युत	17	0	अच्युत{पुं}{8;एक}	अच्युत{पुं}{8;एक}	सम्बोध्यः,21	हे_अच्युत	औ_इन्ङल्लिब्ले_ओने	<न-च्युत>भ्स्म्न्			

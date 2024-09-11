@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ewaw	2	ewacCruwvA	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,3	isa	thus				
-2	SruwvA	4	0	Sru1{avya;kwvA;Sru;:BvAxiH}	Sru1{avya;kwvA;Sru;:BvAxiH}	pUrvakAlaH,11	sunakara	hearing				
-3	vacanam	3	vacanaM	vacana{napuM}{1;eka}/vacana{napuM}{2;eka}	vacana{napuM}{2;eka}	karma,2	vacana_ko	speech				
-4	keSavasya	1	keSavasya	keSava{puM}{6;eka}	keSava{puM}{6;eka}	RaRTIsambanXaH,3	keSavaBagavAn_ke	of_Krsna				
-5	kqwa-aFjaliH	5	kqwAFjalirvepamAnaH	kqwa-aFjali{puM}{1;eka}	kqwa-aFjali{puM}{1;eka}	viSeRaNam,7	hAWa_joda़kara	with_folded_hands	<kqwa-aFjaliH>Bs3			
-6	vepamAnaH	6	0	vepamAna{puM}{1;eka}	vep1{kqw_prawyayaH:SAnac;tuvepqz;BvAxiH;puM}{1;eka}	viSeRaNam,7	kAzpawA_huA	trembling				
-7	kirItI	8	kirItI	kirItin{puM}{1;eka}	kirItin{puM}{1;eka}	karwA,11	mukutaXArI_arjuna	Arjuna				
-8	namaskqwvA	9	namaskqwvA	kq3{avya;kwvA;dukqF;:wanAxiH}	namas_kq3{avya;kwvA;dukqF;:wanAxiH}	pUrvakAlaH,11	namaskAra_karake	offering_obeisances				
-9	BUyaH	10	BUya	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,15	Pira	again				
-10	eva	11	evAha	eva{avya}	eva{avya}	sambanXaH,9	BI	also				
-11	Aha	15	0	brU1{karwari;lit;pra;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,7	bolA	said				
-12	kqRNam	14	kqRNaM	kqRNa{puM}{2;eka}/kqRNa{napuM}{1;eka}/kqRNa{napuM}{2;eka}	kqRNa{puM}{2;eka}	karma,11	BagavAn_SrIkqRNa_ke_prawi	unto_Krsna				
-13	sa-gaxgaxam	13	sagaxgaxaM	sa-gaxgaxa{puM}{2;eka}	sa-gaxgaxa{napuM}{2;eka}	kriyAviSeRaNam,11	gaxgaxa_vANI_se	faltering	<sa-gaxgaxam>BvS			
-14	BIwa-BIwaH	7	BIwaBIwaH	BIwa-BIwa{puM}{1;eka}	BIwa-BIwa{puM}{1;eka}	viSeRaNam,7	awyanwa_BayaBIwa_hokara	fearful	<BIwa-BIwaH>T5			
-15	praNamya	12	praNamya	Nam1{avya;lyap;Namaz;:BvAxiH}	pra_Nam1{avya;lyap;Namaz;:BvAxiH}	pUrvakAlaH,11	praNAma_karake	offering_obeisances				
+1	एतत्	2	एतच्छ्रुत्वा	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{2;एक}	विशेषणम्,3	इस	ट्हुस्				
+2	श्रुत्वा	4	0	श्रु1{अव्य;क्त्वा;श्रु;:भ्वादिः}	श्रु1{अव्य;क्त्वा;श्रु;:भ्वादिः}	पूर्वकालः,11	सुनकर	हेअरिन्ग्				
+3	वचनम्	3	वचनं	वचन{नपुं}{1;एक}/वचन{नपुं}{2;एक}	वचन{नपुं}{2;एक}	कर्म,2	वचन_को	स्पेएच्ह्				
+4	केशवस्य	1	केशवस्य	केशव{पुं}{6;एक}	केशव{पुं}{6;एक}	षष्ठीसम्बन्धः,3	केशवभगवान्_के	ओङ्_ख्र्स्न				
+5	कृत-अञ्जलिः	5	कृताञ्जलिर्वेपमानः	कृत-अञ्जलि{पुं}{1;एक}	कृत-अञ्जलि{पुं}{1;एक}	विशेषणम्,7	हाथ_जोडॆअञकर	तिट्ह्_ङोल्डेड्_हन्ड्स्	<कृत-अञ्जलिः>भ्स्3			
+6	वेपमानः	6	0	वेपमान{पुं}{1;एक}	वेप्1{कृत्_प्रत्ययः:शानच्;टुवेपृँ;भ्वादिः;पुं}{1;एक}	विशेषणम्,7	काँपता_हुआ	ट्रेम्ब्लिन्ग्				
+7	किरीटी	8	किरीटी	किरीटिन्{पुं}{1;एक}	किरीटिन्{पुं}{1;एक}	कर्ता,11	मुकुटधारी_अर्जुन	आर्जुन				
+8	नमस्कृत्वा	9	नमस्कृत्वा	कृ3{अव्य;क्त्वा;डुकृञ्;:तनादिः}	नमस्_कृ3{अव्य;क्त्वा;डुकृञ्;:तनादिः}	पूर्वकालः,11	नमस्कार_करके	ओङ्ङेरिन्ग्_ओबेइसन्चेस्				
+9	भूयः	10	भूय	भूयः{अव्य}/भूयस्{नपुं}{1;एक}/भूयस्{नपुं}{2;एक}/भूयस्{नपुं}{8;एक}	भूयः{अव्य}	क्रियाविशेषणम्,15	फिर	अगइन्				
+10	एव	11	एवाह	एव{अव्य}	एव{अव्य}	सम्बन्धः,9	भी	अल्सो				
+11	आह	15	0	ब्रू1{कर्तरि;लिट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	ब्रू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ब्रूञ्;अदादिः}	अभिहित_कर्ता,7	बोला	सइड्				
+12	कृष्णम्	14	कृष्णं	कृष्ण{पुं}{2;एक}/कृष्ण{नपुं}{1;एक}/कृष्ण{नपुं}{2;एक}	कृष्ण{पुं}{2;एक}	कर्म,11	भगवान्_श्रीकृष्ण_के_प्रति	उन्टो_ख्र्स्न				
+13	स-गद्गदम्	13	सगद्गदं	स-गद्गद{पुं}{2;एक}	स-गद्गद{नपुं}{2;एक}	क्रियाविशेषणम्,11	गद्गद_वाणी_से	ङल्टेरिन्ग्	<स-गद्गदम्>भ्व्श्			
+14	भीत-भीतः	7	भीतभीतः	भीत-भीत{पुं}{1;एक}	भीत-भीत{पुं}{1;एक}	विशेषणम्,7	अत्यन्त_भयभीत_होकर	ङेअर्ङुल्	<भीत-भीतः>ठ्5			
+15	प्रणम्य	12	प्रणम्य	णम्1{अव्य;ल्यप्;णमँ;:भ्वादिः}	प्र_णम्1{अव्य;ल्यप्;णमँ;:भ्वादिः}	पूर्वकालः,11	प्रणाम_करके	ओङ्ङेरिन्ग्_ओबेइसन्चेस्				

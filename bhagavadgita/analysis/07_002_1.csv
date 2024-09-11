@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	jFAnam	5	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,6	wawwvajFAna_ko	phenomenal_knowledge				
-2	we	2	weZhaM	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	prayojanam,6	were_liye	unto_you				
-3	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,6	mEM	I				
-4	sa-vijFAnam	4	savijFAnamixaM	sa-vijFAna{napuM}{1;eka}/vijFAna{napuM}{2;eka}	sa-vijFAna{napuM}{2;eka}	viSeRaNam,1	vijFAnasahiwa	with_noumenal_knowledge	<sa-vijFAnam>BvS			
-5	ixam	3	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,1	isa	this				
-6	vakRyAmi	7	vakRyAmyaSeRawaH	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}/vah1{karwari;lqt;u;eka;parasmEpaxI;vahaz;BvAxiH}/brU1{karwari;lqt;u;eka;parasmEpaxI;brUF;axAxiH}	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}	aBihiwakarwA,3	kahUzgA	shall_explain				
-7	a-SeRawaH	6	0	a-SeRawaH	aSeRawaH{wasil}	kriyAviSeRaNam,6	sampUrNawayA	in_full	<na-SeRawaH>Tn			
-8	yaw	8	yaFjFAwvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,9	jisako	which				
-9	jFAwvA	9	0	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,15	jAnakara	knowing				
-10	na	14	neha	na{avya}	na{avya}	prawiReXaH,15	nahIM	not				
-11	iha	10	0	iha{avya}	iha{avya}	aXikaraNam,15	saMsAra_meM	in_this_world				
-12	BUyaH	11	BUyoZnyaFjFAwavyamavaSiRyawe	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,15	Pira	further				
-13	anyaw	12	0	anyaw{avya}/anya{napuM}{1;eka}/anya{napuM}{2;eka}	anya{napuM}{2;eka}	viSeRaNam,14	Ora_kuCa_BI	anything_more				
-14	jFAwavyam	13	0	jFAwavya{puM}{2;eka}/jFAwavya{napuM}{1;eka}/jFAwavya{napuM}{2;eka}	jFA2{kqw_prawyayaH:wavyaw;jFA;kryAxiH;napuM}{2;eka}	karma,15	jAnaneyogya	knowable				
-15	avaSiRyawe	15	0	ava_SiR2{karmaNi;lat;pra;eka;AwmanepaxI;SiRLz;ruXAxiH}	ava_SiR2{karmaNi;lat;pra;eka;AwmanepaxI;SiRLz;ruXAxiH}	aBihiwakarma,15	SeRa_raha_jAwA	remains_to_be_known				
+1	ज्ञानम्	5	ज्ञानं	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{2;एक}	कर्म,6	तत्त्वज्ञान_को	प्हेनोमेनल्_क्नोत्लेड्गे				
+2	ते	2	तेऽहं	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	प्रयोजनम्,6	तेरे_लिये	उन्टो_योउ				
+3	अहम्	1	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,6	मैं	ई				
+4	स-विज्ञानम्	4	सविज्ञानमिदं	स-विज्ञान{नपुं}{1;एक}/विज्ञान{नपुं}{2;एक}	स-विज्ञान{नपुं}{2;एक}	विशेषणम्,1	विज्ञानसहित	तिट्ह्_नोउमेनल्_क्नोत्लेड्गे	<स-विज्ञानम्>भ्व्श्			
+5	इदम्	3	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,1	इस	ट्हिस्				
+6	वक्ष्यामि	7	वक्ष्याम्यशेषतः	वच्1{कर्तरि;लृट्;उ;एक;परस्मैपदी;वचँ;अदादिः}/वह्1{कर्तरि;लृट्;उ;एक;परस्मैपदी;वहँ;भ्वादिः}/ब्रू1{कर्तरि;लृट्;उ;एक;परस्मैपदी;ब्रूञ्;अदादिः}	वच्1{कर्तरि;लृट्;उ;एक;परस्मैपदी;वचँ;अदादिः}	अभिहितकर्ता,3	कहूँगा	स्हल्ल्_एद्प्लइन्				
+7	अ-शेषतः	6	0	अ-शेषतः	अशेषतः{तसिल्}	क्रियाविशेषणम्,6	सम्पूर्णतया	इन्_ङुल्ल्	<न-शेषतः>ठ्न्			
+8	यत्	8	यञ्ज्ञात्वा	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,9	जिसको	त्हिच्ह्				
+9	ज्ञात्वा	9	0	ज्ञा1{कृत्_प्रत्ययः:क्त्वा;ज्ञा;भ्वादिः}/ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	पूर्वकालः,15	जानकर	क्नोतिन्ग्				
+10	न	14	नेह	न{अव्य}	न{अव्य}	प्रतिषेधः,15	नहीं	नोट्				
+11	इह	10	0	इह{अव्य}	इह{अव्य}	अधिकरणम्,15	संसार_में	इन्_ट्हिस्_तोर्ल्ड्				
+12	भूयः	11	भूयोऽन्यञ्ज्ञातव्यमवशिष्यते	भूयः{अव्य}/भूयस्{नपुं}{1;एक}/भूयस्{नपुं}{2;एक}/भूयस्{नपुं}{8;एक}	भूयः{अव्य}	क्रियाविशेषणम्,15	फिर	ङुर्ट्हेर्				
+13	अन्यत्	12	0	अन्यत्{अव्य}/अन्य{नपुं}{1;एक}/अन्य{नपुं}{2;एक}	अन्य{नपुं}{2;एक}	विशेषणम्,14	और_कुछ_भी	अन्य्ट्हिन्ग्_मोरे				
+14	ज्ञातव्यम्	13	0	ज्ञातव्य{पुं}{2;एक}/ज्ञातव्य{नपुं}{1;एक}/ज्ञातव्य{नपुं}{2;एक}	ज्ञा2{कृत्_प्रत्ययः:तव्यत्;ज्ञा;क्र्यादिः;नपुं}{2;एक}	कर्म,15	जाननेयोग्य	क्नोतब्ले				
+15	अवशिष्यते	15	0	अव_शिष्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;शिषॢँ;रुधादिः}	अव_शिष्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;शिषॢँ;रुधादिः}	अभिहितकर्म,15	शेष_रह_जाता	रेमइन्स्_टो_बे_क्नोत्न्				

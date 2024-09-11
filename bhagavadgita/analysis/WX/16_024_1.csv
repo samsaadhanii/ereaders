@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wasmAw	1	wasmAcCAswraM	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wasmAw{avya}	hewuH,5.1	isase	therefore				
+2	SAswram	5	0	SAswra{napuM}{1;eka}/SAswra{napuM}{2;eka}	SAswra{napuM}{1;eka}	karwA,5.1	SAswra	scriptures				
+3	pramANam	6	pramANaM	pramANa{puM}{2;eka}/pramANa{napuM}{1;eka}/pramANa{napuM}{2;eka}	pramANa{napuM}{1;eka}	viXeya_viSeRaNam,5.1	pramANa	evidence				
+4	we	2	we	wax{puM}{1;bahu}	yuRmax{4;eka}	RaRTIsambanXaH,3	were_liye	your				
+5	kArya-a-kArya-vyavasWiwO	4	kAryAkAryavyavasWiwO	kArya-akArya-vyavasWiwa{puM}{1;xvi}/vyavasWiwa{puM}{2;xvi}/vyavasWiwa{puM}{8;xvi}	kArya-akArya-vyavasWiwi{swrI}{7;eka}	aXikaraNam,5.1	karwavya_Ora_akarwavya_kI_vyavasWA_meM	in_determining_duty_and_forbidden_activities	<<kArya-<na-kArya>Tn>Di-vyavasWiwO>T6			
+5.1	(aswi)	7	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
+6	jFAwvA	9	jFAwvA	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,11	jAnakara	knowing				
+7	SAswra-viXAna-ukwam	11	SAswraviXAnokwaM	SAswra-viXAna-ukwa{puM}{2;eka}/ukwa{napuM}{1;eka}/ukwa{napuM}{2;eka}	SAswra-viXAna-vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;napuM}{2;eka}	viSeRaNam,8	SAswra_viXAnokwa	as_declared_in_the_regulations_of_the_scriptures	<<SAswra-viXAna>T3-ukwam>T3			
+8	karma	12	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,9	karma	work				
+9	karwum	13	karwumihArhasi	kq1{kqw_prawyayaH:wumun;kqF;BvAxiH}/kq2{kqw_prawyayaH:wumun;kqF;svAxiH}/kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	sahAyakakriyA,11	karane	to_do				
+10	iha	3	0	iha{avya}	iha{avya}	aXikaraNam,9	isa	this				
+11	arhasi	14	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwakarwA,11.1;akarmakaH	yogya_hE	should_do				
+11.1	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wuma)	you				
+11.2	(waw)	8	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{2;eka})	karma,9	(vaha)	that				

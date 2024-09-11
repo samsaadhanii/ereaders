@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wyAjyam	5	wyAjyaM	wyAjya{puM}{2;eka}	wyaj1{kqw_prawyayaH:Nyaw;wyajaz;BvAxiH;puM}{2;eka}	vAkyakarma,6	wyAgane_ke_yogya_hEM	must_be_given_up				
-2	xoRavaw	3	xoRavaxiwyeke	xoRavaw{napuM}{1;eka}/xoRavaw{napuM}{2;eka}	xoRavaw{napuM}{1;eka}	viSeRaNam,5	xoRayukwa	as_an_evil				
-3	iwi	6	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,6	EsA	thus				
-4	eke	1	0	eke	eka{puM}{1;bahu}	viSeRaNam,7	kaI_eka	one_group				
-5	karma	4	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karma,1	karmamAwra	work				
-6	prAhuH	7	prAhurmanIRiNaH	prAhuH	pra_brU1{karwari;lat;pra;bahu;parasmEpaxI;pra_brUF;axAxiH}	aBihiwa_karwA,7	kahawe_hEM	said				
-7	manIRiNaH	2	0	manIRin{puM}{1;bahu}/manIRin{puM}{2;bahu}/manIRin{puM}{5;eka}/manIRin{puM}{6;eka}	manIRin{puM}{1;bahu}	karwA,6	vixvAn	of_great_thinkers				
-8	yajFa-xAna-wapaH-karma	10	yajFaxAnawapaHkarma	yajFa-xAna-wapas-karman{napuM}{1;eka}/karman{napuM}{2;eka}	yajFa-xAna-wapas-karman{napuM}{2;eka}	karma,10	yajFa_xAna_Ora_waparUpa_karma	activities_of_sacrifice,_charity_and_penance	<<yajFa-xAna-wapaH>Di-karma>K7			
-9	na	11	na	na{avya}	na{avya}	prawiReXaH,10	nahIM	never				
-10	wyAjyam	12	wyAjyamiwi	wyAjya{puM}{2;eka}	wyaj1{kqw_prawyayaH:Nyaw;wyajaz;BvAxiH;puM}{2;eka}	vAkyakarma,13.1	wyAgane_yogya_hEM	is_to_be_given_up				
-11	iwi	13	0	iwi{avya}	iwi{avya}	vAkya_xyowakakarma,13.1	yaha	thus				
-12	ca	9	cApare	ca{avya}	ca{avya}	sambanXaH,13.1	Ora	certainly				
-13	a-pare	8		apara{puM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/apara{napuM}{7;eka}/apara{napuM}{1;xvi}/apara{napuM}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}/aparA{swrI}{1;xvi}/aparA{swrI}{2;xvi}	apara{puM}{1;bahu}	karwA,13.1	xUsare_vixvAna	others	<na-pare>Tn			
-13.1	(AhuH)	14	(0)	(ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;parasmEpaxI;brUF;axAxiH})	(brU1{karwari;lat;pra;bahu;parasmEpaxI;brUF;axAxiH})	aBihiwa_karwA,13	(kahawe_hEM)	is_said				
+1	त्याज्यम्	5	त्याज्यं	त्याज्य{पुं}{2;एक}	त्यज्1{कृत्_प्रत्ययः:ण्यत्;त्यजँ;भ्वादिः;पुं}{2;एक}	वाक्यकर्म,6	त्यागने_के_योग्य_हैं	मुस्ट्_बे_गिवेन्_उप्				
+2	दोषवत्	3	दोषवदित्येके	दोषवत्{नपुं}{1;एक}/दोषवत्{नपुं}{2;एक}	दोषवत्{नपुं}{1;एक}	विशेषणम्,5	दोषयुक्त	अस्_अन्_एविल्				
+3	इति	6	0	इति{अव्य}	इति{अव्य}	वाक्यकर्म_द्योतकः,6	ऐसा	ट्हुस्				
+4	एके	1	0	एके	एक{पुं}{1;बहु}	विशेषणम्,7	कई_एक	ओने_ग्रोउप्				
+5	कर्म	4	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{1;एक}	कर्म,1	कर्ममात्र	तोर्क्				
+6	प्राहुः	7	प्राहुर्मनीषिणः	प्राहुः	प्र_ब्रू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;प्र_ब्रूञ्;अदादिः}	अभिहित_कर्ता,7	कहते_हैं	सइड्				
+7	मनीषिणः	2	0	मनीषिन्{पुं}{1;बहु}/मनीषिन्{पुं}{2;बहु}/मनीषिन्{पुं}{5;एक}/मनीषिन्{पुं}{6;एक}	मनीषिन्{पुं}{1;बहु}	कर्ता,6	विद्वान्	ओङ्_ग्रेअट्_ट्हिन्केर्स्				
+8	यज्ञ-दान-तपः-कर्म	10	यज्ञदानतपःकर्म	यज्ञ-दान-तपस्-कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	यज्ञ-दान-तपस्-कर्मन्{नपुं}{2;एक}	कर्म,10	यज्ञ_दान_और_तपरूप_कर्म	अच्टिविटिएस्_ओङ्_सच्रिङिचे,_च्हरिट्य्_अन्ड्_पेनन्चे	<<यज्ञ-दान-तपः>ढि-कर्म>ख्7			
+9	न	11	न	न{अव्य}	न{अव्य}	प्रतिषेधः,10	नहीं	नेवेर्				
+10	त्याज्यम्	12	त्याज्यमिति	त्याज्य{पुं}{2;एक}	त्यज्1{कृत्_प्रत्ययः:ण्यत्;त्यजँ;भ्वादिः;पुं}{2;एक}	वाक्यकर्म,13.1	त्यागने_योग्य_हैं	इस्_टो_बे_गिवेन्_उप्				
+11	इति	13	0	इति{अव्य}	इति{अव्य}	वाक्य_द्योतककर्म,13.1	यह	ट्हुस्				
+12	च	9	चापरे	च{अव्य}	च{अव्य}	सम्बन्धः,13.1	और	चेर्टइन्ल्य्				
+13	अ-परे	8		अपर{पुं}{7;एक}/अपर{नपुं}{1;द्वि}/अपर{नपुं}{2;द्वि}/अपर{नपुं}{7;एक}/अपर{नपुं}{1;द्वि}/अपर{नपुं}{2;द्वि}/अपरा{स्त्री}{1;द्वि}/अपरा{स्त्री}{2;द्वि}/अपरा{स्त्री}{1;द्वि}/अपरा{स्त्री}{2;द्वि}	अपर{पुं}{1;बहु}	कर्ता,13.1	दूसरे_विद्वान	ओट्हेर्स्	<न-परे>ठ्न्			
+13.1	(आहुः)	14	(0)	(अह्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;अहँ;स्वादिः}/ब्रू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ब्रूञ्;अदादिः})	(ब्रू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ब्रूञ्;अदादिः})	अभिहित_कर्ता,13	(कहते_हैं)	इस्_सइड्				

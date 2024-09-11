@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sama-xuHKa-suKaH	3	samaxuHKasuKaH	sama-xuHKa-suKa{puM}{1;eka}	sama-xuHKa-suKa{puM}{1;eka}	sup_samucciwaH,11	xuHKa-suKa_ko_samAna_samaJanevAlA	equal_in_distress_and_happiness	<sama-<xuHKa-suKaH>Di>Bs6			
-2	sva-sWaH	2	svasWaH	svasWa{puM}{1;eka}	svasWa{puM}{1;eka}	sup_samucciwaH,11	niranwara_AwmaBAva_meM_sWiwa	being_situated_himself	<sva-sWaH>U			
-3	sama-loRta-aSma-kAFcanaH	4	samaloRtASmakAFcanaH	sama-loRta-aSman-kAFcana{puM}{1;eka}	sama-loRta-aSman-kAFcana{puM}{1;eka}	sup_samucciwaH,11	mittI_pawWara_Ora_svarNa_meM_samAna_BAvavAlA	equal_in_a_lump_of_earth,_stone_and_gold	<sama-<loRta-aSma-kAFcanaH>Di>Bs6			
-4	wulya-priya-a-priyaH	6	wulyapriyApriyo	wulya-priya-apriya{puM}{1;eka}	wulya-priya-apriya{puM}{1;eka}	sup_samucciwaH,11	priya_waWA_apriya_ko_eka-sA_mAnanevAlA	equally_disposed_in_dear_and_undesirable	<wulya-<priya-<na-priyaH>Tn>Ds>Bs6			
-5	XIraH	5	XIraswulyaninxAwmasaMswuwiH	XIra{puM}{1;eka}	XIra{puM}{1;eka}	sup_samucciwaH,11	jFAnI	steady				
-6	wulya-ninxA-Awma-saMswuwiH	7	0	wulya-ninxA-Awman-saMswuwi{swrI}{1;eka}	wulya-ninxA-Awman-saMswuwi{swrI}{1;eka}	sup_samucciwaH,11	apanI_ninxA_swuwi_meM_BI_samAna_BAvavAlA	equally_disposed_in_defamation_and_in_praise_of_himself	<wulya-<ninxA-Awma-saMswuwiH>Ds>Bs6			
-7	mAna-apamAnayoH	9	mAnApamAnayoswulyaswulyo	mAna-apamAna{puM}{6;xvi}/apamAna{puM}{7;xvi}/apamAna{napuM}{6;xvi}/apamAna{napuM}{7;xvi}	mAna-apamAna{puM}{7;xvi}	aXikaraNam,8	jo_mAna_Ora_apamAna_meM	in_honor_and_dishonor	<mAna-apamAnayoH>Di			
-8	wulyaH	10	0	wulya{puM}{1;eka}	wulya{puM}{1;eka}	sup_samucciwaH,11	sama	equal				
-9	wulyaH	12	0	wulya{puM}{1;eka}	wulya{puM}{1;eka}	sup_samucciwaH,11	sama	equal				
-10	miwra-ari-pakRayoH	11	miwrAripakRayoH	miwra-arin-pakRa{puM}{6;xvi}/pakRa{puM}{7;xvi}/pakRa{napuM}{6;xvi}/pakRa{napuM}{7;xvi}	miwra-ari-pakRa{puM}{7;xvi}	aXikaraNam,9	miwra_Ora_vErI_ke_pakRa_meM	in_parties_of_friend_and_enemy	<<miwra-ari>Di-pakRayoH>T6			
-11	sarva-AramBa-pariwyAgI	13	sarvAramBapariwyAgI	sarvAramBa-pariwyAgI{swrI}{1;eka}/pariwyAgin{puM}{1;eka}	sarva-AramBa-pariwyAgin{puM}{1;eka}	viXeya_viSeRaNam,11.3	sampUrNa_AramBoM_meM_karwApana_ke_aBimAna_se_rahiwa	renouncer_of_all_endeavors	<<sarva-AramBa>K1-pariwyAgI>T6			
-11.1	(ca)	8	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,11	(Ora)	also				
-11.2	(yaH)	1	(0)	(yax{puM}{1;eka})	(yax{puM}{1;eka})	karwA,11.3	(jo)	one_who				
-11.3	(aswi)	14	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11.2;akarmakaH	(hE)	is				
-12	guNa-awIwaH	16	guNAwIwaH	guNa-awIwa{puM}{1;eka}	guNa-awIwa{puM}{1;eka}	karmasamAnAXikaraNam,14	guNAwIwa	transcendental_to_the_material_modes_of_nature	<guNa-awIwaH>T2			
-13	saH	15	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,14	vaha_(puruRa)	he				
-14	ucyawe	17	ucyawe	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwawakarma,13;sakarmakaH	kahA_jAwA_hE	is_said_to_be				
+1	सम-दुःख-सुखः	3	समदुःखसुखः	सम-दुःख-सुख{पुं}{1;एक}	सम-दुःख-सुख{पुं}{1;एक}	सुप्_समुच्चितः,11	दुःख-सुख_को_समान_समझनेवाला	एऋउअल्_इन्_डिस्ट्रेस्स्_अन्ड्_हप्पिनेस्स्	<सम-<दुःख-सुखः>ढि>भ्स्6			
+2	स्व-स्थः	2	स्वस्थः	स्वस्थ{पुं}{1;एक}	स्वस्थ{पुं}{1;एक}	सुप्_समुच्चितः,11	निरन्तर_आत्मभाव_में_स्थित	बेइन्ग्_सिटुअटेड्_हिम्सेल्ङ्	<स्व-स्थः>ऊ			
+3	सम-लोष्ट-अश्म-काञ्चनः	4	समलोष्टाश्मकाञ्चनः	सम-लोष्ट-अश्मन्-काञ्चन{पुं}{1;एक}	सम-लोष्ट-अश्मन्-काञ्चन{पुं}{1;एक}	सुप्_समुच्चितः,11	मिट्टी_पत्थर_और_स्वर्ण_में_समान_भाववाला	एऋउअल्_इन्_अ_लुम्प्_ओङ्_एअर्ट्ह्,_स्टोने_अन्ड्_गोल्ड्	<सम-<लोष्ट-अश्म-काञ्चनः>ढि>भ्स्6			
+4	तुल्य-प्रिय-अ-प्रियः	6	तुल्यप्रियाप्रियो	तुल्य-प्रिय-अप्रिय{पुं}{1;एक}	तुल्य-प्रिय-अप्रिय{पुं}{1;एक}	सुप्_समुच्चितः,11	प्रिय_तथा_अप्रिय_को_एक-सा_माननेवाला	एऋउअल्ल्य्_डिस्पोसेड्_इन्_डेअर्_अन्ड्_उन्डेसिरब्ले	<तुल्य-<प्रिय-<न-प्रियः>ठ्न्>ढ्स्>भ्स्6			
+5	धीरः	5	धीरस्तुल्यनिन्दात्मसंस्तुतिः	धीर{पुं}{1;एक}	धीर{पुं}{1;एक}	सुप्_समुच्चितः,11	ज्ञानी	स्टेअड्य्				
+6	तुल्य-निन्दा-आत्म-संस्तुतिः	7	0	तुल्य-निन्दा-आत्मन्-संस्तुति{स्त्री}{1;एक}	तुल्य-निन्दा-आत्मन्-संस्तुति{स्त्री}{1;एक}	सुप्_समुच्चितः,11	अपनी_निन्दा_स्तुति_में_भी_समान_भाववाला	एऋउअल्ल्य्_डिस्पोसेड्_इन्_डेङमटिओन्_अन्ड्_इन्_प्रइसे_ओङ्_हिम्सेल्ङ्	<तुल्य-<निन्दा-आत्म-संस्तुतिः>ढ्स्>भ्स्6			
+7	मान-अपमानयोः	9	मानापमानयोस्तुल्यस्तुल्यो	मान-अपमान{पुं}{6;द्वि}/अपमान{पुं}{7;द्वि}/अपमान{नपुं}{6;द्वि}/अपमान{नपुं}{7;द्वि}	मान-अपमान{पुं}{7;द्वि}	अधिकरणम्,8	जो_मान_और_अपमान_में	इन्_होनोर्_अन्ड्_डिस्होनोर्	<मान-अपमानयोः>ढि			
+8	तुल्यः	10	0	तुल्य{पुं}{1;एक}	तुल्य{पुं}{1;एक}	सुप्_समुच्चितः,11	सम	एऋउअल्				
+9	तुल्यः	12	0	तुल्य{पुं}{1;एक}	तुल्य{पुं}{1;एक}	सुप्_समुच्चितः,11	सम	एऋउअल्				
+10	मित्र-अरि-पक्षयोः	11	मित्रारिपक्षयोः	मित्र-अरिन्-पक्ष{पुं}{6;द्वि}/पक्ष{पुं}{7;द्वि}/पक्ष{नपुं}{6;द्वि}/पक्ष{नपुं}{7;द्वि}	मित्र-अरि-पक्ष{पुं}{7;द्वि}	अधिकरणम्,9	मित्र_और_वैरी_के_पक्ष_में	इन्_पर्टिएस्_ओङ्_ङ्रिएन्ड्_अन्ड्_एनेम्य्	<<मित्र-अरि>ढि-पक्षयोः>ठ्6			
+11	सर्व-आरम्भ-परित्यागी	13	सर्वारम्भपरित्यागी	सर्वारम्भ-परित्यागी{स्त्री}{1;एक}/परित्यागिन्{पुं}{1;एक}	सर्व-आरम्भ-परित्यागिन्{पुं}{1;एक}	विधेय_विशेषणम्,11.3	सम्पूर्ण_आरम्भों_में_कर्तापन_के_अभिमान_से_रहित	रेनोउन्चेर्_ओङ्_अल्ल्_एन्डेअवोर्स्	<<सर्व-आरम्भ>ख्1-परित्यागी>ठ्6			
+11.1	(च)	8	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,11	(और)	अल्सो				
+11.2	(यः)	1	(0)	(यद्{पुं}{1;एक})	(यद्{पुं}{1;एक})	कर्ता,11.3	(जो)	ओने_त्हो				
+11.3	(अस्ति)	14	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,11.2;अकर्मकः	(है)	इस्				
+12	गुण-अतीतः	16	गुणातीतः	गुण-अतीत{पुं}{1;एक}	गुण-अतीत{पुं}{1;एक}	कर्मसमानाधिकरणम्,14	गुणातीत	ट्रन्स्चेन्डेन्टल्_टो_ट्हे_मटेरिअल्_मोडेस्_ओङ्_नटुरे	<गुण-अतीतः>ठ्2			
+13	सः	15	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्म,14	वह_(पुरुष)	हे				
+14	उच्यते	17	उच्यते	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहिततकर्म,13;सकर्मकः	कहा_जाता_है	इस्_सइड्_टो_बे				

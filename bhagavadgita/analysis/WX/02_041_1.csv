@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vyavasAya-AwmikA	3	vyavasAyAwmikA	vyavasAya-AwmikA{swrI}{1;eka}	vyavasAya-AwmikA{swrI}{1;eka}	viSeRaNam,2	niScayAwmikA	determinate_and_directed_towards_one_ideal	<vyavasAya-AwmikA>Bs6			
+2	buxXiH	4	buxXirekeha	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,5.1	buxXi	intellect				
+3	ekA	5	0	ekA{swrI}{1;eka}	ekA{swrI}{1;eka}	viXeya_viSeRaNam,5.1	eka_hI	singly				
+4	iha	2	0	iha{avya}	iha{avya}	aXikaraNam,5.1	isa_karmayoga_meM	in_this_path_(of_disinterested_action)				
+5	kuru-nanxana	1	kurunanxana	kuru-nanxana{puM}{8;eka}	kurunanxana{puM}{8;eka}	samboXyaH,5.1	he_arjuna	O_beloved_child_of_the_Kurus	<kuru-nanxana>T6			
+5.1	(Bavawi)	6	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,2;akarmakaH	(howI_hE)	becomes				
+6	bahu-SAKAH	12	bahuSAKA	bahu-SAKA{swrI}{1;bahu}/SAKA{swrI}{2;bahu}/SAKA{swrI}{8;bahu}	bahu-SAKA{swrI}{1;bahu}	sup_samucciwaH,8	bahuwa_BexoMvAlI	innumerable_aims	<bahu-SAKAH>Bs7			
+7	hi	8	hyananwASca	hi{avya}	hi{avya}	sambanXaH,11.1	niScaya_hI	whereas				
+8	an-anwAH	10	0	ananwa{puM}{1;bahu}/ananwa{puM}{8;bahu}/ananwA{swrI}{1;bahu}/ananwA{swrI}{2;bahu}/ananwA{swrI}{8;bahu}	ananwA{swrI}{1;bahu}	viXeya_viSeRaNam,11.1	ananwa	wanders_in_all_directions	<na-anwAH>Bsmn			
+9	ca	11	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	and				
+10	buxXayaH	9	buxXayoZvyavasAyinAm	buxXi{swrI}{1;bahu}/buxXi{swrI}{8;bahu}	buxXi{swrI}{1;bahu}	karwA,11.1	buxXiyAz	intellect				
+11	a-vyavasAyinAm	7	0	avyavasAyin{puM}{6;bahu}/avyavasAyin{napuM}{6;bahu}	a-vyavasAyin{puM}{6;bahu}	RaRTIsambanXaH,10	asWira_vicAravAle_kI	of_the_undecided_(ignorant_men_moved_by_desires)	<na-vyavasAyinAm>Tn			
+11.1	(Bavanwi)	13	(0)	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,10;akarmakaH	(howI_hEM)	are				

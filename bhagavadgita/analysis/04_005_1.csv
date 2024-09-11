@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	bahUni	5	bahUni	bahu{napuM}{1;bahu}/bahu{napuM}{2;bahu}/bahu{napuM}{8;bahu}	bahu{napuM}{1;bahu}	viSeRaNam,4	bahuwa-se	many				
-2	me	2	me	asmax{6;eka}	asmax{6;eka}	sup_samucciwaH,5	mere	of_Mine				
-3	vyawIwAni	7	vyawIwAni	vyawIwa{napuM}{1;bahu}/vyawIwa{napuM}{2;bahu}/vyawIwa{napuM}{8;bahu}	vi_awi_i1{kqw_prawyayaH:kwa;vi_awi_iN;axAxiH;napuM}{1;bahu}	aBihiwa_karma,4;sakarmakaH	ho_cuke_hEM	have_passed				
-4	janmAni	6	janmAni	janma{napuM}{1;bahu}/janma{napuM}{2;bahu}/janma{napuM}{8;bahu}/janman{napuM}{1;bahu}/janman{napuM}{8;bahu}	janman{napuM}{1;bahu}	karma,3	janma	births				
-5	wava	3	wava	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,4	were	of_yours				
-6	ca	4	cArjuna	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	and_also				
-7	arjuna	1		arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,3	arjuna	O_Arjuna				
-8	wAni	15	wAnyahaM	wax{napuM}{1;bahu}/wax{napuM}{2;bahu}	wax{napuM}{1;bahu}	viSeRaNam,11.1	una	all_those				
-9	aham	8		asmax{1;eka}	asmax{1;eka}	karwA,10	mEM	I				
-10	vexa	11	vexa	vexa{puM}{8;eka}/vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}/vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,9;sakarmakaH	jAnawA_hUz	do_know				
-11	sarvANi	9	sarvANi	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarvANI{swrI}{8;eka}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{1;bahu}	viSeRaNam,11.1	saba	all				
-11.1	(janmAni)	10	()	(janma{napuM}{1;bahu}/janma{napuM}{2;bahu}/janma{napuM}{8;bahu}/janman{napuM}{1;bahu}/janman{napuM}{8;bahu})	(janman{napuM}{1;bahu})	karma,10	(janma_ko)	births				
-12	wvam	13	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,14	wuma	you				
-13	na	14	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	not				
-14	vewWa	15	vewWa	vix1{karwari;lat;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,12	jAnawe_ho	know				
-15	paranwapa	12	paranwapa	paranwapa{puM}{8;eka}/paranwapa{napuM}{8;eka}	paranwapa{puM}{8;eka}	samboXyaH,14	he_paranwapa	O_subduer_of_the_enemy				
+1	बहूनि	5	बहूनि	बहु{नपुं}{1;बहु}/बहु{नपुं}{2;बहु}/बहु{नपुं}{8;बहु}	बहु{नपुं}{1;बहु}	विशेषणम्,4	बहुत-से	मन्य्				
+2	मे	2	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	सुप्_समुच्चितः,5	मेरे	ओङ्_ंइने				
+3	व्यतीतानि	7	व्यतीतानि	व्यतीत{नपुं}{1;बहु}/व्यतीत{नपुं}{2;बहु}/व्यतीत{नपुं}{8;बहु}	वि_अति_इ1{कृत्_प्रत्ययः:क्त;वि_अति_इण्;अदादिः;नपुं}{1;बहु}	अभिहित_कर्म,4;सकर्मकः	हो_चुके_हैं	हवे_पस्सेड्				
+4	जन्मानि	6	जन्मानि	जन्म{नपुं}{1;बहु}/जन्म{नपुं}{2;बहु}/जन्म{नपुं}{8;बहु}/जन्मन्{नपुं}{1;बहु}/जन्मन्{नपुं}{8;बहु}	जन्मन्{नपुं}{1;बहु}	कर्म,3	जन्म	बिर्ट्ह्स्				
+5	तव	3	तव	युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,4	तेरे	ओङ्_योउर्स्				
+6	च	4	चार्जुन	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और	अन्ड्_अल्सो				
+7	अर्जुन	1		अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,3	अर्जुन	औ_आर्जुन				
+8	तानि	15	तान्यहं	तद्{नपुं}{1;बहु}/तद्{नपुं}{2;बहु}	तद्{नपुं}{1;बहु}	विशेषणम्,11.1	उन	अल्ल्_ट्होसे				
+9	अहम्	8		अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,10	मैं	ई				
+10	वेद	11	वेद	वेद{पुं}{8;एक}/विद्1{कर्तरि;लट्;उ;एक;परस्मैपदी;विदँ;अदादिः}/विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;उ;एक;परस्मैपदी;विदँ;अदादिः}	अभिहित_कर्ता,9;सकर्मकः	जानता_हूँ	डो_क्नोत्				
+11	सर्वाणि	9	सर्वाणि	सर्व{नपुं}{1;बहु}/सर्व{नपुं}{2;बहु}/सर्वाणी{स्त्री}{8;एक}/सर्व्1{कर्तरि;लोट्;उ;एक;परस्मैपदी;षर्वँ;भ्वादिः}	सर्व{नपुं}{1;बहु}	विशेषणम्,11.1	सब	अल्ल्				
+11.1	(जन्मानि)	10	()	(जन्म{नपुं}{1;बहु}/जन्म{नपुं}{2;बहु}/जन्म{नपुं}{8;बहु}/जन्मन्{नपुं}{1;बहु}/जन्मन्{नपुं}{8;बहु})	(जन्मन्{नपुं}{1;बहु})	कर्म,10	(जन्म_को)	बिर्ट्ह्स्				
+12	त्वम्	13	त्वं	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,14	तुम	योउ				
+13	न	14	न	न{अव्य}	न{अव्य}	प्रतिषेधः,14	नहीं	नोट्				
+14	वेत्थ	15	वेत्थ	विद्1{कर्तरि;लट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;म;एक;परस्मैपदी;विदँ;अदादिः}	अभिहित_कर्ता,12	जानते_हो	क्नोत्				
+15	परन्तप	12	परन्तप	परन्तप{पुं}{8;एक}/परन्तप{नपुं}{8;एक}	परन्तप{पुं}{8;एक}	सम्बोध्यः,14	हे_परन्तप	औ_सुब्डुएर्_ओङ्_ट्हे_एनेम्य्				

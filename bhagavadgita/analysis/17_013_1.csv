@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	viXi-hInam	1	viXihInamasqRtAnnaM	viXi-hIna{puM}{2;eka}/hIna{napuM}{1;eka}/hIna{napuM}{2;eka}	viXi-hIna{puM}{2;eka}	viSeRaNam,6	SAswraviXi_se_hIna	without_scriptural_direction	<viXi-hInam>T3			
-2	a-sqRta-annam	2	0	asqRtAnna{puM}{2;eka}/asqRtAnna{napuM}{1;eka}/asqRtAnna{napuM}{2;eka}	na-sqRtAnna{puM}{2;eka}	viSeRaNam,6	annaxAna_se_rahiwa	without_distribution_of_prasadam	<<na-sqRta>Tn-annam>Bs7			
-3	manwra-hInam	3	manwrahInamaxakRiNam	manwra-hIna{puM}{2;eka}/hIna{napuM}{1;eka}/hIna{napuM}{2;eka}	manwra-hIna{puM}{2;eka}	viSeRaNam,6	binA_manwroM_ke	with_no_chanting_of_the_Vedic_hymns	<manwra-hInam>T3			
-4	a-xakRiNam	4	0	a-xakRiNam{avya}/xakRiNa{puM}{2;eka}/xakRiNa{napuM}{1;eka}/xakRiNa{napuM}{2;eka}/xakRiNa{puM}{2;eka}	na-xakRiNa{puM}{2;eka}	viSeRaNam,6	binA_xakRiNA_ke	with_no_remunerations_to_the_priests	<na-xakRiNam>Bsmn			
-5	SraxXA-virahiwam	5	SraxXAvirahiwaM	SraxXA-virahiwa{puM}{2;eka}/virahiwa{napuM}{1;eka}/virahiwa{napuM}{2;eka}	SraxXA-virahiwa{puM}{2;eka}	viSeRaNam,6	binA_SraxXA_ke_kiye_jAnevAle	without_faith	<SraxXA-virahiwaM>T3			
-6	yajFam	6	yajFaM	yajFa{puM}{2;eka}	yajFa{puM}{2;eka}	karma,8	yajFa_ko	sacrifice				
-7	wAmasam	7	wAmasaM	wAmasa{puM}{2;eka}/wAmasa{napuM}{1;eka}/wAmasa{napuM}{2;eka}	wAmasa{puM}{2;eka}	karmasamAnAXikaraNam,8	wAmasa_yajFa	in_the_mode_of_ignorance				
-8	paricakRawe	8	paricakRawe	paricakRawe	pari_cakR1{karwari;lat;pra;bahu;AwmanepaxI;pari_cakRizf;axAxiH}		kahawe_hEM	is_to_be_considered				
+1	विधि-हीनम्	1	विधिहीनमसृष्टान्नं	विधि-हीन{पुं}{2;एक}/हीन{नपुं}{1;एक}/हीन{नपुं}{2;एक}	विधि-हीन{पुं}{2;एक}	विशेषणम्,6	शास्त्रविधि_से_हीन	तिट्होउट्_स्च्रिप्टुरल्_डिरेच्टिओन्	<विधि-हीनम्>ठ्3			
+2	अ-सृष्ट-अन्नम्	2	0	असृष्टान्न{पुं}{2;एक}/असृष्टान्न{नपुं}{1;एक}/असृष्टान्न{नपुं}{2;एक}	न-सृष्टान्न{पुं}{2;एक}	विशेषणम्,6	अन्नदान_से_रहित	तिट्होउट्_डिस्ट्रिबुटिओन्_ओङ्_प्रसडम्	<<न-सृष्ट>ठ्न्-अन्नम्>भ्स्7			
+3	मन्त्र-हीनम्	3	मन्त्रहीनमदक्षिणम्	मन्त्र-हीन{पुं}{2;एक}/हीन{नपुं}{1;एक}/हीन{नपुं}{2;एक}	मन्त्र-हीन{पुं}{2;एक}	विशेषणम्,6	बिना_मन्त्रों_के	तिट्ह्_नो_च्हन्टिन्ग्_ओङ्_ट्हे_Vएडिच्_ह्य्म्न्स्	<मन्त्र-हीनम्>ठ्3			
+4	अ-दक्षिणम्	4	0	अ-दक्षिणम्{अव्य}/दक्षिण{पुं}{2;एक}/दक्षिण{नपुं}{1;एक}/दक्षिण{नपुं}{2;एक}/दक्षिण{पुं}{2;एक}	न-दक्षिण{पुं}{2;एक}	विशेषणम्,6	बिना_दक्षिणा_के	तिट्ह्_नो_रेमुनेरटिओन्स्_टो_ट्हे_प्रिएस्ट्स्	<न-दक्षिणम्>भ्स्म्न्			
+5	श्रद्धा-विरहितम्	5	श्रद्धाविरहितं	श्रद्धा-विरहित{पुं}{2;एक}/विरहित{नपुं}{1;एक}/विरहित{नपुं}{2;एक}	श्रद्धा-विरहित{पुं}{2;एक}	विशेषणम्,6	बिना_श्रद्धा_के_किये_जानेवाले	तिट्होउट्_ङइट्ह्	<श्रद्धा-विरहितं>ठ्3			
+6	यज्ञम्	6	यज्ञं	यज्ञ{पुं}{2;एक}	यज्ञ{पुं}{2;एक}	कर्म,8	यज्ञ_को	सच्रिङिचे				
+7	तामसम्	7	तामसं	तामस{पुं}{2;एक}/तामस{नपुं}{1;एक}/तामस{नपुं}{2;एक}	तामस{पुं}{2;एक}	कर्मसमानाधिकरणम्,8	तामस_यज्ञ	इन्_ट्हे_मोडे_ओङ्_इग्नोरन्चे				
+8	परिचक्षते	8	परिचक्षते	परिचक्षते	परि_चक्ष्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;परि_चक्षिँङ्;अदादिः}		कहते_हैं	इस्_टो_बे_चोन्सिडेरेड्				

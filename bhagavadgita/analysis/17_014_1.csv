@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xeva-xvi-ja-guru-prAjFa-pUjanam	1	xevaxvijaguruprAjFapUjanaM	xeva-xvija-guru-prAjFa-pUjana{napuM}{1;eka}/pUjana{napuM}{2;eka}	xeva-xvija-guru-prAjFa-pUjana{napuM}{1;eka}	sup_samucciwaH,5	xevawA_brAhmaNa_guru_Ora_jFAnIjanoM_kA_pUjana	worship_of_the_Supreme_Lord,_the_brahman,_the_spiritual_master_and_worshipable_personalities	<<xeva-<xvi-jaH>U-guru-prAjFa>Di-pUjanaM>T6			
-2	SOcam	2	SOcamArjavam	SOca{napuM}{1;eka}/SOca{napuM}{2;eka}	SOca{napuM}{1;eka}	sup_samucciwaH,5	paviwrawA	cleanliness				
-3	Arjavam	3	0	Arjava{napuM}{1;eka}/Arjava{napuM}{2;eka}	Arjava{napuM}{1;eka}	sup_samucciwaH,5	saralawA	simplicity				
-4	brahma-caryam	4	brahmacaryamahiMsA	brahmacarya{napuM}{1;eka}/brahmacarya{napuM}{2;eka}	brahmacarya{napuM}{1;eka}	sup_samucciwaH,5	brahmacarya	celibacy	<brahma-caryam>T4			
-5	a-hiMsA	5	0	a-hiMsA{swrI}{1;eka}	ahiMsA{swrI}{1;eka}	karma,9	ahiMsA	nonviolence	<na-hiMsA>Tn			
-6	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
-7	SArIram	7	SArIraM	SArIra{puM}{2;eka}/SArIra{napuM}{1;eka}/SArIra{napuM}{2;eka}	SArIra{napuM}{1;eka}	viSeRaNam,8	SarIrasambanXI	pertaining_to_the_body				
-8	wapaH	8	wapa	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	karmasamAnAXikaraNam,9	wapa	austerity				
-9	ucyawe	9	ucyawe	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,8;sakarmakaH	kahA_jAwA_hE	is_said_to_be				
+1	देव-द्वि-ज-गुरु-प्राज्ञ-पूजनम्	1	देवद्विजगुरुप्राज्ञपूजनं	देव-द्विज-गुरु-प्राज्ञ-पूजन{नपुं}{1;एक}/पूजन{नपुं}{2;एक}	देव-द्विज-गुरु-प्राज्ञ-पूजन{नपुं}{1;एक}	सुप्_समुच्चितः,5	देवता_ब्राह्मण_गुरु_और_ज्ञानीजनों_का_पूजन	तोर्स्हिप्_ओङ्_ट्हे_शुप्रेमे_ऌओर्ड्,_ट्हे_ब्रह्मन्,_ट्हे_स्पिरिटुअल्_मस्टेर्_अन्ड्_तोर्स्हिपब्ले_पेर्सोनलिटिएस्	<<देव-<द्वि-जः>ऊ-गुरु-प्राज्ञ>ढि-पूजनं>ठ्6			
+2	शौचम्	2	शौचमार्जवम्	शौच{नपुं}{1;एक}/शौच{नपुं}{2;एक}	शौच{नपुं}{1;एक}	सुप्_समुच्चितः,5	पवित्रता	च्लेअन्लिनेस्स्				
+3	आर्जवम्	3	0	आर्जव{नपुं}{1;एक}/आर्जव{नपुं}{2;एक}	आर्जव{नपुं}{1;एक}	सुप्_समुच्चितः,5	सरलता	सिम्प्लिचिट्य्				
+4	ब्रह्म-चर्यम्	4	ब्रह्मचर्यमहिंसा	ब्रह्मचर्य{नपुं}{1;एक}/ब्रह्मचर्य{नपुं}{2;एक}	ब्रह्मचर्य{नपुं}{1;एक}	सुप्_समुच्चितः,5	ब्रह्मचर्य	चेलिबच्य्	<ब्रह्म-चर्यम्>ठ्4			
+5	अ-हिंसा	5	0	अ-हिंसा{स्त्री}{1;एक}	अहिंसा{स्त्री}{1;एक}	कर्म,9	अहिंसा	नोन्विओलेन्चे	<न-हिंसा>ठ्न्			
+6	च	6	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और	अल्सो				
+7	शारीरम्	7	शारीरं	शारीर{पुं}{2;एक}/शारीर{नपुं}{1;एक}/शारीर{नपुं}{2;एक}	शारीर{नपुं}{1;एक}	विशेषणम्,8	शरीरसम्बन्धी	पेर्टइनिन्ग्_टो_ट्हे_बोड्य्				
+8	तपः	8	तप	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}	तपस्{नपुं}{1;एक}	कर्मसमानाधिकरणम्,9	तप	अउस्टेरिट्य्				
+9	उच्यते	9	उच्यते	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहितकर्म,8;सकर्मकः	कहा_जाता_है	इस्_सइड्_टो_बे				

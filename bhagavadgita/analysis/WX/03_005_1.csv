@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+14	prakqwijEH	1	prakqwijErguNEH	prakqwija{puM}{3;bahu}/prakqwija{napuM}{3;bahu}	prakqwija{puM}{3;bahu}	viSeRaNam,15	prakqwijaniwa	by_modes_of_Prakrti	<prakqwi-jEH>U			
+15	guNEH	2	0	guNa{puM}{3;bahu}	guNa{puM}{3;bahu}	prayojakakarwA,9	guNoM_xvArA	by_qualities				
+10	hi	3	hyavaSaH	hi{avya}	hi{avya}	sambanXaH,9	kyoMki	for				
+11	avaSaH	4	0	a-vaSa{puM}{1;eka}	avaSa{puM}{1;eka}	viSeRaNam,13	paravaSa_huA	helplessly	<na-vaSaH>Tn			
+13	sarvaH	5	sarvaH	sarva{puM}{1;eka}	sarva{puM}{1;eka}	prayojyakarwA,9	saba_(sArA_manuRya_samuxAya)	everyone				
+12	karma	6	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karma,9	karma_karane_ke_liye	to_action				
+9	kAryawe	7	kAryawe	kAryawA{swrI}{1;xvi}/kAryawA{swrI}{2;xvi}/kAryawA{swrI}{8;eka}/kAryawA{swrI}{8;xvi}	kq3_Nic{karwari;lat;pra;eka;AwmanepaxI;dukqF_Nic;wanAxiH}	prawiyogI,8.1	bAXya_kiyA_jAwA_hE	driven				
+8.1	(awaH)	8	()	awaH{avya}	awaH{avya}	anuyogI,7	awaH		anuyogI,16			
+1	na	9	na	na{avya}	na{avya}	prawiReXaH,7	nahIM	not				
+2	hi	10	hi	hi{avya}	hi{avya}	sambanXaH,7	niHsanxeha	surely				
+3	kaSciw	11	kaSciwkRaNamapi	kaSciw{avya}/kiFciw{puM}{1;eka}	kiFciw{puM}{1;eka}	karwA,7	koI_BI	none				
+6	jAwu	12	jAwu	jAwu{avya}	jAwu{avya}	kriyAviSeRaNam,7	kisI_BI_kAla_meM	ever				
+4	kRaNam	13	0	kRaNa{puM}{2;eka}/kRaNa{napuM}{1;eka}/kRaNa{napuM}{2;eka}	kRaNa{puM}{2;eka}	kriyAviSeRaNam,7	kRaNamAwra	even_for_a_moment				
+5	api	14	0	api{avya}	api{avya}	sambanXaH,4	BI	also				
+8	akarmakqw	15	0	a-karman-kqw{puM}{1;eka}	na-karman-kqw{puM}{1;eka}	viXeya_viSeRaNam,7	binA_karma_kiye	inactive	<a-<karma-kqw>U>Tn			
+7	wiRTawi	16	wiRTawyakarmakqw	wiRTaw{puM}{7;eka}/wiRTaw{napuM}{7;eka}/sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}	sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}	aBihiwa_karwA,3;sakarmaka	rahawA	remain				

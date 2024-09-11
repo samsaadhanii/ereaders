@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wAn	1	wAnsamIkRya	wax{puM}{2;bahu}	wax{puM}{2;bahu}	viSeRaNam,6	una	all_of_them				
-2	samIkRya	5	0	sam_IkR1{kqw_prawyayaH:lyap;IkRaz;BvAxiH}	sam_IkR1{kqw_prawyayaH:lyap;sam_IkRaz;BvAxiH}	pUrvakAlaH,13	xeKakara	after_seeing				
-3	saH	6	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,4	ve	he				
-4	kOnweyaH	7	kOnweyaH	kOnweya{puM}{1;eka}	kOnweya{puM}{1;eka}	karwA,13	kunwIpuwra_arjuna	the_son_of_Kunti				
-5	sarvAn	3	sarvAnbanXUnavasWiwAn	sarva{puM}{2;bahu}	sarva{puM}{2;bahu}	viSeRaNam,6	sampUrNa	all				
-6	banXUn	4	0	banXu{puM}{2;bahu}	banXu{puM}{2;bahu}	karma,2	banXuoM_ko	the_relatives				
-7	avasWiwAn	2	0	avasWiwa{puM}{2;bahu}	ava_sWA1{kqw_prawyayaH:kwa;ava_RTA;BvAxiH;puM}{2;bahu}	viSeRaNam,6	upasWiwa	present_there				
-8	kqpayA	9	kqpayA	kqpA{swrI}{3;eka}	kqpA{swrI}{3;eka}	karwA,10	karuNA_se	with_compassion				
-9	parayA	8	parayAviRto	parA{swrI}{3;eka}/parA{swrI}{3;eka}	parA{swrI}{3;eka}	viSeRaNam,8	awyanwa	with_deep				
-10	AviRtaH	10	0	AviRta{puM}{1;eka}	Af_viR2{kqw_prawyayaH:kwa;Af_viRLz;juhowyAxiH;puM}{1;eka}	viSeRaNam,4	yukwa_hokara	overwhelmed_by				
-11	viRIxan	11	viRIxannixamabravIw	viRIxan	vi_sax1{kqw_prawyayaH:Sawq;vi_RaxLz;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,13	Soka_karawe_hue	in_sorrow				
-12	ixam	12	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	karma,13	yaha_(vacana)	thus				
-13	abravIw	13	0	brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;axAxiH}	brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,4;sakarmakaH	bole	spoke				
+1	तान्	1	तान्समीक्ष्य	तद्{पुं}{2;बहु}	तद्{पुं}{2;बहु}	विशेषणम्,6	उन	अल्ल्_ओङ्_ट्हेम्				
+2	समीक्ष्य	5	0	सम्_ईक्ष्1{कृत्_प्रत्ययः:ल्यप्;ईक्षँ;भ्वादिः}	सम्_ईक्ष्1{कृत्_प्रत्ययः:ल्यप्;सम्_ईक्षँ;भ्वादिः}	पूर्वकालः,13	देखकर	अङ्टेर्_सेएइन्ग्				
+3	सः	6	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	विशेषणम्,4	वे	हे				
+4	कौन्तेयः	7	कौन्तेयः	कौन्तेय{पुं}{1;एक}	कौन्तेय{पुं}{1;एक}	कर्ता,13	कुन्तीपुत्र_अर्जुन	ट्हे_सोन्_ओङ्_खुन्टि				
+5	सर्वान्	3	सर्वान्बन्धूनवस्थितान्	सर्व{पुं}{2;बहु}	सर्व{पुं}{2;बहु}	विशेषणम्,6	सम्पूर्ण	अल्ल्				
+6	बन्धून्	4	0	बन्धु{पुं}{2;बहु}	बन्धु{पुं}{2;बहु}	कर्म,2	बन्धुओं_को	ट्हे_रेलटिवेस्				
+7	अवस्थितान्	2	0	अवस्थित{पुं}{2;बहु}	अव_स्था1{कृत्_प्रत्ययः:क्त;अव_ष्ठा;भ्वादिः;पुं}{2;बहु}	विशेषणम्,6	उपस्थित	प्रेसेन्ट्_ट्हेरे				
+8	कृपया	9	कृपया	कृपा{स्त्री}{3;एक}	कृपा{स्त्री}{3;एक}	कर्ता,10	करुणा_से	तिट्ह्_चोम्पस्सिओन्				
+9	परया	8	परयाविष्टो	परा{स्त्री}{3;एक}/परा{स्त्री}{3;एक}	परा{स्त्री}{3;एक}	विशेषणम्,8	अत्यन्त	तिट्ह्_डेएप्				
+10	आविष्टः	10	0	आविष्ट{पुं}{1;एक}	आङ्_विष्2{कृत्_प्रत्ययः:क्त;आङ्_विषॢँ;जुहोत्यादिः;पुं}{1;एक}	विशेषणम्,4	युक्त_होकर	ओवेर्त्हेल्मेड्_ब्य्				
+11	विषीदन्	11	विषीदन्निदमब्रवीत्	विषीदन्	वि_सद्1{कृत्_प्रत्ययः:शतृ;वि_षदॢँ;भ्वादिः;पुं}{1;एक}	वर्तमानसमानकालः,13	शोक_करते_हुए	इन्_सोर्रोत्				
+12	इदम्	12	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	कर्म,13	यह_(वचन)	ट्हुस्				
+13	अब्रवीत्	13	0	ब्रू1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;ब्रूञ्;अदादिः}	ब्रू1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;ब्रूञ्;अदादिः}	अभिहित_कर्ता,4;सकर्मकः	बोले	स्पोके				

@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	bIjam	6	bIjaM	bIja{napuM}{1;eka}/bIja{napuM}{2;eka}	bIja{napuM}{2;eka}	karmasamAnAXikaraNam,4	bIja	the_seed				
-2	mAm	3	mAM	asmax{2;eka}	asmax{2;eka}	karma,4	muJako	unto_Me				
-3	sarva-BUwAnAm	4	sarvaBUwAnAM	sarva-BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}	sarva-BUwa{puM}{6;bahu}	RaRTIsambanXaH,1	sampUrNa_BUwoM_kA	of_all_living_entities	<sarva-BUwAnAM>K1			
-4	vixXi	7	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,6.1;sakarmakaH	jAna	try_to_understand				
-5	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_of_Prtha				
-6	sanAwanam	5	sanAwanam	sanAwana{puM}{2;eka}	sanAwana{puM}{2;eka}	viSeRaNam,1	sanAwana	original_eternal				
-6.1	(wvam)	2	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wU)	you				
-7	buxXiH	10	buxXirbuxXimawAmasmi	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	viXeya_viSeRaNam,9	buxXi	intelligence				
-8	buxXimawAm	9	0	buxXimaw{puM}{6;bahu}/buxXimaw{napuM}{6;bahu}	buxXimaw{puM}{6;bahu}	RaRTIsambanXaH,7	buxXimAnoM_kI	of_the_intelligent				
-9	asmi	14	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,12;akarmakaH	hUz	am				
-10	wejaH	13	wejaswejasvinAmaham	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{1;eka}	sup_samucciwaH,7	weja	prowess				
-11	wejasvinAm	12	0	wejasvin{puM}{6;bahu}	wejasvin{puM}{6;bahu}	RaRTIsambanXaH,10	wejasviyoM_kA	of_the_powerful				
-11.1	(ca)	11	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,7	(Ora)	and				
-12	aham	8	0	asmax{1;eka}	asmax{1;eka}	karwA,9	mEM	I				
+1	बीजम्	6	बीजं	बीज{नपुं}{1;एक}/बीज{नपुं}{2;एक}	बीज{नपुं}{2;एक}	कर्मसमानाधिकरणम्,4	बीज	ट्हे_सेएड्				
+2	माम्	3	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,4	मुझको	उन्टो_ंए				
+3	सर्व-भूतानाम्	4	सर्वभूतानां	सर्व-भूत{पुं}{6;बहु}/भूत{नपुं}{6;बहु}/भूता{स्त्री}{6;बहु}	सर्व-भूत{पुं}{6;बहु}	षष्ठीसम्बन्धः,1	सम्पूर्ण_भूतों_का	ओङ्_अल्ल्_लिविन्ग्_एन्टिटिएस्	<सर्व-भूतानां>ख्1			
+4	विद्धि	7	विद्धि	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,6.1;सकर्मकः	जान	ट्र्य्_टो_उन्डेर्स्टन्ड्				
+5	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,4	हे_अर्जुन	औ_सोन्_ओङ्_फ्र्ट्ह				
+6	सनातनम्	5	सनातनम्	सनातन{पुं}{2;एक}	सनातन{पुं}{2;एक}	विशेषणम्,1	सनातन	ओरिगिनल्_एटेर्नल्				
+6.1	(त्वम्)	2	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,4	(तू)	योउ				
+7	बुद्धिः	10	बुद्धिर्बुद्धिमतामस्मि	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	विधेय_विशेषणम्,9	बुद्धि	इन्टेल्लिगेन्चे				
+8	बुद्धिमताम्	9	0	बुद्धिमत्{पुं}{6;बहु}/बुद्धिमत्{नपुं}{6;बहु}	बुद्धिमत्{पुं}{6;बहु}	षष्ठीसम्बन्धः,7	बुद्धिमानों_की	ओङ्_ट्हे_इन्टेल्लिगेन्ट्				
+9	अस्मि	14	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,12;अकर्मकः	हूँ	अम्				
+10	तेजः	13	तेजस्तेजस्विनामहम्	तेजस्{नपुं}{1;एक}/तेजस्{नपुं}{2;एक}/तेजस्{नपुं}{8;एक}	तेजस्{नपुं}{1;एक}	सुप्_समुच्चितः,7	तेज	प्रोतेस्स्				
+11	तेजस्विनाम्	12	0	तेजस्विन्{पुं}{6;बहु}	तेजस्विन्{पुं}{6;बहु}	षष्ठीसम्बन्धः,10	तेजस्वियों_का	ओङ्_ट्हे_पोतेर्ङुल्				
+11.1	(च)	11	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,7	(और)	अन्ड्				
+12	अहम्	8	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,9	मैं	ई				

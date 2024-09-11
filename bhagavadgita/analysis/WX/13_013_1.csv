@@ -1,0 +1,9 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sarvawaH-pANi-pAxam	1	sarvawaHpANipAxaM	sarvawaH-pANin-pAxa{puM}{2;eka}	sarvawaH-pANi-pAxa{napuM}{1;eka}	viSeRaNam,2	saba_ora_hAWa-pEravAlA	everywhere_hands_and_legs	<sarvawaH-<pANi-pAxaM>Ds>Bs6			
+2	waw	4	wawsarvawoZkRiSiromuKam	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,8	vaha	that				
+3	sarvawaH-akRi-SiraH-muKam	2		sarvawaH-akRi-Siras-muKa{puM}{2;eka}/muKa{napuM}{1;eka}/muKa{napuM}{2;eka}	sarvawaH-akRi-Siras-muKa{napuM}{1;eka}	viSeRaNam,2	saba_ora_newra_sira_Ora_muKavAlA	everywhere_eyes_head_and_face	<sarvawaH-<akRi-SiraH-muKam>Ds>Bs6			
+4	sarvawaH-Sruwimaw	3	sarvawaHSruwimalloke	sarvawaH-Sruwimaw{napuM}/Sruwimaw{puM}/Sruwimaw{napuM}/Sruwimaw{puM}	sarvawaH-Sruwimaw{napuM}{1;eka}	viSeRaNam,2	saba_ora_kAnavAlA	everywhere_hearing				
+5	loke	5	0	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	aXikaraNam,8	saMsAra_meM	in_the_world				
+6	sarvam	6	sarvamAvqwya	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{puM}{2;eka}	karma,7	sabako	everything				
+7	Avqwya	7	0	Af_vq1{kqw_prawyayaH:lyap;vq;BvAxiH}/Af_vq2{kqw_prawyayaH:lyap;vqF;svAxiH}/Af_vq4{kqw_prawyayaH:lyap;vqF;curAxiH}/Af_vqw1{kqw_prawyayaH:lyap;vqwuz;BvAxiH}/Af_vqw2{kqw_prawyayaH:lyap;vqwuz;xivAxiH}/Af_vqw3{kqw_prawyayaH:lyap;vqwuz;curAxiH}	Af_vq2{kqw_prawyayaH:lyap;Af_vqF;svAxiH}	pUrvakAlaH,8	vyApwa_karake	covering				
+8	wiRTawi	8	wiRTawi	wiRTaw{puM}{7;eka}/wiRTaw{napuM}{7;eka}/sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}	sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}	aBihiwakarwA,2;akarmakaH	sWiwa_hE	exists				

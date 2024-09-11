@@ -1,25 +1,25 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	BavAn	1	BavAnBIRmaSca	Bava{puM}{2;bahu}/Bavaw{puM}{1;eka}	Bavaw{puM}{1;eka}	Gataka,22	Apa_(xroNAcArya)	yourself				
-2	BIRmaH	2	0	BIRma{puM}{1;eka}	BIRma{puM}{1;eka}	Gataka,22	piwAmaha_BIRma	Grandfather_Bhisma				
-3	ca	3	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	and				
-4	karNaH	4	karNaSca	karNa{puM}{1;eka}	karNa{puM}{1;eka}	Gataka,22	karNa	Karna				
-5	ca	5	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	Ora	also				
-6	kqpaH	6	kqpaSca	kqpa{puM}{1;eka}	kqpa{puM}{1;eka}	Gataka,22	kqpAcArya	Krpa				
-7	ca	7	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	and				
-8	samiwiFjayaH	8	samiwiFjayaH	samiwiFjaya{puM}{1;eka}	samiwiFjaya{puM}{1;eka}	viSeRaNam,6	saMgrAmavijayI	ever_victorious				
-9	aSvawWAmA	9	aSvawWAmA	aSvawWAman{puM}{1;eka}	aSvawWAman{puM}{1;eka}	Gataka,22	aSvawWAmA	Asvatthama				
-10	vikarNaH	10	vikarNaSca	vikarNa{puM}{1;eka}	vikarNa{puM}{1;eka}	Gataka,22	vikarNa	Vikarna				
-11	ca	11	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	waWA	as_well_as				
-12	sOmaxawwiH	12	sOmaxawwiswaWEva	sOmaxawwi{puM}{1;eka}	sOmaxawwi{puM}{1;eka}	Gataka,22	somaxawwakA_puwra_BUriSravA	the_son_of_Somadatta				
-13	waWEva	13	0	        waWEva{avya}	        waWEva{avya}	sambanXaH,15	vEse	as_well_as				
-14	ca	15	ca	ca{avya}	ca{avya}	sambanXaH,23.1	Ora	and				
-15	anye	16	anye	anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anya{napuM}{7;eka}/anya{puM}{1;bahu}/anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/an1{BAve;lat;u;eka;AwmanepaxI;anaz;axAxiH}	anya{puM}{1;bahu}	viSeRaNam,18	Ora loga BI 	many_others				
-16	ca	17	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,18	Ora	also				
-17	bahavaH	18	bahavaH	bahu{puM}{1;bahu}/bahu{swrI}{1;bahu}/bahu{swrI}{2;bahu}	bahu{puM}{1;bahu}	wIvrawAxarSI,18	bahuwa_se	in_great_numbers				
-18	SUrAH	19	SUrA	SUra{puM}{1;bahu}/SUrA{swrI}{1;bahu}/SUrA{swrI}{2;bahu}	SUra{puM}{1;bahu}	Gataka,22	SUravIra	heroes				
-19	maw-arWe	21	maxarWe	asmax-arWa{puM}{7;eka}/arWa{napuM}{1;xvi}/arWa{napuM}{2;xvi}/arWa{napuM}{7;eka}	asmax-arWa{puM}{7;eka}	prayojanam,20	mere_liye	for_my_sake	<asmaw-arWe>T4			
-20	wyakwa-jIviwAH	22	wyakwajIviwAH	wyakwa-jIviwa{puM}{1;bahu}/jIviwA{swrI}{1;bahu}/jIviwA{swrI}{2;bahu}	wyakwa-jIviwa{puM}{1;bahu}	viSeRaNam,18	jIvana_kI_ASA_wyAga_xenevAle	prepared_to_risk_life	<wyakwa-jIviwAH>Bs3			
-21	nAnA-Saswra-praharaNAH	23	nAnASaswrapraharaNAH	nAnA-Saswra-praharaNa{puM}{1;bahu}	nAnA-Saswra-praharaNa{puM}{1;bahu}	viSeRaNam,18	aneka_prakAra_ke_SaswrAswroM_se_susajjiwa	equipped_with_various_weapons_and_missiles	<<nAnA-Saswra>Km-praharaNAH>Bs6			
-22	sarve	20	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,23.1	saba_ke_saba	all_of_them				
-23	yuxXa-viSAraxAH	24	yuxXaviSAraxAH	yuxXa-viSAraxa{puM}{1;bahu}/viSAraxA{swrI}{1;bahu}/viSAraxA{swrI}{2;bahu}	yuxXa-viSAraxa{puM}{1;bahu}	viSeRaNam,18	yuxXa_meM_cawura	skilled_in_warfare	<yuxXa-viSAraxAH>T7			
-23.1	(sanwi)	25	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,22;akarmakaH	(hEM)	are				
+1	भवान्	1	भवान्भीष्मश्च	भव{पुं}{2;बहु}/भवत्{पुं}{1;एक}	भवत्{पुं}{1;एक}	घटक,22	आप_(द्रोणाचार्य)	योउर्सेल्ङ्				
+2	भीष्मः	2	0	भीष्म{पुं}{1;एक}	भीष्म{पुं}{1;एक}	घटक,22	पितामह_भीष्म	घ्रन्ड्ङट्हेर्_भ्हिस्म				
+3	च	3	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	और	अन्ड्				
+4	कर्णः	4	कर्णश्च	कर्ण{पुं}{1;एक}	कर्ण{पुं}{1;एक}	घटक,22	कर्ण	खर्न				
+5	च	5	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,4	और	अल्सो				
+6	कृपः	6	कृपश्च	कृप{पुं}{1;एक}	कृप{पुं}{1;एक}	घटक,22	कृपाचार्य	ख्र्प				
+7	च	7	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	और	अन्ड्				
+8	समितिञ्जयः	8	समितिञ्जयः	समितिञ्जय{पुं}{1;एक}	समितिञ्जय{पुं}{1;एक}	विशेषणम्,6	संग्रामविजयी	एवेर्_विच्टोरिओउस्				
+9	अश्वत्थामा	9	अश्वत्थामा	अश्वत्थामन्{पुं}{1;एक}	अश्वत्थामन्{पुं}{1;एक}	घटक,22	अश्वत्थामा	आस्वट्ट्हम				
+10	विकर्णः	10	विकर्णश्च	विकर्ण{पुं}{1;एक}	विकर्ण{पुं}{1;एक}	घटक,22	विकर्ण	Vइकर्न				
+11	च	11	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,10	तथा	अस्_तेल्ल्_अस्				
+12	सौमदत्तिः	12	सौमदत्तिस्तथैव	सौमदत्ति{पुं}{1;एक}	सौमदत्ति{पुं}{1;एक}	घटक,22	सोमदत्तका_पुत्र_भूरिश्रवा	ट्हे_सोन्_ओङ्_शोमडट्ट				
+13	तथैव	13	0	        तथैव{अव्य}	        तथैव{अव्य}	सम्बन्धः,15	वैसे	अस्_तेल्ल्_अस्				
+14	च	15	च	च{अव्य}	च{अव्य}	सम्बन्धः,23.1	और	अन्ड्				
+15	अन्ये	16	अन्ये	अन्य{नपुं}{1;द्वि}/अन्य{नपुं}{2;द्वि}/अन्य{नपुं}{7;एक}/अन्य{पुं}{1;बहु}/अन्य{नपुं}{1;द्वि}/अन्य{नपुं}{2;द्वि}/अन्या{स्त्री}{1;द्वि}/अन्या{स्त्री}{2;द्वि}/अन्या{स्त्री}{1;द्वि}/अन्या{स्त्री}{2;द्वि}/अन्1{भावे;लट्;उ;एक;आत्मनेपदी;अनँ;अदादिः}	अन्य{पुं}{1;बहु}	विशेषणम्,18	और लोग भी 	मन्य्_ओट्हेर्स्				
+16	च	17	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,18	और	अल्सो				
+17	बहवः	18	बहवः	बहु{पुं}{1;बहु}/बहु{स्त्री}{1;बहु}/बहु{स्त्री}{2;बहु}	बहु{पुं}{1;बहु}	तीव्रतादर्शी,18	बहुत_से	इन्_ग्रेअट्_नुम्बेर्स्				
+18	शूराः	19	शूरा	शूर{पुं}{1;बहु}/शूरा{स्त्री}{1;बहु}/शूरा{स्त्री}{2;बहु}	शूर{पुं}{1;बहु}	घटक,22	शूरवीर	हेरोएस्				
+19	मत्-अर्थे	21	मदर्थे	अस्मद्-अर्थ{पुं}{7;एक}/अर्थ{नपुं}{1;द्वि}/अर्थ{नपुं}{2;द्वि}/अर्थ{नपुं}{7;एक}	अस्मद्-अर्थ{पुं}{7;एक}	प्रयोजनम्,20	मेरे_लिये	ङोर्_म्य्_सके	<अस्मत्-अर्थे>ठ्4			
+20	त्यक्त-जीविताः	22	त्यक्तजीविताः	त्यक्त-जीवित{पुं}{1;बहु}/जीविता{स्त्री}{1;बहु}/जीविता{स्त्री}{2;बहु}	त्यक्त-जीवित{पुं}{1;बहु}	विशेषणम्,18	जीवन_की_आशा_त्याग_देनेवाले	प्रेपरेड्_टो_रिस्क्_लिङे	<त्यक्त-जीविताः>भ्स्3			
+21	नाना-शस्त्र-प्रहरणाः	23	नानाशस्त्रप्रहरणाः	नाना-शस्त्र-प्रहरण{पुं}{1;बहु}	नाना-शस्त्र-प्रहरण{पुं}{1;बहु}	विशेषणम्,18	अनेक_प्रकार_के_शस्त्रास्त्रों_से_सुसज्जित	एऋउइप्पेड्_तिट्ह्_वरिओउस्_तेअपोन्स्_अन्ड्_मिस्सिलेस्	<<नाना-शस्त्र>ख्म्-प्रहरणाः>भ्स्6			
+22	सर्वे	20	सर्वे	सर्व{पुं}{1;बहु}/सर्व{नपुं}{1;द्वि}/सर्व{नपुं}{2;द्वि}/सर्वा{स्त्री}{1;द्वि}/सर्वा{स्त्री}{2;द्वि}	सर्व{पुं}{1;बहु}	कर्ता,23.1	सब_के_सब	अल्ल्_ओङ्_ट्हेम्				
+23	युद्ध-विशारदाः	24	युद्धविशारदाः	युद्ध-विशारद{पुं}{1;बहु}/विशारदा{स्त्री}{1;बहु}/विशारदा{स्त्री}{2;बहु}	युद्ध-विशारद{पुं}{1;बहु}	विशेषणम्,18	युद्ध_में_चतुर	स्किल्लेड्_इन्_तर्ङरे	<युद्ध-विशारदाः>ठ्7			
+23.1	(सन्ति)	25	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,22;अकर्मकः	(हैं)	अरे				

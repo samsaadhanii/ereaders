@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ruxrANAm	2	ruxrANAM	ruxra{puM}{6;bahu}/ruxra{napuM}{6;bahu}/ruxrA{swrI}{6;bahu}	ruxra{puM}{6;bahu}	nirXAraNam,2	ekAxaSa_ruxroM_meM	of_all_the_Rudras				
-2	SafkaraH	3	SafkaraScAsmi	Safkara{puM}{1;eka}	Safkara{puM}{1;eka}	sup_samucciwaH,5	SaMkara	Lord_Siva				
-3	ca	6	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
-4	asmi	7	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,6.1;akarmakaH	hUz	am				
-5	viwwa-ISaH	5	viwweSo	viwwa-ISaH	viwweSa{puM}{1;eka}	viXeya_viSeRaNam,4	Xana_kA_svAmI_kubera	the_lord_of_the_treasury_of_the_demigods	<viwwa-ISaH>T6			
-6	yakRa-rakRasAm	4	yakRarakRasAm	yakRa-rakRas{napuM}{6;bahu}	yakRa-rakRas{napuM}{6;bahu}	nirXAraNam,5	yakRa_waWA_rAkRasoM_meM	of_the_Yaksas_and_Raksasas	<yakRa-rakRasAm>Di			
-6.1	(aham)	1	()	asmax{1;eka}	asmax{1;eka}	karwA,4	mEM					
-7	vasUnAm	9	vasUnAM	vasu{puM}{6;bahu}/vasu{napuM}{6;bahu}	vasu{puM}{6;bahu}	nirXAraNam,8	ATa_vasuoM_meM	of_the_Vasus				
-8	pAvakaH	10	pAvakaScAsmi	pAvaka{puM}{1;eka}	pAvaka{puM}{1;eka}	sup_samucciwaH,11	agni	fire				
-9	ca	13	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,11	Ora	also				
-10	asmi	14	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,13;akarmakaH	hUz	am				
-11	meruH	12	meruH	meru{puM}{1;eka}	meru{puM}{1;eka}	viXeya_viSeRaNam,10	sumeru_parvawa	Meru				
-12	SiKariNAm	11	SiKariNAmaham	SiKarin{puM}{6;bahu}	SiKarin{puM}{6;bahu}	nirXAraNam,11	SiKaravAle_parvawoM_meM	of_all_mountains				
-13	aham	8	0	asmax{1;eka}	asmax{1;eka}	karwA,10	mEM	I				
+1	रुद्राणाम्	2	रुद्राणां	रुद्र{पुं}{6;बहु}/रुद्र{नपुं}{6;बहु}/रुद्रा{स्त्री}{6;बहु}	रुद्र{पुं}{6;बहु}	निर्धारणम्,2	एकादश_रुद्रों_में	ओङ्_अल्ल्_ट्हे_षुड्रस्				
+2	शङ्करः	3	शङ्करश्चास्मि	शङ्कर{पुं}{1;एक}	शङ्कर{पुं}{1;एक}	सुप्_समुच्चितः,5	शंकर	ऌओर्ड्_शिव				
+3	च	6	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और	अल्सो				
+4	अस्मि	7	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,6.1;अकर्मकः	हूँ	अम्				
+5	वित्त-ईशः	5	वित्तेशो	वित्त-ईशः	वित्तेश{पुं}{1;एक}	विधेय_विशेषणम्,4	धन_का_स्वामी_कुबेर	ट्हे_लोर्ड्_ओङ्_ट्हे_ट्रेअसुर्य्_ओङ्_ट्हे_डेमिगोड्स्	<वित्त-ईशः>ठ्6			
+6	यक्ष-रक्षसाम्	4	यक्षरक्षसाम्	यक्ष-रक्षस्{नपुं}{6;बहु}	यक्ष-रक्षस्{नपुं}{6;बहु}	निर्धारणम्,5	यक्ष_तथा_राक्षसों_में	ओङ्_ट्हे_Yअक्सस्_अन्ड्_षक्ससस्	<यक्ष-रक्षसाम्>ढि			
+6.1	(अहम्)	1	()	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,4	मैं					
+7	वसूनाम्	9	वसूनां	वसु{पुं}{6;बहु}/वसु{नपुं}{6;बहु}	वसु{पुं}{6;बहु}	निर्धारणम्,8	आठ_वसुओं_में	ओङ्_ट्हे_Vअसुस्				
+8	पावकः	10	पावकश्चास्मि	पावक{पुं}{1;एक}	पावक{पुं}{1;एक}	सुप्_समुच्चितः,11	अग्नि	ङिरे				
+9	च	13	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,11	और	अल्सो				
+10	अस्मि	14	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,13;अकर्मकः	हूँ	अम्				
+11	मेरुः	12	मेरुः	मेरु{पुं}{1;एक}	मेरु{पुं}{1;एक}	विधेय_विशेषणम्,10	सुमेरु_पर्वत	ंएरु				
+12	शिखरिणाम्	11	शिखरिणामहम्	शिखरिन्{पुं}{6;बहु}	शिखरिन्{पुं}{6;बहु}	निर्धारणम्,11	शिखरवाले_पर्वतों_में	ओङ्_अल्ल्_मोउन्टइन्स्				
+13	अहम्	8	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,10	मैं	ई				

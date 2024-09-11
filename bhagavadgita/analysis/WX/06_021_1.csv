@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	suKam	5	suKamAwyanwikaM	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{1;eka}	karwA,3.1	Ananxa	happiness				
+2	Awyanwikam	4	0	Awyanwika{puM}{2;eka}/Awyanwika{napuM}{1;eka}/Awyanwika{napuM}{1;eka}	Awyanwika{napuM}{1;eka}	viSeRaNam,1	ananwa	supreme				
+3	yaw	3	yawwaxbuxXigrAhyamawIinxriyam	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,1;niwya_sambanXaH,4	jo	in_which				
+3.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,3;akarmakaH	(hE)	is				
+4	waw	7	waw	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,7	usako	that				
+5	buxXi-grAhyam	2	0	buxXi-grAhya{napuM}{1;eka}/grAhya{napuM}{2;eka}	buxXi-grAhya{napuM}{1;eka}	viSeRaNam,1	kevala_SuxXa_huI_sUkRma_buxXi_xvArA_grahaNa_karaneyogya	accessible_intelligence	<buxXi-grAhyam>T3			
+6	awi-inxriyam	1	0	awi-inxriya{puM}{2;eka}/inxriya{napuM}{1;eka}/inxriya{napuM}{2;eka}	awi-inxriya{napuM}{1;eka}	viSeRaNam,1	inxriyoM_se_awIwa	transcendental	<awi-inxriyam>T2			
+7	vewwi	8	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}		anuBava_karawA_hE	knows				
+8	yawra	10	yawra	yawra{avya}	yawra{avya}	aXikaraNam,13	jisa_avasWA_meM	wherein				
+9	na	14	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	never				
+10	ca	9	cEvAyaM	ca{avya}	ca{avya}	sambanXaH,14	Ora	also				
+11	eva	15	0	eva{avya}	eva{avya}	sambanXaH,14	hI	certainly				
+12	ayam	12	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karwA,14	yaha_(yogI)	in_this				
+13	sWiwaH	11	sWiwaScalawi	sWiwa{puM}{1;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;eka}	viSeRaNam,12	sWiwa	situated				
+14	calawi	16	0	calaw{puM}{7;eka}/calaw{napuM}{7;eka}/cal1{karwari;lat;pra;eka;parasmEpaxI;calaz;BvAxiH}/cal2{karwari;lat;pra;eka;parasmEpaxI;calaz;wuxAxiH}	cal1{karwari;lat;pra;eka;parasmEpaxI;calaz;BvAxiH}		vicaliwa_howA_hE	moves				
+15	wawwvawaH	13	wawwvawaH	wawwvawaH{avya}	wawwvawaH{avya}	apAxAnam,14	paramAwmA_ke_svarUpa_se	from_the_truth				

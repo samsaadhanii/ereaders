@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yAnwi	3	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwa_karwA,2;sakarmakaH	prApwa_howe_hEM	achieve				
-2	xeva-vrawAH	1	xevavrawA	xeva-vrawa{puM}{1;bahu}/vrawa{puM}{8;bahu}	xeva-vrawa{puM}{1;bahu}	karwA,1	xevawAoM_ko_pUjanevAle	worshipers_of_demigods	<xeva-vrawAH>Bs6			
-3	xevAn	2	xevAnpiwQnyAnwi	xeva{puM}{2;bahu}	xeva{puM}{2;bahu}	karma,1	xevawAoM_ko	to_demigods				
-4	piwQn	5	0	piwq{puM}{2;bahu}	piwq{puM}{2;bahu}	karma,5	piwaroM_ko	to_ancestors				
-5	yAnwi	6	0	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwa_karwA,6;sakarmakaH	prApwa_howe_hEM	go				
-6	piwq-vrawAH	4	piwqvrawAH	piwq-vrawa{puM}{1;bahu}/vrawa{puM}{8;bahu}	piwq-vrawa{puM}{1;bahu}	karwA,5	piwaroM_ko_pUjanevAle	worshippers_of_the_ancestors	<piwq-vrawAH>Bs6			
-7	BUwAni	8	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{2;bahu}	karma,8	BUwoM_ko	to_ghosts_and_spirits				
-8	yAnwi	9	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwa_karwA,9;sakarmakaH	prApwa_howe_hEM	go				
-9	BUwa-ijyAH	7	BUwejyA	BUwa-ijya{puM}{1;bahu}/ijya{puM}{8;bahu}/ijyA{swrI}{1;bahu}/ijyA{swrI}{2;bahu}/ijyA{swrI}{8;bahu}	BUwa-ijya{puM}{1;bahu}	karwA,8	BUwoM_ko_pUjanevAle	worshipers_of_ghosts_and_spirits	<BUwa-ijyAH>Bs6			
-10	yAnwi	13	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwa_karwA,11;sakarmakaH	prApwa_howe_hEM	go				
-11	maw-yAjinaH	10	maxyAjinoZpi	asmax-yAji{napuM}{5;eka}/yAji{napuM}{6;eka}/yAjin{puM}{1;bahu}/yAjin{puM}{2;bahu}/yAjin{puM}{5;eka}/yAjin{puM}{6;eka}/yAjin{puM}{8;bahu}/yAjin{napuM}{5;eka}/yAjin{napuM}{6;eka}/yAjina{puM}{1;eka}	asmax-yAjin{puM}{1;bahu}	karwA,10	merA_pUjana_karanevAle_Bakwa	my_devotees	<asmaw-yAjinaH>U			
-12	api	12	0	api{avya}	api{avya}	sambanXaH,13	hI	also				
-13	mAm	11	mAm	asmax{2;eka}	asmax{2;eka}	karma,10	muJako	unto_Me				
+1	यान्ति	3	यान्ति	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	अभिहित_कर्ता,2;सकर्मकः	प्राप्त_होते_हैं	अच्हिएवे				
+2	देव-व्रताः	1	देवव्रता	देव-व्रत{पुं}{1;बहु}/व्रत{पुं}{8;बहु}	देव-व्रत{पुं}{1;बहु}	कर्ता,1	देवताओं_को_पूजनेवाले	तोर्स्हिपेर्स्_ओङ्_डेमिगोड्स्	<देव-व्रताः>भ्स्6			
+3	देवान्	2	देवान्पितॄन्यान्ति	देव{पुं}{2;बहु}	देव{पुं}{2;बहु}	कर्म,1	देवताओं_को	टो_डेमिगोड्स्				
+4	पितॄन्	5	0	पितृ{पुं}{2;बहु}	पितृ{पुं}{2;बहु}	कर्म,5	पितरों_को	टो_अन्चेस्टोर्स्				
+5	यान्ति	6	0	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	अभिहित_कर्ता,6;सकर्मकः	प्राप्त_होते_हैं	गो				
+6	पितृ-व्रताः	4	पितृव्रताः	पितृ-व्रत{पुं}{1;बहु}/व्रत{पुं}{8;बहु}	पितृ-व्रत{पुं}{1;बहु}	कर्ता,5	पितरों_को_पूजनेवाले	तोर्स्हिप्पेर्स्_ओङ्_ट्हे_अन्चेस्टोर्स्	<पितृ-व्रताः>भ्स्6			
+7	भूतानि	8	भूतानि	भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}/भूत{नपुं}{8;बहु}	भूत{नपुं}{2;बहु}	कर्म,8	भूतों_को	टो_ग्होस्ट्स्_अन्ड्_स्पिरिट्स्				
+8	यान्ति	9	यान्ति	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	अभिहित_कर्ता,9;सकर्मकः	प्राप्त_होते_हैं	गो				
+9	भूत-इज्याः	7	भूतेज्या	भूत-इज्य{पुं}{1;बहु}/इज्य{पुं}{8;बहु}/इज्या{स्त्री}{1;बहु}/इज्या{स्त्री}{2;बहु}/इज्या{स्त्री}{8;बहु}	भूत-इज्य{पुं}{1;बहु}	कर्ता,8	भूतों_को_पूजनेवाले	तोर्स्हिपेर्स्_ओङ्_ग्होस्ट्स्_अन्ड्_स्पिरिट्स्	<भूत-इज्याः>भ्स्6			
+10	यान्ति	13	यान्ति	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	अभिहित_कर्ता,11;सकर्मकः	प्राप्त_होते_हैं	गो				
+11	मत्-याजिनः	10	मद्याजिनोऽपि	अस्मद्-याजि{नपुं}{5;एक}/याजि{नपुं}{6;एक}/याजिन्{पुं}{1;बहु}/याजिन्{पुं}{2;बहु}/याजिन्{पुं}{5;एक}/याजिन्{पुं}{6;एक}/याजिन्{पुं}{8;बहु}/याजिन्{नपुं}{5;एक}/याजिन्{नपुं}{6;एक}/याजिन{पुं}{1;एक}	अस्मद्-याजिन्{पुं}{1;बहु}	कर्ता,10	मेरा_पूजन_करनेवाले_भक्त	म्य्_डेवोटेएस्	<अस्मत्-याजिनः>ऊ			
+12	अपि	12	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,13	ही	अल्सो				
+13	माम्	11	माम्	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,10	मुझको	उन्टो_ंए				

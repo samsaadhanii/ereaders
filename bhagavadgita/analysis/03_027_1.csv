@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	prakqweH	3	prakqweH	prakqwi{swrI}{5;eka}/prakqwi{swrI}{6;eka}	prakqwi{swrI}{6;eka}	RaRTIsambanXaH,3	prakqwi_ke	of_material_nature				
-2	kriyamANAni	5	kriyamANAni	kriyamANa{napuM}{1;bahu}/kriyamANa{napuM}{2;bahu}/kriyamANa{napuM}{8;bahu}	kq3{kqw_prawyayaH:yak;dukqF;wanAxiH;napuM}{1;bahu}	viXeya_viSeRaNam,5.1	kiye_jAwe	all_being_done				
-3	guNEH	4	guNEH	guNa{puM}{3;bahu}	guNa{puM}{3;bahu}	karwA,2	guNoM_xvArA	by_the_modes				
-4	karmANi	1	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	karman{napuM}{1;bahu}	karwA,5.1	sampUrNa_karma	activities				
-5	sarvaSaH	2	sarvaSaH	sarvaSaH{avya}	sarvaSaH{avya}	aXikaraNam,5.1	saba_prakAra_se	all_kinds_of				
-5.1	(Bavanwi)	6	(0)	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,4;akarmakaH	(hEM)	leading_the_people_in_general				
-6	ahafkAra-vi-mUDa-AwmA	7	ahafkAravimUDAwmA	ahafkAra-vimUDa-Awman{puM}{1;eka}	ahafkAra-vimUDa-Awman{puM}{1;eka}	karwA,10	jisakA_anwaHkaraNa_ahaMkAra_se_mohiwa_ho_rahA_hE_EsA_ajFAnI	the_spirit_soul_bewildered_by_false_ego	<<ahafkAra-<vi-mUDa>Tp>T3-AwmA>Bs6			
-7	karwA	9	karwAhamiwi	karwq{puM}{1;eka}/kq3{karwari;lut;pra;eka;parasmEpaxI;dukqF;wanAxiH}/kq3{karwari;lut;pra;eka;AwmanepaxI;dukqF;wanAxiH}	karwq{puM}{1;eka}	viXeya_viSeRaNam,8	karwA	doer				
-8	aham	8	0	asmax{1;eka}	asmax{1;eka}	karwA,8.1	mEM	I				
-8.1	(asmi)	10	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	vAkyakarma,10	(hUz)	am				
-9	iwi	11	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,8.1	EsA	thus				
-10	manyawe	12	manyawe	manyawA{swrI}{1;xvi}/manyawA{swrI}{2;xvi}/manyawA{swrI}{8;eka}/manyawA{swrI}{8;xvi}/man1{karmaNi;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}	aBihiwakarwA,6;akarmakaH	mAnawA_hE	thinks				
+1	प्रकृतेः	3	प्रकृतेः	प्रकृति{स्त्री}{5;एक}/प्रकृति{स्त्री}{6;एक}	प्रकृति{स्त्री}{6;एक}	षष्ठीसम्बन्धः,3	प्रकृति_के	ओङ्_मटेरिअल्_नटुरे				
+2	क्रियमाणानि	5	क्रियमाणानि	क्रियमाण{नपुं}{1;बहु}/क्रियमाण{नपुं}{2;बहु}/क्रियमाण{नपुं}{8;बहु}	कृ3{कृत्_प्रत्ययः:यक्;डुकृञ्;तनादिः;नपुं}{1;बहु}	विधेय_विशेषणम्,5.1	किये_जाते	अल्ल्_बेइन्ग्_डोने				
+3	गुणैः	4	गुणैः	गुण{पुं}{3;बहु}	गुण{पुं}{3;बहु}	कर्ता,2	गुणों_द्वारा	ब्य्_ट्हे_मोडेस्				
+4	कर्माणि	1	कर्माणि	कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}/कर्मन्{नपुं}{8;बहु}	कर्मन्{नपुं}{1;बहु}	कर्ता,5.1	सम्पूर्ण_कर्म	अच्टिविटिएस्				
+5	सर्वशः	2	सर्वशः	सर्वशः{अव्य}	सर्वशः{अव्य}	अधिकरणम्,5.1	सब_प्रकार_से	अल्ल्_किन्ड्स्_ओङ्				
+5.1	(भवन्ति)	6	(0)	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}/भवन्ती{स्त्री}{8;एक})	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,4;अकर्मकः	(हैं)	लेअडिन्ग्_ट्हे_पेओप्ले_इन्_गेनेरल्				
+6	अहङ्कार-वि-मूढ-आत्मा	7	अहङ्कारविमूढात्मा	अहङ्कार-विमूढ-आत्मन्{पुं}{1;एक}	अहङ्कार-विमूढ-आत्मन्{पुं}{1;एक}	कर्ता,10	जिसका_अन्तःकरण_अहंकार_से_मोहित_हो_रहा_है_ऐसा_अज्ञानी	ट्हे_स्पिरिट्_सोउल्_बेतिल्डेरेड्_ब्य्_ङल्से_एगो	<<अहङ्कार-<वि-मूढ>ठ्प्>ठ्3-आत्मा>भ्स्6			
+7	कर्ता	9	कर्ताहमिति	कर्तृ{पुं}{1;एक}/कृ3{कर्तरि;लुट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}/कृ3{कर्तरि;लुट्;प्र;एक;आत्मनेपदी;डुकृञ्;तनादिः}	कर्तृ{पुं}{1;एक}	विधेय_विशेषणम्,8	कर्ता	डोएर्				
+8	अहम्	8	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,8.1	मैं	ई				
+8.1	(अस्मि)	10	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	वाक्यकर्म,10	(हूँ)	अम्				
+9	इति	11	0	इति{अव्य}	इति{अव्य}	वाक्यकर्म_द्योतकः,8.1	ऐसा	ट्हुस्				
+10	मन्यते	12	मन्यते	मन्यता{स्त्री}{1;द्वि}/मन्यता{स्त्री}{2;द्वि}/मन्यता{स्त्री}{8;एक}/मन्यता{स्त्री}{8;द्वि}/मन्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;मनँ;दिवादिः}/मन्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;मनुँ;तनादिः}	मन्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;मनँ;दिवादिः}	अभिहितकर्ता,6;अकर्मकः	मानता_है	ट्हिन्क्स्				

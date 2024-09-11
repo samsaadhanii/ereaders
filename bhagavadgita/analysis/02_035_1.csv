@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	BayAw	10	BayAxraNAxuparawaM	Baya{napuM}{5;eka}	Baya{napuM}{5;eka}	hewuH,3	Baya_ke_kAraNa	out_of_fear				
-2	raNAw	11	0	raNa{puM}{5;eka}/raNa{napuM}{5;eka}	raNa{napuM}{5;eka}	apAxAnam,3	yuxXa_se	from_battle				
-3	uparawam	12	0	uparawa{puM}{2;eka}/uparawa{napuM}{1;eka}/uparawa{napuM}{2;eka}	upa_ram1{kqw_prawyayaH:kwa;upa_ramuz;BvAxiH;napuM}{2;eka}	karmasamAnAXikaraNam,4	BAgA_huA	run_away				
-4	maMsyanwe	13	maMsyanwe	man1{karmaNi;lqt;pra;bahu;AwmanepaxI;manaz;xivAxiH}	man1{karwari;lqt;pra;bahu;AwmanepaxI;manaz;xivAxiH}	aBihiwakarwA,6;sakarmakaH	mAneMge	will_think				
-5	wvAm	9	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,4	wumako	you				
-6	mahAn-raWAH	8	mahAraWAH	mahAraWa{puM}{1;bahu}/mahAraWa{puM}{8;bahu}	mahAraWa{puM}{1;bahu}	karwA,4	mahAraWI_loga	the_warrior_chiefs	<mahaw-raWAH>Bs6			
-7	yeRAm	2	yeRAM	yax{puM}{6;bahu}/yax{napuM}{6;bahu}	yax{puM}{6;bahu}	RaRTIsambanXaH,10	jinakI	of_whom				
-8	ca	1	ca	ca{avya}	ca{avya}	sambanXaH,12	Ora	and				
-9	wvam	3	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,12	wuma	you				
-10	bahu-mawaH	4	bahumawo	bahu-mawa{puM}{1;eka}	bahu-mawa{puM}{1;eka}	viXeya_viSeRaNam,11	bahuwa_sammAniwa	highly_esteemed	<bahu-mawaH>Bs6			
-11	BUwvA	5	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,12	hokara	by_becoming				
-12	yAsyasi	7	yAsyasi	yA1{karwari;lqt;ma;eka;parasmEpaxI;yA;axAxiH}	yA1{karwari;lqt;ma;eka;parasmEpaxI;yA;axAxiH}	aBihiwakarwA,9;sakarmakaH	prApwa_hoge	will_be				
-13	lAGavam	6	lAGavam	lAGava{napuM}{1;eka}/lAGava{napuM}{2;eka}	lAGava{napuM}{2;eka}	karma,12	laGuwA_ko	inferior				
+1	भयात्	10	भयाद्रणादुपरतं	भय{नपुं}{5;एक}	भय{नपुं}{5;एक}	हेतुः,3	भय_के_कारण	ओउट्_ओङ्_ङेअर्				
+2	रणात्	11	0	रण{पुं}{5;एक}/रण{नपुं}{5;एक}	रण{नपुं}{5;एक}	अपादानम्,3	युद्ध_से	ङ्रोम्_बट्ट्ले				
+3	उपरतम्	12	0	उपरत{पुं}{2;एक}/उपरत{नपुं}{1;एक}/उपरत{नपुं}{2;एक}	उप_रम्1{कृत्_प्रत्ययः:क्त;उप_रमुँ;भ्वादिः;नपुं}{2;एक}	कर्मसमानाधिकरणम्,4	भागा_हुआ	रुन्_अतय्				
+4	मंस्यन्ते	13	मंस्यन्ते	मन्1{कर्मणि;लृट्;प्र;बहु;आत्मनेपदी;मनँ;दिवादिः}	मन्1{कर्तरि;लृट्;प्र;बहु;आत्मनेपदी;मनँ;दिवादिः}	अभिहितकर्ता,6;सकर्मकः	मानेंगे	तिल्ल्_ट्हिन्क्				
+5	त्वाम्	9	त्वां	युष्मद्{2;एक}	युष्मद्{2;एक}	कर्म,4	तुमको	योउ				
+6	महान्-रथाः	8	महारथाः	महारथ{पुं}{1;बहु}/महारथ{पुं}{8;बहु}	महारथ{पुं}{1;बहु}	कर्ता,4	महारथी_लोग	ट्हे_तर्रिओर्_च्हिएङ्स्	<महत्-रथाः>भ्स्6			
+7	येषाम्	2	येषां	यद्{पुं}{6;बहु}/यद्{नपुं}{6;बहु}	यद्{पुं}{6;बहु}	षष्ठीसम्बन्धः,10	जिनकी	ओङ्_त्होम्				
+8	च	1	च	च{अव्य}	च{अव्य}	सम्बन्धः,12	और	अन्ड्				
+9	त्वम्	3	त्वं	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,12	तुम	योउ				
+10	बहु-मतः	4	बहुमतो	बहु-मत{पुं}{1;एक}	बहु-मत{पुं}{1;एक}	विधेय_विशेषणम्,11	बहुत_सम्मानित	हिग्ह्ल्य्_एस्टेएमेड्	<बहु-मतः>भ्स्6			
+11	भूत्वा	5	भूत्वा	अस्2{कृत्_प्रत्ययः:क्त्वा;असँ;अदादिः}	भू1{कृत्_प्रत्ययः:क्त्वा;भू;भ्वादिः}	पूर्वकालः,12	होकर	ब्य्_बेचोमिन्ग्				
+12	यास्यसि	7	यास्यसि	या1{कर्तरि;लृट्;म;एक;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लृट्;म;एक;परस्मैपदी;या;अदादिः}	अभिहितकर्ता,9;सकर्मकः	प्राप्त_होगे	तिल्ल्_बे				
+13	लाघवम्	6	लाघवम्	लाघव{नपुं}{1;एक}/लाघव{नपुं}{2;एक}	लाघव{नपुं}{2;एक}	कर्म,12	लघुता_को	इन्ङेरिओर्				

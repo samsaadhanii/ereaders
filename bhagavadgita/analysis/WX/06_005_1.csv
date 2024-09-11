@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	uxXarew	3	uxXarexAwmanAwmAnaM	uxXarew	uw_hq1{karwari;viXilif;pra;eka;parasmEpaxI;uw_hqF;BvAxiH}		uxXAra_kare	must_deliver				
+2	AwmanA	1	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,1	apane_xvArA	by_the_mind				
+3	AwmAnam	2	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,1	apanA	the_conditioned_soul				
+4	na	5	nAwmAnamavasAxayew	na{avya}	na{avya}	prawiReXaH,6	na	never				
+5	AwmAnam	4	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,6	apaneko_(aXogawi_meM)	the_conditioned_soul				
+6	avasAxayew	6	0	avasAxayew	ava_sax1_Nic{karwari;viXilif;pra;eka;parasmEpaxI;ava_RaxLz_Nic;BvAxiH}		dAle	put_into_degradation				
+7	AwmA	8	AwmEva	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,11.1	Apa	mind				
+8	eva	9	0	eva{avya}	eva{avya}	sambanXaH,7	hI_wo	certainly				
+9	hi	7	hyAwmano	hi{avya}	hi{avya}	sambanXaH,11.1	kyoMki	indeed				
+10	AwmanaH	10	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,11	apanA	of_the_conditioned_soul				
+11	banXuH	11	banXurAwmEva	banXu{puM}{1;eka}	banXu{puM}{1;eka}	viXeya_viSeRaNam,11.1	miwra	friend				
+11.1	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,7;akarmakaH	(hE)	is				
+12	AwmA	13	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,15.1	Apa	mind				
+13	eva	14	0	eva{avya}	eva{avya}	sambanXaH,12	hI	certainly				
+14	ripuH	16	ripurAwmanaH	ripu{puM}{1;eka}	ripu{puM}{1;eka}	viXeya_viSeRaNam,15.1	Sawru	enemy				
+15	AwmanaH	15	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,14	apanA	of_the_conditioned_soul				
+15.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				

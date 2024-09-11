@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	inxriyANi	1	inxriyANi	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}/inxriya{napuM}{8;bahu}	inxriya{napuM}{1;bahu}	samucciwaH,3	inxriyAz	the_senses				
-2	manaH	2	mano	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	sup_samucciwaH,3	mana	the_mind				
-3	buxXiH	4	buxXirasyAXiRTAnamucyawe	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karma,6	buxXi	the_intelligence				
-4	asya	5	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{napuM}{6;eka}	RaRTIsambanXaH,5	isake	of_the_lust				
-5	aXiRTAnam	6	0	aXiRTAna{napuM}{1;eka}/aXiRTAna{napuM}{2;eka}	aXiRTAna{napuM}{1;eka}	karmasamAnAXikaraNam,6	vAsasWAna	sitting_place				
-6	ucyawe	7	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karma,3	kahe_jAwe_hEM	called				
-6.1	(ca)	3	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,6	(Ora)	and				
-7	ewEH	9	ewErvimohayawyeRa	ewax{puM}{3;bahu}/ewax{napuM}{3;bahu}	ewax{puM}{3;bahu}	karaNam,11	inake_xvArA_(mana_buxXi_Ora_inxriyo_ke_xvArA)	by_all_these				
-8	vimohayawi	13	0	vimohayawi	vi_muh1_Nic{karwari;lat;pra;eka;parasmEpaxI;vi_muhaz_Nic;xivAxiH}	aBihiwa_karwA,9;sakarmakaH	mohiwa_karawA_hE	bewilders				
-9	eRaH	8	0	ewax{puM}{1;eka}	ewax{puM}{1;eka}	karwA,8	yaha_kAma	of_this				
-10	jFAnam	10	jFAnamAvqwya	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,11	jFAna_ko	knowledge				
-11	Avqwya	11	0	Af_vq1{kqw_prawyayaH:lyap;vq;BvAxiH}/Af_vq2{kqw_prawyayaH:lyap;vqF;svAxiH}/Af_vq4{kqw_prawyayaH:lyap;vqF;curAxiH}/Af_vqw1{kqw_prawyayaH:lyap;vqwuz;BvAxiH}/Af_vqw2{kqw_prawyayaH:lyap;vqwuz;xivAxiH}/Af_vqw3{kqw_prawyayaH:lyap;vqwuz;curAxiH}	Af_vq2{kqw_prawyayaH:lyap;Af_vqF;svAxiH}	pUrvakAlaH,8	AcCAxiwa_karake	covering				
-12	xehinam	12	xehinam	xehin{puM}{2;eka}	xehin{puM}{2;eka}	karma,8	jIvAwmA_ko	the_embodied				
+1	इन्द्रियाणि	1	इन्द्रियाणि	इन्द्रिय{नपुं}{1;बहु}/इन्द्रिय{नपुं}{2;बहु}/इन्द्रिय{नपुं}{8;बहु}	इन्द्रिय{नपुं}{1;बहु}	समुच्चितः,3	इन्द्रियाँ	ट्हे_सेन्सेस्				
+2	मनः	2	मनो	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}/मनस्{नपुं}{8;एक}	मनस्{नपुं}{1;एक}	सुप्_समुच्चितः,3	मन	ट्हे_मिन्ड्				
+3	बुद्धिः	4	बुद्धिरस्याधिष्ठानमुच्यते	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	कर्म,6	बुद्धि	ट्हे_इन्टेल्लिगेन्चे				
+4	अस्य	5	0	इदम्{पुं}{6;एक}/इदम्{नपुं}{6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	इदम्{नपुं}{6;एक}	षष्ठीसम्बन्धः,5	इसके	ओङ्_ट्हे_लुस्ट्				
+5	अधिष्ठानम्	6	0	अधिष्ठान{नपुं}{1;एक}/अधिष्ठान{नपुं}{2;एक}	अधिष्ठान{नपुं}{1;एक}	कर्मसमानाधिकरणम्,6	वासस्थान	सिट्टिन्ग्_प्लचे				
+6	उच्यते	7	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहित_कर्म,3	कहे_जाते_हैं	चल्लेड्				
+6.1	(च)	3	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,6	(और)	अन्ड्				
+7	एतैः	9	एतैर्विमोहयत्येष	एतद्{पुं}{3;बहु}/एतद्{नपुं}{3;बहु}	एतद्{पुं}{3;बहु}	करणम्,11	इनके_द्वारा_(मन_बुद्धि_और_इन्द्रियो_के_द्वारा)	ब्य्_अल्ल्_ट्हेसे				
+8	विमोहयति	13	0	विमोहयति	वि_मुह्1_णिच्{कर्तरि;लट्;प्र;एक;परस्मैपदी;वि_मुहँ_णिच्;दिवादिः}	अभिहित_कर्ता,9;सकर्मकः	मोहित_करता_है	बेतिल्डेर्स्				
+9	एषः	8	0	एतद्{पुं}{1;एक}	एतद्{पुं}{1;एक}	कर्ता,8	यह_काम	ओङ्_ट्हिस्				
+10	ज्ञानम्	10	ज्ञानमावृत्य	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{2;एक}	कर्म,11	ज्ञान_को	क्नोत्लेड्गे				
+11	आवृत्य	11	0	आङ्_वृ1{कृत्_प्रत्ययः:ल्यप्;वृ;भ्वादिः}/आङ्_वृ2{कृत्_प्रत्ययः:ल्यप्;वृञ्;स्वादिः}/आङ्_वृ4{कृत्_प्रत्ययः:ल्यप्;वृञ्;चुरादिः}/आङ्_वृत्1{कृत्_प्रत्ययः:ल्यप्;वृतुँ;भ्वादिः}/आङ्_वृत्2{कृत्_प्रत्ययः:ल्यप्;वृतुँ;दिवादिः}/आङ्_वृत्3{कृत्_प्रत्ययः:ल्यप्;वृतुँ;चुरादिः}	आङ्_वृ2{कृत्_प्रत्ययः:ल्यप्;आङ्_वृञ्;स्वादिः}	पूर्वकालः,8	आच्छादित_करके	चोवेरिन्ग्				
+12	देहिनम्	12	देहिनम्	देहिन्{पुं}{2;एक}	देहिन्{पुं}{2;एक}	कर्म,8	जीवात्मा_को	ट्हे_एम्बोडिएड्				

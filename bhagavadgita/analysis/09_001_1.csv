@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ixam	4	ixaM	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,7	isa	this				
-2	wu	9	wu	wu{avya}	wu{avya}	sambanXaH,1	ki	but				
-3	we	2	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,5	wuJako	unto_you				
-4	guhyawamam	5	guhyawamaM	guhyawama{puM}{2;eka}/guhyawama{napuM}{1;eka}/guhyawama{napuM}{2;eka}	guhyawama{napuM}{2;eka}	viSeRaNam,7	parama_gopanIya	the_most_confidential				
-5	pravakRyAmi	8	pravakRyAmyanasUyave	pra_vah1{karwari;lqt;u;eka;uBayapaxI;vahaz;BvAxiH}	pra_vac1{karwari;lqt;u;eka;parasmEpaxI;pra_vacaz;axAxiH}	aBihiwakarwA,8.1;sakarmakaH	BalIBAzwi_kahUzgA	am_speaking				
-6	an-asUyave	1	0	an-{avya}-asUyu{puM}{4;eka}	na-asUyu{puM}{4;eka}	viSeRaNam,3	xoRa-xqRtirahiwa_Bakwa_ke_liye	to_the_nonenvious	<na-asUyave>Tn			
-7	jFAnam	7	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,5	jFAna_ko	knowledge				
-8	vijFAna-sahiwam	6	vijFAnasahiwaM	vijFAna-sahiwa{puM}{2;eka}	vijFAna-sahiwa{napuM}{2;eka}	viSeRaNam,7	vijFAnasahiwa	with_realized_knowledge	<<jFAna-vijFAna>Di-sahiwaM>T3			
-8.1	(aham)	3	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,5	(mEM)	I				
-9	yaw	10	yaFjFAwvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,10;niwya_sambanXaH,1	jisako	which				
-10	jFAwvA	11	0	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,11	jAnakara	knowing				
-11	mokRyase	14	mokRyaseZSuBAw	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muc1{karmaNi;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muh1{BAve;lqt;ma;eka;AwmanepaxI;muhaz;xivAxiH}	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}	aBihiwakarwA,12.1;sakarmakaH	mukwa_ho_jAyagA	be_released				
-12	a-SuBAw	13	0	a-SuBa{puM}{5;eka}/SuBa{napuM}{5;eka}	aSuBa{puM}{5;eka}	apAxAnam,11	xuHKarUpa_saMsAra_se	from_this_miserable_material_existence	<na-SuBAw>Tn			
-12.1	(wvam)	12	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wU)	you				
+1	इदम्	4	इदं	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,7	इस	ट्हिस्				
+2	तु	9	तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,1	कि	बुट्				
+3	ते	2	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	सम्प्रदानम्,5	तुझको	उन्टो_योउ				
+4	गुह्यतमम्	5	गुह्यतमं	गुह्यतम{पुं}{2;एक}/गुह्यतम{नपुं}{1;एक}/गुह्यतम{नपुं}{2;एक}	गुह्यतम{नपुं}{2;एक}	विशेषणम्,7	परम_गोपनीय	ट्हे_मोस्ट्_चोन्ङिडेन्टिअल्				
+5	प्रवक्ष्यामि	8	प्रवक्ष्याम्यनसूयवे	प्र_वह्1{कर्तरि;लृट्;उ;एक;उभयपदी;वहँ;भ्वादिः}	प्र_वच्1{कर्तरि;लृट्;उ;एक;परस्मैपदी;प्र_वचँ;अदादिः}	अभिहितकर्ता,8.1;सकर्मकः	भलीभाँति_कहूँगा	अम्_स्पेअकिन्ग्				
+6	अन्-असूयवे	1	0	अन्-{अव्य}-असूयु{पुं}{4;एक}	न-असूयु{पुं}{4;एक}	विशेषणम्,3	दोष-दृष्टिरहित_भक्त_के_लिये	टो_ट्हे_नोनेन्विओउस्	<न-असूयवे>ठ्न्			
+7	ज्ञानम्	7	ज्ञानं	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{2;एक}	कर्म,5	ज्ञान_को	क्नोत्लेड्गे				
+8	विज्ञान-सहितम्	6	विज्ञानसहितं	विज्ञान-सहित{पुं}{2;एक}	विज्ञान-सहित{नपुं}{2;एक}	विशेषणम्,7	विज्ञानसहित	तिट्ह्_रेअलिँएड्_क्नोत्लेड्गे	<<ज्ञान-विज्ञान>ढि-सहितं>ठ्3			
+8.1	(अहम्)	3	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,5	(मैं)	ई				
+9	यत्	10	यञ्ज्ञात्वा	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,10;नित्य_सम्बन्धः,1	जिसको	त्हिच्ह्				
+10	ज्ञात्वा	11	0	ज्ञा1{कृत्_प्रत्ययः:क्त्वा;ज्ञा;भ्वादिः}/ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	पूर्वकालः,11	जानकर	क्नोतिन्ग्				
+11	मोक्ष्यसे	14	मोक्ष्यसेऽशुभात्	मुच्1{कर्तरि;लृट्;म;एक;आत्मनेपदी;मुचॢँ;तुदादिः}/मुच्1{कर्मणि;लृट्;म;एक;आत्मनेपदी;मुचॢँ;तुदादिः}/मुह्1{भावे;लृट्;म;एक;आत्मनेपदी;मुहँ;दिवादिः}	मुच्1{कर्तरि;लृट्;म;एक;आत्मनेपदी;मुचॢँ;तुदादिः}	अभिहितकर्ता,12.1;सकर्मकः	मुक्त_हो_जायगा	बे_रेलेअसेड्				
+12	अ-शुभात्	13	0	अ-शुभ{पुं}{5;एक}/शुभ{नपुं}{5;एक}	अशुभ{पुं}{5;एक}	अपादानम्,11	दुःखरूप_संसार_से	ङ्रोम्_ट्हिस्_मिसेरब्ले_मटेरिअल्_एदिस्टेन्चे	<न-शुभात्>ठ्न्			
+12.1	(त्वम्)	12	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,11	(तू)	योउ				

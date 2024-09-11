@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ixam	4	ixaM	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,7	isa	this				
+2	wu	9	wu	wu{avya}	wu{avya}	sambanXaH,1	ki	but				
+3	we	2	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,5	wuJako	unto_you				
+4	guhyawamam	5	guhyawamaM	guhyawama{puM}{2;eka}/guhyawama{napuM}{1;eka}/guhyawama{napuM}{2;eka}	guhyawama{napuM}{2;eka}	viSeRaNam,7	parama_gopanIya	the_most_confidential				
+5	pravakRyAmi	8	pravakRyAmyanasUyave	pra_vah1{karwari;lqt;u;eka;uBayapaxI;vahaz;BvAxiH}	pra_vac1{karwari;lqt;u;eka;parasmEpaxI;pra_vacaz;axAxiH}	aBihiwakarwA,8.1;sakarmakaH	BalIBAzwi_kahUzgA	am_speaking				
+6	an-asUyave	1	0	an-{avya}-asUyu{puM}{4;eka}	na-asUyu{puM}{4;eka}	viSeRaNam,3	xoRa-xqRtirahiwa_Bakwa_ke_liye	to_the_nonenvious	<na-asUyave>Tn			
+7	jFAnam	7	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,5	jFAna_ko	knowledge				
+8	vijFAna-sahiwam	6	vijFAnasahiwaM	vijFAna-sahiwa{puM}{2;eka}	vijFAna-sahiwa{napuM}{2;eka}	viSeRaNam,7	vijFAnasahiwa	with_realized_knowledge	<<jFAna-vijFAna>Di-sahiwaM>T3			
+8.1	(aham)	3	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,5	(mEM)	I				
+9	yaw	10	yaFjFAwvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,10;niwya_sambanXaH,1	jisako	which				
+10	jFAwvA	11	0	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,11	jAnakara	knowing				
+11	mokRyase	14	mokRyaseZSuBAw	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muc1{karmaNi;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}/muh1{BAve;lqt;ma;eka;AwmanepaxI;muhaz;xivAxiH}	muc1{karwari;lqt;ma;eka;AwmanepaxI;mucLz;wuxAxiH}	aBihiwakarwA,12.1;sakarmakaH	mukwa_ho_jAyagA	be_released				
+12	a-SuBAw	13	0	a-SuBa{puM}{5;eka}/SuBa{napuM}{5;eka}	aSuBa{puM}{5;eka}	apAxAnam,11	xuHKarUpa_saMsAra_se	from_this_miserable_material_existence	<na-SuBAw>Tn			
+12.1	(wvam)	12	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wU)	you				

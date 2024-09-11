@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,3;niwya_sambanXaH,13	jo	one_who				
-2	na	2	na	na{avya}	na{avya}	prawiReXaH,3	na	never				
-3	hqRyawi	3	hqRyawi	hqRyaw{puM}{7;eka}/hqRyaw{napuM}{7;eka}/hqR1{karwari;lat;pra;eka;parasmEpaxI;hqRaz;xivAxiH}	hqR1{karwari;lat;pra;eka;parasmEpaxI;hqRaz;xivAxiH}	aBihiwakarwA,1;akarmakaH	harRiwa_howA_hE	takes_pleasure				
-4	na	5	na	na{avya}	na{avya}	prawiReXaH,5	na	never				
-5	xveRti	6	xveRti	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	xviR1{karwari;lat;pra;eka;parasmEpaxI;xviRaz;axAxiH}	samucciwaH,3	xveRa_karawA_hE	grieves				
-6	na	8	na	na{avya}	na{avya}	prawiReXaH,7	na	never				
-7	Socawi	9	Socawi	Socaw{puM}{7;eka}/Socaw{napuM}{7;eka}/Suc1{karwari;lat;pra;eka;parasmEpaxI;Sucaz;BvAxiH}	Suc1{karwari;lat;pra;eka;parasmEpaxI;Sucaz;BvAxiH}	samucciwaH,3	Soka_karawA_hE	laments				
-8	na	11	na	na{avya}	na{avya}	prawiReXaH,9	na	never				
-9	kAfkRawi	12	kAfkRawi	kAfkRaw{puM}{7;eka}/kAfkRaw{napuM}{7;eka}/kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	kAfkR1{karwari;lat;pra;eka;parasmEpaxI;kAkRiz;BvAxiH}	samucciwaH,3	kAmanA_karawA_hE	desires				
-9.1	(ca)	9	()	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	also				
-10	SuBa-a-SuBa-pariwyAgI	14	SuBASuBapariwyAgI	SuBASuBa-pariwyAgin{puM}{1;eka}	SuBa-aSuBa-pariwyAgin{puM}{1;eka}	sup_samucciwaH,11	SuBa_Ora_aSuBa_sampUrNa_karmoM_kA_wyAgI	renouncer_of_auspicious_and_inauspicious	<<SuBa-<na-SuBa>Tn>Di-pariwyAgI>T6			
-11	BakwimAn	17	BakwimAnyaH	Bakwimaw{puM}{1;eka}	Bakwimaw{puM}{1;eka}	karwqsamAnAXikaraNama,12.1	Bakwiyukwa_puruRa	devotee				
-11.1	(ca)	9	()	ca{avya}	ca{avya}	samuccaya_xyowakaH,11	Ora	also				
-12	yaH	13	0	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,3;niwya_sambanXaH,13	jo	one_who				
-12.1	(aswi)	15	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				
-13	saH	16	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,15.1	vaha	he				
-14	me	18	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,15	muJako	Mine				
-15	priyaH	19	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	viXeya_viSeRaNam,15.1	priya	dear				
-15.1	(aswi)	20	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13;akarmakaH	(hE)	is				
+1	यः	1	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,3;नित्य_सम्बन्धः,13	जो	ओने_त्हो				
+2	न	2	न	न{अव्य}	न{अव्य}	प्रतिषेधः,3	न	नेवेर्				
+3	हृष्यति	3	हृष्यति	हृष्यत्{पुं}{7;एक}/हृष्यत्{नपुं}{7;एक}/हृष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;हृषँ;दिवादिः}	हृष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;हृषँ;दिवादिः}	अभिहितकर्ता,1;अकर्मकः	हर्षित_होता_है	टकेस्_प्लेअसुरे				
+4	न	5	न	न{अव्य}	न{अव्य}	प्रतिषेधः,5	न	नेवेर्				
+5	द्वेष्टि	6	द्वेष्टि	द्विष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;द्विषँ;अदादिः}	द्विष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;द्विषँ;अदादिः}	समुच्चितः,3	द्वेष_करता_है	ग्रिएवेस्				
+6	न	8	न	न{अव्य}	न{अव्य}	प्रतिषेधः,7	न	नेवेर्				
+7	शोचति	9	शोचति	शोचत्{पुं}{7;एक}/शोचत्{नपुं}{7;एक}/शुच्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;शुचँ;भ्वादिः}	शुच्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;शुचँ;भ्वादिः}	समुच्चितः,3	शोक_करता_है	लमेन्ट्स्				
+8	न	11	न	न{अव्य}	न{अव्य}	प्रतिषेधः,9	न	नेवेर्				
+9	काङ्क्षति	12	काङ्क्षति	काङ्क्षत्{पुं}{7;एक}/काङ्क्षत्{नपुं}{7;एक}/काङ्क्ष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;काक्षिँ;भ्वादिः}	काङ्क्ष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;काक्षिँ;भ्वादिः}	समुच्चितः,3	कामना_करता_है	डेसिरेस्				
+9.1	(च)	9	()	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	और	अल्सो				
+10	शुभ-अ-शुभ-परित्यागी	14	शुभाशुभपरित्यागी	शुभाशुभ-परित्यागिन्{पुं}{1;एक}	शुभ-अशुभ-परित्यागिन्{पुं}{1;एक}	सुप्_समुच्चितः,11	शुभ_और_अशुभ_सम्पूर्ण_कर्मों_का_त्यागी	रेनोउन्चेर्_ओङ्_अउस्पिचिओउस्_अन्ड्_इनउस्पिचिओउस्	<<शुभ-<न-शुभ>ठ्न्>ढि-परित्यागी>ठ्6			
+11	भक्तिमान्	17	भक्तिमान्यः	भक्तिमत्{पुं}{1;एक}	भक्तिमत्{पुं}{1;एक}	कर्तृसमानाधिकरणम,12.1	भक्तियुक्त_पुरुष	डेवोटेए				
+11.1	(च)	9	()	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,11	और	अल्सो				
+12	यः	13	0	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,3;नित्य_सम्बन्धः,13	जो	ओने_त्हो				
+12.1	(अस्ति)	15	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,12;अकर्मकः	(है)	इस्				
+13	सः	16	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,15.1	वह	हे				
+14	मे	18	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,15	मुझको	ंइने				
+15	प्रियः	19	प्रियः	प्री{नपुं}{5;एक}/प्री{नपुं}{6;एक}/प्रिय{पुं}{1;एक}	प्रिय{पुं}{1;एक}	विधेय_विशेषणम्,15.1	प्रिय	डेअर्				
+15.1	(अस्ति)	20	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,13;अकर्मकः	(है)	इस्				

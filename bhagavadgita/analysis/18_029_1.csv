@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	buxXeH	7	buxXerBexaM	buxXi{swrI}{5;eka}/buxXi{swrI}{6;eka}	buxXi{swrI}{6;eka}	sup_samucciwaH,3	buxXi_kA	of_intelligence				
-2	Bexam	13	0	Bexa{puM}{2;eka}	Bexa{puM}{2;eka}	karma,8	Bexa_ko	differences				
-3	XqweH	8	XqweScEva	Xqwi{swrI}{5;eka}/Xqwi{swrI}{6;eka}	Xqwi{swrI}{6;eka}	RaRTIsambanXaH,2	Xqwi_kA	of_steadiness				
-4	ca	9	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	also				
-5	eva	10	0	eva{avya}	eva{avya}	sambanXaH,3	BI	certainly				
-6	guNawaH	11	guNawaswriviXaM	guNa{wasil}	guNawaH{avya}	kriyAviSeRaNam,2	guNoM_ke_anusAra	by_the_modes_of_material_nature				
-7	wri-viXam	12	0	wriviXa{puM}{2;eka}/wriviXa{napuM}{1;eka}/wriviXa{napuM}{2;eka}	wriviXa{napuM}{2;eka}	viSeRaNam,2	wIna_prakAra_kA	the_three_kinds_of	<wri-viXaM>Bs6			
-8	SqNu	14	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,12.2;sakarmakaH	suna	just_hear				
-9	procyamAnam	6	procyamAnamaSeReNa	procyamAnam	pra_vac1{kqw_prawyayaH:yak;pra_vacaz;axAxiH;napuM}{1;eka}	viSeRaNam,2	kahA_jAnevAlA	as_described_by_Me				
-10	a-SeReNa	4	0	aSeRa{puM}{3;eka}	aSeRa{puM}{3;eka}	kriyAviSeRaNam,9	sampUrNawA_se	in_detail	<na-SeReNa>Tn			
-11	pqWakwvena	5	pqWakwvena	pqWakwva{napuM}{3;eka}	pqWakwva{napuM}{3;eka}	kriyAviSeRaNam,9	viBAgapUrvaka	differently				
-12	XanaFjaya	1	XanaFjaya	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,8	he_XanaMjaya	O_winner_of_wealth				
-12.1	(mayA)	3	(0)	(asmax{3;eka})	(asmax{3;eka})	karwA,9	(mere_xvArA)	from_Me				
-12.2	(wvam)	2	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wU)	you				
+1	बुद्धेः	7	बुद्धेर्भेदं	बुद्धि{स्त्री}{5;एक}/बुद्धि{स्त्री}{6;एक}	बुद्धि{स्त्री}{6;एक}	सुप्_समुच्चितः,3	बुद्धि_का	ओङ्_इन्टेल्लिगेन्चे				
+2	भेदम्	13	0	भेद{पुं}{2;एक}	भेद{पुं}{2;एक}	कर्म,8	भेद_को	डिङ्ङेरेन्चेस्				
+3	धृतेः	8	धृतेश्चैव	धृति{स्त्री}{5;एक}/धृति{स्त्री}{6;एक}	धृति{स्त्री}{6;एक}	षष्ठीसम्बन्धः,2	धृति_का	ओङ्_स्टेअडिनेस्स्				
+4	च	9	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	और	अल्सो				
+5	एव	10	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,3	भी	चेर्टइन्ल्य्				
+6	गुणतः	11	गुणतस्त्रिविधं	गुण{तसिल्}	गुणतः{अव्य}	क्रियाविशेषणम्,2	गुणों_के_अनुसार	ब्य्_ट्हे_मोडेस्_ओङ्_मटेरिअल्_नटुरे				
+7	त्रि-विधम्	12	0	त्रिविध{पुं}{2;एक}/त्रिविध{नपुं}{1;एक}/त्रिविध{नपुं}{2;एक}	त्रिविध{नपुं}{2;एक}	विशेषणम्,2	तीन_प्रकार_का	ट्हे_ट्ह्रेए_किन्ड्स्_ओङ्	<त्रि-विधं>भ्स्6			
+8	शृणु	14	शृणु	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	अभिहितकर्ता,12.2;सकर्मकः	सुन	जुस्ट्_हेअर्				
+9	प्रोच्यमानम्	6	प्रोच्यमानमशेषेण	प्रोच्यमानम्	प्र_वच्1{कृत्_प्रत्ययः:यक्;प्र_वचँ;अदादिः;नपुं}{1;एक}	विशेषणम्,2	कहा_जानेवाला	अस्_डेस्च्रिबेड्_ब्य्_ंए				
+10	अ-शेषेण	4	0	अशेष{पुं}{3;एक}	अशेष{पुं}{3;एक}	क्रियाविशेषणम्,9	सम्पूर्णता_से	इन्_डेटइल्	<न-शेषेण>ठ्न्			
+11	पृथक्त्वेन	5	पृथक्त्वेन	पृथक्त्व{नपुं}{3;एक}	पृथक्त्व{नपुं}{3;एक}	क्रियाविशेषणम्,9	विभागपूर्वक	डिङ्ङेरेन्ट्ल्य्				
+12	धनञ्जय	1	धनञ्जय	धनञ्जय{पुं}{8;एक}	धनञ्जय{पुं}{8;एक}	सम्बोध्यः,8	हे_धनंजय	औ_तिन्नेर्_ओङ्_तेअल्ट्ह्				
+12.1	(मया)	3	(0)	(अस्मद्{3;एक})	(अस्मद्{3;एक})	कर्ता,9	(मेरे_द्वारा)	ङ्रोम्_ंए				
+12.2	(त्वम्)	2	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,8	(तू)	योउ				

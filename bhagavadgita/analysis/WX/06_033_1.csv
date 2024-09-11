@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaH	2	yoZyaM	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,3;niwya_sambanXaH,8	jo	the_system				
+2	ayam	3	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,3	yaha	this				
+3	yogaH	4	yogaswvayA	yoga{puM}{1;eka}	yoga{puM}{1;eka}	karma,5	yoga	mysticism				
+4	wvayA	5	0	yuRmax{3;eka}	yuRmax{3;eka}	karwA,5	Apane	by_You				
+5	prokwaH	7	prokwaH	prokwa{puM}{1;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;puM}{1;eka}	aBihiwa_karma,3	kahA_hE	described				
+6	sAmyena	6	sAmyena	sAmya{puM}{3;eka}/sAmya{napuM}{3;eka}	sAmya{napuM}{3;eka}	kriyAviSeRaNam,5	samaBAva_se	generally				
+7	maXusUxana	1	maXusUxana	maXusUxana{puM}{8;eka}	maXusUxana{puM}{8;eka}	samboXyaH,11	he_maXusUxana	O_killer_of_the_demon_Madhu				
+8	ewasya	9	ewasyAhaM	ewax{puM}{6;eka}/ewax{napuM}{6;eka}	ewax{puM}{6;eka}	RaRTIsambanXaH,13	isakI	of_this				
+9	aham	12	0	asmax{1;eka}	asmax{1;eka}	karwA,11	mEM	I				
+10	na	13	na	na{avya}	na{avya}	prawiReXaH,11	nahIM	do_not				
+11	paSyAmi	14	paSyAmi	xqS1{karwari;lat;u;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;u;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,9	xeKawA_hUz	see				
+12	caFcalawvAw	8	caFcalawvAwsWiwiM	caFcalawva{napuM}{5;eka}	caFcalawva{napuM}{5;eka}	hewuH,11	caMcala_hone_se	due_to_being_restless				
+13	sWiwim	11	0	sWiwi{swrI}{2;eka}	sWiwi{swrI}{2;eka}	karma,11	sWiwi_ko	situation				
+14	sWirAm	10	sWirAm	sWirA{swrI}{2;eka}	sWirA{swrI}{2;eka}	viSeRaNam,13	niwya	stable				

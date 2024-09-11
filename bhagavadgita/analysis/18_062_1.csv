@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wam	3	wameva	wax{puM}{2;eka}	wax{puM}{2;eka}	RaRTIsambanXaH,3	usakI_(parameSvara_kI)	unto_Him				
-2	eva	4	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
-3	SaraNam	5	SaraNaM	SaraNa{napuM}{1;eka}/SaraNa{napuM}{2;eka}	SaraNa{napuM}{2;eka}	karma,4	SaraNa_meM	surrender				
-4	gacCa	6	gacCa	gam1{karwari;lot;ma;eka;parasmEpaxI;gamLz;BvAxiH}	gam1{karwari;lot;ma;eka;parasmEpaxI;gamLz;BvAxiH}	aBihiwakarwA,6.1;sakarmakaH	jA	go				
-5	sarva-BAvena	2	sarvaBAvena	sarva-BAva{puM}{3;eka}	sarva-BAva{puM}{3;eka}	karaNam,4	saba_prakAra_se	in_all_respects	<sarva-BAvena>K1			
-6	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,4	he_BArawa	O_son_of_Bharata				
-6.1	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wuma)	you				
-7	waw-prasAxAw	7	wawprasAxAwparAM	wax-prasAxa{puM}{5;eka}	wax-prasAxa{puM}{5;eka}	hewuH,11	usa_paramAwmA_kI_kqpA_se	by_His_grace	<waw-prasAxAw>T6			
-8	parAm	8	0	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	viSeRaNam,9	parama	transcendental				
-9	SAnwim	9	SAnwiM	SAnwi{swrI}{2;eka}	SAnwi{swrI}{2;eka}	sup_samucciwaH,10	SAnwi_ko	peace				
-10	sWAnam	12	sWAnaM	sWAna{napuM}{1;eka}/sWAna{napuM}{2;eka}	sWAna{napuM}{2;eka}	karma,11	parama_XAma_ko	abode				
-11	prApsyasi	13	prApsyasi	pra_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ApLz;svAxiH}	pra_Ap1{karwari;lqt;ma;eka;parasmEpaxI;pra_ApLz;svAxiH}	aBihiwakarwA,13.1;sakarmakaH	prApwa_hogA	will_get				
-12	SASvawam	11	SASvawam	SASvawa{puM}{2;eka}/SASvawa{napuM}{1;eka}/SASvawa{napuM}{2;eka}	SASvawa{napuM}{2;eka}	viSeRaNam,10	sanAwana	eternal				
-13	(ca)	10	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,10	(waWA)	also				
-13.1	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wuma)	you				
+1	तम्	3	तमेव	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	षष्ठीसम्बन्धः,3	उसकी_(परमेश्वर_की)	उन्टो_ःइम्				
+2	एव	4	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,1	ही	चेर्टइन्ल्य्				
+3	शरणम्	5	शरणं	शरण{नपुं}{1;एक}/शरण{नपुं}{2;एक}	शरण{नपुं}{2;एक}	कर्म,4	शरण_में	सुर्रेन्डेर्				
+4	गच्छ	6	गच्छ	गम्1{कर्तरि;लोट्;म;एक;परस्मैपदी;गमॢँ;भ्वादिः}	गम्1{कर्तरि;लोट्;म;एक;परस्मैपदी;गमॢँ;भ्वादिः}	अभिहितकर्ता,6.1;सकर्मकः	जा	गो				
+5	सर्व-भावेन	2	सर्वभावेन	सर्व-भाव{पुं}{3;एक}	सर्व-भाव{पुं}{3;एक}	करणम्,4	सब_प्रकार_से	इन्_अल्ल्_रेस्पेच्ट्स्	<सर्व-भावेन>ख्1			
+6	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,4	हे_भारत	औ_सोन्_ओङ्_भ्हरट				
+6.1	(त्वम्)	13	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,4	(तुम)	योउ				
+7	तत्-प्रसादात्	7	तत्प्रसादात्परां	तद्-प्रसाद{पुं}{5;एक}	तद्-प्रसाद{पुं}{5;एक}	हेतुः,11	उस_परमात्मा_की_कृपा_से	ब्य्_ःइस्_ग्रचे	<तत्-प्रसादात्>ठ्6			
+8	पराम्	8	0	परा{स्त्री}{2;एक}/परा{स्त्री}{2;एक}	परा{स्त्री}{2;एक}	विशेषणम्,9	परम	ट्रन्स्चेन्डेन्टल्				
+9	शान्तिम्	9	शान्तिं	शान्ति{स्त्री}{2;एक}	शान्ति{स्त्री}{2;एक}	सुप्_समुच्चितः,10	शान्ति_को	पेअचे				
+10	स्थानम्	12	स्थानं	स्थान{नपुं}{1;एक}/स्थान{नपुं}{2;एक}	स्थान{नपुं}{2;एक}	कर्म,11	परम_धाम_को	अबोडे				
+11	प्राप्स्यसि	13	प्राप्स्यसि	प्र_आप्1{कर्तरि;लृट्;म;एक;परस्मैपदी;आपॢँ;स्वादिः}	प्र_आप्1{कर्तरि;लृट्;म;एक;परस्मैपदी;प्र_आपॢँ;स्वादिः}	अभिहितकर्ता,13.1;सकर्मकः	प्राप्त_होगा	तिल्ल्_गेट्				
+12	शाश्वतम्	11	शाश्वतम्	शाश्वत{पुं}{2;एक}/शाश्वत{नपुं}{1;एक}/शाश्वत{नपुं}{2;एक}	शाश्वत{नपुं}{2;एक}	विशेषणम्,10	सनातन	एटेर्नल्				
+13	(च)	10	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,10	(तथा)	अल्सो				
+13.1	(त्वम्)	13	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,4	(तुम)	योउ				

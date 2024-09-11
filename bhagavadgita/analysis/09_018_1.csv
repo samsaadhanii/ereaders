@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	gawiH	2	gawirBarwA	gawi{swrI}{1;eka}	gawi{swrI}{1;eka}	sup_samucciwaH,12	prApwa_honeyogya_paramaXAma	goal				
-2	BarwA	3	0	Barwq{puM}{1;eka}/Bq1{karwari;lut;pra;eka;parasmEpaxI;BqF;BvAxiH}/Bq1{karwari;lut;pra;eka;AwmanepaxI;BqF;BvAxiH}/Bq1{karmaNi;lut;pra;eka;AwmanepaxI;BqF;BvAxiH}/Bq2{karwari;lut;pra;eka;parasmEpaxI;duBqF;juhowyAxiH}	Barwq{puM}{1;eka}	sup_samucciwaH,12	BaraNa-poRaNa_karanevAlA	sustainer				
-3	praBuH	4	praBuH	praBu{puM}{1;eka}	praBu{puM}{1;eka}	sup_samucciwaH,12	sabakA_svAmI	Lord				
-4	sAkRI	5	sAkRI	sAkRin{puM}{1;eka}	sAkRin{puM}{1;eka}	sup_samucciwaH,12	SuBASuBa_kA_xeKanevAlA	witness				
-5	nivAsaH	6	nivAsaH	nivAsa{puM}{1;eka}	nivAsa{puM}{1;eka}	sup_samucciwaH,12	nivAsa	abode				
-6	SaraNam	7	SaraNaM	SaraNa{napuM}{1;eka}/SaraNa{napuM}{2;eka}	SaraNa{napuM}{1;eka}	sup_samucciwaH,12	SaraNa_lene_yogya	refuge				
-7	suhqw	8	suhqw	suhqx{napuM}{1;eka}/suhqx{napuM}{8;eka}	suhqx{puM}{1;eka}	sup_samucciwaH,12	prawyupakAra_na_cAhakara_hiwa_karanevAlA	most_intimate_friend				
-8	praBavaH	9	praBavaH	praBu{puM}{1;bahu}/praBava{puM}{1;eka}	praBava{puM}{1;eka}	sup_samucciwaH,12	sabakI_uwpawwi	creation				
-9	pralayaH	10	pralayaH	pralaya{puM}{1;eka}	pralaya{puM}{1;eka}	sup_samucciwaH,12	pralaya_kA_hewu	dissolution				
-10	sWAnam	11	sWAnaM	sWAna{napuM}{1;eka}/sWAna{napuM}{2;eka}	sWAna{napuM}{1;eka}	sup_samucciwaH,12	sWiwi_kA_AXAra	ground				
-11	niXAnam	12	niXAnaM	niXAna{napuM}{1;eka}/niXAna{napuM}{2;eka}	niXAna{napuM}{1;eka}	sup_samucciwaH,12	niXAna	resting_place				
-12	bIjam	15	bIjamavyayam	bIja{napuM}{1;eka}/bIja{napuM}{2;eka}	bIja{napuM}{1;eka}	viXeya_viSeRaNam,13.2	kAraNa	seed				
-13	a-vyayam	14	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	avyaya{napuM}{1;eka}	viSeRaNam,12	avinASI	imperishable	<na-vyayam>Bsmn			
-13.1	(ca)	13	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,12	(Ora)	and				
-13.2	(asmi)	16	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13.3;akarmakaH	(hUz)	am				
-13.3	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,13.2	(mEM)	I				
+1	गतिः	2	गतिर्भर्ता	गति{स्त्री}{1;एक}	गति{स्त्री}{1;एक}	सुप्_समुच्चितः,12	प्राप्त_होनेयोग्य_परमधाम	गोअल्				
+2	भर्ता	3	0	भर्तृ{पुं}{1;एक}/भृ1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;भृञ्;भ्वादिः}/भृ1{कर्तरि;लुट्;प्र;एक;आत्मनेपदी;भृञ्;भ्वादिः}/भृ1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;भृञ्;भ्वादिः}/भृ2{कर्तरि;लुट्;प्र;एक;परस्मैपदी;डुभृञ्;जुहोत्यादिः}	भर्तृ{पुं}{1;एक}	सुप्_समुच्चितः,12	भरण-पोषण_करनेवाला	सुस्टइनेर्				
+3	प्रभुः	4	प्रभुः	प्रभु{पुं}{1;एक}	प्रभु{पुं}{1;एक}	सुप्_समुच्चितः,12	सबका_स्वामी	ऌओर्ड्				
+4	साक्षी	5	साक्षी	साक्षिन्{पुं}{1;एक}	साक्षिन्{पुं}{1;एक}	सुप्_समुच्चितः,12	शुभाशुभ_का_देखनेवाला	तिट्नेस्स्				
+5	निवासः	6	निवासः	निवास{पुं}{1;एक}	निवास{पुं}{1;एक}	सुप्_समुच्चितः,12	निवास	अबोडे				
+6	शरणम्	7	शरणं	शरण{नपुं}{1;एक}/शरण{नपुं}{2;एक}	शरण{नपुं}{1;एक}	सुप्_समुच्चितः,12	शरण_लेने_योग्य	रेङुगे				
+7	सुहृत्	8	सुहृत्	सुहृद्{नपुं}{1;एक}/सुहृद्{नपुं}{8;एक}	सुहृद्{पुं}{1;एक}	सुप्_समुच्चितः,12	प्रत्युपकार_न_चाहकर_हित_करनेवाला	मोस्ट्_इन्टिमटे_ङ्रिएन्ड्				
+8	प्रभवः	9	प्रभवः	प्रभु{पुं}{1;बहु}/प्रभव{पुं}{1;एक}	प्रभव{पुं}{1;एक}	सुप्_समुच्चितः,12	सबकी_उत्पत्ति	च्रेअटिओन्				
+9	प्रलयः	10	प्रलयः	प्रलय{पुं}{1;एक}	प्रलय{पुं}{1;एक}	सुप्_समुच्चितः,12	प्रलय_का_हेतु	डिस्सोलुटिओन्				
+10	स्थानम्	11	स्थानं	स्थान{नपुं}{1;एक}/स्थान{नपुं}{2;एक}	स्थान{नपुं}{1;एक}	सुप्_समुच्चितः,12	स्थिति_का_आधार	ग्रोउन्ड्				
+11	निधानम्	12	निधानं	निधान{नपुं}{1;एक}/निधान{नपुं}{2;एक}	निधान{नपुं}{1;एक}	सुप्_समुच्चितः,12	निधान	रेस्टिन्ग्_प्लचे				
+12	बीजम्	15	बीजमव्ययम्	बीज{नपुं}{1;एक}/बीज{नपुं}{2;एक}	बीज{नपुं}{1;एक}	विधेय_विशेषणम्,13.2	कारण	सेएड्				
+13	अ-व्ययम्	14	0	अ-व्यय{पुं}{2;एक}/व्यय{नपुं}{1;एक}/व्यय{नपुं}{2;एक}	अव्यय{नपुं}{1;एक}	विशेषणम्,12	अविनाशी	इम्पेरिस्हब्ले	<न-व्ययम्>भ्स्म्न्			
+13.1	(च)	13	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,12	(और)	अन्ड्				
+13.2	(अस्मि)	16	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,13.3;अकर्मकः	(हूँ)	अम्				
+13.3	(अहम्)	1	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,13.2	(मैं)	ई				

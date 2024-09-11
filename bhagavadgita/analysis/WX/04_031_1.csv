@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yajFa-SiRta-amqwa-BujaH	2	yajFaSiRtAmqwaBujo	yajFa-SiRta-amqwa-Buja{puM}{1;eka}	yajFa-SiRta-amqwa-Buja{puM}{1;eka}	karwA,2	yajFa_se_bace_hue_amqwa_kA_anuBava_karanevAle_(yogIjana)	those_who_have_tasted_such_nectar_as_a_result_of_sacrifices	<<<yajFa-SiRta>T6-amqwa>K1-BujaH>U			
+2	yAnwi	5	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwakarwA,1;sakarmakaH	prApwa_howe_hEM	do_apprach				
+3	brahma	4	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{2;eka}	karma,2	parabrahma_paramAwmA_ko	the_supreme				
+4	sanAwanam	3	sanAwanam	sanAwana{puM}{2;eka}	sanAwana{puM}{2;eka}	viSeRaNam,3	sanAwana	eternal_atmosphere				
+5	na	9	nAyaM	na{avya}	na{avya}	prawiReXaH,8	nahIM	never				
+6	ayam	7		aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,7	yaha	this				
+7	lokaH	8	lokoZswyayajFasya	loka{puM}{1;eka}	loka{puM}{1;eka}	karwA,8	manuRyaloka	planet				
+8	aswi	10		as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,7;akarmakaH	hE	is				
+9	a-yajFasya	6		a-yajFa{puM}{6;eka}	ayajFa{puM}{6;eka}	RaRTIsambanXaH,7	yajFa_na_karanevAle_puruRa_ke_liye	of_the_foolish	<na-yajFasya>Bsmn			
+10	kuwaH	12	kuwoZnyaH	kuwaH{avya}/ku2{karwari;lat;pra;xvi;parasmEpaxI;ku;axAxiH}	kuwaH{avya}	kriyAviSeRaNam,12.1	kEse	where				
+11	anyaH	11		anya{puM}{1;eka}	anya{puM}{1;eka}	karwA,12.1	paraloka	the_other				
+12	kuru-sawwama	1	kurusawwama	kurusawwama{puM}{8;eka}	kurusawwama{puM}{8;eka}	samboXyaH,2	he_kuruSreRTa_arjuna	O_best_amongst_the_Kurus	<kuru-sawwama>T7			
+12.1	(Bavawi)	13	()	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(hE)	is				

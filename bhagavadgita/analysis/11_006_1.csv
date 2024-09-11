@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	paSya	10	paSyAxiwyAnvasUnruxrAnaSvinO	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,7.1	xeKa	see				
-2	AxiwyAn	2	0	Axiwya{puM}{2;bahu}	Axiwya{puM}{2;bahu}	sup_samucciwaH,6	AxiwyoM_ko_arWAw_axiwi_ke_xvAxaSa_puwroM_ko	the_twelve_sons_of_Aditi				
-3	vasUn	3	0	vasu{puM}{2;bahu}	vasu{puM}{2;bahu}	sup_samucciwaH,6	ATa_vasuoM_ko	the_eight_Vasus				
-4	ruxrAn	4	0	ruxra{puM}{2;bahu}	ruxra{puM}{2;bahu}	sup_samucciwaH,6	ekAxaSa_ruxroM_ko	the_eleven_forms_of_Rudra				
-5	aSvinO	5	0	aSvin{puM}{1;xvi}/aSvin{puM}{2;xvi}/aSvin{puM}{8;xvi}	aSvin{puM}{2;xvi}	sup_samucciwaH,6	xonoM_aSvinIkumAroM_ko	the_two_Asvinis				
-6	maruwaH	8	maruwaswaWA	maruw{puM}{1;bahu}/maruw{puM}{2;bahu}/maruw{puM}{5;eka}/maruw{puM}{6;eka}/maruw{puM}{8;bahu}/maruwa{puM}{1;eka}	maruw{puM}{2;bahu}	karma,1	unacAsa_maruxgaNoM_ko	the_forty-nine_Maruts_(demigods_of_the_wind)				
-7	waWA	7	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,6	waWA	also				
-7.1	(wvam)	9	(wvamAwmAnaM)	yuRmax{1;eka}	yuRmax{1;eka}	karwA,1	Apa	you				
-8	bahUni	11	bahUnyaxqRtapUrvANi	bahu{napuM}{1;bahu}/bahu{napuM}{2;bahu}/bahu{napuM}{8;bahu}	bahu{napuM}{2;bahu}	viSeRaNam,11	bahuwa-se	many				
-9	a-xqRta-pUrvANi	12	0	a-xqRta-pUrva{napuM}{1;bahu}/pUrva{napuM}{2;bahu}/pUrva{napuM}{8;bahu}/pUrva{napuM}{1;bahu}/pUrva{napuM}{2;bahu}	axqRta-pUrva{napuM}{2;bahu}	viSeRaNam,11	pahale_na_xeKe_hue	that_you_have_not_head_or_seen_before	<<na-xqRta>Tn-pUrvANi>K1			
-10	paSya	15	paSyAScaryANi	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,12.1;sakarmakaH	xeKa	see				
-11	AScaryANi	13	0	AScarya{napuM}{1;bahu}/AScarya{napuM}{2;bahu}/AScarya{napuM}{8;bahu}	AScarya{napuM}{2;bahu}	karma,10	AScaryamaya_rUpoM_ko	all_the_wonderful				
-12	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,10	he_BarawavaMSI_arjuna	O_best_of_the_Bharatas				
-12.1	(wvam)	14	(wvamAwmAnaM)	yuRmax{1;eka}	yuRmax{1;eka}	karwA,10	Apa	you				
+1	पश्य	10	पश्यादित्यान्वसून्रुद्रानश्विनौ	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहित_कर्ता,7.1	देख	सेए				
+2	आदित्यान्	2	0	आदित्य{पुं}{2;बहु}	आदित्य{पुं}{2;बहु}	सुप्_समुच्चितः,6	आदित्यों_को_अर्थात्_अदिति_के_द्वादश_पुत्रों_को	ट्हे_ट्तेल्वे_सोन्स्_ओङ्_आडिटि				
+3	वसून्	3	0	वसु{पुं}{2;बहु}	वसु{पुं}{2;बहु}	सुप्_समुच्चितः,6	आठ_वसुओं_को	ट्हे_एइग्ह्ट्_Vअसुस्				
+4	रुद्रान्	4	0	रुद्र{पुं}{2;बहु}	रुद्र{पुं}{2;बहु}	सुप्_समुच्चितः,6	एकादश_रुद्रों_को	ट्हे_एलेवेन्_ङोर्म्स्_ओङ्_षुड्र				
+5	अश्विनौ	5	0	अश्विन्{पुं}{1;द्वि}/अश्विन्{पुं}{2;द्वि}/अश्विन्{पुं}{8;द्वि}	अश्विन्{पुं}{2;द्वि}	सुप्_समुच्चितः,6	दोनों_अश्विनीकुमारों_को	ट्हे_ट्तो_आस्विनिस्				
+6	मरुतः	8	मरुतस्तथा	मरुत्{पुं}{1;बहु}/मरुत्{पुं}{2;बहु}/मरुत्{पुं}{5;एक}/मरुत्{पुं}{6;एक}/मरुत्{पुं}{8;बहु}/मरुत{पुं}{1;एक}	मरुत्{पुं}{2;बहु}	कर्म,1	उनचास_मरुद्गणों_को	ट्हे_ङोर्ट्य्-निने_ंअरुट्स्_(डेमिगोड्स्_ओङ्_ट्हे_तिन्ड्)				
+7	तथा	7	0	तथा{अव्य}	तथा{अव्य}	समुच्चय_द्योतकः,6	तथा	अल्सो				
+7.1	(त्वम्)	9	(त्वमात्मानं)	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,1	आप	योउ				
+8	बहूनि	11	बहून्यदृष्टपूर्वाणि	बहु{नपुं}{1;बहु}/बहु{नपुं}{2;बहु}/बहु{नपुं}{8;बहु}	बहु{नपुं}{2;बहु}	विशेषणम्,11	बहुत-से	मन्य्				
+9	अ-दृष्ट-पूर्वाणि	12	0	अ-दृष्ट-पूर्व{नपुं}{1;बहु}/पूर्व{नपुं}{2;बहु}/पूर्व{नपुं}{8;बहु}/पूर्व{नपुं}{1;बहु}/पूर्व{नपुं}{2;बहु}	अदृष्ट-पूर्व{नपुं}{2;बहु}	विशेषणम्,11	पहले_न_देखे_हुए	ट्हट्_योउ_हवे_नोट्_हेअड्_ओर्_सेएन्_बेङोरे	<<न-दृष्ट>ठ्न्-पूर्वाणि>ख्1			
+10	पश्य	15	पश्याश्चर्याणि	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहित_कर्ता,12.1;सकर्मकः	देख	सेए				
+11	आश्चर्याणि	13	0	आश्चर्य{नपुं}{1;बहु}/आश्चर्य{नपुं}{2;बहु}/आश्चर्य{नपुं}{8;बहु}	आश्चर्य{नपुं}{2;बहु}	कर्म,10	आश्चर्यमय_रूपों_को	अल्ल्_ट्हे_तोन्डेर्ङुल्				
+12	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,10	हे_भरतवंशी_अर्जुन	औ_बेस्ट्_ओङ्_ट्हे_भ्हरटस्				
+12.1	(त्वम्)	14	(त्वमात्मानं)	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,10	आप	योउ				

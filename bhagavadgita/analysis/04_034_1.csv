@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	waw	1	waxvixXi	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,2	usa_jFAna_ko	that_knowledge_of_different_sacrifices				
-2	vixXi	6		vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}		samaJa	try_to_understand				
-3	praNipAwena	2	praNipAwena	praNipAwa{puM}{3;eka}	praNipAwa{puM}{3;eka}	sup_samucciwaH,5	BalIBAzwi_xaNdavaw_praNAm_karane_se	by_approaching_a_spiritual_master				
-4	paripraSnena	3	paripraSnena	paripraSna{puM}{3;eka}	paripraSna{puM}{3;eka}	sup_samucciwaH,5	saralawApUrvaka_praSna_karane_se	by_submissive_inquiries				
-5	sevayA	4	sevayA	sevA{swrI}{3;eka}	sevA{swrI}{3;eka}	karaNam,2	sevA_karane_se	by_the_rendering_of_service				
-5.1	(ca)	5	()	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,5	(Ora)	and				
-6	upaxekRyanwi	11	upaxekRyanwi	upa_xiS1{karwari;lqt;pra;bahu;uBayapaxI;xiSaz;wuxAxiH}	upa_xiS1{karwari;lqt;pra;bahu;uBayapaxI;upa_xiSaz;wuxAxiH}	aBihiwakarwA,9;sakarmakaH	upaxeSa_kareMge	initiate				
-7	we	7	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	viSeRaNam,9	ve	unto_you				
-8	jFAnam	10	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,6	wawwvajFAna_kA	knowledge				
-9	jFAninaH	9	jFAninaswawwvaxarSinaH	jFAnin{puM}{1;bahu}/jFAnin{puM}{2;bahu}/jFAnin{puM}{5;eka}/jFAnin{puM}{6;eka}/jFAnin{puM}{8;bahu}	jFAnin{puM}{1;bahu}	karwA,6	jFAnI_mahAwmA	the_self-realised				
-10	wawwva-xarSinaH	8		wawwva-xarSin{puM}{1;bahu}/xarSin{puM}{2;bahu}/xarSin{puM}{5;eka}/xarSin{puM}{6;eka}/xarSin{puM}{8;bahu}	wawwva-xarSin{puM}{6;bahu}	viSeRaNam,9	paramAwmawawwva_ko_BalIBAzwi_jAnanevAle	the_seers_who_experienced_the_truth	<wawwva-xarSinaH>U			
+1	तत्	1	तद्विद्धि	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्म,2	उस_ज्ञान_को	ट्हट्_क्नोत्लेड्गे_ओङ्_डिङ्ङेरेन्ट्_सच्रिङिचेस्				
+2	विद्धि	6		विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}		समझ	ट्र्य्_टो_उन्डेर्स्टन्ड्				
+3	प्रणिपातेन	2	प्रणिपातेन	प्रणिपात{पुं}{3;एक}	प्रणिपात{पुं}{3;एक}	सुप्_समुच्चितः,5	भलीभाँति_दण्डवत्_प्रणाम्_करने_से	ब्य्_अप्प्रोअच्हिन्ग्_अ_स्पिरिटुअल्_मस्टेर्				
+4	परिप्रश्नेन	3	परिप्रश्नेन	परिप्रश्न{पुं}{3;एक}	परिप्रश्न{पुं}{3;एक}	सुप्_समुच्चितः,5	सरलतापूर्वक_प्रश्न_करने_से	ब्य्_सुब्मिस्सिवे_इनृउइरिएस्				
+5	सेवया	4	सेवया	सेवा{स्त्री}{3;एक}	सेवा{स्त्री}{3;एक}	करणम्,2	सेवा_करने_से	ब्य्_ट्हे_रेन्डेरिन्ग्_ओङ्_सेर्विचे				
+5.1	(च)	5	()	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,5	(और)	अन्ड्				
+6	उपदेक्ष्यन्ति	11	उपदेक्ष्यन्ति	उप_दिश्1{कर्तरि;लृट्;प्र;बहु;उभयपदी;दिशँ;तुदादिः}	उप_दिश्1{कर्तरि;लृट्;प्र;बहु;उभयपदी;उप_दिशँ;तुदादिः}	अभिहितकर्ता,9;सकर्मकः	उपदेश_करेंगे	इनिटिअटे				
+7	ते	7	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	तद्{पुं}{1;बहु}	विशेषणम्,9	वे	उन्टो_योउ				
+8	ज्ञानम्	10	ज्ञानं	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{2;एक}	कर्म,6	तत्त्वज्ञान_का	क्नोत्लेड्गे				
+9	ज्ञानिनः	9	ज्ञानिनस्तत्त्वदर्शिनः	ज्ञानिन्{पुं}{1;बहु}/ज्ञानिन्{पुं}{2;बहु}/ज्ञानिन्{पुं}{5;एक}/ज्ञानिन्{पुं}{6;एक}/ज्ञानिन्{पुं}{8;बहु}	ज्ञानिन्{पुं}{1;बहु}	कर्ता,6	ज्ञानी_महात्मा	ट्हे_सेल्ङ्-रेअलिसेड्				
+10	तत्त्व-दर्शिनः	8		तत्त्व-दर्शिन्{पुं}{1;बहु}/दर्शिन्{पुं}{2;बहु}/दर्शिन्{पुं}{5;एक}/दर्शिन्{पुं}{6;एक}/दर्शिन्{पुं}{8;बहु}	तत्त्व-दर्शिन्{पुं}{6;बहु}	विशेषणम्,9	परमात्मतत्त्व_को_भलीभाँति_जाननेवाले	ट्हे_सेएर्स्_त्हो_एद्पेरिएन्चेड्_ट्हे_ट्रुट्ह्	<तत्त्व-दर्शिनः>ऊ			

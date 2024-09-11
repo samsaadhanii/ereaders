@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	vIpsA,2	jo	that				
-2	yaH	2	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,6;niwya_sambanXaH,11	jo	that				
-3	yAm	4	yAM	yax{swrI}{2;eka}	yax{swrI}{2;eka}	vIpsA,4	jisa	which				
-4	yAm	5	yAM	yax{swrI}{2;eka}	yax{swrI}{2;eka}	viSeRaNam,5	jisa	which				
-5	wanum	6	wanuM	wanu{puM}{2;eka}/wanu{swrI}{2;eka}	wanu{swrI}{2;eka}	karma,8	xevawA_ke_svarUpa_ko	form_of_the_demigods				
-6	BakwaH	3	BakwaH	Bakwa{puM}{1;eka}	Bakwa{puM}{1;eka}	karwA,8	sakAma_Bakwa	devotee				
-7	SraxXayA	7	SraxXayArciwumicCawi	SraxXA{swrI}{3;eka}	SraxXA{swrI}{3;eka}	kriyAviSeRaNam,8	SraxXA_se	with_faith				
-8	arciwum	8	0	qc1{kqw_prawyayaH:wumun;qcaz;wuxAxiH}/arc1{kqw_prawyayaH:wumun;arcaz;BvAxiH}	arc1{kqw_prawyayaH:wumun;arcaz;BvAxiH}	karma,9	pUjanA	to_worship				
-9	icCawi	9	0	icCaw{puM}{7;eka}/icCaw{napuM}{7;eka}/iR2{karwari;lat;pra;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;pra;eka;parasmEpaxI;iRuz;wuxAxiH}	aBihiwa_karwA,8	cAhawA_hE	desires				
-10	wasya	10	wasya	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	vIpsA,11	usa	of_that				
-11	wasya	11	wasyAcalAM	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,14	usakI	of_that				
-12	acalAm	16	0	acalA{swrI}{2;eka}	acalA{swrI}{2;eka}	karmasamAnAXikaraNam,16	sWira	steady	<na-calAM>Tn			
-13	SraxXAm	14	SraxXAM	SraxXA{swrI}{2;eka}	SraxXA{swrI}{2;eka}	karma,16	SraxXA_ko	faith				
-14	wAm	12	wAmeva	wax{swrI}{2;eka}	wax{swrI}{2;eka}	viSeRaNam,13	usI_xevawA_ke_prawi	him				
-15	eva	13	0	eva{avya}	eva{avya}	sambanXaH,14	hI	surely				
-16	vixaXAmi	17	vixaXAmyaham	vi_XA1{karwari;lat;u;eka;uBayapaxI;duXAF;juhowyAxiH}	vi_XA1{karwari;lat;u;eka;parasmEpaxI;vi_duXAF;juhowyAxiH}	aBihiwa_karwA,17	karawA_hUz	give				
-17	aham	15	0	asmax{1;eka}	asmax{1;eka}	karwA,16	mEM	I				
+1	यः	1	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	वीप्सा,2	जो	ट्हट्				
+2	यः	2	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	विशेषणम्,6;नित्य_सम्बन्धः,11	जो	ट्हट्				
+3	याम्	4	यां	यद्{स्त्री}{2;एक}	यद्{स्त्री}{2;एक}	वीप्सा,4	जिस	त्हिच्ह्				
+4	याम्	5	यां	यद्{स्त्री}{2;एक}	यद्{स्त्री}{2;एक}	विशेषणम्,5	जिस	त्हिच्ह्				
+5	तनुम्	6	तनुं	तनु{पुं}{2;एक}/तनु{स्त्री}{2;एक}	तनु{स्त्री}{2;एक}	कर्म,8	देवता_के_स्वरूप_को	ङोर्म्_ओङ्_ट्हे_डेमिगोड्स्				
+6	भक्तः	3	भक्तः	भक्त{पुं}{1;एक}	भक्त{पुं}{1;एक}	कर्ता,8	सकाम_भक्त	डेवोटेए				
+7	श्रद्धया	7	श्रद्धयार्चितुमिच्छति	श्रद्धा{स्त्री}{3;एक}	श्रद्धा{स्त्री}{3;एक}	क्रियाविशेषणम्,8	श्रद्धा_से	तिट्ह्_ङइट्ह्				
+8	अर्चितुम्	8	0	ऋच्1{कृत्_प्रत्ययः:तुमुन्;ऋचँ;तुदादिः}/अर्च्1{कृत्_प्रत्ययः:तुमुन्;अर्चँ;भ्वादिः}	अर्च्1{कृत्_प्रत्ययः:तुमुन्;अर्चँ;भ्वादिः}	कर्म,9	पूजना	टो_तोर्स्हिप्				
+9	इच्छति	9	0	इच्छत्{पुं}{7;एक}/इच्छत्{नपुं}{7;एक}/इष्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;इषुँ;तुदादिः}	इष्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;इषुँ;तुदादिः}	अभिहित_कर्ता,8	चाहता_है	डेसिरेस्				
+10	तस्य	10	तस्य	तद्{पुं}{6;एक}/तद्{नपुं}{6;एक}	तद्{पुं}{6;एक}	वीप्सा,11	उस	ओङ्_ट्हट्				
+11	तस्य	11	तस्याचलां	तद्{पुं}{6;एक}/तद्{नपुं}{6;एक}	तद्{पुं}{6;एक}	षष्ठीसम्बन्धः,14	उसकी	ओङ्_ट्हट्				
+12	अचलाम्	16	0	अचला{स्त्री}{2;एक}	अचला{स्त्री}{2;एक}	कर्मसमानाधिकरणम्,16	स्थिर	स्टेअड्य्	<न-चलां>ठ्न्			
+13	श्रद्धाम्	14	श्रद्धां	श्रद्धा{स्त्री}{2;एक}	श्रद्धा{स्त्री}{2;एक}	कर्म,16	श्रद्धा_को	ङइट्ह्				
+14	ताम्	12	तामेव	तद्{स्त्री}{2;एक}	तद्{स्त्री}{2;एक}	विशेषणम्,13	उसी_देवता_के_प्रति	हिम्				
+15	एव	13	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,14	ही	सुरेल्य्				
+16	विदधामि	17	विदधाम्यहम्	वि_धा1{कर्तरि;लट्;उ;एक;उभयपदी;डुधाञ्;जुहोत्यादिः}	वि_धा1{कर्तरि;लट्;उ;एक;परस्मैपदी;वि_डुधाञ्;जुहोत्यादिः}	अभिहित_कर्ता,17	करता_हूँ	गिवे				
+17	अहम्	15	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,16	मैं	ई				

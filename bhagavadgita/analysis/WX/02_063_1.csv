@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kroXAw	1	kroXAxBavawi	kroXa{puM}{5;eka}/kroXa{napuM}{5;eka}	kroXa{puM;5;eka}	hewuH,2	kroXa_se	from_anger				
+2	Bavawi	3	0	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,2	uwpanna_ho_jAwA_hE	arises				
+3	sammohaH	2	sammohaH	sammoha{puM}{1;eka}	sammoha{puM;1;eka(muh1;GaF;muhaz;:xivAxiH)}	karwA,2	awyanwa_mUDa़BAva	delusion				
+4	sammohAw	4	sammohAwsmqwiviBramaH	sammoha{puM}{5;eka}	sammoha{puM;5;eka(muh1;GaF;muhaz;:xivAxiH)}	hewuH,5.1	mUDa़BAva_se	from_delusion				
+5	smqwi-viBramaH	5	0	smqwi-viBrama{puM}{1;eka}	smqwi-viBrama{puM;1;eka}	karwA,5.1	smqwi_meM_Brama	confusion_of_memory	<smqwi-viBramaH>T6			
+5.1	(Bavawi)	6	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,5	(ho_jAwA_hE)	takes_place				
+6	smqwi-BraMSAw	7	smqwiBraMSAxbuxXinASo	smqwi-BraMSa{puM}{5;eka}	smqwi-BraMSa{puM;5;eka}	hewuH,7.1	smqwi_meM_Brama_ho_jAne_se	from_confusion_of_memory	<smqwi-BraMSAw>T6			
+7	buxXi-nASaH	8	0	buxXi-nASa{puM}{1;eka}	buxXi-nASa{puM;1;eka}	karwA,7.1	buxXi_kA_nASa	loss_of_reason	<buxXi-nASaH>T6			
+7.1	(Bavawi)	9	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,7.1	(ho_jAwA_hE)	takes_place				
+8	buxXi-nASAw	10	buxXinASAwpraNaSyawi	buxXi-nASa{puM}{5;eka}	buxXi-nASa{puM;5;eka}	hewuH,9	buxXi_kA_nASa_hone_se	from_loss_of_reason	<buxXi-nASAw>T6			
+9	praNaSyawi	12	0	praNaSyawi	pra_naS1{karwari;lat;pra;eka;parasmEpaxI;pra_NaSaz;xivAxiH}	aBihiwa_karwA,9.1	naRta_ho_jAwA_hE	is_completely_ruined				
+9.1	(saH)	11	(0)	(wax{puM}{1;eka})	wax{puM;1;eka}	karwA,9	(vaha)	he				

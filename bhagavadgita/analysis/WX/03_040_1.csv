@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	inxriyANi	1	inxriyANi	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}/inxriya{napuM}{8;bahu}	inxriya{napuM}{1;bahu}	samucciwaH,3	inxriyAz	the_senses				
+2	manaH	2	mano	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	sup_samucciwaH,3	mana	the_mind				
+3	buxXiH	4	buxXirasyAXiRTAnamucyawe	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karma,6	buxXi	the_intelligence				
+4	asya	5	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{napuM}{6;eka}	RaRTIsambanXaH,5	isake	of_the_lust				
+5	aXiRTAnam	6	0	aXiRTAna{napuM}{1;eka}/aXiRTAna{napuM}{2;eka}	aXiRTAna{napuM}{1;eka}	karmasamAnAXikaraNam,6	vAsasWAna	sitting_place				
+6	ucyawe	7	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karma,3	kahe_jAwe_hEM	called				
+6.1	(ca)	3	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,6	(Ora)	and				
+7	ewEH	9	ewErvimohayawyeRa	ewax{puM}{3;bahu}/ewax{napuM}{3;bahu}	ewax{puM}{3;bahu}	karaNam,11	inake_xvArA_(mana_buxXi_Ora_inxriyo_ke_xvArA)	by_all_these				
+8	vimohayawi	13	0	vimohayawi	vi_muh1_Nic{karwari;lat;pra;eka;parasmEpaxI;vi_muhaz_Nic;xivAxiH}	aBihiwa_karwA,9;sakarmakaH	mohiwa_karawA_hE	bewilders				
+9	eRaH	8	0	ewax{puM}{1;eka}	ewax{puM}{1;eka}	karwA,8	yaha_kAma	of_this				
+10	jFAnam	10	jFAnamAvqwya	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,11	jFAna_ko	knowledge				
+11	Avqwya	11	0	Af_vq1{kqw_prawyayaH:lyap;vq;BvAxiH}/Af_vq2{kqw_prawyayaH:lyap;vqF;svAxiH}/Af_vq4{kqw_prawyayaH:lyap;vqF;curAxiH}/Af_vqw1{kqw_prawyayaH:lyap;vqwuz;BvAxiH}/Af_vqw2{kqw_prawyayaH:lyap;vqwuz;xivAxiH}/Af_vqw3{kqw_prawyayaH:lyap;vqwuz;curAxiH}	Af_vq2{kqw_prawyayaH:lyap;Af_vqF;svAxiH}	pUrvakAlaH,8	AcCAxiwa_karake	covering				
+12	xehinam	12	xehinam	xehin{puM}{2;eka}	xehin{puM}{2;eka}	karma,8	jIvAwmA_ko	the_embodied				

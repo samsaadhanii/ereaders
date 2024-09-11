@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	svayam	7	svayamevAwmanAwmAnaM	svayam{avya}	svayam{avya}	viSeRaNam,6	svayaM	personality				
+2	eva	8	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
+3	AwmanA	9	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,5	apanese	by_Yourself				
+4	AwmAnam	10	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,5	apaneko	Yourself				
+5	vewWa	11	vewWa	vix1{karwari;lat;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,1;sakarmakaH	jAnawe_hEM	know				
+6	wvam	6	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,5	Apa	you				
+7	puruRa-uwwama	5	puruRowwama	puruRowwama{puM}{8;eka}	puruRowwama{puM}{8;eka}	samboXyaH,5	he_puruRowwama	O_greatest_of_all_persons	<puruRa-uwwama>T7			
+8	BUwa-BAvana	1	BUwaBAvana	BUwa-BAvana{napuM}{8;eka}	BUwa-BAvana{puM}{8;eka}	samboXyaH,5	he_BUwoM_ko_uwpanna_karanevAle	O_origin_of_everything	<BUwa-BAvana>T6			
+9	BUwa-ISa	2	BUweSa	BUwa-ISa{puM}{8;eka}	BUwa-ISa{puM}{8;eka}	samboXyaH,5	he_BUwoM_ke_ISvara	O_Lord_of_everything	<BUwa-ISa>T6			
+10	xeva-xeva	3	xevaxeva	xeva-xeva{puM}{8;eka}	xeva-xeva{puM}{8;eka}	samboXyaH,5	he_xevoM_ke_xeva	O_Lord_of_all_demigods	<xeva-xeva>T6			
+11	jagaw-pawe	4	jagawpawe	jagaw-pawa{puM}{7;eka}/pawi{puM}{8;eka}	jagaw-pawi{puM}{8;eka}	samboXyaH,5	he_jagaw_ke_svAmI	O_Lord_of_the_entire_universe	<jagaw-pawe>T6			
