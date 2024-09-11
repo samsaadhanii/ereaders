@@ -1,0 +1,22 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	AhAraH	2	AhAraswvapi	AhAra{puM}{1;eka}	AhAra{puM}{1;eka}	karwA,6	Bojana	eating				
+2	wu	8	0	wu{avya}	wu{avya}	sambanXaH,1	Ora	certainly				
+3	api	3	0	api{avya}	api{avya}	sambanXaH,1	BI	also				
+4	sarvasya	4	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,7	sabako	of_everyone				
+5	wri-viXaH	5	wriviXo	wri-viXa{puM}{1;eka}/viXas{puM}{8;eka}	wri-viXa{puM}{1;eka}	viXeya_viSeRaNam,6	wIna_prakAra_kA	three_kinds	<wri-viXaH>Bs6			
+6	Bavawi	7	Bavawi	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,1;akarmakaH	howA_hE	are				
+7	priyaH	6	priyaH	prI{napuM}{5;eka}/prI{napuM}{6;eka}/priya{puM}{1;eka}	priya{puM}{1;eka}	viSeRaNam,1	priya	dear				
+7.1	(yaWA)	1	(0)	(yaWA{avya})	(yaWA{avya})	kriyAviSeRaNam,6;niwya_sambanXaH,10	(jEse)	as				
+8	yajFaH	10	yajFaswapaswaWA	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	sup_samucciwaH,11	yajFa	sacrifice				
+9	wapaH	11	0	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}/wapas{napuM}{8;eka}	wapas{napuM}{1;eka}	sup_samucciwaH,11	wapa	austerity				
+10	waWA	9	0	waWA{avya}	waWA{avya}	kriyAviSeRaNam,11.3	vEse	also				
+11	xAnam	12	xAnaM	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{1;eka}	karwA,11.3	xAna	charity				
+11.1	(ca)	13	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,11	(Ora)	and				
+11.2	(wri-viXAH)	14	(0)	(wriviXa{puM}{1;bahu}/wriviXa{puM}{8;bahu}/wriviXA{swrI}{1;bahu}/wriviXA{swrI}{2;bahu}/wriviXA{swrI}{8;bahu})	(wri-viXa{puM}{1;bahu})	viXeya_viSeRaNam,11.3	(wIna_prakAra_ke)	three_kinds	<wri-viXAH>Bs6			
+11.3	(Bavanwi)	15	(0)	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(howe_hEM)	becomes				
+12	weRAm	16	weRAM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	RaRTIsambanXaH,13	unake	of_them				
+13	Bexam	18	BexamimaM	Bexa{puM}{2;eka}	Bexa{puM}{2;eka}	karma,15	Bexa_ko	differences				
+14	imam	17	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,13	isa	thus				
+15	SqNu	21	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,15.1;sakarmakaH	suna	hear				
+15.1	(mawwaH)	20	(0)	(mawwa{puM}{1;eka})	(mawwa{avya})	apAxAnam,15	(muJase)	from_me				
+15.2	(wvam)	19	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,15	(wuma)	you				

@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	a-parA	2	apareyamiwaswvanyAM	a-parA{swrI}{1;eka}/parA{swrI}{1;eka}	aparA{swrI}{1;eka}	viXeya_viSeRaNam,2.1	aparA_(arWAw_merI_jada़_prakqwi)	inferior	<na-parA>Tn			
+2	iyam	1	0	ixam{swrI}{1;eka}	ixam{swrI}{1;eka}	karwA,2.1	yaha	this				
+2.1	(aswi)	3	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
+3	iwaH	9	0	iwaH{avya}/iwa{puM}{1;eka}/i1{karwari;lat;pra;xvi;parasmEpaxI;iN;axAxiH}	iwaH{avya}	wulanA_binxuH,5	isase	besides_this				
+4	wu	13	0	wu{avya}	wu{avya}	sambanXaH,7	wo	but				
+5	anyAm	10	0	anyA{swrI}{2;eka}/anyA{swrI}{2;eka}/an1{karwari;viXilif;u;eka;parasmEpaxI;anaz;axAxiH}	anyA{swrI}{2;eka}	viSeRaNam,6	xUsarIko	another				
+6	prakqwim	12	prakqwiM	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	karma,8	prakqwi	energy				
+7	vixXi	15	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}		jAna	just_try_to_understand				
+8	me	11	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,6	merI	my				
+9	parAm	14	parAm	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	karmasamAnAXikaraNam,7	parA_(arWAw_cewana)	superior				
+10	jIva-BUwAm	13	jIvaBUwAm	jIva-BUwA{swrI}{2;eka}	jIva-BUwA{swrI}{2;eka}	viSeRaNam,9	jIvarUpA	the_living_entities	<jIva-BUwAM>T2			
+11	mahAn-bAho	4	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,7	he_mahAbAho	O_mighty-armed_one	<mahaw-bAho>Bs6			
+12	yayA	5	yayexaM	yax{swrI}{3;eka}	yax{swrI}{3;eka}	karwA,14;niwya_sambanXaH,5	jisase	by_whom				
+13	ixam	6	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,15	yaha	this				
+14	XAryawe	8	XAryawe	XAryawA{swrI}{1;xvi}/XAryawA{swrI}{2;xvi}/XAryawA{swrI}{8;eka}/XAryawA{swrI}{8;xvi}	Xq1_Nic{karmaNi;lat;pra;eka;AwmanepaxI;XqF_Nic;BvAxiH}	aBihiwakarma,15;sakarmakaH	XAraNa_kiyA_jAwA_hE	being_utilised_or_exploited				
+15	jagaw	7	jagaw	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,14	jagaw	the_material_world				

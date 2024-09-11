@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ixam	2	ixaM	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,2	yaha	this				
+2	SarIram	3	SarIraM	SarIra{napuM}{1;eka}/SarIra{napuM}{2;eka}	SarIra{napuM}{1;eka}	karma,6	SarIra	body				
+3	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,6	he_arjuna	O_son_of_Kunti				
+4	kRewram	4	kRewramiwyaBiXIyawe	kRewra{napuM}{1;eka}/kRewra{napuM}{2;eka}	kRewra{napuM}{1;eka}	karmasamAnAXikaraNam,6	kRewra	the_field				
+5	iwi	5	0	iwi{avya}	iwi{avya}	karmasamAnAXikaraNa_xyowakaH,4	isa_(nAma_se)	thus				
+6	aBiXIyawe	6	0	aBiXIyawe	aBi_XA1{karmaNi;lat;pra;eka;AwmanepaxI;aBi_duXAF;juhowyAxiH}	aBihiwakarma,2;sakarmakaH	kahA_jAwA_hE	is_called				
+7	ewaw	7	ewaxyo	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	karma,9	yaha	all_this				
+8	yaH	8	0	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,9;niwya_sambanXaH,10	jo	anyone				
+9	vewwi	9	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,8;sakarmakaH	jAnawA_hE	knows				
+10	wam	10	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	karma,11	usako	he				
+11	prAhuH	14	0	prAhuH	(pra_brU1{karwari;lat;pra;bahu;parasmEpaxI;pra_brUF;axAxiH})	aBihiwakarwA,14;sakarmakaH	(kahawe_hEM)	is_called				
+12	kRewra-jFaH	11	kRewrajFa	kRewra-jFa{puM}{1;eka}	kRewra-jFa{puM}{1;eka}	karmasamAnAXikaraNam,11	kRewrajFa	knower_of_the_body	<kRewra-jFaH>U			
+13	iwi	12	iwi	iwi{avya}	iwi{avya}	karmasamAnAXikaraNa_xyowakaH,11	isa_(nAma_se)	thus				
+14	waw-vixaH	13	waxvixaH	wax-vix{puM}{1;bahu}/vix{puM}{2;bahu}/vix{puM}{5;eka}/vix{puM}{6;eka}/vix{swrI}{1;bahu}/vix{swrI}{2;bahu}/vix{swrI}{5;eka}/vix{swrI}{6;eka}/vixa{puM}{1;eka}	wax-vix{puM}{1;eka}	karwA,11	jFAnIjana	one_who_knows	<waw-vixaH>U			

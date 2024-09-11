@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kAfkRanwaH	4	kAfkRanwaH	kAfkRaw{puM}{1;bahu}/kAfkRaw{puM}{8;bahu}	kAfkR1{kqw_prawyayaH:Sawq;kAkRiz;BvAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,4	cAhanevAle	desiring				
+1.1	(janAH)	5	()	(jana{puM}{1;bahu}/jana{puM}{8;bahu})	(jana{puM}{1;bahu})	karwA,4	(loga)	people				
+2	karmaNAm	2	karmaNAM	karman{napuM}{6;bahu}	karman{napuM}{6;bahu}	karma,3	karmoM_ke	of_fruitive_activities				
+3	sixXim	3	sixXiM	sixXi{swrI}{2;eka}	sixXi{swrI}{2;eka}	karma,1	Pala_ko	perfection				
+4	yajanwe	7	yajanwa	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	aBihiwa_karwA,1.1;sakarmakaH	pUjana_kiyA_karawe_hE	worship_by_sacrifices				
+5	iha	1	iha	iha{avya}	iha{avya}	viSeRaNam,10	isa	in_the_material_world				
+6	xevawAH	6	xevawAH	xevawA{swrI}{1;bahu}/xevawA{swrI}{2;bahu}/xevawA{swrI}{8;bahu}/xevawA{swrI}{1;bahu}/xevawA{swrI}{2;bahu}/xevawA{swrI}{8;bahu}	xevawA{swrI}{2;bahu}	karma,4	xevawAoM_kA	the_demigods				
+7	kRipram	13	kRipraM	kRipram{avya}/kRipra{napuM}{1;eka}/kRipra{napuM}{2;eka}	kRipram{avya}	kriyAviSeRaNam,12	SIGra	very_quickly				
+8	hi	8	hi	hi{avya}	hi{avya}	sambanXaH,11	kyoMki	certainly				
+9	mAnuRe	9	mAnuRe	mAnuRa{puM}{7;eka}	mAnuRa{puM}{7;eka}	viSeRaNam,10	manuRya	in_human_society				
+10	loke	10	loke	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	aXikaraNam,12	loka_meM	within_this_world				
+11	sixXiH	12	sixXirBavawi	sixXi{swrI}{1;eka}	sixXi{swrI}{1;eka}	karwA,12	sixXi	successful				
+12	Bavawi	14		Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,11;sakarmakaH	mila_jAwI_hE	becomes				
+13	karma-jA	11	karmajA	karman-ja{puM}/ja{napuM}	karmajA{swrI}{1;eka}	viSeRaNam,11	karmoM_se_uwpanna_honevAlI	the_fruitive_worker	<karma-jA>U			

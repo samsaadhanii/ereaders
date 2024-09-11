@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ye	2	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,10;niwya_sambanXaH,11	jo	one_who				
+2	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,7	paraMwu	but				
+3	Xarmya-amqwam	8	XarmyAmqwamixaM	XarmyAmqwa{napuM}{1;eka}/XarmyAmqwa{napuM}{2;eka}	Xarmya-amqwa{napuM}{2;eka}	karma,7	Xarmamaya_amqwa_kA	of_religious_nectar	<Xarmya-amqwam>K1			
+4	ixam	5	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,3	isa	this				
+5	yaWA	6	yaWokwaM	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,6	jEse	as				
+6	ukwam	7	0	ukwa{puM}{2;eka}/ukwa{napuM}{1;eka}/ukwa{napuM}{2;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;napuM}{2;eka}	viSeRaNam,3	kahe_hue	said				
+7	paryupAsawe	9	paryupAsawe	paryupAsawe	pari_upa_As1{karwari;lat;pra;bahu;AwmanepaxI;pari_upa_Asaz;axAxiH}	aBihiwakarwA,10;sakarmakaH	upAsanA_karawe_hEM	completely_engage				
+8	SraxxaXAnAH	3	SraxxaXAnA	SraxxaXAna{puM}{1;bahu}	SraxxaXAna{puM}{1;bahu}	viSeRaNam,10	SraxXAyukwa_puruRa	with_faith				
+9	maw-paramAH	4	mawparamA	mawparama{puM}{1;bahu}/mawparamA{swrI}{1;bahu}/mawparamA{swrI}{2;bahu}	asmax-parama{puM}{1;bahu}	viSeRaNam,10	mere_parAyaNa_hokara	taking_the_Supreme_Lord_as_everything	<asmaw-paramAH>Bs6			
+10	BakwAH	11	BakwAsweZwIva	Bakwa{puM}{1;bahu}/BakwA{swrI}{1;bahu}/BakwA{swrI}{2;bahu}	Bakwa{puM}{1;bahu}	karwA,7	Bakwa	devotees				
+11	we	10	0	wax{puM}{1;bahu}	wax{puM}{1;bahu}	karwA,14.1	ve	such_persons				
+12	awIva	13	0	awIva{avya}	awIva{avya}	wIvrawAxarSI,14	awiSaya	very,_very				
+13	me	12	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,14	muJako	me				
+14	priyAH	14	priyAH	priya{puM}{1;bahu}/priyA{swrI}{1;bahu}/priyA{swrI}{2;bahu}/pq1{karwari;ASIrlif;ma;eka;parasmEpaxI;pq;svAxiH}/pQ1{karwari;ASIrlif;ma;eka;parasmEpaxI;pQ;juhowyAxiH}	priya{puM}{1;bahu}	viXeya_viSeRaNam,14.1	priya	dear				
+14.1	(sanwi)	15	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hEM)	are				

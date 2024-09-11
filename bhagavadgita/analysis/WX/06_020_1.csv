@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yawra	4	yawroparamawe	yawra{avya}	yawra{avya}	aXikaraNam,2	jisa_avasWA_meM	in_that_state_of_affairs				
+2	uparamawe	5	0	uparamawA{swrI}{1;xvi}/uparamawA{swrI}{2;xvi}/upa_ram1{karwari;lat;pra;eka;AwmanepaxI;ramuz;BvAxiH}	upa_ram1{karwari;lat;pra;eka;AwmanepaxI;upa_ramuz;BvAxiH}	aBihiwa_karwA,3	uparAma_ho_jAwA_hE	when_one_feels_transcendental_happiness				
+3	ciwwam	3	ciwwaM	ciwwa{puM}{2;eka}/ciwwa{napuM}{1;eka}/ciwwa{napuM}{2;eka}	ciwwa{napuM}{1;eka}	karwA,2	ciwwa	mental_activities				
+4	niruxXam	2	niruxXaM	niruxXa{napuM}{1;eka}/niruxXa{napuM}{2;eka}	ni_ruX1{kqw_prawyayaH:kwa;ni_ruXizr;ruXAxiH;puM}{1;eka}	viSeRaNam,3	niruxXa	restrained_from_matter				
+5	yoga-sevayA	1	yogasevayA	yoga-sevA{swrI}{3;eka}	yoga-sevA{swrI}{3;eka}	karaNam,2	yoga_ke_aByAsa_se	by_performance_of_yoga	<yoga-sevayA>T6			
+6	yawra	6	yawra	yawra{avya}	yawra{avya}	aXikaraNam,11	jisa_avasWA_meM	in_that				
+7	ca	7	cEvAwmanAwmAnaM	ca{avya}	ca{avya}	samuccaya_xyowakaH,13	Ora	also				
+8	eva	12	0	eva{avya}	eva{avya}	sambanXaH,12	hI	certainly				
+9	AwmanA	8	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,11	sUkRma_buxXi_xvArA	by_the_pure_mind				
+10	AwmAnam	10	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,11	paramAwmA_ko	the_self				
+11	paSyan	11	paSyannAwmani	paSyaw{puM}{1;eka}	xqS1{kqw_prawyayaH:Sawq;xqSizr;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,13	sAkRAw_karawA_huA	realizing_the_position				
+12	Awmani	9	0	Awman{puM}{7;eka}	Awman{puM}{7;eka}	aXikaraNam,13	saccixAnanxaGana_paramAwmA_meM	in_the_self				
+13	wuRyawi	13	wuRyawi	wuRyaw{puM}{7;eka}/wuRyaw{napuM}{7;eka}/wuR1{karwari;lat;pra;eka;parasmEpaxI;wuRaz;xivAxiH}	wuR1{karwari;lat;pra;eka;parasmEpaxI;wuRaz;xivAxiH}	samucciwaH,2	saMwuRta_rahawA_hE	becomes_satisfied				

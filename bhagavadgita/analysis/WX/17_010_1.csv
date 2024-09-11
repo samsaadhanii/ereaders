@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yAwa-yAmam	3	yAwayAmaM	yAwa-yAma{puM}{2;eka}	yAwa-yAma{puM}{2;eka}	sup_samucciwaH,10	aXapakA	food_cooked_three_hours_before_being_eaten	<yAwa-yAmaM>Bs6			
+2	gawa-rasam	4	gawarasaM	gawa-rasa{puM}{2;eka}	gawa-rasa{puM}{2;eka}	sup_samucciwaH,10	rasarahiwa	tasteless	<gawa-rasaM>Bs6			
+3	pUwi	5	pUwi	pUwi{napuM}{1;eka}/pUwi{napuM}{2;eka}/pUwi{napuM}{8;eka}	pUwi{napuM}{2;eka}	sup_samucciwaH,10	xurganXayukwa	bad_smelling				
+4	paryuRiwam	6	paryuRiwaM	paryuRiwa{puM}{2;eka}/paryuRiwa{napuM}{1;eka}/paryuRiwa{napuM}{2;eka}	paryuRiwa{puM}{2;eka}	sup_samucciwaH,10	bAsI	decomposed				
+5	ca	7	ca	ca{avya}	ca{avya}	sambanXaH,10.2	Ora	also				
+6	yaw	1	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	viSeRaNam,11;niwya_sambanXaH,12.2	jo	that_which				
+7	ucCiRtam	8	ucCiRtamapi	ucCiRta{puM}{2;eka}/ux_SAs1{karwari;lot;ma;xvi;parasmEpaxI;SAsuz;axAxiH}	ucCiRta{puM}{2;eka}	sup_samucciwaH,10	ucCiRta	remnants_of_food_eaten_by_others				
+8	api	11	0	api{avya}	api{avya}	sambanXaH,10	BI	also				
+9	ca	10	cAmeXyaM	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	waWA	and				
+10	a-meXyam	9	0	a-meXya{puM}{2;eka}/meXya{napuM}{1;eka}/meXya{napuM}{2;eka}	ameXya{napuM}{2;eka}	viXeya_viSeRaNam,10.2	apaviwra	untouchable	<na-meXyam>Tn			
+10.1	(Bojanam)	2	(0)	(Bojana{puM}{2;eka}/Bojana{napuM}{1;eka}/Bojana{napuM}{2;eka})	(Bojana{puM}{2;eka})	karwA,10.2	(Bojana)	eating				
+10.2	(Bavawi)	12	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,10.1;akarmakaH	(hE)	becomes				
+11	Bojanam	14	BojanaM	Bojana{puM}{2;eka}/Bojana{napuM}{1;eka}/Bojana{napuM}{2;eka}	Bojana{puM}{2;eka}	karwA,12.1	Bojana	eating				
+12	wAmasa-priyam	15	wAmasapriyam	wAmasa-priya{puM}{2;eka}/priya{napuM}{1;eka}/priya{napuM}{2;eka}	wAmasa-priya{puM}{2;eka}	viXeya_viSeRaNam,12.1	wAmasa_puruRa_ko_priya	dear_to_those_in_the_mode_of_darkness	<wAmasa-priyam>T6			
+12.1	(Bavawi)	16	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(howA_hE)	becomes				
+12.2	(waw)	13	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{2;eka})	viSeRaNam,11	(vaha)	that				

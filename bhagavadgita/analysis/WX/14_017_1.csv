@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sawwvAw	1	sawwvAwsaFjAyawe	sawwva{puM}{5;eka}/sawwva{napuM}{5;eka}/sawwva{napuM}{5;eka}	sawwva{napuM}{5;eka}	apAxAnam,2	sawwvaguNa_se	from_the_mode_of_goodness				
+2	saFjAyawe	3	0	saFjAyawe	sam_jan3{karwari;lat;pra;eka;AwmanepaxI;sam_janIz;xivAxiH}	aBihiwakarwA,3;akarmakaH	uwpanna_howA_hE	develops				
+3	jFAnam	2	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karwA,2	jFAna	knowledge				
+4	rajasaH	5	rajaso	rajas{puM}{1;bahu}/rajas{puM}{2;bahu}/rajas{puM}{5;eka}/rajas{puM}{6;eka}/rajas{napuM}{5;eka}/rajas{napuM}{6;eka}	rajas{napuM}{5;eka}	apAxAnam,7.1	rajoguNa_se	from_the_mode_of_passion				
+5	loBaH	7	loBa	loBa{puM}{1;eka}	loBa{puM}{1;eka}	karwA,7.1	loBa	greed				
+6	eva	6	eva	eva{avya}	eva{avya}	sambanXaH,4	niHsaMxeha	certainly				
+7	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,7.1	Ora	also				
+7.1	(saFjAyawe)	8	(0)	(saFjAyawe)	(sam_jan3{karwari;lat;pra;eka;AwmanepaxI;sam_janIz;xivAxiH})	samucciwaH,2	(uwpanna_howA_hE)	develops				
+8	pramAxa-mohO	11	pramAxamohO	pramAxa-moha{puM}{1;xvi}/moha{puM}{2;xvi}	pramAxa-moha{puM}{1;xvi}	karwA,10	pramAxa_Ora_moha	madness_and_illusion	<pramAxa-mohO>Di			
+9	wamasaH	10	wamaso	wamas{napuM}{5;eka}/wamas{napuM}{6;eka}/wamasa{puM}{1;eka}	wamas{napuM}{5;eka}	apAxAnam,10	wamoguNa_se	from_the_mode_of_ignorance				
+10	BavawaH	12	BavawoZjFAnameva	Bavaw{puM}{2;bahu}/Bavaw{puM}{5;eka}/Bavaw{puM}{6;eka}/BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;xvi;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,3;akarmakaH	uwpanna_howe_hEM	develops				
+11	a-jFAnam	14	0	ajFAna{napuM}{1;eka}/ajFAna{napuM}{2;eka}	ajFAna{napuM}{1;eka}	karwA,13.1	ajFAn	nonsense	<na-jFAnam>Tn			
+12	eva	15	0	eva{avya}	eva{avya}	sambanXaH,11	BI	certainly				
+13	ca	9	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,13.1	waWA	also				
+13.1	(saFjAyawe)	16	(0)	(saFjAyawe)	(sam_jan3{karwari;lat;pra;eka;AwmanepaxI;sam_janIz;xivAxiH})	samucciwaH,10	(uwpanna_howA_hE)	develops				
+13.2	(wamasaH)	13	(0)	(wamas{napuM}{5;eka}/wamas{napuM}{6;eka}/wamasa{puM}{1;eka})	(wamas{napuM}{5;eka})	apAxAnam,13.1	(wamoguNa_se)	from_the_mode_of_ignorance				

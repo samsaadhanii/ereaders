@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	naBaH-spqSam	3	naBaH-spqSaM	naBas-spqS{puM}{2;eka}/spqS{swrI}{2;eka}/spqS{napuM}{2;eka}/spqSa{puM}{2;eka}/spqSa{napuM}{1;eka}/spqSa{napuM}{2;eka}	naBas-spqS{puM}{2;eka}	viSeRaNam,8	AkASa_ko_sparSa_karanevAle	touching_the_sky	<naBaH-spqSaM>U			
+2	xIpwam	4	xIpwamanekavarNaM	xIpwa{puM}{2;eka}/xIpwa{napuM}{1;eka}/xIpwa{napuM}{2;eka}	xIp1{kqw_prawyayaH:kwa;xIpIz;xivAxiH;puM}{2;eka}	viSeRaNam,8	xexIpyamAna	glowing				
+3	an-eka-varNam	5	0	aneka-varNa{puM}{2;eka}/varNa{napuM}{1;eka}/varNa{napuM}{2;eka}	aneka-varNa{puM}{2;eka}	viSeRaNam,8	aneka_varNoM_se_yukwa	many_color	<<na-eka>Tn-varNam>K1			
+4	vyAwa-Ananam	6	vyAwwAnanaM	vyAw-Anana{puM}{2;eka}/Anana{napuM}{1;eka}/Anana{napuM}{2;eka}	vyAwa-Anana{puM}{2;eka}	viSeRaNam,8	PElAye_hue_muKa	open_mouth	<vyAwa-AnanaM>Bs7			
+5	xIpwa-viSAla-newram	7	xIpwaviSAlanewram	xIpwa-viSAla-newra{napuM}{1;eka}/newra{napuM}{2;eka}	xIpwa-viSAla-newra{napuM}{2;eka}	viSeRaNam,8	prakASamAna_viSAla_newroM_se_yukwa	very_great_and_glowing_eyes	<<xIpwa-viSAla>K1-newram>Bs6			
+6	xqRtvA	9	xqRtvA	xqS1{avya;kwvA;xqSizr;:BvAxiH}	xqS1{avya;kwvA;xqSizr;:BvAxiH}	pUrvakAlaH,12	xeKakara	by_seeing				
+7	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,6	kyoMki	certainly				
+8	wvAm	8	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,6	Apako	you				
+9	pravyaWiwa-anwaH-AwmA	10	pravyaWiwAnwarAwmA	pravyaWiwa-anwar-Awman{puM}{1;eka}	pravyaWiwa-anwar-Awman{puM}{1;eka}	viSeRaNam,15.1	BayaBIwa_anwaHkaraNavAlA	perturbed_soul_within	<pravyaWiwa-<anwar-AwmA>K3>Bs6			
+10	Xqwim	12	XqwiM	Xqwi{swrI}{2;eka}	Xqwi{swrI}{2;eka}	sup_samucciwaH,13	XIraja	steadiness				
+11	na	15	na	na{avya}	na{avya}	prawiReXaH,12	nahIM	no				
+12	vinxAmi	16	vinxAmi	vix3{karwari;lat;u;eka;parasmEpaxI;vixLz;wuxAxiH}	vix3{karwari;lat;u;eka;parasmEpaxI;vixLz;wuxAxiH}	aBihiwa_karwA,15.1	pAwA_hUz	have				
+13	Samam	14	SamaM	Sama{puM}{2;eka}/Sama{napuM}{1;eka}/Sama{napuM}{2;eka}	Sama{puM}{2;eka}	karma,12	SAnwi	mental_tranquillity				
+14	ca	13	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,13	Ora	also				
+15	viRNo	2	viRNo	viRNu{puM}{8;eka}/viRNu{swrI}{8;eka}/viRNu{napuM}{8;eka}	viRNu{puM}{8;eka}	samboXyaH,12	he_viRNo	O_Lord_Visnu				
+15.1	(aham)	11	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,12	(mEM)	I				

@@ -1,0 +1,20 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	karmaNi	3	karmaNyevAXikAraswe	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,4.1	karma_karane_meM	work				
+2	eva	4	0	eva{avya}	eva{avya}	sambanXaH,1	hI	only				
+3	aXikAraH	2	0	aXikAra{puM}{1;eka}/aXikAra{puM}{1;eka}	aXikAra{puM}{1;eka}	karwA,4.1	aXikAra	right				
+4	we	1	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,3	wumhArA	your				
+4.1	(aswi)	5	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,3;akarmakaH	(hE)	is				
+5	mA	9	mA	mA{avya}/mA{swrI}{1;eka}/asmax{2;eka}	mA{avya}	prawiReXaH,7.1	nahIM	never				
+6	PaleRu	6	PaleRu	Pala{napuM}{7;bahu}	Pala{napuM}{7;bahu}	aXikaraNam,7.1	PaloM_meM	in_the_fruits_(of_action)				
+7	kaxAcana	8	kaxAcana	kaxAcana{avya}	kaxAcana{avya}	kAlAXikaraNam,7.1	kaBI	at_any_time				
+7.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,7.2;akarmakaH	(hE)	is				
+7.2	(aXikAraH)	7	(0)	(aXikAra{puM}{1;eka}/aXikAra{puM}{1;eka})	(aXikAra{puM}{1;eka})	karwA,7.1	(aXikAra)	right				
+8	mA	13	mA	mA{avya}/mA{swrI}{1;eka}/asmax{2;eka}	mA{avya}	prawiReXaH,10	mawa	not				
+9	karma-Pala-hewuH	12	karmaPalahewurBUrmA	karman-Pala-hewu{puM}{1;eka}	karman-Pala-hewu{puM}{1;eka}	viXeya_viSeRaNam,10	karmoM_ke_Pala_kA_hewu	cause_of_the_fruit_of_action	<<karma-Pala>T6-hewuH>Bs6			
+10	BUH(aBUH)	9	vijAnawaH	BU{karwari;luf;ma;eka;parasmEpaxI;BU;BvAxiH}	BU{karwari;luf;ma;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,10.1;akarmakaH	wawwva_se_jAnanevAle	who_has_obtained_enlightenment				
+10.1	(wvam)	11	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,10	(wuma)	you				
+11	mA	18	0	mA{avya}/mA{swrI}{1;eka}/asmax{2;eka}	mA{avya}	prawiReXaH,14	nahIM	nor				
+12	we	15	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,13	wumhArI	your				
+13	safgaH	16	safgoZswvakarmaNi	safga{puM}{1;eka}	safga{puM}{1;eka}	karwA,14	Asakwi	attachment				
+14	aswu	19	0	aswu{avya}/as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,13;akarmakaH	ho	be				
+15	a-karmaNi	17	0	akarman{puM}{7;eka}	a-karman{napuM}{7;eka}	aXikaraNam,14	akarma_meM	in_inaction	<na-karmaNi>Tn			

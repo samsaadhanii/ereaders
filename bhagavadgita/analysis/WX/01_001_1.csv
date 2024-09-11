@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	Xarma-kRewre	2	XarmakRewre	Xarman-kRewra{napuM}{1;xvi}/kRewra{napuM}{2;xvi}/kRewra{napuM}{7;eka}	Xarman-kRewra{napuM}{7;eka}	viSeRaNam,2	XarmaBUmi_meM	in_the_place_of_pilgrimage	<Xarma-kRewre>T6			
+2	kuru-kRewre	3	kurukRewre	kuru-kRewra{napuM}{1;xvi}/kRewra{napuM}{2;xvi}/kRewra{napuM}{7;eka}	kuru-kRewra{napuM}{7;eka}	aXikaraNam,9	kurukRewra_meM	in_the_place_named_Kuruksetra	<kuru-kRewre>T6			
+3	samavewAH	4	samavewA	samavewa{puM}{1;bahu}/samavewA{swrI}{1;bahu}/samavewA{swrI}{2;bahu}	samavewa{puM}{1;bahu}	viSeRaNam,6	ekawriwa	assembled				
+4	yuyuwsavaH	5	yuyuwsavaH	yuyuwsu{puM}{1;bahu}	yuyuwsu{puM}{1;bahu}	viSeRaNam,6	yuxXa_kI_icCAvAle	eager_to_fight				
+5	mAmakAH	6	mAmakAH	mAmaka{puM}{1;bahu}	mAmaka{puM}{1;bahu}	sup_samucciwaH,6	mere	my_(sons)				
+6	pANdavAH	7	pANdavAScEva	pANdava{puM}{1;bahu}	pANdava{puM}{1;bahu}	karwA,9	pANdu_ke_puwroM_ne	the_sons_of_Pandu				
+7	ca	8	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	and				
+7.1	eva	9	0		eva{avya}	sambanXaH,6	vahi	certainly				
+8	kim	10	kimakurvawa	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{2;eka}	karma,9	kyA	what				
+9	akurvawa	11	0	kq3{karwari;laf;pra;bahu;AwmanepaxI;dukqF;wanAxiH}	kq3{karwari;laf;pra;bahu;AwmanepaxI;dukqF;wanAxiH}	aBihiwa_karwA,6;sakarmakaH	kiyA	did_they_do				
+10	saFjaya	1	saFjaya	sam_ji1{karwari;lot;ma;eka;parasmEpaxI;ji;BvAxiH}/saFj1_Nic{karwari;lot;ma;eka;parasmEpaxI;RaFjaz;BvAxiH}	saFjaya{puM}{8;eka}	samboXyaH,9	he_saMjaya	O_Sanjaya				

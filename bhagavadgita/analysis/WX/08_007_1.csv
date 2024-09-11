@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wasmAw	1	wasmAwsarveRu	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,5	isaliye	therefore				
+2	sarveRu	2	0	sarva{puM}{7;bahu}/sarva{napuM}{7;bahu}	sarva{puM}{7;bahu}	viSeRaNam,3	saba	all				
+3	kAleRu	3	kAleRu	kAla{puM}{7;bahu}/kAla{napuM}{7;bahu}	kAla{puM}{7;bahu}	aXikaraNam,5	samaya_meM	time				
+4	mAm	4	mAmanusmara	asmax{2;eka}	asmax{2;eka}	karma,5	merA	unto_Me				
+5	anusmara	5	0	anu_smq1{karwari;lot;ma;eka;parasmEpaxI;smq;BvAxiH}/anu_smq2{karwari;lot;ma;eka;parasmEpaxI;smq;BvAxiH}	anu_smq1{karwari;lot;ma;eka;parasmEpaxI;anu_smq;BvAxiH}	samucciwaH,7	smaraNa_kara	go_on_remembering				
+6	yuXya	6	yuXya	yuXya	yuX1{karwari;lot;ma;eka;parasmEpaxI;yuXaz;xivAxiH}	aBihiwakarwA,7.1,akarmakaH	yuxXa_kara	fight				
+7	ca	7	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	also				
+7.1	(wvam)	1.1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,6	(wuma)	you				
+8	mayi	8	mayyarpiwamanobuxXirmAmevERyasyasaMSayam	asmax{7;eka}	asmax{7;eka}	aXikaraNam,9	muJameM	unto_Me				
+9	arpiwa-manaH-buxXiH	9	0	arpiwamanobuxXiH	arpiwa-manas-buxXi{swrI}{1;eka}	viSeRaNam,13.1	arpaNa_kiye_hue_mana-buxXi_se_yukwa_hokara	surrendered_mind_and_intellect	<arpiwa-<manaH-buxXiH>Di>Bs3			
+10	mAm	12	0	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	unto_Me				
+11	eva	13	0	eva{avya}	eva{avya}	sambanXaH,10	hI	surely				
+12	eRyasi	14	0	i1{karwari;lqt;ma;eka;parasmEpaxI;iN;axAxiH}	i1{karwari;lqt;ma;eka;parasmEpaxI;iN;axAxiH}	aBihiwakarwA,12.1,sakarmakaH	prApwa_hogA	will_attain				
+13	a-saMSayam	11	0	asaMSaya{puM}{2;eka}	asaMSaya{puM}{2;eka}	kriyAviSeRaNam,12	niHsanxeha	beyond_a_doubt	<na-saMSayaM>Tn			
+13.1	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wuma)	you				

@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	evam	1	evaM	evam{avya}	evam{avya}	kriyAviSeRaNam,2	isa_prakAra	thus				
+2	paramparA-prApwam	2	paramparAprApwamimaM	paramparA-prApwa{puM}{2;eka}/prApwa{napuM}{1;eka}/prApwa{napuM}{2;eka}	paramparA-pra_Ap1{kqw_prawyayaH:kwa;pra_ApLz;svAxiH;puM}{2;eka}	viSeRaNam,3.1	paramparA_se_prApwa	received_from_disciplic_succession	<paramparA-prApwam>T3			
+3	imam	3		ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,3.1	isa	this_science				
+3.1	(yogam)	3.1	()	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,5	yoga_ko	the_science_of_one's_relationship_to_the_Supreme				
+4	rAja-qRayaH	4	rAjarRayo	rAjan-qRi{puM}{1;bahu}/qRi{puM}{8;bahu}	rAjan-qRi{puM}{1;bahu}	karwA,5	rAjarRiyoM_ne	the_saintly_kings	<rAja-qRayaH>K1			
+5	vixuH	6	vixuH	vixu{puM}{1;eka}/vixus{napuM}{1;eka}/vixus{napuM}{2;eka}/vixus{napuM}{8;eka}/vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;bahu;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,4	jAnA	understood				
+6	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,10	vaha	that_knowledge				
+7	kAlena	8	kAleneha	kAla{puM}{3;eka}/kAla{napuM}{3;eka}	kAla{puM}{3;eka}	hewuH,11	kAla_se	in_the_course_of_time				
+8	iha	9		iha{avya}	iha{avya}	xeSAXikaraNam,11	yahAz_(isa_pqWvI_loka_meM)	in_this_world				
+9	mahawA	7	mahawA	mahaw{puM}{3;eka}/mahaw{napuM}{3;eka}/mahawA{swrI}{1;eka}/mahawA{swrI}{1;eka}	mahaw{puM}{3;eka}	viSeRaNam,7	bahuwa	by_great				
+10	yogaH	11	yogo	yoga{puM}{1;eka}	yoga{puM}{1;eka}	karwA,11	yoga	the_science_of_one's_relationship_with_the_Supreme				
+11	naRtaH	5	naRtaH	naRta{puM}{1;eka}	naS1{kqw_prawyayaH:kwa;NaSaz;xivAxiH;puM}{1;eka}	aBihiwa_karwA,10	lupwaprAya_ho_gayA	scattered				
+12	paranwapa	12	paranwapa	paranwapa{puM}{8;eka}/paranwapa{napuM}{8;eka}	paranwapa{puM}{8;eka}	samboXyaH,5	he_paranwapa_arjuna	O_Arjuna,_subduer_of_the_enemies				

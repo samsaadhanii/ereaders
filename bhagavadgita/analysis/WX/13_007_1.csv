@@ -1,0 +1,45 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	a-mAniwvam	1	amAniwvamaxamBiwvamahiMsA	a-mAniwva{puM}{2;eka}/mAniwva{napuM}{1;eka}/mAniwva{napuM}{2;eka}	amAniwva{napuM}{1;eka}	Gataka,33	SreRTawA_ke_aBimAna_kA_aBAva	humility	<na-mAniwvam>Tn			
+2	a-xamBiwvam	2	0	a-xamBiwvam	axamBiwva{napuM}{1;eka}	Gataka,33	xamBAcaraNa_kA_aBAva	pridelessness	<na-xamBiwvam>Tn			
+3	a-hiMsA	3	0	a-hiMsA{swrI}{1;eka}	ahiMsA{swrI}{1;eka}	Gataka,33	kisI_BI_prANI_ko_kisI_prakAra_BI_na_sawAnA	nonviolence	<na-hiMsA>Tn			
+4	kRAnwiH	4	kRAnwirArjavam	kRAnwi{swrI}{1;eka}	kRAnwi{swrI}{1;eka}	Gataka,33	kRamABAva	tolerance				
+5	Arjavam	5	0	Arjava{napuM}{1;eka}/Arjava{napuM}{2;eka}	Arjava{napuM}{1;eka}	Gataka,33	mana-vANI_Axi_kI_saralawA	simplicity				
+6	AcArya-upAsanam	6	AcAryopAsanaM	AcArya-upAsana{napuM}{1;eka}/upAsana{napuM}{2;eka}	AcArya-upAsana{napuM}{1;eka}	Gataka,33	SraxXABakwisahiwa_guru_kI_sevA	approaching_a_bona_fide_spiritual_master	<AcArya-upAsanaM>T6			
+7	SOcam	7	SOcaM	SOca{napuM}{1;eka}/SOca{napuM}{2;eka}	SOca{napuM}{1;eka}	Gataka,33	bAhara-BIwara_kI_SuxXi	cleanliness				
+8	sWEryam	8	sWEryamAwmavinigrahaH	sWErya{napuM}{1;eka}/sWErya{napuM}{2;eka}	sWErya{napuM}{1;eka}	Gataka,33	anwaHkaraNa_kI_sWirawA	steadfastness				
+9	Awma-vinigrahaH	9	0	Awman-vinigraha{puM}{1;eka}	Awman-vinigraha{puM}{1;eka}	Gataka,33	mana-inxriyoMsahiwa_SarIra_kA_nigraha	control	<Awma-vinigrahaH>T6			
+10	inxriya-arWeRu	10	inxriyArWeRu	inxriyArWa{puM}{7;bahu}	inxriyArWa{puM}{7;bahu}	aXikaraNam,12	isa_loka_Ora_paraloka_ke_sampUrNa_BogoM_meM	in_the_matter_of_the_senses	<inxriya-arWeRu>T6			
+11	vErAgyam	11	vErAgyamanahafkAra	vErAgya{napuM}{1;eka}/vErAgya{napuM}{2;eka}	vErAgya{napuM}{1;eka}	sup_samucciwaH,12	Asakwi_kA_aBAva	renunciation				
+12	an-ahafkAraH	12	0	an-{avya}-ahafkAra{puM}{1;eka}	na-ahafkAra{puM}{1;eka}	Gataka,33	ahaMkAra_kA_aBAva	being_without_false_egoism	<na-ahafkAraH>Tn			
+13	eva	13	eva	eva{avya}	eva{avya}	sambanXaH,12	BI	certainly				
+14	ca	14	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora	also				
+15	janma-mqwyu-jarA-vyAXi-xuHKa-xoRa-anuxarSanam	15	janmamqwyujarAvyAXixuHKaxoRAnuxarSanam	janman-mqwyu-jarA-vyAXin-xuHKa-xoRan-anuxarSana{napuM}{1;eka}/anuxarSana{napuM}{2;eka}	janman-mqwyu-jarA-vyAXi-xuHKa-xoRa-anuxarSana{napuM}{1;eka}	Gataka,33	janma_mqwyu_jarA_Ora_roga_Axi_meM_xuHKa_Ora_xoRoM_kA_bAra-bAra_vicAra_karanA	observing_distress_and_fault_in_birth_death_old_age_and_disease	<<<janma-mqwyu-jarA-vyAXi-xuHKa>Di-xoRa>T7-anuxarSanam>T6			
+16	a-sakwiH	18	asakwiranaBiRvafgaH	a-sakwi{swrI}{1;eka}	asakwi{swrI}{1;eka}	sup_samucciwaH,17	Asakwi_kA_aBAva	without_attachment	<na-sakwiH>Tn			
+17	an-aBiRvafgaH	19	0	an-{avya}-aBiRvafga{puM}{1;eka}	na_aBiRvafga{puM}{1;eka}	Gataka,33	mamawA_kA_na_honA	without_association	<na-aBiRvafgaH>Tn			
+18	puwra-xAra-gqha-AxiRu	16	puwraxAragqhAxiRu	puwra-xAra-gqha-Axi{puM}{7;bahu}/Axi{napuM}{7;bahu}	puwra-xAra-gqha-Axi{puM}{7;bahu}	aXikaraNam,17	puwra_swrI_Gara_Ora_Xana_Axi_meM	sons_wife_home_etc	<<puwra-xAra-gqha>Di-AxiRu>Bs6			
+19	niwyam	17	niwyaM	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{1;eka}	kriyAviSeRaNam,17	saxA_hI	eternal				
+20	ca	20	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,17	waWA	also				
+21	sama-ciwwawvam	22	samaciwwawvamiRtAniRtopapawwiRu	sama-ciwwawvam	sama-ciwwawva{napuM}{1;eka}	Gataka,33	ciwwa_kA_sama_rahanA	equilibrium	<sama-ciwwawvam>Bs6			
+22	iRta-a-niRta-upapawwiRu	21	0	iRta-a-niRta-upapawwi{swrI}{7;bahu}	iRta-aniRta-upapawwi{swrI}{7;bahu}	aXikaraNam,21	priya_Ora_apriya_kI_prApwi_meM	having_desirable_and_undesirable	<<iRta-<na-iRta>Tn>Di-upapawwiRu>T6			
+23	mayi	23	mayi	asmax{7;eka}	asmax{7;eka}		muJa_parameSvara_meM	unto_Me				
+24	ca	24	cAnanyayogena	ca{avya}	ca{avya}	samuccaya_xyowakaH,22	waWA	also				
+25	an-anya-yogena	25	0	ananya-yoga{puM}{3;eka}	ananya-yoga{puM}{3;eka}	kriyAviSeRaNam,26	ananya_yoga_ke_xvArA	by_devotional_service	<<na-anya>Bs7-yogena>K6			
+26	BakwiH	27	BakwiravyaBicAriNI	Bakwi{swrI}{1;eka}	Bakwi{swrI}{1;eka}	Gataka,33	Bakwi	devotion				
+27	a-vyaBicAriNI	26	0	a-vyaBicArin{napuM}{1;xvi}/vyaBicArin{napuM}{2;xvi}/vyaBicAriNI{swrI}{1;eka}	na-vyaBicAriNI{swrI}{1;eka}	viSeRaNam,26	avyaBicAriNI	constant_unalloyed	<na-vyaBicAriNI>Tn			
+28	vivikwa-xeSa-seviwvam	28	vivikwaxeSaseviwvamarawirjanasaMsaxi	vivikwa-xeSa-seviwva{puM}{2;eka}/seviwva{napuM}{1;eka}/seviwva{napuM}{2;eka}	vivikwa-xeSa-seviwva{napuM}{1;eka}	Gataka,33	ekAnwa_Ora_SuxXa_xeSa_meM_rahane_kA_svaBAva	aspiring_to_be_in_solitary_place	<<vivikwa-xeSa>K1-seviwvam>U			
+29	a-rawiH	30	0	a-rawi{swrI}{1;eka}	na-rawi{swrI}{1;eka}	Gataka,33	prema_kA_na_honA	without_attachment	<na-rawiH>Tn			
+30	jana-saMsaxi	29	0	jana-saMsax{swrI}{7;eka}	jana-saMsax{swrI}{7;eka}	aXikaraNam,29	viRayAsakwa_manuRyoM_ke_samuxAya_meM	to_mass_of_people_in_general	<jana-saMsaxi>T6			
+31	aXi-Awma-jFAna-niwyawvam	31	aXyAwmajFAnaniwyawvaM	aXi-Awman-jFAna-niwyawva{napuM}{1;eka}/niwyawva{napuM}{2;eka}	aXyAwman-jFAna-niwyawva{napuM}{1;eka}	Gataka,33	aXyAwmajFAna_meM_niwya_sWiwi	eternal_knowledge_pertaining_to_the_self	<<<aXi-Awma>A1-jFAna>K1-niwyawvaM>T7			
+32	wawwva-jFAna-arWa-xarSanam	32	wawwvajFAnArWaxarSanam	wawwva-jFAna-arWa-xarSana{puM}{2;eka}/xarSana{napuM}{1;eka}/xarSana{napuM}{2;eka}	wawwva-jFAna-arWa-xarSana{napuM}{1;eka}	Gataka,33	wawwvajFAna_ke_arWarUpa_paramAwmA_ko_hI_xeKanA	philosophy_of_the_knowledge_of_the_truth	<<<wawwva-jFAna>T6-arWa>T6-xarSanam>T6			
+32.1	(iwi)	33	(0)	iwi{avya}	iwi{avya}	Gataka_xyowakaH,32	EsA	thus				
+33	ewaw	34	ewajjFAnamiwi	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{1;eka}	karma,36	yaha	all_this				
+34	jFAnam	35	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karmasamAnAXikaraNam,36	jFAna	knowledge				
+35	iwi	36	0	iwi{avya}	iwi{avya}	karmasamAnAXikaraNa_xyowakaH,34	EsA	thus				
+36	prokwam	37	prokwamajFAnaM	prokwa{puM}{2;eka}/prokwa{napuM}{1;eka}/prokwa{napuM}{2;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;napuM}{1;eka}	aBihiwakarma,33;sakarmakaH	kahA_hE	declared				
+37	a-jFAnam	43	0	a-jFAna{puM}{2;eka}/jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	ajFAna{napuM}{1;eka}	karmasamAnAXikaraNam,40.3	ajFAna	ignorance	<na-jFAnam>Tn			
+38	yaw	39	yaxawoZnyaWA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,40.1	jo	that_which				
+39	awaH	38	0	awaH{avya}	awaH{avya}	apAxAnam,40.1	isase	from_this				
+40	anyaWA	40	0	anyaWA{avya}	anyaWA{avya}	kriyAviSeRaNam,40.1	viparIwa	others				
+40.1	(aswi)	41	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,38;akarmakaH	(hE)	is				
+40.2	(waw)	42	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{1;eka})	karma,40.3	(vaha)	that				
+40.3	(prokwam)	44	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarma,40.2;sakarmakaH	(hE)	is				

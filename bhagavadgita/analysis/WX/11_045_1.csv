@@ -1,0 +1,20 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	a-xqRta-pUrvam	2	axqRtapUrvaM	a-xqRta-pUrvam{avya}/pUrva{puM}{2;eka}/pUrva{napuM}{1;eka}/pUrva{napuM}{2;eka}/pUrva{puM}{2;eka}/pUrva{napuM}{1;eka}/pUrva{napuM}{2;eka}	axqRta-pUrva{napuM}{2;eka}	karma,4	pahale_na_xeKe_hue_Apake_isa_AScaryamaya_rUpa_ko	never_seen_before	<<na-xqRta>Tn-pUrvaM>Bs6			
+2	hqRiwaH	4	hqRiwoZsmi	hqRiwa{puM}{1;eka}	hqR1{kqw_prawyayaH:kwa;hqRaz;xivAxiH;puM}{1;eka}	viXeya_viSeRaNam,3	harRiwa	gladdened				
+3	asmi	5	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,4.1;akarmakaH	ho_rahA_hUz	am				
+4	xqRtvA	3	xqRtvA	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	pUrvakAlaH,3	xeKakara	by_seeing				
+4.1	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,3	(mEM)	I				
+5	Bayena	9	Bayena	Baya{napuM}{3;eka}	Baya{napuM}{3;eka}	hewuH,7	Baya_se	out_of_fear				
+6	ca	8	ca	ca{avya}	ca{avya}	sambanXaH,7	Ora	also				
+7	pravyaWiwam	10	pravyaWiwaM	pravyaWiwa{puM}{2;eka}/pravyaWiwa{napuM}{1;eka}/pravyaWiwa{napuM}{2;eka}	pra_vyaW1{kqw_prawyayaH:kwa;pra_vyaWaz;BvAxiH;napuM}{1;eka}	aBihiwakarwA,8;akarmakaH	awi_vyAkula	perturbed				
+8	manaH	7	mano	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	karwA,7	mana	mind				
+9	me	6	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,8	merA	my				
+10	waw	11	waxeva	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,14	usa	therefore				
+11	eva	13	0	eva{avya}	eva{avya}	sambanXaH,14	hI	certainly				
+12	me	14	me	asmax{6;eka}	asmax{4;eka}	sampraxAnam,13	muJe	unto_me				
+13	xarSaya	15	xarSaya	xqS1_Nic{karwari;lot;ma;eka;parasmEpaxI;xqSizr_Nic;BvAxiH}	xqS1_Nic{karwari;lot;ma;eka;parasmEpaxI;xqSizr_Nic;BvAxiH}		xiKalAiye	show				
+14	xeva-rUpam	12	xevarUpaM	xeva-rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	xeva-rUpa{puM}{2;eka}	karma,13	xeva_rUpa_ko	the_form_of_Lord				
+15	prasIxa	19	prasIxa	pra_sax1{karwari;lot;ma;eka;parasmEpaxI;RaxLz;BvAxiH}/pra_saxa1{karwari;lot;ma;eka;parasmEpaxI;RaxaLz;wuxAxiH}	pra_sax1{karwari;lot;ma;eka;parasmEpaxI;pra_RaxLz;BvAxiH}	aBihiwakarwA,17.1;akarmakaH	prasanna_hoiye	just_be_gracious				
+16	xeva-ISa	16	xeveSa	xeva-ISa{puM}{8;eka}	xeveSa{puM}{8;eka}	samboXyaH,15	he_xeveSa	O_Lord_of_lords	<xeva-ISa>T6			
+17	jagaw-nivAsa	17	jagannivAsa	jagaw-nivAsa{puM}{8;eka}/nivAsa{napuM}{8;eka}	jagaw-nivAsa{puM}{8;eka}	samboXyaH,15	he_jagannavivAsa	the_refuge_of_the_universe	<jagaw-nivAsa>Bs6			
+17.1	(wvam)	18	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,15	(Apa)	you				

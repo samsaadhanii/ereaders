@@ -1,0 +1,22 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	gurUn	3	gurUnahawvA	guru{puM}{2;bahu}	guru{puM}{2;bahu}	karma,2	gurujanoM_ko	elders				
+2	a-hawvA	4	0	ahawvA	a-han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	pUrvakAlaH,10.1	na_mArakara	without_slaying				
+3	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,5	kyoMki	because				
+4	mahaw-anuBAvAn	2	mahAnuBAvAn	mahAnuBAva{puM}{2;bahu}	mahAnuBAva{puM}{2;bahu}	viSeRaNam,1	mahAnuBAva	noble	<mahaw-anuBAvAn>Bs6			
+5	SreyaH	10	Sreyo	Sreya{puM}{1;eka}	Sreyas{napuM}{1;eka}	karwA,10.1	kalyANakAraka	better				
+6	Bokwum	8	BokwuM	Buj1{kqw_prawyayaH:wumun;Bujoz;wuxAxiH}/Buj2{kqw_prawyayaH:wumun;Bujaz;ruXAxiH}	Buj2{kqw_prawyayaH:wumun;Bujaz;ruXAxiH}	prayojanam,5	KAnA	to_live_on				
+7	BEkRyam	7	BEkRyamapIha	BEkRyam	BEkRya{napuM}{2;eka}	karma,6	BikRA_kA_anna	alms				
+8	api	9	0	api{avya}	api{avya}	sambanXaH,6	BI	even				
+9	iha	5	0	iha{avya}	iha{avya}	viSeRaNam,10	isa	in_this				
+10	loke	6	loke	loka{puM}{7;eka}	loka{puM}{7;eka}	aXikaraNam,10.1	loka_meM	world				
+10.1	(aswi)	11	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hE)	is				
+11	hawvA	13	hawvArWarWakAmAMswu	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	pUrvakAlaH,17	mArakara	after_killing				
+12	arWa-kAmAn	18	0	arWa-kAma{puM}{2;bahu}	arWa-kAma{puM}{2;bahu}	viSeRaNam,18	arWa_Ora_kAmarUpa	in_the_form_of_wealth_and_sense-enjoyments	<arWa-kAmAn>U			
+13	wu	14	0	wu{avya}	wu{avya}	sambanXaH,11	wo	even				
+14	gurUn	12	gurUnihEva	guru{puM}{2;bahu}	guru{puM}{2;bahu}	karma,11	gurujanoM_ko	elders				
+15	iha	15	0	iha{avya}	iha{avya}	aXikaraNam,17	yahAz_(isa_loka_meM)	in_this_life				
+16	eva	16	0	eva{avya}	eva{avya}	sambanXaH,15	hI	after_all				
+17	BuFjIya	20	BuFjIya	Buj2{karwari;viXilif;u;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{karwari;viXilif;u;eka;AwmanepaxI;Bujaz;ruXAxiH}	aBihiwakarwA,19.1;sakarmakaH	BogUzgA	shall_enjoy				
+18	BogAn	19	BogAnruXirapraxigXAn	Boga{puM}{2;bahu}	Boga{puM}{2;bahu}	karma,17	BogoM_ko	pleasures				
+19	ruXira-praxigXAn	17	0	ruXira-praxigXAn	ruXira-pra_xih1{kqw_prawyayaH:kwa;pra_xihaz;axAxiH;puM}{2;bahu}	viSeRaNam,18	ruXira_se_sane_hue	bloodstained	<ruXira-praxigXAn>T3			
+19.1	(aham)	19.1	(0)	asmax{1;eka}	asmax{1;eka}	karwA,17	mEM	I				

@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaWA	2	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,2;niwya_sambanXaH,10	jisa_prakAra	as				
+2	prakASayawi	8	prakASayawyekaH	prakASayawi	pra_kAS1_Nic{karwari;lat;pra;eka;parasmEpaxI;pra_kASqz_Nic;BvAxiH}	aBihiwakarwA,7;sakarmakaH	prakASiwa_karawA_hE	illuminates				
+3	ekaH	3	0	eka{puM}{1;eka}	eka{puM}{1;eka}	viSeRaNam,7	eka_hI	one				
+4	kqwsnam	6	kqwsnaM	kqwsna{napuM}{1;eka}/kqwsna{napuM}{2;eka}	kqwsna{napuM}{2;eka}	viSeRaNam,5	sampUrNa	the_whole				
+5	lokam	7	lokamimaM	loka{puM}{2;eka}	loka{puM}{2;eka}	karma,2	brahmANda_ko	universe				
+6	imam	5	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,5	isa	this				
+7	raviH	4	raviH	ravi{puM}{1;eka}	ravi{puM}{1;eka}	karwA,2	sUrya	Sun				
+8	kRewram	12	kRewraM	kRewra{napuM}{1;eka}/kRewra{napuM}{2;eka}	kRewra{napuM}{2;eka}	karma,12	kRewra_ko	this_body				
+9	kRewrI	10	kRewrI	kRewrI{swrI}{1;eka}/kRewrin{puM}{1;eka}	kRewrin{puM}{1;eka}	karwA,12	eka_hI_AwmA	the_soul				
+10	waWA	9	waWA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,12	usI_prakAra	similarly				
+11	kqwsnam	11	kqwsnaM	kqwsna{napuM}{1;eka}/kqwsna{napuM}{2;eka}	kqwsna{napuM}{2;eka}	viSeRaNam,8	sampUrNa	all				
+12	prakASayawi	13	prakASayawi	prakASayawi	pra_kAS1_Nic{karwari;lat;pra;eka;parasmEpaxI;pra_kASqz_Nic;BvAxiH}	aBihiwakarwA,9;sakarmakaH	prakASiwa_karawA_hE	illuminates				
+13	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,2	he_arjuna	O_son_of_Bharata				

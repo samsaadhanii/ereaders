@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	uwsIxeyuH	8	uwsIxeyurime	uwsIxeyuH	uw_sax1{karwari;viXilif;pra;bahu;parasmEpaxI;uw_RaxLz;BvAxiH}	aBihiwakarwA,3;akarmakaH	naRta-BraRta_ho_jAyaz	put_into_ruin				
+2	ime	6	0	ixam{puM}{1;bahu}/ixam{swrI}{1;xvi}/ixam{swrI}{2;xvi}/ixam{napuM}{1;xvi}/ixam{napuM}{2;xvi}	ixam{puM}{1;bahu}	viSeRaNam,3	ye	all_these				
+3	lokAH	7	lokA	loka{puM}{1;bahu}/loka{puM}{8;bahu}	loka{puM}{1;bahu}	karwA,1	saba_manuRya	worlds				
+4	na	3	na	na{avya}	na{avya}	prawiReXaH,5	na	do_not				
+5	kuryAm	4	kuryAM	kq3{karwari;viXilif;u;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;viXilif;u;eka;parasmEpaxI;dukqF;wanAxiH}	anuyogI,7	karUz	perform				
+6	karma	2	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,5	karma	prescribed_duties				
+7	cew	5	cexaham	cew{avya}	cew{avya}	prawiyogI,1	yaxi	if				
+8	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,5	mEM	I				
+9	safkarasya	11	safkarasya	safkara{puM}{6;eka}	safkara{puM}{6;eka}	RaRTIsambanXaH,11	saMkarawA_kA	of_unwanted_population				
+10	ca	9	ca	ca{avya}	ca{avya}	sambanXaH,12	Ora	and				
+11	karwA	12	karwA	karwq{puM}{1;eka}/kq3{karwari;lut;pra;eka;parasmEpaxI;dukqF;wanAxiH}/kq3{karwari;lut;pra;eka;AwmanepaxI;dukqF;wanAxiH}	karwq{puM}{1;eka}	viXeya_viSeRaNam,12	karanevAlA	creator				
+12	syAm	13	syAmupahanyAmimAH	as2{karwari;viXilif;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,12.1;akarmakaH	hoUz	shall_be				
+12.1	(aham)	10	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,12	(mEM)	I				
+13	upahanyAm	17	0	upa_han1{karwari;viXilif;u;eka;parasmEpaxI;hanaz;axAxiH}	upa_han1{karwari;viXilif;u;eka;parasmEpaxI;upa_hanaz;axAxiH}	aBihiwakarwA,15.1;akarmakaH	naRta_karanevAlA_banUz	destroy				
+14	imAH	15	0	ixam{swrI}{1;bahu}/ixam{swrI}{2;bahu}	ixam{swrI}{2;bahu}	viSeRaNam,15	isa	all_these				
+15	prajAH	16	prajAH	praja{puM}{1;bahu}/praja{puM}{8;bahu}/prajA{swrI}{1;bahu}/prajA{swrI}{2;bahu}/prajA{swrI}{8;bahu}	prajA{swrI}{2;bahu}	karma,13	samaswa_prajA_ko	living_entities				
+15.1	(aham)	14	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,13	(mEM)	I				

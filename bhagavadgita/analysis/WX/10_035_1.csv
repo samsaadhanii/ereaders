@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	bqhaw-sAma	4	bqhawsAma	bqhawsAman{napuM}{1;eka}/bqhawsAman{napuM}{2;eka}/bqhawsAman{napuM}{8;eka}	bqhaw-sAman{napuM}{1;eka}	viXeya_viSeRaNam,6.1	bqhawsAma	the_Brhat-sama				
+2	waWA	1	waWA	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,1	waWA	also				
+3	sAmnAm	2	sAmnAM	sAman{napuM}{6;bahu}	sAman{napuM}{6;bahu}	nirXAraNam,1	gAyana_karaneyogya_SruwiyoM_meM	of_the_Sama_Veda_songs				
+4	gAyawrI	7	gAyawrI	gAyawrI{swrI}{1;eka}/gAyawrin{puM}{1;eka}	gAyawrI{swrI}{1;eka}	sup_samucciwaH,1	gAyawrI_Canxa	the_Gayatri_hymns				
+5	CanxasAm	6	CanxasAmaham	Canxas{napuM}{6;bahu}	Canxas{napuM}{6;bahu}	nirXAraNam,4	CanxoM_meM	of_all_poetry				
+6	aham	3	0	asmax{1;eka}	asmax{1;eka}	karwA,6.1	mEM	I				
+6.1	(asmi)	8	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,6;akarmakaH	(hUz)	am				
+7	mAsAnAm	10	mAsAnAM	mAsa{puM}{6;bahu}	mAsa{puM}{6;bahu}	nirXAraNam,8	mahInoM_meM	of_months				
+8	mArgaSIrRaH	11	mArgaSIrRoZhamqwUnAM	mArgaSIrRa{puM}{1;eka}	mArgaSIrRa{puM}{1;eka}	sup_samucciwaH,11	mArgaSIrRa	the_month_of_November-December				
+9	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,11.2	mEM	I				
+10	qwUnAm	13	0	qwu{puM}{6;bahu}	qwu{puM}{6;bahu}	nirXAraNam,11	qwuoM_meM	of_all_seasons				
+11	kusuma-AkaraH	14	kusumAkaraH	kusuma-Akara{puM}{1;eka}	kusumAkara{puM}{1;eka}	viXeya_viSeRaNam,11.2	vasanwa	spring	<kusuma-AkaraH>K4			
+11.1	(ca)	12	(0)	(ca{avya})	(ca{avya})	sup_samucciwaH,11	(Ora)	also				
+11.2	(asmi)	15	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,9;akarmakaH	(hUz)	am				

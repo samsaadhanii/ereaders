@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	evam	6	evamewaxyaWAwWa	evam{avya}	evam{avya}	viSeRaNam,2	EsA_hI_(hE)	that				
+2	ewaw	7	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	karmasamAnAXikaraNam,4	yaha	this				
+3	yaWA	4	0	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,4	jEsA	as_it_is				
+4	AwWa	5	0	brU1{karwari;lat;ma;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;ma;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,5	kahawe_hEM	have_spoken				
+5	wvam	2	wvamAwmAnaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,4	Apa	you				
+6	AwmAnam	3	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,4	apaneko	the_soul				
+7	parama-ISvara	1	parameSvara	parama-ISvara{puM}{8;eka}	parameSvara{puM}{8;eka}	samboXyaH,4	he_parameSvara	the_Supreme_Lord	<parama-ISvara>K1			
+8	xraRtum	13	xraRtumicCAmi	xqS1{avya;wumun;xqSizr;:BvAxiH}	xqS1{avya;wumun;xqSizr;:BvAxiH}	karma,9	xeKanA_cAhawA_hUz	to_see				
+9	icCAmi	14	0	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	aBihiwa_karma,13.1		wish_				
+10	we	10	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,11	Apake	your				
+11	rUpam	12	rUpamESvaraM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,8	rUpa_ko	form				
+12	ESvaram	11	0	ESvara{puM}{2;eka}/ESvara{napuM}{1;eka}/ESvara{napuM}{2;eka}	ESvara{napuM}{2;eka}	viSeRaNam,11	ESvarya	divine				
+13	puruRa-uwwama	8	puruRowwama	puruRa-uwwama{puM}{8;eka}/uwwama{napuM}{8;eka}	puruRowwama{puM}{8;eka}	samboXyaH,9	he_puruRowwama	O_best_of_personalities	<puruRa-uwwama>T7			
+13.1	(aham)	9	()	aRmax{1;eka}	aRmax{1;eka}	karwA,9	Apa	you				

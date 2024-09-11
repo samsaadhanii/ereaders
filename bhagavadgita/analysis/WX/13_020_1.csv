@@ -1,0 +1,10 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kArya-karaNa-karwqwve	1	kAryakaraNakarwqwve	kArya-karaNa-karwqwva{napuM}{1;xvi}/karwqwva{napuM}{2;xvi}/karwqwva{napuM}{7;eka}/karwqwva{napuM}{8;xvi}	kArya-karaNa-karwqwva{napuM}{7;eka}	aXikaraNam,4	kArya_Ora_karaNa_ko_uwpanna_karane_meM	in_the_matter_of_creation_of_cause_and_effect	<<kArya-karaNa>Di-karwqwve>T6			
+2	hewuH	3	hewuH	hewu{puM}{1;eka}/hewq{puM}{5;eka}/hewq{puM}{6;eka}/hewq{napuM}{5;eka}/hewq{napuM}{6;eka}	hewu{puM}{1;eka}	karmasamAnAXikaraNam,4	hewu	instrument				
+3	prakqwiH	2	prakqwirucyawe	prakqwi{swrI}{1;eka}	prakqwi{swrI}{1;eka}	karma,4	prakqwi	material_nature				
+4	ucyawe	4	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,2;sakarmakaH	kahI_jAwI_hE	is_said_to_be				
+5	puruRaH	7	puruRaH	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	karma,9	jIvAwmA	the_living_entity				
+6	suKa-xuHKAnAm	5	suKaxuHKAnAM	suKa-xuHKa{napuM}{6;bahu}/xuHKA{swrI}{6;bahu}	suKa-xuHKa{napuM}{6;bahu}	RaRTIsambanXaH,7	suKa-xuHKoM_ke	of_happiness_and_distress	<suKa-xuHKAnAM>Di			
+7	Bokwqwve	6	Bokwqwve	Bokwqwva{napuM}{1;xvi}/Bokwqwva{napuM}{2;xvi}/Bokwqwva{napuM}{7;eka}/Bokwqwva{napuM}{8;xvi}	Bokwqwva{napuM}{7;eka}	aXikaraNam,9	BakwApana_meM_arWAw_Bogane_meM	in_enjoyment				
+8	hewuH	8	hewurucyawe	hewu{puM}{1;eka}/hewq{puM}{5;eka}/hewq{puM}{6;eka}/hewq{napuM}{5;eka}/hewq{napuM}{6;eka}	hewu{puM}{1;eka}	karmasamAnAXikaraNam,4	hewu	the_instrument				
+9	ucyawe	9	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,8;sakarmakaH	kahA_jAwA_hE	is_said_to_be				

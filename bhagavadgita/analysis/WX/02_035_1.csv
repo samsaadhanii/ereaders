@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	BayAw	10	BayAxraNAxuparawaM	Baya{napuM}{5;eka}	Baya{napuM}{5;eka}	hewuH,3	Baya_ke_kAraNa	out_of_fear				
+2	raNAw	11	0	raNa{puM}{5;eka}/raNa{napuM}{5;eka}	raNa{napuM}{5;eka}	apAxAnam,3	yuxXa_se	from_battle				
+3	uparawam	12	0	uparawa{puM}{2;eka}/uparawa{napuM}{1;eka}/uparawa{napuM}{2;eka}	upa_ram1{kqw_prawyayaH:kwa;upa_ramuz;BvAxiH;napuM}{2;eka}	karmasamAnAXikaraNam,4	BAgA_huA	run_away				
+4	maMsyanwe	13	maMsyanwe	man1{karmaNi;lqt;pra;bahu;AwmanepaxI;manaz;xivAxiH}	man1{karwari;lqt;pra;bahu;AwmanepaxI;manaz;xivAxiH}	aBihiwakarwA,6;sakarmakaH	mAneMge	will_think				
+5	wvAm	9	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,4	wumako	you				
+6	mahAn-raWAH	8	mahAraWAH	mahAraWa{puM}{1;bahu}/mahAraWa{puM}{8;bahu}	mahAraWa{puM}{1;bahu}	karwA,4	mahAraWI_loga	the_warrior_chiefs	<mahaw-raWAH>Bs6			
+7	yeRAm	2	yeRAM	yax{puM}{6;bahu}/yax{napuM}{6;bahu}	yax{puM}{6;bahu}	RaRTIsambanXaH,10	jinakI	of_whom				
+8	ca	1	ca	ca{avya}	ca{avya}	sambanXaH,12	Ora	and				
+9	wvam	3	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,12	wuma	you				
+10	bahu-mawaH	4	bahumawo	bahu-mawa{puM}{1;eka}	bahu-mawa{puM}{1;eka}	viXeya_viSeRaNam,11	bahuwa_sammAniwa	highly_esteemed	<bahu-mawaH>Bs6			
+11	BUwvA	5	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,12	hokara	by_becoming				
+12	yAsyasi	7	yAsyasi	yA1{karwari;lqt;ma;eka;parasmEpaxI;yA;axAxiH}	yA1{karwari;lqt;ma;eka;parasmEpaxI;yA;axAxiH}	aBihiwakarwA,9;sakarmakaH	prApwa_hoge	will_be				
+13	lAGavam	6	lAGavam	lAGava{napuM}{1;eka}/lAGava{napuM}{2;eka}	lAGava{napuM}{2;eka}	karma,12	laGuwA_ko	inferior				

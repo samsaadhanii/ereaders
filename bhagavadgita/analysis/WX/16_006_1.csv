@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	xvO	5	xvO	xvi{puM}{1;xvi}/xvi{puM}{2;xvi}/xvi{puM}{8;xvi}	xvi{puM}{1;xvi}	viSeRaNam,2	xo	two				
+2	BUwa-sargO	4	BUwasargO	BUwasarga{puM}{1;xvi}/BUwasarga{puM}{2;xvi}/BUwasarga{puM}{8;xvi}	BUwa-sarga{puM}{1;xvi}	karwA,8.1	BUwoM_kI_sqRti_yAnI_manuRyasamuxAya	created_living_beings	<BUwa-sargO>T6			
+3	loke	3	lokeZsminxEva	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	aXikaraNam,8.1	loka_meM	in_the_world				
+4	asmin	2	0	ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{puM}{7;eka}	viSeRaNam,3	isa	in_this				
+5	xEvaH	7	0	xEva{puM}{1;eka}	xEva{puM}{1;eka}	Gataka,1	xEvI-prakqwivAlA	godly				
+6	AsuraH	9	Asura	Asura{puM}{1;eka}	Asura{puM}{1;eka}	Gataka,1	AsurI-prakqwivAlA	demoniac				
+7	eva	6	eva	eva{avya}	eva{avya}	sambanXaH,8	hI	certainly				
+8	ca	8	ca	ca{avya}	ca{avya}	Gataka_xyowakaH,6	Ora	and				
+8.1	(swaH)	10	(0)	(swq{puM}{8;eka}/as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	are				
+9	xEvaH	11	xEvo	xEva{puM}{1;eka}	xEva{puM}{1;eka}	karma,11	xEvI-prakqwivAlA	divine				
+10	viswaraSaH	12	viswaraSaH	viswaraSaH	viswaraSaH{avya}	kriyAviSeRaNam,11	viswArapUrvaka	at_great_length				
+11	prokwaH	13	prokwa	prokwa{puM}{1;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;puM}{1;eka}	aBihiwakarma,11;sakarmakaH	kahA_gayA	said				
+12	Asuram	15	AsuraM	Asura{puM}{2;eka}/Asura{napuM}{1;eka}/Asura{napuM}{2;eka}	Asura{puM}{2;eka}	viSeRaNam,15.1	AsurI-prakqwivAle	demoniac				
+13	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,15	he_arjuna	O_son_of_Prtha				
+14	me	16	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,15	muJase	from_Me				
+15	SqNu	18	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarma,15.1;sakarmakaH	suna	just_hear				
+15.1	(vacaH)	17	(0)	(vaca{puM}{1;eka}/vacas{napuM}{1;eka}/vacas{napuM}{2;eka}/vacas{napuM}{8;eka})	(vacas{napuM}{2;eka})	karma,15	(vacana_ko)	speech				
+15.2	(wvam)	14	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,15	(wU)	you				

@@ -1,0 +1,10 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	kAmam	3	kAmamASriwya	kAmam{avya}/kAma{puM}{2;eka}	kAma{puM}{2;eka}	karma,2	kAmanAoM_kA	lust				
+2	ASriwya	4	0	Af_Sri1{kqw_prawyayaH:lyap;SriF;BvAxiH}	Af_Sri1{kqw_prawyayaH:lyap;Af_SriF;BvAxiH}	pUrvakAlaH,8	ASraya_lekara	taking_shelter_of				
+3	xuR-pUram	2	xuRpUraM	xuRpUra{puM}{2;eka}/xuRpUra{napuM}{1;eka}/xuRpUra{napuM}{2;eka}	xuRpUra{puM}{2;eka}	viSeRaNam,1	kisI_prakAra_BI_pUrNa_na_honevAlI	insatiable	<xuR-pUreNa>Tp			
+4	xamBa-mAna-maxa-anviwAH	1	xamBamAnamaxAnviwAH	xamBamAnamaxAnviwAH	xamBa-mAna-maxa-anviwa{puM}{1;bahu}	karwA,8	xamBa_mAna_Ora_maxa_se_yukwa_manuRya	absorbed_in_pride_false_prestige_and_conceit	<<xamBa-mAna-maxa>Di-anviwAH>T3			
+5	mohAw	5	mohAxgqhIwvAsaxgrAhAnpravarwanweZSucivrawAH	moha{puM}{5;eka}	moha{puM}{5;eka}	hewuH,6	ajFAna_se	by_illusion				
+6	gqhIwvA	7	0	gqh1{kqw_prawyayaH:kwvA;gqhU;BvAxiH}	grah1{kqw_prawyayaH:kwvA;grahaz;kryAxiH}	pUrvakAlaH,8	grahaNa_karake	taking				
+7	a-sax-grAhAn	6	0	asaxgrAha{puM}{2;bahu}	asax-grAha{puM}{2;bahu}	karma,6	miWyA_sixXAnwoM_ko	nonpermanent_things	<<na-saw>Tn-grAhAn>K1			
+8	pravarwanwe	9	0	pra_vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	pra_vqw1{karwari;lat;pra;bahu;AwmanepaxI;pra_vqwuz;BvAxiH}	aBihiwakarwA,4;akarmakaH	vicarawe_hEM	flourish				
+9	a-Suci-vrawAH	8	0	aSucivrawAH	aSuci-vrawa{puM}{1;bahu}	viSeRaNam,8	BraRta_AcaraNoM_ko_XAraNa_karake_(saMsAra_meM)	unclean_avowed	<<na-Suci>Tn-vrawAH>Bs6			

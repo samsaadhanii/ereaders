@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	jFAnam	1	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	Gataka,4	jFAna	knowledge				
+2	jFeyam	2	jFeyaM	jFeya{puM}{2;eka}/jFeya{napuM}{1;eka}/jFeya{napuM}{2;eka}	jFA2{kqw_prawyayaH:yaw;jFA;kryAxiH;napuM}{1;eka}	Gataka,4	jFeya	objective				
+3	pari-jFAwA	3	parijFAwA	parijFAwA{swrI}{1;eka}/pari_jFA2{karwari;lut;pra;eka;parasmEpaxI;jFA;kryAxiH}/pari_jFA2{karmaNi;lut;pra;eka;AwmanepaxI;jFA;kryAxiH}	pari-jFAwq{puM}{1;eka}	Gataka,4	jFAwA	the_knower				
+3.1	(ca)	4	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,3	(Ora)	also				
+3.2	(iwi)	5	(0)	(iwi{avya})	(iwi{avya})	Gataka_xyowakaH,4	(yaha)	thus				
+4	wri-viXA	7	wriviXA	wriviXA{swrI}{1;eka}	wriviXA{swrI}{1;eka}	viXeya_viSeRaNam,5.1	wIna_prakAra_kI	three_kinds	<wri-viXA>Bs6			
+5	karma-coxanA	6	karmacoxanA	karmacoxanA{swrI}{1;eka}	karma-coxanA{swrI}{1;eka}	karwA,5.1	karma-preraNA	work_impetus	<karma-coxanA>T6			
+5.1	(aswi)	8	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hE)	is				
+6	karaNam	9	karaNaM	karaNa{napuM}{1;eka}/karaNa{napuM}{2;eka}	karaNa{napuM}{1;eka}	Gataka,10	karaNa	the_senses				
+7	karma	10	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	Gataka,10	kriyA	work				
+8	karwA	11	karwewi	karwq{puM}{1;eka}/kq3{karwari;lut;pra;eka;parasmEpaxI;dukqF;wanAxiH}/kq3{karwari;lut;pra;eka;AwmanepaxI;dukqF;wanAxiH}	karwq{puM}{1;eka}	Gataka,10	karwA	the_doer				
+8.1	(ca)	12	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,8	(waWA)	also				
+9	iwi	13	0	iwi{avya}	iwi{avya}	Gataka_xyowakaH,8	yaha	thus				
+10	wri-viXaH	15	wriviXaH	wriviXa{puM}{1;eka}	wriviXa{puM}{1;eka}	viXeya_viSeRaNam,11.1	wIna_prakAra_kA	three_kinds	<wri-viXaH>Bs6			
+11	karma-safgrahaH	14	karmasafgrahaH	karmasafgraha{puM}{1;eka}	karma-safgraha{puM}{1;eka}	karwA,11.1	karma-saMgraha	accumulation_of_work	<karma-safgrahaH>T6			
+11.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hE)	is				

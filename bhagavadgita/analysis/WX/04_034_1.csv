@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	waw	1	waxvixXi	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,2	usa_jFAna_ko	that_knowledge_of_different_sacrifices				
+2	vixXi	6		vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}		samaJa	try_to_understand				
+3	praNipAwena	2	praNipAwena	praNipAwa{puM}{3;eka}	praNipAwa{puM}{3;eka}	sup_samucciwaH,5	BalIBAzwi_xaNdavaw_praNAm_karane_se	by_approaching_a_spiritual_master				
+4	paripraSnena	3	paripraSnena	paripraSna{puM}{3;eka}	paripraSna{puM}{3;eka}	sup_samucciwaH,5	saralawApUrvaka_praSna_karane_se	by_submissive_inquiries				
+5	sevayA	4	sevayA	sevA{swrI}{3;eka}	sevA{swrI}{3;eka}	karaNam,2	sevA_karane_se	by_the_rendering_of_service				
+5.1	(ca)	5	()	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,5	(Ora)	and				
+6	upaxekRyanwi	11	upaxekRyanwi	upa_xiS1{karwari;lqt;pra;bahu;uBayapaxI;xiSaz;wuxAxiH}	upa_xiS1{karwari;lqt;pra;bahu;uBayapaxI;upa_xiSaz;wuxAxiH}	aBihiwakarwA,9;sakarmakaH	upaxeSa_kareMge	initiate				
+7	we	7	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	viSeRaNam,9	ve	unto_you				
+8	jFAnam	10	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,6	wawwvajFAna_kA	knowledge				
+9	jFAninaH	9	jFAninaswawwvaxarSinaH	jFAnin{puM}{1;bahu}/jFAnin{puM}{2;bahu}/jFAnin{puM}{5;eka}/jFAnin{puM}{6;eka}/jFAnin{puM}{8;bahu}	jFAnin{puM}{1;bahu}	karwA,6	jFAnI_mahAwmA	the_self-realised				
+10	wawwva-xarSinaH	8		wawwva-xarSin{puM}{1;bahu}/xarSin{puM}{2;bahu}/xarSin{puM}{5;eka}/xarSin{puM}{6;eka}/xarSin{puM}{8;bahu}	wawwva-xarSin{puM}{6;bahu}	viSeRaNam,9	paramAwmawawwva_ko_BalIBAzwi_jAnanevAle	the_seers_who_experienced_the_truth	<wawwva-xarSinaH>U			

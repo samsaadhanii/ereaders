@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ixam	3	ixamaxya	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	karma,4	yaha	this				
+2	axya	2	0	axya{avya}	axya{avya}	aXikaraNam,4	Aja	today				
+3	mayA	1	mayA	asmax{3;eka}	asmax{3;eka}	karwA,4	mEMne	by_me				
+4	labXam	4	labXamimaM	labXa{puM}{2;eka}/labXa{napuM}{1;eka}/labXa{napuM}{2;eka}	laB1{kqw_prawyayaH:kwa;dulaBazR;BvAxiH;napuM}{1;eka}		prApwa_kara_liyA_hE	gained				
+5	imam	5	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,7	isa	this				
+6	prApsye*	7	0	pra_Ap1{karmaNi;lqt;u;eka;AwmanepaxI;ApLz;svAxiH}/pra_Ap1{karmaNi;lqf;u;eka;AwmanepaxI;ApLz;svAxiH}	pra_Ap1{karmaNi;lqt;u;eka;AwmanepaxI;pra_ApLz;svAxiH}		prApwa_kara_lUzgA	shall_be_gained				
+7	manaH-raWam	6	manoraWam	manoraWa{puM}{2;eka}	manoraWa{puM}{2;eka}	karma,6	manoraWa_ko	according_to_my_desires	<manaH-raWam>T6			
+8	ixam	8	ixamaswIxamapi	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,15	yaha	this				
+9	aswi	9	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,15;akarmakaH	hE	is				
+10	ixam	10	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	karwA,13	yaha	this				
+11	api	11	0	api{avya}	api{avya}	sambanXaH,14	BI	also				
+12	me	12	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,15	mere_pAsa	mine				
+13	BaviRyawi	15	BaviRyawi	as2{karwari;lqt;pra;eka;parasmEpaxI;asaz;axAxiH}/BU1{karwari;lqt;pra;eka;parasmEpaxI;BU;BvAxiH}/BaviRyaw{puM}{7;eka}/BaviRyaw{napuM}{7;eka}	BU1{karwari;lqt;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,10;akarmakaH	ho_jAyagA	will_increase_in_the_future				
+14	punaH	14	punarXanam	punaH{avya}	punaH{avya}	kriyAviSeRaNam,13	Pira	again				
+15	Xanam	13	0	Xana{napuM}{1;eka}/Xana{napuM}{2;eka}	Xana{napuM}{1;eka}	karwA,9	Xana	wealth				

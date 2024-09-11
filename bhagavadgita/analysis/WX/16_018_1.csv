@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ahafkAram	1	ahaMkAraM	ahafkAra{puM}{2;eka}	ahafkAra{puM}{2;eka}	sup_samucciwaH,5	ahaMkAra	false_ego				
+2	balam	2	balaM	bala{puM}{2;eka}/bala{napuM}{1;eka}/bala{napuM}{2;eka}	bala{napuM}{2;eka}	sup_samucciwaH,5	bala	strength				
+3	xarpam	3	xarpaM	xarpa{puM}{2;eka}	xarpa{puM}{2;eka}	sup_samucciwaH,5	GamaNda	pride				
+4	kAmam	4	kAmaM	kAmam{avya}/kAma{puM}{2;eka}	kAma{puM}{2;eka}	sup_samucciwaH,5	kAmanA	lust				
+5	kroXam	5	kroXaM	kroXa{puM}{2;eka}/kroXa{napuM}{1;eka}/kroXa{napuM}{2;eka}	kroXa{puM}{2;eka}	karma,7	kroXAxi_ke	anger				
+6	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
+7	saMSriwAH	7	saMSriwAH	saMSriwa{puM}{1;bahu}/saMSriwa{puM}{8;bahu}/saMSriwA{swrI}{1;bahu}/saMSriwA{swrI}{2;bahu}/saMSriwA{swrI}{8;bahu}	sam_Sri1{kqw_prawyayaH:kwa;sam_SriF;BvAxiH;puM}{1;bahu}	viSeRaNam,11.2	parAyaNa	having_taken_shelter_of				
+8	mAm	9	mAmAwmaparaxeheRu	asmax{2;eka}	asmax{2;eka}	karma,10	muJase_(anwaryAmI_se)	me				
+9	Awma-para-xeheRu	8	0	Awman-para-xeha{puM}{7;bahu}/xeha{napuM}{7;bahu}	Awman-para-xeha{puM}{7;bahu}	aXikaraNam,10	apane_Ora_xUsaroM_ke_SarIra_meM	in_one's_own_and_other_bodies	<<Awma-para>Ds-xeheRu>T6			
+10	praxviRanwaH	10	praxviRanwoZByasUyakAH	praxviRanwaH	pra_xviR1{kqw_prawyayaH:Sawq;pra_xviRaz;axAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,11.1	xveRa_karanevAle	blasphemes				
+11	aBi-asUyakAH	11	0	aBi-{avya}-asUyaka{puM}{1;bahu}/asUyaka{puM}{8;bahu}	aBi-asUyaka{puM}{1;bahu}	viSeRaNam,11.2	xUsaroM_kI_ninxA_karanevAle	envious				
+11.1	(varwanwe)	13	(0)	(vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH})	(vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH})	aBihiwakarwA,11.2;akarmakaH	(howe_hEM)	thus				
+11.2	(janAH)	12	(0)	(jana{puM}{1;bahu}/jana{puM}{8;bahu})	(jana{puM}{1;bahu})	karwA,11.1	(puruRa)	persons				

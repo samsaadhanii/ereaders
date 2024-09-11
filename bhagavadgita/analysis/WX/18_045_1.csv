@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sve	1	sve	sva{puM}{7;eka}/sva{napuM}{1;xvi}/sva{napuM}{2;xvi}/sva{napuM}{7;eka}/sva{puM}{1;bahu}/sva{napuM}{1;xvi}/sva{napuM}{2;xvi}/svA{swrI}{1;xvi}/svA{swrI}{2;xvi}/svA{swrI}{1;xvi}/svA{swrI}{2;xvi}	sva{napuM}{7;eka}	vIpsA,2	apane	own				
+2	sve	2	sve	sva{puM}{7;eka}/sva{napuM}{1;xvi}/sva{napuM}{2;xvi}/sva{napuM}{7;eka}/sva{puM}{1;bahu}/sva{napuM}{1;xvi}/sva{napuM}{2;xvi}/svA{swrI}{1;xvi}/svA{swrI}{2;xvi}/svA{swrI}{1;xvi}/svA{swrI}{2;xvi}	sva{napuM}{7;eka}	viSeRaNam,3	apane	own				
+3	karmaNi	3	karmaNyaBirawaH	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,4	karmoM_meM	in_work				
+4	aBirawaH	4	0	aBirawa{puM}{1;eka}	aBi_ram1{kqw_prawyayaH:kwa;aBi_ramuz;BvAxiH;puM}{1;eka}	viSeRaNam,7	wawparawA_se_lagA_huA	following				
+5	saMsixXim	6	saMsixXiM	saMsixXi{swrI}{2;eka}	saMsixXi{swrI}{2;eka}	karma,6	BagavawprApwirUpa_parama_sixXi_ko	perfection				
+6	laBawe	7	laBawe	laB1{karwari;lat;pra;eka;AwmanepaxI;dulaBazR;BvAxiH}	laB1{karwari;lat;pra;eka;AwmanepaxI;dulaBazR;BvAxiH}	aBihiwakarwA,7;sakarmakaH	prApwa_ho_jAwA_hE	achieves				
+7	naraH	5	naraH	nq{puM}{1;bahu}/nara{puM}{1;eka}	nara{puM}{1;eka}	karwA,6	manuRya	a_man				
+8	sva-karma-nirawaH	8	svakarmanirawaH	sva-karman-ni_ram1{kqw_prawyayaH:kwa;ni_ramuz;BvAxiH;puM}{1;eka}	sva-karman-nirawa{puM}{1;eka}	karwA,11	apane_svABAvika_karma_meM_lagA_huA_manuRya	engaged_in_his_own_duty	<<sva-karma>T6-nirawaH>T7			
+9	sixXim	10	sixXiM	sixXi{swrI}{2;eka}	sixXi{swrI}{2;eka}	karma,11	parama_sixXi_ko	perfection				
+10	yaWA	9	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,11;niwya_sambanXaH,12	jisa_prakAra_ke_karma_karake	as				
+11	vinxawi	11	vinxawi	vix3{karwari;lat;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	vix3{karwari;lat;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	aBihiwakarwA,8;sakarmakaH	prApwa_howA_hE	attains				
+12	waw	12	wacCqNu	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,13	usa_viXi_ko	that				
+13	SqNu	14	0	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,13.1;sakarmakaH	suna	listen				
+13.1	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,13	(wU)	you				

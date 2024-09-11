@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	niyawam	3	niyawaM	niyawa{puM}{2;eka}/niyawa{napuM}{1;eka}/niyawa{napuM}{2;eka}	niyawa{napuM}{2;eka}	viSeRaNam,4	SAswraviXi_se_niyawa_kiyA_huA	regulative				
+2	safga-rahiwam	4	safgarahiwamarAgaxveRawaH	safgarahiwa{puM}{2;eka}/safgarahiwa{napuM}{1;eka}/safgarahiwa{napuM}{2;eka}	safga-rahiwa{napuM}{2;eka}	viSeRaNam,4	karwApana_ke_aBimAna_se_rahiwa_ho	without_attachment	<safga-rahiwam>T3			
+3	a-rAga-xveRawaH	6	0	a-rAga-xveRawaH	arAga-xveRawaH{avya}	hewuH,4	binA_rAga-xveRa_ke	without_love_or_hatred	<na-<rAga-xveRawaH>Di>Tn			
+4	kqwam	7	kqwam	kqw{puM}{2;eka}/kqwa{puM}{2;eka}/kqwa{napuM}{1;eka}/kqwa{napuM}{2;eka}	kq3{kqw_prawyayaH:kwa;dukqF;wanAxiH;napuM}{1;eka}	aBihiwa_karma,6	kiyA_gayA_ho	done				
+5	a-Pala-prepsunA	5	aPalaprepsunA	aPalaprepsu{puM}{3;eka}/aPalaprepsu{napuM}{3;eka}	na-Pala-prepsu{puM}{3;eka}	karwA,4	Pala_na_cAhanevAle_puruRa_xvArA	without_fruitive_result	<a-<Pala-prepsunA>T2>Tn			
+6	karma	2	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,4	karma	work				
+7	yaw	1	yawwawsAwwvikamucyawe	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,6;niwyasambanXaH8	jo	that_which				
+8	waw	8	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,10	vaha	that				
+9	sAwwvikam	9	0	sAwwvika{puM}{2;eka}	sAwwvika{napuM}{2;eka}	karmasamAnAXikaraNam,10	sAwwvika	in_the_mode_of_goodness				
+10	ucyawe	10	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karma,8	kahA_jAwA_hE	is_called				

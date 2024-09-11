@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mayi	4	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,4	muJameM	unto_Me				
+2	sarvANi	2	sarvANi	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarvANI{swrI}{8;eka}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{2;bahu}	viSeRaNam,3	sampUrNa	all_sorts_of				
+3	karmANi	3	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	karman{napuM}{2;bahu}	karma,4	karmoM_ko	activities				
+4	sannyasya	5	sannyasyAXyAwmacewasA	sam_ni_as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	sam_ni_as1{kqw_prawyayaH:lyap;sam_ni_asaz;BvAxiH}	pUrvakAlaH,9	arpaNa_karake	giving_up_completely				
+5	aXi-Awma-cewasA	1	0	aXyAwma-cewas{napuM}{3;eka}	aXyAwma-cewas{napuM}{3;eka}	karaNam,9	muJa_anwaryAmI_paramAwmA_meM_lage_hue_ciwwa_xvArA	with_full_knowledge_of_the_self	<<aXi-Awma>A1-cewasA>T7			
+6	nir-ASIH	7	nirASIrnirmamo	nir-{avya}-ASi{swrI}{2;bahu}/ASI{swrI}{2;bahu}/ASis{swrI}{1;eka}/ASis{swrI}{8;eka}	nir-ASis{swrI}{1;eka}	sup_samucciwaH,10	ASArahiwa	without_desire_for_profit	<nir-ASIH>Bvp			
+7	nir-mamaH	8	0	nir-{avya}-mamaH	nir-mama{puM}{1;eka}	sup_samucciwaH,10	mamawArahiwa	without_ownership	<nir-mamaH>Bvp			
+8	BUwvA	11	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,9	hokara	so_being				
+9	yuxXyasva	12	yuxXyasva	yuxXyasva	yuX1{karwari;lot;ma;eka;AwmanepaxI;yuXaz;xivAxiH}	aBihiwakarwA,10.2;akarmakaH	yuxXa_kara	fight				
+10	vigawa-jvaraH	9	vigawajvaraH	vigawa-jvara{puM}{1;eka}	vigawa-jvara{puM}{1;eka}	viXeya_viSeRaNam,8	saMwAparahiwa	without_being_lethargic	<vigawa-jvaraH>Bs5			
+10.1	(ca)	10	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,10	(Ora)	and				
+10.2	(wvam)	6	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,9	(wU)	you				

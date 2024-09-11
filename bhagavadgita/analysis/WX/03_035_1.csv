@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	SreyAn	5	SreyAnsvaXarmo	Sreya{puM}{2;bahu}/Sreyas{puM}{1;eka}	Sreyas{puM}{1;eka}	viXeya_viSeRaNam,5.1	SreRTa	superior				
+2	sva-XarmaH	4	0	sva-Xarma{puM}{1;eka}	svaXarma{puM}{1;eka}	karwA,5.1	apanA_Xarma	one's_prescribed_duties	<sarva-XarmaH>T6			
+3	vi-guNaH	3	viguNaH	viguNa{puM}{1;eka}	viguNa{puM}{1;eka}	viSeRaNam,2	guNarahiwa	without_merit	<vi-guNaH>Bs5			
+4	para-XarmAw	2	paraXarmAwsvanuRTiwAw	para-Xarma{puM}{5;eka}	para-Xarma{puM}{5;eka}	wulanA_binxuH,2	xUsare_ke_Xarma_se	from_duties_mentioned_for_others	<para-XarmAw>T6			
+5	su-anuRTiwAw	1	0	svanuRTiwa{puM}{5;eka}/svanuRTiwa{napuM}{5;eka}	sva-anuRTiwa{puM}{5;eka}	viSeRaNam,4	acCI_prakAra_AcaraNa_meM_lAye_hue	than_perfectly_done	<su-anuRTiwAw>Tp			
+5.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,2;akarmakaH	(hE)	is				
+6	sva-Xarme	7	svaXarme	sva-Xarma{puM}{7;eka}	svaXarma{puM}{7;eka}	aXikaraNam,8.1	apane_Xarma_meM	in_one's_prescribed_duties	<sva-Xarme>T6			
+7	niXanam	8	niXanaM	niXana{puM}{2;eka}/niXana{napuM}{1;eka}/niXana{napuM}{2;eka}	niXana{napuM}{1;eka}	karwA,8.1	maranA	destruction				
+8	SreyaH	9	SreyaH	Sreya{puM}{1;eka}/Sreyas{napuM}{1;eka}/Sreyas{napuM}{2;eka}/Sreyas{napuM}{8;eka}	Sreyas{napuM}{1;eka}	viXeya_viSeRaNam,8.1	kalyANakAraka	better				
+8.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,7;akarmakaH	(hE)	is				
+9	para-XarmaH	11	paraXarmo	para-Xarma{puM}{1;eka}	para-Xarma{puM}{1;eka}	karwA,10.1	xUsare_kA_Xarma	duties_prescribed_for_others	<para-XarmaH>T6			
+10	Baya-AvahaH	12	BayAvahaH	BayAvaha{puM}{1;eka}	BayAvaha{puM}{1;eka}	viXeya_viSeRaNam,10.1	Baya_uwpanna_karanevAlA	dangerous	<Baya-AvahaH>U			
+10.1	(Bavawi)	13	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,9;akarmakaH	(howA_hE)	becomes				

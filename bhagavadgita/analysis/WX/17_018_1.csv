@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sawkAra-mAna-pUjA-arWam	3	sawkAramAnapUjArWaM	sawkAra-mAna-pUjArWa{puM}{2;eka}/arWa{napuM}{1;eka}/arWa{napuM}{2;eka}	sawkAra-mAna-pUjA-arWa{napuM}{1;eka}	prayojanam,7	sawkAra_mAna_Ora_pUjA_ke_liye	for_respect_honor_and_worship	<<sawkAra-mAna-pUjA>Di-arWaM>T4			
+2	wapaH	2	wapo	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{2;eka}	karma,7	wapa	austerity				
+3	xamBena	6	xamBena	xamBa{puM}{3;eka}	xamBa{puM}{3;eka}	karaNam,7	pAKaNda_se	by_pride				
+4	ca	4	cEva	ca{avya}	ca{avya}	sambanXaH,7	Ora	also				
+5	eva	5	0	eva{avya}	eva{avya}	sambanXaH,3	hI	certainly				
+6	yaw	1	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,2;niwya_sambanXaH,8	jo	which				
+7	kriyawe	7	kriyawe	kq2{karmaNi;lat;pra;eka;AwmanepaxI;kqF;svAxiH}/kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}/kriyawA{swrI}{1;xvi}/kriyawA{swrI}{2;xvi}	kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwakarma,2;sakarmakaH	kiyA_jAwA_hE	performed				
+8	waw	8	waxiha	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,13.1	vaha	that				
+9	iha	12	0	iha{avya}	iha{avya}	aXikaraNam,10	yahAz	in_this_world				
+10	prokwam	14	prokwaM	prokwa{puM}{2;eka}/prokwa{napuM}{1;eka}/prokwa{napuM}{2;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;napuM}{1;eka}	aBihiwakarma,13.1;sakarmakaH	kahA_gayA_hE	is_said				
+11	rAjasam	13	rAjasaM	rAjasa{puM}{2;eka}/rAjasa{napuM}{1;eka}/rAjasa{napuM}{2;eka}	rAjasa{puM}{2;eka}	karmasamAnAXikaraNam,10	rAjasa	in_the_mode_of_passion				
+12	calam	10	calamaXruvam	cala{puM}{2;eka}/cala{napuM}{1;eka}/cala{napuM}{2;eka}	cala{napuM}{2;eka}	viSeRaNam,8	kRaNika_PalavAlA	flickering				
+13	a-Xruvam	9	0	a-Xruva{puM}{2;eka}/Xruva{napuM}{1;eka}/Xruva{napuM}{2;eka}	na-Xruva{napuM}{2;eka}	viSeRaNam,8	aniSciwa	temporary	<na-Xruvam>Tn			
+13.1	(wapaH)	11	(0)	(wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka})	(wapas{napuM}{2;eka})	karma,10	(wapa)	austerity				

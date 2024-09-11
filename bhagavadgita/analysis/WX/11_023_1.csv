@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	rUpam	8	rUpaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,9	rUpa_ko	form				
+2	mahaw	7	mahawwe	mahaw{napuM}{1;eka}/mahaw{napuM}{2;eka}/mahaw{napuM}{8;eka}	mahax{napuM}{2;eka}	wIvrawAxarSI,1	mahAn	very_great				
+3	we	2	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,1	Apake	of_You				
+4	bahu-vakwra-newram	3	bahuvakwranewraM	bahu-vakwra-newra{napuM}{1;eka}/newra{napuM}{2;eka}	bahu-vakwra-newra{puM}{2;eka}	viSeRaNam,1	bahuwa_muKa_Ora_newroMvAle	many_faces_and_eyes	<bahu-<vakwra-newram>Ds>Bs6			
+5	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,11	he_mahAbAho	O_mighty-armed_one	<mahaw-bAho>Bs6			
+6	bahu-bAhu-uru-pAxam	4	bahubAhUrupAxam	bahu-bAhu-uru-pAxa{puM}{2;eka}	bahu-bAhu-uru-pAxa{puM}{2;eka}	viSeRaNam,1	bahuwa_hAWa_jaMGA_Ora_pEroMvAle	many_arms,_thighs_and_legs	<bahu-<bAhu-uru-pAxam>Di>Bs6			
+7	bahu-uxaram	5	bahUxaraM	bahu-uxara{puM}{2;eka}/uxara{napuM}{1;eka}/uxara{napuM}{2;eka}	bahu-uxara{puM}{2;eka}	viSeRaNam,1	bahuwa_uxaroMvAle	many_bellies	<bahu-uxaram>Bs7			
+8	bahu-xaMRtrA-karAlam	6	bahuxaMRtrAkarAlaM	bahu-xaMRtrA-karAla{puM}{2;eka}/karAla{napuM}{1;eka}/karAla{napuM}{2;eka}	bahu-xaMRtrA-karAla{puM}{2;eka}	viSeRaNam,1	bahuwa-sI_xADa़oM_ke_kAraNa_awyanwa_vikarAla	horrible_due_to_many_teeth	<<bahu-xaMRtrA>K1-karAlam>Bs6			
+9	xqRtvA	9	xqRtvA	xqS1{avya;kwvA;xqSizr;:BvAxiH}	xqS1{avya;kwvA;xqSizr;:BvAxiH}	pUrvakAlaH,11	xeKakara	seeing				
+10	lokAH	10	lokAH	loka{puM}{1;bahu}/loka{puM}{8;bahu}	loka{puM}{1;bahu}	karwA,11	saba_loga	all_the_planets				
+11	pravyaWiwAH	11	pravyaWiwAswaWAham	pravyaWiwa{puM}{1;bahu}/pravyaWiwa{puM}{8;bahu}/pravyaWiwA{swrI}{1;bahu}/pravyaWiwA{swrI}{2;bahu}/pravyaWiwA{swrI}{8;bahu}	pra_vyaW1{kqw_prawyayaH:kwa;pra_vyaWaz;BvAxiH;puM}{1;bahu}	aBihiwa_karwA,10	vyAkula	perturbed				
+12	waWA	12	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,13	waWA	similarly				
+13	aham	13	0	asmax{1;eka}	asmax{1;eka}	sup_samucciwaH,10	mEM	I				

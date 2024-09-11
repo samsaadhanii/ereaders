@@ -1,0 +1,9 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	viXi-hInam	1	viXihInamasqRtAnnaM	viXi-hIna{puM}{2;eka}/hIna{napuM}{1;eka}/hIna{napuM}{2;eka}	viXi-hIna{puM}{2;eka}	viSeRaNam,6	SAswraviXi_se_hIna	without_scriptural_direction	<viXi-hInam>T3			
+2	a-sqRta-annam	2	0	asqRtAnna{puM}{2;eka}/asqRtAnna{napuM}{1;eka}/asqRtAnna{napuM}{2;eka}	na-sqRtAnna{puM}{2;eka}	viSeRaNam,6	annaxAna_se_rahiwa	without_distribution_of_prasadam	<<na-sqRta>Tn-annam>Bs7			
+3	manwra-hInam	3	manwrahInamaxakRiNam	manwra-hIna{puM}{2;eka}/hIna{napuM}{1;eka}/hIna{napuM}{2;eka}	manwra-hIna{puM}{2;eka}	viSeRaNam,6	binA_manwroM_ke	with_no_chanting_of_the_Vedic_hymns	<manwra-hInam>T3			
+4	a-xakRiNam	4	0	a-xakRiNam{avya}/xakRiNa{puM}{2;eka}/xakRiNa{napuM}{1;eka}/xakRiNa{napuM}{2;eka}/xakRiNa{puM}{2;eka}	na-xakRiNa{puM}{2;eka}	viSeRaNam,6	binA_xakRiNA_ke	with_no_remunerations_to_the_priests	<na-xakRiNam>Bsmn			
+5	SraxXA-virahiwam	5	SraxXAvirahiwaM	SraxXA-virahiwa{puM}{2;eka}/virahiwa{napuM}{1;eka}/virahiwa{napuM}{2;eka}	SraxXA-virahiwa{puM}{2;eka}	viSeRaNam,6	binA_SraxXA_ke_kiye_jAnevAle	without_faith	<SraxXA-virahiwaM>T3			
+6	yajFam	6	yajFaM	yajFa{puM}{2;eka}	yajFa{puM}{2;eka}	karma,8	yajFa_ko	sacrifice				
+7	wAmasam	7	wAmasaM	wAmasa{puM}{2;eka}/wAmasa{napuM}{1;eka}/wAmasa{napuM}{2;eka}	wAmasa{puM}{2;eka}	karmasamAnAXikaraNam,8	wAmasa_yajFa	in_the_mode_of_ignorance				
+8	paricakRawe	8	paricakRawe	paricakRawe	pari_cakR1{karwari;lat;pra;bahu;AwmanepaxI;pari_cakRizf;axAxiH}		kahawe_hEM	is_to_be_considered				

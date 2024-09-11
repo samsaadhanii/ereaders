@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	iwi	1	iwi	iwi{avya}	iwi{avya}	sambanXaH,4	isa_prakAra	thus				
+2	we	3	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,4	wuJase	unto_you				
+3	jFAnam	6	jFAnamAKyAwaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,4	jFAna	knowledge				
+4	AKyAwam	7	0	AKyAwa{puM}{2;eka}/AKyAwa{napuM}{1;eka}/AKyAwa{napuM}{2;eka}/Af_KyA1{karwari;lot;ma;xvi;parasmEpaxI;KyA;axAxiH}/Af_KyA1{karwari;laf;ma;xvi;parasmEpaxI;KyA;axAxiH}	Af_KyA1{kqw_prawyayaH:kwa;Af_KyA;axAxiH;napuM}{1;eka}	aBihiwakarma,3;sakarmakaH	kaha_xiyA	described				
+5	guhyAw	4	guhyAxguhyawaraM	guhya{puM}{5;eka}/guhya{napuM}{5;eka}/guh1{karwari;ASIrlif;pra;eka;parasmEpaxI;guhUz;BvAxiH}	guhya{napuM}{5;eka}	wulanA_binxuH,3	gopanIya_se_(BI)	confidential				
+6	guhyawaram	5	0	guhyawara{puM}{2;eka}/guhyawara{napuM}{1;eka}/guhyawara{napuM}{2;eka}	guhyawara{napuM}{2;eka}	viSeRaNam,3	awi_gopanIya	still_more_confidential				
+7	mayA	2	mayA	asmax{3;eka}	asmax{3;eka}	karwA,4	mEMne	by_Me				
+8	vimqSya	10	vimqSyEwaxaSeReNa	vi_mqS1{kqw_prawyayaH:lyap;mqSaz;wuxAxiH}	vi_mqS1{kqw_prawyayaH:lyap;vi_mqSaz;wuxAxiH}	pUrvakAlaH,14	BalIBAzwi_vicArakara	by_deliberation				
+9	ewaw	8	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	karma,8	isa_rahasyayukwa_jFAna_ko	that				
+10	a-SeReNa	9	0	aSeRa{puM}{3;eka}	aSeRa{puM}{3;eka}	kriyAviSeRaNam,8	pUrNawayA	fully	<na-SeReNa>Tn			
+11	yaWA	11	yaWecCasi	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,12;niwya_sambanXaH,13	jEse	as				
+12	icCasi	12	0	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}		cAhawA_hE	like				
+13	waWA	13	waWA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,14	vEse_hI	that				
+14	kuru	14	kuru	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,14.1;sakarmakaH	kara	perform				
+14.1	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,14	(wuma)	you				

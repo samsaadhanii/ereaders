@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ApUryamANam	3	ApUryamANamacalaprawiRTaM	ApUryamANa{puM}{2;eka}/ApUryamANa{napuM}{1;eka}/ApUryamANa{napuM}{2;eka}	ApUryamANa{puM}{2;eka}	viSeRaNam,3	saba_ora_se_paripUrNa	full_on_all_sides				
+2	a-cala-prawiRTam	4	0	acala-prawiRTam	acala-prawiRTa{puM}{2;eka}	viSeRaNam,3	acala_prawiRTAvAle	remain_undisturbed	<<na-cala>Tn-prawiRTam>Bs6			
+3	samuxram	5	samuxramApaH	samuxra{puM}{2;eka}/samuxra{napuM}{1;eka}/samuxra{napuM}{2;eka}	samuxra{puM}{2;eka}	karma,5	samuxra_meM	the_ocean				
+4	ApaH	2	0	ap{swrI}{1;bahu}/Apas{napuM}{1;eka}/Apas{napuM}{2;eka}/Ap1{karwari;luf;ma;eka;parasmEpaxI;ApLz;svAxiH}	ap{swrI}{1;bahu}	karwA,5	jala	the_waters_of_different_rivers				
+5	praviSanwi	6	praviSanwi	pra_viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	pra_viS1{karwari;lat;pra;bahu;parasmEpaxI;pra_viSaz;wuxAxiH}	aBihiwa_karwA,4;sakarmakaH	samA_jAwe_hEM	enter				
+6	yaxvaw	1	yaxvaw	yaxvaw{avya}	yaxvaw{avya}	kriyAviSeRaNam,5	jEse	though(just as)				
+7	waxvaw	7	waxvawkAmA	waxvaw{avya}	waxvaw{avya}	kriyAviSeRaNam,10	vEse_hI	likewise				
+8	kAmAH	9	0	kAma{puM}{1;bahu}/kAmA{swrI}{1;bahu}/kAmA{swrI}{2;bahu}	kAma{puM}{1;bahu}	karwA,10	Boga	enjoyments				
+9	yam	10	yaM	yax{puM}{2;eka}	yax{puM}{2;eka}	karma,10;niwya_sambanXaH,12	jisameM	he,_in_whom				
+10	praviSanwi	11	praviSanwi	pra_viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	pra_viS1{karwari;lat;pra;bahu;parasmEpaxI;pra_viSaz;wuxAxiH}	aBihiwa_karwA,8;sakarmakaH	samA_jAwe_hEM	merge				
+11	sarve	8	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	viSeRaNam,8	saba	all				
+12	saH	12	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,14	vahI_(puruRa)	that_(person_				
+13	SAnwim	13	SAnwimApnowi	SAnwi{swrI}{2;eka}	SAnwi{swrI}{2;eka}	karma,14	parama_SAnwi_ko	peace				
+14	Apnowi	14	0	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH}	aBihiwa_karwA,12;sakarmakaH	prApwa_howA_hE	attains				
+15	na	16	na	na{avya}	na{avya}	prawiReXaH,16.2	nahIM	not				
+16	kAma-kAmI	15	kAmakAmI	kAma-kAmin{puM}{1;eka}	kAma-kAmin{puM}{1;eka}	karwA,16.2	BogoM_ko_cAhanevAlA	he_who_hankers_after_such_enjoyments	<kAma-kAmI>T7			
+16.1	(SAnwim)	17	(0)	(SAnwi{swrI}{2;eka})	(SAnwi{swrI}{2;eka})	karma,16.2	(parama_SAnwi_ko)	peace				
+16.2	(Apnowi)	18	(0)	(Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH})	(Ap1{karwari;lat;pra;eka;parasmEpaxI;ApLz;svAxiH})	aBihiwa_karwA,16;sakarmakaH	(prApwa_howA_hE)	attains				

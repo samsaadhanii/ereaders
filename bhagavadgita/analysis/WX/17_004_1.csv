@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yajanwe	3	yajanwe	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	aBihiwakarwA,2;sakarmakaH	pUjawe_hEM	worship				
+2	sAwwvikAH	1	sAwwvikA	sAwwvika{puM}{1;bahu}/sAwwvika{puM}{8;bahu}	sAwwvika{puM}{1;bahu}	karwA,1	sAwwvika_puruRa	those_who_are_in_the_mode_of_goodness				
+3	xevAn	2	xevAnyakRarakRAMsi	xeva{puM}{2;bahu}	xeva{puM}{2;bahu}	karma,1	xevoM_ko	demigods				
+4	yakRa-rakRAMsi	5	0	yakRa-rakRas{napuM}{1;bahu}/rakRas{napuM}{2;bahu}/rakRas{napuM}{8;bahu}	yakRa-rakRas{napuM}{2;bahu}	karma,5.1	yakRa_Ora_rAkRasoM_ko	demons	<yakRa-rakRAMsi>Di			
+5	rAjasAH	4	rAjasAH	rAjasa{puM}{1;bahu}/rAjasa{puM}{8;bahu}/rAjasA{swrI}{1;bahu}/rAjasA{swrI}{2;bahu}/rAjasA{swrI}{8;bahu}	rAjasa{puM}{1;bahu}	karwA,5.1	rAjasa_puruRa	those_who_are_in_the_mode_of_passion				
+5.1	(yajanwe)	6	(0)	(yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH})	(yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH})	aBihiwakarwA,5;sakarmakaH	(pUjawe_hEM)	worship				
+6	prewAn	10	prewAnBUwagaNAMScAnye	prewa{puM}{2;bahu}	prewa{puM}{2;bahu}	sup_samucciwaH,7	prewa	dead_spirits				
+7	BUwa-gaNAn	12	0	BUwa-gaNa{puM}{2;bahu}	BUwa-gaNa{puM}{2;bahu}	karma,10	BUwagaNoM_ko	ghosts	<BUwa-gaNAn>T6			
+8	ca	11	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	Ora	and				
+9	anye	7	0	anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anya{napuM}{7;eka}/anya{napuM}{8;xvi}/anya{puM}{1;bahu}/anya{napuM}{1;xvi}/anya{napuM}{2;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/anyA{swrI}{8;eka}/anyA{swrI}{8;xvi}/anyA{swrI}{1;xvi}/anyA{swrI}{2;xvi}/an1{BAve;lat;u;eka;AwmanepaxI;anaz;axAxiH}	anya{puM}{1;bahu}	viSeRaNam,12	anya	others				
+10	yajanwe	13	yajanwe	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	yaj1{karwari;lat;pra;bahu;AwmanepaxI;yajaz;BvAxiH}	aBihiwakarwA,12;sakarmakaH	pUjawe_hEM	worship				
+11	wAmasAH	8	wAmasA	wAmasa{puM}{1;bahu}/wAmasa{puM}{8;bahu}	wAmasa{puM}{1;bahu}	viSeRaNam,12	wAmasa	in_the_mode_of_ignorance				
+12	janAH	9	janAH	jana{puM}{1;bahu}/jana{puM}{8;bahu}	jana{puM}{1;bahu}	karwA,10	manuRya	people				

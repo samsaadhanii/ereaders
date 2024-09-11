@@ -1,0 +1,20 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	iha	6	ihEva	iha{avya}	iha{avya}	aXikaraNam,4	yahAz_(isa_jIviwa_avasWA_meM)	in_this_life				
+2	eva	7	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
+3	wEH	5	wErjiwaH	wax{puM}{3;bahu}/wax{napuM}{3;bahu}	wax{puM}{3;bahu}	karwA,4;niwya_sambanXaH,6	unake_xvArA	by_them				
+4	jiwaH	9	0	jiw{puM}{1;bahu}/jiw{puM}{2;bahu}/jiw{puM}{5;eka}/jiw{puM}{6;eka}/jiwa{puM}{1;eka}	ji1{kqw_prawyayaH:kwa;ji;BvAxiH;puM}{1;eka}	aBihiwa_karma,3;sakarmakaH	jIwa_liyA_gayA_hE	conquered				
+5	sargaH	8	sargo	sarga{puM}{1;eka}	sarga{puM}{1;eka}	karma,4	sampUrNa_saMsAra	birth_and_death				
+6	yeRAm	1	yeRAM	yax{puM}{6;bahu}/yax{napuM}{6;bahu}	yax{puM}{6;bahu}	RaRTIsambanXaH,9	jinakA	of_those				
+7	sAmye	3	sAmye	sAmya{puM}{7;eka}/sAmya{napuM}{1;xvi}/sAmya{napuM}{2;xvi}/sAmya{napuM}{7;eka}/sAmyA{swrI}{1;xvi}/sAmyA{swrI}{2;xvi}/sAma1{karmaNi;lat;u;eka;AwmanepaxI;sAma;curAxiH}	sAmya{napuM}{7;eka}	aXikaraNam,8	samaBAva_meM	in_equanimity				
+8	sWiwam	4	sWiwaM	sWiwa{puM}{2;eka}/sWiwa{napuM}{1;eka}/sWiwa{napuM}{2;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;napuM}{1;eka}	aBihiwa_karwA,5;akarmakaH	sWiwa_hE	so_situated				
+9	manaH	2	manaH	manas{napuM}{1;eka}/manas{napuM}{2;eka}	manas{napuM}{1;eka}	karwA,8	mana	mind				
+10	nir-xoRam	12	nirxoRaM	nirxoRa{puM}{2;eka}/nirxoRa{napuM}{1;eka}/nirxoRa{napuM}{2;eka}	nir-xoRa{napuM}{1;eka}	sup_samucciwaH,13.1	nirxoRa	flawless	<nir-xoRaM>Bvp			
+11	hi	10	hi	hi{avya}	hi{avya}	sambanXaH,13.1	kyoMki	certainly				
+12	samam	13	samaM	samam{avya}/sama{puM}{2;eka}/sama{napuM}{1;eka}/sama{napuM}{2;eka}/sama{puM}{2;eka}	sama{napuM}{1;eka}	viXeya_viSeRaNam,13.1	sama	in_equanimity				
+12.1	(ca)	14	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,12	(Ora)	and				
+13	brahma	11	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwA,13.1	saccixAnanxaGana_paramAwmA	the_Supreme				
+13.1	(aswi)	15	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,13;akarmakaH	(hE)	is				
+14	wasmAw	16	wasmAxbrahmaNi	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,17	isase	therefore				
+15	brahmaNi	18	0	brahman{puM}{7;eka}/brahman{napuM}{7;eka}	brahman{napuM}{7;eka}	aXikaraNam,17	saccixAnanxaGana_paramAwmA_meM	in_the_Supreme				
+16	we	17	we	wax{puM}{1;bahu}	wax{puM}{1;bahu}	karwA,17	ve	they				
+17	sWiwAH	19	sWiwAH	sWiwa{puM}{1;bahu}/sWiwA{swrI}{1;bahu}/sWiwA{swrI}{2;bahu}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;bahu}	aBihiwa_karwA,16;akarmakaH	sWiwa	situated				
