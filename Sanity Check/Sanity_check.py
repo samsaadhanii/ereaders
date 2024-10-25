@@ -14,9 +14,9 @@ def load_tsv(filename):
 
 def check_kaaraka_sambandha(kaaraka_sambandha, morph_in_context, index, data):
     # Check for the first occurrence of कर्ता in kaaraka_sambandha
-    match = re.search(r'कर्ता,(\d+\.\d+)', kaaraka_sambandha)
+    match = re.search(r'कर्ता,(\d+\.\d+(\.\d+)?)', kaaraka_sambandha)
     if not 'अभिहित_कर्ता' in kaaraka_sambandha and match:
-        target_index = match.group(1)
+        target_index = match.group(1)  # This will capture indexes like 9.1 or 9.1.1
         target_item = next((d for d in data if str(d.get('index', '')) == target_index), None)
         if target_item:
             target_morph_in_context = target_item.get('morph_in_context', '')
@@ -61,11 +61,15 @@ def check_constraints(data, valid_strings_file):
         if 'कर्तरि;' in morph_in_context and color_code != 'KP':
             print(f'Error in Index: {indx} check Morph Analysis and Color Code')
 
-        if kaaraka_sambandha not in possible_relations:
-            if color_code == "KP" and possible_relations == "-" and "अभिहित" in kaaraka_sambandha:
+        kaaraka_list = kaaraka_sambandha.split(";")
+        possible_list = possible_relations.split(";")
+
+        # Check if all items in kaaraka_list are in possible_list
+        if not all(item in possible_list for item in kaaraka_list):
+            if color_code == "KP" and possible_relations == "-" and "अभिहित" in kaaraka_list:
                 continue
             print(f'Error in Index: {indx} - kaaraka_sambandha not found in possible_relations')
-
+        
         if not any(valid_str in kaaraka_sambandha and valid_str in possible_relations for valid_str in valid_strings):
             if kaaraka_sambandha == "-" and possible_relations == "-":
                 continue
@@ -127,7 +131,7 @@ def check_constraints(data, valid_strings_file):
             print(f'Color Code: {color_code}')
 
 # Example usage
-data = load_tsv('05_011_1.tsv')
+data = load_tsv('05_001_1.tsv')
 check_constraints(data, 'valid_strings.txt')
 
 # slef lopp 3 digit error
