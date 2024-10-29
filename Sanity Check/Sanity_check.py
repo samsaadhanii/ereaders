@@ -61,8 +61,11 @@ def check_constraints(data, valid_strings_file):
         if 'कर्तरि;' in morph_in_context and color_code != 'KP':
             print(f'Error in Index: {indx} check Morph Analysis and Color Code')
 
-        kaaraka_list = kaaraka_sambandha.split(";")
-        possible_list = possible_relations.split(";")
+        delimiter = '#' if '#' in possible_relations else ';'
+
+        # Split using the chosen delimiter
+        kaaraka_list = kaaraka_sambandha.split(delimiter)
+        possible_list = possible_relations.split(delimiter)
 
         # Check if all items in kaaraka_list are in possible_list
         if not all(item in possible_list for item in kaaraka_list):
