@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ye	1	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,7;niwya_sambanXaH,11	jo	those				
-2	me	5	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,3	mere	my				
-3	mawam	7	mawamixaM	mawa{puM}{2;eka}/mawa{napuM}{1;eka}/mawa{napuM}{2;eka}	mawa{napuM}{2;eka}	karma,6	mawa_kA	injunctions				
-4	ixam	6	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,3	isa	this				
-5	niwyam	8	niwyamanuwiRTanwi	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{2;eka}	kriyAviSeRaNam,6	saxA	eternal_function				
-6	anuwiRTanwi	9	0	anu_sWA1{karwari;lat;pra;bahu;parasmEpaxI;RTA;BvAxiH}	anu_sWA1{karwari;lat;pra;bahu;parasmEpaxI;anu_RTA;BvAxiH}	aBihiwa_karwA,7;sakarmakaH	anusaraNa_karawe_hEM	execute_regularly				
-7	mAnavAH	4	mAnavAH	mAnava{puM}{1;bahu}/mAnava{puM}{8;bahu}	mAnava{puM}{1;bahu}	karwA,6	manuRya	humankind				
-8	SraxXAvanwaH	3	SraxXAvanwoZnasUyanwo	SraxXAvaw{puM}{1;bahu}/SraxXAvaw{puM}{8;bahu}	SraxXAvaw{puM}{1;bahu}	viSeRaNam,7	SraxXAyukwa	with_faith_and_devotion				
-9	an-asUyanwaH	2	0	an-{avya}-asUyanwaH	na-asUya1{kqw_prawyayaH:Sawq;asUya1;nAmaXAwu;puM}{1;bahu}	viSeRaNam,7	xoRaxqRti_se_rahiwa	without_envy	<na-asUyanwaH>Bsmn			
-10	mucyanwe	13	mucyanwe	muc1{karmaNi;lat;pra;bahu;AwmanepaxI;mucLz;wuxAxiH}	muc1{karwari;lat;pra;bahu;AwmanepaxI;mucLz;wuxAxiH}	aBihiwa_karma,11;sakarmakaH	CUta_jAwe_hEM	become_free				
-11	we	10	weZpi	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	karwA,10	ve	all_of_them				
-12	api	11	0	api{avya}	api{avya}	sambanXaH,11	BI	even				
-13	karmaBiH	12	karmaBiH	karman{napuM}{3;bahu}	karman{napuM}{3;bahu}	karwA,10	sampUrNa_karmoM_se	from_the_bondage_of_the_law_of_fruitive_action				
+1	ये	1	ये	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	विशेषणम्,7;नित्य_सम्बन्धः,11	जो	ट्होसे				
+2	मे	5	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,3	मेरे	म्य्				
+3	मतम्	7	मतमिदं	मत{पुं}{2;एक}/मत{नपुं}{1;एक}/मत{नपुं}{2;एक}	मत{नपुं}{2;एक}	कर्म,6	मत_का	इन्जुन्च्टिओन्स्				
+4	इदम्	6	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,3	इस	ट्हिस्				
+5	नित्यम्	8	नित्यमनुतिष्ठन्ति	नित्य{पुं}{2;एक}/नित्य{नपुं}{1;एक}/नित्य{नपुं}{2;एक}	नित्य{नपुं}{2;एक}	क्रियाविशेषणम्,6	सदा	एटेर्नल्_ङुन्च्टिओन्				
+6	अनुतिष्ठन्ति	9	0	अनु_स्था1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ष्ठा;भ्वादिः}	अनु_स्था1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;अनु_ष्ठा;भ्वादिः}	अभिहित_कर्ता,7;सकर्मकः	अनुसरण_करते_हैं	एदेचुटे_रेगुलर्ल्य्				
+7	मानवाः	4	मानवाः	मानव{पुं}{1;बहु}/मानव{पुं}{8;बहु}	मानव{पुं}{1;बहु}	कर्ता,6	मनुष्य	हुमन्किन्ड्				
+8	श्रद्धावन्तः	3	श्रद्धावन्तोऽनसूयन्तो	श्रद्धावत्{पुं}{1;बहु}/श्रद्धावत्{पुं}{8;बहु}	श्रद्धावत्{पुं}{1;बहु}	विशेषणम्,7	श्रद्धायुक्त	तिट्ह्_ङइट्ह्_अन्ड्_डेवोटिओन्				
+9	अन्-असूयन्तः	2	0	अन्-{अव्य}-असूयन्तः	न-असूय1{कृत्_प्रत्ययः:शतृ;असूय1;नामधातु;पुं}{1;बहु}	विशेषणम्,7	दोषदृष्टि_से_रहित	तिट्होउट्_एन्व्य्	<न-असूयन्तः>भ्स्म्न्			
+10	मुच्यन्ते	13	मुच्यन्ते	मुच्1{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;मुचॢँ;तुदादिः}	मुच्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;मुचॢँ;तुदादिः}	अभिहित_कर्म,11;सकर्मकः	छूट_जाते_हैं	बेचोमे_ङ्रेए				
+11	ते	10	तेऽपि	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	तद्{पुं}{1;बहु}	कर्ता,10	वे	अल्ल्_ओङ्_ट्हेम्				
+12	अपि	11	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,11	भी	एवेन्				
+13	कर्मभिः	12	कर्मभिः	कर्मन्{नपुं}{3;बहु}	कर्मन्{नपुं}{3;बहु}	कर्ता,10	सम्पूर्ण_कर्मों_से	ङ्रोम्_ट्हे_बोन्डगे_ओङ्_ट्हे_लत्_ओङ्_ङ्रुइटिवे_अच्टिओन्				

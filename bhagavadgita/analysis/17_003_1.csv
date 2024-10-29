@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sawwva-anurUpA	4	sawwvAnurUpA	sawwva-anurUpA{swrI}{1;eka}	sawwva-anurUpA{swrI}{1;eka}	viXeya_viSeRaNam,4	unake_anwaHkaraNa_ke_anurUpa	according_to_the_existence	<sawwva-anurUpA>T6			
-2	sarvasya	2	sarvasya	sarva{puM}{6;eka}/sarva{napuM}{6;eka}	sarva{puM}{6;eka}	RaRTIsambanXaH,3	saBI_manuRyoM_kI	of_everyone				
-3	SraxXA	3	SraxXA	SraxXA{swrI}{1;eka}	SraxXA{swrI}{1;eka}	karwA,4	SraxXA	faith				
-4	Bavawi	5	Bavawi	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,3;akarmakaH	howI_hE	becomes				
-5	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,4	he_BArawa	O_son_of_Bharata				
-6	SraxXA-mayaH	8	SraxXAmayoZyaM	SraxXAmaya{puM}{1;eka}	SraxXAmaya{puM}{1;eka}	viXeya_viSeRaNam,8.1	SraxXAmaya	full_of_faith	<SraxXA-mayaH>Bs7			
-7	ayam	6	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,8	yaha	this				
-8	puruRaH	7	puruRo	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	karwA,8.1	puruRa	living_entity				
-8.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,8;akarmakaH	(hE)	is				
-9	yaH	10	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,10.1;niwya_sambanXaH,11	jo_(puruRa)	anyone				
-10	yaw-SraxXaH	11	yacCraxXaH	yax-SraxXaH	yax-SraxXa{puM}{1;eka}	viXeya_viSeRaNam,10.1	jEsI_SraxXAvAlA	like_that_faith	<yaw-SraxXaH>Bs6			
-10.1	(aswi)	12	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,9;akarmakaH	(hE)	is				
-11	saH	13	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viXeya_viSeRaNam,13.1	vaha	he				
-12	eva	14	eva	eva{avya}	eva{avya}	sambanXaH,11	BI	certainly				
-13	saH	15	saH	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,13.1	vahI	that				
-13.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13;akarmakaH	(hE)	is				
+1	सत्त्व-अनुरूपा	4	सत्त्वानुरूपा	सत्त्व-अनुरूपा{स्त्री}{1;एक}	सत्त्व-अनुरूपा{स्त्री}{1;एक}	विधेय_विशेषणम्,4	उनके_अन्तःकरण_के_अनुरूप	अच्चोर्डिन्ग्_टो_ट्हे_एदिस्टेन्चे	<सत्त्व-अनुरूपा>ठ्6			
+2	सर्वस्य	2	सर्वस्य	सर्व{पुं}{6;एक}/सर्व{नपुं}{6;एक}	सर्व{पुं}{6;एक}	षष्ठीसम्बन्धः,3	सभी_मनुष्यों_की	ओङ्_एवेर्योने				
+3	श्रद्धा	3	श्रद्धा	श्रद्धा{स्त्री}{1;एक}	श्रद्धा{स्त्री}{1;एक}	कर्ता,4	श्रद्धा	ङइट्ह्				
+4	भवति	5	भवति	भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,3;अकर्मकः	होती_है	बेचोमेस्				
+5	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,4	हे_भारत	औ_सोन्_ओङ्_भ्हरट				
+6	श्रद्धा-मयः	8	श्रद्धामयोऽयं	श्रद्धामय{पुं}{1;एक}	श्रद्धामय{पुं}{1;एक}	विधेय_विशेषणम्,8.1	श्रद्धामय	ङुल्ल्_ओङ्_ङइट्ह्	<श्रद्धा-मयः>भ्स्7			
+7	अयम्	6	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	विशेषणम्,8	यह	ट्हिस्				
+8	पुरुषः	7	पुरुषो	पुरुष{पुं}{1;एक}	पुरुष{पुं}{1;एक}	कर्ता,8.1	पुरुष	लिविन्ग्_एन्टिट्य्				
+8.1	(अस्ति)	9	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,8;अकर्मकः	(है)	इस्				
+9	यः	10	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,10.1;नित्य_सम्बन्धः,11	जो_(पुरुष)	अन्योने				
+10	यत्-श्रद्धः	11	यच्छ्रद्धः	यद्-श्रद्धः	यद्-श्रद्ध{पुं}{1;एक}	विधेय_विशेषणम्,10.1	जैसी_श्रद्धावाला	लिके_ट्हट्_ङइट्ह्	<यत्-श्रद्धः>भ्स्6			
+10.1	(अस्ति)	12	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,9;अकर्मकः	(है)	इस्				
+11	सः	13	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	विधेय_विशेषणम्,13.1	वह	हे				
+12	एव	14	एव	एव{अव्य}	एव{अव्य}	सम्बन्धः,11	भी	चेर्टइन्ल्य्				
+13	सः	15	सः	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,13.1	वही	ट्हट्				
+13.1	(अस्ति)	16	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,13;अकर्मकः	(है)	इस्				

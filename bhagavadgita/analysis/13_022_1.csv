@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	upaxraRtA	6	upaxraRtAnumanwA	upa_xqS1{karwari;lut;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/upa_xqS1{karmaNi;lut;pra;eka;AwmanepaxI;xqSizr;BvAxiH}	upa_xqS1{karwari;lut;pra;eka;parasmEpaxI;upa_xqSizr;BvAxiH}	sup_samucciwaH,7	sAkRI_hone_se_upaxraRtA	overseer				
-2	anumanwA	8	0	anu_man1{karmaNi;lut;pra;eka;AwmanepaxI;manaz;xivAxiH}	anu_man1{karmaNi;lut;pra;eka;AwmanepaxI;anu_manaz;xivAxiH}	sup_samucciwaH,7	yaWArWa_sammawi_xenevAlA_hone_se_anumanwA	permitter				
-3	ca	7	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	and				
-4	BarwA	9	BarwA	Barwq{puM}{1;eka}/Bq1{karwari;lut;pra;eka;parasmEpaxI;BqF;BvAxiH}/Bq1{karwari;lut;pra;eka;AwmanepaxI;BqF;BvAxiH}/Bq1{karmaNi;lut;pra;eka;AwmanepaxI;BqF;BvAxiH}/Bq2{karwari;lut;pra;eka;parasmEpaxI;duBqF;juhowyAxiH}	Barwq{puM}{1;eka}	sup_samucciwaH,7	sabakA_XAraNa-poRaNa_karanevAlA_honese_BarwA	master				
-5	BokwA	10	BokwA	BokwA{swrI}{1;eka}/Buj1{BAve;lut;pra;eka;AwmanepaxI;Bujoz;wuxAxiH}/Buj2{karwari;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}/Buj2{karmaNi;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{kqw_prawyayaH:wqc;Bujaz;ruXAxiH;puM}{1;eka}	sup_samucciwaH,7	jIvarUpa_se_BokwA	supreme_enjoyer				
-6	mahaw-ISvaraH	11	maheSvaraH	mahaw-ISvara{puM}{1;eka}	maheSvara{puM}{1;eka}	sup_samucciwaH,7	brahmA_Axi_kA_BI_svAmI_hone_se_maheSvara	the_Supreme_Lord	<mahaw-ISvaraH>K1			
-7	parama-AwmA	13	paramAwmewi	param-Awman{puM}{1;eka}	paramAwman{puM}{1;eka}	karmasamAnAXikaraNam,11	paramAwmA	Supersoul	<parama-AwmA>K1			
-8	iwi	15	0	iwi{avya}	iwi{avya}	sambanXaH,7	EsA	thus				
-9	ca	12	cApyukwo	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	Ora	also				
-10	api	3	0	api{avya}	api{avya}	sambanXaH,11	BI	also				
-11	ukwaH	16	0	ukwa{puM}{1;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;puM}{1;eka}	aBihiwakarma,14;sakarmakaH	kahA_gayA_hE	said				
-12	xehe	2	xeheZsminpuruRaH	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xeha{napuM}{8;xvi}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{napuM}{7;eka}	aXikaraNam,11	xeha_meM	in_this_body				
-13	asmin	1	0	ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{puM}{7;eka}	viSeRaNam,12	isa	this				
-14	puruRaH	4	0	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	karma,11	yaha_AwmA	enjoyer				
-15	paraH	5	paraH	para{puM}{1;eka}/para{puM}{1;eka}	para{puM}{1;eka}	viSeRaNam,14	paramAwmA	transcendental				
+1	उपद्रष्टा	6	उपद्रष्टानुमन्ता	उप_दृश्1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}/उप_दृश्1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;दृशिँर्;भ्वादिः}	उप_दृश्1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;उप_दृशिँर्;भ्वादिः}	सुप्_समुच्चितः,7	साक्षी_होने_से_उपद्रष्टा	ओवेर्सेएर्				
+2	अनुमन्ता	8	0	अनु_मन्1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;मनँ;दिवादिः}	अनु_मन्1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;अनु_मनँ;दिवादिः}	सुप्_समुच्चितः,7	यथार्थ_सम्मति_देनेवाला_होने_से_अनुमन्ता	पेर्मिट्टेर्				
+3	च	7	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	और	अन्ड्				
+4	भर्ता	9	भर्ता	भर्तृ{पुं}{1;एक}/भृ1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;भृञ्;भ्वादिः}/भृ1{कर्तरि;लुट्;प्र;एक;आत्मनेपदी;भृञ्;भ्वादिः}/भृ1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;भृञ्;भ्वादिः}/भृ2{कर्तरि;लुट्;प्र;एक;परस्मैपदी;डुभृञ्;जुहोत्यादिः}	भर्तृ{पुं}{1;एक}	सुप्_समुच्चितः,7	सबका_धारण-पोषण_करनेवाला_होनेसे_भर्ता	मस्टेर्				
+5	भोक्ता	10	भोक्ता	भोक्ता{स्त्री}{1;एक}/भुज्1{भावे;लुट्;प्र;एक;आत्मनेपदी;भुजोँ;तुदादिः}/भुज्2{कर्तरि;लुट्;प्र;एक;आत्मनेपदी;भुजँ;रुधादिः}/भुज्2{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;भुजँ;रुधादिः}	भुज्2{कृत्_प्रत्ययः:तृच्;भुजँ;रुधादिः;पुं}{1;एक}	सुप्_समुच्चितः,7	जीवरूप_से_भोक्ता	सुप्रेमे_एन्जोयेर्				
+6	महत्-ईश्वरः	11	महेश्वरः	महत्-ईश्वर{पुं}{1;एक}	महेश्वर{पुं}{1;एक}	सुप्_समुच्चितः,7	ब्रह्मा_आदि_का_भी_स्वामी_होने_से_महेश्वर	ट्हे_शुप्रेमे_ऌओर्ड्	<महत्-ईश्वरः>ख्1			
+7	परम-आत्मा	13	परमात्मेति	परम्-आत्मन्{पुं}{1;एक}	परमात्मन्{पुं}{1;एक}	कर्मसमानाधिकरणम्,11	परमात्मा	शुपेर्सोउल्	<परम-आत्मा>ख्1			
+8	इति	15	0	इति{अव्य}	इति{अव्य}	सम्बन्धः,7	ऐसा	ट्हुस्				
+9	च	12	चाप्युक्तो	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,7	और	अल्सो				
+10	अपि	3	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,11	भी	अल्सो				
+11	उक्तः	16	0	उक्त{पुं}{1;एक}	वच्1{कृत्_प्रत्ययः:क्त;वचँ;अदादिः;पुं}{1;एक}	अभिहितकर्म,14;सकर्मकः	कहा_गया_है	सइड्				
+12	देहे	2	देहेऽस्मिन्पुरुषः	देह{पुं}{7;एक}/देह{नपुं}{1;द्वि}/देह{नपुं}{2;द्वि}/देह{नपुं}{7;एक}/देह{नपुं}{8;द्वि}/दह्1{कर्मणि;लिट्;उ;एक;आत्मनेपदी;दहँ;भ्वादिः}/दह्1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;दहँ;भ्वादिः}	देह{नपुं}{7;एक}	अधिकरणम्,11	देह_में	इन्_ट्हिस्_बोड्य्				
+13	अस्मिन्	1	0	इदम्{पुं}{7;एक}/इदम्{नपुं}{7;एक}	इदम्{पुं}{7;एक}	विशेषणम्,12	इस	ट्हिस्				
+14	पुरुषः	4	0	पुरुष{पुं}{1;एक}	पुरुष{पुं}{1;एक}	कर्म,11	यह_आत्मा	एन्जोयेर्				
+15	परः	5	परः	पर{पुं}{1;एक}/पर{पुं}{1;एक}	पर{पुं}{1;एक}	विशेषणम्,14	परमात्मा	ट्रन्स्चेन्डेन्टल्				

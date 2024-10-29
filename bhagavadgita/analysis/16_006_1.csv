@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xvO	5	xvO	xvi{puM}{1;xvi}/xvi{puM}{2;xvi}/xvi{puM}{8;xvi}	xvi{puM}{1;xvi}	viSeRaNam,2	xo	two				
-2	BUwa-sargO	4	BUwasargO	BUwasarga{puM}{1;xvi}/BUwasarga{puM}{2;xvi}/BUwasarga{puM}{8;xvi}	BUwa-sarga{puM}{1;xvi}	karwA,8.1	BUwoM_kI_sqRti_yAnI_manuRyasamuxAya	created_living_beings	<BUwa-sargO>T6			
-3	loke	3	lokeZsminxEva	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	aXikaraNam,8.1	loka_meM	in_the_world				
-4	asmin	2	0	ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{puM}{7;eka}	viSeRaNam,3	isa	in_this				
-5	xEvaH	7	0	xEva{puM}{1;eka}	xEva{puM}{1;eka}	Gataka,1	xEvI-prakqwivAlA	godly				
-6	AsuraH	9	Asura	Asura{puM}{1;eka}	Asura{puM}{1;eka}	Gataka,1	AsurI-prakqwivAlA	demoniac				
-7	eva	6	eva	eva{avya}	eva{avya}	sambanXaH,8	hI	certainly				
-8	ca	8	ca	ca{avya}	ca{avya}	Gataka_xyowakaH,6	Ora	and				
-8.1	(swaH)	10	(0)	(swq{puM}{8;eka}/as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	are				
-9	xEvaH	11	xEvo	xEva{puM}{1;eka}	xEva{puM}{1;eka}	karma,11	xEvI-prakqwivAlA	divine				
-10	viswaraSaH	12	viswaraSaH	viswaraSaH	viswaraSaH{avya}	kriyAviSeRaNam,11	viswArapUrvaka	at_great_length				
-11	prokwaH	13	prokwa	prokwa{puM}{1;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;puM}{1;eka}	aBihiwakarma,11;sakarmakaH	kahA_gayA	said				
-12	Asuram	15	AsuraM	Asura{puM}{2;eka}/Asura{napuM}{1;eka}/Asura{napuM}{2;eka}	Asura{puM}{2;eka}	viSeRaNam,15.1	AsurI-prakqwivAle	demoniac				
-13	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,15	he_arjuna	O_son_of_Prtha				
-14	me	16	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,15	muJase	from_Me				
-15	SqNu	18	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarma,15.1;sakarmakaH	suna	just_hear				
-15.1	(vacaH)	17	(0)	(vaca{puM}{1;eka}/vacas{napuM}{1;eka}/vacas{napuM}{2;eka}/vacas{napuM}{8;eka})	(vacas{napuM}{2;eka})	karma,15	(vacana_ko)	speech				
-15.2	(wvam)	14	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,15	(wU)	you				
+1	द्वौ	5	द्वौ	द्वि{पुं}{1;द्वि}/द्वि{पुं}{2;द्वि}/द्वि{पुं}{8;द्वि}	द्वि{पुं}{1;द्वि}	विशेषणम्,2	दो	ट्तो				
+2	भूत-सर्गौ	4	भूतसर्गौ	भूतसर्ग{पुं}{1;द्वि}/भूतसर्ग{पुं}{2;द्वि}/भूतसर्ग{पुं}{8;द्वि}	भूत-सर्ग{पुं}{1;द्वि}	कर्ता,8.1	भूतों_की_सृष्टि_यानी_मनुष्यसमुदाय	च्रेअटेड्_लिविन्ग्_बेइन्ग्स्	<भूत-सर्गौ>ठ्6			
+3	लोके	3	लोकेऽस्मिन्दैव	लोक{पुं}{7;एक}/लोक्1{कर्तरि;लट्;उ;एक;आत्मनेपदी;लोकृँ;भ्वादिः}	लोक{पुं}{7;एक}	अधिकरणम्,8.1	लोक_में	इन्_ट्हे_तोर्ल्ड्				
+4	अस्मिन्	2	0	इदम्{पुं}{7;एक}/इदम्{नपुं}{7;एक}	इदम्{पुं}{7;एक}	विशेषणम्,3	इस	इन्_ट्हिस्				
+5	दैवः	7	0	दैव{पुं}{1;एक}	दैव{पुं}{1;एक}	घटक,1	दैवी-प्रकृतिवाला	गोड्ल्य्				
+6	आसुरः	9	आसुर	आसुर{पुं}{1;एक}	आसुर{पुं}{1;एक}	घटक,1	आसुरी-प्रकृतिवाला	डेमोनिअच्				
+7	एव	6	एव	एव{अव्य}	एव{अव्य}	सम्बन्धः,8	ही	चेर्टइन्ल्य्				
+8	च	8	च	च{अव्य}	च{अव्य}	घटक_द्योतकः,6	और	अन्ड्				
+8.1	(स्तः)	10	(0)	(स्तृ{पुं}{8;एक}/अस्2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,2;अकर्मकः	(है)	अरे				
+9	दैवः	11	दैवो	दैव{पुं}{1;एक}	दैव{पुं}{1;एक}	कर्म,11	दैवी-प्रकृतिवाला	डिविने				
+10	विस्तरशः	12	विस्तरशः	विस्तरशः	विस्तरशः{अव्य}	क्रियाविशेषणम्,11	विस्तारपूर्वक	अट्_ग्रेअट्_लेन्ग्ट्ह्				
+11	प्रोक्तः	13	प्रोक्त	प्रोक्त{पुं}{1;एक}	प्र_वच्1{कृत्_प्रत्ययः:क्त;प्र_वचँ;अदादिः;पुं}{1;एक}	अभिहितकर्म,11;सकर्मकः	कहा_गया	सइड्				
+12	आसुरम्	15	आसुरं	आसुर{पुं}{2;एक}/आसुर{नपुं}{1;एक}/आसुर{नपुं}{2;एक}	आसुर{पुं}{2;एक}	विशेषणम्,15.1	आसुरी-प्रकृतिवाले	डेमोनिअच्				
+13	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,15	हे_अर्जुन	औ_सोन्_ओङ्_फ्र्ट्ह				
+14	मे	16	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,15	मुझसे	ङ्रोम्_ंए				
+15	शृणु	18	शृणु	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	अभिहितकर्म,15.1;सकर्मकः	सुन	जुस्ट्_हेअर्				
+15.1	(वचः)	17	(0)	(वच{पुं}{1;एक}/वचस्{नपुं}{1;एक}/वचस्{नपुं}{2;एक}/वचस्{नपुं}{8;एक})	(वचस्{नपुं}{2;एक})	कर्म,15	(वचन_को)	स्पेएच्ह्				
+15.2	(त्वम्)	14	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,15	(तू)	योउ				

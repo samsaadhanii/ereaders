@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mawwaH	2	mawwaH	mawwa{puM}{1;eka}	mawwa{wasil}	apAxAnam,6	muJase	beyond_Myself				
-2	parawaram	5	parawaraM	parawara{puM}{2;eka}/parawara{napuM}{1;eka}/parawara{napuM}{2;eka}	parawara{napuM}{1;eka}	viXeya_viSeRaNam,6	parama_(kAraNa)	superior				
-3	na	6	nAnyawkiFcixaswi	na{avya}	na{avya}	prawiReXaH,6	nahIM	not				
-4	anyaw	3	0	anyaw{avya}/anya{napuM}{1;eka}/anya{napuM}{2;eka}	anya{napuM}{1;eka}	viSeRaNam,5	Binna_xUsarA	anything				
-5	kiFciw	4	0	kiFciw{avya}/kiFciw{napuM}{1;eka}/kiFciw{napuM}{2;eka}	kiFciw{napuM}{1;eka}	karwA,6	koI_BI	else				
-6	aswi	7	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}		hE	is				
-7	XanaFjaya	1	XanaFjaya	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,6	he_XanaMjaya	O_conqueror_of_wealth				
-8	mayi	13	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,11	muJameM	in_Me				
-9	sarvam	9	sarvamixaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{1;eka}	karwA,11	sampUrNa_(jagaw)	all				
-10	ixam	8	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,9	yaha	which				
-11	prowam	14	prowaM	prowa{puM}{2;eka}/prowa{napuM}{1;eka}/prowa{napuM}{2;eka}	pra_u1{kqw_prawyayaH:kwa;pra_uf;BvAxiH;napuM}{1;eka}		guzWA_huA_hE	strung				
-12	sUwre	10	sUwre	sUwra{napuM}{1;xvi}/sUwra{napuM}{2;xvi}/sUwra{napuM}{7;eka}/sUwra{napuM}{8;xvi}	sUwra{napuM}{7;eka}	aXikaraNam,11	sUwra_meM_(sUwra_ke)	on_a_thread				
-13	maNi-gaNAH	11	maNigaNA	maNi-gaNa{puM}{1;bahu}/gaNa{puM}{8;bahu}	maNi-gaNa{puM}{1;bahu}	prawiyogI,14	maNiyoM_ke	pearls	<maNi-gaNAH>T6			
-14	iva	12	iva	iva{avya}	iva{avya}	anuyogI,8	saxqSa	likened				
+1	मत्तः	2	मत्तः	मत्त{पुं}{1;एक}	मत्त{तसिल्}	अपादानम्,6	मुझसे	बेयोन्ड्_ंय्सेल्ङ्				
+2	परतरम्	5	परतरं	परतर{पुं}{2;एक}/परतर{नपुं}{1;एक}/परतर{नपुं}{2;एक}	परतर{नपुं}{1;एक}	विधेय_विशेषणम्,6	परम_(कारण)	सुपेरिओर्				
+3	न	6	नान्यत्किञ्चिदस्ति	न{अव्य}	न{अव्य}	प्रतिषेधः,6	नहीं	नोट्				
+4	अन्यत्	3	0	अन्यत्{अव्य}/अन्य{नपुं}{1;एक}/अन्य{नपुं}{2;एक}	अन्य{नपुं}{1;एक}	विशेषणम्,5	भिन्न_दूसरा	अन्य्ट्हिन्ग्				
+5	किञ्चित्	4	0	किञ्चित्{अव्य}/किञ्चित्{नपुं}{1;एक}/किञ्चित्{नपुं}{2;एक}	किञ्चित्{नपुं}{1;एक}	कर्ता,6	कोई_भी	एल्से				
+6	अस्ति	7	0	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}		है	इस्				
+7	धनञ्जय	1	धनञ्जय	धनञ्जय{पुं}{8;एक}	धनञ्जय{पुं}{8;एक}	सम्बोध्यः,6	हे_धनंजय	औ_चोनृउएरोर्_ओङ्_तेअल्ट्ह्				
+8	मयि	13	मयि	अस्मद्{7;एक}	अस्मद्{7;एक}	अधिकरणम्,11	मुझमें	इन्_ंए				
+9	सर्वम्	9	सर्वमिदं	सर्व{पुं}{2;एक}/सर्व{नपुं}{1;एक}/सर्व{नपुं}{2;एक}	सर्व{नपुं}{1;एक}	कर्ता,11	सम्पूर्ण_(जगत्)	अल्ल्				
+10	इदम्	8	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	विशेषणम्,9	यह	त्हिच्ह्				
+11	प्रोतम्	14	प्रोतं	प्रोत{पुं}{2;एक}/प्रोत{नपुं}{1;एक}/प्रोत{नपुं}{2;एक}	प्र_उ1{कृत्_प्रत्ययः:क्त;प्र_उङ्;भ्वादिः;नपुं}{1;एक}		गुँथा_हुआ_है	स्ट्रुन्ग्				
+12	सूत्रे	10	सूत्रे	सूत्र{नपुं}{1;द्वि}/सूत्र{नपुं}{2;द्वि}/सूत्र{नपुं}{7;एक}/सूत्र{नपुं}{8;द्वि}	सूत्र{नपुं}{7;एक}	अधिकरणम्,11	सूत्र_में_(सूत्र_के)	ओन्_अ_ट्ह्रेअड्				
+13	मणि-गणाः	11	मणिगणा	मणि-गण{पुं}{1;बहु}/गण{पुं}{8;बहु}	मणि-गण{पुं}{1;बहु}	प्रतियोगी,14	मणियों_के	पेअर्ल्स्	<मणि-गणाः>ठ्6			
+14	इव	12	इव	इव{अव्य}	इव{अव्य}	अनुयोगी,8	सदृश	लिकेनेड्				

@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yasmAw	1	yasmAwkRaramawIwoZhamakRarAxapi	yasmAw{avya}/yax{puM}{5;eka}/yax{napuM}{5;eka}	yasmAw{avya}	hewuH,4.1	kyoMki	because				
+2	kRaram	3	0	kRara{napuM}{1;eka}/kRara{napuM}{2;eka}	kRara{puM}{2;eka}	karma,3	nASavAn	the_fallible				
+3	awIwaH	4	0	awIwa{puM}{1;eka}	awi_i1{kqw_prawyayaH:kwa;awi_i1;axAxiH;puM}{1;eka}	viXeya_viSeRaNam,4.1	awIwa	transcendental				
+4	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,4.1	mEM	I				
+4.1	(asmi)	5	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hUz)	am				
+5	a-kRarAw	7	0	a-kRara{napuM}{5;eka}	akRara{napuM}{5;eka}	wulanAvinxuH,8	avinASI_jIvAwmA_se	from_the_infallible	<na-kRarAw>Tn			
+6	api	8	0	api{avya}	api{avya}	sambanXaH,5	BI	better_than_that				
+7	ca	6	cowwamaH	ca{avya}	ca{avya}	sambanXaH,8.2	Ora	and				
+8	uwwamaH	9	0	uwwama{puM}{1;eka}	uwwama{puM}{1;eka}	viXeya_viSeRaNam,8.2	uwwama	the_best				
+8.1	(aham)	2	(0)	asmax{1;eka}	asmax{1;eka}	karwA,8.2	mEM	I				
+8.2	(asmi)	10	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,8.1;akarmakaH	(hUz)	am				
+9	awaH	11	awoZsmi	awaH{avya}	awaH{avya}	hewuH,10	isaliye	therefore				
+10	asmi	17	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,15;akarmakaH	hUz	am				
+11	loke	12	loke	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	sup_samucciwaH,12	loka_meM	in_the_world				
+12	vexe	14	vexe	vexa{puM}{7;eka}	vexa{puM}{7;eka}	aXikaraNam,10	vexa_meM	in_the_Vedic_literature				
+13	ca	13	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora	and				
+14	praWiwaH	16	praWiwaH	praWiwa{puM}{1;eka}	praWiwa{puM}{1;eka}	viXeya_viSeRaNam,10	prasixXa	celebrated				
+15	puruRa-uwwamaH	15	puruRowwamaH	puruRa-uwwama{puM}{1;eka}	puruRa-uwwama{puM}{1;eka}	karwA,10	puruRowwama_nAma_se	as_the_Supreme_Personality	<puruRa-uwwamaH>T7			

@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wam	3	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	karma,2	usako	that				
-2	vixyAw	4	vixyAxxuHKasaMyogaviyogaM	vix1{karwari;viXilif;pra;eka;parasmEpaxI;vixaz;axAxiH}/vix1{karwari;ASIrlif;pra;eka;parasmEpaxI;vixaz;axAxiH}/vix3{karwari;ASIrlif;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	vix1{karwari;viXilif;pra;eka;parasmEpaxI;vixaz;axAxiH}		jAnanA_cAhiye	must_know				
-3	xuHKa-saMyoga-viyogam	1	0	xuHKa-saMyoga-viyoga{puM}{2;eka}/viyoga{napuM}{1;eka}/viyoga{napuM}{2;eka}	xuHKa-saMyoga-viyoga{napuM}{2;eka}	viSeRaNam,1	xuHKarUpa_saMsAra_ke_saMyoga_se_rahiwa	extermination_from_miseries_of_material_contact	<<xuHKa-saMyoga>T3-viyogaM>T3			
-4	yoga-saFjFiwam	2	yogasaFjFiwam	yoga-saFjFiwa{puM}{2;eka}/saFjFiwa{napuM}{1;eka}/saFjFiwa{napuM}{2;eka}	yoga-saFjFiwa{napuM}{2;eka}	viSeRaNam,1	jisakA_nAma_yoga_hE	trance_in_yoga	<yoga-saFjFiwam>K7			
-5	saH	5	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,8	vaha	that				
-6	niScayena	8	niScayena	niScaya{puM}{3;eka}	niScaya{puM}{3;eka}	kriyAviSeRaNam,7	niScayapUrvaka	with_firm_determination				
-7	yokwavyaH	9	yokwavyo	yokwavya{puM}{1;eka}	yuj2{kqw_prawyayaH:wavyaw;yujizr;ruXAxiH;puM}{1;eka}		karanA_karwavya_hE	must_be_practiced				
-8	yogaH	6	yogoZnirviNNacewasA	yoga{puM}{1;eka}	yoga{puM}{1;eka}	karma,7	yoga	practice_in_yoga_system				
-9	a-nirviNNa-cewasA	7	0	a-nirviNNa-cewas{napuM}{3;eka}	anirviNNa-cewas{napuM}{3;eka}	karwA,7	na_ukawAye_hue_arWAw_XErya_Ora_uwsAhayukwa_ciwwa_se	without_Deviation	<<na-nirviNNa>Tn-cewasA>T3			
+1	तम्	3	तं	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	कर्म,2	उसको	ट्हट्				
+2	विद्यात्	4	विद्याद्दुःखसंयोगवियोगं	विद्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;विदँ;अदादिः}/विद्1{कर्तरि;आशीर्लिङ्;प्र;एक;परस्मैपदी;विदँ;अदादिः}/विद्3{कर्तरि;आशीर्लिङ्;प्र;एक;परस्मैपदी;विदॢँ;तुदादिः}	विद्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;विदँ;अदादिः}		जानना_चाहिये	मुस्ट्_क्नोत्				
+3	दुःख-संयोग-वियोगम्	1	0	दुःख-संयोग-वियोग{पुं}{2;एक}/वियोग{नपुं}{1;एक}/वियोग{नपुं}{2;एक}	दुःख-संयोग-वियोग{नपुं}{2;एक}	विशेषणम्,1	दुःखरूप_संसार_के_संयोग_से_रहित	एद्टेर्मिनटिओन्_ङ्रोम्_मिसेरिएस्_ओङ्_मटेरिअल्_चोन्टच्ट्	<<दुःख-संयोग>ठ्3-वियोगं>ठ्3			
+4	योग-सञ्ज्ञितम्	2	योगसञ्ज्ञितम्	योग-सञ्ज्ञित{पुं}{2;एक}/सञ्ज्ञित{नपुं}{1;एक}/सञ्ज्ञित{नपुं}{2;एक}	योग-सञ्ज्ञित{नपुं}{2;एक}	विशेषणम्,1	जिसका_नाम_योग_है	ट्रन्चे_इन्_योग	<योग-सञ्ज्ञितम्>ख्7			
+5	सः	5	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	विशेषणम्,8	वह	ट्हट्				
+6	निश्चयेन	8	निश्चयेन	निश्चय{पुं}{3;एक}	निश्चय{पुं}{3;एक}	क्रियाविशेषणम्,7	निश्चयपूर्वक	तिट्ह्_ङिर्म्_डेटेर्मिनटिओन्				
+7	योक्तव्यः	9	योक्तव्यो	योक्तव्य{पुं}{1;एक}	युज्2{कृत्_प्रत्ययः:तव्यत्;युजिँर्;रुधादिः;पुं}{1;एक}		करना_कर्तव्य_है	मुस्ट्_बे_प्रच्टिचेड्				
+8	योगः	6	योगोऽनिर्विण्णचेतसा	योग{पुं}{1;एक}	योग{पुं}{1;एक}	कर्म,7	योग	प्रच्टिचे_इन्_योग_स्य्स्टेम्				
+9	अ-निर्विण्ण-चेतसा	7	0	अ-निर्विण्ण-चेतस्{नपुं}{3;एक}	अनिर्विण्ण-चेतस्{नपुं}{3;एक}	कर्ता,7	न_उकताये_हुए_अर्थात्_धैर्य_और_उत्साहयुक्त_चित्त_से	तिट्होउट्_ढेविअटिओन्	<<न-निर्विण्ण>ठ्न्-चेतसा>ठ्3			

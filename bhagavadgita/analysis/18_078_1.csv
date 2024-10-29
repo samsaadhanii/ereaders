@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yawra	1	yawra	yawra{avya}	yawra{avya}	aXikaraNam,3.1;niwya_sambanXaH,7	jahAz	where				
-2	yoga-ISvaraH	2	yogeSvaraH	yogeSvara{puM}{1;eka}	yogeSvara{puM}{1;eka}	viSeRaNam,3	yogeSvara	the_master_of_mysticism	<yoga-ISvaraH>T6			
-3	kqRNaH	3	kqRNo	kqRNa{puM}{1;eka}	kqRNa{puM}{1;eka}	karwA,3.1	BagavAn_SrIkqRNa	Lord_Krsna				
-3.1	(aswi)	4	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,3;akarmakaH	(hEM)	is				
-4	yawra	5	yawra	yawra{avya}	yawra{avya}	aXikaraNam,6.1;niwya_sambanXaH,7	jahAz	where				
-5	pArWaH	7	pArWo	pArWa{puM}{1;eka}	pArWa{puM}{1;eka}	karwA,6.1	arjuna	the_son_of_Prtha				
-6	XanuR-XaraH	6	XanurXaraH	XanurXara{puM}{1;eka}	XanurXara{puM}{1;eka}	viSeRaNam,5	gANdIva-XanuRaXArI	the_carrier_of_the_bow_and_arrow	<XanuR-XaraH>U			
-6.1	(aswi)	8	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hEM)	is				
-7	wawra	9	wawra	wawra{avya}	wawra{avya}	aXikaraNam,	vahIM_para	there				
-8	SrIH	10	SrIrvijayo	SrI{swrI}{1;eka}	SrI{swrI}{1;eka}	sup_samucciwaH,12	SrI	opulence				
-9	vijayaH	11	0	vijaya{puM}{1;eka}	vijaya{puM}{1;eka}	sup_samucciwaH,12	vijaya	victory				
-10	BUwiH	12	BUwirXruvA	BUwi{swrI}{1;eka}	BUwi{swrI}{1;eka}	sup_samucciwaH,12	viBUwi	exceptional_power				
-11	XruvA	13	0	XruvA{swrI}{1;eka}	XruvA{swrI}{1;eka}	viSeRaNam,12	acala	certain				
-12	nIwiH	14	nIwirmawirmama	nIwi{swrI}{1;eka}	nIwi{swrI}{1;eka}	karwA,12.3	nIwi	morality				
-12.1	(ca)	14.1	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,12	(Ora)	also				
-12.2	(aswi)	14.2	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				
-12.3	(iwi)	14.3	(0)	(iwi{avya})	(iwi{avya})	sambanXaH,13	(EsA)	thus				
-13	mawiH	16	0	mawi{swrI}{1;eka}	mawi{swrI}{1;eka}	karwA,14.1	mawa	opinion				
-14	mama	15	0	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,13	merA	My				
-14.1	(aswi)	16.1	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,13;akarmakaH	(hE)	is				
+1	यत्र	1	यत्र	यत्र{अव्य}	यत्र{अव्य}	अधिकरणम्,3.1;नित्य_सम्बन्धः,7	जहाँ	त्हेरे				
+2	योग-ईश्वरः	2	योगेश्वरः	योगेश्वर{पुं}{1;एक}	योगेश्वर{पुं}{1;एक}	विशेषणम्,3	योगेश्वर	ट्हे_मस्टेर्_ओङ्_म्य्स्टिचिस्म्	<योग-ईश्वरः>ठ्6			
+3	कृष्णः	3	कृष्णो	कृष्ण{पुं}{1;एक}	कृष्ण{पुं}{1;एक}	कर्ता,3.1	भगवान्_श्रीकृष्ण	ऌओर्ड्_ख्र्स्न				
+3.1	(अस्ति)	4	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,3;अकर्मकः	(हैं)	इस्				
+4	यत्र	5	यत्र	यत्र{अव्य}	यत्र{अव्य}	अधिकरणम्,6.1;नित्य_सम्बन्धः,7	जहाँ	त्हेरे				
+5	पार्थः	7	पार्थो	पार्थ{पुं}{1;एक}	पार्थ{पुं}{1;एक}	कर्ता,6.1	अर्जुन	ट्हे_सोन्_ओङ्_फ्र्ट्ह				
+6	धनुष्-धरः	6	धनुर्धरः	धनुर्धर{पुं}{1;एक}	धनुर्धर{पुं}{1;एक}	विशेषणम्,5	गाण्डीव-धनुषधारी	ट्हे_चर्रिएर्_ओङ्_ट्हे_बोत्_अन्ड्_अर्रोत्	<धनुष्-धरः>ऊ			
+6.1	(अस्ति)	8	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,5;अकर्मकः	(हैं)	इस्				
+7	तत्र	9	तत्र	तत्र{अव्य}	तत्र{अव्य}	अधिकरणम्,	वहीं_पर	ट्हेरे				
+8	श्रीः	10	श्रीर्विजयो	श्री{स्त्री}{1;एक}	श्री{स्त्री}{1;एक}	सुप्_समुच्चितः,12	श्री	ओपुलेन्चे				
+9	विजयः	11	0	विजय{पुं}{1;एक}	विजय{पुं}{1;एक}	सुप्_समुच्चितः,12	विजय	विच्टोर्य्				
+10	भूतिः	12	भूतिर्ध्रुवा	भूति{स्त्री}{1;एक}	भूति{स्त्री}{1;एक}	सुप्_समुच्चितः,12	विभूति	एद्चेप्टिओनल्_पोतेर्				
+11	ध्रुवा	13	0	ध्रुवा{स्त्री}{1;एक}	ध्रुवा{स्त्री}{1;एक}	विशेषणम्,12	अचल	चेर्टइन्				
+12	नीतिः	14	नीतिर्मतिर्मम	नीति{स्त्री}{1;एक}	नीति{स्त्री}{1;एक}	कर्ता,12.3	नीति	मोरलिट्य्				
+12.1	(च)	14.1	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,12	(और)	अल्सो				
+12.2	(अस्ति)	14.2	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,12;अकर्मकः	(है)	इस्				
+12.3	(इति)	14.3	(0)	(इति{अव्य})	(इति{अव्य})	सम्बन्धः,13	(ऐसा)	ट्हुस्				
+13	मतिः	16	0	मति{स्त्री}{1;एक}	मति{स्त्री}{1;एक}	कर्ता,14.1	मत	ओपिनिओन्				
+14	मम	15	0	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,13	मेरा	ंय्				
+14.1	(अस्ति)	16.1	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,13;अकर्मकः	(है)	इस्				

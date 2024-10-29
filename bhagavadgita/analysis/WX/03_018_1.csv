@@ -1,0 +1,19 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	4	nEva	na{avya}	na{avya}	prawiReXaH,4	na	no				
+2	eva	5	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
+3	wasya	1	wasya	wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	wax{sarvanAma;puM;6;eka}	RaRTIsambanXaH,4	usakA_(mahApuruRa_kA)	that_(great_soul)				
+4	kqwena	2	kqwenArWo	kqwa{napuM;3;eka}/kqwa{puM;3;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{napuM;3;eka(kq3;kwa;dukqF;:wanAxiH)}/kqwa{puM;3;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{napuM;3;eka(kq2;kwa;kqF;:svAxiH)}/kqwa{puM;3;eka(kq1;kwa;kqF;:BvAxiH)}/kqwa{napuM;3;eka(kq1;kwa;kqF;:BvAxiH)}	kqwa{napuM;3;eka(kq1;kwa;kqF;:BvAxiH)}	hewuH,5.1	karma_karane_se	by_action				
+5	arWaH	3	0	arWa{puM;1;eka}	arWa{puM;1;eka}	karwA,5.1	prayojana	to_gain				
+5.1	(aswi)	6	(0)	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,5;akarmakaH	(rahawA_hE)	is				
+6	na	10	nAkqweneha	na{avya}	na{avya}	prawiReXaH,9.1	na	nor				
+7	a-kqwena	8	0	a-kqwa{napuM;3;eka}/a-kqwa{puM;3;eka(kq3;kwa;dukqF;:wanAxiH)}/a-kqwa{napuM;3;eka(kq3;kwa;dukqF;:wanAxiH)}/a-kqwa{puM;3;eka(kq2;kwa;kqF;:svAxiH)}/a-kqwa{napuM;3;eka(kq2;kwa;kqF;:svAxiH)}/a-kqwa{puM;3;eka(kq1;kwa;kqF;:BvAxiH)}/a-kqwa{napuM;3;eka(kq1;kwa;kqF;:BvAxiH)}	a-kqwa{napuM;3;eka(a-kq1;kwa;kqF;:BvAxiH)}	hewuH,9.1	karmoM_ke_na_karane_se	by_abstaining_from_action	<na-kqwena>Tn			
+8	iha	7	0	iha{avya}	iha{avya}	xeSAXikaraNam,9.1	yahAz_(isa_viSva_meM)	in_this_(world)				
+9	kaScana	9	kaScana	kiFcana{sarvanAma;puM;1;eka}	kiFcana{sarvanAma;puM;1;eka}	karwA,9.1	koI	whatever				
+9.1	(aswi)	11	(0)	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	aBihiwa_karwA,4;akarmakaH	(rahawA_hE)	is				
+10	na	17	na	na{avya}	na{avya}	prawiReXaH,15.1	waWA	and				
+11	ca	13	cAsya	ca{avya}	ca{avya}	sambanXaH,10	waWA	and				
+12	asya	12	0	ixam{sarvanAma;puM;6;eka}/ixam{sarvanAma;napuM;6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;:xivAxiH}	ixam{sarvanAma;napuM;6;eka}	RaRTIsambanXaH,13	isakA	of_his				
+13	sarva-BUweRu	14	sarvaBUweRu	sarva-BUwa{napuM;7;bahu}/sarva-BUwa{puM;7;bahu(as2;kwa;asaz;:axAxiH)}/sarva-BUwa{napuM;7;bahu(as2;kwa;asaz;:axAxiH)}/sarva-BUwa{puM;7;bahu(BU1;kwa;BU;:BvAxiH)}/sarva-BUwa{napuM;7;bahu(BU1;kwa;BU;:BvAxiH)}	sarva-BUwa{napuM;7;bahu(sarva-BU1;kwa;BU;:BvAxiH)}	nirXAraNam,14	sampUrNa_prANiyoM_meM	on_any_creature	<sarva-BUweRu>K1			
+14	kaSciw	15	kaScixarWavyapASrayaH	kiFciw{sarvanAma;puM;1;eka}	kiFciw{sarvanAma;puM;1;eka}	viSeRaNam,15	kiMcinmAwra_BI	of_any_kind				
+15	arWa-vyapASrayaH	16	0	arWa-vyapASraya{puM;1;eka}	arWa-vyapASraya{puM;1;eka}	karwA,15.1	svArWa_kA_sambanXa	selfish_dependence	<arWa-vyapASrayaH>T7			
+15.1	(Bavawi)	18	(0)	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}/BavawI{swrI;8;eka}/Bavaw{sarvanAma;puM;7;eka}/Bavaw{puM;7;eka}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;:BvAxiH}	aBihiwa_karwA,15;akarmakaH	(rahawA)	has				

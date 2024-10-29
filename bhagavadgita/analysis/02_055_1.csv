@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	prajahAwi	7	prajahAwi	pra_hA1{karwari;lat;pra;eka;AwmanepaxI;ozhAf;juhowyAxiH}/pra_hA2{karwari;lat;pra;eka;parasmEpaxI;ozhAk;juhowyAxiH}	pra_hA2{karwari;lat;pra;eka;parasmEpaxI;pra_ozhAf;juhowyAxiH}	aBihiwa_karma,3;sakarmaka	BalIBAzwi_wyAga_xewA_hE	thoroughly_casts_off				
-2	yaxA	6	yaxA	yaxA{avya}	yaxA{avya}	niwya_sambanXaH,12	jisa_kAla_meM	when				
-3	kAmAn	4	kAmAnsarvAnpArWa	kAma{puM}{2;bahu}	kAma{puM}{2;bahu}	karma,1	kAmanAoM_ko	cravings				
-4	sarvAn	5	0	sarva{puM}{2;bahu}	sarva{puM}{2;bahu}	viSeRaNam,3	saBI	all				
-5	pArWa	1	0	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,1	he_arjuna	O_son_of_Prtha				
-6	mana-gawAn	3	manogawAn	manogawa{puM}{2;bahu}	manaH-gawa{puM}{2;bahu}	viSeRaNam,3	mana_meM_sWiwa	of_the_mind	<manaH-gawAn>T7			
-7	Awmani	11	AwmanyevawmanA	Awman{puM}{7;eka}	Awman{puM}{7;eka}	aXikaraNam,10	AwmA_meM	in_the_Self				
-8	eva	12	0	eva{avya}	eva{avya}	sambanXaH,7	hI	certainly				
-9	AwmanA	10	0	Awman{puM}{3;eka}	Awman{puM}{3;eka}	karaNam,10	AwmA_se	through_the_joy_of_the_Self				
-10	wuRtaH	14	wuRtaH	wuRta{puM}{1;eka}	wuR1{kqw_prawyayaH:kwa;wuRaz;xivAxiH;puM}{1;eka}	karma,13	saMwuRta	satisfied				
-11	sWiwa-prajFaH	13	sWiwaprajFaswaxocyawe	sWiwaprajFa{puM}{1;eka}	sWiwa-prajFa{puM}{1;eka}	karmasamAnAXikaraNam,10	sWiwaprajFa	stable_of_mind	<sWiwa-prajFaH>Bs6			
-12	waxA	8	0	waxA{avya}	waxA{avya}	kAlAXikaraNam,10	usa_kAla_meM	then				
-12.1	(saH)	9	()		wax{sarvanAma;puM;1;eka}	karwA,10						
-12.2	(iwi)	15	()		iwi{avya	vAkyakarma_xyowakaH,10						
-13	ucyawe	16	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karma,10;sakarmaka	kahA_jAwA_hE	is_called				
-14	(naraH)	2	(0)	(nq{puM}{1;bahu}/nq{puM}{8;bahu}/nara{puM}{1;eka})	(nara{puM}{1;eka})	karwA,1	(manuRya)	man				
+1	प्रजहाति	7	प्रजहाति	प्र_हा1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;ओँहाङ्;जुहोत्यादिः}/प्र_हा2{कर्तरि;लट्;प्र;एक;परस्मैपदी;ओँहाक्;जुहोत्यादिः}	प्र_हा2{कर्तरि;लट्;प्र;एक;परस्मैपदी;प्र_ओँहाङ्;जुहोत्यादिः}	अभिहित_कर्म,3;सकर्मक	भलीभाँति_त्याग_देता_है	ट्होरोउग्ह्ल्य्_चस्ट्स्_ओङ्ङ्				
+2	यदा	6	यदा	यदा{अव्य}	यदा{अव्य}	नित्य_सम्बन्धः,12	जिस_काल_में	त्हेन्				
+3	कामान्	4	कामान्सर्वान्पार्थ	काम{पुं}{2;बहु}	काम{पुं}{2;बहु}	कर्म,1	कामनाओं_को	च्रविन्ग्स्				
+4	सर्वान्	5	0	सर्व{पुं}{2;बहु}	सर्व{पुं}{2;बहु}	विशेषणम्,3	सभी	अल्ल्				
+5	पार्थ	1	0	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,1	हे_अर्जुन	औ_सोन्_ओङ्_फ्र्ट्ह				
+6	मन-गतान्	3	मनोगतान्	मनोगत{पुं}{2;बहु}	मनः-गत{पुं}{2;बहु}	विशेषणम्,3	मन_में_स्थित	ओङ्_ट्हे_मिन्ड्	<मनः-गतान्>ठ्7			
+7	आत्मनि	11	आत्मन्येवत्मना	आत्मन्{पुं}{7;एक}	आत्मन्{पुं}{7;एक}	अधिकरणम्,10	आत्मा_में	इन्_ट्हे_शेल्ङ्				
+8	एव	12	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,7	ही	चेर्टइन्ल्य्				
+9	आत्मना	10	0	आत्मन्{पुं}{3;एक}	आत्मन्{पुं}{3;एक}	करणम्,10	आत्मा_से	ट्ह्रोउग्ह्_ट्हे_जोय्_ओङ्_ट्हे_शेल्ङ्				
+10	तुष्टः	14	तुष्टः	तुष्ट{पुं}{1;एक}	तुष्1{कृत्_प्रत्ययः:क्त;तुषँ;दिवादिः;पुं}{1;एक}	कर्म,13	संतुष्ट	सटिस्ङिएड्				
+11	स्थित-प्रज्ञः	13	स्थितप्रज्ञस्तदोच्यते	स्थितप्रज्ञ{पुं}{1;एक}	स्थित-प्रज्ञ{पुं}{1;एक}	कर्मसमानाधिकरणम्,10	स्थितप्रज्ञ	स्टब्ले_ओङ्_मिन्ड्	<स्थित-प्रज्ञः>भ्स्6			
+12	तदा	8	0	तदा{अव्य}	तदा{अव्य}	कालाधिकरणम्,10	उस_काल_में	ट्हेन्				
+12.1	(सः)	9	()		तद्{सर्वनाम;पुं;1;एक}	कर्ता,10						
+12.2	(इति)	15	()		इति{अव्य	वाक्यकर्म_द्योतकः,10						
+13	उच्यते	16	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहित_कर्म,10;सकर्मक	कहा_जाता_है	इस्_चल्लेड्				
+14	(नरः)	2	(0)	(नृ{पुं}{1;बहु}/नृ{पुं}{8;बहु}/नर{पुं}{1;एक})	(नर{पुं}{1;एक})	कर्ता,1	(मनुष्य)	मन्				

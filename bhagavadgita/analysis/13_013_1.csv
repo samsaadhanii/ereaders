@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sarvawaH-pANi-pAxam	1	sarvawaHpANipAxaM	sarvawaH-pANin-pAxa{puM}{2;eka}	sarvawaH-pANi-pAxa{napuM}{1;eka}	viSeRaNam,2	saba_ora_hAWa-pEravAlA	everywhere_hands_and_legs	<sarvawaH-<pANi-pAxaM>Ds>Bs6			
-2	waw	4	wawsarvawoZkRiSiromuKam	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,8	vaha	that				
-3	sarvawaH-akRi-SiraH-muKam	2		sarvawaH-akRi-Siras-muKa{puM}{2;eka}/muKa{napuM}{1;eka}/muKa{napuM}{2;eka}	sarvawaH-akRi-Siras-muKa{napuM}{1;eka}	viSeRaNam,2	saba_ora_newra_sira_Ora_muKavAlA	everywhere_eyes_head_and_face	<sarvawaH-<akRi-SiraH-muKam>Ds>Bs6			
-4	sarvawaH-Sruwimaw	3	sarvawaHSruwimalloke	sarvawaH-Sruwimaw{napuM}/Sruwimaw{puM}/Sruwimaw{napuM}/Sruwimaw{puM}	sarvawaH-Sruwimaw{napuM}{1;eka}	viSeRaNam,2	saba_ora_kAnavAlA	everywhere_hearing				
-5	loke	5	0	loka{puM}{7;eka}/lok1{karwari;lat;u;eka;AwmanepaxI;lokqz;BvAxiH}	loka{puM}{7;eka}	aXikaraNam,8	saMsAra_meM	in_the_world				
-6	sarvam	6	sarvamAvqwya	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{puM}{2;eka}	karma,7	sabako	everything				
-7	Avqwya	7	0	Af_vq1{kqw_prawyayaH:lyap;vq;BvAxiH}/Af_vq2{kqw_prawyayaH:lyap;vqF;svAxiH}/Af_vq4{kqw_prawyayaH:lyap;vqF;curAxiH}/Af_vqw1{kqw_prawyayaH:lyap;vqwuz;BvAxiH}/Af_vqw2{kqw_prawyayaH:lyap;vqwuz;xivAxiH}/Af_vqw3{kqw_prawyayaH:lyap;vqwuz;curAxiH}	Af_vq2{kqw_prawyayaH:lyap;Af_vqF;svAxiH}	pUrvakAlaH,8	vyApwa_karake	covering				
-8	wiRTawi	8	wiRTawi	wiRTaw{puM}{7;eka}/wiRTaw{napuM}{7;eka}/sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}	sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}	aBihiwakarwA,2;akarmakaH	sWiwa_hE	exists				
+1	सर्वतः-पाणि-पादम्	1	सर्वतःपाणिपादं	सर्वतः-पाणिन्-पाद{पुं}{2;एक}	सर्वतः-पाणि-पाद{नपुं}{1;एक}	विशेषणम्,2	सब_ओर_हाथ-पैरवाला	एवेर्य्त्हेरे_हन्ड्स्_अन्ड्_लेग्स्	<सर्वतः-<पाणि-पादं>ढ्स्>भ्स्6			
+2	तत्	4	तत्सर्वतोऽक्षिशिरोमुखम्	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्ता,8	वह	ट्हट्				
+3	सर्वतः-अक्षि-शिरः-मुखम्	2		सर्वतः-अक्षि-शिरस्-मुख{पुं}{2;एक}/मुख{नपुं}{1;एक}/मुख{नपुं}{2;एक}	सर्वतः-अक्षि-शिरस्-मुख{नपुं}{1;एक}	विशेषणम्,2	सब_ओर_नेत्र_सिर_और_मुखवाला	एवेर्य्त्हेरे_एयेस्_हेअड्_अन्ड्_ङचे	<सर्वतः-<अक्षि-शिरः-मुखम्>ढ्स्>भ्स्6			
+4	सर्वतः-श्रुतिमत्	3	सर्वतःश्रुतिमल्लोके	सर्वतः-श्रुतिमत्{नपुं}/श्रुतिमत्{पुं}/श्रुतिमत्{नपुं}/श्रुतिमत्{पुं}	सर्वतः-श्रुतिमत्{नपुं}{1;एक}	विशेषणम्,2	सब_ओर_कानवाला	एवेर्य्त्हेरे_हेअरिन्ग्				
+5	लोके	5	0	लोक{पुं}{7;एक}/लोक्1{कर्तरि;लट्;उ;एक;आत्मनेपदी;लोकृँ;भ्वादिः}	लोक{पुं}{7;एक}	अधिकरणम्,8	संसार_में	इन्_ट्हे_तोर्ल्ड्				
+6	सर्वम्	6	सर्वमावृत्य	सर्व{पुं}{2;एक}/सर्व{नपुं}{1;एक}/सर्व{नपुं}{2;एक}	सर्व{पुं}{2;एक}	कर्म,7	सबको	एवेर्य्ट्हिन्ग्				
+7	आवृत्य	7	0	आङ्_वृ1{कृत्_प्रत्ययः:ल्यप्;वृ;भ्वादिः}/आङ्_वृ2{कृत्_प्रत्ययः:ल्यप्;वृञ्;स्वादिः}/आङ्_वृ4{कृत्_प्रत्ययः:ल्यप्;वृञ्;चुरादिः}/आङ्_वृत्1{कृत्_प्रत्ययः:ल्यप्;वृतुँ;भ्वादिः}/आङ्_वृत्2{कृत्_प्रत्ययः:ल्यप्;वृतुँ;दिवादिः}/आङ्_वृत्3{कृत्_प्रत्ययः:ल्यप्;वृतुँ;चुरादिः}	आङ्_वृ2{कृत्_प्रत्ययः:ल्यप्;आङ्_वृञ्;स्वादिः}	पूर्वकालः,8	व्याप्त_करके	चोवेरिन्ग्				
+8	तिष्ठति	8	तिष्ठति	तिष्ठत्{पुं}{7;एक}/तिष्ठत्{नपुं}{7;एक}/स्था1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ष्ठा;भ्वादिः}	स्था1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ष्ठा;भ्वादिः}	अभिहितकर्ता,2;अकर्मकः	स्थित_है	एदिस्ट्स्				

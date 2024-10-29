@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xoREH	3	xoRErewEH	xoRa{puM}{3;bahu}	xoRa{puM}{3;bahu}	prayojakakarwA,5	xoRoM_se	through_evils				
-2	ewEH	1	0	ewax{puM}{3;bahu}/ewax{napuM}{3;bahu}	ewax{puM}{3;bahu}	viSeRaNam,1	ina	through_these				
-3	kula-GnAnAm	4	kulaGnAnAM	kulaGna{puM}{6;bahu}	kulaGna{puM}{6;bahu}	RaRTIsambanXaH,1	kulaGAwiyoM_ke	of_the_killers_of_kinsmen	<kula-GnAnAm>U			
-4	varNa-safkara-kArakEH	2	varNasafkarakArakEH	varNa-safkara-kAraka{puM}{3;bahu}/kAraka{napuM}{3;bahu}	varNa-safkara-kAraka{puM}{3;bahu}	viSeRaNam,1	varNasafkarakAraka	through_bringing_about_an_intermixture_of_castes	<<varNa-safkara>T6-kArakEH>T6			
-5	uwsAxyanwe	9	uwsAxyanwe	uwsAxyanwe	uw_sax1{karmaNi;lat;pra;bahu;AwmanepaxI;uw_RaxLz;BvAxiH}	aBihiwakarma,7;sakarmakaH	naRta_ho_jAwe_hEM	get_extinct				
-6	jAwi-XarmAH	6	jAwiXarmAH	jAwi-Xarma{puM}{1;bahu}	jAwi-Xarma{puM}{1;bahu}	sup_samucciwaH,8	jAwi-Xarma	family_customs	<jAwi-XarmAH>T6			
-7	kula-XarmAH	7	kulaXarmASca	kula-Xarma{puM}{1;bahu}	kula-Xarma{puM}{1;bahu}	prayojyakarwA,5	kula-Xarma	caste_traditions	<kula-XarmAH>T6			
-8	ca	8	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	Ora	and				
-9	SASvawAH	5	SASvawAH	SASvawa{puM}{1;bahu}	SASvawa{puM}{1;bahu}	viSeRaNam,7	sanAwana	age-long				
+1	दोषैः	3	दोषैरेतैः	दोष{पुं}{3;बहु}	दोष{पुं}{3;बहु}	प्रयोजककर्ता,5	दोषों_से	ट्ह्रोउग्ह्_एविल्स्				
+2	एतैः	1	0	एतद्{पुं}{3;बहु}/एतद्{नपुं}{3;बहु}	एतद्{पुं}{3;बहु}	विशेषणम्,1	इन	ट्ह्रोउग्ह्_ट्हेसे				
+3	कुल-घ्नानाम्	4	कुलघ्नानां	कुलघ्न{पुं}{6;बहु}	कुलघ्न{पुं}{6;बहु}	षष्ठीसम्बन्धः,1	कुलघातियों_के	ओङ्_ट्हे_किल्लेर्स्_ओङ्_किन्स्मेन्	<कुल-घ्नानाम्>ऊ			
+4	वर्ण-सङ्कर-कारकैः	2	वर्णसङ्करकारकैः	वर्ण-सङ्कर-कारक{पुं}{3;बहु}/कारक{नपुं}{3;बहु}	वर्ण-सङ्कर-कारक{पुं}{3;बहु}	विशेषणम्,1	वर्णसङ्करकारक	ट्ह्रोउग्ह्_ब्रिन्गिन्ग्_अबोउट्_अन्_इन्टेर्मिद्टुरे_ओङ्_चस्टेस्	<<वर्ण-सङ्कर>ठ्6-कारकैः>ठ्6			
+5	उत्साद्यन्ते	9	उत्साद्यन्ते	उत्साद्यन्ते	उत्_सद्1{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;उत्_षदॢँ;भ्वादिः}	अभिहितकर्म,7;सकर्मकः	नष्ट_हो_जाते_हैं	गेट्_एद्टिन्च्ट्				
+6	जाति-धर्माः	6	जातिधर्माः	जाति-धर्म{पुं}{1;बहु}	जाति-धर्म{पुं}{1;बहु}	सुप्_समुच्चितः,8	जाति-धर्म	ङमिल्य्_चुस्टोम्स्	<जाति-धर्माः>ठ्6			
+7	कुल-धर्माः	7	कुलधर्माश्च	कुल-धर्म{पुं}{1;बहु}	कुल-धर्म{पुं}{1;बहु}	प्रयोज्यकर्ता,5	कुल-धर्म	चस्टे_ट्रडिटिओन्स्	<कुल-धर्माः>ठ्6			
+8	च	8	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,7	और	अन्ड्				
+9	शाश्वताः	5	शाश्वताः	शाश्वत{पुं}{1;बहु}	शाश्वत{पुं}{1;बहु}	विशेषणम्,7	सनातन	अगे-लोन्ग्				

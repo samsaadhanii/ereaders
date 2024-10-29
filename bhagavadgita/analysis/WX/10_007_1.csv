@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ewAm	3	ewAM	ewA{swrI}{2;eka}/ewax{swrI}{2;eka}/Af_i1{karwari;lot;pra;xvi;parasmEpaxI;iN;axAxiH}	ewax{swrI}{2;eka}	viSeRaNam,2	isa	all_this				
+2	vi-BUwim	4	viBUwiM	vi-BUwi{swrI}{2;eka}	viBUwi{swrI}{2;eka}	sup_samucciwaH,4	paramESvaryarUpa_viBUwi_ko	opulence	<vi-BUwiM>Bvp			
+3	yogam	5	yogaM	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,7	yogaSakwi_ko	mystic_power				
+4	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	also				
+5	mama	2	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,2	merI	mine				
+6	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,7;niwya_sambanXaH,9	jo_(puruRa)	anyone				
+7	vewwi	8	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,6;sakarmakaH	jAnawA_hE	knows				
+8	wawwvawaH	7	wawwvawaH	wawwvawaH{avya}	wawwvawaH{avya}	kriyAviSeRaNam,7	wawwva_se	factual				
+9	saH	9	soZvikampena	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,12	vaha	he				
+10	a-vi-kampena	10	0	a-vi-kampa{puM}{3;eka}	na-vikampa{puM}{3;eka}	viSeRaNam,11	niScala	steady	<na-<vi-kampena>Bvp>Bsmn			
+11	yogena	11	yogena	yoga{puM}{3;eka}	yoga{puM}{3;eka}	karaNam,12	Bakwiyoga_se	in_devotional_service				
+12	yujyawe	12	yujyawe	yujyaw{puM}{4;eka}/yujyaw{napuM}{4;eka}/yujyawA{swrI}{1;xvi}/yujyawA{swrI}{2;xvi}/yuj1{BAve;lat;pra;eka;AwmanepaxI;yujaz;xivAxiH}/yuj2{karmaNi;lat;pra;eka;AwmanepaxI;yujizr;ruXAxiH}	yuj2{karwari;lat;pra;eka;AwmanepaxI;yujizr;ruXAxiH}	aBihiwakarma,9;sakarmakaH	yukwa_ho_jAwA_hE	engaged				
+13	na	15	nAwra	na{avya}	na{avya}	prawiReXaH,15.1	nahIM	never				
+14	awra	13	0	awra{avya}	awra{avya}	aXikaraNam,15.1	isameM	here				
+15	saMSayaH	14	saMSayaH	saMSaya{puM}{1;eka}	saMSaya{puM}{1;eka}	karwA,15.1	saMSaya	doubt				
+15.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,15;akarmakaH	(hE)	is				

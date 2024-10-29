@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	brahma	2	brahmArpaNaM	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	viXeya_viSeRaNam,2.1	brahma	the_Supreme				
-2	arpaNam	1		arpaNa{napuM}{1;eka}/arpaNa{napuM}{2;eka}	arpaNa{napuM}{1;eka}	karwA,2.1	(jisa_yajFa_meM)_arpaNa_arWAw_sruvA_Axi	contribution				
-2.1	(aswi)	3	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
-3	brahma	5	brahma	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	viXeya_viSeRaNam,4.1	brahma	spiritual_in_nature				
-4	haviH	4	havirbrahmAgnO	havis{napuM}{1;eka}/havis{napuM}{2;eka}	havis{napuM}{1;eka}	karwA,4.1	havana_kiye_jAne_yogya_xravya	butter				
-4.1	(aswi)	6	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hE)	is				
-5	brahma-agnO	8		brahmA-agni{puM}{7;eka}	brahma-agni{puM}{7;eka}	aXikaraNam,7	brahmarUpa_Agni_meM	spiritual_in_the_fire_of_consummation	<brahma-agnO>K6			
-6	brahmaNA	7	brahmaNA	brahman{puM}{3;eka}/brahman{napuM}{3;eka}	brahman{napuM}{3;eka}	karwA,7	brahmarUpa_karwA_ke_xvArA	by_the_spirit_soul				
-7	huwam	9	huwam	huwa{puM}{2;eka}/huwa{napuM}{1;eka}/huwa{napuM}{2;eka}	hu1{kqw_prawyayaH:kwa;hu;juhowyAxiH;napuM}{1;eka}		Ahuwi_xenArUpa_kriyA	offered				
-8	brahma	12	brahmEva	brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karma,11	brahma	spiritual_kingdom				
-9	eva	13		eva{avya}	eva{avya}	sambanXaH,8	hI	certainly				
-10	wena	10	wena	wax{puM}{3;eka}/wax{napuM}{3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;wanAxiH}	wax{puM}{3;eka}	viSeRaNam,12	usa	by_him				
-11	ganwavyam	14	ganwavyaM	ganwavya{puM}{2;eka}/ganwavya{napuM}{1;eka}/ganwavya{napuM}{2;eka}	gam1{kqw_prawyayaH:wavyaw;gamLz;BvAxiH;napuM}{1;eka}	aBihiwakarma,8;sakarmakaH	prApwa_kiye_jAneyogya_hE	to_be_reached				
-12	brahma-karma-samAXinA	11	brahmakarmasamAXinA	brahman-karman-samAXi{puM}{3;eka}	brahman-karman-samAXi{puM}{3;eka}	karwA,11	brahmakarma_meM_sWiwa_rahanevAle_yogI_xvArA	by_complete_absorption_in_spiritual_activities	<<brahma-karma>K6-samAXinA>Bs6			
+1	ब्रह्म	2	ब्रह्मार्पणं	ब्रह्मन्{नपुं}{1;एक}/ब्रह्मन्{नपुं}{2;एक}	ब्रह्मन्{नपुं}{1;एक}	विधेय_विशेषणम्,2.1	ब्रह्म	ट्हे_शुप्रेमे				
+2	अर्पणम्	1		अर्पण{नपुं}{1;एक}/अर्पण{नपुं}{2;एक}	अर्पण{नपुं}{1;एक}	कर्ता,2.1	(जिस_यज्ञ_में)_अर्पण_अर्थात्_स्रुवा_आदि	चोन्ट्रिबुटिओन्				
+2.1	(अस्ति)	3	()	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,2;अकर्मकः	(है)	इस्				
+3	ब्रह्म	5	ब्रह्म	ब्रह्मन्{नपुं}{1;एक}/ब्रह्मन्{नपुं}{2;एक}	ब्रह्मन्{नपुं}{1;एक}	विधेय_विशेषणम्,4.1	ब्रह्म	स्पिरिटुअल्_इन्_नटुरे				
+4	हविः	4	हविर्ब्रह्माग्नौ	हविस्{नपुं}{1;एक}/हविस्{नपुं}{2;एक}	हविस्{नपुं}{1;एक}	कर्ता,4.1	हवन_किये_जाने_योग्य_द्रव्य	बुट्टेर्				
+4.1	(अस्ति)	6	()	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,4;अकर्मकः	(है)	इस्				
+5	ब्रह्म-अग्नौ	8		ब्रह्मा-अग्नि{पुं}{7;एक}	ब्रह्म-अग्नि{पुं}{7;एक}	अधिकरणम्,7	ब्रह्मरूप_आग्नि_में	स्पिरिटुअल्_इन्_ट्हे_ङिरे_ओङ्_चोन्सुम्मटिओन्	<ब्रह्म-अग्नौ>ख्6			
+6	ब्रह्मणा	7	ब्रह्मणा	ब्रह्मन्{पुं}{3;एक}/ब्रह्मन्{नपुं}{3;एक}	ब्रह्मन्{नपुं}{3;एक}	कर्ता,7	ब्रह्मरूप_कर्ता_के_द्वारा	ब्य्_ट्हे_स्पिरिट्_सोउल्				
+7	हुतम्	9	हुतम्	हुत{पुं}{2;एक}/हुत{नपुं}{1;एक}/हुत{नपुं}{2;एक}	हु1{कृत्_प्रत्ययः:क्त;हु;जुहोत्यादिः;नपुं}{1;एक}		आहुति_देनारूप_क्रिया	ओङ्ङेरेड्				
+8	ब्रह्म	12	ब्रह्मैव	ब्रह्मन्{नपुं}{1;एक}/ब्रह्मन्{नपुं}{2;एक}	ब्रह्मन्{नपुं}{1;एक}	कर्म,11	ब्रह्म	स्पिरिटुअल्_किन्ग्डोम्				
+9	एव	13		एव{अव्य}	एव{अव्य}	सम्बन्धः,8	ही	चेर्टइन्ल्य्				
+10	तेन	10	तेन	तद्{पुं}{3;एक}/तद्{नपुं}{3;एक}/तन्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;तनुँ;तनादिः}	तद्{पुं}{3;एक}	विशेषणम्,12	उस	ब्य्_हिम्				
+11	गन्तव्यम्	14	गन्तव्यं	गन्तव्य{पुं}{2;एक}/गन्तव्य{नपुं}{1;एक}/गन्तव्य{नपुं}{2;एक}	गम्1{कृत्_प्रत्ययः:तव्यत्;गमॢँ;भ्वादिः;नपुं}{1;एक}	अभिहितकर्म,8;सकर्मकः	प्राप्त_किये_जानेयोग्य_है	टो_बे_रेअच्हेड्				
+12	ब्रह्म-कर्म-समाधिना	11	ब्रह्मकर्मसमाधिना	ब्रह्मन्-कर्मन्-समाधि{पुं}{3;एक}	ब्रह्मन्-कर्मन्-समाधि{पुं}{3;एक}	कर्ता,11	ब्रह्मकर्म_में_स्थित_रहनेवाले_योगी_द्वारा	ब्य्_चोम्प्लेटे_अब्सोर्प्टिओन्_इन्_स्पिरिटुअल्_अच्टिविटिएस्	<<ब्रह्म-कर्म>ख्6-समाधिना>भ्स्6			

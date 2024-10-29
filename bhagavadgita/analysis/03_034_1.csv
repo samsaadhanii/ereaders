@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	inxriyasya	1	inxriyasyenxriyasyArWe	inxriya{puM}{6;eka}/inxriya{napuM}{6;eka}	inxriya{napuM}{6;eka}	vIpsA,2	inxriya_ke	of_the_senses				
-2	inxriyasya	2	0	inxriya{puM}{6;eka}/inxriya{napuM}{6;eka}	inxriya{napuM}{6;eka}	RaRTIsambanXaH,3	inxriya_ke	in_the_sense_objects				
-3	arWe	3	0	arWa{puM}{7;eka}/arWa{napuM}{1;xvi}/arWa{napuM}{2;xvi}/arWa{napuM}{7;eka}/arWa{napuM}{8;xvi}	arWa{puM}{7;eka}	aXikaraNam,5.1	inxriya_Bogya_viRaya_meM	in_one's_own_nature				
-4	rAga-xveRO	4	rAgaxveRO	rAga-xveRa{puM}{1;xvi}/xveRa{puM}{2;xvi}/xveRa{puM}{8;xvi}	rAga-xveRa{puM}{1;xvi}	karwA,5.1	rAga_Ora_xveRa	attachment_and_also_detachment	<rAga-xveRO>Di			
-5	vyavasWiwO	5	vyavasWiwO	vyavasWiwa{puM}{1;xvi}/vyavasWiwa{puM}{2;xvi}/vyavasWiwa{puM}{8;xvi}	vi_ava_sWA1{kqw_prawyayaH:kwa;vi_ava_RTA;BvAxiH;puM}{1;xvi}	viXeya_viSeRaNam,5.1	Cipe_hue_sWiwa	put_under_regulations				
-5.1	(swaH)	16	(0)	(swq{puM}{8;eka}/as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,4;akarmakaH	(hEM)	are				
-6	wayoH	7	wayorna	wax{puM}{6;xvi}/wax{puM}{7;xvi}/wax{swrI}{6;xvi}/wax{swrI}{7;xvi}/wax{napuM}{6;xvi}/wax{napuM}{7;xvi}	wax{puM}{6;xvi}	RaRTIsambanXaH,8	una_xonoM_ke	of_them				
-7	na	10	0	na{avya}	na{avya}	prawiReXaH,9	nahIM	never				
-8	vaSam	8	vaSamAgacCewwO	vaSa{puM}{2;eka}/vaSa{napuM}{1;eka}/vaSa{napuM}{2;eka}	vaSa{puM}{2;eka}	karma,9	vaSa_meM	control				
-9	AgacCew	11	0	Af_gam1{karwari;viXilif;pra;eka;parasmEpaxI;gamLz;BvAxiH}	Af_gam1{karwari;viXilif;pra;eka;parasmEpaxI;Af_gamLz;BvAxiH}	aBihiwa_karwA,9.1;sakarmakaH	honA_cAhiye	should_come				
-9.1	(kaScana)	9	()	kiFcana{sarvanAma}{puM}{1;eka}	kiFcana{sarvanAma}{puM}{1;eka}	karwA,9	koI	one				
-10	wO	13	0	wax{puM}{1;xvi}/wax{puM}{2;xvi}	wax{puM}{1;xvi}	karwA,13.1	ve_xonoM	those				
-11	hi	12	hyasya	hi{avya}	hi{avya}	sambanXaH,13.1	avaSya	certainly				
-12	asya	14	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	RaRTIsambanXaH,13	isake_(kalyANamArga_meM)	his				
-13	paripanWinO	15	paripanWinO	paripanWin{puM}{1;xvi}/paripanWin{puM}{2;xvi}/paripanWin{puM}{8;xvi}	paripanWin{puM}{1;xvi}	viXeya_viSeRaNam,13.1	viGna_dAlanevAle_Sawru	stumbling_blocks				
-13.1	(swaH)	6	(0)	(swq{puM}{8;eka}/as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;xvi;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,10;akarmakaH	(hEM)	are				
+1	इन्द्रियस्य	1	इन्द्रियस्येन्द्रियस्यार्थे	इन्द्रिय{पुं}{6;एक}/इन्द्रिय{नपुं}{6;एक}	इन्द्रिय{नपुं}{6;एक}	वीप्सा,2	इन्द्रिय_के	ओङ्_ट्हे_सेन्सेस्				
+2	इन्द्रियस्य	2	0	इन्द्रिय{पुं}{6;एक}/इन्द्रिय{नपुं}{6;एक}	इन्द्रिय{नपुं}{6;एक}	षष्ठीसम्बन्धः,3	इन्द्रिय_के	इन्_ट्हे_सेन्से_ओब्जेच्ट्स्				
+3	अर्थे	3	0	अर्थ{पुं}{7;एक}/अर्थ{नपुं}{1;द्वि}/अर्थ{नपुं}{2;द्वि}/अर्थ{नपुं}{7;एक}/अर्थ{नपुं}{8;द्वि}	अर्थ{पुं}{7;एक}	अधिकरणम्,5.1	इन्द्रिय_भोग्य_विषय_में	इन्_ओने'स्_ओत्न्_नटुरे				
+4	राग-द्वेषौ	4	रागद्वेषौ	राग-द्वेष{पुं}{1;द्वि}/द्वेष{पुं}{2;द्वि}/द्वेष{पुं}{8;द्वि}	राग-द्वेष{पुं}{1;द्वि}	कर्ता,5.1	राग_और_द्वेष	अट्टच्ह्मेन्ट्_अन्ड्_अल्सो_डेटच्ह्मेन्ट्	<राग-द्वेषौ>ढि			
+5	व्यवस्थितौ	5	व्यवस्थितौ	व्यवस्थित{पुं}{1;द्वि}/व्यवस्थित{पुं}{2;द्वि}/व्यवस्थित{पुं}{8;द्वि}	वि_अव_स्था1{कृत्_प्रत्ययः:क्त;वि_अव_ष्ठा;भ्वादिः;पुं}{1;द्वि}	विधेय_विशेषणम्,5.1	छिपे_हुए_स्थित	पुट्_उन्डेर्_रेगुलटिओन्स्				
+5.1	(स्तः)	16	(0)	(स्तृ{पुं}{8;एक}/अस्2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,4;अकर्मकः	(हैं)	अरे				
+6	तयोः	7	तयोर्न	तद्{पुं}{6;द्वि}/तद्{पुं}{7;द्वि}/तद्{स्त्री}{6;द्वि}/तद्{स्त्री}{7;द्वि}/तद्{नपुं}{6;द्वि}/तद्{नपुं}{7;द्वि}	तद्{पुं}{6;द्वि}	षष्ठीसम्बन्धः,8	उन_दोनों_के	ओङ्_ट्हेम्				
+7	न	10	0	न{अव्य}	न{अव्य}	प्रतिषेधः,9	नहीं	नेवेर्				
+8	वशम्	8	वशमागच्छेत्तौ	वश{पुं}{2;एक}/वश{नपुं}{1;एक}/वश{नपुं}{2;एक}	वश{पुं}{2;एक}	कर्म,9	वश_में	चोन्ट्रोल्				
+9	आगच्छेत्	11	0	आङ्_गम्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}	आङ्_गम्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;आङ्_गमॢँ;भ्वादिः}	अभिहित_कर्ता,9.1;सकर्मकः	होना_चाहिये	स्होउल्ड्_चोमे				
+9.1	(कश्चन)	9	()	किञ्चन{सर्वनाम}{पुं}{1;एक}	किञ्चन{सर्वनाम}{पुं}{1;एक}	कर्ता,9	कोई	ओने				
+10	तौ	13	0	तद्{पुं}{1;द्वि}/तद्{पुं}{2;द्वि}	तद्{पुं}{1;द्वि}	कर्ता,13.1	वे_दोनों	ट्होसे				
+11	हि	12	ह्यस्य	हि{अव्य}	हि{अव्य}	सम्बन्धः,13.1	अवश्य	चेर्टइन्ल्य्				
+12	अस्य	14	0	इदम्{पुं}{6;एक}/इदम्{नपुं}{6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	इदम्{पुं}{6;एक}	षष्ठीसम्बन्धः,13	इसके_(कल्याणमार्ग_में)	हिस्				
+13	परिपन्थिनौ	15	परिपन्थिनौ	परिपन्थिन्{पुं}{1;द्वि}/परिपन्थिन्{पुं}{2;द्वि}/परिपन्थिन्{पुं}{8;द्वि}	परिपन्थिन्{पुं}{1;द्वि}	विधेय_विशेषणम्,13.1	विघ्न_डालनेवाले_शत्रु	स्टुम्ब्लिन्ग्_ब्लोच्क्स्				
+13.1	(स्तः)	6	(0)	(स्तृ{पुं}{8;एक}/अस्2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,10;अकर्मकः	(हैं)	अरे				

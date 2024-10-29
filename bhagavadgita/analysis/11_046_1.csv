@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kirItinam	4	kirItinaM	kirItin{puM}{2;eka}	kirItin{puM}{2;eka}	sup_samucciwaH,3	mukuta_XAraNa_kiye_hue	with_helmet				
-2	gaxinam	5	gaxinaM	gaxin{puM}{2;eka}	gaxin{puM}{2;eka}	sup_samucciwaH,3	gaxA_hAWa_meM_liye_hue	with_club				
-3	cakra-haswam	6	cakrahaswamicCAmi	cakra-haswa{puM}{2;eka}	cakra-haswa{puM}{2;eka}	karmasamAnAXikaraNam,6	cakra_hAWa_meM_liye_hue	disc_in_hand	<cakra-haswam>Bv			
-3.1	(ca)	7	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,3	(Ora)	and				
-4	icCAmi	9		iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;u;eka;parasmEpaxI;iRuz;wuxAxiH}	aBihiwakarwA,7;sakarmakaH						
-5	wvAm	3	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,6	Apako	you				
-6	xraRtum	8	xraRtumahaM	xqS1{kqw_prawyayaH:wumun;xqSizr;BvAxiH}	xqS1{kqw_prawyayaH:wumun;xqSizr;BvAxiH}	karma,4	xeKanA_cAhawA_hUz	wish_to_see				
-7	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,4	mEM	I				
-8	waWEva	2	waWEva	waWEva{avya}	waWEva{avya}	kriyAviSeRaNam,4	vEse_hI	in_that_position				
-9	wena	12	wenEva	wax{puM}{3;eka}/wax{napuM}{3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;wanAxiH}	wax{puM}{3;eka}	viSeRaNam,11	vaha	by_that				
-10	eva	13	0	eva{avya}	eva{avya}	sambanXaH,8	hI	certainly				
-11	rUpeNa	15	rUpeNa	rUpa{napuM}{3;eka}	rUpa{napuM}{3;eka}	kriyAviSeRaNam,14	rUpa_se	with_form				
-12	cawur-Bujena	14	cawurBujena	cawur-Buja{puM}{3;eka}	cawur-Buja{puM}{3;eka}	viSeRaNam,11	cawurBuja	four-handed	<cawur-Bujena>Bs6			
-13	sahasra-bAho	11	sahasrabAho	sahasra-bAhu{puM}{8;eka}	sahasra-bAhu{puM}{8;eka}	samboXyaH,14	he_sahasrabAho	O_thousand-handed_one	<sahasra-bAho>Bs6			
-14	Bava	16	Bava	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}		hoiye	just_become				
-15	viSva-mUrwe	10	viSvamUrwe	viSva-mUrwa{puM}{7;eka}/mUrwi{puM}{8;eka}/mUrwi{swrI}{8;eka}/mUrwA{swrI}{1;xvi}/mUrwA{swrI}{2;xvi}/mUrwA{swrI}{8;eka}/mUrwA{swrI}{8;xvi}	viSva-mUrwi{puM}{8;eka}	samboXyaH,14	he_viSvasvarUpa	O_universal_form	<viSva-mUrwe>T6			
+1	किरीटिनम्	4	किरीटिनं	किरीटिन्{पुं}{2;एक}	किरीटिन्{पुं}{2;एक}	सुप्_समुच्चितः,3	मुकुट_धारण_किये_हुए	तिट्ह्_हेल्मेट्				
+2	गदिनम्	5	गदिनं	गदिन्{पुं}{2;एक}	गदिन्{पुं}{2;एक}	सुप्_समुच्चितः,3	गदा_हाथ_में_लिये_हुए	तिट्ह्_च्लुब्				
+3	चक्र-हस्तम्	6	चक्रहस्तमिच्छामि	चक्र-हस्त{पुं}{2;एक}	चक्र-हस्त{पुं}{2;एक}	कर्मसमानाधिकरणम्,6	चक्र_हाथ_में_लिये_हुए	डिस्च्_इन्_हन्ड्	<चक्र-हस्तम्>भ्व्			
+3.1	(च)	7	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,3	(और)	अन्ड्				
+4	इच्छामि	9		इष्2{कर्तरि;लट्;उ;एक;परस्मैपदी;इषुँ;तुदादिः}	इष्2{कर्तरि;लट्;उ;एक;परस्मैपदी;इषुँ;तुदादिः}	अभिहितकर्ता,7;सकर्मकः						
+5	त्वाम्	3	त्वां	युष्मद्{2;एक}	युष्मद्{2;एक}	कर्म,6	आपको	योउ				
+6	द्रष्टुम्	8	द्रष्टुमहं	दृश्1{कृत्_प्रत्ययः:तुमुन्;दृशिँर्;भ्वादिः}	दृश्1{कृत्_प्रत्ययः:तुमुन्;दृशिँर्;भ्वादिः}	कर्म,4	देखना_चाहता_हूँ	तिस्ह्_टो_सेए				
+7	अहम्	1	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,4	मैं	ई				
+8	तथैव	2	तथैव	तथैव{अव्य}	तथैव{अव्य}	क्रियाविशेषणम्,4	वैसे_ही	इन्_ट्हट्_पोसिटिओन्				
+9	तेन	12	तेनैव	तद्{पुं}{3;एक}/तद्{नपुं}{3;एक}/तन्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;तनुँ;तनादिः}	तद्{पुं}{3;एक}	विशेषणम्,11	वह	ब्य्_ट्हट्				
+10	एव	13	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,8	ही	चेर्टइन्ल्य्				
+11	रूपेण	15	रूपेण	रूप{नपुं}{3;एक}	रूप{नपुं}{3;एक}	क्रियाविशेषणम्,14	रूप_से	तिट्ह्_ङोर्म्				
+12	चतुर्-भुजेन	14	चतुर्भुजेन	चतुर्-भुज{पुं}{3;एक}	चतुर्-भुज{पुं}{3;एक}	विशेषणम्,11	चतुर्भुज	ङोउर्-हन्डेड्	<चतुर्-भुजेन>भ्स्6			
+13	सहस्र-बाहो	11	सहस्रबाहो	सहस्र-बाहु{पुं}{8;एक}	सहस्र-बाहु{पुं}{8;एक}	सम्बोध्यः,14	हे_सहस्रबाहो	औ_ट्होउसन्ड्-हन्डेड्_ओने	<सहस्र-बाहो>भ्स्6			
+14	भव	16	भव	भू1{कर्तरि;लोट्;म;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लोट्;म;एक;परस्मैपदी;भू;भ्वादिः}		होइये	जुस्ट्_बेचोमे				
+15	विश्व-मूर्ते	10	विश्वमूर्ते	विश्व-मूर्त{पुं}{7;एक}/मूर्ति{पुं}{8;एक}/मूर्ति{स्त्री}{8;एक}/मूर्ता{स्त्री}{1;द्वि}/मूर्ता{स्त्री}{2;द्वि}/मूर्ता{स्त्री}{8;एक}/मूर्ता{स्त्री}{8;द्वि}	विश्व-मूर्ति{पुं}{8;एक}	सम्बोध्यः,14	हे_विश्वस्वरूप	औ_उनिवेर्सल्_ङोर्म्	<विश्व-मूर्ते>ठ्6			

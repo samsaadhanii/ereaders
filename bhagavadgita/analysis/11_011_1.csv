@@ -1,22 +1,22 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	evam	4	evamukwvA	evam{avya}	evam{avya}	kriyAviSeRaNam,2	isa_prakAra	thus				
-2	ukwvA	5	0	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	pUrvakAlaH,7	kahakara	saying				
-3	wawaH	6	wawo	wawaH{avya}	wawaH{avya}	sambanXaH,7	usake_paScAw	thereafter				
-4	rAjan	1	rAjanmahAyogeSvaro	rAjaw{puM}{1;eka}	rAjan{puM}{8;eka}	samboXyaH,7	he_rAjan	O_King				
-5	mahaw-yoga-ISvaraH	2	0	mahaw-yoga-ISvara{puM}{1;eka}	mahax-yogeSvara{puM}{1;eka}	viSeRaNam,6	mahAyogeSvara	the_most_powerful_mystic	<mahaw-<yoga-ISvaraH>T6>K1			
-6	hariH	3	hariH	hari{puM}{1;eka}	hari{puM}{1;eka}	prayojakakarwA,7	saba_pApoM_ke_nASa_karanevAle_BagavAn_ne	the_Supreme_Personality_of_Godhead,_Krsna				
-7	xarSayAmAsa	21	xarSayAmAsa	xqS1_Nic{karwari;lit;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/xqS1_Nic{karwari;lit;pra;eka;AwmanepaxI;xqSizr;BvAxiH}/xqS1_Nic{karwari;lit;ma;bahu;parasmEpaxI;xqSizr;BvAxiH}/xqS1_Nic{karwari;lit;ma;bahu;AwmanepaxI;xqSizr;BvAxiH}/xqS1_Nic{karwari;lit;u;eka;parasmEpaxI;xqSizr;BvAxiH}/xqS1_Nic{karwari;lit;u;eka;AwmanepaxI;xqSizr;BvAxiH}	xqS1_Nic{karwari;lit;pra;eka;parasmEpaxI;xqSizr_Nic;BvAxiH}	aBihiwa_karwA,6	xiKalAyA	showed				
-8	pArWAya	7	pArWAya	pArWa{puM}{4;eka}	pArWa{puM}{4;eka}	prayojanam,7	arjuna_ko	unto_Arjuna				
-9	paramam	18	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{2;eka}	viSeRaNam,10	parama	divine				
-10	rUpam	19	rUpamESvaram	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,7	xivyasvarUpa	universal_form				
-11	ESvaram	8	0	ESvara{puM}{2;eka}/ESvara{napuM}{1;eka}/ESvara{napuM}{2;eka}	ESvara{puM}{2;eka}	viSeRaNam,10	ESvaryayukwa	opulences				
-12	an-eka-vakwra-nayanam	9	anekavakwranayanamanekAxBuwaxarSanam	aneka-vakwra-nayana{napuM}{1;eka}/nayana{napuM}{2;eka}	aneka-vakwra-nayana{napuM}{2;eka}	viSeRaNam,10	aneka_muKa_Ora_newroM_se_yukwa	various_mouths_and_eyes	<<na-eka>Tn-<vakwra-nayanam>Ds>Bs7			
-13	an-eka-axBuwa-xarSanam	10	0	aneka-axBuwa-xarSana{puM}{2;eka}/xarSana{napuM}{1;eka}/xarSana{napuM}{2;eka}	aneka-axBuwa-xarSana{napuM}{2;eka}	viSeRaNam,10	aneka_axBuwa_xarSanoMvAle	various_wonderful_sights	<<<na-eka>Tn-axBuwa>K1-xarSanam>Bs7			
-14	an-eka-xivya-ABaraNam	11	anekaxivyABaraNaM	aneka-xivya-ABaraNa{napuM}{1;eka}/ABaraNa{napuM}{2;eka}	aneka-xivya-ABaraNa{napuM}{2;eka}	viSeRaNam,10	bahuwa-se_xivya_BURaNoM_se_yukwa	many_divine_ornaments	<<na-eka>Tn-<xivya-ABaraNaM>K1>Bs7			
-15	xivya-an-eka-uxyawa-AyuXam	12	xivyAnekoxyawAyuXam	xivya-aneka-uxyawa-AyuXa{napuM}{1;eka}/AyuXa{napuM}{2;eka}	xivya-aneka-uxyawa-AyuXa{napuM}{2;eka}	viSeRaNam,10	bahuwa-se_xivya_SaswroM_ko_hAWoM_meM_uTAye_hue	divine_various_uplifted_weapons	<xivya-<<na-eka>Tn-<uxyawa-AyuXam>K1>K1>Bs7			
-16	xivya-mAlya-ambara-Xaram	13	xivyamAlyAmbaraXaraM	xivya-mAlya-ambara-Xaram	xivya-mAlya-ambara-Xara{napuM}{2;eka}	viSeRaNam,10	xivya_mAlA_Ora_vaswroM_ko_XAraNa_kiye_hue	divine_garlands_and_covered_with_the_dresses	<<xivya-<mAlya-ambara>Ds>K1-XaraM>U			
-17	xivya-ganXa-anulepanam	14	xivyaganXAnulepanam	xivya-ganXa-anulepana{napuM}{1;eka}/anulepana{napuM}{2;eka}	xivya-ganXa-anulepana{napuM}{2;eka}	viSeRaNam,10	xivya_ganXa_kA_sAre_SarIra_meM_lepa_kiye_hue	smeared_with_divine_fragrance	<<xivya-ganXa>Bs6-anulepanam>Bs6			
-18	sarva-AScaryamayam	15	sarvAScaryamayaM	sarva-AScaryamayam	sarva-AScaryamaya{napuM}{2;eka}	viSeRaNam,10	saba_prakAra_ke_AScaryoM_se_yukwa	all_wonderful				
-19	xevam	20	xevamananwaM	xeva{puM}{2;eka}	xeva{puM}{2;eka}	viSeRaNam,10	paramaxeva_parameSvara_ko	shining				
-20	an-anwam	16	0	an-{avya}-anwa{puM}{2;eka}/anwa{napuM}{1;eka}/anwa{napuM}{2;eka}	ananwa{puM}{2;eka}	viSeRaNam,10	sImArahiwa	unlimited	<na-anwam>Bsmn			
-21	viSvawaH-muKam	17	viSvawomuKam	viSvawar-muKa{puM}{2;eka}/muKa{napuM}{1;eka}/muKa{napuM}{2;eka}	viSvawaH-muKa{puM}{2;eka}	viSeRaNam,10	saba_ora_muKa_kiye_hue_virAtsvarUpa	all-pervading	<viSvawaH-muKam>Bs6			
+1	एवम्	4	एवमुक्त्वा	एवम्{अव्य}	एवम्{अव्य}	क्रियाविशेषणम्,2	इस_प्रकार	ट्हुस्				
+2	उक्त्वा	5	0	वच्1{कृत्_प्रत्ययः:क्त्वा;वचँ;अदादिः}	वच्1{कृत्_प्रत्ययः:क्त्वा;वचँ;अदादिः}	पूर्वकालः,7	कहकर	सयिन्ग्				
+3	ततः	6	ततो	ततः{अव्य}	ततः{अव्य}	सम्बन्धः,7	उसके_पश्चात्	ट्हेरेअङ्टेर्				
+4	राजन्	1	राजन्महायोगेश्वरो	राजत्{पुं}{1;एक}	राजन्{पुं}{8;एक}	सम्बोध्यः,7	हे_राजन्	औ_खिन्ग्				
+5	महत्-योग-ईश्वरः	2	0	महत्-योग-ईश्वर{पुं}{1;एक}	महद्-योगेश्वर{पुं}{1;एक}	विशेषणम्,6	महायोगेश्वर	ट्हे_मोस्ट्_पोतेर्ङुल्_म्य्स्टिच्	<महत्-<योग-ईश्वरः>ठ्6>ख्1			
+6	हरिः	3	हरिः	हरि{पुं}{1;एक}	हरि{पुं}{1;एक}	प्रयोजककर्ता,7	सब_पापों_के_नाश_करनेवाले_भगवान्_ने	ट्हे_शुप्रेमे_फेर्सोनलिट्य्_ओङ्_घोड्हेअड्,_ख्र्स्न				
+7	दर्शयामास	21	दर्शयामास	दृश्1_णिच्{कर्तरि;लिट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}/दृश्1_णिच्{कर्तरि;लिट्;प्र;एक;आत्मनेपदी;दृशिँर्;भ्वादिः}/दृश्1_णिच्{कर्तरि;लिट्;म;बहु;परस्मैपदी;दृशिँर्;भ्वादिः}/दृश्1_णिच्{कर्तरि;लिट्;म;बहु;आत्मनेपदी;दृशिँर्;भ्वादिः}/दृश्1_णिच्{कर्तरि;लिट्;उ;एक;परस्मैपदी;दृशिँर्;भ्वादिः}/दृश्1_णिच्{कर्तरि;लिट्;उ;एक;आत्मनेपदी;दृशिँर्;भ्वादिः}	दृश्1_णिच्{कर्तरि;लिट्;प्र;एक;परस्मैपदी;दृशिँर्_णिच्;भ्वादिः}	अभिहित_कर्ता,6	दिखलाया	स्होतेड्				
+8	पार्थाय	7	पार्थाय	पार्थ{पुं}{4;एक}	पार्थ{पुं}{4;एक}	प्रयोजनम्,7	अर्जुन_को	उन्टो_आर्जुन				
+9	परमम्	18	परमं	परमम्{अव्य}/परम{पुं}{2;एक}/परम{नपुं}{1;एक}/परम{नपुं}{2;एक}	परम{नपुं}{2;एक}	विशेषणम्,10	परम	डिविने				
+10	रूपम्	19	रूपमैश्वरम्	रूप{नपुं}{1;एक}/रूप{नपुं}{2;एक}	रूप{नपुं}{2;एक}	कर्म,7	दिव्यस्वरूप	उनिवेर्सल्_ङोर्म्				
+11	ऐश्वरम्	8	0	ऐश्वर{पुं}{2;एक}/ऐश्वर{नपुं}{1;एक}/ऐश्वर{नपुं}{2;एक}	ऐश्वर{पुं}{2;एक}	विशेषणम्,10	ऐश्वर्ययुक्त	ओपुलेन्चेस्				
+12	अन्-एक-वक्त्र-नयनम्	9	अनेकवक्त्रनयनमनेकाद्भुतदर्शनम्	अनेक-वक्त्र-नयन{नपुं}{1;एक}/नयन{नपुं}{2;एक}	अनेक-वक्त्र-नयन{नपुं}{2;एक}	विशेषणम्,10	अनेक_मुख_और_नेत्रों_से_युक्त	वरिओउस्_मोउट्ह्स्_अन्ड्_एयेस्	<<न-एक>ठ्न्-<वक्त्र-नयनम्>ढ्स्>भ्स्7			
+13	अन्-एक-अद्भुत-दर्शनम्	10	0	अनेक-अद्भुत-दर्शन{पुं}{2;एक}/दर्शन{नपुं}{1;एक}/दर्शन{नपुं}{2;एक}	अनेक-अद्भुत-दर्शन{नपुं}{2;एक}	विशेषणम्,10	अनेक_अद्भुत_दर्शनोंवाले	वरिओउस्_तोन्डेर्ङुल्_सिग्ह्ट्स्	<<<न-एक>ठ्न्-अद्भुत>ख्1-दर्शनम्>भ्स्7			
+14	अन्-एक-दिव्य-आभरणम्	11	अनेकदिव्याभरणं	अनेक-दिव्य-आभरण{नपुं}{1;एक}/आभरण{नपुं}{2;एक}	अनेक-दिव्य-आभरण{नपुं}{2;एक}	विशेषणम्,10	बहुत-से_दिव्य_भूषणों_से_युक्त	मन्य्_डिविने_ओर्नमेन्ट्स्	<<न-एक>ठ्न्-<दिव्य-आभरणं>ख्1>भ्स्7			
+15	दिव्य-अन्-एक-उद्यत-आयुधम्	12	दिव्यानेकोद्यतायुधम्	दिव्य-अनेक-उद्यत-आयुध{नपुं}{1;एक}/आयुध{नपुं}{2;एक}	दिव्य-अनेक-उद्यत-आयुध{नपुं}{2;एक}	विशेषणम्,10	बहुत-से_दिव्य_शस्त्रों_को_हाथों_में_उठाये_हुए	डिविने_वरिओउस्_उप्लिङ्टेड्_तेअपोन्स्	<दिव्य-<<न-एक>ठ्न्-<उद्यत-आयुधम्>ख्1>ख्1>भ्स्7			
+16	दिव्य-माल्य-अम्बर-धरम्	13	दिव्यमाल्याम्बरधरं	दिव्य-माल्य-अम्बर-धरम्	दिव्य-माल्य-अम्बर-धर{नपुं}{2;एक}	विशेषणम्,10	दिव्य_माला_और_वस्त्रों_को_धारण_किये_हुए	डिविने_गर्लन्ड्स्_अन्ड्_चोवेरेड्_तिट्ह्_ट्हे_ड्रेस्सेस्	<<दिव्य-<माल्य-अम्बर>ढ्स्>ख्1-धरं>ऊ			
+17	दिव्य-गन्ध-अनुलेपनम्	14	दिव्यगन्धानुलेपनम्	दिव्य-गन्ध-अनुलेपन{नपुं}{1;एक}/अनुलेपन{नपुं}{2;एक}	दिव्य-गन्ध-अनुलेपन{नपुं}{2;एक}	विशेषणम्,10	दिव्य_गन्ध_का_सारे_शरीर_में_लेप_किये_हुए	स्मेअरेड्_तिट्ह्_डिविने_ङ्रग्रन्चे	<<दिव्य-गन्ध>भ्स्6-अनुलेपनम्>भ्स्6			
+18	सर्व-आश्चर्यमयम्	15	सर्वाश्चर्यमयं	सर्व-आश्चर्यमयम्	सर्व-आश्चर्यमय{नपुं}{2;एक}	विशेषणम्,10	सब_प्रकार_के_आश्चर्यों_से_युक्त	अल्ल्_तोन्डेर्ङुल्				
+19	देवम्	20	देवमनन्तं	देव{पुं}{2;एक}	देव{पुं}{2;एक}	विशेषणम्,10	परमदेव_परमेश्वर_को	स्हिनिन्ग्				
+20	अन्-अन्तम्	16	0	अन्-{अव्य}-अन्त{पुं}{2;एक}/अन्त{नपुं}{1;एक}/अन्त{नपुं}{2;एक}	अनन्त{पुं}{2;एक}	विशेषणम्,10	सीमारहित	उन्लिमिटेड्	<न-अन्तम्>भ्स्म्न्			
+21	विश्वतः-मुखम्	17	विश्वतोमुखम्	विश्वतर्-मुख{पुं}{2;एक}/मुख{नपुं}{1;एक}/मुख{नपुं}{2;एक}	विश्वतः-मुख{पुं}{2;एक}	विशेषणम्,10	सब_ओर_मुख_किये_हुए_विराट्स्वरूप	अल्ल्-पेर्वडिन्ग्	<विश्वतः-मुखम्>भ्स्6			

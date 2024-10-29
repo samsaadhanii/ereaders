@@ -1,24 +1,24 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	vAyuH	2	vAyuryamoZgnirvaruNaH	vAyu{puM}{1;eka}/vA1{karwari;viXilif;pra;bahu;parasmEpaxI;vA;axAxiH}	vAyu{puM}{1;eka}	sup_samucciwaH,8	vAyu	air				
-2	yamaH	3	0	yama{puM}{1;eka}	yama{puM}{1;eka}	sup_samucciwaH,8	yamarAja	controller				
-3	agniH	4	0	agni{puM}{1;eka}	agni{puM}{1;eka}	sup_samucciwaH,8	agni	fire				
-4	varuNaH	5	0	varuNa{puM}{1;eka}	varuNa{puM}{1;eka}	sup_samucciwaH,8	varuNa	water				
-5	SaSAfkaH	6	SaSAfkaH	SaSAfka{puM}{1;eka}	SaSAfka{puM}{1;eka}	sup_samucciwaH,8	canxramA	moon				
-6	prajA-pawiH	7	prajApawiswvaM	prajA-pawi{puM}{1;eka}	prajApawi{puM}{1;eka}	sup_samucciwaH,8	prajA_ke_svAmI_brahmA	Brahma	<prajA-pawiH>T6			
-7	wvam	1	0	yuRmax{1;eka}	yuRmax{1;eka}	karwA,9.1	Apa	you				
-8	prapiwAmahaH	8	prapiwAmahaSca	prapiwAmaha{puM}{1;eka}	prapiwAmaha{puM}{1;eka}	viXeya_viSeRaNam,9.1	brahmA_ke_BI_piwA	grandfather				
-9	ca	9	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	also				
-9.1	(asi)	10	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,7;akarmakaH	(hEM)	are				
-10	namaH	13	namo	namaH{avya}	namaH{avya}	vIpsA,11	namaskAra	offering_respects				
-11	namaH	14	namasweZswu	namaH{avya}	namaH{avya}	karwA,13	namaskAra	again_my_respects				
-12	we	16	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	prayojanam,13	Apake_liye	unto_You				
-13	aswu	15	0	aswu{avya}/as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,11;akarmakaH	ho	are_being				
-14	sahasrakqwvaH	12	sahasrakqwvaH	sahasra{kqwvasuc}	sahasrakqwvas{avya}	kriyAviSeRaNam,13	hajAroM_bAra	a_thousand_times				
-15	punaH	19	punaSca	punaH{avya}	punaH{avya}	kriyAviSeRaNam,20.1	bAra-bAra	and_again				
-15.1	ca			ca{avya}	ca{avya}	sambanXaH,15						
-16	BUyaH	17	BUyoZpi	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,20.1	Pira	again				
-17	api	18	0	api{avya}	api{avya}	sambanXaH,16	BI	also				
-18	namaH	20	namo	namaH{avya}	namaH{avya}	vIpsA,19	namaskAra	offer_my_respects				
-19	namaH	21	namaswe	namaH{avya}	namaH{avya}	karwA,20.1	namaskAra	offering_my_respects				
-20	we	11	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	upapaxasambanXaH,19	Apake_liye	unto_You				
-20.1	(aswu)	22	(0)	(aswu{avya}/as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lot;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,19;akarmakaH	(ho)	are_being				
+1	वायुः	2	वायुर्यमोऽग्निर्वरुणः	वायु{पुं}{1;एक}/वा1{कर्तरि;विधिलिङ्;प्र;बहु;परस्मैपदी;वा;अदादिः}	वायु{पुं}{1;एक}	सुप्_समुच्चितः,8	वायु	अइर्				
+2	यमः	3	0	यम{पुं}{1;एक}	यम{पुं}{1;एक}	सुप्_समुच्चितः,8	यमराज	चोन्ट्रोल्लेर्				
+3	अग्निः	4	0	अग्नि{पुं}{1;एक}	अग्नि{पुं}{1;एक}	सुप्_समुच्चितः,8	अग्नि	ङिरे				
+4	वरुणः	5	0	वरुण{पुं}{1;एक}	वरुण{पुं}{1;एक}	सुप्_समुच्चितः,8	वरुण	तटेर्				
+5	शशाङ्कः	6	शशाङ्कः	शशाङ्क{पुं}{1;एक}	शशाङ्क{पुं}{1;एक}	सुप्_समुच्चितः,8	चन्द्रमा	मोओन्				
+6	प्रजा-पतिः	7	प्रजापतिस्त्वं	प्रजा-पति{पुं}{1;एक}	प्रजापति{पुं}{1;एक}	सुप्_समुच्चितः,8	प्रजा_के_स्वामी_ब्रह्मा	भ्रह्म	<प्रजा-पतिः>ठ्6			
+7	त्वम्	1	0	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,9.1	आप	योउ				
+8	प्रपितामहः	8	प्रपितामहश्च	प्रपितामह{पुं}{1;एक}	प्रपितामह{पुं}{1;एक}	विधेय_विशेषणम्,9.1	ब्रह्मा_के_भी_पिता	ग्रन्ड्ङट्हेर्				
+9	च	9	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	और	अल्सो				
+9.1	(असि)	10	(0)	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,7;अकर्मकः	(हैं)	अरे				
+10	नमः	13	नमो	नमः{अव्य}	नमः{अव्य}	वीप्सा,11	नमस्कार	ओङ्ङेरिन्ग्_रेस्पेच्ट्स्				
+11	नमः	14	नमस्तेऽस्तु	नमः{अव्य}	नमः{अव्य}	कर्ता,13	नमस्कार	अगइन्_म्य्_रेस्पेच्ट्स्				
+12	ते	16	0	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	प्रयोजनम्,13	आपके_लिये	उन्टो_Yओउ				
+13	अस्तु	15	0	अस्तु{अव्य}/अस्2{कर्तरि;लोट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लोट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहित_कर्ता,11;अकर्मकः	हो	अरे_बेइन्ग्				
+14	सहस्रकृत्वः	12	सहस्रकृत्वः	सहस्र{कृत्वसुच्}	सहस्रकृत्वस्{अव्य}	क्रियाविशेषणम्,13	हजारों_बार	अ_ट्होउसन्ड्_टिमेस्				
+15	पुनः	19	पुनश्च	पुनः{अव्य}	पुनः{अव्य}	क्रियाविशेषणम्,20.1	बार-बार	अन्ड्_अगइन्				
+15.1	च			च{अव्य}	च{अव्य}	सम्बन्धः,15						
+16	भूयः	17	भूयोऽपि	भूयः{अव्य}/भूयस्{नपुं}{1;एक}/भूयस्{नपुं}{2;एक}/भूयस्{नपुं}{8;एक}	भूयः{अव्य}	क्रियाविशेषणम्,20.1	फिर	अगइन्				
+17	अपि	18	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,16	भी	अल्सो				
+18	नमः	20	नमो	नमः{अव्य}	नमः{अव्य}	वीप्सा,19	नमस्कार	ओङ्ङेर्_म्य्_रेस्पेच्ट्स्				
+19	नमः	21	नमस्ते	नमः{अव्य}	नमः{अव्य}	कर्ता,20.1	नमस्कार	ओङ्ङेरिन्ग्_म्य्_रेस्पेच्ट्स्				
+20	ते	11	0	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	उपपदसम्बन्धः,19	आपके_लिये	उन्टो_Yओउ				
+20.1	(अस्तु)	22	(0)	(अस्तु{अव्य}/अस्2{कर्तरि;लोट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लोट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,19;अकर्मकः	(हो)	अरे_बेइन्ग्				

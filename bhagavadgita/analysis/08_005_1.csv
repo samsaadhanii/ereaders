@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	anwa-kAle	2	anwakAle	anwa-kAla{puM}{7;eka}/kAla{napuM}{1;xvi}/kAla{napuM}{2;xvi}/kAla{napuM}{7;eka}/kAla{napuM}{8;xvi}/kAlA{swrI}{1;xvi}/kAlA{swrI}{2;xvi}/kAlA{swrI}{8;eka}/kAlA{swrI}{8;xvi}	anwa-kAla{puM}{7;eka}	aXikaraNam,9	anwakAla_meM	at_the_end_of_life	<anwa-kAle>T6			
-2	ca	3	ca	ca{avya}	ca{avya}	sambanXaH,1	BI	also				
-3	mAm	4	mAmeva	asmax{2;eka}	asmax{2;eka}	karma,5	muJako	unto_Me				
-4	eva	5	0	eva{avya}	eva{avya}	sambanXaH,3	hI	certainly				
-5	smaran	6	smaranmukwvA	smaraw{puM}{1;eka}/smaraw{puM}{8;eka}	smq1{kqw_prawyayaH:Sawq;smq;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,9	smaraNa_karawA_huA	remembering				
-6	mukwvA	8	0	muc1{kqw_prawyayaH:kwvA;mucLz;wuxAxiH}	muc1{kqw_prawyayaH:kwvA;mucLz;wuxAxiH}	pUrvakAlaH,9	wyAgakara	quitting				
-7	kalevaram	7	kalevaram	kalevara{puM}{2;eka}/kalevara{napuM}{1;eka}/kalevara{napuM}{2;eka}	kalevara{puM}{2;eka}	karma,6	SarIra_ko	the_body				
-8	yaH	1	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,9;niwya_sambanXaH,10	jo_(puruRa)	he_who				
-9	prayAwi	9	prayAwi	pra_yA1{karwari;lat;pra;eka;parasmEpaxI;yA;axAxiH}	pra_yA1{karwari;lat;pra;eka;parasmEpaxI;pra_yA;axAxiH}	aBihiwa_karwA,3	jAwA_hE	goes				
-10	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,12	vaha	he				
-11	maw-BAvam	11	maxBAvaM	asmax-BAva{puM}{2;eka}	asmax-BAva{puM}{2;eka}	karma,12	mere_sAkRAw_svarUpa_ko	My_nature	<asmaw-BAvaM>T6			
-12	yAwi	12	yAwi	yAw{puM}{7;eka}/yAw{napuM}{7;eka}/yA1{karwari;lat;pra;eka;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;eka;parasmEpaxI;yA;axAxiH}	aBihiwa_karwA,3	prApwa_howA_hE	achieves				
-13	na	15	nAswyawra	na{avya}	na{avya}	prawiReXaH,14	nahIM	not				
-14	aswi	16	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,16	hE	is				
-15	awra	13	0	awra{avya}	awra{avya}	aXikaraNam,14	isameM	here				
-16	saMSayaH	14	saMSayaH	saMSaya{puM}{1;eka}	saMSaya{puM}{1;eka}	karwA,14	saMSaya	doubt				
+1	अन्त-काले	2	अन्तकाले	अन्त-काल{पुं}{7;एक}/काल{नपुं}{1;द्वि}/काल{नपुं}{2;द्वि}/काल{नपुं}{7;एक}/काल{नपुं}{8;द्वि}/काला{स्त्री}{1;द्वि}/काला{स्त्री}{2;द्वि}/काला{स्त्री}{8;एक}/काला{स्त्री}{8;द्वि}	अन्त-काल{पुं}{7;एक}	अधिकरणम्,9	अन्तकाल_में	अट्_ट्हे_एन्ड्_ओङ्_लिङे	<अन्त-काले>ठ्6			
+2	च	3	च	च{अव्य}	च{अव्य}	सम्बन्धः,1	भी	अल्सो				
+3	माम्	4	मामेव	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,5	मुझको	उन्टो_ंए				
+4	एव	5	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,3	ही	चेर्टइन्ल्य्				
+5	स्मरन्	6	स्मरन्मुक्त्वा	स्मरत्{पुं}{1;एक}/स्मरत्{पुं}{8;एक}	स्मृ1{कृत्_प्रत्ययः:शतृ;स्मृ;भ्वादिः;पुं}{1;एक}	वर्तमानसमानकालः,9	स्मरण_करता_हुआ	रेमेम्बेरिन्ग्				
+6	मुक्त्वा	8	0	मुच्1{कृत्_प्रत्ययः:क्त्वा;मुचॢँ;तुदादिः}	मुच्1{कृत्_प्रत्ययः:क्त्वा;मुचॢँ;तुदादिः}	पूर्वकालः,9	त्यागकर	ऋउइट्टिन्ग्				
+7	कलेवरम्	7	कलेवरम्	कलेवर{पुं}{2;एक}/कलेवर{नपुं}{1;एक}/कलेवर{नपुं}{2;एक}	कलेवर{पुं}{2;एक}	कर्म,6	शरीर_को	ट्हे_बोड्य्				
+8	यः	1	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,9;नित्य_सम्बन्धः,10	जो_(पुरुष)	हे_त्हो				
+9	प्रयाति	9	प्रयाति	प्र_या1{कर्तरि;लट्;प्र;एक;परस्मैपदी;या;अदादिः}	प्र_या1{कर्तरि;लट्;प्र;एक;परस्मैपदी;प्र_या;अदादिः}	अभिहित_कर्ता,3	जाता_है	गोएस्				
+10	सः	10	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,12	वह	हे				
+11	मत्-भावम्	11	मद्भावं	अस्मद्-भाव{पुं}{2;एक}	अस्मद्-भाव{पुं}{2;एक}	कर्म,12	मेरे_साक्षात्_स्वरूप_को	ंय्_नटुरे	<अस्मत्-भावं>ठ्6			
+12	याति	12	याति	यात्{पुं}{7;एक}/यात्{नपुं}{7;एक}/या1{कर्तरि;लट्;प्र;एक;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;एक;परस्मैपदी;या;अदादिः}	अभिहित_कर्ता,3	प्राप्त_होता_है	अच्हिएवेस्				
+13	न	15	नास्त्यत्र	न{अव्य}	न{अव्य}	प्रतिषेधः,14	नहीं	नोट्				
+14	अस्ति	16	0	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहित_कर्ता,16	है	इस्				
+15	अत्र	13	0	अत्र{अव्य}	अत्र{अव्य}	अधिकरणम्,14	इसमें	हेरे				
+16	संशयः	14	संशयः	संशय{पुं}{1;एक}	संशय{पुं}{1;एक}	कर्ता,14	संशय	डोउब्ट्				

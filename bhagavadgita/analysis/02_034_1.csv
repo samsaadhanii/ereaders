@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-kIrwim	5	akIrwiM	akIrwi{swrI}{2;eka}	a-kIrwi{swrI}{2;eka}	karma,4	apakIrwi_kA	infamy	<na-kIrwim>Tn			
-2	api_ca	1	cApi	api{avya}_ca/ca{avya}	api{avya}_ca{avya}	sambanXaH,4	waWA	nay				
-3	BUwAni	2	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{1;bahu}	karwA,4	saba_loga	people				
-4	kaWayiRyanwi	6	kaWayiRyanwi	kaWa1{karwari;lqt;pra;bahu;AwmanepaxI;kaWa;curAxiH}/kaWa1_Nic{karwari;lqt;pra;bahu;parasmEpaxI;kaWa;curAxiH}	kaWa1{karwari;lqt;pra;bahu;parasmEpaxI;kaWa;curAxiH}	samucciwama,11	kaWana_kareMge	will_speak				
-5	we	3	weZvyayAm	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,1	wumhArI	your				
-6	a-vyayAm	4	0	avyayA{swrI}{2;eka}	a-vyayA{swrI}{2;eka}	viSeRaNam,1	cirasWAyI	undying	<na-vyayAm>Bsmn			
-7	samBAviwasya	7	samBAviwasya	samBAviwa{puM}{6;eka}/samBAviwa{napuM}{6;eka}	sam_BU1_Nic{kqw_prawyayaH:kwa;sam_BU_Nic;BvAxiH;puM}{6;eka}	RaRTIsambanXaH,9	mAnanIya_puruRa_ke_liye	for_a_man_enjoying_popular_esteem				
-8	ca	8	cAkIrwirmaraNAxawiricyawe	ca{avya}	ca{avya}	samuccaya_xyowakaH,11	Ora	and				
-9	a-kIrwiH	9	0	akIrwi{swrI}{1;eka}	a-kIrwi{swrI}{1;eka}	karwA,11	apakIrwi	infamy	<na-kIrwiH>Tn			
-10	maraNAw	10	0	maraNa{napuM}{5;eka}	maraNa{napuM}{5;eka}	wulanA_binxuH,9	maraNa_se	than_death				
-11	awiricyawe	11	0	awiricyawe	awi_ric1{karwari;lat;pra;eka;AwmanepaxI;awi_ricizr;ruXAxiH}	aBihiwakarwA,9;akarmakaH	baDa़kara_hE	becomes_worse				
+1	अ-कीर्तिम्	5	अकीर्तिं	अकीर्ति{स्त्री}{2;एक}	अ-कीर्ति{स्त्री}{2;एक}	कर्म,4	अपकीर्ति_का	इन्ङम्य्	<न-कीर्तिम्>ठ्न्			
+2	अपि_च	1	चापि	अपि{अव्य}_च/च{अव्य}	अपि{अव्य}_च{अव्य}	सम्बन्धः,4	तथा	नय्				
+3	भूतानि	2	भूतानि	भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}/भूत{नपुं}{8;बहु}	भूत{नपुं}{1;बहु}	कर्ता,4	सब_लोग	पेओप्ले				
+4	कथयिष्यन्ति	6	कथयिष्यन्ति	कथ1{कर्तरि;लृट्;प्र;बहु;आत्मनेपदी;कथ;चुरादिः}/कथ1_णिच्{कर्तरि;लृट्;प्र;बहु;परस्मैपदी;कथ;चुरादिः}	कथ1{कर्तरि;लृट्;प्र;बहु;परस्मैपदी;कथ;चुरादिः}	समुच्चितम,11	कथन_करेंगे	तिल्ल्_स्पेअक्				
+5	ते	3	तेऽव्ययाम्	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,1	तुम्हारी	योउर्				
+6	अ-व्ययाम्	4	0	अव्यया{स्त्री}{2;एक}	अ-व्यया{स्त्री}{2;एक}	विशेषणम्,1	चिरस्थायी	उन्ड्यिन्ग्	<न-व्ययाम्>भ्स्म्न्			
+7	सम्भावितस्य	7	सम्भावितस्य	सम्भावित{पुं}{6;एक}/सम्भावित{नपुं}{6;एक}	सम्_भू1_णिच्{कृत्_प्रत्ययः:क्त;सम्_भू_णिच्;भ्वादिः;पुं}{6;एक}	षष्ठीसम्बन्धः,9	माननीय_पुरुष_के_लिये	ङोर्_अ_मन्_एन्जोयिन्ग्_पोपुलर्_एस्टेएम्				
+8	च	8	चाकीर्तिर्मरणादतिरिच्यते	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,11	और	अन्ड्				
+9	अ-कीर्तिः	9	0	अकीर्ति{स्त्री}{1;एक}	अ-कीर्ति{स्त्री}{1;एक}	कर्ता,11	अपकीर्ति	इन्ङम्य्	<न-कीर्तिः>ठ्न्			
+10	मरणात्	10	0	मरण{नपुं}{5;एक}	मरण{नपुं}{5;एक}	तुलना_बिन्दुः,9	मरण_से	ट्हन्_डेअट्ह्				
+11	अतिरिच्यते	11	0	अतिरिच्यते	अति_रिच्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;अति_रिचिँर्;रुधादिः}	अभिहितकर्ता,9;अकर्मकः	बढॆअञकर_है	बेचोमेस्_तोर्से				

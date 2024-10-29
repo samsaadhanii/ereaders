@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	6	nAnyaM	na{avya}	na{avya}	prawiReXaH,7	nahIM	never				
-2	anyam	4	0	anya{napuM}{1;eka}/anya{napuM}{2;eka}/anya{puM}{2;eka}	anya{puM}{2;eka}	viSeRaNam,4	anya_kisIko	other_than				
-3	guNeByaH	3	guNeByaH	guNa{puM}{4;bahu}/guNa{puM}{5;bahu}	guNa{puM}{5;bahu}	apAxAnam,7	wInoM_guNoM_ke_awirikwa	from_the_qualities				
-4	karwAram	5	karwAraM	karwq{puM}{2;eka}	karwq{puM}{2;eka}	karma,7	karwA	the_performer				
-5	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,7;niwya_sambanXaH,14.1	jisa_samaya	when				
-6	xraRtA	2	xraRtAZnupaSyawi	xqS1{karwari;lut;pra;eka;parasmEpaxI;xqSizr;BvAxiH}/xqS1{karmaNi;lut;pra;eka;AwmanepaxI;xqSizr;BvAxiH}	xqRtq{puM}{1;eka}	karwA,7	xraRtA	he_who_sees				
-7	anupaSyawi	7	0	anu_xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	anu_xqS1{karwari;lat;pra;eka;parasmEpaxI;anu_xqSizr;BvAxiH}	samucciwaH,9	xeKawA	sees_properly				
-8	guNeByaH	10	guNeByaSca	guNa{puM}{4;bahu}/guNa{puM}{5;bahu}	guNa{puM}{5;bahu}	apAxAnam,11	wInoM_guNoM_se	from_the_modes_of_nature				
-9	ca	8	0	ca{avya}	ca{avya}	sambanXaH,11	Ora	also				
-10	param	11	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{2;eka}	karma,11	awyanwa_pare	transcendental				
-11	vewwi	12	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	samucciwaH,9	wawwva_se_jAnawA_hE	know				
-12	max-BAvam	15	maxBAvaM	maxBAva{puM}{2;eka}	asmax-BAva{puM}{2;eka}	karma,14	mere_svarUpa_ko	My_spiritual_nature	<asmaw-BAvaM>T7			
-13	saH	14	soZXigacCawi	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,14	vaha	he				
-14	aXigacCawi	16	0	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}	aBihiwakarwA,13;sakarmakaH	prApwa_howA_hE	is_promoted				
-14.1	(waxA)	13	(0)	(waxA{avya})	(waxA{avya})	kAlAXikaraNam, 14	(waba)	at_that_time				
+1	न	6	नान्यं	न{अव्य}	न{अव्य}	प्रतिषेधः,7	नहीं	नेवेर्				
+2	अन्यम्	4	0	अन्य{नपुं}{1;एक}/अन्य{नपुं}{2;एक}/अन्य{पुं}{2;एक}	अन्य{पुं}{2;एक}	विशेषणम्,4	अन्य_किसीको	ओट्हेर्_ट्हन्				
+3	गुणेभ्यः	3	गुणेभ्यः	गुण{पुं}{4;बहु}/गुण{पुं}{5;बहु}	गुण{पुं}{5;बहु}	अपादानम्,7	तीनों_गुणों_के_अतिरिक्त	ङ्रोम्_ट्हे_ऋउअलिटिएस्				
+4	कर्तारम्	5	कर्तारं	कर्तृ{पुं}{2;एक}	कर्तृ{पुं}{2;एक}	कर्म,7	कर्ता	ट्हे_पेर्ङोर्मेर्				
+5	यदा	1	यदा	यदा{अव्य}	यदा{अव्य}	कालाधिकरणम्,7;नित्य_सम्बन्धः,14.1	जिस_समय	त्हेन्				
+6	द्रष्टा	2	द्रष्टाऽनुपश्यति	दृश्1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}/दृश्1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;दृशिँर्;भ्वादिः}	दृष्टृ{पुं}{1;एक}	कर्ता,7	द्रष्टा	हे_त्हो_सेएस्				
+7	अनुपश्यति	7	0	अनु_दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अनु_दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;अनु_दृशिँर्;भ्वादिः}	समुच्चितः,9	देखता	सेएस्_प्रोपेर्ल्य्				
+8	गुणेभ्यः	10	गुणेभ्यश्च	गुण{पुं}{4;बहु}/गुण{पुं}{5;बहु}	गुण{पुं}{5;बहु}	अपादानम्,11	तीनों_गुणों_से	ङ्रोम्_ट्हे_मोडेस्_ओङ्_नटुरे				
+9	च	8	0	च{अव्य}	च{अव्य}	सम्बन्धः,11	और	अल्सो				
+10	परम्	11	परं	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{नपुं}{2;एक}	कर्म,11	अत्यन्त_परे	ट्रन्स्चेन्डेन्टल्				
+11	वेत्ति	12	वेत्ति	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	समुच्चितः,9	तत्त्व_से_जानता_है	क्नोत्				
+12	मद्-भावम्	15	मद्भावं	मद्भाव{पुं}{2;एक}	अस्मद्-भाव{पुं}{2;एक}	कर्म,14	मेरे_स्वरूप_को	ंय्_स्पिरिटुअल्_नटुरे	<अस्मत्-भावं>ठ्7			
+13	सः	14	सोऽधिगच्छति	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,14	वह	हे				
+14	अधिगच्छति	16	0	अधि_गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}	अधि_गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;अधि_गमॢँ;भ्वादिः}	अभिहितकर्ता,13;सकर्मकः	प्राप्त_होता_है	इस्_प्रोमोटेड्				
+14.1	(तदा)	13	(0)	(तदा{अव्य})	(तदा{अव्य})	कालाधिकरणम्, 14	(तब)	अट्_ट्हट्_टिमे				

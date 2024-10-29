@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yowsyamAnAn	10	yowsyamAnAnavekReZhaM	yowsyamAnAn	yowsyamAna{puM}{2;bahu}	karma,2	yuxXa_karanevAloM_ko	those_who_will_be_fighting				
+1.1	(wAn)	9	()	(wax{puM}{2;bahu})	(wax{puM}{2;bahu})	viSeRaNam,1	(ina)					
+2	avekRe	12	0	ava_IkR1{karwari;lat;u;eka;AwmanepaxI;IkRaz;BvAxiH}	ava_IkR1{karwari;lat;u;eka;AwmanepaxI;ava_IkRaz;BvAxiH}	aBihiwa_karwA,3;sakarmakaH	xeKUzgA	shall_scan				
+3	aham	11	0	asmax{1;eka}	asmax{1;eka}	karwA,2	mEM	I				
+4	ye	1	ya	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,5;niwya_sambanXaH,1.1	jo	whoever				
+5	ewe	2	eweZwra	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{puM}{1;bahu}	karwA,7	ye_(rAjAloga)	those				
+6	awra	7	0	awra{avya}	awra{avya}	xeSAXikaraNam,7	yahAz	here				
+7	samAgawAH	8	samAgawAH	samAgawa{puM}{1;bahu}/samAgawA{swrI}{1;bahu}/samAgawA{swrI}{2;bahu}	sam_Af_gam1{kqw_prawyayaH:kwa;sam_Af_gamLz;BvAxiH}{puM}{1;bahu}	aBihiwa_karwA,5;sakarmakaH	Aye_hEM	assembled				
+8	XArwarARtrasya	5	XArwarARtrasya	XArwarARtra{puM}{6;eka}	XArwarARtra{puM}{6;eka}	RaRTIsambanXaH,11	xuryoXana_kA	of_the_son_of_Dhritarashtra				
+9	xur-buxXeH	4	xurbuxXeryuxXe	xurbuxXi{swrI}{5;eka}/xurbuxXi{swrI}{6;eka}	xurbuxXi{swrI}{6;eka}	viSeRaNam,8	xurbuxXi	evil-minded	<xur-buxXeH>Bvp			
+10	yuxXe	3	0	yuxXa{puM}{7;eka}/yuxXa{napuM}{1;xvi}/yuxXa{napuM}{2;xvi}/yuxXa{napuM}{7;eka}/yuxXA{swrI}{1;xvi}/yuxXA{swrI}{2;xvi}	yuxXa{napuM}{7;eka}	aXikaraNam,7	yuxXa_meM	in_this_war				
+11	priya-cikIrRavaH	6	priyacikIrRavaH	priya-cikIrRu{puM}{1;bahu}	priya-cikIrRu{puM}{1;bahu}	viSeRaNam,5	hiwa_cAhanevAle	well_wishers	<priya-cikIrRavaH>T2			

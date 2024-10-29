@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SraxXAvAn	3	SraxXAvAzllaBawe	SraxXAvaw{puM}{1;eka}	SraxXAvaw{puM}{1;eka}	karwA,2	SraxXAvAn_manuRya	a_faithful_man				
-2	laBawe	5		laB1{karwari;lat;pra;eka;AwmanepaxI;dulaBazR;BvAxiH}	laB1{karwari;lat;pra;eka;AwmanepaxI;dulaBazR;BvAxiH}		prApwa_howA_hE	achieves				
-3	jFAnam	4	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,2	jFAna_ko	knowledge				
-4	waw-paraH	2	wawparaH	wawpara{puM}{1;eka}	wawpara{puM}{1;eka}	viSeRaNam,1	sAXAnaparAyaNa	very_much_attached_to_it	<waw-paraH>Bs6			
-5	saMyawa-inxriyaH	1	saMyawenxriyaH	saMyawa-inxriya{puM}{1;eka}	saMyawa-inxriya{puM}{1;eka}	viSeRaNam,1	jiwenxriya	controlled_senses	<saMyawa-inxriyaH>Bs6			
-6	jFAnam	6	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,7	jFAna_ko	knowledge				
-7	labXvA	7	labXvA	laB1{kqw_prawyayaH:kwvA;dulaBazR;BvAxiH}	laB1{kqw_prawyayaH:kwvA;dulaBazR;BvAxiH}	pUrvakAlaH,11	prApwa_hokara	having_achieved				
-8	parAm	9	parAM	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	viSeRaNam,9	parama	transcendental				
-9	SAnwim	10	SAnwimacireNAXigacCawi	SAnwi{swrI}{2;eka}	SAnwi{swrI}{2;eka}	karma,11	SAnwi_ko	peace				
-10	acireNa	8		acireNa{avya}/acira{napuM}{3;eka}	acira{napuM}{3;eka}	kriyAviSeRaNam,11	binA_vilamba_ke_wawkAla_hI_(BagavawprApwirUpa)	very_soon				
-11	aXigacCawi	11		aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}		prApwa_ho_jAwA_hE	attains				
+1	श्रद्धावान्	3	श्रद्धावाँल्लभते	श्रद्धावत्{पुं}{1;एक}	श्रद्धावत्{पुं}{1;एक}	कर्ता,2	श्रद्धावान्_मनुष्य	अ_ङइट्ह्ङुल्_मन्				
+2	लभते	5		लभ्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;डुलभँष्;भ्वादिः}	लभ्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;डुलभँष्;भ्वादिः}		प्राप्त_होता_है	अच्हिएवेस्				
+3	ज्ञानम्	4	ज्ञानं	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{2;एक}	कर्म,2	ज्ञान_को	क्नोत्लेड्गे				
+4	तत्-परः	2	तत्परः	तत्पर{पुं}{1;एक}	तत्पर{पुं}{1;एक}	विशेषणम्,1	साधानपरायण	वेर्य्_मुच्ह्_अट्टच्हेड्_टो_इट्	<तत्-परः>भ्स्6			
+5	संयत-इन्द्रियः	1	संयतेन्द्रियः	संयत-इन्द्रिय{पुं}{1;एक}	संयत-इन्द्रिय{पुं}{1;एक}	विशेषणम्,1	जितेन्द्रिय	चोन्ट्रोल्लेड्_सेन्सेस्	<संयत-इन्द्रियः>भ्स्6			
+6	ज्ञानम्	6	ज्ञानं	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{2;एक}	कर्म,7	ज्ञान_को	क्नोत्लेड्गे				
+7	लब्ध्वा	7	लब्ध्वा	लभ्1{कृत्_प्रत्ययः:क्त्वा;डुलभँष्;भ्वादिः}	लभ्1{कृत्_प्रत्ययः:क्त्वा;डुलभँष्;भ्वादिः}	पूर्वकालः,11	प्राप्त_होकर	हविन्ग्_अच्हिएवेड्				
+8	पराम्	9	परां	परा{स्त्री}{2;एक}/परा{स्त्री}{2;एक}	परा{स्त्री}{2;एक}	विशेषणम्,9	परम	ट्रन्स्चेन्डेन्टल्				
+9	शान्तिम्	10	शान्तिमचिरेणाधिगच्छति	शान्ति{स्त्री}{2;एक}	शान्ति{स्त्री}{2;एक}	कर्म,11	शान्ति_को	पेअचे				
+10	अचिरेण	8		अचिरेण{अव्य}/अचिर{नपुं}{3;एक}	अचिर{नपुं}{3;एक}	क्रियाविशेषणम्,11	बिना_विलम्ब_के_तत्काल_ही_(भगवत्प्राप्तिरूप)	वेर्य्_सोओन्				
+11	अधिगच्छति	11		अधि_गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}	अधि_गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;अधि_गमॢँ;भ्वादिः}		प्राप्त_हो_जाता_है	अट्टइन्स्				

@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yajFa-xAna-wapaH-karma	1	yajFaxAnawapaHkarma	yajFa-xAna-wapas-karman{napuM}{1;eka}/karman{napuM}{2;eka}	yajFa-xAna-wapas-karman{napuM}{1;eka}	karma,3	yajFa_xAna_Ora_waparUpa_karma	activities_of_sacrifice_charity_and_penance	<<yajFa-xAna-wapaH>Di-karma>K7			
-2	na	2	na	na{avya}	na{avya}	prawiReXaH,3	nahIM	never				
-3	wyAjyam	3	wyAjyaM	wyAjya{puM}{2;eka}	wyaj1{kqw_prawyayaH:Nyaw;wyajaz;BvAxiH;puM}{2;eka}	aBihiwa_karma,1	wyAga_karane_ke_yogya	to_be_given_up				
-4	kAryam	5	kAryameva	kArya{napuM}{2;eka}	kArya{napuM}{1;eka}	aBihiwa_karma,6	karwavya	must_be_done				
-5	eva	6	0	eva{avya}	eva{avya}	sambanXaH,4	avaSya	certainly				
-6	waw	4	waw	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,4	vaha	that				
-7	yajFaH	7	yajFo	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	sup_samucciwaH,9	yajFa	sacrifice				
-8	xAnam	8	xAnaM	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{1;eka}	sup_samucciwaH,9	xAna	charity				
-9	wapaH	9	wapaScEva	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	karwA,13.1	wapa	penance				
-10	ca	10	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,9	Ora	also				
-11	eva	11	0	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
-12	pAvanAni	13	pAvanAni	pAvana{napuM}{1;bahu}/pAvana{napuM}{2;bahu}	pAvana{napuM}{1;bahu}	viXeya_viSeRaNam,13.1	paviwra_karanevAle	purifying				
-13	manIRiNAm	12	manIRiNAm	manIRin{puM}{6;bahu}	manIRin{puM}{6;bahu}	RaRTIsambanXaH,12	buxXimAn_puruRoM_ko	even_of_the_great_souls				
-13.1	(sanwi)	14	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,9	(hEM)	are				
+1	यज्ञ-दान-तपः-कर्म	1	यज्ञदानतपःकर्म	यज्ञ-दान-तपस्-कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	यज्ञ-दान-तपस्-कर्मन्{नपुं}{1;एक}	कर्म,3	यज्ञ_दान_और_तपरूप_कर्म	अच्टिविटिएस्_ओङ्_सच्रिङिचे_च्हरिट्य्_अन्ड्_पेनन्चे	<<यज्ञ-दान-तपः>ढि-कर्म>ख्7			
+2	न	2	न	न{अव्य}	न{अव्य}	प्रतिषेधः,3	नहीं	नेवेर्				
+3	त्याज्यम्	3	त्याज्यं	त्याज्य{पुं}{2;एक}	त्यज्1{कृत्_प्रत्ययः:ण्यत्;त्यजँ;भ्वादिः;पुं}{2;एक}	अभिहित_कर्म,1	त्याग_करने_के_योग्य	टो_बे_गिवेन्_उप्				
+4	कार्यम्	5	कार्यमेव	कार्य{नपुं}{2;एक}	कार्य{नपुं}{1;एक}	अभिहित_कर्म,6	कर्तव्य	मुस्ट्_बे_डोने				
+5	एव	6	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,4	अवश्य	चेर्टइन्ल्य्				
+6	तत्	4	तत्	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्म,4	वह	ट्हट्				
+7	यज्ञः	7	यज्ञो	यज्ञ{पुं}{1;एक}	यज्ञ{पुं}{1;एक}	सुप्_समुच्चितः,9	यज्ञ	सच्रिङिचे				
+8	दानम्	8	दानं	दान{नपुं}{1;एक}/दान{नपुं}{2;एक}	दान{नपुं}{1;एक}	सुप्_समुच्चितः,9	दान	च्हरिट्य्				
+9	तपः	9	तपश्चैव	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}	तपस्{नपुं}{1;एक}	कर्ता,13.1	तप	पेनन्चे				
+10	च	10	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,9	और	अल्सो				
+11	एव	11	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,10	ही	चेर्टइन्ल्य्				
+12	पावनानि	13	पावनानि	पावन{नपुं}{1;बहु}/पावन{नपुं}{2;बहु}	पावन{नपुं}{1;बहु}	विधेय_विशेषणम्,13.1	पवित्र_करनेवाले	पुरिङ्यिन्ग्				
+13	मनीषिणाम्	12	मनीषिणाम्	मनीषिन्{पुं}{6;बहु}	मनीषिन्{पुं}{6;बहु}	षष्ठीसम्बन्धः,12	बुद्धिमान्_पुरुषों_को	एवेन्_ओङ्_ट्हे_ग्रेअट्_सोउल्स्				
+13.1	(सन्ति)	14	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,9	(हैं)	अरे				

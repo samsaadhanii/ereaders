@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	evam	4	evamukwvArjunaH	evam{avya}	evam{avya}	kriyAviSeRaNam,2	isa_prakAra	thus				
-2	ukwvA	5	0	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	vac1{kqw_prawyayaH:kwvA;vacaz;axAxiH}	pUrvakAlaH,6	kahakara	having_spoken				
-3	arjunaH	3	0	arjuna{puM}{1;eka}	arjuna{puM}{1;eka}	karwA,6	arjuna	Arjuna				
-4	safKye	1	safKye	safKya{napuM}{1;xvi}/safKya{napuM}{2;xvi}/safKya{napuM}{7;eka}/safKyA{swrI}{1;xvi}/safKyA{swrI}{2;xvi}	safKya{napuM}{7;eka}	aXikaraNam,6	raNaBUmi_meM	on_the_battlefield				
-5	raWa-upasWe	9	raWopasWa	raWa-upasWa{puM}{7;eka}/upasWa{napuM}{1;xvi}/upasWa{napuM}{2;xvi}/upasWa{napuM}{7;eka}	raWa-upasWa{puM}{7;eka}	aXikaraNam,6	raWa_ke_piCale_BAga_meM	the_hinder_part_of_his_chariot	<raWa-upasWe>T6			
-6	upAviSaw	10	upAviSaw	upa_viS1{karwari;laf;pra;eka;parasmEpaxI;viSaz;wuxAxiH}	upa_viS1{karwari;laf;pra;eka;parasmEpaxI;upa_viSaz;wuxAxiH}	aBihiwakarwA,3	bETa_gayA	sat_down				
-7	visqjya	8	visqjya	vi_sqj1{kqw_prawyayaH:lyap;sqjaz;xivAxiH}/vi_sqj2{kqw_prawyayaH:lyap;sqjaz;wuxAxiH}	vi_sqj2{kqw_prawyayaH:lyap;vi_sqjaz;wuxAxiH}	pUrvakAlaH,6	wyAgakara	having_cast_aside				
-8	sa-Saram	6	saSaraM	sa-Sara{puM}{2;eka}/Sara{napuM}{1;eka}/Sara{napuM}{2;eka}	sa-Sara{puM}{2;eka}	viSeRaNam,9	bANasahiwa	along_with_arrows	<sa-SaraM>BvS			
-9	cApam	7	cApaM	cApa{puM}{2;eka}/cApa{napuM}{1;eka}/cApa{napuM}{2;eka}	cApa{napuM}{2;eka}	karma,7	XanuRa_ko	the_bow				
-10	Soka-saMvigna-mAnasaH	2	SokasaMvignamAnasaH	Soka-saMvigna-mAnasa{puM}{1;eka}	Soka-saMvigna-mAnasa{puM}{1;eka}	viSeRaNam,3	Soka_se_uxvigna_manavAlA	whose_mind_was_agitated_by_grief	<<Soka-saMvigna>T3-mAnasaH>Bs6			
+1	एवम्	4	एवमुक्त्वार्जुनः	एवम्{अव्य}	एवम्{अव्य}	क्रियाविशेषणम्,2	इस_प्रकार	ट्हुस्				
+2	उक्त्वा	5	0	वच्1{कृत्_प्रत्ययः:क्त्वा;वचँ;अदादिः}	वच्1{कृत्_प्रत्ययः:क्त्वा;वचँ;अदादिः}	पूर्वकालः,6	कहकर	हविन्ग्_स्पोकेन्				
+3	अर्जुनः	3	0	अर्जुन{पुं}{1;एक}	अर्जुन{पुं}{1;एक}	कर्ता,6	अर्जुन	आर्जुन				
+4	सङ्ख्ये	1	सङ्ख्ये	सङ्ख्य{नपुं}{1;द्वि}/सङ्ख्य{नपुं}{2;द्वि}/सङ्ख्य{नपुं}{7;एक}/सङ्ख्या{स्त्री}{1;द्वि}/सङ्ख्या{स्त्री}{2;द्वि}	सङ्ख्य{नपुं}{7;एक}	अधिकरणम्,6	रणभूमि_में	ओन्_ट्हे_बट्ट्लेङिएल्ड्				
+5	रथ-उपस्थे	9	रथोपस्थ	रथ-उपस्थ{पुं}{7;एक}/उपस्थ{नपुं}{1;द्वि}/उपस्थ{नपुं}{2;द्वि}/उपस्थ{नपुं}{7;एक}	रथ-उपस्थ{पुं}{7;एक}	अधिकरणम्,6	रथ_के_पिछले_भाग_में	ट्हे_हिन्डेर्_पर्ट्_ओङ्_हिस्_च्हरिओट्	<रथ-उपस्थे>ठ्6			
+6	उपाविशत्	10	उपाविशत्	उप_विश्1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;विशँ;तुदादिः}	उप_विश्1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;उप_विशँ;तुदादिः}	अभिहितकर्ता,3	बैठ_गया	सट्_डोत्न्				
+7	विसृज्य	8	विसृज्य	वि_सृज्1{कृत्_प्रत्ययः:ल्यप्;सृजँ;दिवादिः}/वि_सृज्2{कृत्_प्रत्ययः:ल्यप्;सृजँ;तुदादिः}	वि_सृज्2{कृत्_प्रत्ययः:ल्यप्;वि_सृजँ;तुदादिः}	पूर्वकालः,6	त्यागकर	हविन्ग्_चस्ट्_असिडे				
+8	स-शरम्	6	सशरं	स-शर{पुं}{2;एक}/शर{नपुं}{1;एक}/शर{नपुं}{2;एक}	स-शर{पुं}{2;एक}	विशेषणम्,9	बाणसहित	अलोन्ग्_तिट्ह्_अर्रोत्स्	<स-शरं>भ्व्श्			
+9	चापम्	7	चापं	चाप{पुं}{2;एक}/चाप{नपुं}{1;एक}/चाप{नपुं}{2;एक}	चाप{नपुं}{2;एक}	कर्म,7	धनुष_को	ट्हे_बोत्				
+10	शोक-संविग्न-मानसः	2	शोकसंविग्नमानसः	शोक-संविग्न-मानस{पुं}{1;एक}	शोक-संविग्न-मानस{पुं}{1;एक}	विशेषणम्,3	शोक_से_उद्विग्न_मनवाला	त्होसे_मिन्ड्_तस्_अगिटटेड्_ब्य्_ग्रिएङ्	<<शोक-संविग्न>ठ्3-मानसः>भ्स्6			

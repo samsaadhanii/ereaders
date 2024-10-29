@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	iha	3	ihEkasWaM	iha{avya}	iha{avya}	xeSAXikaraNam,5	isa	in_this				
+2	eka-sWam	6	0	ekasWa{puM}{2;eka}/ekasWa{napuM}{1;eka}/ekasWa{napuM}{2;eka}	eka-sWa{napuM}{2;eka}	viSeRaNam,3	eka_jagaha_sWiwa	in_one	<eka-sWaM>U			
+3	jagaw	9	jagawkqwsnaM	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,5	jagaw_ko	the_universe				
+4	kqwsnam	8	0	kqwsna{napuM}{1;eka}/kqwsna{napuM}{2;eka}	kqwsna{napuM}{2;eka}	viSeRaNam,3	sampUrNa	completely				
+5	paSya	10	paSyAxya	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA	xeKa	see				
+6	axya	2	0	axya{avya}	axya{avya}	kAlAXikaraNam,5	aba	immediately				
+7	sa-cara-a-caram	7	sacarAcaram	sacara-a-cara{puM}{2;eka}/cara{napuM}{1;eka}/cara{napuM}{2;eka}	sacarAcara{napuM}{2;eka}	viSeRaNam,3	carAcarasahiwa	with_moving_and_not_moving	<sa-<cara-<na-caram>Tn>Di>BvS			
+8	mama	4	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,9	mere	my				
+9	xehe	5	xehe	xeha{napuM;1;xvi}/xeha{napuM;2;xvi}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;:BvAxiH}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;:BvAxiH}/xeha{napuM;8;xvi}/xeha{puM;7;eka}/xeha{napuM;7;eka}	xeha{napuM;7;eka}	aXikaraNam,5	SarIra_meM	in_this_body				
+10	gudAkeSa	1	gudAkeSa	gudAkeSa{puM}{8;eka}	gudAkeSa{puM}{8;eka}	samboXyaH,5	he_arjuna	O_Arjuna				
+11	yaw	12	yaccAnyaxxraRtumicCasi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,14;niwya_sambanXaH,15.1	jo	that				
+12	anyaw	11	anyaw_ca	anyaw{avya}/anya{napuM}{1;eka}/anya{napuM}{2;eka}	anya{napuM}{1;eka}_ca{avya}	viSeRaNam,11	Ora_BI	other_also				
+13	ca	13	0	ca/ca{avya}	ca/ca{avya}	sambanXaH,15						
+14	xraRtum	14	xraRtumicCasi	xqS1{avya;wumun;xqSizr;:BvAxiH}	xqS1{avya;wumun;xqSizr;:BvAxiH}	karma,15	xeKanA_cAhawA_ho	like_to_see				
+15	icCasi	15	0	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}							
+15.1	(waw)	16	(yaccAnyaxxraRtumicCasi)	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,15.2	jo	that				
+15.2	paSya	17	paSyAxya	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}		xeKa	see				

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	Avqwam	10	AvqwaM	Avqw{swrI}{2;eka}/Af_vqw1{karwari;luf;u;eka;AwmanepaxI;vqwuz;BvAxiH}	Af_vq2{kqw_prawyayaH:kwa;Af_vqF;svAxiH;napuM}{1;eka}	sambanXaH,10.1;aBihiwa_karma,2	DakA_huA	covered				
-2	jFAnam	9	jFAnamewena	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karma,1	jFAna	pure_consciousness				
-3	ewena	3	0	ewax{puM}{3;eka}/ewax{napuM}{3;eka}	ewax{napuM}{3;eka}	viSeRaNam,5	isa	by_this				
-4	jFAninaH	6	jFAnino	jFAnin{puM}{1;bahu}/jFAnin{puM}{2;bahu}/jFAnin{puM}{5;eka}/jFAnin{puM}{6;eka}/jFAnin{puM}{8;bahu}	jFAnin{puM}{6;eka}	RaRTIsambanXaH,5	jFAniyoM_ke	of_the_knower				
-5	niwya-vEriNA	7	niwyavEriNA	niwyavEriNA	niwyavErin{napuM}{3;eka}	viSeRaNam,9	niwya_vErI_ke_xvArA_(manuRya_kA)	eternal_enemy	<niwya-vEriNA>K1			
-6	kAma-rUpeNa	5	kAmarUpeNa	kAma-rUpa{napuM}{3;eka}	kAma-rUpa{napuM}{3;eka}	viSeRaNam,5	kAmarUpa	in_the_form_of_lust	<kAma-rUpeNa>Bs6			
-7	kOnweya	2	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,10.1	he_arjuna	O_son_of_Kunti				
-8	xuR-pUreNa	4	xuRpUreNAnalena	xuRpUra{puM}{3;eka}/xuRpUra{napuM}{3;eka}	xuRpUra{napuM}{3;eka}	viSeRaNam,9	na_pUrNa_honevAle	never_to_be_satisfied	<xuR-pUreNa>Tp			
-9	analena	8	0	anala{puM}{3;eka}	anala{puM}{3;eka}	karwA,1	agni_ke	by_the_fire				
-10	ca	1	ca	ca{avya}	ca{avya}	sambanXaH,1	Ora	also				
-10.1	(aswi)	11	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwAH,1;akarmakaH	(hE)	is				
+1	आवृतम्	10	आवृतं	आवृत्{स्त्री}{2;एक}/आङ्_वृत्1{कर्तरि;लुङ्;उ;एक;आत्मनेपदी;वृतुँ;भ्वादिः}	आङ्_वृ2{कृत्_प्रत्ययः:क्त;आङ्_वृञ्;स्वादिः;नपुं}{1;एक}	सम्बन्धः,10.1;अभिहित_कर्म,2	ढका_हुआ	चोवेरेड्				
+2	ज्ञानम्	9	ज्ञानमेतेन	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{2;एक}	कर्म,1	ज्ञान	पुरे_चोन्स्चिओउस्नेस्स्				
+3	एतेन	3	0	एतद्{पुं}{3;एक}/एतद्{नपुं}{3;एक}	एतद्{नपुं}{3;एक}	विशेषणम्,5	इस	ब्य्_ट्हिस्				
+4	ज्ञानिनः	6	ज्ञानिनो	ज्ञानिन्{पुं}{1;बहु}/ज्ञानिन्{पुं}{2;बहु}/ज्ञानिन्{पुं}{5;एक}/ज्ञानिन्{पुं}{6;एक}/ज्ञानिन्{पुं}{8;बहु}	ज्ञानिन्{पुं}{6;एक}	षष्ठीसम्बन्धः,5	ज्ञानियों_के	ओङ्_ट्हे_क्नोतेर्				
+5	नित्य-वैरिणा	7	नित्यवैरिणा	नित्यवैरिणा	नित्यवैरिन्{नपुं}{3;एक}	विशेषणम्,9	नित्य_वैरी_के_द्वारा_(मनुष्य_का)	एटेर्नल्_एनेम्य्	<नित्य-वैरिणा>ख्1			
+6	काम-रूपेण	5	कामरूपेण	काम-रूप{नपुं}{3;एक}	काम-रूप{नपुं}{3;एक}	विशेषणम्,5	कामरूप	इन्_ट्हे_ङोर्म्_ओङ्_लुस्ट्	<काम-रूपेण>भ्स्6			
+7	कौन्तेय	2	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,10.1	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+8	दुष्-पूरेण	4	दुष्पूरेणानलेन	दुष्पूर{पुं}{3;एक}/दुष्पूर{नपुं}{3;एक}	दुष्पूर{नपुं}{3;एक}	विशेषणम्,9	न_पूर्ण_होनेवाले	नेवेर्_टो_बे_सटिस्ङिएड्	<दुष्-पूरेण>ठ्प्			
+9	अनलेन	8	0	अनल{पुं}{3;एक}	अनल{पुं}{3;एक}	कर्ता,1	अग्नि_के	ब्य्_ट्हे_ङिरे				
+10	च	1	च	च{अव्य}	च{अव्य}	सम्बन्धः,1	और	अल्सो				
+10.1	(अस्ति)	11	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ताः,1;अकर्मकः	(है)	इस्				

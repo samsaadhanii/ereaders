@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sarva-xvAreRu	4	sarvaxvAreRu	sarva-xvAra{napuM}{7;bahu}	sarva-xvAra{napuM}{7;bahu}	aXikaraNam,5	anwaHkaraNa_Ora_inxriyoM_meM	all_the_gates	<sarva-xvAreRu>K1			
+2	xehe	3	xeheZsminprakASa	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{napuM}{7;eka}	aXikaraNam,5	xeha_meM	in_this_body				
+3	asmin	2	0	ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{puM}{7;eka}	viSeRaNam,2	isa	in_this				
+4	prakASaH	5	0	prakASa{puM}{1;eka}	prakASa{puM}{1;eka}	karwA,5	cewanawA	quality_of_illumination				
+5	upajAyawe	8	upajAyawe	upa_jan3{karwari;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}/upa_jan3{karmaNi;lat;pra;eka;AwmanepaxI;janIz;xivAxiH}	upa_jan3{karwari;lat;pra;eka;AwmanepaxI;upa_janIz;xivAxiH}	aBihiwakarwA,4;akarmakaH	uwpanna_howA_hE	develops				
+6	jFAnam	7	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	sup_samucciwaH,4	jFAna	knowledge				
+6.1	(ca)	6	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,6	(Ora)	also				
+7	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,5;niwya_sambanXaH,8	jisa_samaya	when				
+8	waxA	9	waxA	waxA{avya}	waxA{avya}	kAlAXikaraNam,9	usa_samaya	at_that_time				
+9	vixyAw	11	vixyAxvivqxXaM	vix1{karwari;viXilif;pra;eka;parasmEpaxI;vixaz;axAxiH}/vix1{karwari;ASIrlif;pra;eka;parasmEpaxI;vixaz;axAxiH}/vix3{karwari;ASIrlif;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	vix1{karwari;viXilif;pra;eka;parasmEpaxI;vixaz;axAxiH}		jAnanA_cAhiye	must_know				
+10	vivqxXam	14	0	vivqxXa{puM}{2;eka}/vivqxXa{napuM}{1;eka}/vivqxXa{napuM}{2;eka}	vi_vqX1{kqw_prawyayaH:kwa;vi_vqXuz;BvAxiH;napuM}{1;eka}	vAkyakarma,9	baDa़A	increased				
+11	sawwvam	13	sawwvamiwyuwa	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	karwA,10	sawwvaguNa	the_mode_of_goodness				
+12	iwi	10	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,10	EsA	thus				
+13	uwa	12		uwa{avya}/uwa{puM}{8;eka}/uwa{napuM}{8;eka}	uwa{avya}	sambanXaH,9	ki	said				

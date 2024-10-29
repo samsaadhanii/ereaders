@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	akRaram	2	akRaraM	akRara{napuM}{1;eka}/akRara{napuM}{2;eka}/kRar1{karwari;laf;u;eka;parasmEpaxI;kRaraz;BvAxiH}	akRara{napuM}{1;eka}	karma,3.1	akRara	indestructible	<na-kRaram>Tn			
-2	brahma	3	brahma	brahma{napuM}{8;eka}/brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karmasamAnAXikaraNam,3.1	brahma	Brahman				
-3	paramam	1	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{1;eka}	viSeRaNam,2	parama	transcendental				
-3.1	(ucyawe)	4	(0)	(ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH})	(vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH})	aBihiwa_karwA,2;sakarmakaH	(kahA_jAwA_hE)	is_called				
-4	svaBAvaH	5	svaBAvoZXyAwmamucyawe	svaBAva{puM}{1;eka}	svaBAva{puM}{1;eka}	karma,6	apanA_svarUpa_arWAw_jIvAwmA	eternal_nature	<sva-BAvaH>T6			
-5	aXyAwmam	6	0	aXyAwma{puM}{2;eka}/aXyAwma{napuM}{1;eka}/aXyAwma{napuM}{2;eka}	aXyAwma{napuM}{1;eka}	karmasamAnAXikaraNam,6	aXyAwma	the_self	<aXi-AwmaM>A1			
-6	ucyawe	7	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karwA,4;sakarmakaH	kahA_jAwA_hE	is_called				
-7	BUwaBAva-uxBavakaraH	8	BUwaBAvoxBavakaro	BUwa-BAva-uxBava-kara{puM}{1;eka}	BUwa-BAva-uxBava-kara{puM}{1;eka}	karma,9.1	BUwoM_ke_BAva_ko_uwpanna_karanevAlA	action_producing_the_material_bodies_of_the_living_entities	<<<BUwa-BAva>T6-uxBava>T6-karaH>U			
-8	visargaH	9	visargaH	visarga{puM}{1;eka}	visarga{puM}{1;eka}	viSeRaNam,7	wyAga	creation				
-9	karmasaFjFiwaH	10	karmasaFjFiwaH	karman-saFjFiwa{puM}{1;eka}	karman-saFjFiwa{puM}{1;eka}	viXeya_viSeRaNam,9.1	karma_nAma_se	is_called_as_fruitive_activities	<karma-saFjFiwaH>K7			
-9.1	(aswi)	11	(0)	as1{karwari;lat;pra;eka;parasmEpaxI;as;axAxiH})	as1{karwari;lat;pra;eka;parasmEpaxI;as;axAxiH})	aBihiwakarwA,8;akarmakaH	(kahA_gayA_hE)	is_called				
+1	अक्षरम्	2	अक्षरं	अक्षर{नपुं}{1;एक}/अक्षर{नपुं}{2;एक}/क्षर्1{कर्तरि;लङ्;उ;एक;परस्मैपदी;क्षरँ;भ्वादिः}	अक्षर{नपुं}{1;एक}	कर्म,3.1	अक्षर	इन्डेस्ट्रुच्टिब्ले	<न-क्षरम्>ठ्न्			
+2	ब्रह्म	3	ब्रह्म	ब्रह्म{नपुं}{8;एक}/ब्रह्मन्{नपुं}{1;एक}/ब्रह्मन्{नपुं}{2;एक}	ब्रह्मन्{नपुं}{1;एक}	कर्मसमानाधिकरणम्,3.1	ब्रह्म	भ्रह्मन्				
+3	परमम्	1	परमं	परमम्{अव्य}/परम{पुं}{2;एक}/परम{नपुं}{1;एक}/परम{नपुं}{2;एक}	परम{नपुं}{1;एक}	विशेषणम्,2	परम	ट्रन्स्चेन्डेन्टल्				
+3.1	(उच्यते)	4	(0)	(उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः})	(वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः})	अभिहित_कर्ता,2;सकर्मकः	(कहा_जाता_है)	इस्_चल्लेड्				
+4	स्वभावः	5	स्वभावोऽध्यात्ममुच्यते	स्वभाव{पुं}{1;एक}	स्वभाव{पुं}{1;एक}	कर्म,6	अपना_स्वरूप_अर्थात्_जीवात्मा	एटेर्नल्_नटुरे	<स्व-भावः>ठ्6			
+5	अध्यात्मम्	6	0	अध्यात्म{पुं}{2;एक}/अध्यात्म{नपुं}{1;एक}/अध्यात्म{नपुं}{2;एक}	अध्यात्म{नपुं}{1;एक}	कर्मसमानाधिकरणम्,6	अध्यात्म	ट्हे_सेल्ङ्	<अधि-आत्मं>आ1			
+6	उच्यते	7	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहित_कर्ता,4;सकर्मकः	कहा_जाता_है	इस्_चल्लेड्				
+7	भूतभाव-उद्भवकरः	8	भूतभावोद्भवकरो	भूत-भाव-उद्भव-कर{पुं}{1;एक}	भूत-भाव-उद्भव-कर{पुं}{1;एक}	कर्म,9.1	भूतों_के_भाव_को_उत्पन्न_करनेवाला	अच्टिओन्_प्रोडुचिन्ग्_ट्हे_मटेरिअल्_बोडिएस्_ओङ्_ट्हे_लिविन्ग्_एन्टिटिएस्	<<<भूत-भाव>ठ्6-उद्भव>ठ्6-करः>ऊ			
+8	विसर्गः	9	विसर्गः	विसर्ग{पुं}{1;एक}	विसर्ग{पुं}{1;एक}	विशेषणम्,7	त्याग	च्रेअटिओन्				
+9	कर्मसञ्ज्ञितः	10	कर्मसञ्ज्ञितः	कर्मन्-सञ्ज्ञित{पुं}{1;एक}	कर्मन्-सञ्ज्ञित{पुं}{1;एक}	विधेय_विशेषणम्,9.1	कर्म_नाम_से	इस्_चल्लेड्_अस्_ङ्रुइटिवे_अच्टिविटिएस्	<कर्म-सञ्ज्ञितः>ख्7			
+9.1	(अस्ति)	11	(0)	अस्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;अस्;अदादिः})	अस्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;अस्;अदादिः})	अभिहितकर्ता,8;अकर्मकः	(कहा_गया_है)	इस्_चल्लेड्				

@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	Bava-apyayO	4	BavApyayO	Bava-apyaya{puM}{1;xvi}/apyaya{puM}{2;xvi}/apyaya{puM}{8;xvi}	Bava-apyaya{puM}{2;xvi}	karma,4	uwpawwi_Ora_pralaya	appearance_and_disappearance	<Bava-apyayO>Di			
-2	hi	5	hi	hi{avya}	hi{avya}	sambanXaH,1	kyoMki	certainly				
-3	BUwAnAm	3	BUwAnAM	BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}/BUwA{swrI}{6;bahu}	BUwa{puM}{6;bahu}	RaRTIsambanXaH,1	BUwoM_kI	of_all_living_entities				
-4	SruwO	7	SruwO	Sruwa{puM}{1;xvi}/Sruwa{puM}{2;xvi}/Sruwa{puM}{8;xvi}/Sruwi{swrI}{7;eka}	Sru1{kqw_prawyayaH:kwa;Sru;BvAxiH;puM}{1;xvi}	aBihiwa_karma,1	sune_hEM	have_heard				
-5	viswaraSaH	6	viswaraSo	viswaraSaH	viswaraSaH{avya}	kriyAviSeRaNam,4	viswArapUrvaka	detail				
-6	mayA	2	mayA	asmax{3;eka}	asmax{3;eka}	karwA,4	mEMne	by_me				
-7	wvawwaH	1	wvawwaH	wvawwaH{avya}/wvaw{avya}	wvawwaH{avya}	apAxAnam,4	Apase	from_You				
-8	kamala-pawra-akRa	8	kamalapawrAkRa	kamala-pawra-akRa{puM}{8;eka}	kamala-pawra-akRa{puM}{8;eka}	samboXyaH,4	he_kamalanewra	O_lotus-eyed_one	<<kamala-pawra>T6-akRa>Bsu			
-9	mAhAwmyam	10	mAhAwmyamapi	mAhAwmya{napuM}{1;eka}/mAhAwmya{napuM}{2;eka}	mAhAwmya{napuM}{2;eka}	karma,12.1	mahimA	glories				
-10	api	12	cAvyayam	api{avya}	api{avya}	sambanXaH,9	waWA	and_also				
-11	ca	11	0	ca/ca{avya}	ca{avya}	sambanXaH,10						
-12	a-vyayam	9	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	avyaya{puM}{2;eka}	viSeRaNam,9	avinASI	inexhaustible	<na-vyayam>Bsmn			
-12.1	(Sruwam)	12.1	(Sruwam)	Sruwa{puM}{2;eka}/Sruwa{napuM}{2;eka}/Sruwa{napuM}{1;eka}	Sru1{kqw_prawyayaH:kwa;Sru;BvAxiH;napuM}{1;eka}	aBihiwa_karma,9	sune_hEM	have_heard				
+1	भव-अप्ययौ	4	भवाप्ययौ	भव-अप्यय{पुं}{1;द्वि}/अप्यय{पुं}{2;द्वि}/अप्यय{पुं}{8;द्वि}	भव-अप्यय{पुं}{2;द्वि}	कर्म,4	उत्पत्ति_और_प्रलय	अप्पेअरन्चे_अन्ड्_डिसप्पेअरन्चे	<भव-अप्ययौ>ढि			
+2	हि	5	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,1	क्योंकि	चेर्टइन्ल्य्				
+3	भूतानाम्	3	भूतानां	भूत{पुं}{6;बहु}/भूत{नपुं}{6;बहु}/भूता{स्त्री}{6;बहु}/भूता{स्त्री}{6;बहु}	भूत{पुं}{6;बहु}	षष्ठीसम्बन्धः,1	भूतों_की	ओङ्_अल्ल्_लिविन्ग्_एन्टिटिएस्				
+4	श्रुतौ	7	श्रुतौ	श्रुत{पुं}{1;द्वि}/श्रुत{पुं}{2;द्वि}/श्रुत{पुं}{8;द्वि}/श्रुति{स्त्री}{7;एक}	श्रु1{कृत्_प्रत्ययः:क्त;श्रु;भ्वादिः;पुं}{1;द्वि}	अभिहित_कर्म,1	सुने_हैं	हवे_हेअर्ड्				
+5	विस्तरशः	6	विस्तरशो	विस्तरशः	विस्तरशः{अव्य}	क्रियाविशेषणम्,4	विस्तारपूर्वक	डेटइल्				
+6	मया	2	मया	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,4	मैंने	ब्य्_मे				
+7	त्वत्तः	1	त्वत्तः	त्वत्तः{अव्य}/त्वत्{अव्य}	त्वत्तः{अव्य}	अपादानम्,4	आपसे	ङ्रोम्_Yओउ				
+8	कमल-पत्र-अक्ष	8	कमलपत्राक्ष	कमल-पत्र-अक्ष{पुं}{8;एक}	कमल-पत्र-अक्ष{पुं}{8;एक}	सम्बोध्यः,4	हे_कमलनेत्र	औ_लोटुस्-एयेड्_ओने	<<कमल-पत्र>ठ्6-अक्ष>भ्सु			
+9	माहात्म्यम्	10	माहात्म्यमपि	माहात्म्य{नपुं}{1;एक}/माहात्म्य{नपुं}{2;एक}	माहात्म्य{नपुं}{2;एक}	कर्म,12.1	महिमा	ग्लोरिएस्				
+10	अपि	12	चाव्ययम्	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,9	तथा	अन्ड्_अल्सो				
+11	च	11	0	च/च{अव्य}	च{अव्य}	सम्बन्धः,10						
+12	अ-व्ययम्	9	0	अ-व्यय{पुं}{2;एक}/व्यय{नपुं}{1;एक}/व्यय{नपुं}{2;एक}	अव्यय{पुं}{2;एक}	विशेषणम्,9	अविनाशी	इनेद्हउस्टिब्ले	<न-व्ययम्>भ्स्म्न्			
+12.1	(श्रुतम्)	12.1	(श्रुतम्)	श्रुत{पुं}{2;एक}/श्रुत{नपुं}{2;एक}/श्रुत{नपुं}{1;एक}	श्रु1{कृत्_प्रत्ययः:क्त;श्रु;भ्वादिः;नपुं}{1;एक}	अभिहित_कर्म,9	सुने_हैं	हवे_हेअर्ड्				

@@ -1,24 +1,24 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wvam	1	wvamakRaraM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,4.1	Apa	you				
-2	a-kRaram	4	0	a-kRara{napuM}{1;eka}/kRara{napuM}{2;eka}	akRara{napuM}{1;eka}	viXeya_viSeRaNam,4.1	akRara_arWAw_parabrahma_paramAwmA	inexhaustible	<na-kRaram>Tn			
-3	paramam	3	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{1;eka}	viSeRaNam,2	parama	supreme				
-4	vexiwavyam	2	vexiwavyaM	vexiwavya{puM}{2;eka}/vexiwavya{napuM}{1;eka}/vexiwavya{napuM}{2;eka}	vix1{kqw_prawyayaH:wavyaw;vixaz;axAxiH;napuM}{1;eka}	viSeRaNam,2	jAnane_yogya	to_be_understood				
-4.1	(asi)	5	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,1;akarmakaH	(hEM)	are				
-5	wvam	6	wvamasya	yuRmax{1;eka}	yuRmax{1;eka}	karwA,9.1	Apa	you				
-6	asya	7	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{napuM}{6;eka}	viSeRaNam,7	isa	of_this				
-7	viSvasya	8	viSvasya	viSva{puM}{6;eka}/viSva{napuM}{6;eka}/viSva{puM}{6;eka}/viSva{napuM}{6;eka}/vi_Svas1{kqw_prawyayaH:lyap;Svasaz;axAxiH}	viSva{napuM}{6;eka}	RaRTIsambanXaH,9	jagaw_ke	of_the_universe				
-8	param	9	paraM	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{napuM}{1;eka}	viSeRaNam,9	parama	supreme				
-9	niXAnam	10	niXAnam	niXAna{napuM}{1;eka}/niXAna{napuM}{2;eka}	niXAna{napuM}{1;eka}	viXeya_viSeRaNam,9.1	ASraya	basis				
-9.1	(asi)	11	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hEM)	are				
-10	wvam	12	wvamavyayaH	yuRmax{1;eka}	yuRmax{1;eka}	karwA,12.1	Apa	you				
-11	a-vyayaH	16	0	a-vyaya{puM}{1;eka}	avyaya{puM}{1;eka}	viSeRaNam,15	avinASI	inexhaustible	<na-vyayaH>Bsmn			
-12	SASvawa-Xarma-gopwA	13	SASvawaXarmagopwA	SASvawa-Xarman-gopwq{puM}{1;eka}	SASvawa-Xarman-gopwq{puM}{1;eka}	viXeya_viSeRaNam,12.1	anAxi_Xarma_ke_rakRaka	maintainer_of_the_eternal_religion	<<SASvawa-Xarma>K1-gopwA>T6			
-12.1	(asi)	14	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10;akarmakaH	(hEM)	are				
-13	sanAwanaH	17	sanAwanaswvaM	sanAwana{puM}{1;eka}	sanAwana{puM}{1;eka}	viSeRaNam,15	sanAwana	eternal				
-14	wvam	15	0	yuRmax{1;eka}	yuRmax{1;eka}	karwA,15.1	Apa	you				
-15	puruRaH	18	puruRo	puruRa{puM}{1;eka}	puruRa{puM}{1;eka}	viXeya_viSeRaNam,15.1	puruRa	Supreme_Personality				
-15.1	(asi)	19	(0)	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH})	vAkyakarma,16	(hEM)	are				
-15.2	(iwi)	20	(0)	(iwi{avya})	(iwi{avya})	vAkyakarma_xyowakaH,15.1	(EsA)	thus				
-16	mawaH	22	mawo	mawa{puM}{1;eka}	mawa{puM}{1;eka}	karwA,17.1	mawa	opinion				
-17	me	21	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,16	merA	my				
-17.1	(aswi)	23	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,16;akarmakaH	(hE)	is				
+1	त्वम्	1	त्वमक्षरं	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,4.1	आप	योउ				
+2	अ-क्षरम्	4	0	अ-क्षर{नपुं}{1;एक}/क्षर{नपुं}{2;एक}	अक्षर{नपुं}{1;एक}	विधेय_विशेषणम्,4.1	अक्षर_अर्थात्_परब्रह्म_परमात्मा	इनेद्हउस्टिब्ले	<न-क्षरम्>ठ्न्			
+3	परमम्	3	परमं	परमम्{अव्य}/परम{पुं}{2;एक}/परम{नपुं}{1;एक}/परम{नपुं}{2;एक}	परम{नपुं}{1;एक}	विशेषणम्,2	परम	सुप्रेमे				
+4	वेदितव्यम्	2	वेदितव्यं	वेदितव्य{पुं}{2;एक}/वेदितव्य{नपुं}{1;एक}/वेदितव्य{नपुं}{2;एक}	विद्1{कृत्_प्रत्ययः:तव्यत्;विदँ;अदादिः;नपुं}{1;एक}	विशेषणम्,2	जानने_योग्य	टो_बे_उन्डेर्स्टोओड्				
+4.1	(असि)	5	(0)	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,1;अकर्मकः	(हैं)	अरे				
+5	त्वम्	6	त्वमस्य	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,9.1	आप	योउ				
+6	अस्य	7	0	इदम्{पुं}{6;एक}/इदम्{नपुं}{6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	इदम्{नपुं}{6;एक}	विशेषणम्,7	इस	ओङ्_ट्हिस्				
+7	विश्वस्य	8	विश्वस्य	विश्व{पुं}{6;एक}/विश्व{नपुं}{6;एक}/विश्व{पुं}{6;एक}/विश्व{नपुं}{6;एक}/वि_श्वस्1{कृत्_प्रत्ययः:ल्यप्;श्वसँ;अदादिः}	विश्व{नपुं}{6;एक}	षष्ठीसम्बन्धः,9	जगत्_के	ओङ्_ट्हे_उनिवेर्से				
+8	परम्	9	परं	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{नपुं}{1;एक}	विशेषणम्,9	परम	सुप्रेमे				
+9	निधानम्	10	निधानम्	निधान{नपुं}{1;एक}/निधान{नपुं}{2;एक}	निधान{नपुं}{1;एक}	विधेय_विशेषणम्,9.1	आश्रय	बसिस्				
+9.1	(असि)	11	(0)	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,5;अकर्मकः	(हैं)	अरे				
+10	त्वम्	12	त्वमव्ययः	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,12.1	आप	योउ				
+11	अ-व्ययः	16	0	अ-व्यय{पुं}{1;एक}	अव्यय{पुं}{1;एक}	विशेषणम्,15	अविनाशी	इनेद्हउस्टिब्ले	<न-व्ययः>भ्स्म्न्			
+12	शाश्वत-धर्म-गोप्ता	13	शाश्वतधर्मगोप्ता	शाश्वत-धर्मन्-गोप्तृ{पुं}{1;एक}	शाश्वत-धर्मन्-गोप्तृ{पुं}{1;एक}	विधेय_विशेषणम्,12.1	अनादि_धर्म_के_रक्षक	मइन्टइनेर्_ओङ्_ट्हे_एटेर्नल्_रेलिगिओन्	<<शाश्वत-धर्म>ख्1-गोप्ता>ठ्6			
+12.1	(असि)	14	(0)	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,10;अकर्मकः	(हैं)	अरे				
+13	सनातनः	17	सनातनस्त्वं	सनातन{पुं}{1;एक}	सनातन{पुं}{1;एक}	विशेषणम्,15	सनातन	एटेर्नल्				
+14	त्वम्	15	0	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,15.1	आप	योउ				
+15	पुरुषः	18	पुरुषो	पुरुष{पुं}{1;एक}	पुरुष{पुं}{1;एक}	विधेय_विशेषणम्,15.1	पुरुष	शुप्रेमे_फेर्सोनलिट्य्				
+15.1	(असि)	19	(0)	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः})	वाक्यकर्म,16	(हैं)	अरे				
+15.2	(इति)	20	(0)	(इति{अव्य})	(इति{अव्य})	वाक्यकर्म_द्योतकः,15.1	(ऐसा)	ट्हुस्				
+16	मतः	22	मतो	मत{पुं}{1;एक}	मत{पुं}{1;एक}	कर्ता,17.1	मत	ओपिनिओन्				
+17	मे	21	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,16	मेरा	म्य्				
+17.1	(अस्ति)	23	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,16;अकर्मकः	(है)	इस्				

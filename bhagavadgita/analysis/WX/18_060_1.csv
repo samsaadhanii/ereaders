@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sva-BAva-jena	10	svaBAvajena	svaBAvaja{puM}{3;eka}/svaBAvaja{napuM}{3;eka}	svaBAva-ja{napuM}{3;eka}	viSeRaNam,5	svABAvika	by_one's_own_nature	<<sva-BAva>T6-jena>U			
+2	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,11	he_kunwIpuwra	O_son_of_Kunti				
+3	nibaxXaH	12	nibaxXaH	nibaxXa{puM}{1;eka}	ni_banX1{kqw_prawyayaH:kwa;ni_banXaz;kryAxiH;puM}{1;eka}	viSeRaNam,14.1	bazXA_huA	conditioned				
+4	svena	9	svena	sva{puM}{3;eka}/sva{napuM}{3;eka}/sva{puM}{3;eka}/sva{napuM}{3;eka}	sva{napuM}{3;eka}	viSeRaNam,5	apane	by_one's_own				
+5	karmaNA	11	karmaNA	karman{napuM}{3;eka}	karman{napuM}{3;eka}	karaNam,6	karma_se	activities				
+6	karwum	4	karwuM	kq1{kqw_prawyayaH:wumun;kqF;BvAxiH}/kq2{kqw_prawyayaH:wumun;kqF;svAxiH}/kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	prayojanam,8	karanA	to_do				
+7	na	5	necCasi	na{avya}/nas{swrI}{8;eka}	na{avya}	prawiReXaH,8	nahIM	not				
+8	icCasi	6	0	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	iR2{karwari;lat;ma;eka;parasmEpaxI;iRuz;wuxAxiH}		cAhawA	like				
+9	yaw	2	yanmohAwkariRyasyavaSoZpi	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	karma,6;niwya_sambanXaH,14	jisako_(karma_ko)	that				
+10	mohAw	3	0	moha{puM}{5;eka}	moha{puM}{5;eka}	hewuH,6	moha_ke_kAraNa	by_illusion				
+11	kariRyasi	15	0	kq2{karwari;lqt;ma;eka;parasmEpaxI;kqF;svAxiH}/kq3{karwari;lqt;ma;eka;parasmEpaxI;dukqF;wanAxiH}/kQ1{karwari;lqt;ma;eka;parasmEpaxI;kQ;wuxAxiH}/kQ2{karwari;lqt;ma;eka;parasmEpaxI;kQF;kryAxiH}	kq3{karwari;lqt;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,14.1;sakarmakaH	karoge	will_act				
+12	a-vaSaH	14	0	avaSa{puM}{1;eka}/avaSas{swrI}{1;eka}	avaSa{puM}{1;eka}	viSeRaNam,14.1	paravaSa_hokara	imperceptibly	<na-vaSaH>Tn			
+13	api	8	0	api{avya}	api{avya}	sambanXaH,14	BI	also				
+14	waw	7	waw	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,11	usako	that				
+14.1	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wuma)	you				

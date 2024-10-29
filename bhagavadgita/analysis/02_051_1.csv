@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	karma-jam	4	karmajaM	karmaja{puM}{2;eka}/karmaja{napuM}{1;eka}/karmaja{napuM}{2;eka}	karmaja{napuM}{2;eka}	viSeRaNam,4	karmoM_se_uwpanna_honevAle	arising_out_of_actions	<karma-jam>U			
-2	buxXi-yukwAH	2	buxXiyukwA	buxXi-yukwa{puM}{1;bahu}/yukwa{puM}{8;bahu}/yukwA{swrI}{1;bahu}/yukwA{swrI}{2;bahu}/yukwA{swrI}{8;bahu}	buxXi-yukwa{puM}{1;bahu}	viSeRaNam,6	samabuxXi_se_yukwa	possessing_equipoised_mind	<buxXi-yukwAH>T3			
-3	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,9	kyoMki	for				
-4	Palam	5	PalaM	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karma,5	Pala_ko	the_fruit				
-5	wyakwvA	6	wyakwvA	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	pUrvakAlaH,9	wyAgakara	renouncing				
-6	manIRiNaH	3	manIRiNaH	manIRin{puM}{1;bahu}/manIRin{puM}{2;bahu}/manIRin{puM}{5;eka}/manIRin{puM}{6;eka}/manIRin{puM}{8;bahu}	manIRin{puM}{1;bahu}	karwA,9	jFAnIjana	wise_men				
-7	janma-banXa-vinirmukwAH	7	janmabanXavinirmukwAH	janman-banXa-vinirmukwa{puM}{1;bahu}/vinirmukwA{swrI}{1;bahu}/vinirmukwA{swrI}{2;bahu}	janman-banXa-vinirmukwa{puM}{2;bahu}	viXeya_viSeRaNam,9	janmarUpa_banXana_se_mukwa_ho	the_shackles_of_birth	<<janma-banXa>K6-vinirmukwAH>T3			
-8	paxam	9	paxaM	pax{puM}{2;eka}/paxa{napuM}{1;eka}/paxa{napuM}{2;eka}	paxa{napuM}{2;eka}	karma,9	paramapaxa_ko	the_blissful_supreme_state				
-9	gacCanwi	10	gacCanwyanAmayam	gacCaw{napuM}{1;bahu}/gacCaw{napuM}{2;bahu}/gacCaw{napuM}{8;bahu}/gam1{karwari;lat;pra;bahu;parasmEpaxI;gamLz;BvAxiH}/gacCanwI{swrI}{8;eka}	gam1{karwari;lat;pra;bahu;parasmEpaxI;gamLz;BvAxiH}	aBihiwakarwA,6	prApwa_ho_jAwe_hEM	attain				
-10	an-Amayam	8	0	anAmaya{puM}{2;eka}/anAmaya{napuM}{1;eka}/anAmaya{napuM}{2;eka}	anAmaya{napuM}{2;eka}	viSeRaNam,8	nirvikAra	free_from_all_evil	<na-Amayam>Bsmn			
+1	कर्म-जम्	4	कर्मजं	कर्मज{पुं}{2;एक}/कर्मज{नपुं}{1;एक}/कर्मज{नपुं}{2;एक}	कर्मज{नपुं}{2;एक}	विशेषणम्,4	कर्मों_से_उत्पन्न_होनेवाले	अरिसिन्ग्_ओउट्_ओङ्_अच्टिओन्स्	<कर्म-जम्>ऊ			
+2	बुद्धि-युक्ताः	2	बुद्धियुक्ता	बुद्धि-युक्त{पुं}{1;बहु}/युक्त{पुं}{8;बहु}/युक्ता{स्त्री}{1;बहु}/युक्ता{स्त्री}{2;बहु}/युक्ता{स्त्री}{8;बहु}	बुद्धि-युक्त{पुं}{1;बहु}	विशेषणम्,6	समबुद्धि_से_युक्त	पोस्सेस्सिन्ग्_एऋउइपोइसेड्_मिन्ड्	<बुद्धि-युक्ताः>ठ्3			
+3	हि	1	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,9	क्योंकि	ङोर्				
+4	फलम्	5	फलं	फल{नपुं}{1;एक}/फल{नपुं}{2;एक}	फल{नपुं}{2;एक}	कर्म,5	फल_को	ट्हे_ङ्रुइट्				
+5	त्यक्त्वा	6	त्यक्त्वा	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	पूर्वकालः,9	त्यागकर	रेनोउन्चिन्ग्				
+6	मनीषिणः	3	मनीषिणः	मनीषिन्{पुं}{1;बहु}/मनीषिन्{पुं}{2;बहु}/मनीषिन्{पुं}{5;एक}/मनीषिन्{पुं}{6;एक}/मनीषिन्{पुं}{8;बहु}	मनीषिन्{पुं}{1;बहु}	कर्ता,9	ज्ञानीजन	तिसे_मेन्				
+7	जन्म-बन्ध-विनिर्मुक्ताः	7	जन्मबन्धविनिर्मुक्ताः	जन्मन्-बन्ध-विनिर्मुक्त{पुं}{1;बहु}/विनिर्मुक्ता{स्त्री}{1;बहु}/विनिर्मुक्ता{स्त्री}{2;बहु}	जन्मन्-बन्ध-विनिर्मुक्त{पुं}{2;बहु}	विधेय_विशेषणम्,9	जन्मरूप_बन्धन_से_मुक्त_हो	ट्हे_स्हच्क्लेस्_ओङ्_बिर्ट्ह्	<<जन्म-बन्ध>ख्6-विनिर्मुक्ताः>ठ्3			
+8	पदम्	9	पदं	पद्{पुं}{2;एक}/पद{नपुं}{1;एक}/पद{नपुं}{2;एक}	पद{नपुं}{2;एक}	कर्म,9	परमपद_को	ट्हे_ब्लिस्स्ङुल्_सुप्रेमे_स्टटे				
+9	गच्छन्ति	10	गच्छन्त्यनामयम्	गच्छत्{नपुं}{1;बहु}/गच्छत्{नपुं}{2;बहु}/गच्छत्{नपुं}{8;बहु}/गम्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;गमॢँ;भ्वादिः}/गच्छन्ती{स्त्री}{8;एक}	गम्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;गमॢँ;भ्वादिः}	अभिहितकर्ता,6	प्राप्त_हो_जाते_हैं	अट्टइन्				
+10	अन्-आमयम्	8	0	अनामय{पुं}{2;एक}/अनामय{नपुं}{1;एक}/अनामय{नपुं}{2;एक}	अनामय{नपुं}{2;एक}	विशेषणम्,8	निर्विकार	ङ्रेए_ङ्रोम्_अल्ल्_एविल्	<न-आमयम्>भ्स्म्न्			

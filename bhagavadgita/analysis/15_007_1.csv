@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mama	4	mamEvAMSo	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,3	merA	my				
-2	eva	5	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
-3	aMSaH	6	0	aMSa{puM}{1;eka}	aMSa{puM}{1;eka}	karwA,10	aMSa_hE	fragmental_particles				
-4	jIva-loke	1	jIvaloke	jIvaloka{puM}{7;eka}	jIva-loka{puM}{7;eka}	aXikaraNam,10	isa_xeha_meM	in_the_world_of_conditional_life	<jIva-loke>T6			
-5	jIva-BUwaH	3	jIvaBUwaH	jIvaBUwa{puM}{1;eka}	jIva-BUwa{puM}{1;eka}	viSeRaNam,3	jIvAwmA	the_conditioned_living_entity	<jIva-BUwaH>T6			
-6	sanAwanaH	2	sanAwanaH	sanAwana{puM}{1;eka}	sanAwana{puM}{1;eka}	viSeRaNam,3	yaha_sanAwana	eternal				
-7	manaH-RaRTAni	8	manaHRaRTAnInxriyANi	manaHRaRTa{napuM}{1;bahu}/manaHRaRTa{napuM}{2;bahu}/manaHRaRTa{napuM}{8;bahu}	manaH-RaRTa{napuM}{2;bahu}	viSeRaNam,8	mana_Ora_pAzcoM	mind_and_five	<manaH-RaRTAni>Bs6			
-8	inxriyANi	9	0	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}/inxriya{napuM}{8;bahu}	inxriya{napuM}{2;bahu}	karma,10	inxriyoM_ko	senses				
-9	prakqwi-sWAni	7	prakqwisWAni	prakqwisWa{napuM}{1;bahu}/prakqwisWa{napuM}{2;bahu}/prakqwisWa{napuM}{8;bahu}	prakqwi-sWa{napuM}{2;bahu}	viSeRaNam,8	ina_prakqwi_meM_sWiwa	situated_in_material_nature	<prakqwi-sWAni>U			
-10	karRawi	10	karRawi	karRaw{puM}{7;eka}/karRaw{napuM}{7;eka}/kqR1{karwari;lat;pra;eka;parasmEpaxI;kqRaz;BvAxiH}	kqR1{karwari;lat;pra;eka;parasmEpaxI;kqRaz;BvAxiH}	aBihiwakarwA,3	AkarRaNa_karawA_hE	struggling_hard				
+1	मम	4	ममैवांशो	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,3	मेरा	म्य्				
+2	एव	5	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,1	ही	चेर्टइन्ल्य्				
+3	अंशः	6	0	अंश{पुं}{1;एक}	अंश{पुं}{1;एक}	कर्ता,10	अंश_है	ङ्रग्मेन्टल्_पर्टिच्लेस्				
+4	जीव-लोके	1	जीवलोके	जीवलोक{पुं}{7;एक}	जीव-लोक{पुं}{7;एक}	अधिकरणम्,10	इस_देह_में	इन्_ट्हे_तोर्ल्ड्_ओङ्_चोन्डिटिओनल्_लिङे	<जीव-लोके>ठ्6			
+5	जीव-भूतः	3	जीवभूतः	जीवभूत{पुं}{1;एक}	जीव-भूत{पुं}{1;एक}	विशेषणम्,3	जीवात्मा	ट्हे_चोन्डिटिओनेड्_लिविन्ग्_एन्टिट्य्	<जीव-भूतः>ठ्6			
+6	सनातनः	2	सनातनः	सनातन{पुं}{1;एक}	सनातन{पुं}{1;एक}	विशेषणम्,3	यह_सनातन	एटेर्नल्				
+7	मनः-षष्ठानि	8	मनःषष्ठानीन्द्रियाणि	मनःषष्ठ{नपुं}{1;बहु}/मनःषष्ठ{नपुं}{2;बहु}/मनःषष्ठ{नपुं}{8;बहु}	मनः-षष्ठ{नपुं}{2;बहु}	विशेषणम्,8	मन_और_पाँचों	मिन्ड्_अन्ड्_ङिवे	<मनः-षष्ठानि>भ्स्6			
+8	इन्द्रियाणि	9	0	इन्द्रिय{नपुं}{1;बहु}/इन्द्रिय{नपुं}{2;बहु}/इन्द्रिय{नपुं}{8;बहु}	इन्द्रिय{नपुं}{2;बहु}	कर्म,10	इन्द्रियों_को	सेन्सेस्				
+9	प्रकृति-स्थानि	7	प्रकृतिस्थानि	प्रकृतिस्थ{नपुं}{1;बहु}/प्रकृतिस्थ{नपुं}{2;बहु}/प्रकृतिस्थ{नपुं}{8;बहु}	प्रकृति-स्थ{नपुं}{2;बहु}	विशेषणम्,8	इन_प्रकृति_में_स्थित	सिटुअटेड्_इन्_मटेरिअल्_नटुरे	<प्रकृति-स्थानि>ऊ			
+10	कर्षति	10	कर्षति	कर्षत्{पुं}{7;एक}/कर्षत्{नपुं}{7;एक}/कृष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;कृषँ;भ्वादिः}	कृष्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;कृषँ;भ्वादिः}	अभिहितकर्ता,3	आकर्षण_करता_है	स्ट्रुग्ग्लिन्ग्_हर्ड्				

@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SraxXAvAn	3	SraxXAvAnanasUyaSca	SraxXAvaw{puM}{1;eka}	SraxXAvaw{puM}{1;eka}	sup_samucciwaH,2	SraxXAyukwa	faithful				
-2	an-asUyaH	5	0	anasUya{puM}{1;eka}	na-asUya1{kqw_prawyayaH:lyap;asUya1;nAmaXAwu;puM}{1;eka}	viSeRaNam,7	xoRa-xqRti_se_rahiwa_hokara	not_envious	<na-asUyaH>Bsmn			
-3	ca	4	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	and				
-4	SqNuyAw	6	SqNuyAxapi	Sru1{karwari;viXilif;pra;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;viXilif;pra;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,7;sakarmakaH	SravaNa_karegA	does_hear				
-5	api	7	0	api{avya}	api{avya}	sambanXaH,4	BI	certainly				
-6	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,7;niwya_sambanXaH,8	jo	one_who				
-7	naraH	2	naraH	nq{puM}{1;bahu}/nara{puM}{1;eka}	nara{puM}{1;eka}	karwA,4	manuRya	man				
-8	saH	8	soZpi	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,13	vaha	he				
-9	api	9	0	api{avya}	api{avya}	sambanXaH,8	BI_(pApoM_se)	also				
-10	mukwaH	10	mukwaH	mukwa{puM}{1;eka}	muc1{kqw_prawyayaH:kwa;mucLz;wuxAxiH;puM}{1;eka}	viSeRaNam,8	mukwa_hokara	being_liberated				
-11	SuBAn	12	SuBAzllokAnprApnuyAwpuNyakarmaNAm	SuBa{puM}{2;bahu}	SuBa{puM}{2;bahu}	viSeRaNam,12	SreRTa	auspicious				
-12	lokAn	13	0	loka{puM}{2;bahu}	loka{puM}{2;bahu}	karma,13	lokoM_ko	planets				
-13	prApnuyAw	14	0	pra_Ap1{karwari;viXilif;pra;eka;parasmEpaxI;ApLz;svAxiH}	pra_Ap1{karwari;viXilif;pra;eka;parasmEpaxI;pra_ApLz;svAxiH}	aBihiwakarwA,8;sakarmakaH8	prApwa_hogA	attains				
-14	puNya-karmaNAm	11	0	puNyakarman{napuM}{6;bahu}	puNya-karman{napuM}{6;bahu}	RaRTIsambanXaH,12	uwwama_karma_karanevAloM_ke	of_the_pious	<puNya-karmaNAm>Bs6			
+1	श्रद्धावान्	3	श्रद्धावाननसूयश्च	श्रद्धावत्{पुं}{1;एक}	श्रद्धावत्{पुं}{1;एक}	सुप्_समुच्चितः,2	श्रद्धायुक्त	ङइट्ह्ङुल्				
+2	अन्-असूयः	5	0	अनसूय{पुं}{1;एक}	न-असूय1{कृत्_प्रत्ययः:ल्यप्;असूय1;नामधातु;पुं}{1;एक}	विशेषणम्,7	दोष-दृष्टि_से_रहित_होकर	नोट्_एन्विओउस्	<न-असूयः>भ्स्म्न्			
+3	च	4	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	और	अन्ड्				
+4	शृणुयात्	6	शृणुयादपि	श्रु1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;श्रु;भ्वादिः}	श्रु1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;श्रु;भ्वादिः}	अभिहितकर्ता,7;सकर्मकः	श्रवण_करेगा	डोएस्_हेअर्				
+5	अपि	7	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,4	भी	चेर्टइन्ल्य्				
+6	यः	1	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	विशेषणम्,7;नित्य_सम्बन्धः,8	जो	ओने_त्हो				
+7	नरः	2	नरः	नृ{पुं}{1;बहु}/नर{पुं}{1;एक}	नर{पुं}{1;एक}	कर्ता,4	मनुष्य	मन्				
+8	सः	8	सोऽपि	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,13	वह	हे				
+9	अपि	9	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,8	भी_(पापों_से)	अल्सो				
+10	मुक्तः	10	मुक्तः	मुक्त{पुं}{1;एक}	मुच्1{कृत्_प्रत्ययः:क्त;मुचॢँ;तुदादिः;पुं}{1;एक}	विशेषणम्,8	मुक्त_होकर	बेइन्ग्_लिबेरटेड्				
+11	शुभान्	12	शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्	शुभ{पुं}{2;बहु}	शुभ{पुं}{2;बहु}	विशेषणम्,12	श्रेष्ठ	अउस्पिचिओउस्				
+12	लोकान्	13	0	लोक{पुं}{2;बहु}	लोक{पुं}{2;बहु}	कर्म,13	लोकों_को	प्लनेट्स्				
+13	प्राप्नुयात्	14	0	प्र_आप्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;आपॢँ;स्वादिः}	प्र_आप्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;प्र_आपॢँ;स्वादिः}	अभिहितकर्ता,8;सकर्मकः8	प्राप्त_होगा	अट्टइन्स्				
+14	पुण्य-कर्मणाम्	11	0	पुण्यकर्मन्{नपुं}{6;बहु}	पुण्य-कर्मन्{नपुं}{6;बहु}	षष्ठीसम्बन्धः,12	उत्तम_कर्म_करनेवालों_के	ओङ्_ट्हे_पिओउस्	<पुण्य-कर्मणाम्>भ्स्6			

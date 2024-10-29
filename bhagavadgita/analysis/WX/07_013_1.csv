@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wriBiH	3	wriBirguNamayErBAvEreBi	wri{puM}{3;bahu}/wri{puM}{3;bahu}/wri{napuM}{3;bahu}	wri{puM}{3;bahu}	viSeRaNam,3	wInoM_prakAra_ke	three				
+2	guNamayEH	1	0	guNamaya{puM}{3;bahu}/guNamaya{napuM}{3;bahu}/guNamaya{puM}{3;bahu}/guNamaya{napuM}{3;bahu}	guNamaya{puM}{3;bahu}	viSeRaNam,3	guNoM_ke_kAryarUpa_sAwwvika_rAjasa_Ora_wAmasa	by_the_three_gunas				
+3	BAvEH	4	0	BAva{puM}{3;bahu}	BAva{puM}{3;bahu}	karwA,8	BAvoM_se	state_of_being				
+4	eBiH	2	0	ixam{puM}{3;bahu}/ixam{napuM}{3;bahu}	ixam{puM}{3;bahu}	viSeRaNam,3	ina	all_these				
+5	sarvam	6	sarvamixaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{1;eka}	viSeRaNam,7	sArA	the_whole_world				
+6	ixam	5	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,7	yaha	in_this_world				
+7	jagaw	7	jagaw	jagaw{puM}{1;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}	jagaw{napuM}{1;eka}	karwA,10	saMsAra_prANisamuxAya	universe				
+8	mohiwam	8	mohiwaM	mohiwa{puM}{2;eka}/mohiwa{napuM}{1;eka}/mohiwa{napuM}{2;eka}	muh1{kqw_prawyayaH:kwa;muhaz;xivAxiH;napuM}{1;eka}	viSeRaNam,7	mohiwa	deluded				
+9	na	15	nABijAnAwi	na{avya}	na{avya}	prawiReXaH,10	nahIM	not				
+10	aBijAnAwi	16	0	aBi_jFA2{karwari;lat;pra;eka;parasmEpaxI;jFA;kryAxiH}	aBi_jFA2{karwari;lat;pra;eka;parasmEpaxI;aBi_jFA;kryAxiH}	aBihiwakarwA,7;sakarmakaH	jAnawA	know				
+11	mAm	14	mAmeByaH	asmax{2;eka}	asmax{2;eka}	karma,10	muJako	me				
+12	eByaH	10	0	ixam{puM}{4;bahu}/ixam{puM}{5;bahu}/ixam{napuM}{4;bahu}/ixam{napuM}{5;bahu}	ixam{napuM}{5;bahu}	upapaxasambanXaH,13	inase_(wInoM_guNoM_se)	above_these				
+13	param	11	paramavyayam	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{puM}{2;eka}	viSeRaNam,11	pare	the_Supreme				
+14	a-vyayam	13	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	avyaya{puM}{2;eka}	viSeRaNam,11	avinASI_ko	inexhaustible	<na-vyayam>Bsmn			

@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yAvaw	1	yAvaxewAnnirIkReZhaM	yAvaw{avya}/yAvaw{napuM}{1;eka}/yAvaw{napuM}{2;eka}	yAvaw{avya}	aXikaraNam,3	jabawaka	till				
-2	ewAn	5	0	ewax{puM}{2;bahu}	ewax{puM}{2;bahu}	viSeRaNam,5	ina_ko	all_these				
-3	nirIkRe	6	0	nirIkRA{swrI}{1;xvi}/nirIkRA{swrI}{2;xvi}/nir_IkR1{karwari;lat;u;eka;AwmanepaxI;IkRaz;BvAxiH}	nir_IkR1{karwari;lat;u;eka;AwmanepaxI;nir_IkRaz;BvAxiH}	aBihiwa_karwA,4	BalI_prakAra_xeKa_lUz	carefully_observe				
-4	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,3	mEM	I				
-5	yoxXu-kAmAn	4	yoxXukAmAnavasWiwAn	yoxXu-kAma{puM}{2;bahu}	yoxXu-kAma{puM}{2;bahu}	karma,3	yuxXa_ke_aBilARI	desiring_to_fight	<yoxXu-kAmAn>Bs6			
-6	avasWiwAn	3	0	avasWiwa{puM}{2;bahu}	ava_sWA1{kqw_prawyayaH:kwa;ava_RTA;BvAxiH;puM}{2;bahu}	viSeRaNam,5	yuxXa-kRewra_meM_date_hue	arrayed_on_the_battlefield				
-7	kEH	10	kErmayA	kim{puM}{3;bahu}/kim{napuM}{3;bahu}	kim{puM}{3;bahu}	sahArWaH,8	kina-kinake	with_whom				
-8	mayA	9	0	asmax{3;eka}	asmax{3;eka}	karwA,10	muJe	by_me				
-9	saha	11	saha	saha{avya}	saha{avya}	upa_saha,7	sAWa	with				
-10	yoxXavyam	12	yoxXavyamasminraNasamuxyame	yoxXavya{puM}{2;eka}/yoxXavya{napuM}{1;eka}/yoxXavya{napuM}{2;eka}	yuX1{kqw_prawyayaH:wavyaw;yuXaz;xivAxiH;puM}{2;eka}		yuxXa_karanA_yogya_hE	to_engage_in_this_fight				
-11	asmin	7	0	ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{puM}{7;eka}	viSeRaNam,12	isa	in_this				
-12	raNa-samuxyame	8	0	raNa-samuxyama{puM}{7;eka}	raNa-samuxyama{puM}{7;eka}	aXikaraNam,10	yuxXarUpa_vyApAra_meM	drawn_up_for_battle	<raNa-samuxyame>T6			
+1	यावत्	1	यावदेतान्निरीक्षेऽहं	यावत्{अव्य}/यावत्{नपुं}{1;एक}/यावत्{नपुं}{2;एक}	यावत्{अव्य}	अधिकरणम्,3	जबतक	टिल्ल्				
+2	एतान्	5	0	एतद्{पुं}{2;बहु}	एतद्{पुं}{2;बहु}	विशेषणम्,5	इन_को	अल्ल्_ट्हेसे				
+3	निरीक्षे	6	0	निरीक्षा{स्त्री}{1;द्वि}/निरीक्षा{स्त्री}{2;द्वि}/निर्_ईक्ष्1{कर्तरि;लट्;उ;एक;आत्मनेपदी;ईक्षँ;भ्वादिः}	निर्_ईक्ष्1{कर्तरि;लट्;उ;एक;आत्मनेपदी;निर्_ईक्षँ;भ्वादिः}	अभिहित_कर्ता,4	भली_प्रकार_देख_लूँ	चरेङुल्ल्य्_ओब्सेर्वे				
+4	अहम्	2	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,3	मैं	ई				
+5	योद्धु-कामान्	4	योद्धुकामानवस्थितान्	योद्धु-काम{पुं}{2;बहु}	योद्धु-काम{पुं}{2;बहु}	कर्म,3	युद्ध_के_अभिलाषी	डेसिरिन्ग्_टो_ङिग्ह्ट्	<योद्धु-कामान्>भ्स्6			
+6	अवस्थितान्	3	0	अवस्थित{पुं}{2;बहु}	अव_स्था1{कृत्_प्रत्ययः:क्त;अव_ष्ठा;भ्वादिः;पुं}{2;बहु}	विशेषणम्,5	युद्ध-क्षेत्र_में_डटे_हुए	अर्रयेड्_ओन्_ट्हे_बट्ट्लेङिएल्ड्				
+7	कैः	10	कैर्मया	किम्{पुं}{3;बहु}/किम्{नपुं}{3;बहु}	किम्{पुं}{3;बहु}	सहार्थः,8	किन-किनके	तिट्ह्_त्होम्				
+8	मया	9	0	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,10	मुझे	ब्य्_मे				
+9	सह	11	सह	सह{अव्य}	सह{अव्य}	उप_सह,7	साथ	तिट्ह्				
+10	योद्धव्यम्	12	योद्धव्यमस्मिन्रणसमुद्यमे	योद्धव्य{पुं}{2;एक}/योद्धव्य{नपुं}{1;एक}/योद्धव्य{नपुं}{2;एक}	युध्1{कृत्_प्रत्ययः:तव्यत्;युधँ;दिवादिः;पुं}{2;एक}		युद्ध_करना_योग्य_है	टो_एन्गगे_इन्_ट्हिस्_ङिग्ह्ट्				
+11	अस्मिन्	7	0	इदम्{पुं}{7;एक}/इदम्{नपुं}{7;एक}	इदम्{पुं}{7;एक}	विशेषणम्,12	इस	इन्_ट्हिस्				
+12	रण-समुद्यमे	8	0	रण-समुद्यम{पुं}{7;एक}	रण-समुद्यम{पुं}{7;एक}	अधिकरणम्,10	युद्धरूप_व्यापार_में	ड्रत्न्_उप्_ङोर्_बट्ट्ले	<रण-समुद्यमे>ठ्6			

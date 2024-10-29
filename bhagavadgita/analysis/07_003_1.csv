@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	manuRyANAm	2	manuRyANAM	manuRya{puM}{6;bahu}	manuRya{puM}{6;bahu}	RaRTIsambanXaH,2	manuRyoM_meM	of_men				
-2	sahasreRu	1	sahasreRu	sahasra{7;bahu}	sahasra{puM}{7;bahu}	nirXAraNam,3	hajAroM	out_of_many_thousands				
-3	kaSciw	3	kaScixyawawi	kaSciw{avya}/kiFciw{puM}{1;eka}	kiFciw{puM}{1;eka}	karwA,4	koI_eka	someone				
-4	yawawi	5	0	yawawi	yaw1{karwari;lat;pra;eka;parasmEpaxI;yawIz;BvAxiH}	aBihiwakarwA,3	yawna_karawA_hE	endeavors				
-5	sixXaye	4	sixXaye	sixXi{swrI}{4;eka}	sixXi{swrI}{4;eka}	prayojanam,4	merI_prApwi_ke_liye	for_perfection				
-6	yawawAm	6	yawawAmapi	yawawA{swrI}{2;eka}/yaw1{karwari;lot;pra;eka;AwmanepaxI;yawIz;BvAxiH}	yaw1{kqw_prawyayaH:Sawq;yawIz;BvAxiH;puM}{6;bahu}	viSeRaNam,8	yawna_karanevAle	of_those_so_endeavoring				
-7	api	8	0	api{avya}	api{avya}	sambanXaH,8	BI	indeed				
-8	sixXAnAm	7	sixXAnAM	sixXa{puM}{6;bahu}/sixXa{napuM}{6;bahu}/sixXA{swrI}{6;bahu}	sixXa{puM}{6;bahu}	nirXAraNam,9	yogiyoM_meM	of_those_who_have_achieved_perfection				
-9	kaSciw	9	kaScinmAM	kaSciw{avya}/kiFciw{puM}{1;eka}	kiFciw{puM}{1;eka}	karwA,11	koI_eka	someone				
-10	mAm	10	0	asmax{2;eka}	asmax{2;eka}	karma,11	muJako	me				
-11	vewwi	12	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,9	jAnawA_hE	does_know				
-12	wawwvawaH	11	wawwvawaH	wawwvawaH{avya}	wawwvawaH{avya}	hewuH,11	wawwva_se_arWAw_yaWArWarUpa_se	in_fact				
+1	मनुष्याणाम्	2	मनुष्याणां	मनुष्य{पुं}{6;बहु}	मनुष्य{पुं}{6;बहु}	षष्ठीसम्बन्धः,2	मनुष्यों_में	ओङ्_मेन्				
+2	सहस्रेषु	1	सहस्रेषु	सहस्र{7;बहु}	सहस्र{पुं}{7;बहु}	निर्धारणम्,3	हजारों	ओउट्_ओङ्_मन्य्_ट्होउसन्ड्स्				
+3	कश्चित्	3	कश्चिद्यतति	कश्चित्{अव्य}/किञ्चित्{पुं}{1;एक}	किञ्चित्{पुं}{1;एक}	कर्ता,4	कोई_एक	सोमेओने				
+4	यतति	5	0	यतति	यत्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;यतीँ;भ्वादिः}	अभिहितकर्ता,3	यत्न_करता_है	एन्डेअवोर्स्				
+5	सिद्धये	4	सिद्धये	सिद्धि{स्त्री}{4;एक}	सिद्धि{स्त्री}{4;एक}	प्रयोजनम्,4	मेरी_प्राप्ति_के_लिये	ङोर्_पेर्ङेच्टिओन्				
+6	यतताम्	6	यततामपि	यतता{स्त्री}{2;एक}/यत्1{कर्तरि;लोट्;प्र;एक;आत्मनेपदी;यतीँ;भ्वादिः}	यत्1{कृत्_प्रत्ययः:शतृ;यतीँ;भ्वादिः;पुं}{6;बहु}	विशेषणम्,8	यत्न_करनेवाले	ओङ्_ट्होसे_सो_एन्डेअवोरिन्ग्				
+7	अपि	8	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,8	भी	इन्डेएड्				
+8	सिद्धानाम्	7	सिद्धानां	सिद्ध{पुं}{6;बहु}/सिद्ध{नपुं}{6;बहु}/सिद्धा{स्त्री}{6;बहु}	सिद्ध{पुं}{6;बहु}	निर्धारणम्,9	योगियों_में	ओङ्_ट्होसे_त्हो_हवे_अच्हिएवेड्_पेर्ङेच्टिओन्				
+9	कश्चित्	9	कश्चिन्मां	कश्चित्{अव्य}/किञ्चित्{पुं}{1;एक}	किञ्चित्{पुं}{1;एक}	कर्ता,11	कोई_एक	सोमेओने				
+10	माम्	10	0	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,11	मुझको	मे				
+11	वेत्ति	12	वेत्ति	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,9	जानता_है	डोएस्_क्नोत्				
+12	तत्त्वतः	11	तत्त्वतः	तत्त्वतः{अव्य}	तत्त्वतः{अव्य}	हेतुः,11	तत्त्व_से_अर्थात्_यथार्थरूप_से	इन्_ङच्ट्				

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	pAFcajanyam	2	pAFcajanyaM	pAFcajanya{puM}{2;eka}/pAFcajanya{napuM}{1;eka}/pAFcajanya{napuM}{2;eka}	pAFcajanya{puM}{2;eka}	karma,2.1	pAFcajanya_nAmaka	the_conch_named_Pancajanya				
-2	hqRIkeSaH	1	hqRIkeSo	hqRIkeSa{puM}{1;eka}	hqRIkeSa{puM}{1;eka}	karwA,2.1	SrIkqRNa_ne	Hrsikesa_(Krsna_the_Lord_who_directs_the_senses_of_the_devotees)				
-2.1	(xaXmO)	2.1	(xaXmO)	XmA1{karwari;lit;u;eka;parasmEpaxI;XmA;BvAxiH}/XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;BvAxiH}	XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;BvAxiH}	aBihiwakarwA,2;sakarmakaH	bajAyA	blew				
-3	xevaxawwam	4	xevaxawwaM	xevaxawwa{puM}{2;eka}	xevaxawwa{puM}{2;eka}	karma,3.1	xevaxawwa_nAmaka	the_conch_named_Devadatta				
-4	XanaFjayaH	3	XanaFjayaH	XanaFjaya{puM}{1;eka}	XanaFjaya{puM}{1;eka}	karwA,3.1	arjuna_ne	Dhananjaya_(Arjuna_the_winner_of_wealth)				
-3.1	(xaXmO)	4.1	(xaXmO)	XmA1{karwari;lit;u;eka;parasmEpaxI;XmA;BvAxiH}/XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;BvAxiH}	XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;BvAxiH}	aBihiwakarwA,4;sakarmakaH	bajAyA	blew				
-5	pONdram	5	pONdraM	pONdra{puM}{2;eka}/pONdra{napuM}{1;eka}/pONdra{napuM}{2;eka}	pONdra{puM}{2;eka}	karma,6	pONdra_nAmaka	the_conch_named_Paundra				
-6	xaXmO	9	xaXmO	XmA1{karwari;lit;u;eka;parasmEpaxI;XmA;BvAxiH}/XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;BvAxiH}	XmA1{karwari;lit;pra;eka;parasmEpaxI;XmA;BvAxiH}	aBihiwakarwA,6;sakarmakaH	bajAyA	blew				
-7	mahAn-SafKam	6	mahASafKaM	mahAn-SafKa{puM}{2;eka}	mahAn-SafKa{puM}{2;eka}	viSeRaNam,5	mahASaMKa	the_mighty_conch	<mahaw-SafKaH>K1			
-8	BIma-karmA	7	BImakarmA	BIma-karmA{swrI}{1;eka}	BIma-karman{puM}{1;eka}	viSeRaNam,9	BayAnaka_karmavAle	of_ferocious_deeds	<BIma-karmA>Bs6			
-9	vqkoxaraH	8	vqkoxaraH	vqkoxara{puM}{1;eka}	vqkoxara{puM}{1;eka}	karwA,6	BImasena_ne	the_voracious_eater_(Bhima)				
+1	पाञ्चजन्यम्	2	पाञ्चजन्यं	पाञ्चजन्य{पुं}{2;एक}/पाञ्चजन्य{नपुं}{1;एक}/पाञ्चजन्य{नपुं}{2;एक}	पाञ्चजन्य{पुं}{2;एक}	कर्म,2.1	पाञ्चजन्य_नामक	ट्हे_चोन्च्ह्_नमेड्_फन्चजन्य				
+2	हृषीकेशः	1	हृषीकेशो	हृषीकेश{पुं}{1;एक}	हृषीकेश{पुं}{1;एक}	कर्ता,2.1	श्रीकृष्ण_ने	ःर्सिकेस_(ख्र्स्न_ट्हे_ऌओर्ड्_त्हो_डिरेच्ट्स्_ट्हे_सेन्सेस्_ओङ्_ट्हे_डेवोटेएस्)				
+2.1	(दध्मौ)	2.1	(दध्मौ)	ध्मा1{कर्तरि;लिट्;उ;एक;परस्मैपदी;ध्मा;भ्वादिः}/ध्मा1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ध्मा;भ्वादिः}	ध्मा1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ध्मा;भ्वादिः}	अभिहितकर्ता,2;सकर्मकः	बजाया	ब्लेत्				
+3	देवदत्तम्	4	देवदत्तं	देवदत्त{पुं}{2;एक}	देवदत्त{पुं}{2;एक}	कर्म,3.1	देवदत्त_नामक	ट्हे_चोन्च्ह्_नमेड्_ढेवडट्ट				
+4	धनञ्जयः	3	धनञ्जयः	धनञ्जय{पुं}{1;एक}	धनञ्जय{पुं}{1;एक}	कर्ता,3.1	अर्जुन_ने	ढ्हनन्जय_(आर्जुन_ट्हे_तिन्नेर्_ओङ्_तेअल्ट्ह्)				
+3.1	(दध्मौ)	4.1	(दध्मौ)	ध्मा1{कर्तरि;लिट्;उ;एक;परस्मैपदी;ध्मा;भ्वादिः}/ध्मा1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ध्मा;भ्वादिः}	ध्मा1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ध्मा;भ्वादिः}	अभिहितकर्ता,4;सकर्मकः	बजाया	ब्लेत्				
+5	पौण्ड्रम्	5	पौण्ड्रं	पौण्ड्र{पुं}{2;एक}/पौण्ड्र{नपुं}{1;एक}/पौण्ड्र{नपुं}{2;एक}	पौण्ड्र{पुं}{2;एक}	कर्म,6	पौण्ड्र_नामक	ट्हे_चोन्च्ह्_नमेड्_फउन्ड्र				
+6	दध्मौ	9	दध्मौ	ध्मा1{कर्तरि;लिट्;उ;एक;परस्मैपदी;ध्मा;भ्वादिः}/ध्मा1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ध्मा;भ्वादिः}	ध्मा1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ध्मा;भ्वादिः}	अभिहितकर्ता,6;सकर्मकः	बजाया	ब्लेत्				
+7	महान्-शङ्खम्	6	महाशङ्खं	महान्-शङ्ख{पुं}{2;एक}	महान्-शङ्ख{पुं}{2;एक}	विशेषणम्,5	महाशंख	ट्हे_मिग्ह्ट्य्_चोन्च्ह्	<महत्-शङ्खः>ख्1			
+8	भीम-कर्मा	7	भीमकर्मा	भीम-कर्मा{स्त्री}{1;एक}	भीम-कर्मन्{पुं}{1;एक}	विशेषणम्,9	भयानक_कर्मवाले	ओङ्_ङेरोचिओउस्_डेएड्स्	<भीम-कर्मा>भ्स्6			
+9	वृकोदरः	8	वृकोदरः	वृकोदर{पुं}{1;एक}	वृकोदर{पुं}{1;एक}	कर्ता,6	भीमसेन_ने	ट्हे_वोरचिओउस्_एअटेर्_(भ्हिम)				

@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	rAga-xveRa-viyukwEH	2	rAgaxveRaviyukwEswu	rAga-xveRa-vimukwa{puM}{3;bahu}/vimukwa{napuM}{3;bahu}	rAga-xveRa-viyukwa{puM;3;bahu}	viSeRaNam,4	rAga-xveRa_se_rahiwa	by_one_who_has_been_free_from_attachment_and_detachment	<<rAga-xveRa>Di-viyukwEH>T3			
-2	wu	8	0	wu{avya}	wu{avya}	sambanXaH,9	paraMwu	but				
-3	viRayAn	5	viRayAninxriyEScaran	viRaya{puM}{2;bahu}	viRaya{puM;2;bahu}	karma,5	viRayoM_meM	the_various_sense-objects				
-4	inxriyEH	4	0	inxriya{puM}{3;bahu}/inxriya{napuM}{3;bahu}	inxriya{napuM;3;bahu}	karaNam,5	inxriyoM_xvArA	through_the_senses				
-5	caran	6	0	caraw{puM}{1;eka}/caraw{puM}{8;eka}	car1{kqw_prawyayaH:Sawq;caraz;BvAxiH;puM;1;eka}	varwamAnasamAnakAlaH,9	vicaraNa_karawA_huA	while_enjoying				
-6	Awma-vaSyEH	3	AwmavaSyErviXeyAwmA	Awman-vaSya{puM}{3;bahu}/vaSya{napuM}{3;bahu}	Awman-vaSya{puM;3;bahu}	viSeRaNam,4	apane_vaSa_meM_kI_huI	which_are_disciplined	<Awma-vaSyEH>T6			
-7	viXeya-AwmA	1	0	viXeya-Awman{puM}{1;eka}	viXeya-Awman{puM;1;eka}	karwA,9	apane_aXIna_kiye_hue_anwaHkaraNavAlA_sAXaka	the_self-controlled_Sadhaka	<viXeya-AwmA>Bs6			
-8	prasAxam	7	prasAxamaXigacCawi	prasAxa{puM}{2;eka}	prasAxa{puM;2;eka}	karma,9	prasannawA_ko	placidity_of_mind				
-9	aXigacCawi	9	0	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}	aBihiwa_karwA,7;sakarmaka	prApwa_ho_jAwA_hE	attains				
+1	राग-द्वेष-वियुक्तैः	2	रागद्वेषवियुक्तैस्तु	राग-द्वेष-विमुक्त{पुं}{3;बहु}/विमुक्त{नपुं}{3;बहु}	राग-द्वेष-वियुक्त{पुं;3;बहु}	विशेषणम्,4	राग-द्वेष_से_रहित	ब्य्_ओने_त्हो_हस्_बेएन्_ङ्रेए_ङ्रोम्_अट्टच्ह्मेन्ट्_अन्ड्_डेटच्ह्मेन्ट्	<<राग-द्वेष>ढि-वियुक्तैः>ठ्3			
+2	तु	8	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,9	परंतु	बुट्				
+3	विषयान्	5	विषयानिन्द्रियैश्चरन्	विषय{पुं}{2;बहु}	विषय{पुं;2;बहु}	कर्म,5	विषयों_में	ट्हे_वरिओउस्_सेन्से-ओब्जेच्ट्स्				
+4	इन्द्रियैः	4	0	इन्द्रिय{पुं}{3;बहु}/इन्द्रिय{नपुं}{3;बहु}	इन्द्रिय{नपुं;3;बहु}	करणम्,5	इन्द्रियों_द्वारा	ट्ह्रोउग्ह्_ट्हे_सेन्सेस्				
+5	चरन्	6	0	चरत्{पुं}{1;एक}/चरत्{पुं}{8;एक}	चर्1{कृत्_प्रत्ययः:शतृ;चरँ;भ्वादिः;पुं;1;एक}	वर्तमानसमानकालः,9	विचरण_करता_हुआ	त्हिले_एन्जोयिन्ग्				
+6	आत्म-वश्यैः	3	आत्मवश्यैर्विधेयात्मा	आत्मन्-वश्य{पुं}{3;बहु}/वश्य{नपुं}{3;बहु}	आत्मन्-वश्य{पुं;3;बहु}	विशेषणम्,4	अपने_वश_में_की_हुई	त्हिच्ह्_अरे_डिस्चिप्लिनेड्	<आत्म-वश्यैः>ठ्6			
+7	विधेय-आत्मा	1	0	विधेय-आत्मन्{पुं}{1;एक}	विधेय-आत्मन्{पुं;1;एक}	कर्ता,9	अपने_अधीन_किये_हुए_अन्तःकरणवाला_साधक	ट्हे_सेल्ङ्-चोन्ट्रोल्लेड्_शड्हक	<विधेय-आत्मा>भ्स्6			
+8	प्रसादम्	7	प्रसादमधिगच्छति	प्रसाद{पुं}{2;एक}	प्रसाद{पुं;2;एक}	कर्म,9	प्रसन्नता_को	प्लचिडिट्य्_ओङ्_मिन्ड्				
+9	अधिगच्छति	9	0	अधि_गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}	अधि_गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;अधि_गमॢँ;भ्वादिः}	अभिहित_कर्ता,7;सकर्मक	प्राप्त_हो_जाता_है	अट्टइन्स्				

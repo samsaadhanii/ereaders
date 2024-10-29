@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wri-viXam	6	wriviXaM	wriviXa{puM}{2;eka}/wriviXa{napuM}{1;eka}/wriviXa{napuM}{2;eka}	wriviXa{napuM}{1;eka}	viSeRaNam,4	wIna_prakAra_ke	three_kinds_of	<wri-viXaM>Bs6			
-2	narakasya	7	narakasyexaM	naraka{puM}{6;eka}/naraka{napuM}{6;eka}	naraka{puM}{6;eka}	RaRTIsambanXaH,4	naraka_ke	hellish				
-3	ixam	5	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,4	ye	this				
-4	xvAram	8	xvAraM	xvAr{swrI}{2;eka}/xvAra{napuM}{1;eka}/xvAra{napuM}{2;eka}	xvAra{napuM}{1;eka}	karwA,10.1	xvAra	gate				
-5	nASanam	10	nASanamAwmanaH	nASana{puM}{2;eka}/nASana{napuM}{1;eka}/nASana{napuM}{2;eka}	nASana{napuM}{1;eka}	viXeya_viSeRaNam,10.1	nASa_karanevAle	destructive				
-6	AwmanaH	9	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	karwA,5	AwmA_kA	of_the_self				
-7	kAmaH	1	kAmaH	kAma{puM}{1;eka}	kAma{puM}{1;eka}	Gataka,4	kAma	lust				
-8	kroXaH	2	kroXaswaWA	kroXa{puM}{1;eka}	kroXa{puM}{1;eka}	Gataka,4	kroXa	anger				
-9	waWA	3	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,10	waWA	as_well_as				
-10	loBaH	4	loBaswasmAxewawwrayaM	loBa{puM}{1;eka}	loBa{puM}{1;eka}	Gataka,4	loBa	greed				
-10.1	(Bavawi)	11	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})		(hEM)	becomes				
-11	wasmAw	12	0	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wasmAw{avya}	hewuH,13	awaeva	therefore				
-12	ewaw	13	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,12	ina	these				
-13	wrayam	14	0	wraya{puM}{2;eka}/wraya{napuM}{1;eka}/wraya{napuM}{2;eka}	wraya{napuM}{2;eka}	karma,13	wInoM_ko	three				
-14	wyajew	15	wyajew	wyaj1{karwari;viXilif;pra;eka;parasmEpaxI;wyajaz;BvAxiH}	wyaj1{karwari;viXilif;pra;eka;parasmEpaxI;wyajaz;BvAxiH}		wyAga_xenA_cAhiye	must_give_up				
+1	त्रि-विधम्	6	त्रिविधं	त्रिविध{पुं}{2;एक}/त्रिविध{नपुं}{1;एक}/त्रिविध{नपुं}{2;एक}	त्रिविध{नपुं}{1;एक}	विशेषणम्,4	तीन_प्रकार_के	ट्ह्रेए_किन्ड्स्_ओङ्	<त्रि-विधं>भ्स्6			
+2	नरकस्य	7	नरकस्येदं	नरक{पुं}{6;एक}/नरक{नपुं}{6;एक}	नरक{पुं}{6;एक}	षष्ठीसम्बन्धः,4	नरक_के	हेल्लिस्ह्				
+3	इदम्	5	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	विशेषणम्,4	ये	ट्हिस्				
+4	द्वारम्	8	द्वारं	द्वार्{स्त्री}{2;एक}/द्वार{नपुं}{1;एक}/द्वार{नपुं}{2;एक}	द्वार{नपुं}{1;एक}	कर्ता,10.1	द्वार	गटे				
+5	नाशनम्	10	नाशनमात्मनः	नाशन{पुं}{2;एक}/नाशन{नपुं}{1;एक}/नाशन{नपुं}{2;एक}	नाशन{नपुं}{1;एक}	विधेय_विशेषणम्,10.1	नाश_करनेवाले	डेस्ट्रुच्टिवे				
+6	आत्मनः	9	0	आत्मन्{पुं}{2;बहु}/आत्मन्{पुं}{5;एक}/आत्मन्{पुं}{6;एक}	आत्मन्{पुं}{6;एक}	कर्ता,5	आत्मा_का	ओङ्_ट्हे_सेल्ङ्				
+7	कामः	1	कामः	काम{पुं}{1;एक}	काम{पुं}{1;एक}	घटक,4	काम	लुस्ट्				
+8	क्रोधः	2	क्रोधस्तथा	क्रोध{पुं}{1;एक}	क्रोध{पुं}{1;एक}	घटक,4	क्रोध	अन्गेर्				
+9	तथा	3	0	तथा{अव्य}	तथा{अव्य}	समुच्चय_द्योतकः,10	तथा	अस्_तेल्ल्_अस्				
+10	लोभः	4	लोभस्तस्मादेतत्त्रयं	लोभ{पुं}{1;एक}	लोभ{पुं}{1;एक}	घटक,4	लोभ	ग्रेएड्				
+10.1	(भवति)	11	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})		(हैं)	बेचोमेस्				
+11	तस्मात्	12	0	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तस्मात्{अव्य}	हेतुः,13	अतएव	ट्हेरेङोरे				
+12	एतत्	13	0	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{2;एक}	विशेषणम्,12	इन	ट्हेसे				
+13	त्रयम्	14	0	त्रय{पुं}{2;एक}/त्रय{नपुं}{1;एक}/त्रय{नपुं}{2;एक}	त्रय{नपुं}{2;एक}	कर्म,13	तीनों_को	ट्ह्रेए				
+14	त्यजेत्	15	त्यजेत्	त्यज्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;त्यजँ;भ्वादिः}	त्यज्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;त्यजँ;भ्वादिः}		त्याग_देना_चाहिये	मुस्ट्_गिवे_उप्				

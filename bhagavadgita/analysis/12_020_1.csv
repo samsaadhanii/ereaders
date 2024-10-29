@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ye	2	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,10;niwya_sambanXaH,11	jo	one_who				
-2	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,7	paraMwu	but				
-3	Xarmya-amqwam	8	XarmyAmqwamixaM	XarmyAmqwa{napuM}{1;eka}/XarmyAmqwa{napuM}{2;eka}	Xarmya-amqwa{napuM}{2;eka}	karma,7	Xarmamaya_amqwa_kA	of_religious_nectar	<Xarmya-amqwam>K1			
-4	ixam	5	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,3	isa	this				
-5	yaWA	6	yaWokwaM	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,6	jEse	as				
-6	ukwam	7	0	ukwa{puM}{2;eka}/ukwa{napuM}{1;eka}/ukwa{napuM}{2;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;napuM}{2;eka}	viSeRaNam,3	kahe_hue	said				
-7	paryupAsawe	9	paryupAsawe	paryupAsawe	pari_upa_As1{karwari;lat;pra;bahu;AwmanepaxI;pari_upa_Asaz;axAxiH}	aBihiwakarwA,10;sakarmakaH	upAsanA_karawe_hEM	completely_engage				
-8	SraxxaXAnAH	3	SraxxaXAnA	SraxxaXAna{puM}{1;bahu}	SraxxaXAna{puM}{1;bahu}	viSeRaNam,10	SraxXAyukwa_puruRa	with_faith				
-9	maw-paramAH	4	mawparamA	mawparama{puM}{1;bahu}/mawparamA{swrI}{1;bahu}/mawparamA{swrI}{2;bahu}	asmax-parama{puM}{1;bahu}	viSeRaNam,10	mere_parAyaNa_hokara	taking_the_Supreme_Lord_as_everything	<asmaw-paramAH>Bs6			
-10	BakwAH	11	BakwAsweZwIva	Bakwa{puM}{1;bahu}/BakwA{swrI}{1;bahu}/BakwA{swrI}{2;bahu}	Bakwa{puM}{1;bahu}	karwA,7	Bakwa	devotees				
-11	we	10	0	wax{puM}{1;bahu}	wax{puM}{1;bahu}	karwA,14.1	ve	such_persons				
-12	awIva	13	0	awIva{avya}	awIva{avya}	wIvrawAxarSI,14	awiSaya	very,_very				
-13	me	12	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,14	muJako	me				
-14	priyAH	14	priyAH	priya{puM}{1;bahu}/priyA{swrI}{1;bahu}/priyA{swrI}{2;bahu}/pq1{karwari;ASIrlif;ma;eka;parasmEpaxI;pq;svAxiH}/pQ1{karwari;ASIrlif;ma;eka;parasmEpaxI;pQ;juhowyAxiH}	priya{puM}{1;bahu}	viXeya_viSeRaNam,14.1	priya	dear				
-14.1	(sanwi)	15	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hEM)	are				
+1	ये	2	ये	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	विशेषणम्,10;नित्य_सम्बन्धः,11	जो	ओने_त्हो				
+2	तु	1	तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,7	परंतु	बुट्				
+3	धर्म्य-अमृतम्	8	धर्म्यामृतमिदं	धर्म्यामृत{नपुं}{1;एक}/धर्म्यामृत{नपुं}{2;एक}	धर्म्य-अमृत{नपुं}{2;एक}	कर्म,7	धर्ममय_अमृत_का	ओङ्_रेलिगिओउस्_नेच्टर्	<धर्म्य-अमृतम्>ख्1			
+4	इदम्	5	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,3	इस	ट्हिस्				
+5	यथा	6	यथोक्तं	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,6	जैसे	अस्				
+6	उक्तम्	7	0	उक्त{पुं}{2;एक}/उक्त{नपुं}{1;एक}/उक्त{नपुं}{2;एक}	वच्1{कृत्_प्रत्ययः:क्त;वचँ;अदादिः;नपुं}{2;एक}	विशेषणम्,3	कहे_हुए	सइड्				
+7	पर्युपासते	9	पर्युपासते	पर्युपासते	परि_उप_आस्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;परि_उप_आसँ;अदादिः}	अभिहितकर्ता,10;सकर्मकः	उपासना_करते_हैं	चोम्प्लेटेल्य्_एन्गगे				
+8	श्रद्दधानाः	3	श्रद्दधाना	श्रद्दधान{पुं}{1;बहु}	श्रद्दधान{पुं}{1;बहु}	विशेषणम्,10	श्रद्धायुक्त_पुरुष	तिट्ह्_ङइट्ह्				
+9	मत्-परमाः	4	मत्परमा	मत्परम{पुं}{1;बहु}/मत्परमा{स्त्री}{1;बहु}/मत्परमा{स्त्री}{2;बहु}	अस्मद्-परम{पुं}{1;बहु}	विशेषणम्,10	मेरे_परायण_होकर	टकिन्ग्_ट्हे_शुप्रेमे_ऌओर्ड्_अस्_एवेर्य्ट्हिन्ग्	<अस्मत्-परमाः>भ्स्6			
+10	भक्ताः	11	भक्तास्तेऽतीव	भक्त{पुं}{1;बहु}/भक्ता{स्त्री}{1;बहु}/भक्ता{स्त्री}{2;बहु}	भक्त{पुं}{1;बहु}	कर्ता,7	भक्त	डेवोटेएस्				
+11	ते	10	0	तद्{पुं}{1;बहु}	तद्{पुं}{1;बहु}	कर्ता,14.1	वे	सुच्ह्_पेर्सोन्स्				
+12	अतीव	13	0	अतीव{अव्य}	अतीव{अव्य}	तीव्रतादर्शी,14	अतिशय	वेर्य्,_वेर्य्				
+13	मे	12	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,14	मुझको	मे				
+14	प्रियाः	14	प्रियाः	प्रिय{पुं}{1;बहु}/प्रिया{स्त्री}{1;बहु}/प्रिया{स्त्री}{2;बहु}/पृ1{कर्तरि;आशीर्लिङ्;म;एक;परस्मैपदी;पृ;स्वादिः}/पॄ1{कर्तरि;आशीर्लिङ्;म;एक;परस्मैपदी;पॄ;जुहोत्यादिः}	प्रिय{पुं}{1;बहु}	विधेय_विशेषणम्,14.1	प्रिय	डेअर्				
+14.1	(सन्ति)	15	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,11;अकर्मकः	(हैं)	अरे				

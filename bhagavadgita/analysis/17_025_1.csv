@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	waw	1	waxiwyanaBisanXAya	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,3	'waw'	that				
-2	iwi	2	0	iwi{avya}	iwi{avya}	karma_xyowakaH,3	isa_(BAva_se)	they				
-3	an-aBisanXAya	4	0	an-{avya}-aBisanXa{puM}{4;eka}	na-aBisanXa{puM}{4;eka}	pUrvakAlaH,9	na_cAhakara	without_fruitive_result	<na-aBisanXAya>Tn			
-4	Palam	3	PalaM	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{1;eka}	karma,3	Pala_ko	result_of_sacrifice				
-5	yajFa-wapaH-kriyAH	6	yajFawapaHkriyAH	yajFa-wapas-kriyA{swrI}{1;bahu}/kriyA{swrI}{2;bahu}	yajFa-wapas-kriyA{swrI}{1;bahu}	sup_samucciwaH,7	yajFa_waparUpa_kriyAez	activities_of_sacrifice_and_penance	<<yajFa-wapaH>Di-kriyAH>K7			
-6	xAna-kriyAH	8	xAnakriyASca	xAna-kriyA{swrI}{1;bahu}/kriyA{swrI}{2;bahu}	xAna-kriyA{swrI}{1;bahu}	karma,9	xAnarUpa_kriyAez	activities_of_charity	<xAna-kriyAH>K7			
-7	ca	7	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	waWA	also				
-8	viviXAH	5	viviXAH	viviXa{puM}{1;bahu}/viviXA{swrI}{1;bahu}/viviXA{swrI}{2;bahu}	viviXA{swrI}{1;bahu}	viSeRaNam,5	nAnA_prakAra_kI	varieties				
-9	kriyanwe	10	kriyanwe	kq2{karmaNi;lat;pra;bahu;AwmanepaxI;kqF;svAxiH}/kq3{karmaNi;lat;pra;bahu;AwmanepaxI;dukqF;wanAxiH}	kq3{karmaNi;lat;pra;bahu;AwmanepaxI;dukqF;wanAxiH}	aBihiwakarma,6;sakarmakaH	kI_jAwI_hEM	done				
-10	mokRa-AkAfkRiBiH	9	mokRAkAfkRiBiH	mokRa-AkAfkRin{puM}{3;bahu}/AkAfkRin{napuM}{3;bahu}	mokRa-AkAfkRin{puM}{3;bahu}	karwA,9	kalyANa_kI_icCAvAle_puruRoM_xvArA	those_who_actually_desire_liberation	<mokRa-AkAfkRiBiH>T6			
+1	तत्	1	तदित्यनभिसन्धाय	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्म,3	'तत्'	ट्हट्				
+2	इति	2	0	इति{अव्य}	इति{अव्य}	कर्म_द्योतकः,3	इस_(भाव_से)	ट्हेय्				
+3	अन्-अभिसन्धाय	4	0	अन्-{अव्य}-अभिसन्ध{पुं}{4;एक}	न-अभिसन्ध{पुं}{4;एक}	पूर्वकालः,9	न_चाहकर	तिट्होउट्_ङ्रुइटिवे_रेसुल्ट्	<न-अभिसन्धाय>ठ्न्			
+4	फलम्	3	फलं	फल{नपुं}{1;एक}/फल{नपुं}{2;एक}	फल{नपुं}{1;एक}	कर्म,3	फल_को	रेसुल्ट्_ओङ्_सच्रिङिचे				
+5	यज्ञ-तपः-क्रियाः	6	यज्ञतपःक्रियाः	यज्ञ-तपस्-क्रिया{स्त्री}{1;बहु}/क्रिया{स्त्री}{2;बहु}	यज्ञ-तपस्-क्रिया{स्त्री}{1;बहु}	सुप्_समुच्चितः,7	यज्ञ_तपरूप_क्रियाएँ	अच्टिविटिएस्_ओङ्_सच्रिङिचे_अन्ड्_पेनन्चे	<<यज्ञ-तपः>ढि-क्रियाः>ख्7			
+6	दान-क्रियाः	8	दानक्रियाश्च	दान-क्रिया{स्त्री}{1;बहु}/क्रिया{स्त्री}{2;बहु}	दान-क्रिया{स्त्री}{1;बहु}	कर्म,9	दानरूप_क्रियाएँ	अच्टिविटिएस्_ओङ्_च्हरिट्य्	<दान-क्रियाः>ख्7			
+7	च	7	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	तथा	अल्सो				
+8	विविधाः	5	विविधाः	विविध{पुं}{1;बहु}/विविधा{स्त्री}{1;बहु}/विविधा{स्त्री}{2;बहु}	विविधा{स्त्री}{1;बहु}	विशेषणम्,5	नाना_प्रकार_की	वरिएटिएस्				
+9	क्रियन्ते	10	क्रियन्ते	कृ2{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;कृञ्;स्वादिः}/कृ3{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;डुकृञ्;तनादिः}	कृ3{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;डुकृञ्;तनादिः}	अभिहितकर्म,6;सकर्मकः	की_जाती_हैं	डोने				
+10	मोक्ष-आकाङ्क्षिभिः	9	मोक्षाकाङ्क्षिभिः	मोक्ष-आकाङ्क्षिन्{पुं}{3;बहु}/आकाङ्क्षिन्{नपुं}{3;बहु}	मोक्ष-आकाङ्क्षिन्{पुं}{3;बहु}	कर्ता,9	कल्याण_की_इच्छावाले_पुरुषों_द्वारा	ट्होसे_त्हो_अच्टुअल्ल्य्_डेसिरे_लिबेरटिओन्	<मोक्ष-आकाङ्क्षिभिः>ठ्6			

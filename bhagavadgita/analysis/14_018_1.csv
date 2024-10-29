@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	UrXvam	2	UrXvaM	UrXvam{avya}	UrXvam{avya}	aXikaraNam,2	svargAxi_ucca_lokoM_ko	upwards				
-2	gacCanwi	3	gacCanwi	gacCaw{napuM}{1;bahu}/gacCaw{napuM}{2;bahu}/gam1{karwari;lat;pra;bahu;parasmEpaxI;gamLz;BvAxiH}	gam1{karwari;lat;pra;bahu;parasmEpaxI;gamLz;BvAxiH}	aBihiwakarwA,3;sakarmakaH	jAwe_hEM	go				
-3	sawwva-sWAH	1	sawwvasWA	sawwvasWa{puM}{1;bahu}	sawwva-sWa{puM}{1;bahu}	karwA,2	sawwvaguNa_meM_sWiwa_puruRa	one_who_is_situated_in_the_mode_of_goodness	<sawwva-sWAH>U			
-4	maXye	5	maXye	maXya{puM}{7;eka}/maXya{napuM}{1;xvi}/maXya{napuM}{2;xvi}/maXya{napuM}{7;eka}/maXyA{swrI}{1;xvi}/maXyA{swrI}{2;xvi}	maXya{puM}{7;eka}	aXikaraNam,5	maXya_meM_arWAw_manuRyaloka_meM	in_the_middle				
-5	wiRTanwi	6	wiRTanwi	wiRTaw{napuM}{1;bahu}/wiRTaw{napuM}{2;bahu}/sWA1{karwari;lat;pra;bahu;parasmEpaxI;RTA;BvAxiH}	sWA1{karwari;lat;pra;bahu;parasmEpaxI;RTA;BvAxiH}	aBihiwakarwA,6;sakarmakaH	rahawe_hEM	dwell				
-6	rAjasAH	4	rAjasAH	rAjasa{puM}{1;bahu}/rAjasA{swrI}{1;bahu}/rAjasA{swrI}{2;bahu}	rAjasa{puM}{1;bahu}	karwA,5	rajoguNa_meM_sWiwa_rAjasa_puruRa	those_who_are_situated_in_the_mode_of_passion				
-7	jaGanya-guNa-vqwwi-sWAH	7	jaGanyaguNavqwisWA	jaGanya-guNa-viwwisWAH	jaGanya-guNa-vqwwi-sWa{puM}{1;bahu}	viSeRaNam,10	wamoguNa_ke_kAryarUpa_nixrA_pramAxa_Ora_AlasyAxi_meM_sWiwa	occupation_of_abominable_quality	<<<jaGanya-guNa>K1-vqwwiH>T6-sWAH>U			
-8	aXaH	9	aXo	aXaH{avya}	aXaH{avya}	aXikaraNam,9	aXogawi_ko	down				
-9	gacCanwi	10	gacCanwi	gacCaw{napuM}{1;bahu}/gacCaw{napuM}{2;bahu}/gam1{karwari;lat;pra;bahu;parasmEpaxI;gamLz;BvAxiH}	gam1{karwari;lat;pra;bahu;parasmEpaxI;gamLz;BvAxiH}	aBihiwakarwA,10;sakarmakaH	prApwa_howe_hEM	go				
-10	wAmasAH	8	wAmasAH	wAmasa{puM}{1;bahu}	wAmasa{puM}{1;bahu}	karwA,9	wAmasa_puruRa	people_in_the_mode_of_ignorance				
+1	ऊर्ध्वम्	2	ऊर्ध्वं	ऊर्ध्वम्{अव्य}	ऊर्ध्वम्{अव्य}	अधिकरणम्,2	स्वर्गादि_उच्च_लोकों_को	उप्तर्ड्स्				
+2	गच्छन्ति	3	गच्छन्ति	गच्छत्{नपुं}{1;बहु}/गच्छत्{नपुं}{2;बहु}/गम्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;गमॢँ;भ्वादिः}	गम्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;गमॢँ;भ्वादिः}	अभिहितकर्ता,3;सकर्मकः	जाते_हैं	गो				
+3	सत्त्व-स्थाः	1	सत्त्वस्था	सत्त्वस्थ{पुं}{1;बहु}	सत्त्व-स्थ{पुं}{1;बहु}	कर्ता,2	सत्त्वगुण_में_स्थित_पुरुष	ओने_त्हो_इस्_सिटुअटेड्_इन्_ट्हे_मोडे_ओङ्_गोओड्नेस्स्	<सत्त्व-स्थाः>ऊ			
+4	मध्ये	5	मध्ये	मध्य{पुं}{7;एक}/मध्य{नपुं}{1;द्वि}/मध्य{नपुं}{2;द्वि}/मध्य{नपुं}{7;एक}/मध्या{स्त्री}{1;द्वि}/मध्या{स्त्री}{2;द्वि}	मध्य{पुं}{7;एक}	अधिकरणम्,5	मध्य_में_अर्थात्_मनुष्यलोक_में	इन्_ट्हे_मिड्ड्ले				
+5	तिष्ठन्ति	6	तिष्ठन्ति	तिष्ठत्{नपुं}{1;बहु}/तिष्ठत्{नपुं}{2;बहु}/स्था1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ष्ठा;भ्वादिः}	स्था1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ष्ठा;भ्वादिः}	अभिहितकर्ता,6;सकर्मकः	रहते_हैं	ड्तेल्ल्				
+6	राजसाः	4	राजसाः	राजस{पुं}{1;बहु}/राजसा{स्त्री}{1;बहु}/राजसा{स्त्री}{2;बहु}	राजस{पुं}{1;बहु}	कर्ता,5	रजोगुण_में_स्थित_राजस_पुरुष	ट्होसे_त्हो_अरे_सिटुअटेड्_इन्_ट्हे_मोडे_ओङ्_पस्सिओन्				
+7	जघन्य-गुण-वृत्ति-स्थाः	7	जघन्यगुणवृतिस्था	जघन्य-गुण-वित्तिस्थाः	जघन्य-गुण-वृत्ति-स्थ{पुं}{1;बहु}	विशेषणम्,10	तमोगुण_के_कार्यरूप_निद्रा_प्रमाद_और_आलस्यादि_में_स्थित	ओच्चुपटिओन्_ओङ्_अबोमिनब्ले_ऋउअलिट्य्	<<<जघन्य-गुण>ख्1-वृत्तिः>ठ्6-स्थाः>ऊ			
+8	अधः	9	अधो	अधः{अव्य}	अधः{अव्य}	अधिकरणम्,9	अधोगति_को	डोत्न्				
+9	गच्छन्ति	10	गच्छन्ति	गच्छत्{नपुं}{1;बहु}/गच्छत्{नपुं}{2;बहु}/गम्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;गमॢँ;भ्वादिः}	गम्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;गमॢँ;भ्वादिः}	अभिहितकर्ता,10;सकर्मकः	प्राप्त_होते_हैं	गो				
+10	तामसाः	8	तामसाः	तामस{पुं}{1;बहु}	तामस{पुं}{1;बहु}	कर्ता,9	तामस_पुरुष	पेओप्ले_इन्_ट्हे_मोडे_ओङ्_इग्नोरन्चे				

@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	8	na	na{avya}	na{avya}	prawiReXaH,5	nahIM	never				
-2	wu	6	wu	wu{avya}	wu{avya}	sambanXaH,1	paraMwu	but				
-3	mAm	5	mAM	asmax{2;eka}	asmax{2;eka}	karma,5	muJako	me				
-4	Sakyase	9	Sakyase	Sak1{BAve;lat;ma;eka;AwmanepaxI;SakLz;svAxiH}/Sak2{karwari;lat;ma;eka;AwmanepaxI;Sakaz;xivAxiH}/Sak2{karmaNi;lat;ma;eka;AwmanepaxI;Sakaz;xivAxiH}	Sak1{BAve;lat;ma;eka;AwmanepaxI;SakLz;svAxiH}	aBihiwa_karwA,8.1	samarWa_hE	able				
-5	xraRtum	7	xraRtumanenEva	xqS1{avya;wumun;xqSizr;:BvAxiH}	xqS1{avya;wumun;xqSizr;:BvAxiH}	sahAyakakriyA,4	xeKane_meM	to_see				
-6	anena	2	0	ana{puM}{3;eka}/ixam{puM}{3;eka}/ixam{napuM}{3;eka}	ixam{napuM}{3;eka}	viSeRaNam,8	ina	by_this				
-7	eva	3	0	eva{avya}	eva{avya}	sambanXaH,6	niHsaMxeha	certainly				
-8	sva-cakRuRA	4	svacakRuRA	sva-cakRus{napuM}{3;eka}	sva-cakRus{napuM}{3;eka}	karaNam,5	apane_prAkqwa_newroM_xvArA	with_your_own_eyes	<sva-cakRuRA>T6			
-8.1	(wvam)	1	()	yuRmax{1;eka}	yuRmax{1;eka}	karwA,4	Apa	you				
-9	xivyam	12	xivyaM	xivya{puM}{2;eka}/xivya{napuM}{1;eka}/xivya{napuM}{2;eka}	xivya{napuM}{2;eka}	viSeRaNam,12	xivya_(arWAw_alOkika)	divine				
-10	xaxAmi	14	xaxAmi	xA3{karwari;lat;u;eka;parasmEpaxI;duxAF;juhowyAxiH}	xA3{karwari;lat;u;eka;parasmEpaxI;duxAF;juhowyAxiH}	aBihiwa_karwA,10.1	xewA_hUz	give				
-10.1	(aham)	10	()	asmax{1;eka}	asmax{1;eka}	karwA,10	Apa	you				
-11	we	11	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,10	wumhAre	you				
-12	cakRuH	13	cakRuH	cakRu{puM}{1;eka}/cakRus{napuM}{1;eka}/cakRus{napuM}{2;eka}/cakRus{napuM}{8;eka}/kRE1{karwari;lit;pra;bahu;parasmEpaxI;kRE;BvAxiH}	cakRus{napuM}{2;eka}	karma,10	cakRu	eyes				
-13	paSya	19	paSya	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,16.1	xeKa	see				
-14	me	16	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,15	merI	my				
-15	yogam	18	yogamESvaram	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,13	yogaSakwi_ko	mystic_power				
-16	ESvaram	17	0	ESvara{puM}{2;eka}/ESvara{napuM}{1;eka}/ESvara{napuM}{2;eka}	ESvara{puM}{2;eka}	viSeRaNam,15	ISvarIya	inconceivable				
-16.1	(wvam)	15	()	yuRmax{1;eka}	yuRmax{1;eka}	karwA,13	Apa	you				
+1	न	8	न	न{अव्य}	न{अव्य}	प्रतिषेधः,5	नहीं	नेवेर्				
+2	तु	6	तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,1	परंतु	बुट्				
+3	माम्	5	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,5	मुझको	मे				
+4	शक्यसे	9	शक्यसे	शक्1{भावे;लट्;म;एक;आत्मनेपदी;शकॢँ;स्वादिः}/शक्2{कर्तरि;लट्;म;एक;आत्मनेपदी;शकँ;दिवादिः}/शक्2{कर्मणि;लट्;म;एक;आत्मनेपदी;शकँ;दिवादिः}	शक्1{भावे;लट्;म;एक;आत्मनेपदी;शकॢँ;स्वादिः}	अभिहित_कर्ता,8.1	समर्थ_है	अब्ले				
+5	द्रष्टुम्	7	द्रष्टुमनेनैव	दृश्1{अव्य;तुमुन्;दृशिँर्;:भ्वादिः}	दृश्1{अव्य;तुमुन्;दृशिँर्;:भ्वादिः}	सहायकक्रिया,4	देखने_में	टो_सेए				
+6	अनेन	2	0	अन{पुं}{3;एक}/इदम्{पुं}{3;एक}/इदम्{नपुं}{3;एक}	इदम्{नपुं}{3;एक}	विशेषणम्,8	इन	ब्य्_ट्हिस्				
+7	एव	3	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,6	निःसंदेह	चेर्टइन्ल्य्				
+8	स्व-चक्षुषा	4	स्वचक्षुषा	स्व-चक्षुस्{नपुं}{3;एक}	स्व-चक्षुस्{नपुं}{3;एक}	करणम्,5	अपने_प्राकृत_नेत्रों_द्वारा	तिट्ह्_योउर्_ओत्न्_एयेस्	<स्व-चक्षुषा>ठ्6			
+8.1	(त्वम्)	1	()	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,4	आप	योउ				
+9	दिव्यम्	12	दिव्यं	दिव्य{पुं}{2;एक}/दिव्य{नपुं}{1;एक}/दिव्य{नपुं}{2;एक}	दिव्य{नपुं}{2;एक}	विशेषणम्,12	दिव्य_(अर्थात्_अलौकिक)	डिविने				
+10	ददामि	14	ददामि	दा3{कर्तरि;लट्;उ;एक;परस्मैपदी;डुदाञ्;जुहोत्यादिः}	दा3{कर्तरि;लट्;उ;एक;परस्मैपदी;डुदाञ्;जुहोत्यादिः}	अभिहित_कर्ता,10.1	देता_हूँ	गिवे				
+10.1	(अहम्)	10	()	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,10	आप	योउ				
+11	ते	11	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	सम्प्रदानम्,10	तुम्हारे	योउ				
+12	चक्षुः	13	चक्षुः	चक्षु{पुं}{1;एक}/चक्षुस्{नपुं}{1;एक}/चक्षुस्{नपुं}{2;एक}/चक्षुस्{नपुं}{8;एक}/क्षै1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;क्षै;भ्वादिः}	चक्षुस्{नपुं}{2;एक}	कर्म,10	चक्षु	एयेस्				
+13	पश्य	19	पश्य	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहित_कर्ता,16.1	देख	सेए				
+14	मे	16	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,15	मेरी	म्य्				
+15	योगम्	18	योगमैश्वरम्	योग{पुं}{2;एक}	योग{पुं}{2;एक}	कर्म,13	योगशक्ति_को	म्य्स्टिच्_पोतेर्				
+16	ऐश्वरम्	17	0	ऐश्वर{पुं}{2;एक}/ऐश्वर{नपुं}{1;एक}/ऐश्वर{नपुं}{2;एक}	ऐश्वर{पुं}{2;एक}	विशेषणम्,15	ईश्वरीय	इन्चोन्चेइवब्ले				
+16.1	(त्वम्)	15	()	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,13	आप	योउ				

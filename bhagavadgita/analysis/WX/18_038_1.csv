@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	viRaya-inxriya-saMyogAw	3	viRayenxriyasaMyogAxyawwaxagreZmqwopamam	viRaya-inxriya-saMyoga{puM}{5;eka}	viRaya-inxriya-saMyoga{puM}{5;eka}	hewuH,2.1	viRaya_Ora_inxriyoM_ke_saMyoga_se	combination_of_objects_of_the_senses	<<viRaya-inxriya>Di-saMyogAw>T6			
+2	yaw	1	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,2.1;niwya_sambanXaH,3	jo	which				
+2.1	(Bavawi)	4	(0)	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}/Bavaw{puM}{7;eka})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,2;akarmakaH	(howA_hE)	becomes_entangled				
+3	waw	5	wawsuKaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,8.1	vaha	that				
+4	agre	6	0	agra{napuM}{1;xvi}/agra{napuM}{2;xvi}/agra{napuM}{7;eka}/agrA{swrI}{1;xvi}/agrA{swrI}{2;xvi}	agra{napuM}{7;eka}	aXikaraNam,8.1	pahale-BogakAla_meM	in_the_beginning				
+5	amqwa-upamam	7	0	amqwopama{napuM}{1;eka}/amqwopama{napuM}{2;eka}	amqwa-upama{napuM}{2;eka}	viXeya_viSeRaNam,8.1	amqwa_ke_wulya_prawIwa_honepara	just_like_nectar	<amqwa-upamam>Bs6			
+6	pariNAme	8	pariNAme	pariNAma{puM}{7;eka}	pariNAma{puM}{7;eka}	viRayAXikaraNam,8.1	pariNAma_meM	at_the_end				
+7	viRam	9	viRamiva	viRa{napuM}{1;eka}/viRa{napuM}{2;eka}	viRa{napuM}{2;eka}	upamAnam,3	viRa_ke	poison				
+8	iva	10	0	iva{avya}	iva{avya}	upamA_xyowakaH,7	wulya	like				
+8.1	(Bavawi)	11	(0)	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}/Bavaw{puM}{7;eka}/Bavaw{napuM}{7;eka}/Bavaw{puM}{7;eka})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,3;akarmakaH	(hE)	becomes				
+9	waw	12	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,10	vaha_(suKa)	that				
+10	suKam	2	0	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{1;eka}	karma,12	suKa	happiness				
+11	rAjasam	13	rAjasaM	rAjasa{puM}{2;eka}/rAjasa{napuM}{1;eka}/rAjasa{napuM}{2;eka}	rAjasa{napuM}{1;eka}	karmasamAnAXikaraNam,12	rAjasa	in_the_mode_of_passion				
+12	smqwam	14	smqwam	smqwa{puM}{2;eka}/smqwa{napuM}{1;eka}/smqwa{napuM}{2;eka}	smq1{kqw_prawyayaH:kwa;smq;BvAxiH;napuM}{1;eka}	aBihiwakarma,10;sakarmakaH	kahA_gayA_hE	is_considered				

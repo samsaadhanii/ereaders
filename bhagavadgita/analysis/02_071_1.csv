@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	vihAya	5	vihAya	vi_hA1{kqw_prawyayaH:lyap;ozhAf;juhowyAxiH}/vi_hA2{kqw_prawyayaH:lyap;ozhAk;juhowyAxiH}	vi_hA2{kqw_prawyayaH:lyap;vi_ozhAf;juhowyAxiH}	pUrvakAlaH,6	wyAgakara	has_given_up				
-2	kAmAn	4	kAmAnyaH	kAma{puM}{2;bahu}	kAma{puM}{2;bahu}	karma,1	kAmanAoM_ko	desires				
-3	yaH	1	0	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,5;niwya_sambanXaH,10	jo	he_who				
-4	sarvAn	3	sarvAnpumAMScarawi	sarva{puM}{2;bahu}	sarva{puM}{2;bahu}	viSeRaNam,2	sampUrNa	all				
-5	pumAn	2	0	pumaw{puM}{1;eka}	pumaw{puM}{1;eka}	karwA,6	puruRa	person				
-6	carawi	11	0	caraw{puM}{7;eka}/caraw{napuM}{7;eka}/car1{karwari;lat;pra;eka;parasmEpaxI;caraz;BvAxiH}	car1{karwari;lat;pra;eka;parasmEpaxI;caraz;BvAxiH}	aBihiwa_karwA,5;akarmakaH	vicarawA_hE	moves				
-7	nis-spqhaH	6	niHspqhaH	niHspqha{puM}{1;eka}	niHspqha{puM}{1;eka}	sup_samucciwaH,9	spqhArahiwa_huA	free_from_thirst_for_enjoyment	<nis-spqhaH>Bvp			
-8	nir-mamaH	7	nirmamo	nirmama{puM}{1;eka}	nirmama{puM}{1;eka}	sup_samucciwaH,9	mamawArahiwa	free_from_attachment	<nir-mamaH>Bvp			
-9	nir-ahafkAraH	9	nirahafkAraH	nirahafkAra{puM}{1;eka}	nir-ahafkAra{puM}{1;eka}	viXeya_viSeRaNam,9.2	ahaMkArarahiwa	free_from_egoism	<nir-ahafkAraH>Bvp			
-9.1	(ca)	8	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,9	(Ora)	and				
-9.2	(san)	10	()	as1{kqw_prawyayaH:Sawq;smq;axAxiH;puM}{1;eka}	as1{kqw_prawyayaH:Sawq;smq;axAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,6	(howe_hue)	being_so				
-10	saH	12	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,12	vahI	he				
-11	SAnwim	13	SAnwimaXigacCawi	SAnwi{swrI}{2;eka}	SAnwi{swrI}{2;eka}	karma,12	SAnwi_ko	peace				
-12	aXigacCawi	14	0	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;gamLz;BvAxiH}	aXi_gam1{karwari;lat;pra;eka;parasmEpaxI;aXi_gamLz;BvAxiH}	aBihiwa_karwA,10;sakarmakaH	prApwa_howA_hE	attains				
+1	विहाय	5	विहाय	वि_हा1{कृत्_प्रत्ययः:ल्यप्;ओँहाङ्;जुहोत्यादिः}/वि_हा2{कृत्_प्रत्ययः:ल्यप्;ओँहाक्;जुहोत्यादिः}	वि_हा2{कृत्_प्रत्ययः:ल्यप्;वि_ओँहाङ्;जुहोत्यादिः}	पूर्वकालः,6	त्यागकर	हस्_गिवेन्_उप्				
+2	कामान्	4	कामान्यः	काम{पुं}{2;बहु}	काम{पुं}{2;बहु}	कर्म,1	कामनाओं_को	डेसिरेस्				
+3	यः	1	0	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	विशेषणम्,5;नित्य_सम्बन्धः,10	जो	हे_त्हो				
+4	सर्वान्	3	सर्वान्पुमांश्चरति	सर्व{पुं}{2;बहु}	सर्व{पुं}{2;बहु}	विशेषणम्,2	सम्पूर्ण	अल्ल्				
+5	पुमान्	2	0	पुमत्{पुं}{1;एक}	पुमत्{पुं}{1;एक}	कर्ता,6	पुरुष	पेर्सोन्				
+6	चरति	11	0	चरत्{पुं}{7;एक}/चरत्{नपुं}{7;एक}/चर्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;चरँ;भ्वादिः}	चर्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;चरँ;भ्वादिः}	अभिहित_कर्ता,5;अकर्मकः	विचरता_है	मोवेस्				
+7	निस्-स्पृहः	6	निःस्पृहः	निःस्पृह{पुं}{1;एक}	निःस्पृह{पुं}{1;एक}	सुप्_समुच्चितः,9	स्पृहारहित_हुआ	ङ्रेए_ङ्रोम्_ट्हिर्स्ट्_ङोर्_एन्जोय्मेन्ट्	<निस्-स्पृहः>भ्व्प्			
+8	निर्-ममः	7	निर्ममो	निर्मम{पुं}{1;एक}	निर्मम{पुं}{1;एक}	सुप्_समुच्चितः,9	ममतारहित	ङ्रेए_ङ्रोम्_अट्टच्ह्मेन्ट्	<निर्-ममः>भ्व्प्			
+9	निर्-अहङ्कारः	9	निरहङ्कारः	निरहङ्कार{पुं}{1;एक}	निर्-अहङ्कार{पुं}{1;एक}	विधेय_विशेषणम्,9.2	अहंकाररहित	ङ्रेए_ङ्रोम्_एगोइस्म्	<निर्-अहङ्कारः>भ्व्प्			
+9.1	(च)	8	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,9	(और)	अन्ड्				
+9.2	(सन्)	10	()	अस्1{कृत्_प्रत्ययः:शतृ;स्मृ;अदादिः;पुं}{1;एक}	अस्1{कृत्_प्रत्ययः:शतृ;स्मृ;अदादिः;पुं}{1;एक}	वर्तमानसमानकालः,6	(होते_हुए)	बेइन्ग्_सो				
+10	सः	12	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,12	वही	हे				
+11	शान्तिम्	13	शान्तिमधिगच्छति	शान्ति{स्त्री}{2;एक}	शान्ति{स्त्री}{2;एक}	कर्म,12	शान्ति_को	पेअचे				
+12	अधिगच्छति	14	0	अधि_गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;गमॢँ;भ्वादिः}	अधि_गम्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;अधि_गमॢँ;भ्वादिः}	अभिहित_कर्ता,10;सकर्मकः	प्राप्त_होता_है	अट्टइन्स्				

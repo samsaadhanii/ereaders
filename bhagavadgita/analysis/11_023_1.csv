@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	rUpam	8	rUpaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,9	rUpa_ko	form				
-2	mahaw	7	mahawwe	mahaw{napuM}{1;eka}/mahaw{napuM}{2;eka}/mahaw{napuM}{8;eka}	mahax{napuM}{2;eka}	wIvrawAxarSI,1	mahAn	very_great				
-3	we	2	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,1	Apake	of_You				
-4	bahu-vakwra-newram	3	bahuvakwranewraM	bahu-vakwra-newra{napuM}{1;eka}/newra{napuM}{2;eka}	bahu-vakwra-newra{puM}{2;eka}	viSeRaNam,1	bahuwa_muKa_Ora_newroMvAle	many_faces_and_eyes	<bahu-<vakwra-newram>Ds>Bs6			
-5	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,11	he_mahAbAho	O_mighty-armed_one	<mahaw-bAho>Bs6			
-6	bahu-bAhu-uru-pAxam	4	bahubAhUrupAxam	bahu-bAhu-uru-pAxa{puM}{2;eka}	bahu-bAhu-uru-pAxa{puM}{2;eka}	viSeRaNam,1	bahuwa_hAWa_jaMGA_Ora_pEroMvAle	many_arms,_thighs_and_legs	<bahu-<bAhu-uru-pAxam>Di>Bs6			
-7	bahu-uxaram	5	bahUxaraM	bahu-uxara{puM}{2;eka}/uxara{napuM}{1;eka}/uxara{napuM}{2;eka}	bahu-uxara{puM}{2;eka}	viSeRaNam,1	bahuwa_uxaroMvAle	many_bellies	<bahu-uxaram>Bs7			
-8	bahu-xaMRtrA-karAlam	6	bahuxaMRtrAkarAlaM	bahu-xaMRtrA-karAla{puM}{2;eka}/karAla{napuM}{1;eka}/karAla{napuM}{2;eka}	bahu-xaMRtrA-karAla{puM}{2;eka}	viSeRaNam,1	bahuwa-sI_xADa़oM_ke_kAraNa_awyanwa_vikarAla	horrible_due_to_many_teeth	<<bahu-xaMRtrA>K1-karAlam>Bs6			
-9	xqRtvA	9	xqRtvA	xqS1{avya;kwvA;xqSizr;:BvAxiH}	xqS1{avya;kwvA;xqSizr;:BvAxiH}	pUrvakAlaH,11	xeKakara	seeing				
-10	lokAH	10	lokAH	loka{puM}{1;bahu}/loka{puM}{8;bahu}	loka{puM}{1;bahu}	karwA,11	saba_loga	all_the_planets				
-11	pravyaWiwAH	11	pravyaWiwAswaWAham	pravyaWiwa{puM}{1;bahu}/pravyaWiwa{puM}{8;bahu}/pravyaWiwA{swrI}{1;bahu}/pravyaWiwA{swrI}{2;bahu}/pravyaWiwA{swrI}{8;bahu}	pra_vyaW1{kqw_prawyayaH:kwa;pra_vyaWaz;BvAxiH;puM}{1;bahu}	aBihiwa_karwA,10	vyAkula	perturbed				
-12	waWA	12	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,13	waWA	similarly				
-13	aham	13	0	asmax{1;eka}	asmax{1;eka}	sup_samucciwaH,10	mEM	I				
+1	रूपम्	8	रूपं	रूप{नपुं}{1;एक}/रूप{नपुं}{2;एक}	रूप{नपुं}{2;एक}	कर्म,9	रूप_को	ङोर्म्				
+2	महत्	7	महत्ते	महत्{नपुं}{1;एक}/महत्{नपुं}{2;एक}/महत्{नपुं}{8;एक}	महद्{नपुं}{2;एक}	तीव्रतादर्शी,1	महान्	वेर्य्_ग्रेअट्				
+3	ते	2	0	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,1	आपके	ओङ्_Yओउ				
+4	बहु-वक्त्र-नेत्रम्	3	बहुवक्त्रनेत्रं	बहु-वक्त्र-नेत्र{नपुं}{1;एक}/नेत्र{नपुं}{2;एक}	बहु-वक्त्र-नेत्र{पुं}{2;एक}	विशेषणम्,1	बहुत_मुख_और_नेत्रोंवाले	मन्य्_ङचेस्_अन्ड्_एयेस्	<बहु-<वक्त्र-नेत्रम्>ढ्स्>भ्स्6			
+5	महान्-बाहो	1	महाबाहो	महाबाहु{पुं}{8;एक}/महाबाहु{नपुं}{8;एक}	महाबाहु{पुं}{8;एक}	सम्बोध्यः,11	हे_महाबाहो	औ_मिग्ह्ट्य्-अर्मेड्_ओने	<महत्-बाहो>भ्स्6			
+6	बहु-बाहु-उरु-पादम्	4	बहुबाहूरुपादम्	बहु-बाहु-उरु-पाद{पुं}{2;एक}	बहु-बाहु-उरु-पाद{पुं}{2;एक}	विशेषणम्,1	बहुत_हाथ_जंघा_और_पैरोंवाले	मन्य्_अर्म्स्,_ट्हिग्ह्स्_अन्ड्_लेग्स्	<बहु-<बाहु-उरु-पादम्>ढि>भ्स्6			
+7	बहु-उदरम्	5	बहूदरं	बहु-उदर{पुं}{2;एक}/उदर{नपुं}{1;एक}/उदर{नपुं}{2;एक}	बहु-उदर{पुं}{2;एक}	विशेषणम्,1	बहुत_उदरोंवाले	मन्य्_बेल्लिएस्	<बहु-उदरम्>भ्स्7			
+8	बहु-दंष्ट्रा-करालम्	6	बहुदंष्ट्राकरालं	बहु-दंष्ट्रा-कराल{पुं}{2;एक}/कराल{नपुं}{1;एक}/कराल{नपुं}{2;एक}	बहु-दंष्ट्रा-कराल{पुं}{2;एक}	विशेषणम्,1	बहुत-सी_दाढॆअञओं_के_कारण_अत्यन्त_विकराल	होर्रिब्ले_डुए_टो_मन्य्_टेएट्ह्	<<बहु-दंष्ट्रा>ख्1-करालम्>भ्स्6			
+9	दृष्ट्वा	9	दृष्ट्वा	दृश्1{अव्य;क्त्वा;दृशिँर्;:भ्वादिः}	दृश्1{अव्य;क्त्वा;दृशिँर्;:भ्वादिः}	पूर्वकालः,11	देखकर	सेएइन्ग्				
+10	लोकाः	10	लोकाः	लोक{पुं}{1;बहु}/लोक{पुं}{8;बहु}	लोक{पुं}{1;बहु}	कर्ता,11	सब_लोग	अल्ल्_ट्हे_प्लनेट्स्				
+11	प्रव्यथिताः	11	प्रव्यथितास्तथाहम्	प्रव्यथित{पुं}{1;बहु}/प्रव्यथित{पुं}{8;बहु}/प्रव्यथिता{स्त्री}{1;बहु}/प्रव्यथिता{स्त्री}{2;बहु}/प्रव्यथिता{स्त्री}{8;बहु}	प्र_व्यथ्1{कृत्_प्रत्ययः:क्त;प्र_व्यथँ;भ्वादिः;पुं}{1;बहु}	अभिहित_कर्ता,10	व्याकुल	पेर्टुर्बेड्				
+12	तथा	12	0	तथा{अव्य}	तथा{अव्य}	समुच्चय_द्योतकः,13	तथा	सिमिलर्ल्य्				
+13	अहम्	13	0	अस्मद्{1;एक}	अस्मद्{1;एक}	सुप्_समुच्चितः,10	मैं	ई				

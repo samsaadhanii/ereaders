@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sawkAra-mAna-pUjA-arWam	3	sawkAramAnapUjArWaM	sawkAra-mAna-pUjArWa{puM}{2;eka}/arWa{napuM}{1;eka}/arWa{napuM}{2;eka}	sawkAra-mAna-pUjA-arWa{napuM}{1;eka}	prayojanam,7	sawkAra_mAna_Ora_pUjA_ke_liye	for_respect_honor_and_worship	<<sawkAra-mAna-pUjA>Di-arWaM>T4			
-2	wapaH	2	wapo	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{2;eka}	karma,7	wapa	austerity				
-3	xamBena	6	xamBena	xamBa{puM}{3;eka}	xamBa{puM}{3;eka}	karaNam,7	pAKaNda_se	by_pride				
-4	ca	4	cEva	ca{avya}	ca{avya}	sambanXaH,7	Ora	also				
-5	eva	5	0	eva{avya}	eva{avya}	sambanXaH,3	hI	certainly				
-6	yaw	1	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,2;niwya_sambanXaH,8	jo	which				
-7	kriyawe	7	kriyawe	kq2{karmaNi;lat;pra;eka;AwmanepaxI;kqF;svAxiH}/kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}/kriyawA{swrI}{1;xvi}/kriyawA{swrI}{2;xvi}	kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwakarma,2;sakarmakaH	kiyA_jAwA_hE	performed				
-8	waw	8	waxiha	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,13.1	vaha	that				
-9	iha	12	0	iha{avya}	iha{avya}	aXikaraNam,10	yahAz	in_this_world				
-10	prokwam	14	prokwaM	prokwa{puM}{2;eka}/prokwa{napuM}{1;eka}/prokwa{napuM}{2;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;napuM}{1;eka}	aBihiwakarma,13.1;sakarmakaH	kahA_gayA_hE	is_said				
-11	rAjasam	13	rAjasaM	rAjasa{puM}{2;eka}/rAjasa{napuM}{1;eka}/rAjasa{napuM}{2;eka}	rAjasa{puM}{2;eka}	karmasamAnAXikaraNam,10	rAjasa	in_the_mode_of_passion				
-12	calam	10	calamaXruvam	cala{puM}{2;eka}/cala{napuM}{1;eka}/cala{napuM}{2;eka}	cala{napuM}{2;eka}	viSeRaNam,8	kRaNika_PalavAlA	flickering				
-13	a-Xruvam	9	0	a-Xruva{puM}{2;eka}/Xruva{napuM}{1;eka}/Xruva{napuM}{2;eka}	na-Xruva{napuM}{2;eka}	viSeRaNam,8	aniSciwa	temporary	<na-Xruvam>Tn			
-13.1	(wapaH)	11	(0)	(wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka})	(wapas{napuM}{2;eka})	karma,10	(wapa)	austerity				
+1	सत्कार-मान-पूजा-अर्थम्	3	सत्कारमानपूजार्थं	सत्कार-मान-पूजार्थ{पुं}{2;एक}/अर्थ{नपुं}{1;एक}/अर्थ{नपुं}{2;एक}	सत्कार-मान-पूजा-अर्थ{नपुं}{1;एक}	प्रयोजनम्,7	सत्कार_मान_और_पूजा_के_लिये	ङोर्_रेस्पेच्ट्_होनोर्_अन्ड्_तोर्स्हिप्	<<सत्कार-मान-पूजा>ढि-अर्थं>ठ्4			
+2	तपः	2	तपो	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}	तपस्{नपुं}{2;एक}	कर्म,7	तप	अउस्टेरिट्य्				
+3	दम्भेन	6	दम्भेन	दम्भ{पुं}{3;एक}	दम्भ{पुं}{3;एक}	करणम्,7	पाखण्ड_से	ब्य्_प्रिडे				
+4	च	4	चैव	च{अव्य}	च{अव्य}	सम्बन्धः,7	और	अल्सो				
+5	एव	5	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,3	ही	चेर्टइन्ल्य्				
+6	यत्	1	यत्	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	विशेषणम्,2;नित्य_सम्बन्धः,8	जो	त्हिच्ह्				
+7	क्रियते	7	क्रियते	कृ2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;कृञ्;स्वादिः}/कृ3{कर्मणि;लट्;प्र;एक;आत्मनेपदी;डुकृञ्;तनादिः}/क्रियता{स्त्री}{1;द्वि}/क्रियता{स्त्री}{2;द्वि}	कृ3{कर्मणि;लट्;प्र;एक;आत्मनेपदी;डुकृञ्;तनादिः}	अभिहितकर्म,2;सकर्मकः	किया_जाता_है	पेर्ङोर्मेड्				
+8	तत्	8	तदिह	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	विशेषणम्,13.1	वह	ट्हट्				
+9	इह	12	0	इह{अव्य}	इह{अव्य}	अधिकरणम्,10	यहाँ	इन्_ट्हिस्_तोर्ल्ड्				
+10	प्रोक्तम्	14	प्रोक्तं	प्रोक्त{पुं}{2;एक}/प्रोक्त{नपुं}{1;एक}/प्रोक्त{नपुं}{2;एक}	प्र_वच्1{कृत्_प्रत्ययः:क्त;प्र_वचँ;अदादिः;नपुं}{1;एक}	अभिहितकर्म,13.1;सकर्मकः	कहा_गया_है	इस्_सइड्				
+11	राजसम्	13	राजसं	राजस{पुं}{2;एक}/राजस{नपुं}{1;एक}/राजस{नपुं}{2;एक}	राजस{पुं}{2;एक}	कर्मसमानाधिकरणम्,10	राजस	इन्_ट्हे_मोडे_ओङ्_पस्सिओन्				
+12	चलम्	10	चलमध्रुवम्	चल{पुं}{2;एक}/चल{नपुं}{1;एक}/चल{नपुं}{2;एक}	चल{नपुं}{2;एक}	विशेषणम्,8	क्षणिक_फलवाला	ङ्लिच्केरिन्ग्				
+13	अ-ध्रुवम्	9	0	अ-ध्रुव{पुं}{2;एक}/ध्रुव{नपुं}{1;एक}/ध्रुव{नपुं}{2;एक}	न-ध्रुव{नपुं}{2;एक}	विशेषणम्,8	अनिश्चित	टेम्पोरर्य्	<न-ध्रुवम्>ठ्न्			
+13.1	(तपः)	11	(0)	(तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक})	(तपस्{नपुं}{2;एक})	कर्म,10	(तप)	अउस्टेरिट्य्				

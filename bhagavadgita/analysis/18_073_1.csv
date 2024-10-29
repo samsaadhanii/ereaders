@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	naRtaH	5	naRto	naRta{puM}{1;eka}	naS1{kqw_prawyayaH:kwa;NaSaz;xivAxiH;puM}{1;eka}	aBihiwakarwA,2;akarmakaH	naRta_ho_gayA	dispelled				
-2	mohaH	4	mohaH	moha{puM}{1;eka}	moha{puM}{1;eka}	karwA,1	moha	illusion				
-3	smqwiH	7	smqwirlabXA	smqwi{swrI}{1;eka}	smqwi{swrI}{1;eka}	karma,4	smqwi	memory				
-4	labXA	8	0	labXA{swrI}{1;eka}/laB1{karwari;lut;pra;eka;AwmanepaxI;dulaBazR;BvAxiH}/laB1{karmaNi;lut;pra;eka;AwmanepaxI;dulaBazR;BvAxiH}	laB1{karmaNi;lut;pra;eka;AwmanepaxI;dulaBazR;BvAxiH}	aBihiwakarma,3;sakarmakaH	prApwa_kara_lI_hE	regained				
-5	wvaw-prasAxAw	2	wvawprasAxAnmayAcyuwa	wvaw-prasAxa{puM}{5;eka}	wvaw-prasAxa{puM}{5;eka}	hewuH,4	ApakI_kqpA_se	by_Your_mercy	<yuRmaw-prasAxAw>T6			
-6	mayA	6	0	asmax{3;eka}	asmax{3;eka}	karwA,4	mEMne	by_me				
-7	a-cyuwa	1	0	acyuwa{puM}{8;eka}	acyuwa{puM}{8;eka}	samboXyaH,1	he_acyuwa	O_infallible_Krsna	<na-cyuwa>Bsmn			
-8	sWiwaH	11	sWiwoZsmi	sWiwa{puM}{1;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;eka}	karwA,9	sWiwa	situated				
-9	asmi	12	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}		hUz	am				
-10	gawa-sanxehaH	10	gawasanxehaH	gawasanxeha{puM}{1;eka}	gawa-sanxeha{puM}{1;eka}	viXeya_viSeRaNam,8	saMSayarahiwa_hokara	removed_all_doubts	<gawa-sanxehaH>Bs6			
-11	kariRye	15	kariRye	kq2{karwari;lqt;u;eka;AwmanepaxI;kqF;svAxiH}/kq2{karmaNi;lqt;u;eka;AwmanepaxI;kqF;svAxiH}/kq3{karwari;lqt;u;eka;AwmanepaxI;dukqF;wanAxiH}/kq3{karmaNi;lqt;u;eka;AwmanepaxI;dukqF;wanAxiH}/kQ1{karmaNi;lqt;u;eka;AwmanepaxI;kQ;wuxAxiH}/kQ2{karwari;lqt;u;eka;AwmanepaxI;kQF;kryAxiH}	kq3{karwari;lqt;u;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwakarwA,13.1;sakarmakaH	pAlana_karUzgA	shall_execute				
-12	vacanam	14	vacanaM	vacana{napuM}{1;eka}/vacana{napuM}{2;eka}	vacana{napuM}{2;eka}	karma,11	AjFA_kA	order				
-13	wava	13	wava	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,12	ApakI	your				
-13.1	(aham)	9	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,11	(mEM)	I				
+1	नष्टः	5	नष्टो	नष्ट{पुं}{1;एक}	नश्1{कृत्_प्रत्ययः:क्त;णशँ;दिवादिः;पुं}{1;एक}	अभिहितकर्ता,2;अकर्मकः	नष्ट_हो_गया	डिस्पेल्लेड्				
+2	मोहः	4	मोहः	मोह{पुं}{1;एक}	मोह{पुं}{1;एक}	कर्ता,1	मोह	इल्लुसिओन्				
+3	स्मृतिः	7	स्मृतिर्लब्धा	स्मृति{स्त्री}{1;एक}	स्मृति{स्त्री}{1;एक}	कर्म,4	स्मृति	मेमोर्य्				
+4	लब्धा	8	0	लब्धा{स्त्री}{1;एक}/लभ्1{कर्तरि;लुट्;प्र;एक;आत्मनेपदी;डुलभँष्;भ्वादिः}/लभ्1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;डुलभँष्;भ्वादिः}	लभ्1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;डुलभँष्;भ्वादिः}	अभिहितकर्म,3;सकर्मकः	प्राप्त_कर_ली_है	रेगइनेड्				
+5	त्वत्-प्रसादात्	2	त्वत्प्रसादान्मयाच्युत	त्वत्-प्रसाद{पुं}{5;एक}	त्वत्-प्रसाद{पुं}{5;एक}	हेतुः,4	आपकी_कृपा_से	ब्य्_Yओउर्_मेर्च्य्	<युष्मत्-प्रसादात्>ठ्6			
+6	मया	6	0	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,4	मैंने	ब्य्_मे				
+7	अ-च्युत	1	0	अच्युत{पुं}{8;एक}	अच्युत{पुं}{8;एक}	सम्बोध्यः,1	हे_अच्युत	औ_इन्ङल्लिब्ले_ख्र्स्न	<न-च्युत>भ्स्म्न्			
+8	स्थितः	11	स्थितोऽस्मि	स्थित{पुं}{1;एक}	स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{1;एक}	कर्ता,9	स्थित	सिटुअटेड्				
+9	अस्मि	12	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}		हूँ	अम्				
+10	गत-सन्देहः	10	गतसन्देहः	गतसन्देह{पुं}{1;एक}	गत-सन्देह{पुं}{1;एक}	विधेय_विशेषणम्,8	संशयरहित_होकर	रेमोवेड्_अल्ल्_डोउब्ट्स्	<गत-सन्देहः>भ्स्6			
+11	करिष्ये	15	करिष्ये	कृ2{कर्तरि;लृट्;उ;एक;आत्मनेपदी;कृञ्;स्वादिः}/कृ2{कर्मणि;लृट्;उ;एक;आत्मनेपदी;कृञ्;स्वादिः}/कृ3{कर्तरि;लृट्;उ;एक;आत्मनेपदी;डुकृञ्;तनादिः}/कृ3{कर्मणि;लृट्;उ;एक;आत्मनेपदी;डुकृञ्;तनादिः}/कॄ1{कर्मणि;लृट्;उ;एक;आत्मनेपदी;कॄ;तुदादिः}/कॄ2{कर्तरि;लृट्;उ;एक;आत्मनेपदी;कॄञ्;क्र्यादिः}	कृ3{कर्तरि;लृट्;उ;एक;आत्मनेपदी;डुकृञ्;तनादिः}	अभिहितकर्ता,13.1;सकर्मकः	पालन_करूँगा	स्हल्ल्_एदेचुटे				
+12	वचनम्	14	वचनं	वचन{नपुं}{1;एक}/वचन{नपुं}{2;एक}	वचन{नपुं}{2;एक}	कर्म,11	आज्ञा_का	ओर्डेर्				
+13	तव	13	तव	युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,12	आपकी	योउर्				
+13.1	(अहम्)	9	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,11	(मैं)	ई				

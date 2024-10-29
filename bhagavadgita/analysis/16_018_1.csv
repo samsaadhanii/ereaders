@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ahafkAram	1	ahaMkAraM	ahafkAra{puM}{2;eka}	ahafkAra{puM}{2;eka}	sup_samucciwaH,5	ahaMkAra	false_ego				
-2	balam	2	balaM	bala{puM}{2;eka}/bala{napuM}{1;eka}/bala{napuM}{2;eka}	bala{napuM}{2;eka}	sup_samucciwaH,5	bala	strength				
-3	xarpam	3	xarpaM	xarpa{puM}{2;eka}	xarpa{puM}{2;eka}	sup_samucciwaH,5	GamaNda	pride				
-4	kAmam	4	kAmaM	kAmam{avya}/kAma{puM}{2;eka}	kAma{puM}{2;eka}	sup_samucciwaH,5	kAmanA	lust				
-5	kroXam	5	kroXaM	kroXa{puM}{2;eka}/kroXa{napuM}{1;eka}/kroXa{napuM}{2;eka}	kroXa{puM}{2;eka}	karma,7	kroXAxi_ke	anger				
-6	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
-7	saMSriwAH	7	saMSriwAH	saMSriwa{puM}{1;bahu}/saMSriwa{puM}{8;bahu}/saMSriwA{swrI}{1;bahu}/saMSriwA{swrI}{2;bahu}/saMSriwA{swrI}{8;bahu}	sam_Sri1{kqw_prawyayaH:kwa;sam_SriF;BvAxiH;puM}{1;bahu}	viSeRaNam,11.2	parAyaNa	having_taken_shelter_of				
-8	mAm	9	mAmAwmaparaxeheRu	asmax{2;eka}	asmax{2;eka}	karma,10	muJase_(anwaryAmI_se)	me				
-9	Awma-para-xeheRu	8	0	Awman-para-xeha{puM}{7;bahu}/xeha{napuM}{7;bahu}	Awman-para-xeha{puM}{7;bahu}	aXikaraNam,10	apane_Ora_xUsaroM_ke_SarIra_meM	in_one's_own_and_other_bodies	<<Awma-para>Ds-xeheRu>T6			
-10	praxviRanwaH	10	praxviRanwoZByasUyakAH	praxviRanwaH	pra_xviR1{kqw_prawyayaH:Sawq;pra_xviRaz;axAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,11.1	xveRa_karanevAle	blasphemes				
-11	aBi-asUyakAH	11	0	aBi-{avya}-asUyaka{puM}{1;bahu}/asUyaka{puM}{8;bahu}	aBi-asUyaka{puM}{1;bahu}	viSeRaNam,11.2	xUsaroM_kI_ninxA_karanevAle	envious				
-11.1	(varwanwe)	13	(0)	(vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH})	(vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH})	aBihiwakarwA,11.2;akarmakaH	(howe_hEM)	thus				
-11.2	(janAH)	12	(0)	(jana{puM}{1;bahu}/jana{puM}{8;bahu})	(jana{puM}{1;bahu})	karwA,11.1	(puruRa)	persons				
+1	अहङ्कारम्	1	अहंकारं	अहङ्कार{पुं}{2;एक}	अहङ्कार{पुं}{2;एक}	सुप्_समुच्चितः,5	अहंकार	ङल्से_एगो				
+2	बलम्	2	बलं	बल{पुं}{2;एक}/बल{नपुं}{1;एक}/बल{नपुं}{2;एक}	बल{नपुं}{2;एक}	सुप्_समुच्चितः,5	बल	स्ट्रेन्ग्ट्ह्				
+3	दर्पम्	3	दर्पं	दर्प{पुं}{2;एक}	दर्प{पुं}{2;एक}	सुप्_समुच्चितः,5	घमण्ड	प्रिडे				
+4	कामम्	4	कामं	कामम्{अव्य}/काम{पुं}{2;एक}	काम{पुं}{2;एक}	सुप्_समुच्चितः,5	कामना	लुस्ट्				
+5	क्रोधम्	5	क्रोधं	क्रोध{पुं}{2;एक}/क्रोध{नपुं}{1;एक}/क्रोध{नपुं}{2;एक}	क्रोध{पुं}{2;एक}	कर्म,7	क्रोधादि_के	अन्गेर्				
+6	च	6	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और	अल्सो				
+7	संश्रिताः	7	संश्रिताः	संश्रित{पुं}{1;बहु}/संश्रित{पुं}{8;बहु}/संश्रिता{स्त्री}{1;बहु}/संश्रिता{स्त्री}{2;बहु}/संश्रिता{स्त्री}{8;बहु}	सम्_श्रि1{कृत्_प्रत्ययः:क्त;सम्_श्रिञ्;भ्वादिः;पुं}{1;बहु}	विशेषणम्,11.2	परायण	हविन्ग्_टकेन्_स्हेल्टेर्_ओङ्				
+8	माम्	9	मामात्मपरदेहेषु	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,10	मुझसे_(अन्तर्यामी_से)	मे				
+9	आत्म-पर-देहेषु	8	0	आत्मन्-पर-देह{पुं}{7;बहु}/देह{नपुं}{7;बहु}	आत्मन्-पर-देह{पुं}{7;बहु}	अधिकरणम्,10	अपने_और_दूसरों_के_शरीर_में	इन्_ओने'स्_ओत्न्_अन्ड्_ओट्हेर्_बोडिएस्	<<आत्म-पर>ढ्स्-देहेषु>ठ्6			
+10	प्रद्विषन्तः	10	प्रद्विषन्तोऽभ्यसूयकाः	प्रद्विषन्तः	प्र_द्विष्1{कृत्_प्रत्ययः:शतृ;प्र_द्विषँ;अदादिः;पुं}{1;बहु}	वर्तमानसमानकालः,11.1	द्वेष_करनेवाले	ब्लस्प्हेमेस्				
+11	अभि-असूयकाः	11	0	अभि-{अव्य}-असूयक{पुं}{1;बहु}/असूयक{पुं}{8;बहु}	अभि-असूयक{पुं}{1;बहु}	विशेषणम्,11.2	दूसरों_की_निन्दा_करनेवाले	एन्विओउस्				
+11.1	(वर्तन्ते)	13	(0)	(वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;वृतुँ;भ्वादिः})	(वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;वृतुँ;भ्वादिः})	अभिहितकर्ता,11.2;अकर्मकः	(होते_हैं)	ट्हुस्				
+11.2	(जनाः)	12	(0)	(जन{पुं}{1;बहु}/जन{पुं}{8;बहु})	(जन{पुं}{1;बहु})	कर्ता,11.1	(पुरुष)	पेर्सोन्स्				

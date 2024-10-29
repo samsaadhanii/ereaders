@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-vyakwa-AxIni	3	avyakwAxIni	avyakwa-Axi{napuM}{1;bahu}/Axi{napuM}{2;bahu}	avyakwa-Axin{napuM}{1;bahu}	sup_samucciwaH,5	janma_se_pahale_aprakata_We	in_the_beginning_unmanifested	<<na-vyakwa>Tn-AxIni>Bs6			
-2	BUwAni	2	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{1;bahu}	karwA,9	sampUrNa_prANI	all_beings				
-3	vyakwa-maXyAni	4	vyakwamaXyAni	vyakwa-maXya{napuM}{1;bahu}/maXya{napuM}{2;bahu}	vyakwa-maXya{napuM}{1;bahu}	sup_samucciwaH,5	bIca_meM_hI_prakata_hEM	manifested_in_the_interim_between_birth_and_death	<vyakwa-maXyAni>Bs6			
-4	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,9	he_arjuna	O_descendant_of_Bharata				
-5	a-vyakwa-niXanAni	5	avyakwaniXanAnyeva	avyakwa-niXana{napuM}{1;bahu}/niXana{napuM}{2;bahu}	avyakwa-niXana{napuM}{1;bahu}	viXeya_viSeRaNam,6.1	marane_ke_bAxa_BI_aprakata_ho_jAnevAle	all_that_are_vanquished_and_became_unmanifested	<na-<vyakwa-niXanAni>Ds>Bsmn			
-5.1	(ca)	6	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,5	(Ora)	and				
-6	eva	7	0	eva{avya}	eva{avya}	sambanXaH,5	hI	and				
-6.1	(sanwi)	8	()	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH}	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,2;akarmakaH						
-7	wawra	9	wawra	wawra{avya}	wawra{avya}	aXikaraNam,9.1	vahAz_(EsI_sWiwi_meM)	therefore				
-8	kA	10	kA	kim{swrI}{1;eka}	kim{swrI}{1;eka}	sambanXaH,9.1	kyA	what_occasion				
-9	parixevanA	11	parixevanA	parixevanA{swrI}{1;eka}	pari_xiv1{kqw_prawyayaH:lyut;pari_xivuz;xivAxiH;swrI}{1;eka}	karwA,9.1	Soka_karanA	for_lamentation				
-9.1	(aswi)	12	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,9;akarmakaH						
+1	अ-व्यक्त-आदीनि	3	अव्यक्तादीनि	अव्यक्त-आदि{नपुं}{1;बहु}/आदि{नपुं}{2;बहु}	अव्यक्त-आदिन्{नपुं}{1;बहु}	सुप्_समुच्चितः,5	जन्म_से_पहले_अप्रकट_थे	इन्_ट्हे_बेगिन्निन्ग्_उन्मनिङेस्टेड्	<<न-व्यक्त>ठ्न्-आदीनि>भ्स्6			
+2	भूतानि	2	भूतानि	भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}/भूत{नपुं}{8;बहु}	भूत{नपुं}{1;बहु}	कर्ता,9	सम्पूर्ण_प्राणी	अल्ल्_बेइन्ग्स्				
+3	व्यक्त-मध्यानि	4	व्यक्तमध्यानि	व्यक्त-मध्य{नपुं}{1;बहु}/मध्य{नपुं}{2;बहु}	व्यक्त-मध्य{नपुं}{1;बहु}	सुप्_समुच्चितः,5	बीच_में_ही_प्रकट_हैं	मनिङेस्टेड्_इन्_ट्हे_इन्टेरिम्_बेट्तेएन्_बिर्ट्ह्_अन्ड्_डेअट्ह्	<व्यक्त-मध्यानि>भ्स्6			
+4	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,9	हे_अर्जुन	औ_डेस्चेन्डन्ट्_ओङ्_भ्हरट				
+5	अ-व्यक्त-निधनानि	5	अव्यक्तनिधनान्येव	अव्यक्त-निधन{नपुं}{1;बहु}/निधन{नपुं}{2;बहु}	अव्यक्त-निधन{नपुं}{1;बहु}	विधेय_विशेषणम्,6.1	मरने_के_बाद_भी_अप्रकट_हो_जानेवाले	अल्ल्_ट्हट्_अरे_वनृउइस्हेड्_अन्ड्_बेचमे_उन्मनिङेस्टेड्	<न-<व्यक्त-निधनानि>ढ्स्>भ्स्म्न्			
+5.1	(च)	6	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,5	(और)	अन्ड्				
+6	एव	7	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,5	ही	अन्ड्				
+6.1	(सन्ति)	8	()	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः}	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,2;अकर्मकः						
+7	तत्र	9	तत्र	तत्र{अव्य}	तत्र{अव्य}	अधिकरणम्,9.1	वहाँ_(ऐसी_स्थिति_में)	ट्हेरेङोरे				
+8	का	10	का	किम्{स्त्री}{1;एक}	किम्{स्त्री}{1;एक}	सम्बन्धः,9.1	क्या	त्हट्_ओच्चसिओन्				
+9	परिदेवना	11	परिदेवना	परिदेवना{स्त्री}{1;एक}	परि_दिव्1{कृत्_प्रत्ययः:ल्युट्;परि_दिवुँ;दिवादिः;स्त्री}{1;एक}	कर्ता,9.1	शोक_करना	ङोर्_लमेन्टटिओन्				
+9.1	(अस्ति)	12	()	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,9;अकर्मकः						

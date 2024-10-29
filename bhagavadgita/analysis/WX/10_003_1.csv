@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,6;niwya_sambanXaH,9	jo	anyone_who				
+2	mAm	2	mAmajamanAxiM	asmax{2;eka}	asmax{2;eka}	karma,6	muJako	unto_Me				
+3	ajam	3	0	a-ja{puM}{2;eka}	aja{puM}{2;eka}	sup_samucciwaH,7	ajanmA_arWAw_vAswava_meM_janmarahiwa	unborn	<na-jam>U			
+4	anAxim 	4	0	an-{avya}-Axi{puM}{2;eka}	anAxi{puM}{2;eka}	sup_samucciwaH,7	anAxi	without_beginning	<na-Axim>Bsmn			
+5	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	Ora	also				
+6	vewwi	7	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,3;akarmakaH	wawwva_se_jAnawA_hE	knows				
+7	lokamaheSvaram	6	lokamaheSvaram	loka-mahaw-ISvara{puM}{2;eka}	loka-mahaw-ISvara{puM}{2;eka}	karmasamAnAXikaraNam,6	lokoM_kA_mahAn_ISvara	the_supreme_master_of_the_planets	<loka-<mahaw-ISvaram>K1>T6			
+8	asammUDaH	10	asammUDaH	a-sammUDaH	na-sammUDa{puM}{1;eka}	viSeRaNam,9	jFAnavAn_puruRa	without_doubt	<na-sammUDaH>Tn			
+9	saH	8	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,12	vaha	he				
+10	marwyeRu	9	marwyeRu	marwya{puM}{7;bahu}	marwya{puM}{7;bahu}	nirXAraNam,9	manuRyoM_meM	among_those_subject_to_death				
+11	sarvapApEH	11	sarvapApEH	sarva-pApa{puM}{3;bahu}/pApa{napuM}{3;bahu}	sarva-pApa{napuM}{3;bahu}	karaNam,12	sampUrNa_pApoM_se	from_all_sinful_reactions	<sarva-pApEH>K1			
+12	pramucyawe	12	pramucyawe	pramucyawe	pra_muc1{karwari;lat;pra;eka;AwmanepaxI;pra_mucLz;wuxAxiH}	aBihiwa_karwA,9;akarmakaH	mukwa_ho_jAwA_hE	is_delivered				

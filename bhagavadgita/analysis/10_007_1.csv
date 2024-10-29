@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ewAm	3	ewAM	ewA{swrI}{2;eka}/ewax{swrI}{2;eka}/Af_i1{karwari;lot;pra;xvi;parasmEpaxI;iN;axAxiH}	ewax{swrI}{2;eka}	viSeRaNam,2	isa	all_this				
-2	vi-BUwim	4	viBUwiM	vi-BUwi{swrI}{2;eka}	viBUwi{swrI}{2;eka}	sup_samucciwaH,4	paramESvaryarUpa_viBUwi_ko	opulence	<vi-BUwiM>Bvp			
-3	yogam	5	yogaM	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,7	yogaSakwi_ko	mystic_power				
-4	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	also				
-5	mama	2	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,2	merI	mine				
-6	yaH	1	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,7;niwya_sambanXaH,9	jo_(puruRa)	anyone				
-7	vewwi	8	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,6;sakarmakaH	jAnawA_hE	knows				
-8	wawwvawaH	7	wawwvawaH	wawwvawaH{avya}	wawwvawaH{avya}	kriyAviSeRaNam,7	wawwva_se	factual				
-9	saH	9	soZvikampena	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,12	vaha	he				
-10	a-vi-kampena	10	0	a-vi-kampa{puM}{3;eka}	na-vikampa{puM}{3;eka}	viSeRaNam,11	niScala	steady	<na-<vi-kampena>Bvp>Bsmn			
-11	yogena	11	yogena	yoga{puM}{3;eka}	yoga{puM}{3;eka}	karaNam,12	Bakwiyoga_se	in_devotional_service				
-12	yujyawe	12	yujyawe	yujyaw{puM}{4;eka}/yujyaw{napuM}{4;eka}/yujyawA{swrI}{1;xvi}/yujyawA{swrI}{2;xvi}/yuj1{BAve;lat;pra;eka;AwmanepaxI;yujaz;xivAxiH}/yuj2{karmaNi;lat;pra;eka;AwmanepaxI;yujizr;ruXAxiH}	yuj2{karwari;lat;pra;eka;AwmanepaxI;yujizr;ruXAxiH}	aBihiwakarma,9;sakarmakaH	yukwa_ho_jAwA_hE	engaged				
-13	na	15	nAwra	na{avya}	na{avya}	prawiReXaH,15.1	nahIM	never				
-14	awra	13	0	awra{avya}	awra{avya}	aXikaraNam,15.1	isameM	here				
-15	saMSayaH	14	saMSayaH	saMSaya{puM}{1;eka}	saMSaya{puM}{1;eka}	karwA,15.1	saMSaya	doubt				
-15.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,15;akarmakaH	(hE)	is				
+1	एताम्	3	एतां	एता{स्त्री}{2;एक}/एतद्{स्त्री}{2;एक}/आङ्_इ1{कर्तरि;लोट्;प्र;द्वि;परस्मैपदी;इण्;अदादिः}	एतद्{स्त्री}{2;एक}	विशेषणम्,2	इस	अल्ल्_ट्हिस्				
+2	वि-भूतिम्	4	विभूतिं	वि-भूति{स्त्री}{2;एक}	विभूति{स्त्री}{2;एक}	सुप्_समुच्चितः,4	परमैश्वर्यरूप_विभूति_को	ओपुलेन्चे	<वि-भूतिं>भ्व्प्			
+3	योगम्	5	योगं	योग{पुं}{2;एक}	योग{पुं}{2;एक}	कर्म,7	योगशक्ति_को	म्य्स्टिच्_पोतेर्				
+4	च	6	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	और	अल्सो				
+5	मम	2	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,2	मेरी	मिने				
+6	यः	1	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,7;नित्य_सम्बन्धः,9	जो_(पुरुष)	अन्योने				
+7	वेत्ति	8	वेत्ति	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,6;सकर्मकः	जानता_है	क्नोत्स्				
+8	तत्त्वतः	7	तत्त्वतः	तत्त्वतः{अव्य}	तत्त्वतः{अव्य}	क्रियाविशेषणम्,7	तत्त्व_से	ङच्टुअल्				
+9	सः	9	सोऽविकम्पेन	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्म,12	वह	हे				
+10	अ-वि-कम्पेन	10	0	अ-वि-कम्प{पुं}{3;एक}	न-विकम्प{पुं}{3;एक}	विशेषणम्,11	निश्चल	स्टेअड्य्	<न-<वि-कम्पेन>भ्व्प्>भ्स्म्न्			
+11	योगेन	11	योगेन	योग{पुं}{3;एक}	योग{पुं}{3;एक}	करणम्,12	भक्तियोग_से	इन्_डेवोटिओनल्_सेर्विचे				
+12	युज्यते	12	युज्यते	युज्यत्{पुं}{4;एक}/युज्यत्{नपुं}{4;एक}/युज्यता{स्त्री}{1;द्वि}/युज्यता{स्त्री}{2;द्वि}/युज्1{भावे;लट्;प्र;एक;आत्मनेपदी;युजँ;दिवादिः}/युज्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;युजिँर्;रुधादिः}	युज्2{कर्तरि;लट्;प्र;एक;आत्मनेपदी;युजिँर्;रुधादिः}	अभिहितकर्म,9;सकर्मकः	युक्त_हो_जाता_है	एन्गगेड्				
+13	न	15	नात्र	न{अव्य}	न{अव्य}	प्रतिषेधः,15.1	नहीं	नेवेर्				
+14	अत्र	13	0	अत्र{अव्य}	अत्र{अव्य}	अधिकरणम्,15.1	इसमें	हेरे				
+15	संशयः	14	संशयः	संशय{पुं}{1;एक}	संशय{पुं}{1;एक}	कर्ता,15.1	संशय	डोउब्ट्				
+15.1	(अस्ति)	16	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,15;अकर्मकः	(है)	इस्				

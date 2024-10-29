@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaWA	1	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,8;niwya_sambanXaH,9	jEse	as				
-2	naxInAm	2	naxInAM	naxI{swrI}{6;bahu}	naxI{swrI}{6;bahu}	RaRTIsambanXaH,4	naxiyoM_ke	of_the_rivers				
-3	bahavaH	3	bahavoZmbuvegAH	bahu{puM}{1;bahu}/bahu{puM}{8;bahu}/bahu{swrI}{1;bahu}/bahu{swrI}{2;bahu}/bahu{swrI}{8;bahu}	bahu{puM}{1;bahu}	viSeRaNam,4	bahuwa-se	many				
-4	ambu-vegAH	4	0	ambu-vega{puM}{1;bahu}/vega{puM}{8;bahu}	ambu-vega{puM}{1;bahu}	karwA,8	jala_ke_pravAha	waves_of_the_waters	<ambu-vegAH>T6			
-5	samuxram	5	samuxramevABimuKA	samuxra{puM}{2;eka}/samuxra{napuM}{1;eka}/samuxra{napuM}{2;eka}	samuxra{puM}{2;eka}	karma,8	samuxra_ke	ocean				
-6	eva	6	0	eva{avya}	eva{avya}	sambanXaH,5	hI	certainly				
-7	aBi-muKAH	7	0	aBi-{avya}-muKa{puM}{1;bahu}/muKa{puM}{8;bahu}	aBi-muKa{puM}{1;bahu}	viSeRaNam,4	sammuKa	towards	<aBi-muKAH>A1			
-8	xravanwi	8	xravanwi	xravaw{napuM}{1;bahu}/xravaw{napuM}{2;bahu}/xravaw{napuM}{8;bahu}/xravaw{napuM}{1;bahu}/xravaw{napuM}{2;bahu}/xravaw{napuM}{8;bahu}/xru1{karwari;lat;pra;bahu;parasmEpaxI;xru;BvAxiH}/xravanwI{swrI}{8;eka}	xru1{karwari;lat;pra;bahu;parasmEpaxI;xru;BvAxiH}	aBihiwa_karwA,4	xOda़we_hEM_(arWAw_samuxra_meM_praveSa_karawe_hEM)	gliding				
-9	waWA	9	waWA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,13	vEse_hI	similarly				
-10	wava	12	wavAmI	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,14	Apake	Your				
-11	amI	10	0	axas{puM}{1;bahu}	axas{puM}{1;bahu}	viSeRaNam,12	ve	all_those				
-12	nara-loka-vIrAH	11	naralokavIrA	nara-loka-vIra{puM}{1;bahu}/vIra{puM}{8;bahu}/vIrA{swrI}{1;bahu}/vIrA{swrI}{2;bahu}/vIrA{swrI}{8;bahu}	nara-loka-vIra{puM}{1;bahu}	karwA,13	naraloka_ke_vIra	the_kings_of_human_society	<<nara-loka>T6-vIrAH>T6			
-13	viSanwi	15	viSanwi	viSaw{napuM}{1;bahu}/viSaw{napuM}{2;bahu}/viSaw{napuM}{8;bahu}	viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	aBihiwa_karwA,29	praveSa_kara_rahe_hEM	entering				
-14	vakwrANi	14	vakwrANyaBivijvalanwi	vakwra{napuM}{1;bahu}/vakwra{napuM}{2;bahu}/vakwra{napuM}{8;bahu}	vakwra{napuM}{2;bahu}	karma,13	muKoM_meM	into_the_mouths				
-15	aBivijvalanwi	13	0	aBivijvalanwi	aBi_vi_jval1{kqw_prawyayaH:Sawq;aBi_vi_jvalaz;BvAxiH;napuM}{2;bahu}	viSeRaNam,14	prajvaliwa	blazing				
+1	यथा	1	यथा	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,8;नित्य_सम्बन्धः,9	जैसे	अस्				
+2	नदीनाम्	2	नदीनां	नदी{स्त्री}{6;बहु}	नदी{स्त्री}{6;बहु}	षष्ठीसम्बन्धः,4	नदियों_के	ओङ्_ट्हे_रिवेर्स्				
+3	बहवः	3	बहवोऽम्बुवेगाः	बहु{पुं}{1;बहु}/बहु{पुं}{8;बहु}/बहु{स्त्री}{1;बहु}/बहु{स्त्री}{2;बहु}/बहु{स्त्री}{8;बहु}	बहु{पुं}{1;बहु}	विशेषणम्,4	बहुत-से	मन्य्				
+4	अम्बु-वेगाः	4	0	अम्बु-वेग{पुं}{1;बहु}/वेग{पुं}{8;बहु}	अम्बु-वेग{पुं}{1;बहु}	कर्ता,8	जल_के_प्रवाह	तवेस्_ओङ्_ट्हे_तटेर्स्	<अम्बु-वेगाः>ठ्6			
+5	समुद्रम्	5	समुद्रमेवाभिमुखा	समुद्र{पुं}{2;एक}/समुद्र{नपुं}{1;एक}/समुद्र{नपुं}{2;एक}	समुद्र{पुं}{2;एक}	कर्म,8	समुद्र_के	ओचेअन्				
+6	एव	6	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,5	ही	चेर्टइन्ल्य्				
+7	अभि-मुखाः	7	0	अभि-{अव्य}-मुख{पुं}{1;बहु}/मुख{पुं}{8;बहु}	अभि-मुख{पुं}{1;बहु}	विशेषणम्,4	सम्मुख	टोतर्ड्स्	<अभि-मुखाः>आ1			
+8	द्रवन्ति	8	द्रवन्ति	द्रवत्{नपुं}{1;बहु}/द्रवत्{नपुं}{2;बहु}/द्रवत्{नपुं}{8;बहु}/द्रवत्{नपुं}{1;बहु}/द्रवत्{नपुं}{2;बहु}/द्रवत्{नपुं}{8;बहु}/द्रु1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;द्रु;भ्वादिः}/द्रवन्ती{स्त्री}{8;एक}	द्रु1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;द्रु;भ्वादिः}	अभिहित_कर्ता,4	दौडॆअञते_हैं_(अर्थात्_समुद्र_में_प्रवेश_करते_हैं)	ग्लिडिन्ग्				
+9	तथा	9	तथा	तथा{अव्य}	तथा{अव्य}	क्रियाविशेषणम्,13	वैसे_ही	सिमिलर्ल्य्				
+10	तव	12	तवामी	युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,14	आपके	Yओउर्				
+11	अमी	10	0	अदस्{पुं}{1;बहु}	अदस्{पुं}{1;बहु}	विशेषणम्,12	वे	अल्ल्_ट्होसे				
+12	नर-लोक-वीराः	11	नरलोकवीरा	नर-लोक-वीर{पुं}{1;बहु}/वीर{पुं}{8;बहु}/वीरा{स्त्री}{1;बहु}/वीरा{स्त्री}{2;बहु}/वीरा{स्त्री}{8;बहु}	नर-लोक-वीर{पुं}{1;बहु}	कर्ता,13	नरलोक_के_वीर	ट्हे_किन्ग्स्_ओङ्_हुमन्_सोचिएट्य्	<<नर-लोक>ठ्6-वीराः>ठ्6			
+13	विशन्ति	15	विशन्ति	विशत्{नपुं}{1;बहु}/विशत्{नपुं}{2;बहु}/विशत्{नपुं}{8;बहु}	विश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विशँ;तुदादिः}	अभिहित_कर्ता,29	प्रवेश_कर_रहे_हैं	एन्टेरिन्ग्				
+14	वक्त्राणि	14	वक्त्राण्यभिविज्वलन्ति	वक्त्र{नपुं}{1;बहु}/वक्त्र{नपुं}{2;बहु}/वक्त्र{नपुं}{8;बहु}	वक्त्र{नपुं}{2;बहु}	कर्म,13	मुखों_में	इन्टो_ट्हे_मोउट्ह्स्				
+15	अभिविज्वलन्ति	13	0	अभिविज्वलन्ति	अभि_वि_ज्वल्1{कृत्_प्रत्ययः:शतृ;अभि_वि_ज्वलँ;भ्वादिः;नपुं}{2;बहु}	विशेषणम्,14	प्रज्वलित	ब्लँइन्ग्				

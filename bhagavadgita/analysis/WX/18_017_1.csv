@@ -1,0 +1,20 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yasya	1	yasya	yax{puM}{6;eka}/yax{napuM}{6;eka}/yas1{karwari;lot;ma;eka;parasmEpaxI;yasuz;xivAxiH}	yax{puM}{6;eka}	RaRTIsambanXaH,4;niwya_sambanXaH,11	jisa_puruRa_ke_(anwaHkaraNa_meM)	of_one_whose				
+2	na	4	nAhafkqwo	na{avya}/nas{swrI}{8;eka}	na{avya}	prawiReXaH,4.1	nahIM	never				
+3	ahafkqwaH	2	0	ahafkqwa{puM}{1;eka}	ahafkqwa{puM}{1;eka}	viSeRaNam,4	'mEM_karwA_hUz'	false_ego				
+4	BAvaH	3	BAvo	BAva{puM}{1;eka}/BA1{karwari;lat;u;xvi;parasmEpaxI;BA;axAxiH}	BAva{puM}{1;eka}	karwA,4.1	BAva	nature				
+4.1	(aswi)	5	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,4;akarmakaH	(hE)	is				
+5	buxXiH	7	buxXiryasya	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,8	buxXi	intelligence				
+6	yasya	6	0	yax{puM}{6;eka}/yax{napuM}{6;eka}/yas1{karwari;lot;ma;eka;parasmEpaxI;yasuz;xivAxiH}	yax{puM}{6;eka}	RaRTIsambanXaH,5;niwya_sambanXaH,11	jisakI	one_whose				
+7	na	8	na	na{avya}/nas{swrI}{8;eka}	na{avya}	prawiReXaH,8	nahIM	never				
+8	lipyawe	9	lipyawe	lip1{karmaNi;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	lip1{karwari;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	aBihiwa_karma,5;akarmakaH	lipyamAna_howI	is_attached				
+9	hawvA	13	hawvApi	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	han1{kqw_prawyayaH:kwvA;hanaz;axAxiH}	pUrvakAlaH,15	mArakara	killing				
+10	api	14	0	api{avya}	api{avya}	sambanXaH,9	BI	also				
+11	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,15	vaha_(puruRa)	he				
+12	imAn	11	imAzllokAnna	ixam{puM}{2;bahu}	ixam{puM}{2;bahu}	viSeRaNam,13	ina	this				
+13	lokAn	12	0	loka{puM}{2;bahu}	loka{puM}{2;bahu}	karma,10	saba_lokoM_ko	world				
+14	na	15	0	na{avya}	na{avya}	prawiReXaH,16	na	never				
+15	hanwi	16	hanwi	han1{karwari;lat;pra;eka;parasmEpaxI;hanaz;axAxiH}	han1{karwari;lat;pra;eka;parasmEpaxI;hanaz;axAxiH}	aBihiwa_karwA,11;akarmakaH	mArawA_hE	kills				
+16	na	18	na	na{avya}	na{avya}	prawiReXaH,17	na	never				
+17	nibaXyawe	19	nibaXyawe	ni_banX1{karmaNi;lat;pra;eka;AwmanepaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;eka;AwmanepaxI;ni_banXaz;kryAxiH}	samucciwaH,15	pApa_se_bazXawA_hE	becomes_entangled				
+17.1	(ca)	17	(0)	ca{avya}	ca{avya}	samuccaya_xyowakaH,17	(vaha)	he				

@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	evam	4	evaM	evam{avya}	evam{avya}	sambanXaH,2	isa_prakAra	thus				
-2	jFAwvA	5	jFAwvA	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,3	jAnakara	knowing_well				
-3	kqwam	7	kqwaM	kqw{puM}{2;eka}/kqwa{puM}{2;eka}/kqwa{napuM}{1;eka}/kqwa{napuM}{2;eka}	kq3{kqw_prawyayaH:kwa;dukqF;wanAxiH;napuM}{1;eka}	aBihiwa_karma,7	kiye_hEM	performed				
-4	karma	6	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,3	karma	work				
-5	pUrvEH	1	pUrvErapi	pUrva{puM}{3;bahu}/pUrva{napuM}{3;bahu}/pUrva{puM}{3;bahu}/pUrva{napuM}{3;bahu}	pUrva{puM}{3;bahu}	viSeRaNam,7	pUrvakAla_ke	by_past_authorities				
-6	api	3		api{avya}	api{avya}	sambanXaH,7	BI	although				
-7	mumukRuBiH	2	mumukRuBiH	mumukRu{puM}{3;bahu}	mumukRu{puM}{3;bahu}	karwA,3	mumukRuoM_ne	who_attained_liberation				
-8	kuru	15	kuru	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwa_karwA,12	kara	just_perform				
-9	karma	13	karmEva	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8	karmoM_ko	prescribed_duty				
-10	eva	14		eva{avya}	eva{avya}	sambanXaH,9	hI	certainly				
-11	wasmAw	8	wasmAwwvam	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,8	isaliye	therefore				
-12	wvam	9	0	yuRmax{1;eka}	yuRmax{1;eka}	karwA,8	wU	you				
-13	pUrvEH	10	pUrvEH	pUrva{puM}{3;bahu}/pUrva{napuM}{3;bahu}/pUrva{puM}{3;bahu}/pUrva{napuM}{3;bahu}	pUrva{puM}{3;bahu}	karwA,15	pUrvajoM_xvArA	by_the_predecessors				
-14	pUrvawaram	11	pUrvawaraM	pUrvawara{puM}{2;eka}/pUrvawara{napuM}{1;eka}/pUrvawara{napuM}{2;eka}/pUrvawara{puM}{2;eka}/pUrvawara{napuM}{1;eka}/pUrvawara{napuM}{2;eka}	pUrvawara{napuM}{1;eka}	viSeRaNam,9	hameSA	ancient_predecessors				
-15	kqwam	12	kqwam	kqw{puM}{2;eka}/kqwa{puM}{2;eka}/kqwa{napuM}{1;eka}/kqwa{napuM}{2;eka}	kq3{kqw_prawyayaH:kwa;dukqF;wanAxiH;napuM}{2;eka}	viSeRaNam,9	kie_jAnevAle	as_performed				
+1	एवम्	4	एवं	एवम्{अव्य}	एवम्{अव्य}	सम्बन्धः,2	इस_प्रकार	ट्हुस्				
+2	ज्ञात्वा	5	ज्ञात्वा	ज्ञा1{कृत्_प्रत्ययः:क्त्वा;ज्ञा;भ्वादिः}/ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	पूर्वकालः,3	जानकर	क्नोतिन्ग्_तेल्ल्				
+3	कृतम्	7	कृतं	कृत्{पुं}{2;एक}/कृत{पुं}{2;एक}/कृत{नपुं}{1;एक}/कृत{नपुं}{2;एक}	कृ3{कृत्_प्रत्ययः:क्त;डुकृञ्;तनादिः;नपुं}{1;एक}	अभिहित_कर्म,7	किये_हैं	पेर्ङोर्मेड्				
+4	कर्म	6	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,3	कर्म	तोर्क्				
+5	पूर्वैः	1	पूर्वैरपि	पूर्व{पुं}{3;बहु}/पूर्व{नपुं}{3;बहु}/पूर्व{पुं}{3;बहु}/पूर्व{नपुं}{3;बहु}	पूर्व{पुं}{3;बहु}	विशेषणम्,7	पूर्वकाल_के	ब्य्_पस्ट्_अउट्होरिटिएस्				
+6	अपि	3		अपि{अव्य}	अपि{अव्य}	सम्बन्धः,7	भी	अल्ट्होउग्ह्				
+7	मुमुक्षुभिः	2	मुमुक्षुभिः	मुमुक्षु{पुं}{3;बहु}	मुमुक्षु{पुं}{3;बहु}	कर्ता,3	मुमुक्षुओं_ने	त्हो_अट्टइनेड्_लिबेरटिओन्				
+8	कुरु	15	कुरु	कृ3{कर्तरि;लोट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लोट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	अभिहित_कर्ता,12	कर	जुस्ट्_पेर्ङोर्म्				
+9	कर्म	13	कर्मैव	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,8	कर्मों_को	प्रेस्च्रिबेड्_डुट्य्				
+10	एव	14		एव{अव्य}	एव{अव्य}	सम्बन्धः,9	ही	चेर्टइन्ल्य्				
+11	तस्मात्	8	तस्मात्त्वम्	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तद्{पुं}{5;एक}	हेतुः,8	इसलिये	ट्हेरेङोरे				
+12	त्वम्	9	0	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,8	तू	योउ				
+13	पूर्वैः	10	पूर्वैः	पूर्व{पुं}{3;बहु}/पूर्व{नपुं}{3;बहु}/पूर्व{पुं}{3;बहु}/पूर्व{नपुं}{3;बहु}	पूर्व{पुं}{3;बहु}	कर्ता,15	पूर्वजों_द्वारा	ब्य्_ट्हे_प्रेडेचेस्सोर्स्				
+14	पूर्वतरम्	11	पूर्वतरं	पूर्वतर{पुं}{2;एक}/पूर्वतर{नपुं}{1;एक}/पूर्वतर{नपुं}{2;एक}/पूर्वतर{पुं}{2;एक}/पूर्वतर{नपुं}{1;एक}/पूर्वतर{नपुं}{2;एक}	पूर्वतर{नपुं}{1;एक}	विशेषणम्,9	हमेशा	अन्चिएन्ट्_प्रेडेचेस्सोर्स्				
+15	कृतम्	12	कृतम्	कृत्{पुं}{2;एक}/कृत{पुं}{2;एक}/कृत{नपुं}{1;एक}/कृत{नपुं}{2;एक}	कृ3{कृत्_प्रत्ययः:क्त;डुकृञ्;तनादिः;नपुं}{2;एक}	विशेषणम्,9	किए_जानेवाले	अस्_पेर्ङोर्मेड्				

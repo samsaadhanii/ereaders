@@ -1,45 +1,45 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-mAniwvam	1	amAniwvamaxamBiwvamahiMsA	a-mAniwva{puM}{2;eka}/mAniwva{napuM}{1;eka}/mAniwva{napuM}{2;eka}	amAniwva{napuM}{1;eka}	Gataka,33	SreRTawA_ke_aBimAna_kA_aBAva	humility	<na-mAniwvam>Tn			
-2	a-xamBiwvam	2	0	a-xamBiwvam	axamBiwva{napuM}{1;eka}	Gataka,33	xamBAcaraNa_kA_aBAva	pridelessness	<na-xamBiwvam>Tn			
-3	a-hiMsA	3	0	a-hiMsA{swrI}{1;eka}	ahiMsA{swrI}{1;eka}	Gataka,33	kisI_BI_prANI_ko_kisI_prakAra_BI_na_sawAnA	nonviolence	<na-hiMsA>Tn			
-4	kRAnwiH	4	kRAnwirArjavam	kRAnwi{swrI}{1;eka}	kRAnwi{swrI}{1;eka}	Gataka,33	kRamABAva	tolerance				
-5	Arjavam	5	0	Arjava{napuM}{1;eka}/Arjava{napuM}{2;eka}	Arjava{napuM}{1;eka}	Gataka,33	mana-vANI_Axi_kI_saralawA	simplicity				
-6	AcArya-upAsanam	6	AcAryopAsanaM	AcArya-upAsana{napuM}{1;eka}/upAsana{napuM}{2;eka}	AcArya-upAsana{napuM}{1;eka}	Gataka,33	SraxXABakwisahiwa_guru_kI_sevA	approaching_a_bona_fide_spiritual_master	<AcArya-upAsanaM>T6			
-7	SOcam	7	SOcaM	SOca{napuM}{1;eka}/SOca{napuM}{2;eka}	SOca{napuM}{1;eka}	Gataka,33	bAhara-BIwara_kI_SuxXi	cleanliness				
-8	sWEryam	8	sWEryamAwmavinigrahaH	sWErya{napuM}{1;eka}/sWErya{napuM}{2;eka}	sWErya{napuM}{1;eka}	Gataka,33	anwaHkaraNa_kI_sWirawA	steadfastness				
-9	Awma-vinigrahaH	9	0	Awman-vinigraha{puM}{1;eka}	Awman-vinigraha{puM}{1;eka}	Gataka,33	mana-inxriyoMsahiwa_SarIra_kA_nigraha	control	<Awma-vinigrahaH>T6			
-10	inxriya-arWeRu	10	inxriyArWeRu	inxriyArWa{puM}{7;bahu}	inxriyArWa{puM}{7;bahu}	aXikaraNam,12	isa_loka_Ora_paraloka_ke_sampUrNa_BogoM_meM	in_the_matter_of_the_senses	<inxriya-arWeRu>T6			
-11	vErAgyam	11	vErAgyamanahafkAra	vErAgya{napuM}{1;eka}/vErAgya{napuM}{2;eka}	vErAgya{napuM}{1;eka}	sup_samucciwaH,12	Asakwi_kA_aBAva	renunciation				
-12	an-ahafkAraH	12	0	an-{avya}-ahafkAra{puM}{1;eka}	na-ahafkAra{puM}{1;eka}	Gataka,33	ahaMkAra_kA_aBAva	being_without_false_egoism	<na-ahafkAraH>Tn			
-13	eva	13	eva	eva{avya}	eva{avya}	sambanXaH,12	BI	certainly				
-14	ca	14	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora	also				
-15	janma-mqwyu-jarA-vyAXi-xuHKa-xoRa-anuxarSanam	15	janmamqwyujarAvyAXixuHKaxoRAnuxarSanam	janman-mqwyu-jarA-vyAXin-xuHKa-xoRan-anuxarSana{napuM}{1;eka}/anuxarSana{napuM}{2;eka}	janman-mqwyu-jarA-vyAXi-xuHKa-xoRa-anuxarSana{napuM}{1;eka}	Gataka,33	janma_mqwyu_jarA_Ora_roga_Axi_meM_xuHKa_Ora_xoRoM_kA_bAra-bAra_vicAra_karanA	observing_distress_and_fault_in_birth_death_old_age_and_disease	<<<janma-mqwyu-jarA-vyAXi-xuHKa>Di-xoRa>T7-anuxarSanam>T6			
-16	a-sakwiH	18	asakwiranaBiRvafgaH	a-sakwi{swrI}{1;eka}	asakwi{swrI}{1;eka}	sup_samucciwaH,17	Asakwi_kA_aBAva	without_attachment	<na-sakwiH>Tn			
-17	an-aBiRvafgaH	19	0	an-{avya}-aBiRvafga{puM}{1;eka}	na_aBiRvafga{puM}{1;eka}	Gataka,33	mamawA_kA_na_honA	without_association	<na-aBiRvafgaH>Tn			
-18	puwra-xAra-gqha-AxiRu	16	puwraxAragqhAxiRu	puwra-xAra-gqha-Axi{puM}{7;bahu}/Axi{napuM}{7;bahu}	puwra-xAra-gqha-Axi{puM}{7;bahu}	aXikaraNam,17	puwra_swrI_Gara_Ora_Xana_Axi_meM	sons_wife_home_etc	<<puwra-xAra-gqha>Di-AxiRu>Bs6			
-19	niwyam	17	niwyaM	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{1;eka}	kriyAviSeRaNam,17	saxA_hI	eternal				
-20	ca	20	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,17	waWA	also				
-21	sama-ciwwawvam	22	samaciwwawvamiRtAniRtopapawwiRu	sama-ciwwawvam	sama-ciwwawva{napuM}{1;eka}	Gataka,33	ciwwa_kA_sama_rahanA	equilibrium	<sama-ciwwawvam>Bs6			
-22	iRta-a-niRta-upapawwiRu	21	0	iRta-a-niRta-upapawwi{swrI}{7;bahu}	iRta-aniRta-upapawwi{swrI}{7;bahu}	aXikaraNam,21	priya_Ora_apriya_kI_prApwi_meM	having_desirable_and_undesirable	<<iRta-<na-iRta>Tn>Di-upapawwiRu>T6			
-23	mayi	23	mayi	asmax{7;eka}	asmax{7;eka}		muJa_parameSvara_meM	unto_Me				
-24	ca	24	cAnanyayogena	ca{avya}	ca{avya}	samuccaya_xyowakaH,22	waWA	also				
-25	an-anya-yogena	25	0	ananya-yoga{puM}{3;eka}	ananya-yoga{puM}{3;eka}	kriyAviSeRaNam,26	ananya_yoga_ke_xvArA	by_devotional_service	<<na-anya>Bs7-yogena>K6			
-26	BakwiH	27	BakwiravyaBicAriNI	Bakwi{swrI}{1;eka}	Bakwi{swrI}{1;eka}	Gataka,33	Bakwi	devotion				
-27	a-vyaBicAriNI	26	0	a-vyaBicArin{napuM}{1;xvi}/vyaBicArin{napuM}{2;xvi}/vyaBicAriNI{swrI}{1;eka}	na-vyaBicAriNI{swrI}{1;eka}	viSeRaNam,26	avyaBicAriNI	constant_unalloyed	<na-vyaBicAriNI>Tn			
-28	vivikwa-xeSa-seviwvam	28	vivikwaxeSaseviwvamarawirjanasaMsaxi	vivikwa-xeSa-seviwva{puM}{2;eka}/seviwva{napuM}{1;eka}/seviwva{napuM}{2;eka}	vivikwa-xeSa-seviwva{napuM}{1;eka}	Gataka,33	ekAnwa_Ora_SuxXa_xeSa_meM_rahane_kA_svaBAva	aspiring_to_be_in_solitary_place	<<vivikwa-xeSa>K1-seviwvam>U			
-29	a-rawiH	30	0	a-rawi{swrI}{1;eka}	na-rawi{swrI}{1;eka}	Gataka,33	prema_kA_na_honA	without_attachment	<na-rawiH>Tn			
-30	jana-saMsaxi	29	0	jana-saMsax{swrI}{7;eka}	jana-saMsax{swrI}{7;eka}	aXikaraNam,29	viRayAsakwa_manuRyoM_ke_samuxAya_meM	to_mass_of_people_in_general	<jana-saMsaxi>T6			
-31	aXi-Awma-jFAna-niwyawvam	31	aXyAwmajFAnaniwyawvaM	aXi-Awman-jFAna-niwyawva{napuM}{1;eka}/niwyawva{napuM}{2;eka}	aXyAwman-jFAna-niwyawva{napuM}{1;eka}	Gataka,33	aXyAwmajFAna_meM_niwya_sWiwi	eternal_knowledge_pertaining_to_the_self	<<<aXi-Awma>A1-jFAna>K1-niwyawvaM>T7			
-32	wawwva-jFAna-arWa-xarSanam	32	wawwvajFAnArWaxarSanam	wawwva-jFAna-arWa-xarSana{puM}{2;eka}/xarSana{napuM}{1;eka}/xarSana{napuM}{2;eka}	wawwva-jFAna-arWa-xarSana{napuM}{1;eka}	Gataka,33	wawwvajFAna_ke_arWarUpa_paramAwmA_ko_hI_xeKanA	philosophy_of_the_knowledge_of_the_truth	<<<wawwva-jFAna>T6-arWa>T6-xarSanam>T6			
-32.1	(iwi)	33	(0)	iwi{avya}	iwi{avya}	Gataka_xyowakaH,32	EsA	thus				
-33	ewaw	34	ewajjFAnamiwi	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{1;eka}	karma,36	yaha	all_this				
-34	jFAnam	35	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karmasamAnAXikaraNam,36	jFAna	knowledge				
-35	iwi	36	0	iwi{avya}	iwi{avya}	karmasamAnAXikaraNa_xyowakaH,34	EsA	thus				
-36	prokwam	37	prokwamajFAnaM	prokwa{puM}{2;eka}/prokwa{napuM}{1;eka}/prokwa{napuM}{2;eka}	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;napuM}{1;eka}	aBihiwakarma,33;sakarmakaH	kahA_hE	declared				
-37	a-jFAnam	43	0	a-jFAna{puM}{2;eka}/jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	ajFAna{napuM}{1;eka}	karmasamAnAXikaraNam,40.3	ajFAna	ignorance	<na-jFAnam>Tn			
-38	yaw	39	yaxawoZnyaWA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,40.1	jo	that_which				
-39	awaH	38	0	awaH{avya}	awaH{avya}	apAxAnam,40.1	isase	from_this				
-40	anyaWA	40	0	anyaWA{avya}	anyaWA{avya}	kriyAviSeRaNam,40.1	viparIwa	others				
-40.1	(aswi)	41	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,38;akarmakaH	(hE)	is				
-40.2	(waw)	42	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{1;eka})	karma,40.3	(vaha)	that				
-40.3	(prokwam)	44	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarma,40.2;sakarmakaH	(hE)	is				
+1	अ-मानित्वम्	1	अमानित्वमदम्भित्वमहिंसा	अ-मानित्व{पुं}{2;एक}/मानित्व{नपुं}{1;एक}/मानित्व{नपुं}{2;एक}	अमानित्व{नपुं}{1;एक}	घटक,33	श्रेष्ठता_के_अभिमान_का_अभाव	हुमिलिट्य्	<न-मानित्वम्>ठ्न्			
+2	अ-दम्भित्वम्	2	0	अ-दम्भित्वम्	अदम्भित्व{नपुं}{1;एक}	घटक,33	दम्भाचरण_का_अभाव	प्रिडेलेस्स्नेस्स्	<न-दम्भित्वम्>ठ्न्			
+3	अ-हिंसा	3	0	अ-हिंसा{स्त्री}{1;एक}	अहिंसा{स्त्री}{1;एक}	घटक,33	किसी_भी_प्राणी_को_किसी_प्रकार_भी_न_सताना	नोन्विओलेन्चे	<न-हिंसा>ठ्न्			
+4	क्षान्तिः	4	क्षान्तिरार्जवम्	क्षान्ति{स्त्री}{1;एक}	क्षान्ति{स्त्री}{1;एक}	घटक,33	क्षमाभाव	टोलेरन्चे				
+5	आर्जवम्	5	0	आर्जव{नपुं}{1;एक}/आर्जव{नपुं}{2;एक}	आर्जव{नपुं}{1;एक}	घटक,33	मन-वाणी_आदि_की_सरलता	सिम्प्लिचिट्य्				
+6	आचार्य-उपासनम्	6	आचार्योपासनं	आचार्य-उपासन{नपुं}{1;एक}/उपासन{नपुं}{2;एक}	आचार्य-उपासन{नपुं}{1;एक}	घटक,33	श्रद्धाभक्तिसहित_गुरु_की_सेवा	अप्प्रोअच्हिन्ग्_अ_बोन_ङिडे_स्पिरिटुअल्_मस्टेर्	<आचार्य-उपासनं>ठ्6			
+7	शौचम्	7	शौचं	शौच{नपुं}{1;एक}/शौच{नपुं}{2;एक}	शौच{नपुं}{1;एक}	घटक,33	बाहर-भीतर_की_शुद्धि	च्लेअन्लिनेस्स्				
+8	स्थैर्यम्	8	स्थैर्यमात्मविनिग्रहः	स्थैर्य{नपुं}{1;एक}/स्थैर्य{नपुं}{2;एक}	स्थैर्य{नपुं}{1;एक}	घटक,33	अन्तःकरण_की_स्थिरता	स्टेअड्ङस्ट्नेस्स्				
+9	आत्म-विनिग्रहः	9	0	आत्मन्-विनिग्रह{पुं}{1;एक}	आत्मन्-विनिग्रह{पुं}{1;एक}	घटक,33	मन-इन्द्रियोंसहित_शरीर_का_निग्रह	चोन्ट्रोल्	<आत्म-विनिग्रहः>ठ्6			
+10	इन्द्रिय-अर्थेषु	10	इन्द्रियार्थेषु	इन्द्रियार्थ{पुं}{7;बहु}	इन्द्रियार्थ{पुं}{7;बहु}	अधिकरणम्,12	इस_लोक_और_परलोक_के_सम्पूर्ण_भोगों_में	इन्_ट्हे_मट्टेर्_ओङ्_ट्हे_सेन्सेस्	<इन्द्रिय-अर्थेषु>ठ्6			
+11	वैराग्यम्	11	वैराग्यमनहङ्कार	वैराग्य{नपुं}{1;एक}/वैराग्य{नपुं}{2;एक}	वैराग्य{नपुं}{1;एक}	सुप्_समुच्चितः,12	आसक्ति_का_अभाव	रेनुन्चिअटिओन्				
+12	अन्-अहङ्कारः	12	0	अन्-{अव्य}-अहङ्कार{पुं}{1;एक}	न-अहङ्कार{पुं}{1;एक}	घटक,33	अहंकार_का_अभाव	बेइन्ग्_तिट्होउट्_ङल्से_एगोइस्म्	<न-अहङ्कारः>ठ्न्			
+13	एव	13	एव	एव{अव्य}	एव{अव्य}	सम्बन्धः,12	भी	चेर्टइन्ल्य्				
+14	च	14	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,12	और	अल्सो				
+15	जन्म-मृत्यु-जरा-व्याधि-दुःख-दोष-अनुदर्शनम्	15	जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम्	जन्मन्-मृत्यु-जरा-व्याधिन्-दुःख-दोषन्-अनुदर्शन{नपुं}{1;एक}/अनुदर्शन{नपुं}{2;एक}	जन्मन्-मृत्यु-जरा-व्याधि-दुःख-दोष-अनुदर्शन{नपुं}{1;एक}	घटक,33	जन्म_मृत्यु_जरा_और_रोग_आदि_में_दुःख_और_दोषों_का_बार-बार_विचार_करना	ओब्सेर्विन्ग्_डिस्ट्रेस्स्_अन्ड्_ङउल्ट्_इन्_बिर्ट्ह्_डेअट्ह्_ओल्ड्_अगे_अन्ड्_डिसेअसे	<<<जन्म-मृत्यु-जरा-व्याधि-दुःख>ढि-दोष>ठ्7-अनुदर्शनम्>ठ्6			
+16	अ-सक्तिः	18	असक्तिरनभिष्वङ्गः	अ-सक्ति{स्त्री}{1;एक}	असक्ति{स्त्री}{1;एक}	सुप्_समुच्चितः,17	आसक्ति_का_अभाव	तिट्होउट्_अट्टच्ह्मेन्ट्	<न-सक्तिः>ठ्न्			
+17	अन्-अभिष्वङ्गः	19	0	अन्-{अव्य}-अभिष्वङ्ग{पुं}{1;एक}	न_अभिष्वङ्ग{पुं}{1;एक}	घटक,33	ममता_का_न_होना	तिट्होउट्_अस्सोचिअटिओन्	<न-अभिष्वङ्गः>ठ्न्			
+18	पुत्र-दार-गृह-आदिषु	16	पुत्रदारगृहादिषु	पुत्र-दार-गृह-आदि{पुं}{7;बहु}/आदि{नपुं}{7;बहु}	पुत्र-दार-गृह-आदि{पुं}{7;बहु}	अधिकरणम्,17	पुत्र_स्त्री_घर_और_धन_आदि_में	सोन्स्_तिङे_होमे_एट्च्	<<पुत्र-दार-गृह>ढि-आदिषु>भ्स्6			
+19	नित्यम्	17	नित्यं	नित्य{पुं}{2;एक}/नित्य{नपुं}{1;एक}/नित्य{नपुं}{2;एक}	नित्य{नपुं}{1;एक}	क्रियाविशेषणम्,17	सदा_ही	एटेर्नल्				
+20	च	20	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,17	तथा	अल्सो				
+21	सम-चित्तत्वम्	22	समचित्तत्वमिष्टानिष्टोपपत्तिषु	सम-चित्तत्वम्	सम-चित्तत्व{नपुं}{1;एक}	घटक,33	चित्त_का_सम_रहना	एऋउइलिब्रिउम्	<सम-चित्तत्वम्>भ्स्6			
+22	इष्ट-अ-निष्ट-उपपत्तिषु	21	0	इष्ट-अ-निष्ट-उपपत्ति{स्त्री}{7;बहु}	इष्ट-अनिष्ट-उपपत्ति{स्त्री}{7;बहु}	अधिकरणम्,21	प्रिय_और_अप्रिय_की_प्राप्ति_में	हविन्ग्_डेसिरब्ले_अन्ड्_उन्डेसिरब्ले	<<इष्ट-<न-इष्ट>ठ्न्>ढि-उपपत्तिषु>ठ्6			
+23	मयि	23	मयि	अस्मद्{7;एक}	अस्मद्{7;एक}		मुझ_परमेश्वर_में	उन्टो_ंए				
+24	च	24	चानन्ययोगेन	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,22	तथा	अल्सो				
+25	अन्-अन्य-योगेन	25	0	अनन्य-योग{पुं}{3;एक}	अनन्य-योग{पुं}{3;एक}	क्रियाविशेषणम्,26	अनन्य_योग_के_द्वारा	ब्य्_डेवोटिओनल्_सेर्विचे	<<न-अन्य>भ्स्7-योगेन>ख्6			
+26	भक्तिः	27	भक्तिरव्यभिचारिणी	भक्ति{स्त्री}{1;एक}	भक्ति{स्त्री}{1;एक}	घटक,33	भक्ति	डेवोटिओन्				
+27	अ-व्यभिचारिणी	26	0	अ-व्यभिचारिन्{नपुं}{1;द्वि}/व्यभिचारिन्{नपुं}{2;द्वि}/व्यभिचारिणी{स्त्री}{1;एक}	न-व्यभिचारिणी{स्त्री}{1;एक}	विशेषणम्,26	अव्यभिचारिणी	चोन्स्टन्ट्_उनल्लोयेड्	<न-व्यभिचारिणी>ठ्न्			
+28	विविक्त-देश-सेवित्वम्	28	विविक्तदेशसेवित्वमरतिर्जनसंसदि	विविक्त-देश-सेवित्व{पुं}{2;एक}/सेवित्व{नपुं}{1;एक}/सेवित्व{नपुं}{2;एक}	विविक्त-देश-सेवित्व{नपुं}{1;एक}	घटक,33	एकान्त_और_शुद्ध_देश_में_रहने_का_स्वभाव	अस्पिरिन्ग्_टो_बे_इन्_सोलिटर्य्_प्लचे	<<विविक्त-देश>ख्1-सेवित्वम्>ऊ			
+29	अ-रतिः	30	0	अ-रति{स्त्री}{1;एक}	न-रति{स्त्री}{1;एक}	घटक,33	प्रेम_का_न_होना	तिट्होउट्_अट्टच्ह्मेन्ट्	<न-रतिः>ठ्न्			
+30	जन-संसदि	29	0	जन-संसद्{स्त्री}{7;एक}	जन-संसद्{स्त्री}{7;एक}	अधिकरणम्,29	विषयासक्त_मनुष्यों_के_समुदाय_में	टो_मस्स्_ओङ्_पेओप्ले_इन्_गेनेरल्	<जन-संसदि>ठ्6			
+31	अधि-आत्म-ज्ञान-नित्यत्वम्	31	अध्यात्मज्ञाननित्यत्वं	अधि-आत्मन्-ज्ञान-नित्यत्व{नपुं}{1;एक}/नित्यत्व{नपुं}{2;एक}	अध्यात्मन्-ज्ञान-नित्यत्व{नपुं}{1;एक}	घटक,33	अध्यात्मज्ञान_में_नित्य_स्थिति	एटेर्नल्_क्नोत्लेड्गे_पेर्टइनिन्ग्_टो_ट्हे_सेल्ङ्	<<<अधि-आत्म>आ1-ज्ञान>ख्1-नित्यत्वं>ठ्7			
+32	तत्त्व-ज्ञान-अर्थ-दर्शनम्	32	तत्त्वज्ञानार्थदर्शनम्	तत्त्व-ज्ञान-अर्थ-दर्शन{पुं}{2;एक}/दर्शन{नपुं}{1;एक}/दर्शन{नपुं}{2;एक}	तत्त्व-ज्ञान-अर्थ-दर्शन{नपुं}{1;एक}	घटक,33	तत्त्वज्ञान_के_अर्थरूप_परमात्मा_को_ही_देखना	प्हिलोसोप्ह्य्_ओङ्_ट्हे_क्नोत्लेड्गे_ओङ्_ट्हे_ट्रुट्ह्	<<<तत्त्व-ज्ञान>ठ्6-अर्थ>ठ्6-दर्शनम्>ठ्6			
+32.1	(इति)	33	(0)	इति{अव्य}	इति{अव्य}	घटक_द्योतकः,32	ऐसा	ट्हुस्				
+33	एतत्	34	एतज्ज्ञानमिति	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{1;एक}	कर्म,36	यह	अल्ल्_ट्हिस्				
+34	ज्ञानम्	35	0	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{1;एक}	कर्मसमानाधिकरणम्,36	ज्ञान	क्नोत्लेड्गे				
+35	इति	36	0	इति{अव्य}	इति{अव्य}	कर्मसमानाधिकरण_द्योतकः,34	ऐसा	ट्हुस्				
+36	प्रोक्तम्	37	प्रोक्तमज्ञानं	प्रोक्त{पुं}{2;एक}/प्रोक्त{नपुं}{1;एक}/प्रोक्त{नपुं}{2;एक}	प्र_वच्1{कृत्_प्रत्ययः:क्त;प्र_वचँ;अदादिः;नपुं}{1;एक}	अभिहितकर्म,33;सकर्मकः	कहा_है	डेच्लरेड्				
+37	अ-ज्ञानम्	43	0	अ-ज्ञान{पुं}{2;एक}/ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	अज्ञान{नपुं}{1;एक}	कर्मसमानाधिकरणम्,40.3	अज्ञान	इग्नोरन्चे	<न-ज्ञानम्>ठ्न्			
+38	यत्	39	यदतोऽन्यथा	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	कर्ता,40.1	जो	ट्हट्_त्हिच्ह्				
+39	अतः	38	0	अतः{अव्य}	अतः{अव्य}	अपादानम्,40.1	इससे	ङ्रोम्_ट्हिस्				
+40	अन्यथा	40	0	अन्यथा{अव्य}	अन्यथा{अव्य}	क्रियाविशेषणम्,40.1	विपरीत	ओट्हेर्स्				
+40.1	(अस्ति)	41	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,38;अकर्मकः	(है)	इस्				
+40.2	(तत्)	42	(0)	(तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक})	(तद्{नपुं}{1;एक})	कर्म,40.3	(वह)	ट्हट्				
+40.3	(प्रोक्तम्)	44	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्म,40.2;सकर्मकः	(है)	इस्				

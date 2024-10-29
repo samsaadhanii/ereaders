@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vexAnAm	2	vexAnAM	vexa{puM}{6;bahu}	vexa{puM}{6;bahu}	nirXAraNam,2	vexoM_meM	of_all_the_Vedas				
+2	sAmavexaH	3	sAmavexoZsmi	sAmavexa{puM}{1;eka}	sAmavexa{puM}{1;eka}	viXeya_viSeRaNam,3	sAmavexa	the_Sama_Veda				
+3	asmi	4	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,3.1;akarmakaH	hUz	am				
+3.1	(aham)	1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,3	(mEM)	I				
+4	xevAnAm	6	xevAnAmasmi	xeva{puM}{6;bahu}	xeva{puM}{6;bahu}	nirXAraNam,6	xevoM_meM	of_all_the_demigods				
+5	asmi	8	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,6.1;akarmakaH	hUz	am				
+6	vAsavaH	7	vAsavaH	vAsu{puM}{1;bahu}/vAsu{puM}{8;bahu}/vAsava{puM}{1;eka}	vAsava{puM}{1;eka}	viXeya_viSeRaNam,5	inxra	heavenly_king				
+6.1	(aham)	5	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,5	(mEM)	I				
+7	inxriyANAm	9	inxriyANAM	inxriya{puM}{6;bahu}/inxriya{napuM}{6;bahu}	inxriya{napuM}{6;bahu}	nirXAraNam,8	inxriyoM_meM	of_all_the_senses				
+8	manaH	10	manaScAsmi	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	viXeya_viSeRaNam,10	mana	the_mind				
+9	ca	12	0	ca{avya}	ca{avya}	sambanXaH,10	Ora	also				
+10	asmi	13	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,10.1;akarmakaH	hUz	am				
+10.1	(aham)	9	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,10	(mEM)	I				
+11	BUwAnAm	15	BUwAnAmasmi	BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}/BUwA{swrI}{6;bahu}	BUwa{puM}{6;bahu}	nirXAraNam,13	BUwaprANiyoM_kI	of_all_living_entities				
+12	asmi	17	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,13.1;akarmakaH	hUz	am				
+13	cewanA	16	cewanA	cewanA{swrI}{1;eka}	cewanA{swrI}{1;eka}	viXeya_viSeRaNam,12	cewanA_arWAw_jIvanISakwi	the_living_force				
+13.1	(aham)	14	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,12	(mEM)	I				

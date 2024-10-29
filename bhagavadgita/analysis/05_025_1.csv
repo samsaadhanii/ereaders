@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	laBanwe	8	laBanwe	laB1{karwari;lat;pra;bahu;AwmanepaxI;dulaBazR;BvAxiH}	laB1{karwari;lat;pra;bahu;AwmanepaxI;dulaBazR;BvAxiH}		prApwa_howe_hEM	achieve				
-2	brahma-nirvANam	7	brahmanirvANamqRayaH	brahman-nirvANam	brahman-nirvANa{napuM}{2;eka}	karma,1	SAnwa_brahma_ko	liberation_in_the_Supreme	<brahma-nirvANam>T7			
-3	qRayaH	6	0	qRi{puM}{1;bahu}	qRi{puM}{1;bahu}	karwA,1	brahmavewwA_puruRa	those_who_are_active_within				
-4	kRINa-kalmaRAH	1	kRINakalmaRAH	kRINa-kalmaRa{puM}{1;bahu}/kalmaRA{swrI}{1;bahu}/kalmaRA{swrI}{2;bahu}	kRINa-kalmaRa{puM}{1;bahu}	viSeRaNam,3	jinake_saba_pApa_naRta_ho_gaye_hEM	who_are_devoid_of_all_sins	<kRINa-kalmaRAH>Bs6			
-5	Cinna-xvEXAH	2	CinnaxvEXA	Cinna-xvEXAH	Cinna-xvEXa{puM}{1;bahu}	viSeRaNam,3	jinake_saba_saMSaya_jFAna_ke_xvArA_nivqwwa_ho_gaye_hEM	whose_doubts_are_torn_off_through_knowledge	<Cinna-xvEXAH>Bs3			
-6	yawa-AwmAnaH	5	yawAwmAnaH	yawa-Awman{puM}{1;bahu}	yawa-Awman{puM}{1;bahu}	viSeRaNam,3	jinakA_jIwA_huA_mana_niScalaBAva_se_paramAwmA_meM_sWiwa_hE	engaged_in_self-realization	<yawa-AwmAnaH>Bs6			
-7	sarva-BUwa-hiwe	3	sarvaBUwahiwe	sarvaBUwa-hiwa{puM}{7;eka}/hiwa{napuM}{1;xvi}/hiwa{napuM}{2;xvi}/hiwa{napuM}{7;eka}/hiwA{swrI}{1;xvi}/hiwA{swrI}{2;xvi}	sarva-BUwa-hiwa{puM}{7;eka}	aXikaraNam,8	jo_sampUrNa_prANiyoM_ke_hiwa_meM	in_welfare_of_all_living_entities	<<sarva-BUwa>K1-hiwe>T6			
-8	rawAH	4	rawAH	rawa{puM}{1;bahu}/rawA{swrI}{1;bahu}/rawA{swrI}{2;bahu}/rawA{swrI}{1;bahu}/rawA{swrI}{2;bahu}	ram1{kqw_prawyayaH:kwa;ramuz;BvAxiH;puM}{1;bahu}	viSeRaNam,3	rawa_hEM	engaged				
+1	लभन्ते	8	लभन्ते	लभ्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;डुलभँष्;भ्वादिः}	लभ्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;डुलभँष्;भ्वादिः}		प्राप्त_होते_हैं	अच्हिएवे				
+2	ब्रह्म-निर्वाणम्	7	ब्रह्मनिर्वाणमृषयः	ब्रह्मन्-निर्वाणम्	ब्रह्मन्-निर्वाण{नपुं}{2;एक}	कर्म,1	शान्त_ब्रह्म_को	लिबेरटिओन्_इन्_ट्हे_शुप्रेमे	<ब्रह्म-निर्वाणम्>ठ्7			
+3	ऋषयः	6	0	ऋषि{पुं}{1;बहु}	ऋषि{पुं}{1;बहु}	कर्ता,1	ब्रह्मवेत्ता_पुरुष	ट्होसे_त्हो_अरे_अच्टिवे_तिट्हिन्				
+4	क्षीण-कल्मषाः	1	क्षीणकल्मषाः	क्षीण-कल्मष{पुं}{1;बहु}/कल्मषा{स्त्री}{1;बहु}/कल्मषा{स्त्री}{2;बहु}	क्षीण-कल्मष{पुं}{1;बहु}	विशेषणम्,3	जिनके_सब_पाप_नष्ट_हो_गये_हैं	त्हो_अरे_डेवोइड्_ओङ्_अल्ल्_सिन्स्	<क्षीण-कल्मषाः>भ्स्6			
+5	छिन्न-द्वैधाः	2	छिन्नद्वैधा	छिन्न-द्वैधाः	छिन्न-द्वैध{पुं}{1;बहु}	विशेषणम्,3	जिनके_सब_संशय_ज्ञान_के_द्वारा_निवृत्त_हो_गये_हैं	त्होसे_डोउब्ट्स्_अरे_टोर्न्_ओङ्ङ्_ट्ह्रोउग्ह्_क्नोत्लेड्गे	<छिन्न-द्वैधाः>भ्स्3			
+6	यत-आत्मानः	5	यतात्मानः	यत-आत्मन्{पुं}{1;बहु}	यत-आत्मन्{पुं}{1;बहु}	विशेषणम्,3	जिनका_जीता_हुआ_मन_निश्चलभाव_से_परमात्मा_में_स्थित_है	एन्गगेड्_इन्_सेल्ङ्-रेअलिँअटिओन्	<यत-आत्मानः>भ्स्6			
+7	सर्व-भूत-हिते	3	सर्वभूतहिते	सर्वभूत-हित{पुं}{7;एक}/हित{नपुं}{1;द्वि}/हित{नपुं}{2;द्वि}/हित{नपुं}{7;एक}/हिता{स्त्री}{1;द्वि}/हिता{स्त्री}{2;द्वि}	सर्व-भूत-हित{पुं}{7;एक}	अधिकरणम्,8	जो_सम्पूर्ण_प्राणियों_के_हित_में	इन्_तेल्ङरे_ओङ्_अल्ल्_लिविन्ग्_एन्टिटिएस्	<<सर्व-भूत>ख्1-हिते>ठ्6			
+8	रताः	4	रताः	रत{पुं}{1;बहु}/रता{स्त्री}{1;बहु}/रता{स्त्री}{2;बहु}/रता{स्त्री}{1;बहु}/रता{स्त्री}{2;बहु}	रम्1{कृत्_प्रत्ययः:क्त;रमुँ;भ्वादिः;पुं}{1;बहु}	विशेषणम्,3	रत_हैं	एन्गगेड्				

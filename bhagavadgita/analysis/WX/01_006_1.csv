@@ -1,0 +1,36 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	awra	1	awra	awra{avya}	awra{avya}	viSeRaNam,5	yahAz	here				
+2	SUrAH	4	SUrA	SUra{puM}{1;bahu}/SUrA{swrI}{1;bahu}/SUrA{swrI}{2;bahu}	SUra{puM}{1;bahu}	sup_samucciwaH,3	SUra-vIra	heroes				
+3	mahaw-iRvAsAH	6	maheRvAsA	mahaw-iRvAsa{puM}{1;bahu}	mahaw-iRvAsa{puM}{1;bahu}	viXeya_viSeRaNam,34.1	bada़e-bada़e_XanuRoMvAle	mighty_bowmen	<mahaw-iRvAsA>Bs6			
+4	BIma-arjuna-samAH	3	BImArjunasamA	BIma-arjuna-sama{puM}{1;bahu}/samA{swrI}{1;bahu}/samA{swrI}{2;bahu}/samA{swrI}{1;bahu}/samA{swrI}{2;bahu}	BIma-arjuna-sama{puM}{1;bahu}	viSeRaNam,2	BIma_Ora_arjuna_ke_samAna	Bhima_and_Arjuna_equal	<<BIma-arjuna>Di-samAH>T3			
+5	yuXi	2	yuXi	yuX{swrI}{7;eka}	yuX{swrI}{7;eka}	aXikaraNam,34.1	yuxXa_meM	in_military_prowess				
+6	yuyuXAnaH	7	yuyuXAno	yuyuXAna{puM}{1;eka}	yuyuXAna{puM}{1;eka}	sup_samucciwaH,32	sAwyaki	Yuyudhana				
+7	virAtaH	8	virAtaSca	virAta{puM}{1;eka}	virAta{puM}{1;eka}	sup_samucciwaH,32	virAta	Virata				
+8	ca	5	0	ca{avya}	ca{avya}	sup_samuccaya_xyowakaH,3	Ora	also				
+9	xrupaxaH	11	xrupaxaSca	xrupaxa{puM}{1;eka}	xrupaxa{puM}{1;eka}	sup_samucciwaH,32	rAjA_xrupaxa	Drupada				
+10	ca	9	0	ca{avya}	ca{avya}	sup_samuccaya_xyowakaH,32	waWA	also				
+11	mahAn-raWaH	10	mahAraWaH	mahAn-raWa{puM}{1;eka}	mahAn-raWa{puM}{1;eka}	viSeRaNam,9	mahAraWI	great_warrior_chief	<mahaw-raWaH>Bs6			
+12	XqRtakewuH	12	XqRtakewuScekiwAnaH	XqRtakewu{puM}{1;eka}	XqRtakewu{puM}{1;eka}	sup_samucciwaH,32	XqRtakewu	Dhrstaketu				
+13	cekiwAnaH	13	0	cekiwAna{puM}{1;eka}	cekiwAna{puM}{1;eka}	sup_samucciwaH,32	cekiwAna	Cekitana				
+14	kASirAjaH	16	kASirAjaSca	kASirAja{puM}{1;eka}	kASirAja{puM}{1;eka}	sup_samucciwaH,32	kASirAja	Kasiraja				
+15	ca	14	0	ca{avya}	ca{avya}	sup_samuccaya_xyowakaH,32	Ora	and				
+16	vIryavAn	15	vIryavAn	vIryavaw{puM}{1;eka}/vIryavaw{puM}{1;eka}	vIryavaw{puM}{1;eka}	viSeRaNam,14	balavAn	valiant				
+17	purujiw	17	purujiwkunwiBojaSca	purujiw{puM}{1;eka}	purujiw{puM}{1;eka}	sup_samucciwaH,32	purujiw	Purujit				
+18	kunwiBojaH	19	0	kunwiBoja{puM}{1;eka}	kunwiBoja{puM}{1;eka}	sup_samucciwaH,32	kunwiBoja	Kuntibhoja				
+19	ca	18	0	ca{avya}	ca{avya}	sup_samuccaya_xyowakaH,32	Ora	and				
+20	SEbyaH	22	SEbyaSca	SEbya{puM}{1;eka}	SEbya{puM}{1;eka}	sup_samucciwaH,32	SEbya	Saibya				
+21	ca	20	0	ca{avya}	ca{avya}	sup_samuccaya_xyowakaH,32	waWA	also				
+22	nara-pufgavaH	21	narapufgavaH	nara-pufgava{puM}{1;eka}	nara-pufgava{puM}{1;eka}	viSeRaNam,20	manuRyoM_meM_SreRTa	the_best_of_men	<nara-pufgavaH>T7			
+23	yuXAmanyuH	25	yuXAmanyuSca	yuXAmanyu{puM}{1;eka}	yuXAmanyu{puM}{1;eka}	sup_samucciwaH,32	yuXAmanyu	Yudhamanyu				
+24	ca	23	0	ca{avya}	ca{avya}	sup_samuccaya_xyowakaH,32	Ora	and				
+25	vikrAnwaH	24	vikrAnwa	vikrAnwa{puM}{1;eka}	vikrAnwa{puM}{1;eka}	viSeRaNam,23	parAkramI	mighty				
+26	uwwamOjAH	28	uwwamOjASca	uwwamOjas{puM}{1;eka}	uwwamOjas{puM}{1;eka}	sup_samucciwaH,32	uwwamOjA	Uttamauja				
+27	ca	26	0	ca{avya}	ca{avya}	sup_samuccaya_xyowakaH,32	waWA	and				
+28	vIryavAn	27	vIryavAn	vIryavaw{puM}{1;eka}/vIryavaw{puM}{1;eka}	vIryavaw{puM}{1;eka}	viSeRaNam,26	balavAn	valiant				
+29	sOBaxraH	29	sOBaxro	sOBaxra{puM}{1;eka}	sOBaxra{puM}{1;eka}	sup_samucciwaH,32	suBaxrApuwra_aBimanyu	the_son_of_Subhadra				
+30	xrOpaxeyAH	31	xrOpaxeyASca	xrOpaxeya{puM}{1;bahu}	xrOpaxeya{puM}{1;bahu}	sup_samucciwaH,32	xrOpaxI_ke_pAzcoM_puwra	the_sons_of_Draupadi				
+31	ca	30	0	ca{avya}	ca{avya}	sup_samuccaya_xyowakaH,32	evaM	and				
+32	sarve	32	sarva	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,34.1	saba ke saba 	all				
+33	eva	34	eva	eva{avya}	eva{avya}	sambanXaH,34	hI	certainly				
+34	mahAn-raWAH	33	mahAraWAH	mahAn-raWa{puM}{1;bahu}	mahAn-raWa{puM}{1;bahu}	viXeya_viSeRaNam,34.1	mahAraWI	great_warrior_chiefs	<mahaw-raWAH>Bs6			
+34.1	(sanwi)	35	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,32;akarmakaH	(hEM)	are				

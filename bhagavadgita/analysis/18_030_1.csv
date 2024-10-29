@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	pravqwwim	4	pravqwwiM	pravqwwi{swrI}{2;eka}	pravqwwi{swrI}{2;eka}	sup_samucciwaH,8	pravqwwimArga	deserving				
-2	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	also				
-3	nivqwwim	6	nivqwwiM	nivqwwi{swrI}{2;eka}	nivqwwi{swrI}{2;eka}	sup_samucciwaH,8	nivqwwimArga_ko	not_deserving				
-4	ca	9	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	waWA	and				
-5	kArya-a-kArye	7	kAryAkArye	kAryAkArya{napuM}{1;xvi}/kAryAkArya{napuM}{2;xvi}/kAryAkArya{napuM}{7;eka}	kArya-akArya{napuM}{7;eka}	sup_samucciwaH,8	karwavya_Ora_akarwavya_ko	work_and_reaction	<kArya-<na-kArye>Tn>Ds			
-6	Baya-a-Baye	8	BayABaye	BayABaya{napuM}{1;xvi}/BayABaya{napuM}{2;xvi}/BayABaya{napuM}{7;eka}	Baya-aBaya{napuM}{7;eka}	sup_samucciwaH,8	Baya_Ora_aBaya_ko	fearful_and_fearlessness	<Baya-<na-Baye>Tn>Ds			
-7	banXam	10	banXaM	banXa{puM}{2;eka}	banXa{puM}{2;eka}	sup_samucciwaH,8	banXana	obligation				
-8	mokRam	12	mokRaM	mokRa{puM}{2;eka}	mokRa{puM}{2;eka}	karma,11	mokRa_ko	liberation				
-9	ca	11	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	and				
-10	yA	2	yA	yax{swrI}{1;eka}	yax{swrI}{1;eka}	viSeRaNam,10.1;niwya_sambanXaH,13	jo	that				
-10.1	(buxXiH)	3	(0)	(buxXi{swrI}{1;eka})	(buxXi{swrI}{1;eka})	karwA,11	(buxXi)	understanding				
-11	vewwi	13	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,10.1;sakarmakaH	yaWArWa_jAnawI_hE	knows				
-12	buxXiH	15	buxXiH	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,15.1	buxXi	understanding				
-13	sA	14	sA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,12	vaha	that				
-14	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,11	he_pArWa	O_son_of_Prtha				
-15	sAwwvikI	16	sAwwvikI	sAwwvikI{swrI}{1;eka}	sAwwvikI{swrI}{1;eka}	viXeya_viSeRaNam,15.1	sAwwvikI	in_the_mode_of_goodness				
-15.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,12;sakarmakaH	(hE)	is				
+1	प्रवृत्तिम्	4	प्रवृत्तिं	प्रवृत्ति{स्त्री}{2;एक}	प्रवृत्ति{स्त्री}{2;एक}	सुप्_समुच्चितः,8	प्रवृत्तिमार्ग	डेसेर्विन्ग्				
+2	च	5	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	और	अल्सो				
+3	निवृत्तिम्	6	निवृत्तिं	निवृत्ति{स्त्री}{2;एक}	निवृत्ति{स्त्री}{2;एक}	सुप्_समुच्चितः,8	निवृत्तिमार्ग_को	नोट्_डेसेर्विन्ग्				
+4	च	9	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	तथा	अन्ड्				
+5	कार्य-अ-कार्ये	7	कार्याकार्ये	कार्याकार्य{नपुं}{1;द्वि}/कार्याकार्य{नपुं}{2;द्वि}/कार्याकार्य{नपुं}{7;एक}	कार्य-अकार्य{नपुं}{7;एक}	सुप्_समुच्चितः,8	कर्तव्य_और_अकर्तव्य_को	तोर्क्_अन्ड्_रेअच्टिओन्	<कार्य-<न-कार्ये>ठ्न्>ढ्स्			
+6	भय-अ-भये	8	भयाभये	भयाभय{नपुं}{1;द्वि}/भयाभय{नपुं}{2;द्वि}/भयाभय{नपुं}{7;एक}	भय-अभय{नपुं}{7;एक}	सुप्_समुच्चितः,8	भय_और_अभय_को	ङेअर्ङुल्_अन्ड्_ङेअर्लेस्स्नेस्स्	<भय-<न-भये>ठ्न्>ढ्स्			
+7	बन्धम्	10	बन्धं	बन्ध{पुं}{2;एक}	बन्ध{पुं}{2;एक}	सुप्_समुच्चितः,8	बन्धन	ओब्लिगटिओन्				
+8	मोक्षम्	12	मोक्षं	मोक्ष{पुं}{2;एक}	मोक्ष{पुं}{2;एक}	कर्म,11	मोक्ष_को	लिबेरटिओन्				
+9	च	11	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	और	अन्ड्				
+10	या	2	या	यद्{स्त्री}{1;एक}	यद्{स्त्री}{1;एक}	विशेषणम्,10.1;नित्य_सम्बन्धः,13	जो	ट्हट्				
+10.1	(बुद्धिः)	3	(0)	(बुद्धि{स्त्री}{1;एक})	(बुद्धि{स्त्री}{1;एक})	कर्ता,11	(बुद्धि)	उन्डेर्स्टन्डिन्ग्				
+11	वेत्ति	13	वेत्ति	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	अभिहित_कर्ता,10.1;सकर्मकः	यथार्थ_जानती_है	क्नोत्स्				
+12	बुद्धिः	15	बुद्धिः	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	कर्ता,15.1	बुद्धि	उन्डेर्स्टन्डिन्ग्				
+13	सा	14	सा	तद्{स्त्री}{1;एक}	तद्{स्त्री}{1;एक}	विशेषणम्,12	वह	ट्हट्				
+14	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,11	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह				
+15	सात्त्विकी	16	सात्त्विकी	सात्त्विकी{स्त्री}{1;एक}	सात्त्विकी{स्त्री}{1;एक}	विधेय_विशेषणम्,15.1	सात्त्विकी	इन्_ट्हे_मोडे_ओङ्_गोओड्नेस्स्				
+15.1	(अस्ति)	17	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,12;सकर्मकः	(है)	इस्				

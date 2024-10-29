@@ -1,28 +1,28 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mahaw-BUwAni	2	mahABUwAnyahafkAro	mahaw-BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}	mahax-BUwa{napuM}{1;bahu}	Gataka,21	mahABUwa	great_elements	<mahaw-BUwAni>K1			
-1.1	(paFca)	1	(0)	(paFcan{1;bahu}/paFcan{2;bahu}/paFc2{karwari;lot;ma;eka;parasmEpaxI;paciz;curAxiH})	(paFcan{1;bahu})	viSeRaNam,1	(pAzca)	five				
-2	ahafkAraH	3	0	ahafkAra{puM}{1;eka}	ahafkAra{puM}{1;eka}	Gataka,21	ahaMkAra	false_ego				
-3	buxXiH	4	buxXiravyakwameva	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	Gataka,21	buxXi	intelligence				
-4	a-vyakwam	5	0	a-vyakwa{puM}{2;eka}/vyakwa{napuM}{1;eka}/vyakwa{napuM}{2;eka}	avyakwa{puM}{1;eka}	Gataka,21	mUla_prakqwi	the_unmanifested	<na-vyakwam>Tn			
-5	eva	6	0	eva{avya}	eva{avya}	sambanXaH,6	BI	certainly				
-6	ca	7	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	Ora	also				
-7	inxriyANi	9	inxriyANi	inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}	inxriya{napuM}{1;bahu}	Gataka,21	inxriyAz	senses				
-8	xaSa	8	xaSEkaM	xaSan{1;bahu}/xaSan{2;bahu}/xaMS1{karwari;lot;ma;eka;parasmEpaxI;xaMSaz;BvAxiH}	xaSan{1;bahu}	viSeRaNam,7	xasa	ten				
-9	ekam	10	0	eka{puM}{2;eka}/eka{napuM}{1;eka}/eka{napuM}{2;eka}	eka{napuM}{1;eka}	viSeRaNam,9.1	eka	one				
-9.1	(manaH)	12	(0)	(manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka})	(manas{napuM}{1;eka})	Gataka,21	(mana)	mind				
-10	ca	11	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,9.1	waWA	also				
-11	paFca	13	paFca	paFcan{1;bahu}/paFcan{2;bahu}/paFc2{karwari;lot;ma;eka;parasmEpaxI;paciz;curAxiH}	paFcan{1;bahu}	viSeRaNam,13	pAzca	five				
-12	ca	14	cenxriyagocarAH	ca{avya}	ca{avya}	samuccaya_xyowakaH,13	Ora	also				
-13	inxriya-gocarAH	15	0	inxriya-gocara{puM}{1;bahu}	inxriya-gocara{puM}{1;bahu}	Gataka,21	inxriyoM_ke_viRaya	objects_of_the_senses	<inxriya-gocarAH>T6			
-14	icCA	16	icCA	icCA{swrI}{1;eka}	icCA{swrI}{1;eka}	Gataka,21	icCA	desire				
-15	xveRaH	17	xveRaH	xveRa{puM}{1;eka}	xveRa{puM}{1;eka}	Gataka,21	xveRa	hatred				
-16	suKam	18	suKaM	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{1;eka}	Gataka,21	suKa	happiness				
-17	xuHKam	19	xuHKaM	xuHKa{napuM}{1;eka}/xuHKa{napuM}{2;eka}	xuHKa{napuM}{1;eka}	Gataka,21	xuHKa	distress				
-18	safGAwaH	20	safGAwaScewanA	safGAwa{puM}{1;eka}	safGAwa{puM}{1;eka}	Gataka,21	sWUla_xeha_kA_piNda	the_aggregate				
-19	cewanA	21	0	cewanA{swrI}{1;eka}	cewanA{swrI}{1;eka}	Gataka,21	cewanA	living_symptoms				
-20	XqwiH	22	XqwiH	Xqwi{swrI}{1;eka}	Xqwi{swrI}{1;eka}	Gataka,21	Xqwi	conviction				
-21	ewaw	23	ewawkRewraM	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{1;eka}	karma,25	yaha	all_this				
-22	kRewram	25	0	kRewra{napuM}{1;eka}/kRewra{napuM}{2;eka}	kRewra{napuM}{1;eka}	karmasamAnAXikaraNam,25	kRewra	the_field_of_activities				
-23	samAsena	26	samAsena	samAsa{puM}{3;eka}	samAsa{puM}{3;eka}	kriyAviSeRaNam,24	saMkRopa_meM	in_summary				
-24	sa-vikAram	24	savikAramuxAhqwam	sa-vikAra{puM}{2;eka}/vikAra{napuM}{1;eka}/vikAra{napuM}{2;eka}	sa-vikAra{napuM}{1;eka}	viSeRaNam,22	vikAroM_ke_sahiwa	interaction	<sa-vikAram>BvS			
-25	uxAhqwam	27	0	uxAhqwa{puM}{2;eka}/uxAhqwa{napuM}{1;eka}/uxAhqwa{napuM}{2;eka}	uw_Af_hq1{kqw_prawyayaH:kwa;uw_Af_hqF;BvAxiH;napuM}{1;eka}	aBihiwakarma,21;sakarmakaH	kahA_gayA_hE	exemplified				
+1	महत्-भूतानि	2	महाभूतान्यहङ्कारो	महत्-भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}	महद्-भूत{नपुं}{1;बहु}	घटक,21	महाभूत	ग्रेअट्_एलेमेन्ट्स्	<महत्-भूतानि>ख्1			
+1.1	(पञ्च)	1	(0)	(पञ्चन्{1;बहु}/पञ्चन्{2;बहु}/पञ्च्2{कर्तरि;लोट्;म;एक;परस्मैपदी;पचिँ;चुरादिः})	(पञ्चन्{1;बहु})	विशेषणम्,1	(पाँच)	ङिवे				
+2	अहङ्कारः	3	0	अहङ्कार{पुं}{1;एक}	अहङ्कार{पुं}{1;एक}	घटक,21	अहंकार	ङल्से_एगो				
+3	बुद्धिः	4	बुद्धिरव्यक्तमेव	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	घटक,21	बुद्धि	इन्टेल्लिगेन्चे				
+4	अ-व्यक्तम्	5	0	अ-व्यक्त{पुं}{2;एक}/व्यक्त{नपुं}{1;एक}/व्यक्त{नपुं}{2;एक}	अव्यक्त{पुं}{1;एक}	घटक,21	मूल_प्रकृति	ट्हे_उन्मनिङेस्टेड्	<न-व्यक्तम्>ठ्न्			
+5	एव	6	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,6	भी	चेर्टइन्ल्य्				
+6	च	7	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,4	और	अल्सो				
+7	इन्द्रियाणि	9	इन्द्रियाणि	इन्द्रिय{नपुं}{1;बहु}/इन्द्रिय{नपुं}{2;बहु}	इन्द्रिय{नपुं}{1;बहु}	घटक,21	इन्द्रियाँ	सेन्सेस्				
+8	दश	8	दशैकं	दशन्{1;बहु}/दशन्{2;बहु}/दंश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दंशँ;भ्वादिः}	दशन्{1;बहु}	विशेषणम्,7	दस	टेन्				
+9	एकम्	10	0	एक{पुं}{2;एक}/एक{नपुं}{1;एक}/एक{नपुं}{2;एक}	एक{नपुं}{1;एक}	विशेषणम्,9.1	एक	ओने				
+9.1	(मनः)	12	(0)	(मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}/मनस्{नपुं}{8;एक})	(मनस्{नपुं}{1;एक})	घटक,21	(मन)	मिन्ड्				
+10	च	11	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,9.1	तथा	अल्सो				
+11	पञ्च	13	पञ्च	पञ्चन्{1;बहु}/पञ्चन्{2;बहु}/पञ्च्2{कर्तरि;लोट्;म;एक;परस्मैपदी;पचिँ;चुरादिः}	पञ्चन्{1;बहु}	विशेषणम्,13	पाँच	ङिवे				
+12	च	14	चेन्द्रियगोचराः	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,13	और	अल्सो				
+13	इन्द्रिय-गोचराः	15	0	इन्द्रिय-गोचर{पुं}{1;बहु}	इन्द्रिय-गोचर{पुं}{1;बहु}	घटक,21	इन्द्रियों_के_विषय	ओब्जेच्ट्स्_ओङ्_ट्हे_सेन्सेस्	<इन्द्रिय-गोचराः>ठ्6			
+14	इच्छा	16	इच्छा	इच्छा{स्त्री}{1;एक}	इच्छा{स्त्री}{1;एक}	घटक,21	इच्छा	डेसिरे				
+15	द्वेषः	17	द्वेषः	द्वेष{पुं}{1;एक}	द्वेष{पुं}{1;एक}	घटक,21	द्वेष	हट्रेड्				
+16	सुखम्	18	सुखं	सुखम्{अव्य}/सुख{पुं}{2;एक}/सुख{नपुं}{1;एक}/सुख{नपुं}{2;एक}	सुख{नपुं}{1;एक}	घटक,21	सुख	हप्पिनेस्स्				
+17	दुःखम्	19	दुःखं	दुःख{नपुं}{1;एक}/दुःख{नपुं}{2;एक}	दुःख{नपुं}{1;एक}	घटक,21	दुःख	डिस्ट्रेस्स्				
+18	सङ्घातः	20	सङ्घातश्चेतना	सङ्घात{पुं}{1;एक}	सङ्घात{पुं}{1;एक}	घटक,21	स्थूल_देह_का_पिण्ड	ट्हे_अग्ग्रेगटे				
+19	चेतना	21	0	चेतना{स्त्री}{1;एक}	चेतना{स्त्री}{1;एक}	घटक,21	चेतना	लिविन्ग्_स्य्म्प्टोम्स्				
+20	धृतिः	22	धृतिः	धृति{स्त्री}{1;एक}	धृति{स्त्री}{1;एक}	घटक,21	धृति	चोन्विच्टिओन्				
+21	एतत्	23	एतत्क्षेत्रं	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{1;एक}	कर्म,25	यह	अल्ल्_ट्हिस्				
+22	क्षेत्रम्	25	0	क्षेत्र{नपुं}{1;एक}/क्षेत्र{नपुं}{2;एक}	क्षेत्र{नपुं}{1;एक}	कर्मसमानाधिकरणम्,25	क्षेत्र	ट्हे_ङिएल्ड्_ओङ्_अच्टिविटिएस्				
+23	समासेन	26	समासेन	समास{पुं}{3;एक}	समास{पुं}{3;एक}	क्रियाविशेषणम्,24	संक्षोप_में	इन्_सुम्मर्य्				
+24	स-विकारम्	24	सविकारमुदाहृतम्	स-विकार{पुं}{2;एक}/विकार{नपुं}{1;एक}/विकार{नपुं}{2;एक}	स-विकार{नपुं}{1;एक}	विशेषणम्,22	विकारों_के_सहित	इन्टेरच्टिओन्	<स-विकारम्>भ्व्श्			
+25	उदाहृतम्	27	0	उदाहृत{पुं}{2;एक}/उदाहृत{नपुं}{1;एक}/उदाहृत{नपुं}{2;एक}	उत्_आङ्_हृ1{कृत्_प्रत्ययः:क्त;उत्_आङ्_हृञ्;भ्वादिः;नपुं}{1;एक}	अभिहितकर्म,21;सकर्मकः	कहा_गया_है	एदेम्प्लिङिएड्				

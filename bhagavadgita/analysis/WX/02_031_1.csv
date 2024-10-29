@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sva-Xarmam	1	svaXarmamapi	sva-Xarma{puM}{2;eka}	sva-Xarma{puM}{2;eka}	karma,3	apane_Xarma_ko	your_own_duty	<sva-Xarmam>T6			
+2	api	2	0	api{avya}	api{avya}	sambanXaH,3	Ora	too				
+2.1	ca	2.1		ca{avya}	ca{avya}	sambanXaH,2						
+3	avekRya	3	cAvekRya	ava_IkR1{kqw_prawyayaH:lyap;IkRaz;BvAxiH}	ava_IkR1{kqw_prawyayaH:lyap;ava_IkRaz;BvAxiH}	pUrvakAlaH,6	xeKakara	considering				
+4	na	6	na	na{avya}	na{avya}	prawiReXaH,6	nahIM	not				
+5	vikampiwum	5	vikampiwumarhasi	vi_kamp1{kqw_prawyayaH:wumun;kapiz;BvAxiH}	vi_kamp1{kqw_prawyayaH:wumun;vi_kapiz;BvAxiH}	sahAyakakriyA,6	Baya_karane	waver				
+6	arhasi	7	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwakarwA,6.1;akarmakaH	yogya_ho	should				
+6.1	(wvam)	4	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,6	(wuma)	you				
+7	XarmyAw	10	XarmyAxXi	Xarmya{puM}{5;eka}/Xarmya{napuM}{5;eka}	Xarmya{puM}{5;eka}	viSeRaNam,9	Xarmayukwa	than_righteous				
+8	hi	8	0	hi{avya}	hi{avya}	sambanXaH,14	kyoMki	for				
+9	yuxXAw	11	yuxXAcCreyoZnyawkRawriyasya	yuxXa{puM}{5;eka}/yuxXa{napuM}{5;eka}	yuxXa{napuM}{5;eka}	wulanA_binxuH,10	yuxXa_se	than_war				
+10	SreyaH	13	0	Sreya{puM}{1;eka}/Sreyas{napuM}{1;eka}/Sreyas{napuM}{2;eka}/Sreyas{napuM}{8;eka}	Sreyas{napuM}{1;eka}	karwA,14	kalyANakArI_karwavya	more_welome				
+11	anyaw	12	0	anyaw{avya}/anya{napuM}{1;eka}/anya{napuM}{2;eka}	anya{napuM}{1;eka}	viSeRaNam,10	xUsarA	anything_else				
+12	kRawriyasya	9	0	kRawriya{puM}{6;eka}	kRawriya{puM}{6;eka}	RaRTIsambanXaH,10	kRawriya_ke_liye	for_the_kshatriya				
+13	na	14	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	nothing				
+14	vixyawe	15	vixyawe	vixyawA{swrI}{1;xvi}/vixyawA{swrI}{2;xvi}/vixyawA{swrI}{8;eka}/vixyawA{swrI}{8;xvi}/vix1{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;axAxiH}/vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix2{BAve;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}/vix4{karmaNi;lat;pra;eka;AwmanepaxI;vixaz;ruXAxiH}/vix3{karmaNi;lat;pra;eka;AwmanepaxI;vixLz;wuxAxiH}	vix2{karwari;lat;pra;eka;AwmanepaxI;vixaz;xivAxiH}	aBihiwakarwA,10;akarmakaH	hE	is				

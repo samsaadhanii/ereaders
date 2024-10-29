@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sarva-guhyawamam	2	sarvaguhyawamaM	sarva-guhya-wama{puM}{2;eka}/wama{napuM}{1;eka}/wama{napuM}{2;eka}	sarva-guhya-wama{napuM}{2;eka}	viSeRaNam,6	sampUrNa_gopanIyoM_se_awi_gopanIya	the_most_confidential_of_all	<sarva-guhyawamaM>T6			
-2	BUyaH	6	BUyaH	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,3	Pira	again				
-3	SqNu	7	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,6.1;sakarmakaH	suna	just_hear				
-4	me	3	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,6	mere	from_Me				
-5	paramam	4	paramaM	paramam{avya}/parama{puM}{2;eka}/parama{napuM}{1;eka}/parama{napuM}{2;eka}	parama{napuM}{2;eka}	viSeRaNam,6	parama_rahasyayukwa	the_supreme				
-6	vacaH	5	vacaH	vaca{puM}{1;eka}/vacas{napuM}{1;eka}/vacas{napuM}{2;eka}/vacas{napuM}{8;eka}	vacas{napuM}{2;eka}	karma,3	vacana_ko	instruction				
-6.1	(wvam)	1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,3	(wuma)	you				
-7	iRtaH	11	iRtoZsi	iRta{puM}{1;eka}	iR2{kqw_prawyayaH:kwa;iRuz;wuxAxiH;puM}{1;eka}	viXeya_viSeRaNam,8	priya	dear				
-8	asi	12	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,10.1;akarmakaH	hE	are				
-9	me	9	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,7	merA	from_Me				
-10	xqDam	10	xqDamiwi	xqDa{puM}{2;eka}/xqDa{napuM}{1;eka}/xqDa{napuM}{2;eka}	xqDa{napuM}{2;eka}	kriyAviSeRaNam,7	awiSaya	very				
-10.1	(wvam)	8	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	(wU)	you				
-11	iwi	14	0	iwi{avya}	iwi{avya}	sambanXaH,13	yaha	thus				
-12	wawaH	13	wawo	wawaH{avya}	wawaH{avya}	hewuH,13	isase	therefore				
-13	vakRyAmi	18	vakRyAmi	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}/vah1{karwari;lqt;u;eka;parasmEpaxI;vahaz;BvAxiH}/brU1{karwari;lqt;u;eka;parasmEpaxI;brUF;axAxiH}	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}	aBihiwakarwA,15.1;sakarmakaH	kahUzgA	speaking				
-14	we	17	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,13	wuJase	for_your				
-15	hiwam	15	hiwam	hiwa{puM}{2;eka}/hiwa{napuM}{1;eka}/hiwa{napuM}{2;eka}	XA1{kqw_prawyayaH:kwa;duXAF;juhowyAxiH;napuM}{2;eka}	karma,13	parama_hiwakAraka_vacana	benefit				
-15.1	(aham)	16	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,13	(mEM)	I				
+1	सर्व-गुह्यतमम्	2	सर्वगुह्यतमं	सर्व-गुह्य-तम{पुं}{2;एक}/तम{नपुं}{1;एक}/तम{नपुं}{2;एक}	सर्व-गुह्य-तम{नपुं}{2;एक}	विशेषणम्,6	सम्पूर्ण_गोपनीयों_से_अति_गोपनीय	ट्हे_मोस्ट्_चोन्ङिडेन्टिअल्_ओङ्_अल्ल्	<सर्व-गुह्यतमं>ठ्6			
+2	भूयः	6	भूयः	भूयः{अव्य}/भूयस्{नपुं}{1;एक}/भूयस्{नपुं}{2;एक}/भूयस्{नपुं}{8;एक}	भूयः{अव्य}	क्रियाविशेषणम्,3	फिर	अगइन्				
+3	शृणु	7	शृणु	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	अभिहितकर्ता,6.1;सकर्मकः	सुन	जुस्ट्_हेअर्				
+4	मे	3	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,6	मेरे	ङ्रोम्_ंए				
+5	परमम्	4	परमं	परमम्{अव्य}/परम{पुं}{2;एक}/परम{नपुं}{1;एक}/परम{नपुं}{2;एक}	परम{नपुं}{2;एक}	विशेषणम्,6	परम_रहस्ययुक्त	ट्हे_सुप्रेमे				
+6	वचः	5	वचः	वच{पुं}{1;एक}/वचस्{नपुं}{1;एक}/वचस्{नपुं}{2;एक}/वचस्{नपुं}{8;एक}	वचस्{नपुं}{2;एक}	कर्म,3	वचन_को	इन्स्ट्रुच्टिओन्				
+6.1	(त्वम्)	1	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,3	(तुम)	योउ				
+7	इष्टः	11	इष्टोऽसि	इष्ट{पुं}{1;एक}	इष्2{कृत्_प्रत्ययः:क्त;इषुँ;तुदादिः;पुं}{1;एक}	विधेय_विशेषणम्,8	प्रिय	डेअर्				
+8	असि	12	0	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,10.1;अकर्मकः	है	अरे				
+9	मे	9	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,7	मेरा	ङ्रोम्_ंए				
+10	दृढम्	10	दृढमिति	दृढ{पुं}{2;एक}/दृढ{नपुं}{1;एक}/दृढ{नपुं}{2;एक}	दृढ{नपुं}{2;एक}	क्रियाविशेषणम्,7	अतिशय	वेर्य्				
+10.1	(त्वम्)	8	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,8	(तू)	योउ				
+11	इति	14	0	इति{अव्य}	इति{अव्य}	सम्बन्धः,13	यह	ट्हुस्				
+12	ततः	13	ततो	ततः{अव्य}	ततः{अव्य}	हेतुः,13	इससे	ट्हेरेङोरे				
+13	वक्ष्यामि	18	वक्ष्यामि	वच्1{कर्तरि;लृट्;उ;एक;परस्मैपदी;वचँ;अदादिः}/वह्1{कर्तरि;लृट्;उ;एक;परस्मैपदी;वहँ;भ्वादिः}/ब्रू1{कर्तरि;लृट्;उ;एक;परस्मैपदी;ब्रूञ्;अदादिः}	वच्1{कर्तरि;लृट्;उ;एक;परस्मैपदी;वचँ;अदादिः}	अभिहितकर्ता,15.1;सकर्मकः	कहूँगा	स्पेअकिन्ग्				
+14	ते	17	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	सम्प्रदानम्,13	तुझसे	ङोर्_योउर्				
+15	हितम्	15	हितम्	हित{पुं}{2;एक}/हित{नपुं}{1;एक}/हित{नपुं}{2;एक}	धा1{कृत्_प्रत्ययः:क्त;डुधाञ्;जुहोत्यादिः;नपुं}{2;एक}	कर्म,13	परम_हितकारक_वचन	बेनेङिट्				
+15.1	(अहम्)	16	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,13	(मैं)	ई				

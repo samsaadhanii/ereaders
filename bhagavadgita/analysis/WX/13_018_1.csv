@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	iwi	1	iwi	iwi{avya}	iwi{avya}	sambanXaH,7	isa_prakAra	thus				
+2	kRewram	3	kRewraM	kRewra{napuM}{1;eka}/kRewra{napuM}{2;eka}	kRewra{napuM}{1;eka}	sup_samucciwaH,5	kRewra	the_field_of_activities_(the_body)				
+3	waWA	4	waWA	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,2	waWA	also				
+4	jFAnam	5	jFAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	sup_samucciwaH,5	jFAna	knowledge				
+5	jFeyam	6	jFeyaM	jFeya{puM}{2;eka}/jFeya{napuM}{1;eka}/jFeya{napuM}{2;eka}	jFA2{kqw_prawyayaH:yaw;jFA;kryAxiH;napuM}{1;eka}	karma,7	jAnane_yogya_paramAwmA_kA_svarUpa	the_knowable				
+6	ca	7	cokwaM	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
+7	ukwam	8	0	ukwa{puM}{2;eka}/ukwa{napuM}{1;eka}/ukwa{napuM}{2;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;napuM}{1;eka}	aBihiwakarma,5;sakarmakaH	kahA_gayA	described				
+8	samAsawaH	2	samAsawaH	samAsa{wasil}	samAsa{wasil}	kriyAviSeRaNam,7	saMkRepa_se	in_summary				
+9	max-BakwaH	9	maxBakwa	asmax-Bakwa{puM}{1;eka}	asmax-Bakwa{puM}{1;eka}	karwA,13	merA_Bakwa	My_devotee	<asmaw-BakwaH>T7			
+10	ewaw	10	ewaxvijFAya	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{1;eka}	karma,11	isako	all_this				
+11	vijFAya	11	0	vijFa{puM}{4;eka}/vijFa{napuM}{4;eka}/vi_jFA2{kqw_prawyayaH:lyap;jFA;kryAxiH}/vi_jFA3{kqw_prawyayaH:lyap;jFA;curAxiH}	vi_jFA2{kqw_prawyayaH:lyap;vi_jFA;kryAxiH}	pUrvakAlaH,13	wawwva_se_jAnakara	after_understanding				
+12	max-BAvAya	12	maxBAvAyopapaxyawe	asmax-BAva{puM}{4;eka}	asmax-BAva{puM}{4;eka}	prayojanam,13	mere_svarUpa_ko	My_nature	<asmaw-BAvAya>T6			
+13	upapaxyawe	13	0	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/upa_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;upa_paxaz;xivAxiH}	aBihiwakarwA,9;sakarmakaH	prApwa_howA_hE	attains				

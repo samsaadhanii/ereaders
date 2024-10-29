@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ewAm	1	ewAM	ewA{swrI}{2;eka}/ewax{swrI}{2;eka}/Af_i1{karwari;lot;pra;xvi;parasmEpaxI;iN;axAxiH}	ewax{swrI}{2;eka}	viSeRaNam,2	isa	thus				
-2	xqRtim	2	xqRtimavaRtaBya	xqRti{swrI}{2;eka}	xqRti{swrI}{2;eka}	karma,3	miWyA_jFAna_ko	vision				
-3	avaRtaBya	3	0	avaRtaBya{puM}{8;eka}/avaRtaBya{napuM}{8;eka}	ava_swamB1{kqw_prawyayaH:lyap;ava_RtaBiz;BvAxiH}	pUrvakAlaH,6	avalambana_karake	accepting				
-4	naRta-AwmAnaH	4	naRtAwmAnoZlpabuxXayaH	naRtAwman{puM}{1;bahu}	naRta-Awman{puM}{1;bahu}	viSeRaNam,10.1	jinakA_svaBAva_naRta_ho_gayA_hE	lost_self	<naRta-AwmAnaH>Bs6			
-5	alpa-buxXayaH	5	0	alpabuxXi{puM}{1;bahu}/alpabuxXi{swrI}{1;bahu}	alpa-buxXi{puM}{1;bahu}	viSeRaNam,10.1	jinakI_buxXi_manxa_hE	less_intelligent	<alpa-buxXayaH>Bs6			
-6	praBavanwi	11	praBavanwyugrakarmANaH	pra_BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}	pra_BU1{karwari;lat;pra;bahu;parasmEpaxI;pra_BU;BvAxiH}	aBihiwakarwA,10.1;akarmakaH	samarWa_howe_hEM	flourish				
-7	ugra-karmANaH	7	0	ugrakarman{puM}{1;bahu}	ugra-karman{puM}{1;bahu}	viSeRaNam,10.1	krUrakarmI	in_painful_activities	<ugra-karmANaH>Bs6			
-8	kRayAya	10	kRayAya	kRaya{puM}{4;eka}/kRaya{napuM}{4;eka}	kRaya{puM}{4;eka}	prayojanam,6	nASa_ke_liye	for_destruction				
-9	jagawaH	9	jagawoZhiwAH	jagaw{puM}{1;bahu}/jagaw{puM}{2;bahu}/jagaw{puM}{5;eka}/jagaw{puM}{6;eka}/jagaw{napuM}{5;eka}/jagaw{napuM}{6;eka}	jagaw{napuM}{6;eka}	RaRTIsambanXaH,8	jagaw_ke	of_the_world				
-10	a-hiwAH	6	0	ahiwa{puM}{1;bahu}/ahiwA{swrI}{1;bahu}/ahiwA{swrI}{2;bahu}/ahiwA{swrI}{1;bahu}/ahiwA{swrI}{2;bahu}	ahiwa{puM}{1;bahu}	viSeRaNam,10.1	sabakA_apakAra_karanevAle	unbeneficial	<na-hiwAH>Bsmn			
-10.1	(janAH)	8	(0)	(jana{puM}{1;bahu})	(jana{puM}{1;bahu})	karwA,6	(manuRya)	persons				
+1	एताम्	1	एतां	एता{स्त्री}{2;एक}/एतद्{स्त्री}{2;एक}/आङ्_इ1{कर्तरि;लोट्;प्र;द्वि;परस्मैपदी;इण्;अदादिः}	एतद्{स्त्री}{2;एक}	विशेषणम्,2	इस	ट्हुस्				
+2	दृष्टिम्	2	दृष्टिमवष्टभ्य	दृष्टि{स्त्री}{2;एक}	दृष्टि{स्त्री}{2;एक}	कर्म,3	मिथ्या_ज्ञान_को	विसिओन्				
+3	अवष्टभ्य	3	0	अवष्टभ्य{पुं}{8;एक}/अवष्टभ्य{नपुं}{8;एक}	अव_स्तम्भ्1{कृत्_प्रत्ययः:ल्यप्;अव_ष्टभिँ;भ्वादिः}	पूर्वकालः,6	अवलम्बन_करके	अच्चेप्टिन्ग्				
+4	नष्ट-आत्मानः	4	नष्टात्मानोऽल्पबुद्धयः	नष्टात्मन्{पुं}{1;बहु}	नष्ट-आत्मन्{पुं}{1;बहु}	विशेषणम्,10.1	जिनका_स्वभाव_नष्ट_हो_गया_है	लोस्ट्_सेल्ङ्	<नष्ट-आत्मानः>भ्स्6			
+5	अल्प-बुद्धयः	5	0	अल्पबुद्धि{पुं}{1;बहु}/अल्पबुद्धि{स्त्री}{1;बहु}	अल्प-बुद्धि{पुं}{1;बहु}	विशेषणम्,10.1	जिनकी_बुद्धि_मन्द_है	लेस्स्_इन्टेल्लिगेन्ट्	<अल्प-बुद्धयः>भ्स्6			
+6	प्रभवन्ति	11	प्रभवन्त्युग्रकर्माणः	प्र_भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}	प्र_भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;प्र_भू;भ्वादिः}	अभिहितकर्ता,10.1;अकर्मकः	समर्थ_होते_हैं	ङ्लोउरिस्ह्				
+7	उग्र-कर्माणः	7	0	उग्रकर्मन्{पुं}{1;बहु}	उग्र-कर्मन्{पुं}{1;बहु}	विशेषणम्,10.1	क्रूरकर्मी	इन्_पइन्ङुल्_अच्टिविटिएस्	<उग्र-कर्माणः>भ्स्6			
+8	क्षयाय	10	क्षयाय	क्षय{पुं}{4;एक}/क्षय{नपुं}{4;एक}	क्षय{पुं}{4;एक}	प्रयोजनम्,6	नाश_के_लिये	ङोर्_डेस्ट्रुच्टिओन्				
+9	जगतः	9	जगतोऽहिताः	जगत्{पुं}{1;बहु}/जगत्{पुं}{2;बहु}/जगत्{पुं}{5;एक}/जगत्{पुं}{6;एक}/जगत्{नपुं}{5;एक}/जगत्{नपुं}{6;एक}	जगत्{नपुं}{6;एक}	षष्ठीसम्बन्धः,8	जगत्_के	ओङ्_ट्हे_तोर्ल्ड्				
+10	अ-हिताः	6	0	अहित{पुं}{1;बहु}/अहिता{स्त्री}{1;बहु}/अहिता{स्त्री}{2;बहु}/अहिता{स्त्री}{1;बहु}/अहिता{स्त्री}{2;बहु}	अहित{पुं}{1;बहु}	विशेषणम्,10.1	सबका_अपकार_करनेवाले	उन्बेनेङिचिअल्	<न-हिताः>भ्स्म्न्			
+10.1	(जनाः)	8	(0)	(जन{पुं}{1;बहु})	(जन{पुं}{1;बहु})	कर्ता,6	(मनुष्य)	पेर्सोन्स्				

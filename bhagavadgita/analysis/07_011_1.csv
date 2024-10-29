@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	balam	5	balaM	bala{puM}{2;eka}/bala{napuM}{1;eka}/bala{napuM}{2;eka}	bala{puM}{1;eka}	sup_samucciwaH,8	bala_arWAw_sAmarWya	strength				
-2	balavawAm	3	balavawAM	balavaw{puM}{6;bahu}/balavaw{napuM}{6;bahu}	balavaw{puM}{6;bahu}	RaRTIsambanXaH,1	balavAnoM_kA	of_the_strong				
-3	ca	9	cAhaM	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	and				
-4	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,9	mEM	I				
-5	kAma-rAga-vivarjiwam	4	kAmarAgavivarjiwam	kAma-rAga-vivarjiwa{puM}{2;eka}/vivarjiwa{napuM}{1;eka}/vivarjiwa{napuM}{2;eka}	kAma-rAga-vivarjiwa{puM}{1;eka}	viSeRaNam,1	Asakwi_Ora_kAmanAoM_se_rahiwa	devoid_of_passion_and_attachment	<<kAma-rAga>Di-vivarjiwam>T3			
-6	Xarma-a-viruxXaH	7	XarmAviruxXo	Xarman-a-viruxXa{puM}{1;eka}	Xarma-aviruxXa{puM}{1;eka}	viSeRaNam,8	Xarma_ke_anukUla_arWAw_SAswra_ke_anukUla	not_against_the_religious_principles	<Xarma-<na-viruxXaH>Tn>T3			
-7	BUweRu	6	BUweRu	BUwa{puM}{7;bahu}/BUwa{napuM}{7;bahu}	BUwa{puM}{7;bahu}	aXikaraNam,8	saba_BUwoM_meM	in_all_beings				
-8	kAmaH	8	kAmoZsmi	kAma{puM}{1;eka}	kAma{puM}{1;eka}	viXeya_viSeRaNam,9	kAma	sex_life				
-9	asmi	10	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,4;akarmakaH	hUz	am				
-10	BarawarRaBa	1	BarawarRaBa	BarawarRaBa{puM}{8;eka}	BarawarRaBa{puM}{8;eka}	samboXyaH,9	he_BarawaSreRTa	O_lord_of_the_Bharatas				
+1	बलम्	5	बलं	बल{पुं}{2;एक}/बल{नपुं}{1;एक}/बल{नपुं}{2;एक}	बल{पुं}{1;एक}	सुप्_समुच्चितः,8	बल_अर्थात्_सामर्थ्य	स्ट्रेन्ग्ट्ह्				
+2	बलवताम्	3	बलवतां	बलवत्{पुं}{6;बहु}/बलवत्{नपुं}{6;बहु}	बलवत्{पुं}{6;बहु}	षष्ठीसम्बन्धः,1	बलवानों_का	ओङ्_ट्हे_स्ट्रोन्ग्				
+3	च	9	चाहं	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	और	अन्ड्				
+4	अहम्	2	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,9	मैं	ई				
+5	काम-राग-विवर्जितम्	4	कामरागविवर्जितम्	काम-राग-विवर्जित{पुं}{2;एक}/विवर्जित{नपुं}{1;एक}/विवर्जित{नपुं}{2;एक}	काम-राग-विवर्जित{पुं}{1;एक}	विशेषणम्,1	आसक्ति_और_कामनाओं_से_रहित	डेवोइड्_ओङ्_पस्सिओन्_अन्ड्_अट्टच्ह्मेन्ट्	<<काम-राग>ढि-विवर्जितम्>ठ्3			
+6	धर्म-अ-विरुद्धः	7	धर्माविरुद्धो	धर्मन्-अ-विरुद्ध{पुं}{1;एक}	धर्म-अविरुद्ध{पुं}{1;एक}	विशेषणम्,8	धर्म_के_अनुकूल_अर्थात्_शास्त्र_के_अनुकूल	नोट्_अगइन्स्ट्_ट्हे_रेलिगिओउस्_प्रिन्चिप्लेस्	<धर्म-<न-विरुद्धः>ठ्न्>ठ्3			
+7	भूतेषु	6	भूतेषु	भूत{पुं}{7;बहु}/भूत{नपुं}{7;बहु}	भूत{पुं}{7;बहु}	अधिकरणम्,8	सब_भूतों_में	इन्_अल्ल्_बेइन्ग्स्				
+8	कामः	8	कामोऽस्मि	काम{पुं}{1;एक}	काम{पुं}{1;एक}	विधेय_विशेषणम्,9	काम	सेद्_लिङे				
+9	अस्मि	10	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,4;अकर्मकः	हूँ	अम्				
+10	भरतर्षभ	1	भरतर्षभ	भरतर्षभ{पुं}{8;एक}	भरतर्षभ{पुं}{8;एक}	सम्बोध्यः,9	हे_भरतश्रेष्ठ	औ_लोर्ड्_ओङ्_ट्हे_भ्हरटस्				

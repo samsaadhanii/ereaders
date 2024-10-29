@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	vixyA-vinaya-sampanne	2	vixyAvinayasampanne	vixyA-vinaya-sampanna{puM}{7;eka}/sampanna{napuM}{1;xvi}/sampanna{napuM}{2;xvi}/sampanna{napuM}{7;eka}/sampannA{swrI}{1;xvi}/sampannA{swrI}{2;xvi}	vixyA-vinaya-sampanna{puM}{7;eka}	viSeRaNam,2	vixyA_Ora_vinayayukwa	fully_equipped_with_education_and_gentleness	<<vixyA-vinaya>Di-sampanne>T3			
-2	brAhmaNe	3	brAhmaNe	brAhmaNa{puM}{7;eka}/brAhmaNA{swrI}{1;xvi}/brAhmaNA{swrI}{2;xvi}	brAhmaNa{puM}{7;eka}	sup_samucciwaH,8	brAhmaNa_meM	in_the_brahmana				
-3	gavi	5	gavi	go{puM}{7;eka}/go{swrI}{7;eka}	go{swrI}{7;eka}	sup_samucciwaH,8	gO	in_the_cow				
-4	haswini	6	haswini	haswin{puM}{7;eka}	haswin{puM}{7;eka}	sup_samucciwaH,8	hAWI	in_the_elephant				
-5	Suni	7	Suni	Svan{puM}{7;eka}	Svan{puM}{7;eka}	sup_samucciwaH,8	kuwwe	in_the_dog				
-6	ca	8	cEva	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	and				
-7	eva	11	0	eva{avya}	eva{avya}	sambanXaH,11	hI	certainly				
-8	SvapAke	9	SvapAke	SvapAka{puM}{7;eka}	SvapAka{puM}{7;eka}	aXikaraNam,12	cANdAla_meM	in_the_dog-eater_(the_outcaste)				
-9	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	waWA	respectively				
-10	paNdiwAH	1	paNdiwAH	paNdiwa{puM}{1;bahu}/paNdiwA{swrI}{1;bahu}/paNdiwA{swrI}{2;bahu}	paNdiwa{puM}{1;bahu}	karwA,12	jFAnIjana	those_who_are_so_wise				
-11	sama-xarSinaH	10	samaxarSinaH	samaxarSin{puM}{1;bahu}/samaxarSin{puM}{2;bahu}/samaxarSin{puM}{5;eka}/samaxarSin{puM}{6;eka}/samaxarSin{napuM}{5;eka}/samaxarSin{napuM}{6;eka}	samaxarSin{puM}{1;bahu}	viXeya_viSeRaNam,12	samaxarSI	do_see_with_equal_vision	<sama-xarSinaH>U			
-12	(Bavanwi)	12	(0)	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})		(howe_hEM)	becomes				
+1	विद्या-विनय-सम्पन्ने	2	विद्याविनयसम्पन्ने	विद्या-विनय-सम्पन्न{पुं}{7;एक}/सम्पन्न{नपुं}{1;द्वि}/सम्पन्न{नपुं}{2;द्वि}/सम्पन्न{नपुं}{7;एक}/सम्पन्ना{स्त्री}{1;द्वि}/सम्पन्ना{स्त्री}{2;द्वि}	विद्या-विनय-सम्पन्न{पुं}{7;एक}	विशेषणम्,2	विद्या_और_विनययुक्त	ङुल्ल्य्_एऋउइप्पेड्_तिट्ह्_एडुचटिओन्_अन्ड्_गेन्ट्लेनेस्स्	<<विद्या-विनय>ढि-सम्पन्ने>ठ्3			
+2	ब्राह्मणे	3	ब्राह्मणे	ब्राह्मण{पुं}{7;एक}/ब्राह्मणा{स्त्री}{1;द्वि}/ब्राह्मणा{स्त्री}{2;द्वि}	ब्राह्मण{पुं}{7;एक}	सुप्_समुच्चितः,8	ब्राह्मण_में	इन्_ट्हे_ब्रह्मन				
+3	गवि	5	गवि	गो{पुं}{7;एक}/गो{स्त्री}{7;एक}	गो{स्त्री}{7;एक}	सुप्_समुच्चितः,8	गौ	इन्_ट्हे_चोत्				
+4	हस्तिनि	6	हस्तिनि	हस्तिन्{पुं}{7;एक}	हस्तिन्{पुं}{7;एक}	सुप्_समुच्चितः,8	हाथी	इन्_ट्हे_एलेप्हन्ट्				
+5	शुनि	7	शुनि	श्वन्{पुं}{7;एक}	श्वन्{पुं}{7;एक}	सुप्_समुच्चितः,8	कुत्ते	इन्_ट्हे_डोग्				
+6	च	8	चैव	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	और	अन्ड्				
+7	एव	11	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,11	ही	चेर्टइन्ल्य्				
+8	श्वपाके	9	श्वपाके	श्वपाक{पुं}{7;एक}	श्वपाक{पुं}{7;एक}	अधिकरणम्,12	चाण्डाल_में	इन्_ट्हे_डोग्-एअटेर्_(ट्हे_ओउट्चस्टे)				
+9	च	4	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	तथा	रेस्पेच्टिवेल्य्				
+10	पण्डिताः	1	पण्डिताः	पण्डित{पुं}{1;बहु}/पण्डिता{स्त्री}{1;बहु}/पण्डिता{स्त्री}{2;बहु}	पण्डित{पुं}{1;बहु}	कर्ता,12	ज्ञानीजन	ट्होसे_त्हो_अरे_सो_तिसे				
+11	सम-दर्शिनः	10	समदर्शिनः	समदर्शिन्{पुं}{1;बहु}/समदर्शिन्{पुं}{2;बहु}/समदर्शिन्{पुं}{5;एक}/समदर्शिन्{पुं}{6;एक}/समदर्शिन्{नपुं}{5;एक}/समदर्शिन्{नपुं}{6;एक}	समदर्शिन्{पुं}{1;बहु}	विधेय_विशेषणम्,12	समदर्शी	डो_सेए_तिट्ह्_एऋउअल्_विसिओन्	<सम-दर्शिनः>ऊ			
+12	(भवन्ति)	12	(0)	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः})		(होते_हैं)	बेचोमेस्				

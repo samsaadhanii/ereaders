@@ -1,10 +1,10 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ISvaraH	4	ISvaraH	ISvara{puM}{1;eka}	ISvara{puM}{1;eka}	karwA,5	anwaryAmI_parameSvara	the_Supreme_Lord				
-2	sarva-BUwAnAm	7	sarvaBUwAnAM	sarvaBUwa{puM}{6;bahu}/sarvaBUwa{napuM}{6;bahu}/sarvaBUwA{swrI}{6;bahu}	sarva-BUwa{puM}{6;bahu}	RaRTIsambanXaH,3	saba_prANiyoM_ke	of_all_living_entities	<sarva-BUwAnAM>K1			
-3	hqx-xeSe	8	hqxxeSeZrjuna	hqxxeSa{puM}{7;eka}	hqx-xeSa{puM}{7;eka}	aXikaraNam,5	hqxaya_meM	in_the_location_of_the_heart	<hqw-xeSe>T6			
-4	arjuna	1	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,5	he_arjuna	O_Arjuna				
-5	wiRTawi	9	wiRTawi	sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}/wiRTaw{puM}{7;eka}/wiRTaw{napuM}{7;eka}	sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}	aBihiwakarwA,1;akarmakaH	sWiwa_hE	resides				
-6	BrAmayan	6	BrAmayansarvaBUwAni	BrAmayan	Bram2_Nic{kqw_prawyayaH:Sawq;Bramuz_Nic;xivAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,5	BramaNa_karAwA_huA	causing_to_travel				
-7	sarva-BUwAni	3	0	sarvaBUwa{napuM}{1;bahu}/sarvaBUwa{napuM}{2;bahu}	sarvaBUwa{napuM}{2;bahu}	karma,6	sampUrNa_prANiyoM_ko	all_living_entities	<sarva-BUwAni>K1			
-8	yanwra-ArUDAni	2	yanwrArUDAni	yanwra-ArUDa{napuM}{1;bahu}/ArUDa{napuM}{2;bahu}	yanwra-Af_ruh1{kqw_prawyayaH:kwa;Af_ruhaz;BvAxiH}{2;bahu}	viSeRaNam,7	SarIrarUpa_yanwra_meM_ArUDa़_hue	being_so_placed_in_machine	<yanwra-ArUDAni>T7			
-9	mAyayA	5	mAyayA	mAyA{swrI}{3;eka}	mAyA{swrI}{3;eka}	karaNam,6	apanI_mAyA_se	under_the_spell_of_material_energy				
+1	ईश्वरः	4	ईश्वरः	ईश्वर{पुं}{1;एक}	ईश्वर{पुं}{1;एक}	कर्ता,5	अन्तर्यामी_परमेश्वर	ट्हे_शुप्रेमे_ऌओर्ड्				
+2	सर्व-भूतानाम्	7	सर्वभूतानां	सर्वभूत{पुं}{6;बहु}/सर्वभूत{नपुं}{6;बहु}/सर्वभूता{स्त्री}{6;बहु}	सर्व-भूत{पुं}{6;बहु}	षष्ठीसम्बन्धः,3	सब_प्राणियों_के	ओङ्_अल्ल्_लिविन्ग्_एन्टिटिएस्	<सर्व-भूतानां>ख्1			
+3	हृद्-देशे	8	हृद्देशेऽर्जुन	हृद्देश{पुं}{7;एक}	हृद्-देश{पुं}{7;एक}	अधिकरणम्,5	हृदय_में	इन्_ट्हे_लोचटिओन्_ओङ्_ट्हे_हेअर्ट्	<हृत्-देशे>ठ्6			
+4	अर्जुन	1	0	अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,5	हे_अर्जुन	औ_आर्जुन				
+5	तिष्ठति	9	तिष्ठति	स्था1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ष्ठा;भ्वादिः}/तिष्ठत्{पुं}{7;एक}/तिष्ठत्{नपुं}{7;एक}	स्था1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ष्ठा;भ्वादिः}	अभिहितकर्ता,1;अकर्मकः	स्थित_है	रेसिडेस्				
+6	भ्रामयन्	6	भ्रामयन्सर्वभूतानि	भ्रामयन्	भ्रम्2_णिच्{कृत्_प्रत्ययः:शतृ;भ्रमुँ_णिच्;दिवादिः;पुं}{1;एक}	वर्तमानसमानकालः,5	भ्रमण_कराता_हुआ	चउसिन्ग्_टो_ट्रवेल्				
+7	सर्व-भूतानि	3	0	सर्वभूत{नपुं}{1;बहु}/सर्वभूत{नपुं}{2;बहु}	सर्वभूत{नपुं}{2;बहु}	कर्म,6	सम्पूर्ण_प्राणियों_को	अल्ल्_लिविन्ग्_एन्टिटिएस्	<सर्व-भूतानि>ख्1			
+8	यन्त्र-आरूढानि	2	यन्त्रारूढानि	यन्त्र-आरूढ{नपुं}{1;बहु}/आरूढ{नपुं}{2;बहु}	यन्त्र-आङ्_रुह्1{कृत्_प्रत्ययः:क्त;आङ्_रुहँ;भ्वादिः}{2;बहु}	विशेषणम्,7	शरीररूप_यन्त्र_में_आरूढॆअञ_हुए	बेइन्ग्_सो_प्लचेड्_इन्_मच्हिने	<यन्त्र-आरूढानि>ठ्7			
+9	मायया	5	मायया	माया{स्त्री}{3;एक}	माया{स्त्री}{3;एक}	करणम्,6	अपनी_माया_से	उन्डेर्_ट्हे_स्पेल्ल्_ओङ्_मटेरिअल्_एनेर्ग्य्				

@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+4	wvam	1	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,2	wU	you				
+1	niyawam	2	niyawaM	niyawa{puM}{2;eka}/niyawa{napuM}{1;eka}/niyawa{napuM}{2;eka}	niyawa{napuM}{2;eka}	kriyAviSeRaNam,2	SAswravihiwa	alloted				
+3	karma	3	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,2	karwavyakarma	duty				
+2	kuru	4	kuru	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwa_karwA,4;sakarmaka	kara	perform				
+8	a-karmaNaH	5	0	a-karman{napuM}{5;eka}/karman{napuM}{6;eka}	na-karman{napuM}{6;eka}	wulanA_binxuH,5	karma_na_karane_se	desisting_from_action	<na-karmaNaH>Tn			
+5	karma	6	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwA,6.1	karma_karanA	action				
+7	hi	7	hyakarmaNaH	hi{avya}	hi{avya}	sambanXaH,6.1	kyoMki	for				
+6	jyAyaH	8	jyAyo	jyAyas{napuM}{1;eka}/jyAyas{napuM}{2;eka}/jyAyas{napuM}{8;eka}	jyAyas{napuM}{1;eka}	viXeya_viSeRaNam,6.1	SreRTa	superior				
+6.1	(aswi)	9	()	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;:axAxiH}	samucciwaH,9	hE					
+12	we	10	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,9	werA	your				
+9	SarIra-yAwrA	11	SarIrayAwrApi	SarIra-yAwq{swrI}{3;eka}/yAwrA{swrI}{1;eka}	SarIra-yAwrA{swrI}{1;eka}	karwA,14	SarIra-nirvAha	maintenance_of_body	<SarIra-yAwrA>T6			
+11	ca	12	ca	ca{avya}	ca{avya}	sambanXaH,9	waWA	also				
+10	api	13	0	api{avya}	api{avya}	sambanXaH,9	BI	even				
+15	akarmaNaH	14	0	a-karman{napuM}{5;eka}/karman{napuM}{6;eka}	na-karman{napuM}{5;eka}	hewuH,14	karma_na_karane_kI_apekRA	to_inaction	<na-karmaNaH>Tn			
+13	na	15	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	cannot				
+14	prasixXyew	16	prasixXyexakarmaNaH	prasixXyew	pra_siX3{karwari;viXilif;pra;eka;parasmEpaxI;pra_RiXuz;xivAxiH}	aBihiwa_karwA,9	sixXa_hogA	maintain				

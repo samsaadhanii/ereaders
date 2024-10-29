@@ -1,0 +1,20 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yaH	1	ya	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,3;niwya_sambanXaH,10	jo	he_who				
+2	enam	2	enaM	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,3	isako_(AwmA_ko)	this_(the_soul)				
+3	vewwi	4	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,1;sakarmakaH	samaJawA_hE	considers				
+4	hanwAram	3	hanwAraM	hanwq{puM}{2;eka}	hanwq{puM}{2;eka}	karmasamAnAXikaraNam,3	mAranevAlA	capable_of_killing				
+5	yaH	6	yaScEnaM	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,8;niwya_sambanXaH,10	jo	he_who				
+6	ca	5	0	ca{avya}	ca{avya}	sambanXaH,8	waWA	and				
+7	enam	7	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,8	isako	this_(the_soul)				
+8	manyawe	9	manyawe	manyawA{swrI}{1;xvi}/manyawA{swrI}{2;xvi}/manyawA{swrI}{8;eka}/manyawA{swrI}{8;xvi}/man1{karmaNi;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}/man2{karmaNi;lat;pra;eka;AwmanepaxI;manuz;wanAxiH}	man1{karwari;lat;pra;eka;AwmanepaxI;manaz;xivAxiH}	aBihiwakarwA,5;sakarmakaH	mAnawA_hE	takes_it_as				
+9	hawam	8	hawam	hawa{puM}{2;eka}/hawa{napuM}{1;eka}/hawa{napuM}{2;eka}/han1{karwari;lot;ma;xvi;parasmEpaxI;hanaz;axAxiH}	han1{kqw_prawyayaH:kwa;hanaz;axAxiH;puM}{2;eka}	karmasamAnAXikaraNam,8	marA	killed				
+10	uBO	11	uBO	uBa{puM}{1;xvi}/uBa{puM}{2;xvi}/uBa{puM}{8;xvi}/uBa{puM}{1;xvi}/uBa{puM}{2;xvi}	uBa{puM}{1;xvi}	karwA,13	xonoM_hI	both_of_them				
+11	wO	10	wO	wax{puM}{1;xvi}/wax{puM}{2;xvi}	wax{puM}{1;xvi}	viSeRaNam,10	ve	they				
+12	na	12	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	not				
+13	vijAnIwaH	13	vijAnIwo	vi_jFA2{karwari;lat;pra;xvi;parasmEpaxI;jFA;kryAxiH}	vi_jFA2{karwari;lat;pra;xvi;parasmEpaxI;vi_jFA;kryAxiH}	aBihiwakarwA,11;sakarmakaH	jAnawe	know				
+14	na	15	nAyaM	na{avya}	na{avya}	prawiReXaH,16	na	neither				
+15	ayam	14	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karwA,16	yaha_AwmA	this_(the_soul)				
+16	hanwi	16	hanwi	han1{karwari;lat;pra;eka;parasmEpaxI;hanaz;axAxiH}	han1{karwari;lat;pra;eka;parasmEpaxI;hanaz;axAxiH}	aBihiwakarwA,15;sakarmakaH	mArawA_hE	kills				
+17	na	18	na	na{avya}	na{avya}	prawiReXaH,18	na	nor				
+18	hanyawe	19	hanyawe	han1{karmaNi;lat;pra;eka;AwmanepaxI;hanaz;axAxiH}	han1{karmaNi;lat;pra;eka;AwmanepaxI;hanaz;axAxiH}	aBihiwakarma,19;sakarmakaH	mArA_jAwA_hE	is_killed				
+18.1	(ayam)	17	(0)	(aya{puM}{2;eka}/ixam{puM}{1;eka})	(ixam{puM}{1;eka})	karma,18	(yaha)	this_(the_soul)				

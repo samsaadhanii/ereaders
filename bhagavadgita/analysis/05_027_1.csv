@@ -1,26 +1,26 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	sparSAn	2	sparSAnkqwvA	sparSa{puM}{2;bahu}	sparSa{puM}{2;bahu}	karma,2	viRayaBogoM_ko	external_sense_objects,_such_as_sound,_etc				
-2	kqwvA	5	0	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,18.1	nikAlakara	keeping				
-3	bahiH	3	bahirbAhyAMScakRuScEvAnware	bahiH{avya}	bahiH{avya}	aXikaraNam,2	bAhara	external				
-4	bAhyAn	1	0	bAhya{puM}{2;bahu}	bAhya{puM}{2;bahu}	viSeRaNam,1	bAhara_ke	unnecessary				
-5	cakRuH	7	0	cakRu{puM}{1;eka}/cakRus{napuM}{1;eka}/cakRus{napuM}{2;eka}/kRE1{karwari;lit;pra;bahu;parasmEpaxI;kRE;BvAxiH}	cakRus{napuM}{2;eka}	karma,9.1	newroM_kI_xqRti_ko	eyes				
-6	ca	6	0	ca{avya}	ca{avya}	sambanXaH,9.1	Ora	also				
-7	eva	4	0	eva{avya}	eva{avya}	sambanXaH,6	hI	certainly				
-8	anware	9	0	anware{avya}/anwara{puM}{7;eka}/anwara{napuM}{1;xvi}/anwara{napuM}{2;xvi}/anwara{napuM}{7;eka}/anwara{napuM}{1;xvi}/anwara{napuM}{2;xvi}/anwarA{swrI}{1;xvi}/anwarA{swrI}{2;xvi}/anwarA{swrI}{1;xvi}/anwarA{swrI}{2;xvi}	anwara{napuM}{7;eka}	aXikaraNam,9.1	bIca_meM	within				
-9	BruvoH	8	BruvoH	BrU{swrI}{6;xvi}/BrU{swrI}{7;xvi}	BrU{swrI}{6;xvi}	RaRTIsambanXaH,8	BqkutI_ke	of_the_eyebrows				
-9.1	(kqwvA)	10	(0)	(kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH})	(kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH})	pUrvakAlaH,18.1	(karake)	keeping				
-10	prANa-apAnO	12	prANApAnO	prANa-apAna{puM}{1;xvi}/apAna{puM}{2;xvi}	prANa-apAna{puM}{2;xvi}	karma,12	prANa_Ora_apAnavAyu_ko	up_and_down-moving_air	<prANa-apAnO>Di			
-11	samO	13	samO	sama{puM}{1;xvi}/sama{puM}{2;xvi}/sama{puM}{1;xvi}/sama{puM}{2;xvi}	sama{puM}{2;xvi}	karmasamAnAXikaraNam,12	sama	in_suspension				
-12	kqwvA	14	kqwvA	kq1{kqw_prawyayaH:kwvA;kqF;BvAxiH}/kq2{kqw_prawyayaH:kwvA;kqF;svAxiH}/kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	kq3{kqw_prawyayaH:kwvA;dukqF;wanAxiH}	pUrvakAlaH,18.1	karake	doing_so				
-13	nAsa-aByanwara-cAriNO	11	nAsAByanwaracAriNO	nAsA-aByanwara-cArin{puM}{1;xvi}/cArin{puM}{2;xvi}	nAsA-aByanwara-cArin{puM}{2;xvi}	viSeRaNam,10	nAsikA_meM_vicaranevAle	blowing_within_the_nostrils	<<nAsa-AByanwara>T6-cAriNO>U			
-14	yawa-inxriya-manaH-buxXiH	15	yawenxriyamanobuxXirmunirmokRaparAyaNaH	yawa-inxriya-manas-buxXi{swrI}{1;eka}	yawa-inxriya-manas-buxXi{swrI}{1;eka}	viSeRaNam,15	jisakI_inxriyAz_mana_Ora_buxXi_jIwI_huI_hEM	controlled_senses,_mind_and_intelligence	<yawa-<inxriya-manaH-buxXiH>Di>Bs3			
-15	muniH	18	0	muni{puM}{1;eka}	muni{puM}{1;eka}	karwA,18.1	muni	the_transcendentalist				
-16	mokRa-parAyaNaH	17	0	mokRa-parAyaNa{puM}{1;eka}	mokRa-parAyaNa{puM}{1;eka}	viSeRaNam,15	mokRaparAyaNa	being_so_destined_for_liberation	<mokRa-parAyaNaH>Bs6			
-17	vigawa-icCA-Baya-kroXaH	19	vigawecCABayakroXo	vigawa-icCA-Baya-kroXa{puM}{1;eka}	vigawa-icCA-Baya-kroXa{puM}{1;eka}	viXeya_viSeRaNam,18.1	icCA_Baya_Ora_kroXa_se_rahiwa	discarded_wishes,_fear_and_anger	<vigawa-<icCA-Baya-kroXaH>Di>Bs5			
-18	yaH	16	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,15;niwya_sambanXaH,22	jo	one_who				
-18.1	(Bavawi)	20	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,15;akarmakaH	(howA_hE)	becomes				
-19	saxA	22	saxA	saxA{avya}	saxA{avya}	kriyAviSeRaNam,22.1	saxA	always				
-20	mukwaH	23	mukwa	mukwa{puM}{1;eka}	muc1{kqw_prawyayaH:kwa;mucLz;wuxAxiH;puM}{1;eka}	viXeya_viSeRaNam,22.1	mukwa	liberated				
-21	eva	24	eva	eva{avya}	eva{avya}	sambanXaH,20	hI	certainly				
-22	saH	21	saH	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,22.1	vaha	he				
-22.1	(aswi)	25	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,22;akarmakaH	(hE)	is				
+1	स्पर्शान्	2	स्पर्शान्कृत्वा	स्पर्श{पुं}{2;बहु}	स्पर्श{पुं}{2;बहु}	कर्म,2	विषयभोगों_को	एद्टेर्नल्_सेन्से_ओब्जेच्ट्स्,_सुच्ह्_अस्_सोउन्ड्,_एट्च्				
+2	कृत्वा	5	0	कृ1{कृत्_प्रत्ययः:क्त्वा;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:क्त्वा;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	पूर्वकालः,18.1	निकालकर	केएपिन्ग्				
+3	बहिः	3	बहिर्बाह्यांश्चक्षुश्चैवान्तरे	बहिः{अव्य}	बहिः{अव्य}	अधिकरणम्,2	बाहर	एद्टेर्नल्				
+4	बाह्यान्	1	0	बाह्य{पुं}{2;बहु}	बाह्य{पुं}{2;बहु}	विशेषणम्,1	बाहर_के	उन्नेचेस्सर्य्				
+5	चक्षुः	7	0	चक्षु{पुं}{1;एक}/चक्षुस्{नपुं}{1;एक}/चक्षुस्{नपुं}{2;एक}/क्षै1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;क्षै;भ्वादिः}	चक्षुस्{नपुं}{2;एक}	कर्म,9.1	नेत्रों_की_दृष्टि_को	एयेस्				
+6	च	6	0	च{अव्य}	च{अव्य}	सम्बन्धः,9.1	और	अल्सो				
+7	एव	4	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,6	ही	चेर्टइन्ल्य्				
+8	अन्तरे	9	0	अन्तरे{अव्य}/अन्तर{पुं}{7;एक}/अन्तर{नपुं}{1;द्वि}/अन्तर{नपुं}{2;द्वि}/अन्तर{नपुं}{7;एक}/अन्तर{नपुं}{1;द्वि}/अन्तर{नपुं}{2;द्वि}/अन्तरा{स्त्री}{1;द्वि}/अन्तरा{स्त्री}{2;द्वि}/अन्तरा{स्त्री}{1;द्वि}/अन्तरा{स्त्री}{2;द्वि}	अन्तर{नपुं}{7;एक}	अधिकरणम्,9.1	बीच_में	तिट्हिन्				
+9	भ्रुवोः	8	भ्रुवोः	भ्रू{स्त्री}{6;द्वि}/भ्रू{स्त्री}{7;द्वि}	भ्रू{स्त्री}{6;द्वि}	षष्ठीसम्बन्धः,8	भृकुटी_के	ओङ्_ट्हे_एयेब्रोत्स्				
+9.1	(कृत्वा)	10	(0)	(कृ1{कृत्_प्रत्ययः:क्त्वा;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:क्त्वा;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः})	(कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः})	पूर्वकालः,18.1	(करके)	केएपिन्ग्				
+10	प्राण-अपानौ	12	प्राणापानौ	प्राण-अपान{पुं}{1;द्वि}/अपान{पुं}{2;द्वि}	प्राण-अपान{पुं}{2;द्वि}	कर्म,12	प्राण_और_अपानवायु_को	उप्_अन्ड्_डोत्न्-मोविन्ग्_अइर्	<प्राण-अपानौ>ढि			
+11	समौ	13	समौ	सम{पुं}{1;द्वि}/सम{पुं}{2;द्वि}/सम{पुं}{1;द्वि}/सम{पुं}{2;द्वि}	सम{पुं}{2;द्वि}	कर्मसमानाधिकरणम्,12	सम	इन्_सुस्पेन्सिओन्				
+12	कृत्वा	14	कृत्वा	कृ1{कृत्_प्रत्ययः:क्त्वा;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:क्त्वा;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:क्त्वा;डुकृञ्;तनादिः}	पूर्वकालः,18.1	करके	डोइन्ग्_सो				
+13	नास-अभ्यन्तर-चारिणौ	11	नासाभ्यन्तरचारिणौ	नासा-अभ्यन्तर-चारिन्{पुं}{1;द्वि}/चारिन्{पुं}{2;द्वि}	नासा-अभ्यन्तर-चारिन्{पुं}{2;द्वि}	विशेषणम्,10	नासिका_में_विचरनेवाले	ब्लोतिन्ग्_तिट्हिन्_ट्हे_नोस्ट्रिल्स्	<<नास-आभ्यन्तर>ठ्6-चारिणौ>ऊ			
+14	यत-इन्द्रिय-मनः-बुद्धिः	15	यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः	यत-इन्द्रिय-मनस्-बुद्धि{स्त्री}{1;एक}	यत-इन्द्रिय-मनस्-बुद्धि{स्त्री}{1;एक}	विशेषणम्,15	जिसकी_इन्द्रियाँ_मन_और_बुद्धि_जीती_हुई_हैं	चोन्ट्रोल्लेड्_सेन्सेस्,_मिन्ड्_अन्ड्_इन्टेल्लिगेन्चे	<यत-<इन्द्रिय-मनः-बुद्धिः>ढि>भ्स्3			
+15	मुनिः	18	0	मुनि{पुं}{1;एक}	मुनि{पुं}{1;एक}	कर्ता,18.1	मुनि	ट्हे_ट्रन्स्चेन्डेन्टलिस्ट्				
+16	मोक्ष-परायणः	17	0	मोक्ष-परायण{पुं}{1;एक}	मोक्ष-परायण{पुं}{1;एक}	विशेषणम्,15	मोक्षपरायण	बेइन्ग्_सो_डेस्टिनेड्_ङोर्_लिबेरटिओन्	<मोक्ष-परायणः>भ्स्6			
+17	विगत-इच्छा-भय-क्रोधः	19	विगतेच्छाभयक्रोधो	विगत-इच्छा-भय-क्रोध{पुं}{1;एक}	विगत-इच्छा-भय-क्रोध{पुं}{1;एक}	विधेय_विशेषणम्,18.1	इच्छा_भय_और_क्रोध_से_रहित	डिस्चर्डेड्_तिस्हेस्,_ङेअर्_अन्ड्_अन्गेर्	<विगत-<इच्छा-भय-क्रोधः>ढि>भ्स्5			
+18	यः	16	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	विशेषणम्,15;नित्य_सम्बन्धः,22	जो	ओने_त्हो				
+18.1	(भवति)	20	(0)	(भवत्{पुं}{7;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,15;अकर्मकः	(होता_है)	बेचोमेस्				
+19	सदा	22	सदा	सदा{अव्य}	सदा{अव्य}	क्रियाविशेषणम्,22.1	सदा	अल्तय्स्				
+20	मुक्तः	23	मुक्त	मुक्त{पुं}{1;एक}	मुच्1{कृत्_प्रत्ययः:क्त;मुचॢँ;तुदादिः;पुं}{1;एक}	विधेय_विशेषणम्,22.1	मुक्त	लिबेरटेड्				
+21	एव	24	एव	एव{अव्य}	एव{अव्य}	सम्बन्धः,20	ही	चेर्टइन्ल्य्				
+22	सः	21	सः	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,22.1	वह	हे				
+22.1	(अस्ति)	25	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,22;अकर्मकः	(है)	इस्				

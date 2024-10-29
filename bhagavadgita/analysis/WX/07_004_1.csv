@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	BUmiH	1	BUmirApoZnalo	BUmi{swrI}{1;eka}	BUmi{swrI}{1;eka}	Gataka,16	pqWvI	earth				
+2	ApaH	2	0	ap{swrI}{1;bahu}/Apas{napuM}{1;eka}/Apas{napuM}{2;eka}/Apas{napuM}{8;eka}/Ap1{karwari;luf;ma;eka;parasmEpaxI;ApLz;svAxiH}	ap{swrI}{1;bahu}	Gataka,16	jala	water				
+3	analaH	3	0	anala{puM}{1;eka}/nal1{karwari;laf;ma;eka;parasmEpaxI;Nalaz;BvAxiH}	anala{puM}{1;eka}	Gataka,16	agni	fire				
+4	vAyuH	4	vAyuH	vAyu{puM}{1;eka}/vA1{karwari;viXilif;pra;bahu;parasmEpaxI;vA;axAxiH}	vAyu{puM}{1;eka}	Gataka,16	vAyu	air				
+5	Kam	5	KaM	Ka{puM}{2;eka}/Ka{napuM}{1;eka}/Ka{napuM}{2;eka}	Ka{napuM}{1;eka}	Gataka,16	AkASa	ether				
+6	manaH	6	mano	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	Gataka,16	mana	mind				
+7	buxXiH	7	buxXireva	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	Gataka,16	buxXi	intelligence				
+8	eva	9	0	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
+9	ca	10	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora	and				
+10	ahafkAraH	8	ahafkAra	ahafkAra{puM}{1;eka}	ahafkAra{puM}{1;eka}	Gataka,16	ahaMkAra	false_ego				
+11	iwi	11	iwIyaM	iwi{avya}	iwi{avya}	Gataka_xyowakaH,16	EsI	thus				
+12	iyam	12	0	ixam{swrI}{1;eka}	ixam{swrI}{1;eka}	viSeRaNam,15	yaha	all_these				
+13	me	13	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,15	merI	my				
+14	BinnA	15	BinnA	BinnA{swrI}{1;eka}	BinnA{swrI}{1;eka}	viSeRaNam,16	viBAjiwa	seperated				
+15	prakqwiH	14	prakqwiraRtaXA	prakqwi{swrI}{1;eka}	prakqwi{swrI}{1;eka}	karwA,16.1	prakqwi	energies				
+16	aRtaXA	16	0	aRtaXA	aRtaXA{avya}	viXeya_viSeRaNam,16.1	ATa_prakAra_se	total_eight				
+16.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,15;akarmakaH	(hE)	is				

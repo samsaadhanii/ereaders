@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mahaw-AwmAnaH	6	mahAwmAnaswu	mahaw-Awman{puM}{1;bahu}/Awman{puM}{8;bahu}	mahaw-Awman{puM}{1;bahu}	karwA,8	mahAwmAjana	the_great_souls	<mahaw-AwmAnaH>Bs6			
-2	wu	1	0	wu{avya}	wu{avya}	sambanXaH,1	paraMwu	but				
-3	mAm	7	mAM	asmax{2;eka}	asmax{2;eka}	karma,8	muJako	unto_Me				
-4	pArWa	2	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,8	he_kunwIpuwra	O_son_of_Prtha				
-5	xEvIm	3	xEvIM	xEvI{swrI}{2;eka}	xEvI{swrI}{2;eka}	viSeRaNam,6	xEvI	divine				
-6	prakqwim	4	prakqwimASriwAH	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	karma,7	prakqwi_ke	nature				
-7	ASriwAH	5	0	ASriwa{puM}{1;bahu}/ASriwa{puM}{8;bahu}/ASriwA{swrI}{1;bahu}/ASriwA{swrI}{2;bahu}/ASriwA{swrI}{8;bahu}/ASriwA{swrI}{1;bahu}/ASriwA{swrI}{2;bahu}/ASriwA{swrI}{8;bahu}	Af_Sri1{kqw_prawyayaH:kwa;Af_SriF;BvAxiH;puM}{1;bahu}	viSeRaNam,1	ASriwa	taken_shelter_of				
-8	Bajanwi	13	Bajanwyananyamanaso	Baj1{karwari;lat;pra;bahu;parasmEpaxI;Bajaz;BvAxiH}	Baj1{karwari;lat;pra;bahu;parasmEpaxI;Bajaz;BvAxiH}		niranwara_Bajawe_hEM	render_service				
-9	an-anya-manasaH	12	0	ananya-manas{puM}{1;bahu}/manas{puM}{2;bahu}/manas{puM}{5;eka}/manas{puM}{6;eka}/manas{puM}{8;bahu}/manas{napuM}{5;eka}/manas{napuM}{6;eka}	ananya-manas{puM}{1;bahu}	viSeRaNam,1	ananya_manase_yukwa_(hokara)	without_deviation_of_the_mind	<<na-anya>Tn-manasaH>Bs6			
-10	jFAwvA	11	jFAwvA	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,8	jAnakara	knowing				
-11	BUwa-Axim	8	BUwAximavyayam	BUwa-Axi{puM}{2;eka}	BUwa-Axi{puM}{2;eka}	sup_samucciwaH,12	saba_BUwoM_kA_sanAwana_kAraNa	the_original_creation	<BUwa-Axim>T6			
-12	a-vyayam	10	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	avyaya{puM}{2;eka}	karma,10	nASarahiwa_akRarasvarUpa	inexhaustible	<na-vyayam>Bsmn			
-13	(ca)	9	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,12	(Ora)	and				
+1	महत्-आत्मानः	6	महात्मानस्तु	महत्-आत्मन्{पुं}{1;बहु}/आत्मन्{पुं}{8;बहु}	महत्-आत्मन्{पुं}{1;बहु}	कर्ता,8	महात्माजन	ट्हे_ग्रेअट्_सोउल्स्	<महत्-आत्मानः>भ्स्6			
+2	तु	1	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,1	परंतु	बुट्				
+3	माम्	7	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,8	मुझको	उन्टो_ंए				
+4	पार्थ	2	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,8	हे_कुन्तीपुत्र	औ_सोन्_ओङ्_फ्र्ट्ह				
+5	दैवीम्	3	दैवीं	दैवी{स्त्री}{2;एक}	दैवी{स्त्री}{2;एक}	विशेषणम्,6	दैवी	डिविने				
+6	प्रकृतिम्	4	प्रकृतिमाश्रिताः	प्रकृति{स्त्री}{2;एक}	प्रकृति{स्त्री}{2;एक}	कर्म,7	प्रकृति_के	नटुरे				
+7	आश्रिताः	5	0	आश्रित{पुं}{1;बहु}/आश्रित{पुं}{8;बहु}/आश्रिता{स्त्री}{1;बहु}/आश्रिता{स्त्री}{2;बहु}/आश्रिता{स्त्री}{8;बहु}/आश्रिता{स्त्री}{1;बहु}/आश्रिता{स्त्री}{2;बहु}/आश्रिता{स्त्री}{8;बहु}	आङ्_श्रि1{कृत्_प्रत्ययः:क्त;आङ्_श्रिञ्;भ्वादिः;पुं}{1;बहु}	विशेषणम्,1	आश्रित	टकेन्_स्हेल्टेर्_ओङ्				
+8	भजन्ति	13	भजन्त्यनन्यमनसो	भज्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भजँ;भ्वादिः}	भज्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भजँ;भ्वादिः}		निरन्तर_भजते_हैं	रेन्डेर्_सेर्विचे				
+9	अन्-अन्य-मनसः	12	0	अनन्य-मनस्{पुं}{1;बहु}/मनस्{पुं}{2;बहु}/मनस्{पुं}{5;एक}/मनस्{पुं}{6;एक}/मनस्{पुं}{8;बहु}/मनस्{नपुं}{5;एक}/मनस्{नपुं}{6;एक}	अनन्य-मनस्{पुं}{1;बहु}	विशेषणम्,1	अनन्य_मनसे_युक्त_(होकर)	तिट्होउट्_डेविअटिओन्_ओङ्_ट्हे_मिन्ड्	<<न-अन्य>ठ्न्-मनसः>भ्स्6			
+10	ज्ञात्वा	11	ज्ञात्वा	ज्ञा1{कृत्_प्रत्ययः:क्त्वा;ज्ञा;भ्वादिः}/ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	पूर्वकालः,8	जानकर	क्नोतिन्ग्				
+11	भूत-आदिम्	8	भूतादिमव्ययम्	भूत-आदि{पुं}{2;एक}	भूत-आदि{पुं}{2;एक}	सुप्_समुच्चितः,12	सब_भूतों_का_सनातन_कारण	ट्हे_ओरिगिनल्_च्रेअटिओन्	<भूत-आदिम्>ठ्6			
+12	अ-व्ययम्	10	0	अ-व्यय{पुं}{2;एक}/व्यय{नपुं}{1;एक}/व्यय{नपुं}{2;एक}	अव्यय{पुं}{2;एक}	कर्म,10	नाशरहित_अक्षरस्वरूप	इनेद्हउस्टिब्ले	<न-व्ययम्>भ्स्म्न्			
+13	(च)	9	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,12	(और)	अन्ड्				

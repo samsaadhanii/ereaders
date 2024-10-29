@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	SreyaH	3	Sreyo	Sreya{puM}{1;eka}/Sreyas{napuM}{1;eka}/Sreyas{napuM}{2;eka}/Sreyas{napuM}{8;eka}	Sreyas{napuM}{1;eka}	viXeya_viSeRaNam,4.1	SreRTa	better				
-2	hi	11	hi	hi{avya}	hi{avya}	sambanXaH,4.1	kyoMki	certainly				
-3	jFAnam	2	jFAnamaByAsAFjFAnAxXyAnaM	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karwA,5	jFAna	knowledge				
-4	aByAsAw	1	0	aByAsa{puM}{5;eka}	aByAsa{puM}{5;eka}	wulanA_binxuH,3	marma_ko_na_jAnakara_kiye_hue_aByAsa_se	by_practice				
-4.1	(aswi)	4	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,3;akarmakaH	(hE)	is				
-5	jFAnAw	5	0	jFAna{napuM}{5;eka}	jFAna{napuM}{5;eka}	wulanA_binxuH,6	jFAna_se	better_than_knowledge				
-6	XyAnam	6	0	XyAna{napuM}{1;eka}/XyAna{napuM}{2;eka}	XyAna{napuM}{1;eka}	karwA,7	XyAna	meditation				
-7	viSiRyawe	7	viSiRyawe	viSiRyawA{swrI}{1;xvi}/viSiRyawA{swrI}{2;xvi}/viSiRyawA{swrI}{8;eka}/viSiRyawA{swrI}{8;xvi}/vi_SAs1{karmaNi;lat;pra;eka;AwmanepaxI;SAsuz;axAxiH}/vi_SiR2{karmaNi;lat;pra;eka;AwmanepaxI;SiRLz;ruXAxiH}	vi_SAs1{karwari;lat;pra;eka;AwmanepaxI;vi_SAsuz;axAxiH}	aBihiwakarwA,6;akarmakaH	SreRTa_hE	especially_considered				
-8	XyAnAw	8	XyAnAwkarmaPalawyAgaswyAgAcCAnwirananwaram	XyAna{napuM}{5;eka}	XyAna{napuM}{5;eka}	wulanA_binxuH,9	XyAna_se	from_meditation				
-9	karma-Pala-wyAgaH	9	0	karmaPala-wyAga{puM}{1;eka}	karma-Pala-wyAga{puM}{1;eka}	karwA,9.1	saba_karmoM_ke_Pala_kA_wyAga	renunciation_of_the_results_of_fruitive_action	<<karma-Pala>T6-wyAgaH>T6			
-9.1	(viSiRyawe)	10	(0)	(viSiRyawA{swrI}{1;xvi}/viSiRyawA{swrI}{2;xvi}/viSiRyawA{swrI}{8;eka}/viSiRyawA{swrI}{8;xvi}/vi_SAs1{karmaNi;lat;pra;eka;AwmanepaxI;SAsuz;axAxiH}/vi_SiR2{karmaNi;lat;pra;eka;AwmanepaxI;SiRLz;ruXAxiH})	(vi_SAs1{karwari;lat;pra;eka;AwmanepaxI;vi_SAsuz;axAxiH})	aBihiwakarwA,9;akarmakaH	(SreRTa_hE)	especially_considered				
-10	wyAgAw	12	0	wyAga{puM}{5;eka}	wyAga{puM}{5;eka}	wulanA_binxuH,11.1	wyAga_se	by_such_renunciation				
-11	SAnwiH	14	0	SAnwi{swrI}{1;eka}	SAnwi{swrI}{1;eka}	karwA,12.1	parama_SAnwi	thereafter				
-12	ananwaram	13	0	ananwaram{avya}/ananwara{puM}{2;eka}/ananwara{napuM}{1;eka}/ananwara{napuM}{2;eka}	ananwara{avya}	kAlAXikaraNam,12.1	wawkAla_hI	peace				
-12.1	(Bavawi)	15	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(howI_hE)	is				
+1	श्रेयः	3	श्रेयो	श्रेय{पुं}{1;एक}/श्रेयस्{नपुं}{1;एक}/श्रेयस्{नपुं}{2;एक}/श्रेयस्{नपुं}{8;एक}	श्रेयस्{नपुं}{1;एक}	विधेय_विशेषणम्,4.1	श्रेष्ठ	बेट्टेर्				
+2	हि	11	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,4.1	क्योंकि	चेर्टइन्ल्य्				
+3	ज्ञानम्	2	ज्ञानमभ्यासाञ्ज्ञानाद्ध्यानं	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{1;एक}	कर्ता,5	ज्ञान	क्नोत्लेड्गे				
+4	अभ्यासात्	1	0	अभ्यास{पुं}{5;एक}	अभ्यास{पुं}{5;एक}	तुलना_बिन्दुः,3	मर्म_को_न_जानकर_किये_हुए_अभ्यास_से	ब्य्_प्रच्टिचे				
+4.1	(अस्ति)	4	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,3;अकर्मकः	(है)	इस्				
+5	ज्ञानात्	5	0	ज्ञान{नपुं}{5;एक}	ज्ञान{नपुं}{5;एक}	तुलना_बिन्दुः,6	ज्ञान_से	बेट्टेर्_ट्हन्_क्नोत्लेड्गे				
+6	ध्यानम्	6	0	ध्यान{नपुं}{1;एक}/ध्यान{नपुं}{2;एक}	ध्यान{नपुं}{1;एक}	कर्ता,7	ध्यान	मेडिटटिओन्				
+7	विशिष्यते	7	विशिष्यते	विशिष्यता{स्त्री}{1;द्वि}/विशिष्यता{स्त्री}{2;द्वि}/विशिष्यता{स्त्री}{8;एक}/विशिष्यता{स्त्री}{8;द्वि}/वि_शास्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;शासुँ;अदादिः}/वि_शिष्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;शिषॢँ;रुधादिः}	वि_शास्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;वि_शासुँ;अदादिः}	अभिहितकर्ता,6;अकर्मकः	श्रेष्ठ_है	एस्पेचिअल्ल्य्_चोन्सिडेरेड्				
+8	ध्यानात्	8	ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम्	ध्यान{नपुं}{5;एक}	ध्यान{नपुं}{5;एक}	तुलना_बिन्दुः,9	ध्यान_से	ङ्रोम्_मेडिटटिओन्				
+9	कर्म-फल-त्यागः	9	0	कर्मफल-त्याग{पुं}{1;एक}	कर्म-फल-त्याग{पुं}{1;एक}	कर्ता,9.1	सब_कर्मों_के_फल_का_त्याग	रेनुन्चिअटिओन्_ओङ्_ट्हे_रेसुल्ट्स्_ओङ्_ङ्रुइटिवे_अच्टिओन्	<<कर्म-फल>ठ्6-त्यागः>ठ्6			
+9.1	(विशिष्यते)	10	(0)	(विशिष्यता{स्त्री}{1;द्वि}/विशिष्यता{स्त्री}{2;द्वि}/विशिष्यता{स्त्री}{8;एक}/विशिष्यता{स्त्री}{8;द्वि}/वि_शास्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;शासुँ;अदादिः}/वि_शिष्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;शिषॢँ;रुधादिः})	(वि_शास्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;वि_शासुँ;अदादिः})	अभिहितकर्ता,9;अकर्मकः	(श्रेष्ठ_है)	एस्पेचिअल्ल्य्_चोन्सिडेरेड्				
+10	त्यागात्	12	0	त्याग{पुं}{5;एक}	त्याग{पुं}{5;एक}	तुलना_बिन्दुः,11.1	त्याग_से	ब्य्_सुच्ह्_रेनुन्चिअटिओन्				
+11	शान्तिः	14	0	शान्ति{स्त्री}{1;एक}	शान्ति{स्त्री}{1;एक}	कर्ता,12.1	परम_शान्ति	ट्हेरेअङ्टेर्				
+12	अनन्तरम्	13	0	अनन्तरम्{अव्य}/अनन्तर{पुं}{2;एक}/अनन्तर{नपुं}{1;एक}/अनन्तर{नपुं}{2;एक}	अनन्तर{अव्य}	कालाधिकरणम्,12.1	तत्काल_ही	पेअचे				
+12.1	(भवति)	15	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,11;अकर्मकः	(होती_है)	इस्				

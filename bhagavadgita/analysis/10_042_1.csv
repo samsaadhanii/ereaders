@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aWavA	1	aWavA	aWavA{avya}	aWavA{avya}	sambanXaH,16	aWavA	or				
-2	bahunA	4	bahunEwena	bahunA{avya}/bahu{puM}{3;eka}/bahu{swrI}{3;eka}/bahu{napuM}{3;eka}	bahu{puM}{3;eka}	viSeRaNam,5	bahuwa	many				
-3	ewena	3	0	ewax{puM}{3;eka}/ewax{napuM}{3;eka}	ewax{puM}{3;eka}	viSeRaNam,5	isa	by_this_kind				
-4	kim	7	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	prayojanam,8.1	kyA_(prayojana_hE)	what				
-5	jFAwena	5	jFAwena	jFAwa{puM}{3;eka}/jFAwa{napuM}{3;eka}	jFA2{kqw_prawyayaH:kwa;jFA;kryAxiH;puM}{3;eka}	hewuH,8.1	jAnane_se	knowing				
-6	wava	6	wavArjuna	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,5	werA	you				
-7	arjuna	2	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,8.1	he_arjuna	O_Arjuna				
-8.1	(aswi)	8	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				
-8	viRtaBya	14	viRtaByAhamixaM	viRtaBya	vi_swamB1{kqw_prawyayaH:lyap;vi_RtaBiz;BvAxiH}	pUrvakAlaH,13	XAraNa_karake	entire				
-9	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,13	mEM	I				
-10	ixam	10	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,14	isa	this				
-11	kqwsnam	11	kqwsnamekAMSena	kqwsna{napuM}{1;eka}/kqwsna{napuM}{2;eka}	kqwsna{napuM}{2;eka}	viSeRaNam,14	sampUrNa	of_all_manifestations				
-12	eka-aMSena	13	0	ekAMSa{puM}{3;eka}	eka-aMSa{puM}{3;eka}	karaNam,8	eka_aMSamAwra_se	with_one_part				
-13	sWiwaH	15	sWiwo	sWiwa{puM}{1;eka}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{1;eka}	aBihiwakarwA,9;akarmakaH	sWiwa	situated				
-14	jagaw	12	jagaw	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,8	jagaw_ko_(apanI_yogaSakwi_ke)	in_the_universe				
+1	अथवा	1	अथवा	अथवा{अव्य}	अथवा{अव्य}	सम्बन्धः,16	अथवा	ओर्				
+2	बहुना	4	बहुनैतेन	बहुना{अव्य}/बहु{पुं}{3;एक}/बहु{स्त्री}{3;एक}/बहु{नपुं}{3;एक}	बहु{पुं}{3;एक}	विशेषणम्,5	बहुत	मन्य्				
+3	एतेन	3	0	एतद्{पुं}{3;एक}/एतद्{नपुं}{3;एक}	एतद्{पुं}{3;एक}	विशेषणम्,5	इस	ब्य्_ट्हिस्_किन्ड्				
+4	किम्	7	किं	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{1;एक}	प्रयोजनम्,8.1	क्या_(प्रयोजन_है)	त्हट्				
+5	ज्ञातेन	5	ज्ञातेन	ज्ञात{पुं}{3;एक}/ज्ञात{नपुं}{3;एक}	ज्ञा2{कृत्_प्रत्ययः:क्त;ज्ञा;क्र्यादिः;पुं}{3;एक}	हेतुः,8.1	जानने_से	क्नोतिन्ग्				
+6	तव	6	तवार्जुन	युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,5	तेरा	योउ				
+7	अर्जुन	2	0	अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,8.1	हे_अर्जुन	औ_आर्जुन				
+8.1	(अस्ति)	8	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})		(है)	इस्				
+8	विष्टभ्य	14	विष्टभ्याहमिदं	विष्टभ्य	वि_स्तम्भ्1{कृत्_प्रत्ययः:ल्यप्;वि_ष्टभिँ;भ्वादिः}	पूर्वकालः,13	धारण_करके	एन्टिरे				
+9	अहम्	9	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,13	मैं	ई				
+10	इदम्	10	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,14	इस	ट्हिस्				
+11	कृत्स्नम्	11	कृत्स्नमेकांशेन	कृत्स्न{नपुं}{1;एक}/कृत्स्न{नपुं}{2;एक}	कृत्स्न{नपुं}{2;एक}	विशेषणम्,14	सम्पूर्ण	ओङ्_अल्ल्_मनिङेस्टटिओन्स्				
+12	एक-अंशेन	13	0	एकांश{पुं}{3;एक}	एक-अंश{पुं}{3;एक}	करणम्,8	एक_अंशमात्र_से	तिट्ह्_ओने_पर्ट्				
+13	स्थितः	15	स्थितो	स्थित{पुं}{1;एक}	स्था1{कृत्_प्रत्ययः:क्त;ष्ठा;भ्वादिः;पुं}{1;एक}	अभिहितकर्ता,9;अकर्मकः	स्थित	सिटुअटेड्				
+14	जगत्	12	जगत्	जगत्{पुं}{1;एक}/जगत्{पुं}{8;एक}/जगत्{नपुं}{1;एक}/जगत्{नपुं}{2;एक}/जगत्{नपुं}{8;एक}	जगत्{नपुं}{2;एक}	कर्म,8	जगत्_को_(अपनी_योगशक्ति_के)	इन्_ट्हे_उनिवेर्से				

@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aXaH	5	aXaScorXvaM	aXaH{avya}	aXaH{avya}	sup_samucciwaH,2	nIce	downward				
-2	ca	7	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	and				
-3	UrXvam	6	0	UrXvam{avya}	UrXvam{avya}	aXikaraNam,4	Upara_sarvawra	upward				
-4	prasqwAH	8	prasqwAswasya	prasqwa{puM}{1;bahu}	pra_sq1{kqw_prawyayaH:kwa;pra_sq;BvAxiH;puM}{1;bahu}	aBihiwakarwA,6;akarmakaH	PElI_huI	extended				
-5	wasya	1	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,6	usakI_(saMsAravqkRa_kI)	its				
-6	SAKAH	4	SAKA	SAKA{swrI}{1;bahu}/SAKA{swrI}{2;bahu}	SAKA{swrI}{1;bahu}	karwA,4	xeva_manuRya_Ora_wiryak_Axi_yonirUpa_SAKAez	branches				
-7	guNa-pravqxXAH	2	guNapravqxXA	guNa-pravqxXa{puM}{1;bahu}/pravqxXA{swrI}{1;bahu}/pravqxXA{swrI}{2;bahu}	guNa-pra_vqX1{kqw_prawyayaH:kwa;pra_vqXuz;BvAxiH;puM}{1;bahu}	viSeRaNam,6	wInoM_guNoMrUpa_jala_ke_xvArA_baDa़I_huI	developed_modes_of_material_nature	<guNa-pravqxXAH>T3			
-8	viRaya-pravAlAH	3	viRayapravAlAH	viRaya-pravAla{puM}{1;bahu}/pravAlA{swrI}{1;bahu}/pravAlA{swrI}{2;bahu}	viRaya-pravAla{puM}{1;bahu}	viSeRaNam,6	viRaya_BogarUpa_koMpaloMvAlI	twigs_of_sense_objects	<viRaya-pravAlAH>K5			
-9	aXaH	12	aXaSca	aXaH{avya}	aXaH{avya}	aXikaraNam,14.1	nIce	downward				
-10	ca	13	0	ca{avya}	ca{avya}	sambanXaH,14.1	Ora	and				
-11	mUlAni	11	mUlAnyanusanwawAni	mUla{napuM}{1;bahu}/mUla{napuM}{2;bahu}/mUl1{karwari;lot;u;eka;parasmEpaxI;mUlaz;BvAxiH}	mUla{napuM}{1;bahu}	karwA,14.1	ahaMwA_mamawA_Ora_vAsanArUpa_jada़eM	roots				
-12	anu-sanwawAni	14	0	anusanwawa{napuM}{1;bahu}	anu-sanwawa{napuM}{1;bahu}	viXeya_viSeRaNam,14.1	saBI_lokoM_meM_vyApwa	extended				
-13	karma-anubanXIni	10	karmAnubanXIni	karmAnubanXa{napuM}{1;bahu}/banXa{napuM}{2;bahu}	karma-anubanXa{napuM}{1;bahu}	viSeRaNam,11	karmoM_ke_anusAra_bAzXanevAlI	bound_according_to_work	<karma-anubanXIni>Bs6			
-14	manuRya-loke	9	manuRyaloke	manuRya-loka{puM}{7;eka}/loka{napuM}{1;xvi}/loka{napuM}{2;xvi}/loka{napuM}{7;eka}	manuRya-loka{puM}{7;eka}	aXikaraNam,14.1	manuRyaloka_meM	in_the_world_of_human_society	<manuRya-loke>T6			
-14.1	(sanwi)	15	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,11;akarmakaH	(hEM)	are				
+1	अधः	5	अधश्चोर्ध्वं	अधः{अव्य}	अधः{अव्य}	सुप्_समुच्चितः,2	नीचे	डोत्न्तर्ड्				
+2	च	7	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	और	अन्ड्				
+3	ऊर्ध्वम्	6	0	ऊर्ध्वम्{अव्य}	ऊर्ध्वम्{अव्य}	अधिकरणम्,4	ऊपर_सर्वत्र	उप्तर्ड्				
+4	प्रसृताः	8	प्रसृतास्तस्य	प्रसृत{पुं}{1;बहु}	प्र_सृ1{कृत्_प्रत्ययः:क्त;प्र_सृ;भ्वादिः;पुं}{1;बहु}	अभिहितकर्ता,6;अकर्मकः	फैली_हुई	एद्टेन्डेड्				
+5	तस्य	1	0	तद्{पुं}{6;एक}/तद्{नपुं}{6;एक}	तद्{पुं}{6;एक}	षष्ठीसम्बन्धः,6	उसकी_(संसारवृक्ष_की)	इट्स्				
+6	शाखाः	4	शाखा	शाखा{स्त्री}{1;बहु}/शाखा{स्त्री}{2;बहु}	शाखा{स्त्री}{1;बहु}	कर्ता,4	देव_मनुष्य_और_तिर्यक्_आदि_योनिरूप_शाखाएँ	ब्रन्च्हेस्				
+7	गुण-प्रवृद्धाः	2	गुणप्रवृद्धा	गुण-प्रवृद्ध{पुं}{1;बहु}/प्रवृद्धा{स्त्री}{1;बहु}/प्रवृद्धा{स्त्री}{2;बहु}	गुण-प्र_वृध्1{कृत्_प्रत्ययः:क्त;प्र_वृधुँ;भ्वादिः;पुं}{1;बहु}	विशेषणम्,6	तीनों_गुणोंरूप_जल_के_द्वारा_बढॆअञई_हुई	डेवेलोपेड्_मोडेस्_ओङ्_मटेरिअल्_नटुरे	<गुण-प्रवृद्धाः>ठ्3			
+8	विषय-प्रवालाः	3	विषयप्रवालाः	विषय-प्रवाल{पुं}{1;बहु}/प्रवाला{स्त्री}{1;बहु}/प्रवाला{स्त्री}{2;बहु}	विषय-प्रवाल{पुं}{1;बहु}	विशेषणम्,6	विषय_भोगरूप_कोंपलोंवाली	ट्तिग्स्_ओङ्_सेन्से_ओब्जेच्ट्स्	<विषय-प्रवालाः>ख्5			
+9	अधः	12	अधश्च	अधः{अव्य}	अधः{अव्य}	अधिकरणम्,14.1	नीचे	डोत्न्तर्ड्				
+10	च	13	0	च{अव्य}	च{अव्य}	सम्बन्धः,14.1	और	अन्ड्				
+11	मूलानि	11	मूलान्यनुसन्ततानि	मूल{नपुं}{1;बहु}/मूल{नपुं}{2;बहु}/मूल्1{कर्तरि;लोट्;उ;एक;परस्मैपदी;मूलँ;भ्वादिः}	मूल{नपुं}{1;बहु}	कर्ता,14.1	अहंता_ममता_और_वासनारूप_जडॆअञएं	रोओट्स्				
+12	अनु-सन्ततानि	14	0	अनुसन्तत{नपुं}{1;बहु}	अनु-सन्तत{नपुं}{1;बहु}	विधेय_विशेषणम्,14.1	सभी_लोकों_में_व्याप्त	एद्टेन्डेड्				
+13	कर्म-अनुबन्धीनि	10	कर्मानुबन्धीनि	कर्मानुबन्ध{नपुं}{1;बहु}/बन्ध{नपुं}{2;बहु}	कर्म-अनुबन्ध{नपुं}{1;बहु}	विशेषणम्,11	कर्मों_के_अनुसार_बाँधनेवाली	बोउन्ड्_अच्चोर्डिन्ग्_टो_तोर्क्	<कर्म-अनुबन्धीनि>भ्स्6			
+14	मनुष्य-लोके	9	मनुष्यलोके	मनुष्य-लोक{पुं}{7;एक}/लोक{नपुं}{1;द्वि}/लोक{नपुं}{2;द्वि}/लोक{नपुं}{7;एक}	मनुष्य-लोक{पुं}{7;एक}	अधिकरणम्,14.1	मनुष्यलोक_में	इन्_ट्हे_तोर्ल्ड्_ओङ्_हुमन्_सोचिएट्य्	<मनुष्य-लोके>ठ्6			
+14.1	(सन्ति)	15	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,11;अकर्मकः	(हैं)	अरे				

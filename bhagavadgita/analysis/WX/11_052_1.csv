@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	su-xur-xarSam	8	suxurxarSamixaM	su-{avya}-xur-xarSa{puM}{2;eka}	su-xur-xarSa{napuM}{1;eka}	viXeya_viSeRaNam,2.1	suxurxarSa	very_difficult_to_be_seen	<su-<xur-xarSam>Tp>Tp			
+2	ixam	7	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	karwA,2.1	yaha	this				
+2.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
+3	rUpam	3	rUpaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,4	cawurBujarUpa	form				
+4	xqRtavAn	5	xqRtavAnasi	xqRtavaw{puM}{1;eka}/xqRtavaw{puM}{1;eka}	xqS1{kqw_prawyayaH:kwavawu;xqSizr;BvAxiH;puM}{1;eka}	karwA,5	xeKA	as_seen				
+5	asi	6	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,4;akarmakaH	hE	have				
+6	yaw	2	yanmama	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,3	jo	which				
+7	mama	1	0	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,3	merA	of_Mine				
+7.1	(wvam)	4	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wumane)	you				
+8	xevAH	10	xevA	xeva{puM}{1;bahu}/xeva{puM}{8;bahu}	xeva{puM}{1;bahu}	karwA,13.1	xevawA	the_demigods				
+9	api	11	apyasya	api{avya}	api{avya}	sambanXaH,8	BI	also				
+10	asya	12	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{napuM}{6;eka}	viSeRaNam,11	isa	this				
+11	rUpasya	13	rUpasya	rUpa{napuM}{6;eka}	rUpa{napuM}{6;eka}	RaRTIsambanXaH,13	rUpa_ke	form				
+12	niwyam	14	niwyaM	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{2;eka}	kriyAviSeRaNam,13	saxA	eternally				
+13	xarSana-kAfkRiNaH	15	xarSanakAfkRiNaH	xarSana-kAfkRin{puM}{1;bahu}/kAfkRin{puM}{2;bahu}/kAfkRin{puM}{5;eka}/kAfkRin{puM}{6;eka}/kAfkRin{puM}{8;bahu}	xarSana-kAfkRin{puM}{1;bahu}	viXeya_viSeRaNam,13.1	AkAMkRA_karawe_rahawe	always_aspire_to_see	<xarSana-AkAfkRiNaH>T6			
+13.1	(sanwi)	16	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,8;akarmakaH	(hEM)	are				

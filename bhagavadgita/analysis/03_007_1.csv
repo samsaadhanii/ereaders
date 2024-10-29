@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-7	arjuna	1		arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,6	he_arjuna	O_Arjuna				
-1	yaH	2	yaswvinxriyANi	yax{puM}{1;eka}	yax{puM}{1;eka}	viSeRaNam,10	jo_(puruRa)	he_who				
-1	yaH	2	yaswvinxriyANi	yax{puM}{1;eka}	yax{puM}{1;eka}	niwya_sambanXaH,11	jo_(puruRa)	he_who				
-2	wu	3		wu{avya}	wu{avya}	sambanXaH,6	kiMwu	on_the_other_hand				
-4	manasA	4	manasA	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	karaNam,5	mana_se	by_the_power_of_his_will				
-3	inxriyANi	5		inxriya{napuM}{1;bahu}/inxriya{napuM}{2;bahu}	inxriya{napuM}{2;bahu}	karma,5	inxriyoM_ko	the_organs_of_sense_and_action				
-5	niyamya	6	niyamyAraBaweZrjuna	ni_yam1{kqw_prawyayaH:lyap;yamoz;BvAxiH}/ni_yam2{kqw_prawyayaH:lyap;yamaz;BvAxiH}/ni_yam3{kqw_prawyayaH:lyap;yamaz;curAxiH}	ni_yam1{avya;lyap;yamuz;:BvAxiH}	pUrvakAlaH,6	vaSa_meM_karake	controlling				
-10	a-sakwaH	7		a-sakwa{puM}{1;eka}	asakwa{puM}{1;eka}	karwA,6	anAsakwa_huA	unattached	<na-sakwaH>Tn			
-9	karma-yogam	8	karmayogamasakwaH	karman-yoga{puM}{2;eka}	karman-yoga{puM}{2;eka}	karma,6	karmayoga_kA	the_Yoga_of_selfless_Action	<karma-yogena>K6			
-8	karma-inxriyEH	9	karmenxriyEH	karman-inxriya{puM}{3;bahu}/inxriya{napuM}{3;bahu}	karman-inxriya{puM}{3;bahu}	karaNam,6	samaswa_inxriyoM_xvArA	through_those_organs	<karma-inxriyEH>T6			
-6	AraBawe	10		AraBawe	Af_raB1{karwari;lat;pra;eka;AwmanepaxI;Af_raBaz;BvAxiH}	aBihiwa_karma,9;sakarmaka	AcaraNa_karawA_hE	undertakes				
-11	saH	11	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,12	vahI	he				
-12	viSiRyawe	12	viSiRyawe	viSiRyawA{swrI}{1;xvi}/viSiRyawA{swrI}{2;xvi}/viSiRyawA{swrI}{8;eka}/viSiRyawA{swrI}{8;xvi}/vi_SAs1{karmaNi;lat;pra;eka;AwmanepaxI;SAsuz;axAxiH}/vi_SiR2{karmaNi;lat;pra;eka;AwmanepaxI;SiRLz;ruXAxiH}	vi_SAs1{karwari;lat;pra;eka;AwmanepaxI;vi_SAsuz;axAxiH}	aBihiwa_karma,11;sakarmaka	SreRTa_hE	excels				
+7	अर्जुन	1		अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,6	हे_अर्जुन	औ_आर्जुन				
+1	यः	2	यस्त्विन्द्रियाणि	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	विशेषणम्,10	जो_(पुरुष)	हे_त्हो				
+1	यः	2	यस्त्विन्द्रियाणि	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	नित्य_सम्बन्धः,11	जो_(पुरुष)	हे_त्हो				
+2	तु	3		तु{अव्य}	तु{अव्य}	सम्बन्धः,6	किंतु	ओन्_ट्हे_ओट्हेर्_हन्ड्				
+4	मनसा	4	मनसा	मनस्{नपुं}{3;एक}/मनसा{स्त्री}{1;एक}	मनस्{नपुं}{3;एक}	करणम्,5	मन_से	ब्य्_ट्हे_पोतेर्_ओङ्_हिस्_तिल्ल्				
+3	इन्द्रियाणि	5		इन्द्रिय{नपुं}{1;बहु}/इन्द्रिय{नपुं}{2;बहु}	इन्द्रिय{नपुं}{2;बहु}	कर्म,5	इन्द्रियों_को	ट्हे_ओर्गन्स्_ओङ्_सेन्से_अन्ड्_अच्टिओन्				
+5	नियम्य	6	नियम्यारभतेऽर्जुन	नि_यम्1{कृत्_प्रत्ययः:ल्यप्;यमोँ;भ्वादिः}/नि_यम्2{कृत्_प्रत्ययः:ल्यप्;यमँ;भ्वादिः}/नि_यम्3{कृत्_प्रत्ययः:ल्यप्;यमँ;चुरादिः}	नि_यम्1{अव्य;ल्यप्;यमुँ;:भ्वादिः}	पूर्वकालः,6	वश_में_करके	चोन्ट्रोल्लिन्ग्				
+10	अ-सक्तः	7		अ-सक्त{पुं}{1;एक}	असक्त{पुं}{1;एक}	कर्ता,6	अनासक्त_हुआ	उनट्टच्हेड्	<न-सक्तः>ठ्न्			
+9	कर्म-योगम्	8	कर्मयोगमसक्तः	कर्मन्-योग{पुं}{2;एक}	कर्मन्-योग{पुं}{2;एक}	कर्म,6	कर्मयोग_का	ट्हे_Yओग_ओङ्_सेल्ङ्लेस्स्_आच्टिओन्	<कर्म-योगेन>ख्6			
+8	कर्म-इन्द्रियैः	9	कर्मेन्द्रियैः	कर्मन्-इन्द्रिय{पुं}{3;बहु}/इन्द्रिय{नपुं}{3;बहु}	कर्मन्-इन्द्रिय{पुं}{3;बहु}	करणम्,6	समस्त_इन्द्रियों_द्वारा	ट्ह्रोउग्ह्_ट्होसे_ओर्गन्स्	<कर्म-इन्द्रियैः>ठ्6			
+6	आरभते	10		आरभते	आङ्_रभ्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;आङ्_रभँ;भ्वादिः}	अभिहित_कर्म,9;सकर्मक	आचरण_करता_है	उन्डेर्टकेस्				
+11	सः	11	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्म,12	वही	हे				
+12	विशिष्यते	12	विशिष्यते	विशिष्यता{स्त्री}{1;द्वि}/विशिष्यता{स्त्री}{2;द्वि}/विशिष्यता{स्त्री}{8;एक}/विशिष्यता{स्त्री}{8;द्वि}/वि_शास्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;शासुँ;अदादिः}/वि_शिष्2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;शिषॢँ;रुधादिः}	वि_शास्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;वि_शासुँ;अदादिः}	अभिहित_कर्म,11;सकर्मक	श्रेष्ठ_है	एद्चेल्स्				

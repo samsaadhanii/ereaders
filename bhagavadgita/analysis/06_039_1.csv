@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ewaw	2	ewanme	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	viSeRaNam,3	isa	this				
-2	me	3	0	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,3	mere	my				
-3	saMSayam	4	saMSayaM	saMSaya{puM}{2;eka}	saMSaya{puM}{2;eka}	karma,5.1	saMSaya_ko	doubt				
-4	kqRNa	1	kqRNa	kqRNa{puM}{8;eka}/kqRNa{napuM}{8;eka}	kqRNa{puM}{8;eka}	samboXyaH,5.1	he_SrIkqRNa	O_Krsna				
-5	Cewwum	6	CewwumarhasyaSeRawaH	Cix1{kqw_prawyayaH:wumun;Cixizr;ruXAxiH}	Cix1{kqw_prawyayaH:wumun;Cixizr;ruXAxiH}	sahAyakakriyA,5.1	Cexana_karane_ke_liye_yogya_hEM	requested_to_dispel				
-5.1	arhasi	7		arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}		aBihiwa_karwA						
-6	a-SeRawaH	5	0	a-SeRawaH	aSeRawaH{wasil}	kriyAviSeRaNam,5.1	sampUrNarUpa_se	completely	<na-SeRawaH>Tn			
-7	wvaw	10	wvaxanyaH	yuRmax{5;eka}	yuRmax{5;eka}	sanxarBa_binxuH,8	Apake_sivA	than_You				
-8	anyaH	11	0	anya{puM}{1;eka}	anya{puM}{1;eka}	karwA,14	xUsarA	without				
-9	saMSayasya	15	saMSayasyAsya	saMSaya{puM}{6;eka}	saMSaya{puM}{6;eka}	RaRTIsambanXaH,11	saMSaya_kA	of_the_doubt				
-10	asya	14	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	viSeRaNam,9	isa	of_this				
-11	CewwA	13	CewwA	CewwA{swrI}{1;eka}/Cewwq{puM}{1;eka}/Cix1{karwari;lut;pra;eka;parasmEpaxI;Cixizr;ruXAxiH}/Cix1{karwari;lut;pra;eka;AwmanepaxI;Cixizr;ruXAxiH}/Cix1{karmaNi;lut;pra;eka;AwmanepaxI;Cixizr;ruXAxiH}	Cix1{kqw_prawyayaH:kwa;Cixizr;ruXAxiH;swrI}{1;eka}	karwqsamAnAXikaraNam.14	Cexana_karanevAlA	remover				
-12	na	9	na	na{avya}	na{avya}	prawiReXaH,14	nahIM	never				
-13	hi	8	hyupapaxyawe	hi{avya}	hi{avya}	sambanXaH,14	kyoMki	certainly				
-14	upapaxyawe	12	0	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/upa_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	upa_pax1{karwari;lat;pra;eka;AwmanepaxI;upa_paxaz;xivAxiH}	aBihiwa_karwA,8	milanA_samBava_hE	to_be_found				
+1	एतत्	2	एतन्मे	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{2;एक}	विशेषणम्,3	इस	ट्हिस्				
+2	मे	3	0	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,3	मेरे	म्य्				
+3	संशयम्	4	संशयं	संशय{पुं}{2;एक}	संशय{पुं}{2;एक}	कर्म,5.1	संशय_को	डोउब्ट्				
+4	कृष्ण	1	कृष्ण	कृष्ण{पुं}{8;एक}/कृष्ण{नपुं}{8;एक}	कृष्ण{पुं}{8;एक}	सम्बोध्यः,5.1	हे_श्रीकृष्ण	औ_ख्र्स्न				
+5	छेत्तुम्	6	छेत्तुमर्हस्यशेषतः	छिद्1{कृत्_प्रत्ययः:तुमुन्;छिदिँर्;रुधादिः}	छिद्1{कृत्_प्रत्ययः:तुमुन्;छिदिँर्;रुधादिः}	सहायकक्रिया,5.1	छेदन_करने_के_लिये_योग्य_हैं	रेऋउएस्टेड्_टो_डिस्पेल्				
+5.1	अर्हसि	7		अर्ह्1{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;भ्वादिः}/अर्ह्2{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;चुरादिः}		अभिहित_कर्ता						
+6	अ-शेषतः	5	0	अ-शेषतः	अशेषतः{तसिल्}	क्रियाविशेषणम्,5.1	सम्पूर्णरूप_से	चोम्प्लेटेल्य्	<न-शेषतः>ठ्न्			
+7	त्वत्	10	त्वदन्यः	युष्मद्{5;एक}	युष्मद्{5;एक}	सन्दर्भ_बिन्दुः,8	आपके_सिवा	ट्हन्_Yओउ				
+8	अन्यः	11	0	अन्य{पुं}{1;एक}	अन्य{पुं}{1;एक}	कर्ता,14	दूसरा	तिट्होउट्				
+9	संशयस्य	15	संशयस्यास्य	संशय{पुं}{6;एक}	संशय{पुं}{6;एक}	षष्ठीसम्बन्धः,11	संशय_का	ओङ्_ट्हे_डोउब्ट्				
+10	अस्य	14	0	इदम्{पुं}{6;एक}/इदम्{नपुं}{6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	इदम्{पुं}{6;एक}	विशेषणम्,9	इस	ओङ्_ट्हिस्				
+11	छेत्ता	13	छेत्ता	छेत्ता{स्त्री}{1;एक}/छेत्तृ{पुं}{1;एक}/छिद्1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;छिदिँर्;रुधादिः}/छिद्1{कर्तरि;लुट्;प्र;एक;आत्मनेपदी;छिदिँर्;रुधादिः}/छिद्1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;छिदिँर्;रुधादिः}	छिद्1{कृत्_प्रत्ययः:क्त;छिदिँर्;रुधादिः;स्त्री}{1;एक}	कर्तृसमानाधिकरणम्।14	छेदन_करनेवाला	रेमोवेर्				
+12	न	9	न	न{अव्य}	न{अव्य}	प्रतिषेधः,14	नहीं	नेवेर्				
+13	हि	8	ह्युपपद्यते	हि{अव्य}	हि{अव्य}	सम्बन्धः,14	क्योंकि	चेर्टइन्ल्य्				
+14	उपपद्यते	12	0	उप_पद्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;पदँ;दिवादिः}/उप_पद्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;पदँ;दिवादिः}	उप_पद्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;उप_पदँ;दिवादिः}	अभिहित_कर्ता,8	मिलना_सम्भव_है	टो_बे_ङोउन्ड्				

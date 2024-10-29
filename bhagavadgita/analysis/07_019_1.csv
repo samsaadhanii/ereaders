@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	bahUnAm	3	bahUnAM	bahu{puM}{6;bahu}/bahu{swrI}{6;bahu}/bahu{napuM}{6;bahu}	bahu{napuM}{6;bahu}	viSeRaNam,2	bahuwa	many				
-2	janmanAm	4	janmanAmanwe	janman{napuM}{6;bahu}	janman{napuM}{6;bahu}	RaRTIsambanXaH,3	janmoM_ke	births				
-3	anwe	5	0	anwa{puM}{7;eka}/anwa{napuM}{1;xvi}/anwa{napuM}{2;xvi}/anwa{napuM}{7;eka}/anwA{swrI}{1;xvi}/anwA{swrI}{2;xvi}	anwa{puM}{7;eka}	aXikaraNam,6	anwa_ke_janma_meM	after				
-4	jFAnavAn	2	jFAnavAnmAM	jFAnavaw{puM}{1;eka}/jFAnavaw{puM}{1;eka}	jFAnavaw{puM}{1;eka}	karwA,6	wawwvajFAna_ko_prApwa_puruRa	he_possessing_knowledge				
-5	mAm	10	0	asmax{2;eka}	asmax{2;eka}	karma,6	muJako	unto_Me				
-6	prapaxyawe	11	prapaxyawe	pra_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/pra_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	pra_pax1{karwari;lat;pra;eka;AwmanepaxI;pra_paxaz;xivAxiH}	aBihiwa_karwA,4	BajawA_hE	surrenders				
-7	vAsuxevaH	6	vAsuxevaH	vAsuxeva{puM}{1;eka}	vAsuxeva{puM}{1;eka}	karwA,8.1	vAsuxeva	cause_of_all_causes				
-8	sarvam	7	sarvamiwi	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{puM}{2;eka}	viXeya_viSeRaNam,8.1	saba_kuCa	all				
-8.1	(aswi)	15	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	vAkyakarma,6	(hE)	is				
-9	iwi	8	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,8.1	isa_prakAra	thus				
-10	saH	12	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,12.1	vaha	such				
-11	mahAn-AwmA	13	mahAwmA	mahaw-Awman{puM}{1;eka}	mahAwman{puM}{1;eka}	viXeya_viSeRaNam,12.1	mahAwmA	great_soul	<mahaw-AwmA>Bs6			
-12	su-xurlaBaH	14	suxurlaBaH	suxurlaBa{puM}{1;eka}	su-xurlaBa{puM}{1;eka}	viSeRaNam,11	awyanwa_xurlaBa	very_rare				
-12.1	(aswi)	15	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	samucciwaH,8.1	(hE)	is				
-12.2	(ca)		()	ca{avya}	ca{avya}	samuccaya_xyowakaH,12.1						
+1	बहूनाम्	3	बहूनां	बहु{पुं}{6;बहु}/बहु{स्त्री}{6;बहु}/बहु{नपुं}{6;बहु}	बहु{नपुं}{6;बहु}	विशेषणम्,2	बहुत	मन्य्				
+2	जन्मनाम्	4	जन्मनामन्ते	जन्मन्{नपुं}{6;बहु}	जन्मन्{नपुं}{6;बहु}	षष्ठीसम्बन्धः,3	जन्मों_के	बिर्ट्ह्स्				
+3	अन्ते	5	0	अन्त{पुं}{7;एक}/अन्त{नपुं}{1;द्वि}/अन्त{नपुं}{2;द्वि}/अन्त{नपुं}{7;एक}/अन्ता{स्त्री}{1;द्वि}/अन्ता{स्त्री}{2;द्वि}	अन्त{पुं}{7;एक}	अधिकरणम्,6	अन्त_के_जन्म_में	अङ्टेर्				
+4	ज्ञानवान्	2	ज्ञानवान्मां	ज्ञानवत्{पुं}{1;एक}/ज्ञानवत्{पुं}{1;एक}	ज्ञानवत्{पुं}{1;एक}	कर्ता,6	तत्त्वज्ञान_को_प्राप्त_पुरुष	हे_पोस्सेस्सिन्ग्_क्नोत्लेड्गे				
+5	माम्	10	0	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,6	मुझको	उन्टो_ंए				
+6	प्रपद्यते	11	प्रपद्यते	प्र_पद्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;पदँ;दिवादिः}/प्र_पद्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;पदँ;दिवादिः}	प्र_पद्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;प्र_पदँ;दिवादिः}	अभिहित_कर्ता,4	भजता_है	सुर्रेन्डेर्स्				
+7	वासुदेवः	6	वासुदेवः	वासुदेव{पुं}{1;एक}	वासुदेव{पुं}{1;एक}	कर्ता,8.1	वासुदेव	चउसे_ओङ्_अल्ल्_चउसेस्				
+8	सर्वम्	7	सर्वमिति	सर्व{पुं}{2;एक}/सर्व{नपुं}{1;एक}/सर्व{नपुं}{2;एक}	सर्व{पुं}{2;एक}	विधेय_विशेषणम्,8.1	सब_कुछ	अल्ल्				
+8.1	(अस्ति)	15	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	वाक्यकर्म,6	(है)	इस्				
+9	इति	8	0	इति{अव्य}	इति{अव्य}	वाक्यकर्म_द्योतकः,8.1	इस_प्रकार	ट्हुस्				
+10	सः	12	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,12.1	वह	सुच्ह्				
+11	महान्-आत्मा	13	महात्मा	महत्-आत्मन्{पुं}{1;एक}	महात्मन्{पुं}{1;एक}	विधेय_विशेषणम्,12.1	महात्मा	ग्रेअट्_सोउल्	<महत्-आत्मा>भ्स्6			
+12	सु-दुर्लभः	14	सुदुर्लभः	सुदुर्लभ{पुं}{1;एक}	सु-दुर्लभ{पुं}{1;एक}	विशेषणम्,11	अत्यन्त_दुर्लभ	वेर्य्_ररे				
+12.1	(अस्ति)	15	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	समुच्चितः,8.1	(है)	इस्				
+12.2	(च)		()	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,12.1						

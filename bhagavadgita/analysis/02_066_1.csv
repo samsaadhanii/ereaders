@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	3	nAswi	na{avya}	na{avya}	prawiReXaH,2	nahIM	cannot				
-2	aswi	4	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,3;akarmakaH	howI	have				
-3	buxXiH	2	buxXirayukwasya	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,2	buxXi	determinate_intellect				
-4	a-yukwasya	1	0	ayukwa{puM}{6;eka}/ayukwa{napuM}{6;eka}	a-yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{6;eka}	RaRTIsambanXaH,3	ayukwa_kI	he_who_has_not_controlled_his_mind	<na-yukwasya>Tn			
-5	na	8	na	na{avya}	na{avya}	prawiReXaH,8.1	nahIM	not				
-6	ca	5	cAyukwasya	ca{avya}	ca{avya}	sambanXaH,8.1	Ora	and				
-7	a-yukwasya	6	0	ayukwa{puM}{6;eka}/ayukwa{napuM}{6;eka}	a-yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{6;eka}	RaRTIsambanXaH,8	ayukwa_manuRya_ke	he_who_has_not_controlled_his_mind	<na-yukwasya>Tn			
-8	BAvanA	7	BAvanA	BAvanA{swrI}{1;eka}	BAvanA{swrI}{1;eka}	karwA,8.1	BAvanA	contemplation				
-8.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,8;akarmakaH	(howI)	have				
-9	na	13	na	na{avya}	na{avya}	prawiReXaH,12.1	nahIM	not				
-10	ca	10	cABAvayawaH	ca{avya}	ca{avya}	sambanXaH,12.1	waWA	and				
-11	a-BAvayawaH	11	0	aBAvayawaH	a-BU1_Nic{kqw_prawyayaH:Sawq;BU_Nic;BvAxiH;puM}{6;eka}	RaRTIsambanXaH,12	BAvanAhIna_manuRya_ko	one_who_has_no_contemplation	<na-BAvayawaH>Tn			
-12	SAnwiH	12	SAnwiraSAnwasya	SAnwi{swrI}{1;eka}	SAnwi{swrI}{1;eka}	karwA,12.1	SAnwi	peace				
-12.1	(aswi)	14	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,12;akarmakaH	(hE)	is				
-13	a-SAnwasya	15	0	aSAnwa{puM}{6;eka}/aSAnwa{napuM}{6;eka}	aSAnwa{puM}{6;eka}	RaRTIsambanXaH,15	SAnwirahiwa_manuRya_ko	of_one_lacking_peace_of_mind	<na-SAnwasya>Tn			
-14	kuwaH	17	kuwaH	kuwaH{avya}/ku2{karwari;lat;pra;xvi;parasmEpaxI;ku;axAxiH}	kuwaH{avya}	kriyAviSeRaNam,15.1	kahAz	how_can				
-15	suKam	16	suKam	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{1;eka}	karwA,15.1	suKa	happiness				
-15.1	(aswi)	18	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,15;akarmakaH	(hE)	there_be				
+1	न	3	नास्ति	न{अव्य}	न{अव्य}	प्रतिषेधः,2	नहीं	चन्नोट्				
+2	अस्ति	4	0	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहित_कर्ता,3;अकर्मकः	होती	हवे				
+3	बुद्धिः	2	बुद्धिरयुक्तस्य	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	कर्ता,2	बुद्धि	डेटेर्मिनटे_इन्टेल्लेच्ट्				
+4	अ-युक्तस्य	1	0	अयुक्त{पुं}{6;एक}/अयुक्त{नपुं}{6;एक}	अ-युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{6;एक}	षष्ठीसम्बन्धः,3	अयुक्त_की	हे_त्हो_हस्_नोट्_चोन्ट्रोल्लेड्_हिस्_मिन्ड्	<न-युक्तस्य>ठ्न्			
+5	न	8	न	न{अव्य}	न{अव्य}	प्रतिषेधः,8.1	नहीं	नोट्				
+6	च	5	चायुक्तस्य	च{अव्य}	च{अव्य}	सम्बन्धः,8.1	और	अन्ड्				
+7	अ-युक्तस्य	6	0	अयुक्त{पुं}{6;एक}/अयुक्त{नपुं}{6;एक}	अ-युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{6;एक}	षष्ठीसम्बन्धः,8	अयुक्त_मनुष्य_के	हे_त्हो_हस्_नोट्_चोन्ट्रोल्लेड्_हिस्_मिन्ड्	<न-युक्तस्य>ठ्न्			
+8	भावना	7	भावना	भावना{स्त्री}{1;एक}	भावना{स्त्री}{1;एक}	कर्ता,8.1	भावना	चोन्टेम्प्लटिओन्				
+8.1	(अस्ति)	9	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,8;अकर्मकः	(होती)	हवे				
+9	न	13	न	न{अव्य}	न{अव्य}	प्रतिषेधः,12.1	नहीं	नोट्				
+10	च	10	चाभावयतः	च{अव्य}	च{अव्य}	सम्बन्धः,12.1	तथा	अन्ड्				
+11	अ-भावयतः	11	0	अभावयतः	अ-भू1_णिच्{कृत्_प्रत्ययः:शतृ;भू_णिच्;भ्वादिः;पुं}{6;एक}	षष्ठीसम्बन्धः,12	भावनाहीन_मनुष्य_को	ओने_त्हो_हस्_नो_चोन्टेम्प्लटिओन्	<न-भावयतः>ठ्न्			
+12	शान्तिः	12	शान्तिरशान्तस्य	शान्ति{स्त्री}{1;एक}	शान्ति{स्त्री}{1;एक}	कर्ता,12.1	शान्ति	पेअचे				
+12.1	(अस्ति)	14	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,12;अकर्मकः	(है)	इस्				
+13	अ-शान्तस्य	15	0	अशान्त{पुं}{6;एक}/अशान्त{नपुं}{6;एक}	अशान्त{पुं}{6;एक}	षष्ठीसम्बन्धः,15	शान्तिरहित_मनुष्य_को	ओङ्_ओने_लच्किन्ग्_पेअचे_ओङ्_मिन्ड्	<न-शान्तस्य>ठ्न्			
+14	कुतः	17	कुतः	कुतः{अव्य}/कु2{कर्तरि;लट्;प्र;द्वि;परस्मैपदी;कु;अदादिः}	कुतः{अव्य}	क्रियाविशेषणम्,15.1	कहाँ	होत्_चन्				
+15	सुखम्	16	सुखम्	सुखम्{अव्य}/सुख{पुं}{2;एक}/सुख{नपुं}{1;एक}/सुख{नपुं}{2;एक}	सुख{नपुं}{1;एक}	कर्ता,15.1	सुख	हप्पिनेस्स्				
+15.1	(अस्ति)	18	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,15;अकर्मकः	(है)	ट्हेरे_बे				

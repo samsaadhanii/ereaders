@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	3	na	na{avya}	na{avya}	prawiReXaH,4.1	nahIM	never				
-2	ca	10	ca	ca{avya}	ca{avya}	sambanXaH,4.1	Ora	also				
-3	maw-sWAni	2	mawsWAni	asmax-sWa{napuM}{1;bahu}/sWa{napuM}{2;bahu}/sWa{napuM}{8;bahu}/sWAnin{napuM}{1;eka}/sWAnin{napuM}{2;eka}	asmax-sWa{napuM}{1;bahu}	viXeya_viSeRaNam,4.1	muJameM_sWiwa	situated_in_Me	<asmaw-sWAni>U			
-4	BUwAni	1	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{1;bahu}	karwA,4.1	ve_saba_BUwa	all_creation				
-4.1	(sanwi)	4	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hEM)	are				
-5	paSya	8	paSya	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}		xeKa	just_see				
-6	me	5	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,7	merI	my				
-7	yogam	7	yogamESvaram	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,5	yogaSakwi_ko	mystic_power				
-8	ESvaram	6	0	ESvara{puM}{2;eka}/ESvara{napuM}{1;eka}/ESvara{napuM}{2;eka}	ESvara{puM}{2;eka}	viSeRaNam,7	ISvarIya	inconceivable				
-9	BUwa-Bqw	9	BUwaBqnna	BUwa-Bqw{napuM}/Bqw{puM}/Bqw{napuM}/Bqw{puM}	BUwa-Bqw{puM}{1;eka}	sup_samucciwaH,15	BUwoM_kA_XAraNa-poRaNa_karanevAlA	maintainer_of_all_living_entities	<BUwa-Bqw>U			
-10	na	16	0	na{avya}	na{avya}	prawiReXaH,15.1	nahIM	never				
-11	ca	12	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,15	BI	also				
-12	BUwa-sWaH	15	BUwasWo	BUwa-sWa{puM}{1;eka}	BUwa-sWa{puM}{1;eka}	sup_samucciwaH,15	BUwoM_meM_sWiwa	in_the_cosmic_manifestation	<BUwa-sWaH>U			
-13	mama	13	mamAwmA	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,14	merA	my				
-14	AwmA	14	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,15.1	AwmA	self				
-15	BUwa-BAvanaH	11	BUwaBAvanaH	BUwa-BAvana{puM}{1;eka}	BUwa-BAvana{puM}{1;eka}	viXeya_viSeRaNam,15.1	BUwoM_ko_uwpanna_karanevAlA	the_source_of_all_manifestations	<BUwa-BAvanaH>U			
-15.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})		(hE)	is				
+1	न	3	न	न{अव्य}	न{अव्य}	प्रतिषेधः,4.1	नहीं	नेवेर्				
+2	च	10	च	च{अव्य}	च{अव्य}	सम्बन्धः,4.1	और	अल्सो				
+3	मत्-स्थानि	2	मत्स्थानि	अस्मद्-स्थ{नपुं}{1;बहु}/स्थ{नपुं}{2;बहु}/स्थ{नपुं}{8;बहु}/स्थानिन्{नपुं}{1;एक}/स्थानिन्{नपुं}{2;एक}	अस्मद्-स्थ{नपुं}{1;बहु}	विधेय_विशेषणम्,4.1	मुझमें_स्थित	सिटुअटेड्_इन्_ंए	<अस्मत्-स्थानि>ऊ			
+4	भूतानि	1	भूतानि	भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}/भूत{नपुं}{8;बहु}	भूत{नपुं}{1;बहु}	कर्ता,4.1	वे_सब_भूत	अल्ल्_च्रेअटिओन्				
+4.1	(सन्ति)	4	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/सत्{नपुं}{8;बहु}/सन्ती{स्त्री}{8;एक}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,4;अकर्मकः	(हैं)	अरे				
+5	पश्य	8	पश्य	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}		देख	जुस्ट्_सेए				
+6	मे	5	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,7	मेरी	म्य्				
+7	योगम्	7	योगमैश्वरम्	योग{पुं}{2;एक}	योग{पुं}{2;एक}	कर्म,5	योगशक्ति_को	म्य्स्टिच्_पोतेर्				
+8	ऐश्वरम्	6	0	ऐश्वर{पुं}{2;एक}/ऐश्वर{नपुं}{1;एक}/ऐश्वर{नपुं}{2;एक}	ऐश्वर{पुं}{2;एक}	विशेषणम्,7	ईश्वरीय	इन्चोन्चेइवब्ले				
+9	भूत-भृत्	9	भूतभृन्न	भूत-भृत्{नपुं}/भृत्{पुं}/भृत्{नपुं}/भृत्{पुं}	भूत-भृत्{पुं}{1;एक}	सुप्_समुच्चितः,15	भूतों_का_धारण-पोषण_करनेवाला	मइन्टइनेर्_ओङ्_अल्ल्_लिविन्ग्_एन्टिटिएस्	<भूत-भृत्>ऊ			
+10	न	16	0	न{अव्य}	न{अव्य}	प्रतिषेधः,15.1	नहीं	नेवेर्				
+11	च	12	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,15	भी	अल्सो				
+12	भूत-स्थः	15	भूतस्थो	भूत-स्थ{पुं}{1;एक}	भूत-स्थ{पुं}{1;एक}	सुप्_समुच्चितः,15	भूतों_में_स्थित	इन्_ट्हे_चोस्मिच्_मनिङेस्टटिओन्	<भूत-स्थः>ऊ			
+13	मम	13	ममात्मा	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,14	मेरा	म्य्				
+14	आत्मा	14	0	आत्मन्{पुं}{1;एक}	आत्मन्{पुं}{1;एक}	कर्ता,15.1	आत्मा	सेल्ङ्				
+15	भूत-भावनः	11	भूतभावनः	भूत-भावन{पुं}{1;एक}	भूत-भावन{पुं}{1;एक}	विधेय_विशेषणम्,15.1	भूतों_को_उत्पन्न_करनेवाला	ट्हे_सोउर्चे_ओङ्_अल्ल्_मनिङेस्टटिओन्स्	<भूत-भावनः>ऊ			
+15.1	(अस्ति)	17	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})		(है)	इस्				

@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	brahmaNi	3	brahmaNyAXAya	brahman{puM}{7;eka}/brahman{napuM}{7;eka}	brahman{napuM}{7;eka}	aXikaraNam,2	paramAwmA_meM	the_Supreme_Personality_of_Godhead				
-2	AXAya	4	0	AXAya	Af_XA1{kqw_prawyayaH:lyap;Af_duXAF;juhowyAxiH}	pUrvakAlaH,6	arpaNa_karake	resigning_unto				
-3	karmANi	2	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}	karman{napuM}{2;bahu}	karma,2	saba_karmoM_ko	all_works				
-4	safgam	5	safgaM	safga{puM}{2;eka}	safga{puM}{2;eka}	karma,5	Asakwi_ko	attachment				
-5	wyakwvA	6	wyakwvA	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	pUrvakAlaH,6	wyAgakara	giving_up				
-6	karowi	7	karowi	kq3{karwari;lat;pra;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;pra;eka;parasmEpaxI;dukqF;wanAxiH}		karawA_hE	performs				
-7	yaH	1	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,6;niwya_sambanXaH,10	jo_(puruRa)	who				
-8	lipyawe	14	lipyawe	lip1{karmaNi;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	lip1{karwari;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}		lipwa_howA	is_affected				
-9	na	13	na	na{avya}	na{avya}	prawiReXaH,8	nahIM	never				
-10	saH	8	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,8	vaha_(puruRa)	he				
-11	pApena	12	pApena	pApa{puM}{3;eka}/pApa{napuM}{3;eka}	pApa{napuM}{3;eka}	karwA,8	pApa_se	by_sin				
-12	paxma-pawram	10	paxmapawramivAmBasA	paxmapawra{napuM}{1;eka}/paxmapawra{napuM}{2;eka}	paxma-pawra{napuM}{2;eka}	prawiyogI,13	kamala_ke_pawwe_kI	lotus_leaf	<paxma-pawram>T6			
-13	iva	11	0	iva{avya}	iva{avya}	anuyogI,8	BAzwi	like				
-14	amBasA	9	0	amBasA	amBas{napuM}{3;eka}	karaNam,8	jala_se	in_the_water				
+1	ब्रह्मणि	3	ब्रह्मण्याधाय	ब्रह्मन्{पुं}{7;एक}/ब्रह्मन्{नपुं}{7;एक}	ब्रह्मन्{नपुं}{7;एक}	अधिकरणम्,2	परमात्मा_में	ट्हे_शुप्रेमे_फेर्सोनलिट्य्_ओङ्_घोड्हेअड्				
+2	आधाय	4	0	आधाय	आङ्_धा1{कृत्_प्रत्ययः:ल्यप्;आङ्_डुधाञ्;जुहोत्यादिः}	पूर्वकालः,6	अर्पण_करके	रेसिग्निन्ग्_उन्टो				
+3	कर्माणि	2	कर्माणि	कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}	कर्मन्{नपुं}{2;बहु}	कर्म,2	सब_कर्मों_को	अल्ल्_तोर्क्स्				
+4	सङ्गम्	5	सङ्गं	सङ्ग{पुं}{2;एक}	सङ्ग{पुं}{2;एक}	कर्म,5	आसक्ति_को	अट्टच्ह्मेन्ट्				
+5	त्यक्त्वा	6	त्यक्त्वा	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	पूर्वकालः,6	त्यागकर	गिविन्ग्_उप्				
+6	करोति	7	करोति	कृ3{कर्तरि;लट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}		करता_है	पेर्ङोर्म्स्				
+7	यः	1	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,6;नित्य_सम्बन्धः,10	जो_(पुरुष)	त्हो				
+8	लिप्यते	14	लिप्यते	लिप्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;लिपँ;तुदादिः}	लिप्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;लिपँ;तुदादिः}		लिप्त_होता	इस्_अङ्ङेच्टेड्				
+9	न	13	न	न{अव्य}	न{अव्य}	प्रतिषेधः,8	नहीं	नेवेर्				
+10	सः	8	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्म,8	वह_(पुरुष)	हे				
+11	पापेन	12	पापेन	पाप{पुं}{3;एक}/पाप{नपुं}{3;एक}	पाप{नपुं}{3;एक}	कर्ता,8	पाप_से	ब्य्_सिन्				
+12	पद्म-पत्रम्	10	पद्मपत्रमिवाम्भसा	पद्मपत्र{नपुं}{1;एक}/पद्मपत्र{नपुं}{2;एक}	पद्म-पत्र{नपुं}{2;एक}	प्रतियोगी,13	कमल_के_पत्ते_की	लोटुस्_लेअङ्	<पद्म-पत्रम्>ठ्6			
+13	इव	11	0	इव{अव्य}	इव{अव्य}	अनुयोगी,8	भाँति	लिके				
+14	अम्भसा	9	0	अम्भसा	अम्भस्{नपुं}{3;एक}	करणम्,8	जल_से	इन्_ट्हे_तटेर्				

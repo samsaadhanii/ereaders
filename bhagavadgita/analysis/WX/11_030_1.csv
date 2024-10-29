@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	lelihyase	8	lelihyase	lelihyase	lih1_san{karwari;lat;ma;eka;parasmEpaxI;lihaz_san;axAxiH}	aBihiwa_karwA,17	bAra-bAra_cAta_rahe_hEM	licking				
+2	grasamAnaH	7	grasamAnaH	grasamAna{puM}{1;eka}	gras1{kqw_prawyayaH:SAnac;grasuz;BvAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,1	grAsa_karawe_hue	devouring				
+3	samanwAw	6	samanwAllokAnsamagrAnvaxanErjvalaxBiH	samanwAw{avya}/samanwa{puM}{5;eka}/samanwa{napuM}{5;eka}	samanwAw{avya}	kriyAviSeRaNam,2	saba_ora_se	from_all_directions				
+4	lokAn	2	0	loka{puM}{2;bahu}	loka{puM}{2;bahu}	karma,1	lokoM_ko	people				
+5	samagrAn	1	0	samagra{puM}{2;bahu}	samagra{puM}{2;bahu}	viSeRaNam,4	sampUrNa	completely				
+6	vaxanEH	4	0	vaxana{napuM}{3;bahu}	vaxana{napuM}{3;bahu}	karaNam,2	muKoM_xvArA	by_the_mouth				
+7	jvalaxBiH	3	0	jvalaw{puM}{3;bahu}/jvalaw{napuM}{3;bahu}	jvalaw{napuM}{3;bahu}	viSeRaNam,6	prajvaliwa	with_blazing				
+8	wejoBiH	15	wejoBirApUrya	wejas{napuM}{3;bahu}	wejas{napuM}{3;bahu}	karaNam,9	weja_ke_xvArA	by_effulgence				
+9	ApUrya	16	0	pUr2{avya;lyap;pUrIz;:curAxiH}/pUr1{avya;lyap;pUrIz;:xivAxiH}	Af_pUr1{avya;lyap;pUrIz;:xivAxiH}	pUrvakAlaH,15	paripUrNa_karake	covering				
+10	jagaw	14	jagawsamagraM	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,15	jagaw_ko	the_universe				
+11	samagram	13	0	samagra{puM}{2;eka}/samagra{napuM}{1;eka}/samagra{napuM}{2;eka}	samagra{napuM}{2;eka}	viSeRaNam,10	sampUrNa	all				
+12	BAsaH	12	BAsaswavogrAH	BAs{swrI}{1;bahu}/BAs{swrI}{2;bahu}/BAs{swrI}{5;eka}/BAs{swrI}{6;eka}/BAs{swrI}{8;bahu}/BAsa{puM}{1;eka}	BAs{swrI}{1;bahu}	karwA,15	prakASa	illuminating				
+13	wava	10	0	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,12	ApakA	Your				
+14	ugrAH	11	0	ugra{puM}{1;bahu}/ugra{puM}{8;bahu}/ugrA{swrI}{1;bahu}/ugrA{swrI}{2;bahu}/ugrA{swrI}{8;bahu}	ugrA{swrI}{1;bahu}	viSeRaNam,12	ugra	terrible				
+15	prawapanwi	17	prawapanwi	prawapaw{napuM}{1;bahu}/prawapaw{napuM}{2;bahu}/prawapaw{napuM}{8;bahu}	pra_wap1{karwari;lat;pra;bahu;parasmEpaxI;pra_wapaz;BvAxiH}	aBihiwa_karwA,12	wapA_rahA_hE	scorching				
+16	viRNo	9	viRNo	viRNu{puM}{8;eka}/viRNu{swrI}{8;eka}/viRNu{napuM}{8;eka}	viRNu{puM}{8;eka}	samboXyaH,15	he_viRNo	O_all-pervading_Lord				
+17	(wvam)	5	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,1	(Apa)	you				

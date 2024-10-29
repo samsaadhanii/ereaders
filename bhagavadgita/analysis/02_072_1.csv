@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	eRA	2	eRA	ewax{swrI}{1;eka}	ewax{swrI}{1;eka}	karwA,4.1	yaha	such				
-2	brAhmI	3	brAhmI	brAhmI{swrI}{1;eka}	brAhmI{swrI}{1;eka}	viSeRaNam,3	brahma_ko_prApwa_puruRa_kI	of_the_God-realized_soul				
-3	sWiwiH	4	sWiwiH	sWiwi{swrI}{1;eka}	sWiwi{swrI}{1;eka}	viXeya_viSeRaNam,4.1	sWiwi	state				
-4	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,4.1	he_arjuna	O_son_of_Prtha				
-4.1	(aswi)	5	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,1;akarmakaH	(hE)	is				
-5	na	9	nEnAM	na{avya}	na{avya}	prawiReXaH,8	nahIM	not				
-6	enAm	7	0	ixam{swrI}{2;eka}	ixam{swrI}{2;eka}	karma,7	isako (isa sWiwiko )	this_(state)				
-7	prApya	8	prApya	prApya{puM}{8;eka}/prApya{napuM}{8;eka}/pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,8	prApwa_hokara	having_reached				
-8	vimuhyawi	10	vimuhyawi	vi_muh1{karwari;lat;pra;eka;parasmEpaxI;muhaz;xivAxiH}	vi_muh1{karwari;lat;pra;eka;parasmEpaxI;vi_muhaz;xivAxiH}	aBihiwa_karwA,8;akarmakaH	mohiwa_howe	deluded				
-8.1	(saH)	6	(0)	(wax {puM}{1;eka})	(wax{puM}{1;eka})	karwA,8	(vaha)	he				
-9	sWiwvA	15	sWiwvAsyAmanwakAleZpi	sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH}	sWA1{kqw_prawyayaH:kwvA;RTA;BvAxiH}	pUrvakAlaH,14	sWiwa_hokara	established				
-10	asyAm	14	0	asi{swrI}{7;eka}/ixam{swrI}{7;eka}	ixam{swrI}{7;eka}	aXikaraNam,14	isameM	in_this				
-11	anwa-kAle	12	0	anwakAla{puM}{7;eka}	anwa-kAla{puM}{7;eka}	aXikaraNam,14	anwakAla_meM	at_the_last_moment	<anwa-kAle>T6			
-12	api	13	0	api{avya}	api{avya}	sambanXaH,11	BI	even				
-13	brahma-nirvANam	16	brahmanirvANamqcCawi	brahman-nirvANam	brahman-nirvANa{napuM}{2;eka}	karma,14	brahmAnanxa_ko	Brahmic_Bliss	<brahma-nirvANam>T7			
-14	qcCawi	17	0	qcCaw{puM}{7;eka}/qcCaw{napuM}{7;eka}/q1{karwari;lat;pra;eka;parasmEpaxI;q;BvAxiH}/qC1{karwari;lat;pra;eka;parasmEpaxI;qCaz;wuxAxiH}	q1{karwari;lat;pra;eka;parasmEpaxI;q;BvAxiH}	aBihiwa_karwA,14.1;sakarmakaH	prApwa_ho_jAwA_hE	attains				
-14.1	(saH)	11	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,14	(vaha)	he				
+1	एषा	2	एषा	एतद्{स्त्री}{1;एक}	एतद्{स्त्री}{1;एक}	कर्ता,4.1	यह	सुच्ह्				
+2	ब्राह्मी	3	ब्राह्मी	ब्राह्मी{स्त्री}{1;एक}	ब्राह्मी{स्त्री}{1;एक}	विशेषणम्,3	ब्रह्म_को_प्राप्त_पुरुष_की	ओङ्_ट्हे_घोड्-रेअलिँएड्_सोउल्				
+3	स्थितिः	4	स्थितिः	स्थिति{स्त्री}{1;एक}	स्थिति{स्त्री}{1;एक}	विधेय_विशेषणम्,4.1	स्थिति	स्टटे				
+4	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,4.1	हे_अर्जुन	औ_सोन्_ओङ्_फ्र्ट्ह				
+4.1	(अस्ति)	5	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,1;अकर्मकः	(है)	इस्				
+5	न	9	नैनां	न{अव्य}	न{अव्य}	प्रतिषेधः,8	नहीं	नोट्				
+6	एनाम्	7	0	इदम्{स्त्री}{2;एक}	इदम्{स्त्री}{2;एक}	कर्म,7	इसको (इस स्थितिको )	ट्हिस्_(स्टटे)				
+7	प्राप्य	8	प्राप्य	प्राप्य{पुं}{8;एक}/प्राप्य{नपुं}{8;एक}/प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्र_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}/प्रा_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्रा_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}	प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;प्र_आपॢँ;स्वादिः}	पूर्वकालः,8	प्राप्त_होकर	हविन्ग्_रेअच्हेड्				
+8	विमुह्यति	10	विमुह्यति	वि_मुह्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;मुहँ;दिवादिः}	वि_मुह्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;वि_मुहँ;दिवादिः}	अभिहित_कर्ता,8;अकर्मकः	मोहित_होते	डेलुडेड्				
+8.1	(सः)	6	(0)	(तद् {पुं}{1;एक})	(तद्{पुं}{1;एक})	कर्ता,8	(वह)	हे				
+9	स्थित्वा	15	स्थित्वास्यामन्तकालेऽपि	स्था1{कृत्_प्रत्ययः:क्त्वा;ष्ठा;भ्वादिः}	स्था1{कृत्_प्रत्ययः:क्त्वा;ष्ठा;भ्वादिः}	पूर्वकालः,14	स्थित_होकर	एस्टब्लिस्हेड्				
+10	अस्याम्	14	0	असि{स्त्री}{7;एक}/इदम्{स्त्री}{7;एक}	इदम्{स्त्री}{7;एक}	अधिकरणम्,14	इसमें	इन्_ट्हिस्				
+11	अन्त-काले	12	0	अन्तकाल{पुं}{7;एक}	अन्त-काल{पुं}{7;एक}	अधिकरणम्,14	अन्तकाल_में	अट्_ट्हे_लस्ट्_मोमेन्ट्	<अन्त-काले>ठ्6			
+12	अपि	13	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,11	भी	एवेन्				
+13	ब्रह्म-निर्वाणम्	16	ब्रह्मनिर्वाणमृच्छति	ब्रह्मन्-निर्वाणम्	ब्रह्मन्-निर्वाण{नपुं}{2;एक}	कर्म,14	ब्रह्मानन्द_को	भ्रह्मिच्_भ्लिस्स्	<ब्रह्म-निर्वाणम्>ठ्7			
+14	ऋच्छति	17	0	ऋच्छत्{पुं}{7;एक}/ऋच्छत्{नपुं}{7;एक}/ऋ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ऋ;भ्वादिः}/ऋछ्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ऋछँ;तुदादिः}	ऋ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ऋ;भ्वादिः}	अभिहित_कर्ता,14.1;सकर्मकः	प्राप्त_हो_जाता_है	अट्टइन्स्				
+14.1	(सः)	11	(0)	(तद्{पुं}{1;एक})	(तद्{पुं}{1;एक})	कर्ता,14	(वह)	हे				

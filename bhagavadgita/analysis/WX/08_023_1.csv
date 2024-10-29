@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	yawra	2	yawra	yawra{avya}	yawra{avya}	viSeRaNam,2	jisa	in_that				
+2	kAle	3	kAle	kAla{puM}{7;eka}/kAla{napuM}{1;xvi}/kAla{napuM}{2;xvi}/kAla{napuM}{7;eka}/kAla{napuM}{8;xvi}/kAlA{swrI}{1;xvi}/kAlA{swrI}{2;xvi}/kAlA{swrI}{8;eka}/kAlA{swrI}{8;xvi}	kAla{puM}{7;eka}	aXikaraNam,10	kAla_meM	time				
+3	wu	4	wvanAvqwwimAvqwwiM	wu{avya}	wu{avya}	sambanXaH,8	wo	but				
+4	an-Avqwwim	7	0	anAvqwwi{swrI}{2;eka}	na-Avqwwi{swrI}{2;eka}	sup_samucciwaH,5	vApasa_na_lOtanevAlI_gawi_ko	no_return	<na-Avqwwim>Tn			
+5	Avqwwim	8	0	Avqwwi{swrI}{2;eka}	Avqwwi{swrI}{2;eka}	karma,10	vApasa_lOtanevAlI_gawi_ko	return				
+6	ca	9	cEva	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
+7	eva	10	0	eva{avya}	eva{avya}	sambanXaH,9	hI	certainly				
+8	yoginaH	6	yoginaH	yogin{puM}{1;bahu}/yogin{puM}{2;bahu}/yogin{puM}{5;eka}/yogin{puM}{6;eka}/yogin{puM}{8;bahu}	yogin{puM}{1;bahu}	karwA,10	yogIjana	of_different_kinds_of_mystics				
+9	prayAwAH	5	prayAwA	prayAwA{swrI}{1;bahu}/prayAwA{swrI}{2;bahu}/prayAwA{swrI}{8;bahu}/prayAwA{swrI}{1;bahu}/prayAwA{swrI}{2;bahu}/prayAwA{swrI}{8;bahu}	prayAwa{puM}{1;bahu}	viSeRaNam,8	SarIra_wyAgakara_gaye_hue	one_who_goes				
+10	yAnwi	11	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwa_karwA,8	prApwa_howe_hEM	departs				
+11	wam	12	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	viSeRaNam,12	usa	that				
+12	kAlam	13	kAlaM	kAla{puM}{2;eka}/kAla{napuM}{1;eka}/kAla{napuM}{2;eka}	kAla{puM}{2;eka}	karma,13	kAla_ko_arWAw_xonoM_mArgoM_ko	time				
+13	vakRyAmi	14	vakRyAmi	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}/vah1{karwari;lqt;u;eka;parasmEpaxI;vahaz;BvAxiH}/brU1{karwari;lqt;u;eka;parasmEpaxI;brUF;axAxiH}	vac1{karwari;lqt;u;eka;parasmEpaxI;vacaz;axAxiH}	aBihiwa_karwA,13.1	kahUzgA	describing				
+13.1	(aham)	13.1	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,13	(mEM)	I				
+14	BarawarRaBa	1	BarawarRaBa	BarawarRaBa{puM}{8;eka}	BarawarRaBa{puM}{8;eka}	samboXyaH,10	he_arjuna	O_best_of_the_Bharatas				

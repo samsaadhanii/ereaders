@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaw	1	yaxyaxviBUwimawsawwvaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	vIpsA,2	jo	whatever				
-2	yaw	2	0	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karwA,8.1;niwya_sambanXaH,10	jo	whatever				
-3	vi-BUwimaw	4	0	vi-BUwi-asmax{5;eka}	viBUwimaw{napuM}{1;eka}	anyawaraH,6	viBUwiyukwa_arWAw_ESvaryayukwa	having_opulences	<vi-BUwi>Bvp^maw			
-4	sawwvam	8	0	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	anyawaraH,6	vaswu	existence				
-5	*SrImaw	5	SrImaxUrjiwameva	SrI-asmax{5;eka}	SrImaw{napuM}{1;eka}	anyawaraH,6	kAnwiyukwa	beautiful				
-6	Urjiwam	7	0	Urjiwa{puM}{2;eka}/Urjiwa{napuM}{1;eka}/Urjiwa{napuM}{2;eka}	Urjiwa{napuM}{1;eka}	viXeya_viSeRaNam,8.1	Sakwiyukwa	glorious				
-7	eva	3	0	eva{avya}	eva{avya}	sambanXaH,6	BI	certainly				
-8	vA	6	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,6	Ora	or				
-8.1	(aswi)	9	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,2;akarmakaH	(hE)	is				
-9	waw	10	wawwaxevAvagacCa	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	vIpsA,10	usako	all				
-10	waw	11	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karma,12	usako	those				
-11	eva	15	0	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
-12	avagacCa	17	0	ava_gam1{karwari;lot;ma;eka;parasmEpaxI;gamLz;BvAxiH}	ava_gam1{karwari;lot;ma;eka;parasmEpaxI;ava_gamLz;BvAxiH}	aBihiwAkarwA,13;sakarmakaH	jAna	must_know				
-13	wvam	16	wvaM	yuRmax{1;eka}	yuRmax{1;eka}	karwA,12	wU	you				
-14	mama	12	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,15	mere	my				
-15	wejaH	13	wejoMZSasamBavam	wejoMZSasamBavam	wejas-aMSa-sam_BU1{kqw_prawyayaH:ac;sam_BU;BvAxiH;napuM}{2;eka}	karmasamAnAXikaraNam,12	weja_ke_aMSa_kI_aBivyakwi	born_of_part_splendor	<<weja-aMSa>T6-samBavam>Bs6			
-16	aMSa-samBavam	14				viSeRaNam,15						
+1	यत्	1	यद्यद्विभूतिमत्सत्त्वं	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	वीप्सा,2	जो	त्हटेवेर्				
+2	यत्	2	0	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	कर्ता,8.1;नित्य_सम्बन्धः,10	जो	त्हटेवेर्				
+3	वि-भूतिमत्	4	0	वि-भूति-अस्मद्{5;एक}	विभूतिमत्{नपुं}{1;एक}	अन्यतरः,6	विभूतियुक्त_अर्थात्_ऐश्वर्ययुक्त	हविन्ग्_ओपुलेन्चेस्	<वि-भूति>भ्व्प्^मत्			
+4	सत्त्वम्	8	0	सत्त्व{पुं}{2;एक}/सत्त्व{नपुं}{1;एक}/सत्त्व{नपुं}{2;एक}/सत्त्व{नपुं}{1;एक}/सत्त्व{नपुं}{2;एक}	सत्त्व{नपुं}{1;एक}	अन्यतरः,6	वस्तु	एदिस्टेन्चे				
+5	*श्रीमत्	5	श्रीमदूर्जितमेव	श्री-अस्मद्{5;एक}	श्रीमत्{नपुं}{1;एक}	अन्यतरः,6	कान्तियुक्त	बेअउटिङुल्				
+6	ऊर्जितम्	7	0	ऊर्जित{पुं}{2;एक}/ऊर्जित{नपुं}{1;एक}/ऊर्जित{नपुं}{2;एक}	ऊर्जित{नपुं}{1;एक}	विधेय_विशेषणम्,8.1	शक्तियुक्त	ग्लोरिओउस्				
+7	एव	3	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,6	भी	चेर्टइन्ल्य्				
+8	वा	6	वा	वा{अव्य}	वा{अव्य}	अन्यतर_द्योतकः,6	और	ओर्				
+8.1	(अस्ति)	9	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,2;अकर्मकः	(है)	इस्				
+9	तत्	10	तत्तदेवावगच्छ	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	वीप्सा,10	उसको	अल्ल्				
+10	तत्	11	0	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्म,12	उसको	ट्होसे				
+11	एव	15	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,10	ही	चेर्टइन्ल्य्				
+12	अवगच्छ	17	0	अव_गम्1{कर्तरि;लोट्;म;एक;परस्मैपदी;गमॢँ;भ्वादिः}	अव_गम्1{कर्तरि;लोट्;म;एक;परस्मैपदी;अव_गमॢँ;भ्वादिः}	अभिहिताकर्ता,13;सकर्मकः	जान	मुस्ट्_क्नोत्				
+13	त्वम्	16	त्वं	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,12	तू	योउ				
+14	मम	12	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,15	मेरे	म्य्				
+15	तेजः	13	तेजोंऽशसम्भवम्	तेजोंऽशसम्भवम्	तेजस्-अंश-सम्_भू1{कृत्_प्रत्ययः:अच्;सम्_भू;भ्वादिः;नपुं}{2;एक}	कर्मसमानाधिकरणम्,12	तेज_के_अंश_की_अभिव्यक्ति	बोर्न्_ओङ्_पर्ट्_स्प्लेन्डोर्	<<तेज-अंश>ठ्6-सम्भवम्>भ्स्6			
+16	अंश-सम्भवम्	14				विशेषणम्,15						

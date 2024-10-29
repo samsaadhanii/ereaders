@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xUreNa	4	xUreNa	xUreNa{avya}/xUra{puM}{3;eka}/xUra{napuM}{3;eka}	xUreNa{avya}	aXikaraNam,6.1	awyanwa	far				
-2	hi	11	hyavaraM	hi{avya}	hi{avya}	sambanXaH,6.1	kyoMki	for				
-3	avaram	5	0	avara{puM}{2;eka}/avara{napuM}{1;eka}/avara{napuM}{2;eka}/avara{puM}{2;eka}/avara{napuM}{1;eka}/avara{napuM}{2;eka}	avara{napuM}{1;eka}	viXeya_viSeRaNam,6.1	nimna_SreNI_kA	inferior_to				
-4	karma	2	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwA,6.1	sakAma_karma	action_with_a_selfish_motive				
-5	buxXi-yogAw	3	buxXiyogAxXanaFjaya	buxXi-yoga{puM}{5;eka}	buxXi-yoga{puM}{5;eka}	upapaxasambanXaH,1	buxXiyoga_se	this_Yoga_in_the_form_of_equanimity	<buxXi-yogAw>T6			
-6	XanaFjaya	1	0	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,6.1	he_XanaMjaya	O_Dhananjaya				
-6.1	(aswi)	6	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hE)	is				
-7	buxXO	8	buxXO	buxXa{puM}{1;xvi}/buxXa{puM}{2;xvi}/buxXa{puM}{8;xvi}/buxXi{swrI}{7;eka}	buxXi{swrI}{7;eka}	aXikaraNam,9	samabuxXi_meM	in_this_equipoise_of_mind				
-8	SaraNam	9	SaraNamanvicCa	SaraNa{napuM}{1;eka}/SaraNa{napuM}{2;eka}	SaraNa{napuM}{2;eka}	karma,9	rakRA_kA_upAya	refuge				
-9	anvicCa	10	0	anu_iR2{karwari;lot;ma;eka;parasmEpaxI;iRuz;wuxAxiH}	anu_iR2{karwari;lot;ma;eka;parasmEpaxI;anu_iRuz;wuxAxiH}	aBihiwakarwA,9.1;akarmakaH	DUzDa़o	do_seek				
-9.1	(wvam)	7	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,9	(wuma)	you				
-10	kqpaNAH	13	kqpaNAH	kqpaNa{puM}{1;bahu}/kqpaNa{puM}{8;bahu}	kqpaNa{puM}{1;bahu}	viXeya_viSeRaNam,11.1	awyanwa_xIna	poor_and_wretched				
-11	Pala-hewavaH	12	PalahewavaH	Pala-hewu{puM}{1;bahu}/hewu{puM}{8;bahu}	Pala-hewu{puM}{1;bahu}	karwA,11.1	Pala_ke_hewu	those_who_are_instrumental_in_making_their_actions_bear_fruit	<Pala-hewavaH>Bs6			
-11.1	(Bavanwi)	14	(0)	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka})	(BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,11;akarmakaH	(howe_hEM)	are				
+1	दूरेण	4	दूरेण	दूरेण{अव्य}/दूर{पुं}{3;एक}/दूर{नपुं}{3;एक}	दूरेण{अव्य}	अधिकरणम्,6.1	अत्यन्त	ङर्				
+2	हि	11	ह्यवरं	हि{अव्य}	हि{अव्य}	सम्बन्धः,6.1	क्योंकि	ङोर्				
+3	अवरम्	5	0	अवर{पुं}{2;एक}/अवर{नपुं}{1;एक}/अवर{नपुं}{2;एक}/अवर{पुं}{2;एक}/अवर{नपुं}{1;एक}/अवर{नपुं}{2;एक}	अवर{नपुं}{1;एक}	विधेय_विशेषणम्,6.1	निम्न_श्रेणी_का	इन्ङेरिओर्_टो				
+4	कर्म	2	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{1;एक}	कर्ता,6.1	सकाम_कर्म	अच्टिओन्_तिट्ह्_अ_सेल्ङिस्ह्_मोटिवे				
+5	बुद्धि-योगात्	3	बुद्धियोगाद्धनञ्जय	बुद्धि-योग{पुं}{5;एक}	बुद्धि-योग{पुं}{5;एक}	उपपदसम्बन्धः,1	बुद्धियोग_से	ट्हिस्_Yओग_इन्_ट्हे_ङोर्म्_ओङ्_एऋउअनिमिट्य्	<बुद्धि-योगात्>ठ्6			
+6	धनञ्जय	1	0	धनञ्जय{पुं}{8;एक}	धनञ्जय{पुं}{8;एक}	सम्बोध्यः,6.1	हे_धनंजय	औ_ढ्हनन्जय				
+6.1	(अस्ति)	6	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,4;अकर्मकः	(है)	इस्				
+7	बुद्धौ	8	बुद्धौ	बुद्ध{पुं}{1;द्वि}/बुद्ध{पुं}{2;द्वि}/बुद्ध{पुं}{8;द्वि}/बुद्धि{स्त्री}{7;एक}	बुद्धि{स्त्री}{7;एक}	अधिकरणम्,9	समबुद्धि_में	इन्_ट्हिस्_एऋउइपोइसे_ओङ्_मिन्ड्				
+8	शरणम्	9	शरणमन्विच्छ	शरण{नपुं}{1;एक}/शरण{नपुं}{2;एक}	शरण{नपुं}{2;एक}	कर्म,9	रक्षा_का_उपाय	रेङुगे				
+9	अन्विच्छ	10	0	अनु_इष्2{कर्तरि;लोट्;म;एक;परस्मैपदी;इषुँ;तुदादिः}	अनु_इष्2{कर्तरि;लोट्;म;एक;परस्मैपदी;अनु_इषुँ;तुदादिः}	अभिहितकर्ता,9.1;अकर्मकः	ढूँढॆअञओ	डो_सेएक्				
+9.1	(त्वम्)	7	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,9	(तुम)	योउ				
+10	कृपणाः	13	कृपणाः	कृपण{पुं}{1;बहु}/कृपण{पुं}{8;बहु}	कृपण{पुं}{1;बहु}	विधेय_विशेषणम्,11.1	अत्यन्त_दीन	पोओर्_अन्ड्_त्रेट्च्हेड्				
+11	फल-हेतवः	12	फलहेतवः	फल-हेतु{पुं}{1;बहु}/हेतु{पुं}{8;बहु}	फल-हेतु{पुं}{1;बहु}	कर्ता,11.1	फल_के_हेतु	ट्होसे_त्हो_अरे_इन्स्ट्रुमेन्टल्_इन्_मकिन्ग्_ट्हेइर्_अच्टिओन्स्_बेअर्_ङ्रुइट्	<फल-हेतवः>भ्स्6			
+11.1	(भवन्ति)	14	(0)	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}/भवन्ती{स्त्री}{8;एक})	(भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,11;अकर्मकः	(होते_हैं)	अरे				

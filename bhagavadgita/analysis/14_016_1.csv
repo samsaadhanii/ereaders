@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	karmaNaH	2	karmaNaH	karman{napuM}{5;eka}/karman{napuM}{6;eka}	karman{napuM}{6;eka}	RaRTIsambanXaH,4	karma_kA	of_work				
-2	su-kqwasya	1	sukqwasyAhuH	sukqwa{napuM}{6;eka}	sukqwa{napuM}{6;eka}	viSeRaNam,1	SreRTa	in_the_mode_of_goodness	<su-kqwasya>K1			
-3	AhuH	6	0	ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;pra;bahu;parasmEpaxI;brUF;axAxiH}		kahA_hE	said				
-4	sAwwvikam	3	sAwvikaM	sAwvikam	sAwwvika{napuM}{2;eka}	viSeRaNam,6	sAwwvika	mode_of_goodness				
-5	nir-malaM	4	nirmalaM	nirmala{puM}{2;eka}/nirmala{napuM}{1;eka}/nirmala{napuM}{2;eka}	nirmala{napuM}{2;eka}	viSeRaNam,6	nirmala	purified	<nir-malaM>Bvp			
-6	Palam	5	Palam	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karma,3	Pala	result				
-7	rajasaH	8	rajasaswu	rajas{puM}{1;bahu}/rajas{puM}{2;bahu}/rajas{puM}{5;eka}/rajas{puM}{6;eka}/rajas{napuM}{5;eka}/rajas{napuM}{6;eka}	rajas{napuM}{6;eka}	RaRTIsambanXaH,9	rAjasa_karma_kA	of_the_mode_of_passion				
-8	wu	7	0	wu{avya}	wu{avya}	sambanXaH,10.1	kinwu	but				
-9	Palam	9	PalaM	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karwA,10.1	Pala	result				
-10	xuHKam	10	xuHKamajFAnaM	xuHKa{napuM}{1;eka}/xuHKa{napuM}{2;eka}	xuHKa{napuM}{2;eka}	viXeya_viSeRaNam,10.1	xuHKa	misery				
-10.1	(AhuH)	11	(0)	(ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH})	(brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH})		(kahA_hE)	said				
-11	a-jFAnam	14	0	ajFAna{napuM}{1;eka}/ajFAna{napuM}{2;eka}	ajFAna{napuM}{2;eka}	viXeya_viSeRaNam,13.1	ajFAna	nonsense	<na-jFAnam>Tn			
-12	wamasaH	12	wamasaH	wamas{napuM}{5;eka}/wamas{napuM}{6;eka}/wamasa{puM}{1;eka}	wamas{napuM}{6;eka}	RaRTIsambanXaH,11	wAmasa_karma_kA	of_the_mode_of_ignorance				
-13	Palam	13	Palam	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{2;eka}	karwA,13.1	Pala	result				
-13.1	(AhuH)	15	(0)	(ah1{karwari;lit;pra;bahu;parasmEpaxI;ahaz;svAxiH}/brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH})	(brU1{karwari;lat;pra;bahu;AwmanepaxI;brUF;axAxiH})		(kahA_hE)	said				
+1	कर्मणः	2	कर्मणः	कर्मन्{नपुं}{5;एक}/कर्मन्{नपुं}{6;एक}	कर्मन्{नपुं}{6;एक}	षष्ठीसम्बन्धः,4	कर्म_का	ओङ्_तोर्क्				
+2	सु-कृतस्य	1	सुकृतस्याहुः	सुकृत{नपुं}{6;एक}	सुकृत{नपुं}{6;एक}	विशेषणम्,1	श्रेष्ठ	इन्_ट्हे_मोडे_ओङ्_गोओड्नेस्स्	<सु-कृतस्य>ख्1			
+3	आहुः	6	0	अह्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;अहँ;स्वादिः}/ब्रू1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;ब्रूञ्;अदादिः}	ब्रू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ब्रूञ्;अदादिः}		कहा_है	सइड्				
+4	सात्त्विकम्	3	सात्विकं	सात्विकम्	सात्त्विक{नपुं}{2;एक}	विशेषणम्,6	सात्त्विक	मोडे_ओङ्_गोओड्नेस्स्				
+5	निर्-मलं	4	निर्मलं	निर्मल{पुं}{2;एक}/निर्मल{नपुं}{1;एक}/निर्मल{नपुं}{2;एक}	निर्मल{नपुं}{2;एक}	विशेषणम्,6	निर्मल	पुरिङिएड्	<निर्-मलं>भ्व्प्			
+6	फलम्	5	फलम्	फल{नपुं}{1;एक}/फल{नपुं}{2;एक}	फल{नपुं}{2;एक}	कर्म,3	फल	रेसुल्ट्				
+7	रजसः	8	रजसस्तु	रजस्{पुं}{1;बहु}/रजस्{पुं}{2;बहु}/रजस्{पुं}{5;एक}/रजस्{पुं}{6;एक}/रजस्{नपुं}{5;एक}/रजस्{नपुं}{6;एक}	रजस्{नपुं}{6;एक}	षष्ठीसम्बन्धः,9	राजस_कर्म_का	ओङ्_ट्हे_मोडे_ओङ्_पस्सिओन्				
+8	तु	7	0	तु{अव्य}	तु{अव्य}	सम्बन्धः,10.1	किन्तु	बुट्				
+9	फलम्	9	फलं	फल{नपुं}{1;एक}/फल{नपुं}{2;एक}	फल{नपुं}{2;एक}	कर्ता,10.1	फल	रेसुल्ट्				
+10	दुःखम्	10	दुःखमज्ञानं	दुःख{नपुं}{1;एक}/दुःख{नपुं}{2;एक}	दुःख{नपुं}{2;एक}	विधेय_विशेषणम्,10.1	दुःख	मिसेर्य्				
+10.1	(आहुः)	11	(0)	(अह्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;अहँ;स्वादिः}/ब्रू1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;ब्रूञ्;अदादिः})	(ब्रू1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;ब्रूञ्;अदादिः})		(कहा_है)	सइड्				
+11	अ-ज्ञानम्	14	0	अज्ञान{नपुं}{1;एक}/अज्ञान{नपुं}{2;एक}	अज्ञान{नपुं}{2;एक}	विधेय_विशेषणम्,13.1	अज्ञान	नोन्सेन्से	<न-ज्ञानम्>ठ्न्			
+12	तमसः	12	तमसः	तमस्{नपुं}{5;एक}/तमस्{नपुं}{6;एक}/तमस{पुं}{1;एक}	तमस्{नपुं}{6;एक}	षष्ठीसम्बन्धः,11	तामस_कर्म_का	ओङ्_ट्हे_मोडे_ओङ्_इग्नोरन्चे				
+13	फलम्	13	फलम्	फल{नपुं}{1;एक}/फल{नपुं}{2;एक}	फल{नपुं}{2;एक}	कर्ता,13.1	फल	रेसुल्ट्				
+13.1	(आहुः)	15	(0)	(अह्1{कर्तरि;लिट्;प्र;बहु;परस्मैपदी;अहँ;स्वादिः}/ब्रू1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;ब्रूञ्;अदादिः})	(ब्रू1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;ब्रूञ्;अदादिः})		(कहा_है)	सइड्				

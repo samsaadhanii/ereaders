@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	eRA	2	eRA	ewax{swrI}{1;eka}	ewax{swrI}{1;eka}	viSeRaNam,5	yaha	this				
-2	we	4	weZBihiwA	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,3	wumhAre_liye	to_you				
-3	aBihiwA	6	0	aBihiwA{swrI}{1;eka}	aBi_XA1{kqw_prawyayaH:kwa;aBi_duXAF;juhowyAxiH;swrI}{1;eka}	aBihiwakarma,5;sakarmakaH	kahI_gayI	has_been_presented				
-4	sAfKye	5	sAfKye	sAfKya{puM}{7;eka}/sAfKya{napuM}{1;xvi}/sAfKya{napuM}{2;xvi}/sAfKya{napuM}{7;eka}/sAfKya{napuM}{8;xvi}/sAfKyA{swrI}{1;xvi}/sAfKyA{swrI}{2;xvi}/sAfKyA{swrI}{8;eka}/sAfKyA{swrI}{8;xvi}	sAfKya{napuM}{7;eka}	aXikaraNam,3	jFAnayoga_ke_viRaya_meM	from_the_point_of_view_of_sankhya_(i.e._knowledge)				
-5	buxXiH	3	buxXiryoge	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karma,3	buxXi	attitude_of_mind				
-6	yoge	9	0	yoga{puM}{7;eka}	yoga{puM}{7;eka}	aXikaraNam,9	karmayoga_ke_viRaya_meM	from_the_standpoint_of_yoga_(i.e._selfless_action)				
-7	wu	7	wvimAM	wu{avya}	wu{avya}	sambanXaH,9	wo	now				
-8	imAm	10	0	ixam{swrI}{2;eka}	ixam{swrI}{2;eka}	viSeRaNam,9.1	isako	this				
-9	SqNu	12	SqNu	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lot;ma;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarma,9.2;sakarmakaH	suno	hear				
-9.1	(buxXim)	11	(0)	(buxXi{swrI}{2;eka})	(buxXi{swrI}{2;eka})	karma,9	(buxXi_ko)	attitude_of_mind				
-9.2	(wvam)	8	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,9	(wuma)	you				
-10	buxXyA	14	buxXyA	buxXi{swrI}{3;eka}	buxXi{swrI}{3;eka}	karaNam,11	buxXi_se	by_attitude_of_mind				
-11	yukwaH	15	yukwo	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	viSeRaNam,15.1	yukwa_hue	equipped_with				
-12	yayA	13	yayA	yax{swrI}{3;eka}	yax{swrI}{3;eka}	viSeRaNam,10	jisa	by_which				
-13	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,3	he_pArWa	O_son_of_Prtha				
-14	karma-banXam	17	karmabanXaM	karman-banXa{puM}{2;eka}	karman-banXa{puM}{2;eka}	karma,15	karmoM_ke_banXana_ko	shackles_of_Karma	<karma-banXanaH>K6			
-15	prahAsyasi	18	prahAsyasi	pra_hA1{karwari;lqt;ma;eka;AwmanepaxI;ozhAf;juhowyAxiH}/pra_hA2{karwari;lqt;ma;eka;parasmEpaxI;ozhAk;juhowyAxiH}	pra_hA2{karwari;lqt;ma;eka;parasmEpaxI;pra_ozhAf;juhowyAxiH}	aBihiwakarwA,15.1;sakarmakaH	Coda़_xoge	able_to_throw_off_completely				
-15.1	(wvam)	16	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,15	(wuma)	you				
+1	एषा	2	एषा	एतद्{स्त्री}{1;एक}	एतद्{स्त्री}{1;एक}	विशेषणम्,5	यह	ट्हिस्				
+2	ते	4	तेऽभिहिता	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	सम्प्रदानम्,3	तुम्हारे_लिये	टो_योउ				
+3	अभिहिता	6	0	अभिहिता{स्त्री}{1;एक}	अभि_धा1{कृत्_प्रत्ययः:क्त;अभि_डुधाञ्;जुहोत्यादिः;स्त्री}{1;एक}	अभिहितकर्म,5;सकर्मकः	कही_गयी	हस्_बेएन्_प्रेसेन्टेड्				
+4	साङ्ख्ये	5	साङ्ख्ये	साङ्ख्य{पुं}{7;एक}/साङ्ख्य{नपुं}{1;द्वि}/साङ्ख्य{नपुं}{2;द्वि}/साङ्ख्य{नपुं}{7;एक}/साङ्ख्य{नपुं}{8;द्वि}/साङ्ख्या{स्त्री}{1;द्वि}/साङ्ख्या{स्त्री}{2;द्वि}/साङ्ख्या{स्त्री}{8;एक}/साङ्ख्या{स्त्री}{8;द्वि}	साङ्ख्य{नपुं}{7;एक}	अधिकरणम्,3	ज्ञानयोग_के_विषय_में	ङ्रोम्_ट्हे_पोइन्ट्_ओङ्_विएत्_ओङ्_सन्क्ह्य_(इ.ए._क्नोत्लेड्गे)				
+5	बुद्धिः	3	बुद्धिर्योगे	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	कर्म,3	बुद्धि	अट्टिटुडे_ओङ्_मिन्ड्				
+6	योगे	9	0	योग{पुं}{7;एक}	योग{पुं}{7;एक}	अधिकरणम्,9	कर्मयोग_के_विषय_में	ङ्रोम्_ट्हे_स्टन्ड्पोइन्ट्_ओङ्_योग_(इ.ए._सेल्ङ्लेस्स्_अच्टिओन्)				
+7	तु	7	त्विमां	तु{अव्य}	तु{अव्य}	सम्बन्धः,9	तो	नोत्				
+8	इमाम्	10	0	इदम्{स्त्री}{2;एक}	इदम्{स्त्री}{2;एक}	विशेषणम्,9.1	इसको	ट्हिस्				
+9	शृणु	12	शृणु	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	श्रु1{कर्तरि;लोट्;म;एक;परस्मैपदी;श्रु;भ्वादिः}	अभिहितकर्म,9.2;सकर्मकः	सुनो	हेअर्				
+9.1	(बुद्धिम्)	11	(0)	(बुद्धि{स्त्री}{2;एक})	(बुद्धि{स्त्री}{2;एक})	कर्म,9	(बुद्धि_को)	अट्टिटुडे_ओङ्_मिन्ड्				
+9.2	(त्वम्)	8	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,9	(तुम)	योउ				
+10	बुद्ध्या	14	बुद्ध्या	बुद्धि{स्त्री}{3;एक}	बुद्धि{स्त्री}{3;एक}	करणम्,11	बुद्धि_से	ब्य्_अट्टिटुडे_ओङ्_मिन्ड्				
+11	युक्तः	15	युक्तो	युक्त{पुं}{1;एक}	युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{1;एक}	विशेषणम्,15.1	युक्त_हुए	एऋउइप्पेड्_तिट्ह्				
+12	यया	13	यया	यद्{स्त्री}{3;एक}	यद्{स्त्री}{3;एक}	विशेषणम्,10	जिस	ब्य्_त्हिच्ह्				
+13	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,3	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह				
+14	कर्म-बन्धम्	17	कर्मबन्धं	कर्मन्-बन्ध{पुं}{2;एक}	कर्मन्-बन्ध{पुं}{2;एक}	कर्म,15	कर्मों_के_बन्धन_को	स्हच्क्लेस्_ओङ्_खर्म	<कर्म-बन्धनः>ख्6			
+15	प्रहास्यसि	18	प्रहास्यसि	प्र_हा1{कर्तरि;लृट्;म;एक;आत्मनेपदी;ओँहाङ्;जुहोत्यादिः}/प्र_हा2{कर्तरि;लृट्;म;एक;परस्मैपदी;ओँहाक्;जुहोत्यादिः}	प्र_हा2{कर्तरि;लृट्;म;एक;परस्मैपदी;प्र_ओँहाङ्;जुहोत्यादिः}	अभिहितकर्ता,15.1;सकर्मकः	छोडॆअञ_दोगे	अब्ले_टो_ट्ह्रोत्_ओङ्ङ्_चोम्प्लेटेल्य्				
+15.1	(त्वम्)	16	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,15	(तुम)	योउ				

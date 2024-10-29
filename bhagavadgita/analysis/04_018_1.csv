@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	karmaNi	2	karmaNyakarma	karman{napuM}{7;eka}	karman{napuM}{7;eka}	aXikaraNam,4	karma_meM	in_action				
-2	a-karma	3		a-karman{napuM}{1;eka}/karman{napuM}{2;eka}	na-karman{napuM}{2;eka}	karma,4	akarma	inaction	<na-karma>Tn			
-3	yaH	1	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,4;niwya_sambanXaH,9	jo_(manuRya)	one_who				
-4	paSyew	4	paSyexakarmaNi	xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,3	xeKawA_hE	observes				
-5	a-karmaNi	7		a-karman{napuM}{7;eka}	na-karman{napuM}{7;eka}	aXikaraNam,8.1	akarma_meM	in_inaction	<na-karmaNi>Tn			
-6	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,8.1	Ora	also				
-7	karma	8	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8.1	karma	fruitive_action				
-8	yaH	6	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,8.1	jo	one_who				
-8.1	(paSyew)	9	(xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH})		(xqS1{karwari;viXilif;pra;eka;parasmEpaxI;xqSizr;BvAxiH})	samucciwaH,4;aBihiwa_karwA,8	(xeKawA_hE)	(xeKawA_hE)				
-9	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,11.1	vaha	he				
-10	buxXimAn	12	buxXimAnmanuRyeRu	buxXimaw{puM}{1;eka}	buxXimaw{puM}{1;eka}	viXeya_viSeRaNam,11.1	buxXimAn	intelligent				
-11	manuRyeRu	11		manuRya{puM}{7;bahu}	manuRya{puM}{7;bahu}	nirXAraNam,9	manuRyoM_meM	in_human_society				
-11.1	(aswi)	13	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,9	(hE)	is				
-12	saH	14	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,13	vaha	he				
-13	yukwaH	15	yukwaH	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	karwA,14.1	yogI	in_the_transcendental_position				
-14	kqwsna-karma-kqw	16	kqwsnakarmakqw	kqwsna-karman-kqw{puM}{1;eka}/kqw{puM}{8;eka}	kqwsna-karman-kqw{puM}{1;eka}	viXeya_viSeRaNam,14.1	samaswa_karmoM_ko_karanevAlA	although_engaged_in_all_activities	<<kqwsna-karma>K1-kqw>U			
-14.1	(aswi)	17	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,12	(hE)	is				
+1	कर्मणि	2	कर्मण्यकर्म	कर्मन्{नपुं}{7;एक}	कर्मन्{नपुं}{7;एक}	अधिकरणम्,4	कर्म_में	इन्_अच्टिओन्				
+2	अ-कर्म	3		अ-कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	न-कर्मन्{नपुं}{2;एक}	कर्म,4	अकर्म	इनच्टिओन्	<न-कर्म>ठ्न्			
+3	यः	1	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,4;नित्य_सम्बन्धः,9	जो_(मनुष्य)	ओने_त्हो				
+4	पश्येत्	4	पश्येदकर्मणि	दृश्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहित_कर्ता,3	देखता_है	ओब्सेर्वेस्				
+5	अ-कर्मणि	7		अ-कर्मन्{नपुं}{7;एक}	न-कर्मन्{नपुं}{7;एक}	अधिकरणम्,8.1	अकर्म_में	इन्_इनच्टिओन्	<न-कर्मणि>ठ्न्			
+6	च	5	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8.1	और	अल्सो				
+7	कर्म	8	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,8.1	कर्म	ङ्रुइटिवे_अच्टिओन्				
+8	यः	6	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,8.1	जो	ओने_त्हो				
+8.1	(पश्येत्)	9	(दृश्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः})		(दृश्1{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः})	समुच्चितः,4;अभिहित_कर्ता,8	(देखता_है)	(देखता_है)				
+9	सः	10	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,11.1	वह	हे				
+10	बुद्धिमान्	12	बुद्धिमान्मनुष्येषु	बुद्धिमत्{पुं}{1;एक}	बुद्धिमत्{पुं}{1;एक}	विधेय_विशेषणम्,11.1	बुद्धिमान्	इन्टेल्लिगेन्ट्				
+11	मनुष्येषु	11		मनुष्य{पुं}{7;बहु}	मनुष्य{पुं}{7;बहु}	निर्धारणम्,9	मनुष्यों_में	इन्_हुमन्_सोचिएट्य्				
+11.1	(अस्ति)	13	()	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,9	(है)	इस्				
+12	सः	14	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	विशेषणम्,13	वह	हे				
+13	युक्तः	15	युक्तः	युक्त{पुं}{1;एक}	युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{1;एक}	कर्ता,14.1	योगी	इन्_ट्हे_ट्रन्स्चेन्डेन्टल्_पोसिटिओन्				
+14	कृत्स्न-कर्म-कृत्	16	कृत्स्नकर्मकृत्	कृत्स्न-कर्मन्-कृत्{पुं}{1;एक}/कृत्{पुं}{8;एक}	कृत्स्न-कर्मन्-कृत्{पुं}{1;एक}	विधेय_विशेषणम्,14.1	समस्त_कर्मों_को_करनेवाला	अल्ट्होउग्ह्_एन्गगेड्_इन्_अल्ल्_अच्टिविटिएस्	<<कृत्स्न-कर्म>ख्1-कृत्>ऊ			
+14.1	(अस्ति)	17	()	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,12	(है)	इस्				

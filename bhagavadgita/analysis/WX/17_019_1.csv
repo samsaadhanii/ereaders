@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mUDa-grAheNa	3	mUDagrAheNAwmano	mUDa-grAha{puM}{3;eka}	mUDa-grAha{puM}{3;eka}	anyawaraH,4	mUDawApUrvaka_haTa_se	with_foolish_endeavor	<mUDa-grAheNa>K1			
+2	AwmanaH	4	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,4	mana_vANI_Ora_SarIra_kI	of_one's_own_self				
+3	yaw	1	yawpIdayA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yaw{avya}	viSeRaNam,6;niwya_sambanXaH,10	jo	which				
+4	pIdayA	5	0	pIdA{swrI}{3;eka}	pIdA{swrI}{3;eka}	karaNam,5	pIda़A_ke	by_torture				
+5	kriyawe	9	kriyawe	kq2{karmaNi;lat;pra;eka;AwmanepaxI;kqF;svAxiH}/kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}/kriyawA{swrI}{1;xvi}/kriyawA{swrI}{2;xvi}	kq3{karmaNi;lat;pra;eka;AwmanepaxI;dukqF;wanAxiH}	aBihiwakarma,6;sakarkamaH	kiyA_jAwA_hE	is_performed				
+6	wapaH	2	wapaH	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	karma,5	wapa	penance				
+7	parasya	7	parasyowsAxanArWa	para{puM}{6;eka}/para{napuM}{6;eka}/para{puM}{6;eka}/para{napuM}{6;eka}	para{puM}{6;eka}	RaRTIsambanXaH,8	xUsare_kA	to_others				
+8	uw-sAxanArWam	8	0	uwsAxana{arWam}	ux-sAxana{napuM}{1;eka}	prayojanam,5	aniRta_karane_ke_liye	causing_annihilation				
+9	vA	6	vA	vA{avya}	vA{avya}	anyawara_xyowakaH,4	aWavA	or				
+10	waw	10	wawwAmasamuxAhqwam	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	viSeRaNam,12.1	vaha	that				
+11	wAmasam	12	0	wAmasa{puM}{2;eka}/wAmasa{napuM}{1;eka}/wAmasa{napuM}{2;eka}	wAmasa{puM}{2;eka}	karmasamAnAXikaraNam,12	wAmasa	in_the_mode_of_darkness				
+12	uxAhqwam	13	0	uxAhqwa{puM}{2;eka}/uxAhqwa{napuM}{1;eka}/uxAhqwa{napuM}{2;eka}	uw_Af_hq1{kqw_prawyayaH:kwa;uw_Af_hqF;BvAxiH;napuM}{1;eka}	aBihiwakarma,12.1;sakarkamaH	kahA_gayA_hE	is_said_to_be				
+12.1	(wapaH)	11	(0)	(wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka})	(wapas{napuM}{2;eka})	karma,12	(wapa)	penance				

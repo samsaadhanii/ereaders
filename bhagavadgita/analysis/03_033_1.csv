@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	saxqSam	8	saxqSaM	saxqS{puM}{2;eka}/saxqS{napuM}{2;eka}/saxqSa{puM}{2;eka}/saxqSa{napuM}{1;eka}/saxqSa{napuM}{2;eka}	saxqSa{napuM}{2;eka}	kriyAviSeRaNam,2	anusAra	accordingly				
-2	ceRtawe	9	ceRtawe	ceRtawA{swrI}{1;xvi}/ceRtawA{swrI}{2;xvi}/ceRtawA{swrI}{8;eka}/ceRtawA{swrI}{8;xvi}/ceRt1{karwari;lat;pra;eka;AwmanepaxI;ceRtaz;BvAxiH}	ceRt1{karwari;lat;pra;eka;AwmanepaxI;ceRtaz;BvAxiH}	aBihiwa_karwA,5;akarmakaH	ceRtA_karawA_hE	tries				
-3	svasyAH	6	svasyAH	svA{swrI}{5;eka}/svA{swrI}{6;eka}	svA{swrI}{6;eka}	RaRTIsambanXaH,4	apanI	in_one's_own_nature				
-4	prakqweH	7	prakqwerjFAnavAnapi	prakqwi{swrI}{5;eka}/prakqwi{swrI}{6;eka}	prakqwi{swrI}{6;eka}	RaRTIsambanXaH,1	prakqwi_ke	modes				
-5	jFAnavAn	4	0	jFAnavaw{puM}{1;eka}/jFAnavaw{puM}{1;eka}	jFAnavaw{puM}{1;eka}	karwA,2	jFAnavAn	learned				
-6	api	5	0	api{avya}	api{avya}	sambanXaH,5	BI	although				
-7	prakqwim	2	prakqwiM	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	karma,8	prakqwi_ko	nature				
-8	yAnwi	3	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwa_karwA,9;sakarmakaH	prApwa_howe_hEM	undergo				
-9	BUwAni	1	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{1;bahu}	karwA,8	saBI_prANI	all_living_entities				
-10	nigrahaH	10	nigrahaH	nigraha{puM}{1;eka}	nigraha{puM}{1;eka}	karwA,12	haTa	suppression				
-11	kim	11	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{2;eka}	karma,12	kyA	what				
-12	kariRyawi	12	kariRyawi	kq3{karwari;lqt;pra;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lqt;pra;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwa_karwA,10;sakarmakaH	karegA	can_do				
+1	सदृशम्	8	सदृशं	सदृश्{पुं}{2;एक}/सदृश्{नपुं}{2;एक}/सदृश{पुं}{2;एक}/सदृश{नपुं}{1;एक}/सदृश{नपुं}{2;एक}	सदृश{नपुं}{2;एक}	क्रियाविशेषणम्,2	अनुसार	अच्चोर्डिन्ग्ल्य्				
+2	चेष्टते	9	चेष्टते	चेष्टता{स्त्री}{1;द्वि}/चेष्टता{स्त्री}{2;द्वि}/चेष्टता{स्त्री}{8;एक}/चेष्टता{स्त्री}{8;द्वि}/चेष्ट्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;चेष्टँ;भ्वादिः}	चेष्ट्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;चेष्टँ;भ्वादिः}	अभिहित_कर्ता,5;अकर्मकः	चेष्टा_करता_है	ट्रिएस्				
+3	स्वस्याः	6	स्वस्याः	स्वा{स्त्री}{5;एक}/स्वा{स्त्री}{6;एक}	स्वा{स्त्री}{6;एक}	षष्ठीसम्बन्धः,4	अपनी	इन्_ओने'स्_ओत्न्_नटुरे				
+4	प्रकृतेः	7	प्रकृतेर्ज्ञानवानपि	प्रकृति{स्त्री}{5;एक}/प्रकृति{स्त्री}{6;एक}	प्रकृति{स्त्री}{6;एक}	षष्ठीसम्बन्धः,1	प्रकृति_के	मोडेस्				
+5	ज्ञानवान्	4	0	ज्ञानवत्{पुं}{1;एक}/ज्ञानवत्{पुं}{1;एक}	ज्ञानवत्{पुं}{1;एक}	कर्ता,2	ज्ञानवान्	लेअर्नेड्				
+6	अपि	5	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,5	भी	अल्ट्होउग्ह्				
+7	प्रकृतिम्	2	प्रकृतिं	प्रकृति{स्त्री}{2;एक}	प्रकृति{स्त्री}{2;एक}	कर्म,8	प्रकृति_को	नटुरे				
+8	यान्ति	3	यान्ति	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	अभिहित_कर्ता,9;सकर्मकः	प्राप्त_होते_हैं	उन्डेर्गो				
+9	भूतानि	1	भूतानि	भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}/भूत{नपुं}{8;बहु}	भूत{नपुं}{1;बहु}	कर्ता,8	सभी_प्राणी	अल्ल्_लिविन्ग्_एन्टिटिएस्				
+10	निग्रहः	10	निग्रहः	निग्रह{पुं}{1;एक}	निग्रह{पुं}{1;एक}	कर्ता,12	हठ	सुप्प्रेस्सिओन्				
+11	किम्	11	किं	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{2;एक}	कर्म,12	क्या	त्हट्				
+12	करिष्यति	12	करिष्यति	कृ3{कर्तरि;लृट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लृट्;प्र;एक;परस्मैपदी;डुकृञ्;तनादिः}	अभिहित_कर्ता,10;सकर्मकः	करेगा	चन्_डो				

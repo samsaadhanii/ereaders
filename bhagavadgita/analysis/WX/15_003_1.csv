@@ -1,0 +1,42 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	5	na	na{avya}	na{avya}	prawiReXaH,6	nahIM	not				
+2	rUpam	3	rUpamasyeha	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{1;eka}	karma,6	svarUpa	form				
+3	asya	2	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	RaRTIsambanXaH,2	isakA_(saMsAravqkRa_kA)	of_this_tree				
+4	iha	1	0	iha{avya}	iha{avya}	aXikaraNam,6	yahAz_(vicArakAla_meM)	in_this				
+5	waWA	4	waWopalaByawe	waWA{avya}	waWA{avya}	kriyAviSeRaNam,6	vEsA	also				
+6	upalaByawe	6	0	upalaByawA{swrI}{1;xvi}/upalaByawA{swrI}{2;xvi}/upalaByawA{swrI}{8;eka}/upalaByawA{swrI}{8;xvi}/upa_laB1{karmaNi;lat;pra;eka;AwmanepaxI;dulaBazR;BvAxiH}	upa_laB1{karmaNi;lat;pra;eka;AwmanepaxI;upa_dulaBazR;BvAxiH}	aBihiwakarma,2;sakarmakaH	pAyA_jAwA	can_be_perceived				
+7	na	10	nAnwo	na{avya}	na{avya}	sambanXaH,8	na	never				
+8	anwaH	11	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	sup_samucciwaH,14	anwa	end				
+9	na	7	na	na{avya}	na{avya}	sambanXaH,11	na	never				
+10	ca	9	cAxirna	ca{avya}	ca{avya}	sambanXaH,11	Ora	also				
+11	AxiH	8	0	Axi{puM}{1;eka}	Axi{puM}{1;eka}	sup_samucciwaH,14	Axi	beginning				
+12	na	13	0	na{avya}	na{avya}	sambanXaH,14	na	never				
+13	ca	12	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,14	waWA	also				
+14	samprawiRTA	14	samprawiRTA	samprawiRTA{swrI}{1;eka}	samprawiRTA{swrI}{1;eka}	karwA,14.1	acCI_prakAra_se_sWiwi	the_foundation				
+14.1	(Bavawi)	15	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,14	(hE)	becomes				
+15	aSvawWam	18	aSvawWamenaM	aSvawWa{puM}{2;eka}	aSvawWa{puM}{2;eka}	karma,20	saMsArarUpa_pIpala_ke_vqkRa_ko	banyan_tree				
+16	enam	16	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,15	isa	this				
+17	suvirUDa-mUlam	17	suvirUDamUlamasafgaSaswreNa	suvirUDa-mUla{puM}{2;eka}/mUla{napuM}{1;eka}/mUla{napuM}{2;eka}	su-virUDa-mUla{puM}{2;eka}	viSeRaNam,15	ahaMwA_mamawA_Ora_vAsanArUpa_awi_xqDa़_mUloMvAle	strongly_rooted	<suvirUDa-mUlam>Bs6			
+18	a-safga-SaswreNa	19	0	asafga-Saswra{puM}{3;eka}/Saswra{napuM}{3;eka}	na-safga-Saswra{napuM}{3;eka}	karaNam,20	vErAgyarUpa_Saswra_xvArA	by_the_weapon_of_detachment	<<na-safga>Tn-SaswreNa>K6			
+19	xqDena	20	xqDena	xqDa{puM}{3;eka}/xqDa{napuM}{3;eka}	xqDa{napuM}{3;eka}	viSeRaNam,18	xqDa़	strong				
+20	CiwwvA	21	CiwwvA	Cix1{kqw_prawyayaH:kwvA;Cixa;wuxAxiH}	Cix1{kqw_prawyayaH:kwvA;Cixa;wuxAxiH}	pUrvakAlaH,24	kAtakara	by_cutting				
+21	wawaH	22	wawaH	wawaH{avya}	wawaH{avya}	apAxAnam,24	usake_paScAw	thereafter				
+22	paxam	24	paxaM	pax{puM}{2;eka}/paxa{napuM}{1;eka}/paxa{napuM}{2;eka}	paxa{puM}{1;eka}	karma,24	paramapaxarUpa_parameSvara_ko	situation				
+23	waw	23	wawparimArgiwavyaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{puM}{1;eka}	viSeRaNam,22;niwya_sambanXaH,25	usa	that				
+24	parimArgiwavyam	25	0	pari-{avya}-mArgiwavyam	pari_mArg1{kqw_prawyayaH:wavyaw;pari_mArgaz;curAxiH}	aBihiwakarma,22;sakarmakaH	BalIBAzwi_KojanA_cAhiye	has_to_be_searched_out				
+25	yasmin	26	yasmingawA	yax{puM}{7;eka}/yax{napuM}{7;eka}	yax{puM}{7;eka}	aXikaraNam,26	jisameM	where				
+26	gawAH	27	0	gawa{puM}{1;bahu}/gawA{swrI}{1;bahu}/gawA{swrI}{2;bahu}/gawA{swrI}{1;bahu}/gawA{swrI}{2;bahu}	gam1{kqw_prawyayaH:kwa;gamLz;BvAxiH}	karwA,28	gaye_hue_puruRa	going				
+27	na	29	na	na{avya}	na{avya}	sambanXaH,28	nahIM	never				
+28	nivarwanwi	30	nivarwanwi	ni_vqw1{karwari;lat;pra;bahu;parasmEpaxI;vqwuz;BvAxiH}	ni_vqw*1{karwari;lat;pra;bahu;parasmEpaxI;ni_vqwuz;BvAxiH}	aBihiwakarwA,26;akarmakaH	lOtakara_saMsAra_meM_Awe	comes_back				
+29	BUyaH	28	BUyaH	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}	BUyaH{avya}	kriyAviSeRaNam,28	Pira	again				
+30	wam	35	wameva	wax{puM}{2;eka}	wax{puM}{2;eka}	viSeRaNam,34	usa	to_Him				
+31	eva	36	0	eva{avya}	eva{avya}	sambanXaH,30	hI	certainly				
+32	ca	37	cAxyaM	ca{avya}	ca{avya}	sambanXaH,31	Ora	also				
+33	Axyam	38	0	Axya{puM}{2;eka}/Axya{napuM}{1;eka}/Axya{napuM}{2;eka}	Axya{puM}{2;eka}	viSeRaNam,34	Axi	original				
+34	puruRam	39	puruRaM	puruRa{puM}{2;eka}	puruRa{puM}{2;eka}	karma,35	puruRa_ke	the_Personality_of_Godhead				
+35	prapaxye	41	prapaxye	pra_pax1{karwari;lat;u;eka;AwmanepaxI;paxaz;xivAxiH}/pra_pax1{karmaNi;lat;u;eka;AwmanepaxI;paxaz;xivAxiH}	pra_pax1{karwari;lat;u;eka;AwmanepaxI;pra_paxaz;xivAxiH}	aBihiwakarwA,35.1;sakarmakaH	SaraNa_hUz	surrender				
+35.1	(aham)	40	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,35	(mEM)	I				
+36	yawaH	31	yawaH	yawaH{avya}/yawa{puM}{1;eka}	yawaH{avya}	apAxAnam,38	jisa_parameSvara_se	from_whom				
+37	pravqwwiH	33	pravqwwiH	pravqwwi{swrI}{1;eka}	pravqwwi{swrI}{1;eka}	karwA,38	saMsAravqkRa_kI_pravqwwi	beginning				
+38	prasqwA	34	prasqwA	prasqwA{swrI}{1;eka}	pra_sq1{kqw_prawyayaH:kwa;pra_sq;BvAxiH;swrI}{1;eka}	aBihiwakarwA,37;sakarmakaH	viswAra_ko_prApwa_huI	extended				
+39	purANI	32	purANI	purANI{swrI}{1;eka}	purANI{swrI}{1;eka}	viSeRaNam,37	purAwana	very_old				

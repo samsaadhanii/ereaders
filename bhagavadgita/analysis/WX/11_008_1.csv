@@ -1,0 +1,20 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	na	8	na	na{avya}	na{avya}	prawiReXaH,5	nahIM	never				
+2	wu	6	wu	wu{avya}	wu{avya}	sambanXaH,1	paraMwu	but				
+3	mAm	5	mAM	asmax{2;eka}	asmax{2;eka}	karma,5	muJako	me				
+4	Sakyase	9	Sakyase	Sak1{BAve;lat;ma;eka;AwmanepaxI;SakLz;svAxiH}/Sak2{karwari;lat;ma;eka;AwmanepaxI;Sakaz;xivAxiH}/Sak2{karmaNi;lat;ma;eka;AwmanepaxI;Sakaz;xivAxiH}	Sak1{BAve;lat;ma;eka;AwmanepaxI;SakLz;svAxiH}	aBihiwa_karwA,8.1	samarWa_hE	able				
+5	xraRtum	7	xraRtumanenEva	xqS1{avya;wumun;xqSizr;:BvAxiH}	xqS1{avya;wumun;xqSizr;:BvAxiH}	sahAyakakriyA,4	xeKane_meM	to_see				
+6	anena	2	0	ana{puM}{3;eka}/ixam{puM}{3;eka}/ixam{napuM}{3;eka}	ixam{napuM}{3;eka}	viSeRaNam,8	ina	by_this				
+7	eva	3	0	eva{avya}	eva{avya}	sambanXaH,6	niHsaMxeha	certainly				
+8	sva-cakRuRA	4	svacakRuRA	sva-cakRus{napuM}{3;eka}	sva-cakRus{napuM}{3;eka}	karaNam,5	apane_prAkqwa_newroM_xvArA	with_your_own_eyes	<sva-cakRuRA>T6			
+8.1	(wvam)	1	()	yuRmax{1;eka}	yuRmax{1;eka}	karwA,4	Apa	you				
+9	xivyam	12	xivyaM	xivya{puM}{2;eka}/xivya{napuM}{1;eka}/xivya{napuM}{2;eka}	xivya{napuM}{2;eka}	viSeRaNam,12	xivya_(arWAw_alOkika)	divine				
+10	xaxAmi	14	xaxAmi	xA3{karwari;lat;u;eka;parasmEpaxI;duxAF;juhowyAxiH}	xA3{karwari;lat;u;eka;parasmEpaxI;duxAF;juhowyAxiH}	aBihiwa_karwA,10.1	xewA_hUz	give				
+10.1	(aham)	10	()	asmax{1;eka}	asmax{1;eka}	karwA,10	Apa	you				
+11	we	11	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,10	wumhAre	you				
+12	cakRuH	13	cakRuH	cakRu{puM}{1;eka}/cakRus{napuM}{1;eka}/cakRus{napuM}{2;eka}/cakRus{napuM}{8;eka}/kRE1{karwari;lit;pra;bahu;parasmEpaxI;kRE;BvAxiH}	cakRus{napuM}{2;eka}	karma,10	cakRu	eyes				
+13	paSya	19	paSya	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,16.1	xeKa	see				
+14	me	16	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,15	merI	my				
+15	yogam	18	yogamESvaram	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,13	yogaSakwi_ko	mystic_power				
+16	ESvaram	17	0	ESvara{puM}{2;eka}/ESvara{napuM}{1;eka}/ESvara{napuM}{2;eka}	ESvara{puM}{2;eka}	viSeRaNam,15	ISvarIya	inconceivable				
+16.1	(wvam)	15	()	yuRmax{1;eka}	yuRmax{1;eka}	karwA,13	Apa	you				

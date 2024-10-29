@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	inxriyANAm	3	inxriyANAM	inxriya{puM}{6;bahu}/inxriya{napuM}{6;bahu}	inxriya{napuM}{6;bahu}	RaRTIsambanXaH,5	inxriyoM_meM_se	the_senses				
-2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,1	kyoMki	because				
-3	carawAm	2	carawAM	caraw{puM}{6;bahu}/caraw{napuM}{6;bahu}/carawA{swrI}{2;eka}/car1{karwari;lot;pra;xvi;parasmEpaxI;caraz;BvAxiH}	car1{kqw_prawyayaH:Sawq;caraz;BvAxiH;napuM}{6;bahu}	viSeRaNam,1	vicarawI_huI	moving_among_sense-objects				
-4	yaw	5	yanmanoZnuviXIyawe	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karma,6;niwya_sambanXaH,7	jo( jisa inxriya kA)	that				
-5	manaH	4	0	manas{napuM}{1;eka}/manas{napuM}{2;eka}/manas{napuM}{8;eka}	manas{napuM}{1;eka}	karwA,6	mana	mind				
-6	anuviXIyawe	6	0	anuviXIyawe	anu_Xi1{karwari;lat;pra;eka;AwmanepaxI;anu_Xi;wuxAxiH}	aBihiwa_karwA,5;sakarmakaH	sAWa_rahawA_hE	is_attached				
-7	waw	7	waxasya	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,9	vaha eka hI inxriya	that				
-8	asya	8	0	ixam{puM}{6;eka}/ixam{napuM}{6;eka}/as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	ixam{puM}{6;eka}	RaRTIsambanXaH,10	isakI	his				
-9	harawi	10	harawi	haraw{puM}{7;eka}/haraw{napuM}{7;eka}/hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH}	hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH}	upamAnam,13	hara_lewI_hE	takes_away				
-10	prajFAm	9	prajFAM	prajFA{swrI}{2;eka}	prajFA{swrI}{2;eka}	karma,9	buxXi_ko	discrimination				
-11	vAyuH	12	vAyurnAvamivAmBasi	vAyu{puM}{1;eka}/vA1{karwari;viXilif;pra;bahu;parasmEpaxI;vA;axAxiH}	vAyu{puM}{1;eka}	karwA,15	vAyu	the_wind				
-12	nAvam	13	0	nO{swrI}{2;eka}	nO{swrI}{2;eka}	karma,15	nOkA_ko	a_boat				
-13	iva	14	0	iva{avya}	iva{avya}	upamAna_xyowakaH,15	jEse	as				
-14	amBasi	11	0	amBas{napuM}{7;eka}	amBas{napuM}{7;eka}	aXikaraNam,15	jala_meM	upon_the_waters				
-15	(harawi)	15	(0)	(haraw{puM}{7;eka}/haraw{napuM}{7;eka}/hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH})	(hq1{karwari;lat;pra;eka;parasmEpaxI;hqF;BvAxiH})	aBihiwa_karwA,11;sakarmakaH	(hara_lewA_hE)	carries_away				
+1	इन्द्रियाणाम्	3	इन्द्रियाणां	इन्द्रिय{पुं}{6;बहु}/इन्द्रिय{नपुं}{6;बहु}	इन्द्रिय{नपुं}{6;बहु}	षष्ठीसम्बन्धः,5	इन्द्रियों_में_से	ट्हे_सेन्सेस्				
+2	हि	1	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,1	क्योंकि	बेचउसे				
+3	चरताम्	2	चरतां	चरत्{पुं}{6;बहु}/चरत्{नपुं}{6;बहु}/चरता{स्त्री}{2;एक}/चर्1{कर्तरि;लोट्;प्र;द्वि;परस्मैपदी;चरँ;भ्वादिः}	चर्1{कृत्_प्रत्ययः:शतृ;चरँ;भ्वादिः;नपुं}{6;बहु}	विशेषणम्,1	विचरती_हुई	मोविन्ग्_अमोन्ग्_सेन्से-ओब्जेच्ट्स्				
+4	यत्	5	यन्मनोऽनुविधीयते	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	कर्म,6;नित्य_सम्बन्धः,7	जो( जिस इन्द्रिय का)	ट्हट्				
+5	मनः	4	0	मनस्{नपुं}{1;एक}/मनस्{नपुं}{2;एक}/मनस्{नपुं}{8;एक}	मनस्{नपुं}{1;एक}	कर्ता,6	मन	मिन्ड्				
+6	अनुविधीयते	6	0	अनुविधीयते	अनु_धि1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;अनु_धि;तुदादिः}	अभिहित_कर्ता,5;सकर्मकः	साथ_रहता_है	इस्_अट्टच्हेड्				
+7	तत्	7	तदस्य	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्ता,9	वह एक ही इन्द्रिय	ट्हट्				
+8	अस्य	8	0	इदम्{पुं}{6;एक}/इदम्{नपुं}{6;एक}/अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	इदम्{पुं}{6;एक}	षष्ठीसम्बन्धः,10	इसकी	हिस्				
+9	हरति	10	हरति	हरत्{पुं}{7;एक}/हरत्{नपुं}{7;एक}/हृ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;हृञ्;भ्वादिः}	हृ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;हृञ्;भ्वादिः}	उपमानम्,13	हर_लेती_है	टकेस्_अतय्				
+10	प्रज्ञाम्	9	प्रज्ञां	प्रज्ञा{स्त्री}{2;एक}	प्रज्ञा{स्त्री}{2;एक}	कर्म,9	बुद्धि_को	डिस्च्रिमिनटिओन्				
+11	वायुः	12	वायुर्नावमिवाम्भसि	वायु{पुं}{1;एक}/वा1{कर्तरि;विधिलिङ्;प्र;बहु;परस्मैपदी;वा;अदादिः}	वायु{पुं}{1;एक}	कर्ता,15	वायु	ट्हे_तिन्ड्				
+12	नावम्	13	0	नौ{स्त्री}{2;एक}	नौ{स्त्री}{2;एक}	कर्म,15	नौका_को	अ_बोअट्				
+13	इव	14	0	इव{अव्य}	इव{अव्य}	उपमान_द्योतकः,15	जैसे	अस्				
+14	अम्भसि	11	0	अम्भस्{नपुं}{7;एक}	अम्भस्{नपुं}{7;एक}	अधिकरणम्,15	जल_में	उपोन्_ट्हे_तटेर्स्				
+15	(हरति)	15	(0)	(हरत्{पुं}{7;एक}/हरत्{नपुं}{7;एक}/हृ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;हृञ्;भ्वादिः})	(हृ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;हृञ्;भ्वादिः})	अभिहित_कर्ता,11;सकर्मकः	(हर_लेता_है)	चर्रिएस्_अतय्				

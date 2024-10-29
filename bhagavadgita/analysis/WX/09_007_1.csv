@@ -1,0 +1,12 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	sarva-BUwAni	3	sarvaBUwAni	sarva-BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	sarva-BUwa{napuM}{1;bahu}	karwA,4	saba_BUwa	all_created_entities	<sarva-BUwAni>K1			
+2	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_of_Kunti				
+3	prakqwim	5	prakqwiM	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	karma,4	prakqwi_ko	nature				
+4	yAnwi	6	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}		prApwa_howe_hEM	enter				
+5	mAmikAm	4	mAmikAm	mAmikA{swrI}{2;eka}	mAmikA{swrI}{2;eka}	RaRTIsambanXaH,3	merI	unto_Me				
+6	kalpa-kRaye	2	kalpakRaye	kalpa-kRaya{puM}{7;eka}/kRaya{napuM}{1;xvi}/kRaya{napuM}{2;xvi}/kRaya{napuM}{7;eka}/kRaya{napuM}{8;xvi}	kalpa-kRaya{puM}{7;eka}	aXikaraNam,4	kalpoM_ke_anwa_meM	at_the_end_of_the_millennium	<kalpa-kRaye>T6			
+7	punaH	10	punaswAni	punaH{avya}	punaH{avya}	kriyAviSeRaNam,10	Pira	again				
+8	wAni	8	0	wax{napuM}{1;bahu}/wax{napuM}{2;bahu}	wax{napuM}{1;bahu}	karma,10	unako	all_those				
+9	kalpa-AxO	7	kalpAxO	kalpa-Axi{puM}{7;eka}	kalpa-Axi{puM}{7;eka}	aXikaraNam,10	kalpoM_ke_Axi_meM	in_the_beginning_of_the_millennium	<kalpa-AxO>T6			
+10	visqjAmi	11	visqjAmyaham	vi_sqj2{karwari;lat;u;eka;parasmEpaxI;sqjaz;wuxAxiH}	vi_sqj2{karwari;lat;u;eka;parasmEpaxI;vi_sqjaz;wuxAxiH}		racawA_hUz	create				
+11	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,10	mEM	I				

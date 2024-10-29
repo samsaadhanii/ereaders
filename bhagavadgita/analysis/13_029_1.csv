@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	prakqwyA	5	prakqwyEva	prakqwi{swrI}{3;eka}	prakqwi{swrI}{3;eka}	karwA,5	prakqwi_ke_xvArA	by_material_nature				
-2	eva	6	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
-3	ca	1	ca	ca{avya}	ca{avya}	sambanXaH,7	Ora	also				
-4	karmANi	3	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	karman{napuM}{2;bahu}	karma,8	sampUrNa_karmoM_ko	activities				
-5	kriyamANAni	7	kriyamANAni	kriyamANa{napuM}{1;bahu}/kriyamANa{napuM}{2;bahu}/kriyamANa{napuM}{8;bahu}	kq3{kqw_prawyayaH:yak;dukqF;wanAxiH;napuM}{1;bahu}	varwamAnasamAnakAlaH,8	kiye_jAwe_hue	engaged_in_performing				
-6	sarvaSaH	4	sarvaSaH	sarvaSaH{avya}	sarvaSaH{avya}	viSeRaNam,1	saba_prakAra_se	in_all_respects				
-7	yaH	2	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,8;niwya_sambanXaH,12	jo_(puruRa)	anyone_who				
-8	paSyawi	8	paSyawi	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,7;sakarmakaH	xeKawA_hE	sees				
-9	waWA	9	waWAwmAnamakarwAraM	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,11.1	Ora	also				
-10	AwmAnam	10	0	Awman{puM}{2;eka}	Awman{puM}{2;eka}	karma,11.1	AwmA_ko	himself				
-11	a-karwAram	11	0	a-karwq{puM}{2;eka}	na-karwq{puM}{2;eka}	karmasamAnAXikaraNam,11.1	akarwA	non-doer	<na-karwAram>Bsmn			
-11.1	(paSyawi)	12	(0)	(paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH})	(xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH})	samucciwaH,8	(xeKawA_hE)	sees				
-12	saH	13	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,13	vahI	he				
-13	paSyawi	14	paSyawi	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,12;sakarmakaH	xeKawA_hE	sees_perfectly				
+1	प्रकृत्या	5	प्रकृत्यैव	प्रकृति{स्त्री}{3;एक}	प्रकृति{स्त्री}{3;एक}	कर्ता,5	प्रकृति_के_द्वारा	ब्य्_मटेरिअल्_नटुरे				
+2	एव	6	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,1	ही	चेर्टइन्ल्य्				
+3	च	1	च	च{अव्य}	च{अव्य}	सम्बन्धः,7	और	अल्सो				
+4	कर्माणि	3	कर्माणि	कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}/कर्मन्{नपुं}{8;बहु}	कर्मन्{नपुं}{2;बहु}	कर्म,8	सम्पूर्ण_कर्मों_को	अच्टिविटिएस्				
+5	क्रियमाणानि	7	क्रियमाणानि	क्रियमाण{नपुं}{1;बहु}/क्रियमाण{नपुं}{2;बहु}/क्रियमाण{नपुं}{8;बहु}	कृ3{कृत्_प्रत्ययः:यक्;डुकृञ्;तनादिः;नपुं}{1;बहु}	वर्तमानसमानकालः,8	किये_जाते_हुए	एन्गगेड्_इन्_पेर्ङोर्मिन्ग्				
+6	सर्वशः	4	सर्वशः	सर्वशः{अव्य}	सर्वशः{अव्य}	विशेषणम्,1	सब_प्रकार_से	इन्_अल्ल्_रेस्पेच्ट्स्				
+7	यः	2	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,8;नित्य_सम्बन्धः,12	जो_(पुरुष)	अन्योने_त्हो				
+8	पश्यति	8	पश्यति	पश्यत्{पुं}{7;एक}/पश्यत्{नपुं}{7;एक}/दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहितकर्ता,7;सकर्मकः	देखता_है	सेएस्				
+9	तथा	9	तथात्मानमकर्तारं	तथा{अव्य}	तथा{अव्य}	समुच्चय_द्योतकः,11.1	और	अल्सो				
+10	आत्मानम्	10	0	आत्मन्{पुं}{2;एक}	आत्मन्{पुं}{2;एक}	कर्म,11.1	आत्मा_को	हिम्सेल्ङ्				
+11	अ-कर्तारम्	11	0	अ-कर्तृ{पुं}{2;एक}	न-कर्तृ{पुं}{2;एक}	कर्मसमानाधिकरणम्,11.1	अकर्ता	नोन्-डोएर्	<न-कर्तारम्>भ्स्म्न्			
+11.1	(पश्यति)	12	(0)	(पश्यत्{पुं}{7;एक}/पश्यत्{नपुं}{7;एक}/दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः})	(दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः})	समुच्चितः,8	(देखता_है)	सेएस्				
+12	सः	13	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,13	वही	हे				
+13	पश्यति	14	पश्यति	पश्यत्{पुं}{7;एक}/पश्यत्{नपुं}{7;एक}/दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहितकर्ता,12;सकर्मकः	देखता_है	सेएस्_पेर्ङेच्ट्ल्य्				

@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaWA	1	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,6;niwya_sambanXaH,10	jisa_prakAra	as				
-2	sarva-gawam	2	sarvagawaM	sarva-gawa{puM}{2;eka}/gawa{napuM}{1;eka}/gawa{napuM}{2;eka}	sarva-gawa{napuM}{1;eka}	viSeRaNam,4	sarvawra_vyApwa	all-pervading	<sarva-gawaM>K1			
-3	sOkRmyAw	4	sOkRmyAxAkASaM	sOkRmya{napuM}{5;eka}	sOkRmya{napuM}{5;eka}	hewuH,6	sUkRma_hone_ke_kAraNa	due_to_being_subtle				
-4	AkASam	3	0	AkASa{puM}{2;eka}/AkASa{napuM}{1;eka}/AkASa{napuM}{2;eka}	AkASa{napuM}{1;eka}	karma,6	AkASa	the_sky				
-5	na	5	nopalipyawe	na{avya}	na{avya}	prawiReXaH,6	nahIM	never				
-6	upalipyawe	6	0	upa_lip1{karmaNi;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	upa_lip1{karwari;lat;pra;eka;AwmanepaxI;upa_lipaz;wuxAxiH}	aBihiwakarma,4;sakarmakaH	lipwa_howA	mixes				
-7	sarvawra	9	sarvawrAvasWiwo	sarvawra{avya}	sarvawra{avya}	viSeRaNam,8	sarvawra	everywhere				
-8	avasWiwaH	10	0	avasWiwa{puM}{1;eka}	ava_sWA1{kqw_prawyayaH:kwa;ava_RTA;BvAxiH;puM}{1;eka}	viSeRaNam,11	sWiwa	situated				
-9	xehe	8	xehe	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{napuM}{7;eka}	aXikaraNam,8	xeha_meM	in_the_body				
-10	waWA	7	waWAwmA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,13	vEse_hI	such				
-11	AwmA	11	0	Awman{puM}{1;eka}	Awman{puM}{1;eka}	karwA,13	AwmA	the_self				
-12	na	12	nopalipyawe	na{avya}	na{avya}	prawiReXaH,13	nahIM	never				
-13	upalipyawe	13	0	upa_lip1{karmaNi;lat;pra;eka;AwmanepaxI;lipaz;wuxAxiH}	upa_lip1{karwari;lat;pra;eka;AwmanepaxI;upa_lipaz;wuxAxiH}	aBihiwakarma,11;sakarmakaH	lipwa_howA	mixes				
+1	यथा	1	यथा	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,6;नित्य_सम्बन्धः,10	जिस_प्रकार	अस्				
+2	सर्व-गतम्	2	सर्वगतं	सर्व-गत{पुं}{2;एक}/गत{नपुं}{1;एक}/गत{नपुं}{2;एक}	सर्व-गत{नपुं}{1;एक}	विशेषणम्,4	सर्वत्र_व्याप्त	अल्ल्-पेर्वडिन्ग्	<सर्व-गतं>ख्1			
+3	सौक्ष्म्यात्	4	सौक्ष्म्यादाकाशं	सौक्ष्म्य{नपुं}{5;एक}	सौक्ष्म्य{नपुं}{5;एक}	हेतुः,6	सूक्ष्म_होने_के_कारण	डुए_टो_बेइन्ग्_सुब्ट्ले				
+4	आकाशम्	3	0	आकाश{पुं}{2;एक}/आकाश{नपुं}{1;एक}/आकाश{नपुं}{2;एक}	आकाश{नपुं}{1;एक}	कर्म,6	आकाश	ट्हे_स्क्य्				
+5	न	5	नोपलिप्यते	न{अव्य}	न{अव्य}	प्रतिषेधः,6	नहीं	नेवेर्				
+6	उपलिप्यते	6	0	उप_लिप्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;लिपँ;तुदादिः}	उप_लिप्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;उप_लिपँ;तुदादिः}	अभिहितकर्म,4;सकर्मकः	लिप्त_होता	मिदेस्				
+7	सर्वत्र	9	सर्वत्रावस्थितो	सर्वत्र{अव्य}	सर्वत्र{अव्य}	विशेषणम्,8	सर्वत्र	एवेर्य्त्हेरे				
+8	अवस्थितः	10	0	अवस्थित{पुं}{1;एक}	अव_स्था1{कृत्_प्रत्ययः:क्त;अव_ष्ठा;भ्वादिः;पुं}{1;एक}	विशेषणम्,11	स्थित	सिटुअटेड्				
+9	देहे	8	देहे	देह{पुं}{7;एक}/देह{नपुं}{1;द्वि}/देह{नपुं}{2;द्वि}/देह{नपुं}{7;एक}/दह्1{कर्मणि;लिट्;उ;एक;आत्मनेपदी;दहँ;भ्वादिः}/दह्1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;दहँ;भ्वादिः}	देह{नपुं}{7;एक}	अधिकरणम्,8	देह_में	इन्_ट्हे_बोड्य्				
+10	तथा	7	तथात्मा	तथा{अव्य}	तथा{अव्य}	क्रियाविशेषणम्,13	वैसे_ही	सुच्ह्				
+11	आत्मा	11	0	आत्मन्{पुं}{1;एक}	आत्मन्{पुं}{1;एक}	कर्ता,13	आत्मा	ट्हे_सेल्ङ्				
+12	न	12	नोपलिप्यते	न{अव्य}	न{अव्य}	प्रतिषेधः,13	नहीं	नेवेर्				
+13	उपलिप्यते	13	0	उप_लिप्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;लिपँ;तुदादिः}	उप_लिप्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;उप_लिपँ;तुदादिः}	अभिहितकर्म,11;सकर्मकः	लिप्त_होता	मिदेस्				

@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	safkaraH	1	safkaro	safkara{puM}{1;eka}	safkara{puM}{1;eka}	karwA,6.1	varNasafkara	progeny_due_to_promiscuity				
+2	narakAya	5	narakAyEva	naraka{puM}{4;eka}/naraka{napuM}{4;eka}	naraka{puM}{4;eka}	prayojanam,6.1	naraka_meM_le_jAne_ke_liye	damns				
+3	eva	6	0	eva{avya}	eva{avya}	sambanXaH,6.1	hI	certainly				
+4	kula-GnAnAm	2	kulaGnAnAM	kulaGna{puM}{6;bahu}	kulaGna{puM}{6;bahu}	sup_samucciwaH,5	kulaGAwiyoM_ko	the_destroyers_of_the_race	<kula-GnAnAm>U			
+5	kulasya	4	kulasya	kula{napuM}{6;eka}	kula{napuM}{6;eka}	RaRTIsambanXaH,2	kula_ko	the_race_itself				
+6	ca	3	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	as_well_as				
+6.1	(Bavawi)	7	(0)	(Bavaw{puM}{7;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,1;akarmakaH	(howA_hE)	become				
+7	pawanwi	12	pawanwi	pawaw{napuM}{1;bahu}/pawaw{napuM}{2;bahu}/paw1{karwari;lat;pra;bahu;parasmEpaxI;pawLz;BvAxiH}	paw1{karwari;lat;pra;bahu;parasmEpaxI;pawLz;BvAxiH}	aBihiwakarwA,8;akarmakaH	aXogawi_ko_prApwa_howe_hEM	fall				
+8	piwaraH	10	piwaro	piwq{puM}{1;bahu}/piwq{puM}{2;bahu}	piwq{puM}{1;bahu}	karwA,7	piwaraloga	the_manes_of_their_race				
+9	hi	11	hyeRAM	hi{avya}	hi{avya}	sambanXaH,8	BI	also				
+10	eRAm	8	0	ixam{puM}{6;bahu}/ixam{napuM}{6;bahu}	ixam{puM}{6;bahu}	RaRTIsambanXaH,11	inake	of_their				
+11	lupwa-piNda-uxaka-kriyAH	9	lupwapiNdoxakakriyAH	lupwa-piNda-uxakakriya{puM}{1;bahu}/uxakakriyA{swrI}{1;bahu}/uxakakriyA{swrI}{2;bahu}	lupwa-piNda-uxakakriyA{swrI}{1;bahu}	viSeRaNam,8	lupwa_huI_piNda_Ora_jala_kI_kriyAvAle	deprived_of_the_offerings_of_rice_and_water	<lupwa-<<piNda-uxaka>Di-kriyAH>T6>Bs6			

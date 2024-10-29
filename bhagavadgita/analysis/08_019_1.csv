@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	BUwa-grAmaH	5	BUwagrAmaH	BUwagrAma{puM}{1;eka}	BUwa-grAma{puM}{1;eka}	karwA,7	BUwasamuxAya	the_aggregate_of_all_living_entities	<BUwa-grAmaH>T6			
-2	saH	2	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,1	vaha	they				
-3	eva	3	evAyaM	eva{avya}	eva{avya}	sambanXaH,2	hI	certainly				
-4	ayam	4	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	viSeRaNam,1	yaha	this				
-5	BUwvA	7	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	vIpsA,6	uwpanna_ho	taking_birth				
-6	BUwvA	8	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,7	hokara	after_birth				
-7	pralIyawe	10	pralIyawe	pra_lI1{karwari;lat;pra;eka;AwmanepaxI;lIf;xivAxiH}/pra_lI1{karmaNi;lat;pra;eka;AwmanepaxI;lIf;xivAxiH}	pra_lI1{karwari;lat;pra;eka;AwmanepaxI;pra_lIf;xivAxiH}	aBihiwa_karwA,1	lIna_howA_hE	annihilate				
-8	rAwri-Agame	9	rAwryAgameZvaSaH	rAwryAgama{puM}{7;eka}	rAwri-Agama{puM}{7;eka}	aXikaraNam,7	rAwri_ke_praveSakAla_meM	on_arrival_of_night	<rAwri-Agame>T6			
-9	a-vaSaH	6	0	avaSa{puM}{1;eka}/avaSas{swrI}{1;eka}	na-vaSa{puM}{1;eka}	viXeya_viSeRaNam,7	prakqwi_ke_vaSa_meM_huA	automatically	<na-vaSaH>Tn			
-10	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,7	he_pArWa	O_son_of_Prtha				
-11	praBavawi	12.1	praBavawyaharAgame	pra_BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	pra_BU1{karwari;lat;pra;eka;parasmEpaxI;pra_BU;BvAxiH}	aBihiwa_karwA,12.1	uwpanna_howA_hE	manifest				
-12	ahaH-Agame	12	0	aharAgama{puM}{7;eka}	ahaH-Agama{puM}{7;eka}	aXikaraNam,11	xina_ke_praveSakAla_meM	on_arrival_during_daytime	<ahaH-Agame>T6			
-12.1	(saH)	11	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,11	(vaha)	he				
+1	भूत-ग्रामः	5	भूतग्रामः	भूतग्राम{पुं}{1;एक}	भूत-ग्राम{पुं}{1;एक}	कर्ता,7	भूतसमुदाय	ट्हे_अग्ग्रेगटे_ओङ्_अल्ल्_लिविन्ग्_एन्टिटिएस्	<भूत-ग्रामः>ठ्6			
+2	सः	2	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	विशेषणम्,1	वह	ट्हेय्				
+3	एव	3	एवायं	एव{अव्य}	एव{अव्य}	सम्बन्धः,2	ही	चेर्टइन्ल्य्				
+4	अयम्	4	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	विशेषणम्,1	यह	ट्हिस्				
+5	भूत्वा	7	भूत्वा	अस्2{कृत्_प्रत्ययः:क्त्वा;असँ;अदादिः}	भू1{कृत्_प्रत्ययः:क्त्वा;भू;भ्वादिः}	वीप्सा,6	उत्पन्न_हो	टकिन्ग्_बिर्ट्ह्				
+6	भूत्वा	8	भूत्वा	अस्2{कृत्_प्रत्ययः:क्त्वा;असँ;अदादिः}	भू1{कृत्_प्रत्ययः:क्त्वा;भू;भ्वादिः}	पूर्वकालः,7	होकर	अङ्टेर्_बिर्ट्ह्				
+7	प्रलीयते	10	प्रलीयते	प्र_ली1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;लीङ्;दिवादिः}/प्र_ली1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;लीङ्;दिवादिः}	प्र_ली1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;प्र_लीङ्;दिवादिः}	अभिहित_कर्ता,1	लीन_होता_है	अन्निहिलटे				
+8	रात्रि-आगमे	9	रात्र्यागमेऽवशः	रात्र्यागम{पुं}{7;एक}	रात्रि-आगम{पुं}{7;एक}	अधिकरणम्,7	रात्रि_के_प्रवेशकाल_में	ओन्_अर्रिवल्_ओङ्_निग्ह्ट्	<रात्रि-आगमे>ठ्6			
+9	अ-वशः	6	0	अवश{पुं}{1;एक}/अवशस्{स्त्री}{1;एक}	न-वश{पुं}{1;एक}	विधेय_विशेषणम्,7	प्रकृति_के_वश_में_हुआ	अउटोमटिचल्ल्य्	<न-वशः>ठ्न्			
+10	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,7	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह				
+11	प्रभवति	12.1	प्रभवत्यहरागमे	प्र_भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	प्र_भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;प्र_भू;भ्वादिः}	अभिहित_कर्ता,12.1	उत्पन्न_होता_है	मनिङेस्ट्				
+12	अहः-आगमे	12	0	अहरागम{पुं}{7;एक}	अहः-आगम{पुं}{7;एक}	अधिकरणम्,11	दिन_के_प्रवेशकाल_में	ओन्_अर्रिवल्_डुरिन्ग्_डय्टिमे	<अहः-आगमे>ठ्6			
+12.1	(सः)	11	(0)	(तद्{पुं}{1;एक})	(तद्{पुं}{1;एक})	कर्ता,11	(वह)	हे				

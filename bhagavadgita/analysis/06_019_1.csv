@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaWA	1	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,5;niwya_sambanXaH,6	jisa_prakAra	as				
-2	xIpaH	3	xIpo	xIpa{puM}{1;eka}	xIpa{puM}{1;eka}	karwA,5	xIpaka	a_lamp				
-3	ni-vAwa-sWaH	2	nivAwasWo	ni-vAwa-sWa{puM}{1;eka}	ni-vAwa-sWa{puM}{1;eka}	viSeRaNam,2	vAyurahiwa_sWAna_meM_sWiwa	in_a_place_without_wind	<<ni-vAwa>Bvp-sWaH>U			
-4	na	4	nefgawe	na{avya}	na{avya}	prawiReXaH,5	nahIM	does_not				
-5	ifgawe	5	0	ifgaw{puM}{4;eka}/ifgaw{napuM}{4;eka}/ifgawA{swrI}{1;xvi}/ifgawA{swrI}{2;xvi}	ifg1{karwari;lat;pra;eka;AwmanepaxI;igiz;BvAxiH}	aBihiwa_karwA,2	calAyamAna_howA	waver				
-6	sA	11	sopamA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,7	vEsI	that				
-7	upamA	12	0	upamA{swrI}{1;eka}	upamA{swrI}{1;eka}	karma,8	upamA	compared_to				
-8	smqwA	13	smqwA	smqwA{swrI}{1;eka}	smq1{kqw_prawyayaH:kwa;smq;BvAxiH;swrI}{1;eka}	aBihiwa_karma,7	kahI_gayI_hE	likened				
-9	yoginaH	10	yogino	yogin{puM}{1;bahu}/yogin{puM}{2;bahu}/yogin{puM}{5;eka}/yogin{puM}{6;eka}	yogin{puM}{6;eka}	RaRTIsambanXaH,7	yogI_ke	of_the_yogi				
-10	yawa-ciwwasya	9	yawaciwwasya	yawa-ciwwa{puM}{6;eka}/ciwwa{napuM}{6;eka}	yawa-ciwwa{puM}{6;eka}	viSeRaNam,9	jIwe_hue_ciwwa_kI	whose_mind_is_controlled	<yawa-ciwwasya>Bs6			
-11	yuFjawaH	8	yuFjawo	yuFjaw{puM}{2;bahu}/yuFjaw{puM}{5;eka}/yuFjaw{puM}{6;eka}/yuFjaw{napuM}{5;eka}/yuFjaw{napuM}{6;eka}	yuj2{kqw_prawyayaH:Sawq;yujizr;ruXAxiH;puM}{1;eka}	viSeRaNam,9	lage_hue	constantly_engaged_in				
-12	yogam	7	yogamAwmanaH	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,11	XyAna_meM	meditation				
-13	AwmanaH	6	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,12	paramAwmA_ke	on_transcendence				
+1	यथा	1	यथा	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,5;नित्य_सम्बन्धः,6	जिस_प्रकार	अस्				
+2	दीपः	3	दीपो	दीप{पुं}{1;एक}	दीप{पुं}{1;एक}	कर्ता,5	दीपक	अ_लम्प्				
+3	नि-वात-स्थः	2	निवातस्थो	नि-वात-स्थ{पुं}{1;एक}	नि-वात-स्थ{पुं}{1;एक}	विशेषणम्,2	वायुरहित_स्थान_में_स्थित	इन्_अ_प्लचे_तिट्होउट्_तिन्ड्	<<नि-वात>भ्व्प्-स्थः>ऊ			
+4	न	4	नेङ्गते	न{अव्य}	न{अव्य}	प्रतिषेधः,5	नहीं	डोएस्_नोट्				
+5	इङ्गते	5	0	इङ्गत्{पुं}{4;एक}/इङ्गत्{नपुं}{4;एक}/इङ्गता{स्त्री}{1;द्वि}/इङ्गता{स्त्री}{2;द्वि}	इङ्ग्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;इगिँ;भ्वादिः}	अभिहित_कर्ता,2	चलायमान_होता	तवेर्				
+6	सा	11	सोपमा	तद्{स्त्री}{1;एक}	तद्{स्त्री}{1;एक}	विशेषणम्,7	वैसी	ट्हट्				
+7	उपमा	12	0	उपमा{स्त्री}{1;एक}	उपमा{स्त्री}{1;एक}	कर्म,8	उपमा	चोम्परेड्_टो				
+8	स्मृता	13	स्मृता	स्मृता{स्त्री}{1;एक}	स्मृ1{कृत्_प्रत्ययः:क्त;स्मृ;भ्वादिः;स्त्री}{1;एक}	अभिहित_कर्म,7	कही_गयी_है	लिकेनेड्				
+9	योगिनः	10	योगिनो	योगिन्{पुं}{1;बहु}/योगिन्{पुं}{2;बहु}/योगिन्{पुं}{5;एक}/योगिन्{पुं}{6;एक}	योगिन्{पुं}{6;एक}	षष्ठीसम्बन्धः,7	योगी_के	ओङ्_ट्हे_योगि				
+10	यत-चित्तस्य	9	यतचित्तस्य	यत-चित्त{पुं}{6;एक}/चित्त{नपुं}{6;एक}	यत-चित्त{पुं}{6;एक}	विशेषणम्,9	जीते_हुए_चित्त_की	त्होसे_मिन्ड्_इस्_चोन्ट्रोल्लेड्	<यत-चित्तस्य>भ्स्6			
+11	युञ्जतः	8	युञ्जतो	युञ्जत्{पुं}{2;बहु}/युञ्जत्{पुं}{5;एक}/युञ्जत्{पुं}{6;एक}/युञ्जत्{नपुं}{5;एक}/युञ्जत्{नपुं}{6;एक}	युज्2{कृत्_प्रत्ययः:शतृ;युजिँर्;रुधादिः;पुं}{1;एक}	विशेषणम्,9	लगे_हुए	चोन्स्टन्ट्ल्य्_एन्गगेड्_इन्				
+12	योगम्	7	योगमात्मनः	योग{पुं}{2;एक}	योग{पुं}{2;एक}	कर्म,11	ध्यान_में	मेडिटटिओन्				
+13	आत्मनः	6	0	आत्मन्{पुं}{2;बहु}/आत्मन्{पुं}{5;एक}/आत्मन्{पुं}{6;एक}	आत्मन्{पुं}{6;एक}	षष्ठीसम्बन्धः,12	परमात्मा_के	ओन्_ट्रन्स्चेन्डेन्चे				

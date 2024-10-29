@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yayA	2	yayA	yax{swrI}{3;eka}	yax{swrI}{3;eka}	karaNam,11;niwya_sambanXaH,13	jisa	by_which				
-2	Xarmam	4	XarmamaXarmaM	Xarma{puM}{2;eka}	Xarma{puM}{2;eka}	sup_samucciwaH,7	Xarma	principles_of_religion				
-3	a-Xarmam	6	0	aXarma{puM}{2;eka}	aXarma{puM}{2;eka}	sup_samucciwaH,7	aXarma_ko	irreligion	<na-XarmaM>Tn			
-4	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	and				
-5	kAryam	8	kAryaM	kArya{napuM}{2;eka}	kArya{napuM}{2;eka}	sup_samucciwaH,7	karwavya	work				
-6	ca	7	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	waWA	and				
-7	a-kAryam	10	0	akArya{puM}{2;eka}/akArya{napuM}{1;eka}/akArya{napuM}{2;eka}	na-kq3{kqw_prawyayaH:Nyaw;dukqF;wanAxiH;napuM}{2;eka}	karma,11	akarwavya_ko	what_ought_not_to_be_done	<na-kAryam>Tn			
-8	eva	11	0	eva{avya}	eva{avya}	sambanXaH,7	BI	certainly				
-9	ca	9	cAkAryameva	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	Ora	also				
-10	a-yaWAvaw	12	ayaWAvawprajAnAwi	ayaWAvaw{napuM}{1;eka}/ayaWAvaw{napuM}{2;eka}	na-yaWAvaw{avya}	kriyAviSeRaNam,11	yaWArWa_nahIM	not_perfectly	<na-yaWAvaw>Tn			
-11	prajAnAwi	13	0	prajAnAwi	pra_jFA2{karwari;lat;pra;eka;parasmEpaxI;pra_jFA;kryAxiH}	aBihiwa_karwA,11.1;sakarmakaH	jAnawA	knows				
-11.1	(manuRyaH)		()		manuRya{puM}{1;eka}	karwA,11			manuRya{puM}{1;eka}			
-12	buxXiH	15	buxXiH	buxXi{swrI}{1;eka}	buxXi{swrI}{1;eka}	karwA,15.1	buxXi	intelligence				
-13	sA	14	sA	wax{swrI}{1;eka}	wax{swrI}{1;eka}	viSeRaNam,12	vaha	that				
-14	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,11	he_pArWa	O_son_of_Prtha				
-15	rAjasI	16	rAjasI	rAjasI{swrI}{1;eka}	rAjasI{swrI}{1;eka}	viXeya_viSeRaNam,15.1	rAjasI	in_the_mode_of_passion				
-15.1	(aswi)	17	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,12;akarmakaH	(hE)	is				
+1	यया	2	यया	यद्{स्त्री}{3;एक}	यद्{स्त्री}{3;एक}	करणम्,11;नित्य_सम्बन्धः,13	जिस	ब्य्_त्हिच्ह्				
+2	धर्मम्	4	धर्ममधर्मं	धर्म{पुं}{2;एक}	धर्म{पुं}{2;एक}	सुप्_समुच्चितः,7	धर्म	प्रिन्चिप्लेस्_ओङ्_रेलिगिओन्				
+3	अ-धर्मम्	6	0	अधर्म{पुं}{2;एक}	अधर्म{पुं}{2;एक}	सुप्_समुच्चितः,7	अधर्म_को	इर्रेलिगिओन्	<न-धर्मं>ठ्न्			
+4	च	5	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	और	अन्ड्				
+5	कार्यम्	8	कार्यं	कार्य{नपुं}{2;एक}	कार्य{नपुं}{2;एक}	सुप्_समुच्चितः,7	कर्तव्य	तोर्क्				
+6	च	7	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	तथा	अन्ड्				
+7	अ-कार्यम्	10	0	अकार्य{पुं}{2;एक}/अकार्य{नपुं}{1;एक}/अकार्य{नपुं}{2;एक}	न-कृ3{कृत्_प्रत्ययः:ण्यत्;डुकृञ्;तनादिः;नपुं}{2;एक}	कर्म,11	अकर्तव्य_को	त्हट्_ओउग्ह्ट्_नोट्_टो_बे_डोने	<न-कार्यम्>ठ्न्			
+8	एव	11	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,7	भी	चेर्टइन्ल्य्				
+9	च	9	चाकार्यमेव	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,7	और	अल्सो				
+10	अ-यथावत्	12	अयथावत्प्रजानाति	अयथावत्{नपुं}{1;एक}/अयथावत्{नपुं}{2;एक}	न-यथावत्{अव्य}	क्रियाविशेषणम्,11	यथार्थ_नहीं	नोट्_पेर्ङेच्ट्ल्य्	<न-यथावत्>ठ्न्			
+11	प्रजानाति	13	0	प्रजानाति	प्र_ज्ञा2{कर्तरि;लट्;प्र;एक;परस्मैपदी;प्र_ज्ञा;क्र्यादिः}	अभिहित_कर्ता,11.1;सकर्मकः	जानता	क्नोत्स्				
+11.1	(मनुष्यः)		()		मनुष्य{पुं}{1;एक}	कर्ता,11			मनुष्य{पुं}{1;एक}			
+12	बुद्धिः	15	बुद्धिः	बुद्धि{स्त्री}{1;एक}	बुद्धि{स्त्री}{1;एक}	कर्ता,15.1	बुद्धि	इन्टेल्लिगेन्चे				
+13	सा	14	सा	तद्{स्त्री}{1;एक}	तद्{स्त्री}{1;एक}	विशेषणम्,12	वह	ट्हट्				
+14	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,11	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह				
+15	राजसी	16	राजसी	राजसी{स्त्री}{1;एक}	राजसी{स्त्री}{1;एक}	विधेय_विशेषणम्,15.1	राजसी	इन्_ट्हे_मोडे_ओङ्_पस्सिओन्				
+15.1	(अस्ति)	17	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,12;अकर्मकः	(है)	इस्				

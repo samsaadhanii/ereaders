@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aWa	1	aWEwaxapyaSakwoZsi	aWa{avya}	aWa{avya}	sambanXaH,5	yaxi	even_though				
-2	ewaw	4	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{1;eka}	karma,6	uparyukwa_sAXana_ko	this				
-3	api	6	0	api{avya}	api{avya}	sambanXaH,6	BI	also				
-4	a-SakwaH	8	0	aSakwa{puM}{1;eka}	na-Sakwa{puM}{1;eka}	viXeya_viSeRaNam,5	asamarWa	unable	<na-SakwaH>Tn			
-5	asi	9	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,6.1;akarmakaH	hE	are				
-6	karwum	5	karwuM	kq1{kqw_prawyayaH:wumun;kqF;BvAxiH}/kq2{kqw_prawyayaH:wumun;kqF;svAxiH}/kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	kq3{kqw_prawyayaH:wumun;dukqF;wanAxiH}	sahAyakakriyA,4	karane_meM	to_perform				
-6.1	(wvam)	7	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,5	(wU)	you				
-7	max-yogam	2	maxyogamASriwaH	maxyogam	asmax-yoga{puM}{2;eka}	karma,8	merI_prApwirUpa_yoga_ke	devotional_service_unto_me	<asmaw-yogam>Bs6			
-8	ASriwaH	3	0	ASriwa{puM}{1;eka}	Af_Sri1{kqw_prawyayaH:kwa;Af_SriF;BvAxiH;puM}{1;eka}	viSeRaNam,12.1	ASriwa_hokara	refuge				
-9	sarva-karma-Pala-wyAgam	13	sarvakarmaPalawyAgaM	sarvakarmaPalawyAgam	sarva-karman-Pala-wyAga{puM}{2;eka}	karma,11	saba_karmoM_ke_Pala_kA_wyAga	renounce_the_result_of_all_activities	<<<sarva-karma>K1-Pala>T6-wyAgaM>T6			
-10	wawaH	10	wawaH	wawaH{avya}	wawaH{avya}	hewuH,11	wo	therefore				
-11	kuru	14	kuru	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lot;ma;eka;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,12.1;sakarmakaH	karo	do				
-12	yaw-AwmavAn	11	yawAwmavAn	yawAwmavaw{puM}{1;eka}	yax-Awmavaw{puM}{1;eka}	viSeRaNam,12.1	mana-buxXi_Axi_para_vijaya_prApwa_karanevAlA_hokara	self-situated	<yawa-AwmavAn>Bs6			
-12.1	(wvam)	12	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wuma)	you				
+1	अथ	1	अथैतदप्यशक्तोऽसि	अथ{अव्य}	अथ{अव्य}	सम्बन्धः,5	यदि	एवेन्_ट्होउग्ह्				
+2	एतत्	4	0	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{1;एक}	कर्म,6	उपर्युक्त_साधन_को	ट्हिस्				
+3	अपि	6	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,6	भी	अल्सो				
+4	अ-शक्तः	8	0	अशक्त{पुं}{1;एक}	न-शक्त{पुं}{1;एक}	विधेय_विशेषणम्,5	असमर्थ	उनब्ले	<न-शक्तः>ठ्न्			
+5	असि	9	0	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,6.1;अकर्मकः	है	अरे				
+6	कर्तुम्	5	कर्तुं	कृ1{कृत्_प्रत्ययः:तुमुन्;कृञ्;भ्वादिः}/कृ2{कृत्_प्रत्ययः:तुमुन्;कृञ्;स्वादिः}/कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	कृ3{कृत्_प्रत्ययः:तुमुन्;डुकृञ्;तनादिः}	सहायकक्रिया,4	करने_में	टो_पेर्ङोर्म्				
+6.1	(त्वम्)	7	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,5	(तू)	योउ				
+7	मद्-योगम्	2	मद्योगमाश्रितः	मद्योगम्	अस्मद्-योग{पुं}{2;एक}	कर्म,8	मेरी_प्राप्तिरूप_योग_के	डेवोटिओनल्_सेर्विचे_उन्टो_मे	<अस्मत्-योगम्>भ्स्6			
+8	आश्रितः	3	0	आश्रित{पुं}{1;एक}	आङ्_श्रि1{कृत्_प्रत्ययः:क्त;आङ्_श्रिञ्;भ्वादिः;पुं}{1;एक}	विशेषणम्,12.1	आश्रित_होकर	रेङुगे				
+9	सर्व-कर्म-फल-त्यागम्	13	सर्वकर्मफलत्यागं	सर्वकर्मफलत्यागम्	सर्व-कर्मन्-फल-त्याग{पुं}{2;एक}	कर्म,11	सब_कर्मों_के_फल_का_त्याग	रेनोउन्चे_ट्हे_रेसुल्ट्_ओङ्_अल्ल्_अच्टिविटिएस्	<<<सर्व-कर्म>ख्1-फल>ठ्6-त्यागं>ठ्6			
+10	ततः	10	ततः	ततः{अव्य}	ततः{अव्य}	हेतुः,11	तो	ट्हेरेङोरे				
+11	कुरु	14	कुरु	कृ3{कर्तरि;लोट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लोट्;म;एक;परस्मैपदी;डुकृञ्;तनादिः}	अभिहितकर्ता,12.1;सकर्मकः	करो	डो				
+12	यत्-आत्मवान्	11	यतात्मवान्	यतात्मवत्{पुं}{1;एक}	यद्-आत्मवत्{पुं}{1;एक}	विशेषणम्,12.1	मन-बुद्धि_आदि_पर_विजय_प्राप्त_करनेवाला_होकर	सेल्ङ्-सिटुअटेड्	<यत-आत्मवान्>भ्स्6			
+12.1	(त्वम्)	12	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,11	(तुम)	योउ				

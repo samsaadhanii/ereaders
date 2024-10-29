@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	pavanaH	3	pavanaH	pavana{puM}{1;eka}	pavana{puM}{1;eka}	viXeya_viSeRaNam,3	vAyu	the_wind				
-2	pavawAm	2	pavawAmasmi	pavaw{puM}{6;bahu}/pavaw{napuM}{6;bahu}/pavawA{swrI}{2;eka}/pU1{karwari;lot;pra;eka;AwmanepaxI;pUf;BvAxiH}	pU1_Nic{kqw_prawyayaH:Sawq;pUf_Nic;BvAxiH;puM}{6;bahu}	nirXAraNam,1	paviwra_karanevAloM_meM	of_all_that_purifies				
-3	asmi	6	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa	hUz	am				
-4	rAmaH	5	rAmaH	rAma{puM}{1;eka}/rA1{karwari;lat;u;bahu;parasmEpaxI;rA;axAxiH}	rAma{puM}{1;eka}	sup_samucciwaH,8	SrIrAma	Rama				
-5	Saswra-BqwAm	4	SaswraBqwAmaham	Saswra-BqwA{swrI}{2;eka}	Saswra-Bqwa{puM}{6;bahu}	nirXAraNam,4	SaswraXAriyoM_meM	of_the_carriers_of_weapons	<Saswra-BqwAm>U			
-6	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,3	mEM	I				
-7	JaRANAm	7	JaRANAM	JaRa{puM}{6;bahu}/JaRa{napuM}{6;bahu}	JaRa{puM}{6;bahu}	nirXAraNam,8	maCaliyoM_meM	of_all_aquatics				
-8	makaraH	8	makaraScAsmi	makara{puM}{1;eka}	makara{puM}{1;eka}	viXeya_viSeRaNam,10	magara	crocodile				
-9	ca	12	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	also				
-10	asmi	9	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,6;akarmakaH	hUz	am				
-11	srowasAm	10	srowasAmasmi	srowas{napuM}{6;bahu}	sru1_Nic{kqw_prawyayaH:Sawq;sru_Nic;BvAxiH;napuM}{6;bahu}	nirXAraNam,13	naxiyoM_meM	of_flowing_rivers				
-12	asmi	13	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,12;akarmakaH	hUz	am				
-13	jAhnavI	11	jAhnavI	jAhnavI	jAhnavI{swrI}{1;eka}	viXeya_viSeRaNam,12	SrIBAgIraWI_gaMgAjI	the_River_Ganges				
-13.1	(aham)		()	asmax{1;eka}	asmax{1;eka}	karwA,10						
+1	पवनः	3	पवनः	पवन{पुं}{1;एक}	पवन{पुं}{1;एक}	विधेय_विशेषणम्,3	वायु	ट्हे_तिन्ड्				
+2	पवताम्	2	पवतामस्मि	पवत्{पुं}{6;बहु}/पवत्{नपुं}{6;बहु}/पवता{स्त्री}{2;एक}/पू1{कर्तरि;लोट्;प्र;एक;आत्मनेपदी;पूङ्;भ्वादिः}	पू1_णिच्{कृत्_प्रत्ययः:शतृ;पूङ्_णिच्;भ्वादिः;पुं}{6;बहु}	निर्धारणम्,1	पवित्र_करनेवालों_में	ओङ्_अल्ल्_ट्हट्_पुरिङिएस्				
+3	अस्मि	6	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहित	हूँ	अम्				
+4	रामः	5	रामः	राम{पुं}{1;एक}/रा1{कर्तरि;लट्;उ;बहु;परस्मैपदी;रा;अदादिः}	राम{पुं}{1;एक}	सुप्_समुच्चितः,8	श्रीराम	षम				
+5	शस्त्र-भृताम्	4	शस्त्रभृतामहम्	शस्त्र-भृता{स्त्री}{2;एक}	शस्त्र-भृत{पुं}{6;बहु}	निर्धारणम्,4	शस्त्रधारियों_में	ओङ्_ट्हे_चर्रिएर्स्_ओङ्_तेअपोन्स्	<शस्त्र-भृताम्>ऊ			
+6	अहम्	1	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,3	मैं	ई				
+7	झषाणाम्	7	झषाणां	झष{पुं}{6;बहु}/झष{नपुं}{6;बहु}	झष{पुं}{6;बहु}	निर्धारणम्,8	मछलियों_में	ओङ्_अल्ल्_अऋउअटिच्स्				
+8	मकरः	8	मकरश्चास्मि	मकर{पुं}{1;एक}	मकर{पुं}{1;एक}	विधेय_विशेषणम्,10	मगर	च्रोचोडिले				
+9	च	12	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	और	अल्सो				
+10	अस्मि	9	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,6;अकर्मकः	हूँ	अम्				
+11	स्रोतसाम्	10	स्रोतसामस्मि	स्रोतस्{नपुं}{6;बहु}	स्रु1_णिच्{कृत्_प्रत्ययः:शतृ;स्रु_णिच्;भ्वादिः;नपुं}{6;बहु}	निर्धारणम्,13	नदियों_में	ओङ्_ङ्लोतिन्ग्_रिवेर्स्				
+12	अस्मि	13	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,12;अकर्मकः	हूँ	अम्				
+13	जाह्नवी	11	जाह्नवी	जाह्नवी	जाह्नवी{स्त्री}{1;एक}	विधेय_विशेषणम्,12	श्रीभागीरथी_गंगाजी	ट्हे_षिवेर्_घन्गेस्				
+13.1	(अहम्)		()	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,10						

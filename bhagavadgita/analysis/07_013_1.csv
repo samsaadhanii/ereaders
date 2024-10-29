@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wriBiH	3	wriBirguNamayErBAvEreBi	wri{puM}{3;bahu}/wri{puM}{3;bahu}/wri{napuM}{3;bahu}	wri{puM}{3;bahu}	viSeRaNam,3	wInoM_prakAra_ke	three				
-2	guNamayEH	1	0	guNamaya{puM}{3;bahu}/guNamaya{napuM}{3;bahu}/guNamaya{puM}{3;bahu}/guNamaya{napuM}{3;bahu}	guNamaya{puM}{3;bahu}	viSeRaNam,3	guNoM_ke_kAryarUpa_sAwwvika_rAjasa_Ora_wAmasa	by_the_three_gunas				
-3	BAvEH	4	0	BAva{puM}{3;bahu}	BAva{puM}{3;bahu}	karwA,8	BAvoM_se	state_of_being				
-4	eBiH	2	0	ixam{puM}{3;bahu}/ixam{napuM}{3;bahu}	ixam{puM}{3;bahu}	viSeRaNam,3	ina	all_these				
-5	sarvam	6	sarvamixaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{1;eka}	viSeRaNam,7	sArA	the_whole_world				
-6	ixam	5	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,7	yaha	in_this_world				
-7	jagaw	7	jagaw	jagaw{puM}{1;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}	jagaw{napuM}{1;eka}	karwA,10	saMsAra_prANisamuxAya	universe				
-8	mohiwam	8	mohiwaM	mohiwa{puM}{2;eka}/mohiwa{napuM}{1;eka}/mohiwa{napuM}{2;eka}	muh1{kqw_prawyayaH:kwa;muhaz;xivAxiH;napuM}{1;eka}	viSeRaNam,7	mohiwa	deluded				
-9	na	15	nABijAnAwi	na{avya}	na{avya}	prawiReXaH,10	nahIM	not				
-10	aBijAnAwi	16	0	aBi_jFA2{karwari;lat;pra;eka;parasmEpaxI;jFA;kryAxiH}	aBi_jFA2{karwari;lat;pra;eka;parasmEpaxI;aBi_jFA;kryAxiH}	aBihiwakarwA,7;sakarmakaH	jAnawA	know				
-11	mAm	14	mAmeByaH	asmax{2;eka}	asmax{2;eka}	karma,10	muJako	me				
-12	eByaH	10	0	ixam{puM}{4;bahu}/ixam{puM}{5;bahu}/ixam{napuM}{4;bahu}/ixam{napuM}{5;bahu}	ixam{napuM}{5;bahu}	upapaxasambanXaH,13	inase_(wInoM_guNoM_se)	above_these				
-13	param	11	paramavyayam	param{avya}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}/para{puM}{2;eka}/para{napuM}{1;eka}/para{napuM}{2;eka}	para{puM}{2;eka}	viSeRaNam,11	pare	the_Supreme				
-14	a-vyayam	13	0	a-vyaya{puM}{2;eka}/vyaya{napuM}{1;eka}/vyaya{napuM}{2;eka}	avyaya{puM}{2;eka}	viSeRaNam,11	avinASI_ko	inexhaustible	<na-vyayam>Bsmn			
+1	त्रिभिः	3	त्रिभिर्गुणमयैर्भावैरेभि	त्रि{पुं}{3;बहु}/त्रि{पुं}{3;बहु}/त्रि{नपुं}{3;बहु}	त्रि{पुं}{3;बहु}	विशेषणम्,3	तीनों_प्रकार_के	ट्ह्रेए				
+2	गुणमयैः	1	0	गुणमय{पुं}{3;बहु}/गुणमय{नपुं}{3;बहु}/गुणमय{पुं}{3;बहु}/गुणमय{नपुं}{3;बहु}	गुणमय{पुं}{3;बहु}	विशेषणम्,3	गुणों_के_कार्यरूप_सात्त्विक_राजस_और_तामस	ब्य्_ट्हे_ट्ह्रेए_गुनस्				
+3	भावैः	4	0	भाव{पुं}{3;बहु}	भाव{पुं}{3;बहु}	कर्ता,8	भावों_से	स्टटे_ओङ्_बेइन्ग्				
+4	एभिः	2	0	इदम्{पुं}{3;बहु}/इदम्{नपुं}{3;बहु}	इदम्{पुं}{3;बहु}	विशेषणम्,3	इन	अल्ल्_ट्हेसे				
+5	सर्वम्	6	सर्वमिदं	सर्व{पुं}{2;एक}/सर्व{नपुं}{1;एक}/सर्व{नपुं}{2;एक}	सर्व{नपुं}{1;एक}	विशेषणम्,7	सारा	ट्हे_त्होले_तोर्ल्ड्				
+6	इदम्	5	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	विशेषणम्,7	यह	इन्_ट्हिस्_तोर्ल्ड्				
+7	जगत्	7	जगत्	जगत्{पुं}{1;एक}/जगत्{नपुं}{1;एक}/जगत्{नपुं}{2;एक}	जगत्{नपुं}{1;एक}	कर्ता,10	संसार_प्राणिसमुदाय	उनिवेर्से				
+8	मोहितम्	8	मोहितं	मोहित{पुं}{2;एक}/मोहित{नपुं}{1;एक}/मोहित{नपुं}{2;एक}	मुह्1{कृत्_प्रत्ययः:क्त;मुहँ;दिवादिः;नपुं}{1;एक}	विशेषणम्,7	मोहित	डेलुडेड्				
+9	न	15	नाभिजानाति	न{अव्य}	न{अव्य}	प्रतिषेधः,10	नहीं	नोट्				
+10	अभिजानाति	16	0	अभि_ज्ञा2{कर्तरि;लट्;प्र;एक;परस्मैपदी;ज्ञा;क्र्यादिः}	अभि_ज्ञा2{कर्तरि;लट्;प्र;एक;परस्मैपदी;अभि_ज्ञा;क्र्यादिः}	अभिहितकर्ता,7;सकर्मकः	जानता	क्नोत्				
+11	माम्	14	मामेभ्यः	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,10	मुझको	मे				
+12	एभ्यः	10	0	इदम्{पुं}{4;बहु}/इदम्{पुं}{5;बहु}/इदम्{नपुं}{4;बहु}/इदम्{नपुं}{5;बहु}	इदम्{नपुं}{5;बहु}	उपपदसम्बन्धः,13	इनसे_(तीनों_गुणों_से)	अबोवे_ट्हेसे				
+13	परम्	11	परमव्ययम्	परम्{अव्य}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}/पर{पुं}{2;एक}/पर{नपुं}{1;एक}/पर{नपुं}{2;एक}	पर{पुं}{2;एक}	विशेषणम्,11	परे	ट्हे_शुप्रेमे				
+14	अ-व्ययम्	13	0	अ-व्यय{पुं}{2;एक}/व्यय{नपुं}{1;एक}/व्यय{नपुं}{2;एक}	अव्यय{पुं}{2;एक}	विशेषणम्,11	अविनाशी_को	इनेद्हउस्टिब्ले	<न-व्ययम्>भ्स्म्न्			

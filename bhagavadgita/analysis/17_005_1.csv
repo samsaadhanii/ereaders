@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-SAswra-vihiwam	3	aSAswravihiwaM	a-SAswra-vihiwa{puM}{2;eka}/vihiwa{napuM}{1;eka}/vihiwa{napuM}{2;eka}	na-SAswra-vihiwa{puM}{2;eka}	viSeRaNam,5	SAswraviXi_se_rahiwa	not_mentioned_in_the_scriptures_directed	<na-<SAswra-vihiwaM>T3>Tn			
-2	Goram	4	GoraM	Gora{puM}{2;eka}/Gora{napuM}{1;eka}/Gora{napuM}{2;eka}	Gora{napuM}{2;eka}	viSeRaNam,5	Gora	harmful_to_others				
-3	wapyanwe	6	wapyanwe	wap1{karmaNi;lat;pra;bahu;AwmanepaxI;wapaz;BvAxiH}/wap2{karwari;lat;pra;bahu;AwmanepaxI;wapaz;xivAxiH}/wap2{karmaNi;lat;pra;bahu;AwmanepaxI;wapaz;xivAxiH}	wap1{karwari;lat;pra;bahu;AwmanepaxI;wapaz;BvAxiH}	aBihiwakarwA,6;sakarmakaH	wapawe_hEM	undergo_penances				
-4	ye	1	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,6;niwya_sambanXaH,8.4	jo	those				
-5	wapaH	5	wapo	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}/wapas{napuM}{8;eka}	wapas{napuM}{2;eka}	karma,3	wapa_ko	austerities				
-6	janAH	2	janAH	jana{puM}{1;bahu}/jana{puM}{8;bahu}	jana{puM}{1;bahu}	karwA,3	manuRya	persons				
-7	xamBa-ahafkAra-saMyukwAH	9	xamBAhafkArasaMyukwAH	xamBa-ahafkAra-saMyukwa{puM}{1;bahu}/saMyukwa{puM}{8;bahu}/saMyukwA{swrI}{1;bahu}/saMyukwA{swrI}{2;bahu}/saMyukwA{swrI}{8;bahu}	xamBa-ahafkAra-sam_yuj2{kqw_prawyayaH:kwa;sam_yujizr;ruXAxiH;puM}{1;bahu}	sup_samucciwaH,8	xamBa_Ora_ahaMkAra_se_yukwa	engaged_in_pride_and_egoism	<<xamBa-ahafkAra>Di-saMyukwAH>T3			
-8	kAma-rAga-bala-anviwAH	10	kAmarAgabalAnviwAH	kAma-rAga-bala-anviwa{puM}{1;bahu}/anviwa{puM}{8;bahu}/anviwA{swrI}{1;bahu}/anviwA{swrI}{2;bahu}/anviwA{swrI}{8;bahu}	kAma-rAga-bala-anviwa{puM}{1;bahu}	viXeya_viSeRaNam,8.2	kAmanA_Asakwi_Ora_balake_aBimAna_se_BI_yukwa	impelled_by_lust,_attachment_and_force	<<<kAma-rAga>Di-bala>T6-anviwAH>T3			
-8.1	(ca)	12	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,8	(Ora)	and				
-8.2	(sanwi)	11	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,8.3;akarmakaH	(hEM)	are				
-8.3	(janAH)	8	(0)	(jana{puM}{1;bahu}/jana{puM}{8;bahu})	(jana{puM}{1;bahu})	karwA,8.2	(loga)	persons				
-8.4	(we)	7	(0)	(wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka})	(wax{puM}{1;bahu})	viSeRaNam,8.3	(ve)	those				
+1	अ-शास्त्र-विहितम्	3	अशास्त्रविहितं	अ-शास्त्र-विहित{पुं}{2;एक}/विहित{नपुं}{1;एक}/विहित{नपुं}{2;एक}	न-शास्त्र-विहित{पुं}{2;एक}	विशेषणम्,5	शास्त्रविधि_से_रहित	नोट्_मेन्टिओनेड्_इन्_ट्हे_स्च्रिप्टुरेस्_डिरेच्टेड्	<न-<शास्त्र-विहितं>ठ्3>ठ्न्			
+2	घोरम्	4	घोरं	घोर{पुं}{2;एक}/घोर{नपुं}{1;एक}/घोर{नपुं}{2;एक}	घोर{नपुं}{2;एक}	विशेषणम्,5	घोर	हर्म्ङुल्_टो_ओट्हेर्स्				
+3	तप्यन्ते	6	तप्यन्ते	तप्1{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;तपँ;भ्वादिः}/तप्2{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;तपँ;दिवादिः}/तप्2{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;तपँ;दिवादिः}	तप्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;तपँ;भ्वादिः}	अभिहितकर्ता,6;सकर्मकः	तपते_हैं	उन्डेर्गो_पेनन्चेस्				
+4	ये	1	ये	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	विशेषणम्,6;नित्य_सम्बन्धः,8.4	जो	ट्होसे				
+5	तपः	5	तपो	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}/तपस्{नपुं}{8;एक}	तपस्{नपुं}{2;एक}	कर्म,3	तप_को	अउस्टेरिटिएस्				
+6	जनाः	2	जनाः	जन{पुं}{1;बहु}/जन{पुं}{8;बहु}	जन{पुं}{1;बहु}	कर्ता,3	मनुष्य	पेर्सोन्स्				
+7	दम्भ-अहङ्कार-संयुक्ताः	9	दम्भाहङ्कारसंयुक्ताः	दम्भ-अहङ्कार-संयुक्त{पुं}{1;बहु}/संयुक्त{पुं}{8;बहु}/संयुक्ता{स्त्री}{1;बहु}/संयुक्ता{स्त्री}{2;बहु}/संयुक्ता{स्त्री}{8;बहु}	दम्भ-अहङ्कार-सम्_युज्2{कृत्_प्रत्ययः:क्त;सम्_युजिँर्;रुधादिः;पुं}{1;बहु}	सुप्_समुच्चितः,8	दम्भ_और_अहंकार_से_युक्त	एन्गगेड्_इन्_प्रिडे_अन्ड्_एगोइस्म्	<<दम्भ-अहङ्कार>ढि-संयुक्ताः>ठ्3			
+8	काम-राग-बल-अन्विताः	10	कामरागबलान्विताः	काम-राग-बल-अन्वित{पुं}{1;बहु}/अन्वित{पुं}{8;बहु}/अन्विता{स्त्री}{1;बहु}/अन्विता{स्त्री}{2;बहु}/अन्विता{स्त्री}{8;बहु}	काम-राग-बल-अन्वित{पुं}{1;बहु}	विधेय_विशेषणम्,8.2	कामना_आसक्ति_और_बलके_अभिमान_से_भी_युक्त	इम्पेल्लेड्_ब्य्_लुस्ट्,_अट्टच्ह्मेन्ट्_अन्ड्_ङोर्चे	<<<काम-राग>ढि-बल>ठ्6-अन्विताः>ठ्3			
+8.1	(च)	12	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,8	(और)	अन्ड्				
+8.2	(सन्ति)	11	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/सत्{नपुं}{8;बहु}/सन्ती{स्त्री}{8;एक}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,8.3;अकर्मकः	(हैं)	अरे				
+8.3	(जनाः)	8	(0)	(जन{पुं}{1;बहु}/जन{पुं}{8;बहु})	(जन{पुं}{1;बहु})	कर्ता,8.2	(लोग)	पेर्सोन्स्				
+8.4	(ते)	7	(0)	(तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक})	(तद्{पुं}{1;बहु})	विशेषणम्,8.3	(वे)	ट्होसे				

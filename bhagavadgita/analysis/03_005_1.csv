@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-14	prakqwijEH	1	prakqwijErguNEH	prakqwija{puM}{3;bahu}/prakqwija{napuM}{3;bahu}	prakqwija{puM}{3;bahu}	viSeRaNam,15	prakqwijaniwa	by_modes_of_Prakrti	<prakqwi-jEH>U			
-15	guNEH	2	0	guNa{puM}{3;bahu}	guNa{puM}{3;bahu}	prayojakakarwA,9	guNoM_xvArA	by_qualities				
-10	hi	3	hyavaSaH	hi{avya}	hi{avya}	sambanXaH,9	kyoMki	for				
-11	avaSaH	4	0	a-vaSa{puM}{1;eka}	avaSa{puM}{1;eka}	viSeRaNam,13	paravaSa_huA	helplessly	<na-vaSaH>Tn			
-13	sarvaH	5	sarvaH	sarva{puM}{1;eka}	sarva{puM}{1;eka}	prayojyakarwA,9	saba_(sArA_manuRya_samuxAya)	everyone				
-12	karma	6	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karma,9	karma_karane_ke_liye	to_action				
-9	kAryawe	7	kAryawe	kAryawA{swrI}{1;xvi}/kAryawA{swrI}{2;xvi}/kAryawA{swrI}{8;eka}/kAryawA{swrI}{8;xvi}	kq3_Nic{karwari;lat;pra;eka;AwmanepaxI;dukqF_Nic;wanAxiH}	prawiyogI,8.1	bAXya_kiyA_jAwA_hE	driven				
-8.1	(awaH)	8	()	awaH{avya}	awaH{avya}	anuyogI,7	awaH		anuyogI,16			
-1	na	9	na	na{avya}	na{avya}	prawiReXaH,7	nahIM	not				
-2	hi	10	hi	hi{avya}	hi{avya}	sambanXaH,7	niHsanxeha	surely				
-3	kaSciw	11	kaSciwkRaNamapi	kaSciw{avya}/kiFciw{puM}{1;eka}	kiFciw{puM}{1;eka}	karwA,7	koI_BI	none				
-6	jAwu	12	jAwu	jAwu{avya}	jAwu{avya}	kriyAviSeRaNam,7	kisI_BI_kAla_meM	ever				
-4	kRaNam	13	0	kRaNa{puM}{2;eka}/kRaNa{napuM}{1;eka}/kRaNa{napuM}{2;eka}	kRaNa{puM}{2;eka}	kriyAviSeRaNam,7	kRaNamAwra	even_for_a_moment				
-5	api	14	0	api{avya}	api{avya}	sambanXaH,4	BI	also				
-8	akarmakqw	15	0	a-karman-kqw{puM}{1;eka}	na-karman-kqw{puM}{1;eka}	viXeya_viSeRaNam,7	binA_karma_kiye	inactive	<a-<karma-kqw>U>Tn			
-7	wiRTawi	16	wiRTawyakarmakqw	wiRTaw{puM}{7;eka}/wiRTaw{napuM}{7;eka}/sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}	sWA1{karwari;lat;pra;eka;parasmEpaxI;RTA;BvAxiH}	aBihiwa_karwA,3;sakarmaka	rahawA	remain				
+14	प्रकृतिजैः	1	प्रकृतिजैर्गुणैः	प्रकृतिज{पुं}{3;बहु}/प्रकृतिज{नपुं}{3;बहु}	प्रकृतिज{पुं}{3;बहु}	विशेषणम्,15	प्रकृतिजनित	ब्य्_मोडेस्_ओङ्_फ्रक्र्टि	<प्रकृति-जैः>ऊ			
+15	गुणैः	2	0	गुण{पुं}{3;बहु}	गुण{पुं}{3;बहु}	प्रयोजककर्ता,9	गुणों_द्वारा	ब्य्_ऋउअलिटिएस्				
+10	हि	3	ह्यवशः	हि{अव्य}	हि{अव्य}	सम्बन्धः,9	क्योंकि	ङोर्				
+11	अवशः	4	0	अ-वश{पुं}{1;एक}	अवश{पुं}{1;एक}	विशेषणम्,13	परवश_हुआ	हेल्प्लेस्स्ल्य्	<न-वशः>ठ्न्			
+13	सर्वः	5	सर्वः	सर्व{पुं}{1;एक}	सर्व{पुं}{1;एक}	प्रयोज्यकर्ता,9	सब_(सारा_मनुष्य_समुदाय)	एवेर्योने				
+12	कर्म	6	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{1;एक}	कर्म,9	कर्म_करने_के_लिये	टो_अच्टिओन्				
+9	कार्यते	7	कार्यते	कार्यता{स्त्री}{1;द्वि}/कार्यता{स्त्री}{2;द्वि}/कार्यता{स्त्री}{8;एक}/कार्यता{स्त्री}{8;द्वि}	कृ3_णिच्{कर्तरि;लट्;प्र;एक;आत्मनेपदी;डुकृञ्_णिच्;तनादिः}	प्रतियोगी,8.1	बाध्य_किया_जाता_है	ड्रिवेन्				
+8.1	(अतः)	8	()	अतः{अव्य}	अतः{अव्य}	अनुयोगी,7	अतः		अनुयोगी,16			
+1	न	9	न	न{अव्य}	न{अव्य}	प्रतिषेधः,7	नहीं	नोट्				
+2	हि	10	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,7	निःसन्देह	सुरेल्य्				
+3	कश्चित्	11	कश्चित्क्षणमपि	कश्चित्{अव्य}/किञ्चित्{पुं}{1;एक}	किञ्चित्{पुं}{1;एक}	कर्ता,7	कोई_भी	नोने				
+6	जातु	12	जातु	जातु{अव्य}	जातु{अव्य}	क्रियाविशेषणम्,7	किसी_भी_काल_में	एवेर्				
+4	क्षणम्	13	0	क्षण{पुं}{2;एक}/क्षण{नपुं}{1;एक}/क्षण{नपुं}{2;एक}	क्षण{पुं}{2;एक}	क्रियाविशेषणम्,7	क्षणमात्र	एवेन्_ङोर्_अ_मोमेन्ट्				
+5	अपि	14	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,4	भी	अल्सो				
+8	अकर्मकृत्	15	0	अ-कर्मन्-कृत्{पुं}{1;एक}	न-कर्मन्-कृत्{पुं}{1;एक}	विधेय_विशेषणम्,7	बिना_कर्म_किये	इनच्टिवे	<अ-<कर्म-कृत्>ऊ>ठ्न्			
+7	तिष्ठति	16	तिष्ठत्यकर्मकृत्	तिष्ठत्{पुं}{7;एक}/तिष्ठत्{नपुं}{7;एक}/स्था1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ष्ठा;भ्वादिः}	स्था1{कर्तरि;लट्;प्र;एक;परस्मैपदी;ष्ठा;भ्वादिः}	अभिहित_कर्ता,3;सकर्मक	रहता	रेमइन्				

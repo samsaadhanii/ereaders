@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	paFca	8	paFcEwAni	paFcan{1;bahu}/paFcan{2;bahu}/paFc2{karwari;lot;ma;eka;parasmEpaxI;paciz;curAxiH}	paFcan{2;bahu}	viSeRaNam,4	pAzca	five				
-2	ewAni	7	0	ewax{napuM}{1;bahu}/ewax{napuM}{2;bahu}	ewax{napuM}{2;bahu}	viSeRaNam,4	ye	all_these				
-3	mahAn-bAho	1	mahAbAho	mahAbAhu{puM}{8;eka}/mahAbAhu{napuM}{8;eka}	mahAbAhu{puM}{8;eka}	samboXyaH,9	he_mahAbAho	O_mighty-armed_one	<mahaw-bAho>Bs6			
-4	kAraNAni	9	kAraNAni	kAraNa{napuM}{1;bahu}/kAraNa{napuM}{2;bahu}	kAraNa{napuM}{2;bahu}	karma,5	hewu	instruments				
-5	niboXa	12	niboXa	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;buXizr;BvAxiH}	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;ni_buXizr;BvAxiH}	aBihiwa_karwA,11.1;sakarmakaH	BalIBAzwi_jAna	just_understand				
-6	me	11	me	asmax{6;eka}	asmax{5;eka}	apAxAnam,5	muJase	from_Me				
-7	sAfKye	5	sAfKye	sAfKya{puM}{7;eka}/sAfKya{napuM}{1;xvi}/sAfKya{napuM}{2;xvi}/sAfKya{napuM}{7;eka}/sAfKyA{swrI}{1;xvi}/sAfKyA{swrI}{2;xvi}	sAfKya{napuM}{7;eka}	aXikaraNam,9	sAMKyaSAswra_meM	in_the_Vedas				
-8	kqwa-anwe	4	kqwAnwe	kqwAnwa{puM}{7;eka}/kqwAnwa{napuM}{1;xvi}/kqwAnwa{napuM}{2;xvi}/kqwAnwa{napuM}{7;eka}	kqwa-anwa{puM}{7;eka}	viSeRaNam,7	karmoM_kA_anwa_karane_ke_liye_upAya_bawalAnevAle	after_performance	<kqwa-anwe>Bs7			
-9	prokwAni	6	prokwAni	prokwa{napuM}{1;bahu}/prokwa{napuM}{2;bahu}_(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	pra_vac1{kqw_prawyayaH:kwa;pra_vacaz;axAxiH;napuM}{1;bahu}	viSeRaNam,4	kahe_gaye_hEM	is_said				
-10	sixXaye	3	sixXaye	sixXi{swrI}{4;eka}	sixXi{swrI}{4;eka}	prayojanam,5	sixXi_ke	perfection				
-11	sarva-karmaNAm	2	sarvakarmaNAm	sarvakarman{puM}{6;bahu}/sarvakarman{napuM}{6;bahu}	sarva-karman{napuM}{6;bahu}	RaRTIsambanXaH,10	sampUrNa_karmoM_kI	of_all_activities	<sarva-karmaNAm>K1			
-11.1	(wvam)	10	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,5	(wU)	you				
+1	पञ्च	8	पञ्चैतानि	पञ्चन्{1;बहु}/पञ्चन्{2;बहु}/पञ्च्2{कर्तरि;लोट्;म;एक;परस्मैपदी;पचिँ;चुरादिः}	पञ्चन्{2;बहु}	विशेषणम्,4	पाँच	ङिवे				
+2	एतानि	7	0	एतद्{नपुं}{1;बहु}/एतद्{नपुं}{2;बहु}	एतद्{नपुं}{2;बहु}	विशेषणम्,4	ये	अल्ल्_ट्हेसे				
+3	महान्-बाहो	1	महाबाहो	महाबाहु{पुं}{8;एक}/महाबाहु{नपुं}{8;एक}	महाबाहु{पुं}{8;एक}	सम्बोध्यः,9	हे_महाबाहो	औ_मिग्ह्ट्य्-अर्मेड्_ओने	<महत्-बाहो>भ्स्6			
+4	कारणानि	9	कारणानि	कारण{नपुं}{1;बहु}/कारण{नपुं}{2;बहु}	कारण{नपुं}{2;बहु}	कर्म,5	हेतु	इन्स्ट्रुमेन्ट्स्				
+5	निबोध	12	निबोध	नि_बुध्2{कर्तरि;लोट्;म;एक;परस्मैपदी;बुधिँर्;भ्वादिः}	नि_बुध्2{कर्तरि;लोट्;म;एक;परस्मैपदी;नि_बुधिँर्;भ्वादिः}	अभिहित_कर्ता,11.1;सकर्मकः	भलीभाँति_जान	जुस्ट्_उन्डेर्स्टन्ड्				
+6	मे	11	मे	अस्मद्{6;एक}	अस्मद्{5;एक}	अपादानम्,5	मुझसे	ङ्रोम्_ंए				
+7	साङ्ख्ये	5	साङ्ख्ये	साङ्ख्य{पुं}{7;एक}/साङ्ख्य{नपुं}{1;द्वि}/साङ्ख्य{नपुं}{2;द्वि}/साङ्ख्य{नपुं}{7;एक}/साङ्ख्या{स्त्री}{1;द्वि}/साङ्ख्या{स्त्री}{2;द्वि}	साङ्ख्य{नपुं}{7;एक}	अधिकरणम्,9	सांख्यशास्त्र_में	इन्_ट्हे_Vएडस्				
+8	कृत-अन्ते	4	कृतान्ते	कृतान्त{पुं}{7;एक}/कृतान्त{नपुं}{1;द्वि}/कृतान्त{नपुं}{2;द्वि}/कृतान्त{नपुं}{7;एक}	कृत-अन्त{पुं}{7;एक}	विशेषणम्,7	कर्मों_का_अन्त_करने_के_लिये_उपाय_बतलानेवाले	अङ्टेर्_पेर्ङोर्मन्चे	<कृत-अन्ते>भ्स्7			
+9	प्रोक्तानि	6	प्रोक्तानि	प्रोक्त{नपुं}{1;बहु}/प्रोक्त{नपुं}{2;बहु}_(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	प्र_वच्1{कृत्_प्रत्ययः:क्त;प्र_वचँ;अदादिः;नपुं}{1;बहु}	विशेषणम्,4	कहे_गये_हैं	इस्_सइड्				
+10	सिद्धये	3	सिद्धये	सिद्धि{स्त्री}{4;एक}	सिद्धि{स्त्री}{4;एक}	प्रयोजनम्,5	सिद्धि_के	पेर्ङेच्टिओन्				
+11	सर्व-कर्मणाम्	2	सर्वकर्मणाम्	सर्वकर्मन्{पुं}{6;बहु}/सर्वकर्मन्{नपुं}{6;बहु}	सर्व-कर्मन्{नपुं}{6;बहु}	षष्ठीसम्बन्धः,10	सम्पूर्ण_कर्मों_की	ओङ्_अल्ल्_अच्टिविटिएस्	<सर्व-कर्मणाम्>ख्1			
+11.1	(त्वम्)	10	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,5	(तू)	योउ				

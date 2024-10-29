@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	pUrva-aByAsena	3	pUrvAByAsena	pUrva-aByAsa{puM}{3;eka}	pUrva-aByAsa{puM}{3;eka}	karaNam,4	pahale_ke_aByAsa_se	previous_practice	<pUrva-aByAsena>K1			
-2	wena	2	wenEva	wax{puM}{3;eka}/wax{napuM}{3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;wanAxiH}	wax{puM}{3;eka}	karwA,4	usa	by_the_influence_of_that				
-3	eva	4	0	eva{avya}	eva{avya}	sambanXaH,1	hI	certainly				
-4	hriyawe	8	hriyawe	hq1{karmaNi;lat;pra;eka;AwmanepaxI;hqF;BvAxiH}/hq2{karmaNi;lat;pra;eka;AwmanepaxI;hq;juhowyAxiH}	hq1{karmaNi;lat;pra;eka;AwmanepaxI;hqF;BvAxiH}	aBihiwakarma,8	AkarRiwa_kiyA_jAwA_hE	is_attracted				
-5	hi	1	hyavaSoZpi	hi{avya}	hi{avya}	sambanXaH,4	niHsanxeha	surely				
-6	a-vaSaH	6	0	avaSa{puM}{1;eka}/avaSas{swrI}{1;eka}	na-vaSa{puM}{1;eka}	viSeRaNam,8	parAXIna_huA	helpless	<na-vaSaH>Tn			
-7	api	7	0	api{avya}	api{avya}	sambanXaH,6	BI	also				
-8	saH	5	saH	wax{puM}{1;eka}	wax{puM}{1;eka}	karma,4	vaha	he				
-9	jijFAsuH	10	jijFAsurapi	jijFAsu{puM}{1;eka}	jijFAsu{puM}{1;eka}	karwA,13	jijFAsu	willing_to_know				
-10	api	11	0	api{avya}	api{avya}	sambanXaH,9	BI	so				
-11	yogasya	9	yogasya	yoga{puM}{6;eka}	yoga{puM}{6;eka}	RaRTIsambanXaH,9	samabuxXirUpa_yoga_kA	of_yoga				
-12	Sabxa-brahma	12	SabxabrahmAwivarwawe	Sabxa-brahma{napuM}{8;eka}/brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	Sabxa-brahman{napuM}{2;eka}	karma,13	vexa_meM_kahe_hue_sakAma_karmoM_ke_Pala_ko	ritualistic_principles_of_scripture	<Sabxa-brahma>Km			
-13	awivarwawe	13	0	awi_vqw1{karwari;lat;pra;eka;AwmanepaxI;vqwuz;BvAxiH}	awi_vqw1{karwari;lat;pra;eka;AwmanepaxI;awi_vqwuz;BvAxiH}	aBihiwakarwA,9	ullaMGana_kara_jAwA_hE	transcends				
+1	पूर्व-अभ्यासेन	3	पूर्वाभ्यासेन	पूर्व-अभ्यास{पुं}{3;एक}	पूर्व-अभ्यास{पुं}{3;एक}	करणम्,4	पहले_के_अभ्यास_से	प्रेविओउस्_प्रच्टिचे	<पूर्व-अभ्यासेन>ख्1			
+2	तेन	2	तेनैव	तद्{पुं}{3;एक}/तद्{नपुं}{3;एक}/तन्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;तनुँ;तनादिः}	तद्{पुं}{3;एक}	कर्ता,4	उस	ब्य्_ट्हे_इन्ङ्लुएन्चे_ओङ्_ट्हट्				
+3	एव	4	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,1	ही	चेर्टइन्ल्य्				
+4	ह्रियते	8	ह्रियते	हृ1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;हृञ्;भ्वादिः}/हृ2{कर्मणि;लट्;प्र;एक;आत्मनेपदी;हृ;जुहोत्यादिः}	हृ1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;हृञ्;भ्वादिः}	अभिहितकर्म,8	आकर्षित_किया_जाता_है	इस्_अट्ट्रच्टेड्				
+5	हि	1	ह्यवशोऽपि	हि{अव्य}	हि{अव्य}	सम्बन्धः,4	निःसन्देह	सुरेल्य्				
+6	अ-वशः	6	0	अवश{पुं}{1;एक}/अवशस्{स्त्री}{1;एक}	न-वश{पुं}{1;एक}	विशेषणम्,8	पराधीन_हुआ	हेल्प्लेस्स्	<न-वशः>ठ्न्			
+7	अपि	7	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,6	भी	अल्सो				
+8	सः	5	सः	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्म,4	वह	हे				
+9	जिज्ञासुः	10	जिज्ञासुरपि	जिज्ञासु{पुं}{1;एक}	जिज्ञासु{पुं}{1;एक}	कर्ता,13	जिज्ञासु	तिल्लिन्ग्_टो_क्नोत्				
+10	अपि	11	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,9	भी	सो				
+11	योगस्य	9	योगस्य	योग{पुं}{6;एक}	योग{पुं}{6;एक}	षष्ठीसम्बन्धः,9	समबुद्धिरूप_योग_का	ओङ्_योग				
+12	शब्द-ब्रह्म	12	शब्दब्रह्मातिवर्तते	शब्द-ब्रह्म{नपुं}{8;एक}/ब्रह्मन्{नपुं}{1;एक}/ब्रह्मन्{नपुं}{2;एक}	शब्द-ब्रह्मन्{नपुं}{2;एक}	कर्म,13	वेद_में_कहे_हुए_सकाम_कर्मों_के_फल_को	रिटुअलिस्टिच्_प्रिन्चिप्लेस्_ओङ्_स्च्रिप्टुरे	<शब्द-ब्रह्म>ख्म्			
+13	अतिवर्तते	13	0	अति_वृत्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;वृतुँ;भ्वादिः}	अति_वृत्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;अति_वृतुँ;भ्वादिः}	अभिहितकर्ता,9	उल्लंघन_कर_जाता_है	ट्रन्स्चेन्ड्स्				

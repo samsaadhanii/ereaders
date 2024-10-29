@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-kRarANAm	2	akRarANAmakAroZsmi	a-kRara{napuM}{6;bahu}/kRarA{swrI}{6;bahu}	akRara{napuM}{6;bahu}	nirXAraNam,2	akRaroM_meM	of_letters	<na-kRarANAm>Tn			
-2	akAraH	3	0	akAra{puM}{1;eka}	akAra{puM}{1;eka}	viXeya_viSeRaNam,3	akAra_hUz	the_first				
-3	asmi	7	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,7;akarmakaH	hUz	am				
-4	xvanxvaH	6	xvanxvaH	xvanxva{puM}{1;eka}	xvanxva{puM}{1;eka}	sup_samucciwaH,2	xvanxva_nAmaka_samAsa	dual				
-5	sAmAsikasya	5	sAmAsikasya	sAmAsika{puM}{6;eka}/sAmAsika{napuM}{6;eka}	sAmAsika{puM}{6;eka}	nirXAraNam,4	samAsoM_meM	compounds				
-6	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	Ora	and				
-7	aham	1	ahamevAkRayaH	asmax{1;eka}	asmax{1;eka}	karwA,3	mEM	I				
-8	eva	9	0	eva{avya}	eva{avya}	sambanXaH,7	hI	certainly				
-9	a-kRayaH	10	0	kRi1{karwari;laf;ma;eka;parasmEpaxI;kRi;BvAxiH}	akRaya{puM}{1;eka}	viSeRaNam,10	akRaya	eternal	<na-kRayaH>Bsmn			
-10	kAlaH	11	kAlo	kAla{puM}{1;eka}	kAla{puM}{1;eka}	sup_samucciwaH,11	kAla	time				
-11	XAwA	14	XAwAhaM	XAwA{swrI}{1;eka}/XAwq{puM}{1;eka}/XA1{karwari;lut;pra;eka;parasmEpaxI;duXAF;juhowyAxiH}/XA1{karwari;lut;pra;eka;AwmanepaxI;duXAF;juhowyAxiH}/XA1{karmaNi;lut;pra;eka;AwmanepaxI;duXAF;juhowyAxiH}/Xe1{karwari;lut;pra;eka;parasmEpaxI;Xet;BvAxiH}/Xe1{karmaNi;lut;pra;eka;AwmanepaxI;Xet;BvAxiH}	XAwq{puM}{1;eka}	viXeya_viSeRaNam,13.1	XAraNa-poRaNa_karanevAlA	creator				
-11.1	(ca)	13	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,11	(waWA)	also				
-12	aham	8	0	asmax{1;eka}	asmax{1;eka}	karwA,13.1	mEM	I				
-13	viSvawaH-muKaH	12	viSvawomuKaH	viSvawar-muKa{puM}{1;eka}	viSvawaH-muKa{puM}{1;eka}	viSeRaNam,11	saba_ora_muKavAlA_virAtsvarUpa	Brahma	<viSvawaH-muKaH>Bs6			
-13.1	(asmi)	15	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hUz)	am				
+1	अ-क्षराणाम्	2	अक्षराणामकारोऽस्मि	अ-क्षर{नपुं}{6;बहु}/क्षरा{स्त्री}{6;बहु}	अक्षर{नपुं}{6;बहु}	निर्धारणम्,2	अक्षरों_में	ओङ्_लेट्टेर्स्	<न-क्षराणाम्>ठ्न्			
+2	अकारः	3	0	अकार{पुं}{1;एक}	अकार{पुं}{1;एक}	विधेय_विशेषणम्,3	अकार_हूँ	ट्हे_ङिर्स्ट्				
+3	अस्मि	7	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,7;अकर्मकः	हूँ	अम्				
+4	द्वन्द्वः	6	द्वन्द्वः	द्वन्द्व{पुं}{1;एक}	द्वन्द्व{पुं}{1;एक}	सुप्_समुच्चितः,2	द्वन्द्व_नामक_समास	डुअल्				
+5	सामासिकस्य	5	सामासिकस्य	सामासिक{पुं}{6;एक}/सामासिक{नपुं}{6;एक}	सामासिक{पुं}{6;एक}	निर्धारणम्,4	समासों_में	चोम्पोउन्ड्स्				
+6	च	4	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,4	और	अन्ड्				
+7	अहम्	1	अहमेवाक्षयः	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,3	मैं	ई				
+8	एव	9	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,7	ही	चेर्टइन्ल्य्				
+9	अ-क्षयः	10	0	क्षि1{कर्तरि;लङ्;म;एक;परस्मैपदी;क्षि;भ्वादिः}	अक्षय{पुं}{1;एक}	विशेषणम्,10	अक्षय	एटेर्नल्	<न-क्षयः>भ्स्म्न्			
+10	कालः	11	कालो	काल{पुं}{1;एक}	काल{पुं}{1;एक}	सुप्_समुच्चितः,11	काल	टिमे				
+11	धाता	14	धाताहं	धाता{स्त्री}{1;एक}/धातृ{पुं}{1;एक}/धा1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;डुधाञ्;जुहोत्यादिः}/धा1{कर्तरि;लुट्;प्र;एक;आत्मनेपदी;डुधाञ्;जुहोत्यादिः}/धा1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;डुधाञ्;जुहोत्यादिः}/धे1{कर्तरि;लुट्;प्र;एक;परस्मैपदी;धेट्;भ्वादिः}/धे1{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;धेट्;भ्वादिः}	धातृ{पुं}{1;एक}	विधेय_विशेषणम्,13.1	धारण-पोषण_करनेवाला	च्रेअटोर्				
+11.1	(च)	13	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,11	(तथा)	अल्सो				
+12	अहम्	8	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,13.1	मैं	ई				
+13	विश्वतः-मुखः	12	विश्वतोमुखः	विश्वतर्-मुख{पुं}{1;एक}	विश्वतः-मुख{पुं}{1;एक}	विशेषणम्,11	सब_ओर_मुखवाला_विराट्स्वरूप	भ्रह्म	<विश्वतः-मुखः>भ्स्6			
+13.1	(अस्मि)	15	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,12;अकर्मकः	(हूँ)	अम्				

@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	vyAmiSreNa	1	vyAmiSreNeva	vyAmiSra{puM}{3;eka}/vyAmiSra{napuM}{3;eka}	vyAmiSra{napuM}{3;eka}	upamAnam,2	mile_hue	conflicting				
-2	iva	2		iva{avya}	iva{avya}	upamAna_xyowakaH,3	jEse	seemingly				
-3	vAkyena	3	vAkyena	vAkya{napuM}{3;eka}	vAkya{napuM}{3;eka}	karaNam,5	vacanoM_se	expressions				
-4	buxXim	5	buxXiM	buxXi{swrI}{2;eka}	buxXi{swrI}{2;eka}	prayojyakarwA,5	buxXi_ko	mind				
-5	mohayasi	6	mohayasIva	muh1_Nic{karwari;lat;ma;eka;parasmEpaxI;muhaz;xivAxiH}	muh1_Nic{karwari;lat;ma;eka;parasmEpaxI;muhaz_Nic;xivAxiH}		mohiwa_kara_rahe_hEM	puzzling				
-6	iva	7		iva{avya}	iva{avya}	sambanXaH,5	mAno	as_it_were				
-7	me	4	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,4	merI	my				
-8	waw	8	waxekaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,9	usa	therefore				
-9	ekam	9		eka{puM}{2;eka}/eka{napuM}{1;eka}/eka{napuM}{2;eka}	eka{puM}{2;eka}	karma,11	eka_bAwa_ko	the_one				
-10	vaxa	11	vaxa	vax1{karwari;lot;ma;eka;parasmEpaxI;vaxaz;BvAxiH}	vax1{karwari;lot;ma;eka;parasmEpaxI;vaxaz;BvAxiH}		kahiye	tell				
-11	niSciwya	10	niSciwya	niSciwya{avya}/nis_ci1{kqw_prawyayaH:lyap;ciF;svAxiH}	ci1{avya;lyap;ciF;:svAxiH}	pUrvakAlaH,10	niSciwa_karake	definite_discipline				
-12	yena	12	yena	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{napuM}{3;eka}	karaNam,15;niwya_sambanXaH,8	jisase	by_which				
-13	SreyaH	14	SreyoZhamApnuyAm	Sreya{puM}{1;eka}/Sreyas{napuM}{1;eka}/Sreyas{napuM}{2;eka}/Sreyas{napuM}{8;eka}	Sreyas{napuM}{2;eka}	karma,15	kalyANa_ko	the_highest_good				
-14	aham	13		asmax{1;eka}	asmax{1;eka}	karwA,15	mEM	I				
-15	ApnuyAm	15		Ap1{karwari;viXilif;u;eka;parasmEpaxI;ApLz;svAxiH}	Ap1{karwari;viXilif;u;eka;parasmEpaxI;ApLz;svAxiH}	aBihiwa_karwA,13;sakarmakaH	prApwa_ho_jAUz	may_obtain				
+1	व्यामिश्रेण	1	व्यामिश्रेणेव	व्यामिश्र{पुं}{3;एक}/व्यामिश्र{नपुं}{3;एक}	व्यामिश्र{नपुं}{3;एक}	उपमानम्,2	मिले_हुए	चोन्ङ्लिच्टिन्ग्				
+2	इव	2		इव{अव्य}	इव{अव्य}	उपमान_द्योतकः,3	जैसे	सेएमिन्ग्ल्य्				
+3	वाक्येन	3	वाक्येन	वाक्य{नपुं}{3;एक}	वाक्य{नपुं}{3;एक}	करणम्,5	वचनों_से	एद्प्रेस्सिओन्स्				
+4	बुद्धिम्	5	बुद्धिं	बुद्धि{स्त्री}{2;एक}	बुद्धि{स्त्री}{2;एक}	प्रयोज्यकर्ता,5	बुद्धि_को	मिन्ड्				
+5	मोहयसि	6	मोहयसीव	मुह्1_णिच्{कर्तरि;लट्;म;एक;परस्मैपदी;मुहँ;दिवादिः}	मुह्1_णिच्{कर्तरि;लट्;म;एक;परस्मैपदी;मुहँ_णिच्;दिवादिः}		मोहित_कर_रहे_हैं	पुँँलिन्ग्				
+6	इव	7		इव{अव्य}	इव{अव्य}	सम्बन्धः,5	मानो	अस्_इट्_तेरे				
+7	मे	4	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,4	मेरी	म्य्				
+8	तत्	8	तदेकं	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	विशेषणम्,9	उस	ट्हेरेङोरे				
+9	एकम्	9		एक{पुं}{2;एक}/एक{नपुं}{1;एक}/एक{नपुं}{2;एक}	एक{पुं}{2;एक}	कर्म,11	एक_बात_को	ट्हे_ओने				
+10	वद	11	वद	वद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;वदँ;भ्वादिः}	वद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;वदँ;भ्वादिः}		कहिये	टेल्ल्				
+11	निश्चित्य	10	निश्चित्य	निश्चित्य{अव्य}/निस्_चि1{कृत्_प्रत्ययः:ल्यप्;चिञ्;स्वादिः}	चि1{अव्य;ल्यप्;चिञ्;:स्वादिः}	पूर्वकालः,10	निश्चित_करके	डेङिनिटे_डिस्चिप्लिने				
+12	येन	12	येन	येन{अव्य}/यद्{पुं}{3;एक}/यद्{नपुं}{3;एक}	यद्{नपुं}{3;एक}	करणम्,15;नित्य_सम्बन्धः,8	जिससे	ब्य्_त्हिच्ह्				
+13	श्रेयः	14	श्रेयोऽहमाप्नुयाम्	श्रेय{पुं}{1;एक}/श्रेयस्{नपुं}{1;एक}/श्रेयस्{नपुं}{2;एक}/श्रेयस्{नपुं}{8;एक}	श्रेयस्{नपुं}{2;एक}	कर्म,15	कल्याण_को	ट्हे_हिग्हेस्ट्_गोओड्				
+14	अहम्	13		अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,15	मैं	ई				
+15	आप्नुयाम्	15		आप्1{कर्तरि;विधिलिङ्;उ;एक;परस्मैपदी;आपॢँ;स्वादिः}	आप्1{कर्तरि;विधिलिङ्;उ;एक;परस्मैपदी;आपॢँ;स्वादिः}	अभिहित_कर्ता,13;सकर्मकः	प्राप्त_हो_जाऊँ	मय्_ओब्टइन्				

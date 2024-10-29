@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kAmEH	4	kAmEswEswErhqwa-jFAnAH	kAma{puM}{3;bahu}	kAma{puM}{3;bahu}	karaNam,4	BogoM_kI_kAmanA_xvArA	by_desires				
-2	wEH	2	0	wax{puM}{3;bahu}/wax{napuM}{3;bahu}	wax{puM}{3;bahu}	vIpsA,3	una	by_those				
-3	wEH	3	0	wax{puM}{3;bahu}/wax{napuM}{3;bahu}	wax{puM}{3;bahu}	viSeRaNam,1	una	by_those				
-4	hqwa-jFAnAH	1	0	hqwa-jFAna{puM}{1;bahu}/jFAna{puM}{8;bahu}	hqwa-jFAna{puM}{1;bahu}	karwA,5	jinakA_jFAna_harA_jA_cukA_hE	distorted_knowledge	<hqwa-jFAnAH>Bs6			
-5	prapaxyanwe	15	prapaxyanweZnyaxevawAH	pra_pax1{karwari;lat;pra;bahu;AwmanepaxI;paxaz;xivAxiH}/pra_pax1{karmaNi;lat;pra;bahu;AwmanepaxI;paxaz;xivAxiH}	pra_pax1{karwari;lat;pra;bahu;AwmanepaxI;pra_paxaz;xivAxiH}	aBihiwa_karwA,4	Bajawe_hEM_arWAw_pUjawe_hEM	surrender				
-6	anya-xevawAH	14	0	anya-xevawA{swrI}{1;bahu}/xevawA{swrI}{2;bahu}/xevawA{swrI}{8;bahu}	anya-xevawA{swrI}{2;bahu}	muKyakarma,5	anya_xevawAoM_ko	other_demigods	<anya-xevawAH>K1			
-7	wam	10	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	vIpsA,8	usa	that				
-8	wam	11	waM	wax{puM}{2;eka}	wax{puM}{2;eka}	viSeRaNam,9	usa	that				
-9	niyamam	12	niyamamAsWAya	niyama{puM}{2;eka}	niyama{puM}{2;eka}	karma,10	niyama_ko	rules				
-10	AsWAya	13	0	Af_sWA1{kqw_prawyayaH:lyap;RTA;BvAxiH}	Af_sWA1{kqw_prawyayaH:lyap;Af_RTA;BvAxiH}	pUrvakAlaH,5	lekara	following				
-11	prakqwyA	6	prakqwyA	prakqwi{swrI}{3;eka}	prakqwi{swrI}{3;eka}	karaNam,12	svaBAva_se	by_nature				
-12	niyawAH	7	niyawAH	niyawa{puM}{1;bahu}/niyawa{puM}{8;bahu}/niyawA{swrI}{1;bahu}/niyawA{swrI}{2;bahu}/niyawA{swrI}{8;bahu}	ni_yam3{kqw_prawyayaH:kwa;ni_yamaz;BvAxiH;puM}{2;bahu}	viSeRaNam,4	preriwa	controlled				
-13	svayA	5	svayA	svA{swrI}{3;eka}/svA{swrI}{3;eka}	svA{swrI}{3;eka}	viSeRaNam,11	apane	by_their_own				
+1	कामैः	4	कामैस्तैस्तैर्हृत-ज्ञानाः	काम{पुं}{3;बहु}	काम{पुं}{3;बहु}	करणम्,4	भोगों_की_कामना_द्वारा	ब्य्_डेसिरेस्				
+2	तैः	2	0	तद्{पुं}{3;बहु}/तद्{नपुं}{3;बहु}	तद्{पुं}{3;बहु}	वीप्सा,3	उन	ब्य्_ट्होसे				
+3	तैः	3	0	तद्{पुं}{3;बहु}/तद्{नपुं}{3;बहु}	तद्{पुं}{3;बहु}	विशेषणम्,1	उन	ब्य्_ट्होसे				
+4	हृत-ज्ञानाः	1	0	हृत-ज्ञान{पुं}{1;बहु}/ज्ञान{पुं}{8;बहु}	हृत-ज्ञान{पुं}{1;बहु}	कर्ता,5	जिनका_ज्ञान_हरा_जा_चुका_है	डिस्टोर्टेड्_क्नोत्लेड्गे	<हृत-ज्ञानाः>भ्स्6			
+5	प्रपद्यन्ते	15	प्रपद्यन्तेऽन्यदेवताः	प्र_पद्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;पदँ;दिवादिः}/प्र_पद्1{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;पदँ;दिवादिः}	प्र_पद्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;प्र_पदँ;दिवादिः}	अभिहित_कर्ता,4	भजते_हैं_अर्थात्_पूजते_हैं	सुर्रेन्डेर्				
+6	अन्य-देवताः	14	0	अन्य-देवता{स्त्री}{1;बहु}/देवता{स्त्री}{2;बहु}/देवता{स्त्री}{8;बहु}	अन्य-देवता{स्त्री}{2;बहु}	मुख्यकर्म,5	अन्य_देवताओं_को	ओट्हेर्_डेमिगोड्स्	<अन्य-देवताः>ख्1			
+7	तम्	10	तं	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	वीप्सा,8	उस	ट्हट्				
+8	तम्	11	तं	तद्{पुं}{2;एक}	तद्{पुं}{2;एक}	विशेषणम्,9	उस	ट्हट्				
+9	नियमम्	12	नियममास्थाय	नियम{पुं}{2;एक}	नियम{पुं}{2;एक}	कर्म,10	नियम_को	रुलेस्				
+10	आस्थाय	13	0	आङ्_स्था1{कृत्_प्रत्ययः:ल्यप्;ष्ठा;भ्वादिः}	आङ्_स्था1{कृत्_प्रत्ययः:ल्यप्;आङ्_ष्ठा;भ्वादिः}	पूर्वकालः,5	लेकर	ङोल्लोतिन्ग्				
+11	प्रकृत्या	6	प्रकृत्या	प्रकृति{स्त्री}{3;एक}	प्रकृति{स्त्री}{3;एक}	करणम्,12	स्वभाव_से	ब्य्_नटुरे				
+12	नियताः	7	नियताः	नियत{पुं}{1;बहु}/नियत{पुं}{8;बहु}/नियता{स्त्री}{1;बहु}/नियता{स्त्री}{2;बहु}/नियता{स्त्री}{8;बहु}	नि_यम्3{कृत्_प्रत्ययः:क्त;नि_यमँ;भ्वादिः;पुं}{2;बहु}	विशेषणम्,4	प्रेरित	चोन्ट्रोल्लेड्				
+13	स्वया	5	स्वया	स्वा{स्त्री}{3;एक}/स्वा{स्त्री}{3;एक}	स्वा{स्त्री}{3;एक}	विशेषणम्,11	अपने	ब्य्_ट्हेइर्_ओत्न्				

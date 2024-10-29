@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kAyena	7	kAyena	kAya{puM}{3;eka}/kAya{napuM}{3;eka}	kAya{napuM}{3;eka}	sup_samucciwaH,5	SarIra_xvArA	with_the_body				
-2	manasA	4	manasA	manas{napuM}{3;eka}/manasA{swrI}{1;eka}	manas{napuM}{3;eka}	sup_samucciwaH,5	mana	with_the_mind				
-3	buxXyA	5	buxXyA	buxXi{swrI}{3;eka}	buxXi{swrI}{3;eka}	sup_samucciwaH,5	buxXi	with_the_intelligence				
-4	kevalEH	2	kevalErinxriyErapi	kevala{puM}{3;bahu}/kevala{napuM}{3;bahu}	kevala{napuM}{3;bahu}	viSeRaNam,5	kevala	purified				
-5	inxriyEH	3	0	inxriya{puM}{3;bahu}/inxriya{napuM}{3;bahu}	inxriya{napuM}{3;bahu}	karaNam,9	inxriya	with_the_senses				
-5.1	(ca)	6	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,3	(Ora)	and				
-6	api	8	0	api{avya}	api{avya}	sambanXaH,5	BI	even_with				
-7	yoginaH	1	yoginaH	yogin{puM}{1;bahu}/yogin{puM}{2;bahu}/yogin{puM}{5;eka}/yogin{puM}{6;eka}	yogin{puM}{1;bahu}	karwA,9	karmayogI	yogi				
-8	karma	12	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,9	karma	actions				
-9	kurvanwi	13	kurvanwi	kurvaw{napuM}{1;bahu}/kurvaw{napuM}{2;bahu}/kq3{karwari;lat;pra;bahu;parasmEpaxI;dukqF;wanAxiH}	kq3{karwari;lat;pra;bahu;parasmEpaxI;dukqF;wanAxiH}	aBihiwakarwA,7;sakarmakaH	karawe_hEM	act				
-10	safgam	9	safgaM	safga{puM}{2;eka}	safga{puM}{2;eka}	karma,11	Asakwi_ko	attachment				
-11	wyakwvA	10	wyakwvAwmaSuxXaye	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	pUrvakAlaH,9	wyAgakara	giving_up				
-12	Awma-SuxXaye	11	0	Awman-SuxXi{swrI}{4;eka}	Awman-SuxXi{swrI}{4;eka}	prayojanam,9	anwaHkaraNa_kI_SuxXi_ke_liye	for_the_purpose_of_self-purification	<Awma-SuxXaye>T6			
+1	कायेन	7	कायेन	काय{पुं}{3;एक}/काय{नपुं}{3;एक}	काय{नपुं}{3;एक}	सुप्_समुच्चितः,5	शरीर_द्वारा	तिट्ह्_ट्हे_बोड्य्				
+2	मनसा	4	मनसा	मनस्{नपुं}{3;एक}/मनसा{स्त्री}{1;एक}	मनस्{नपुं}{3;एक}	सुप्_समुच्चितः,5	मन	तिट्ह्_ट्हे_मिन्ड्				
+3	बुद्ध्या	5	बुद्ध्या	बुद्धि{स्त्री}{3;एक}	बुद्धि{स्त्री}{3;एक}	सुप्_समुच्चितः,5	बुद्धि	तिट्ह्_ट्हे_इन्टेल्लिगेन्चे				
+4	केवलैः	2	केवलैरिन्द्रियैरपि	केवल{पुं}{3;बहु}/केवल{नपुं}{3;बहु}	केवल{नपुं}{3;बहु}	विशेषणम्,5	केवल	पुरिङिएड्				
+5	इन्द्रियैः	3	0	इन्द्रिय{पुं}{3;बहु}/इन्द्रिय{नपुं}{3;बहु}	इन्द्रिय{नपुं}{3;बहु}	करणम्,9	इन्द्रिय	तिट्ह्_ट्हे_सेन्सेस्				
+5.1	(च)	6	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,3	(और)	अन्ड्				
+6	अपि	8	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,5	भी	एवेन्_तिट्ह्				
+7	योगिनः	1	योगिनः	योगिन्{पुं}{1;बहु}/योगिन्{पुं}{2;बहु}/योगिन्{पुं}{5;एक}/योगिन्{पुं}{6;एक}	योगिन्{पुं}{1;बहु}	कर्ता,9	कर्मयोगी	योगि				
+8	कर्म	12	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,9	कर्म	अच्टिओन्स्				
+9	कुर्वन्ति	13	कुर्वन्ति	कुर्वत्{नपुं}{1;बहु}/कुर्वत्{नपुं}{2;बहु}/कृ3{कर्तरि;लट्;प्र;बहु;परस्मैपदी;डुकृञ्;तनादिः}	कृ3{कर्तरि;लट्;प्र;बहु;परस्मैपदी;डुकृञ्;तनादिः}	अभिहितकर्ता,7;सकर्मकः	करते_हैं	अच्ट्				
+10	सङ्गम्	9	सङ्गं	सङ्ग{पुं}{2;एक}	सङ्ग{पुं}{2;एक}	कर्म,11	आसक्ति_को	अट्टच्ह्मेन्ट्				
+11	त्यक्त्वा	10	त्यक्त्वात्मशुद्धये	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	पूर्वकालः,9	त्यागकर	गिविन्ग्_उप्				
+12	आत्म-शुद्धये	11	0	आत्मन्-शुद्धि{स्त्री}{4;एक}	आत्मन्-शुद्धि{स्त्री}{4;एक}	प्रयोजनम्,9	अन्तःकरण_की_शुद्धि_के_लिये	ङोर्_ट्हे_पुर्पोसे_ओङ्_सेल्ङ्-पुरिङिचटिओन्	<आत्म-शुद्धये>ठ्6			

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	na	10	na	na{avya}	na{avya}	prawiReXaH,5	nahIM	not				
-2	mAm	9	mAM	asmax{2;eka}	asmax{2;eka}	karma,5	muJako	unto_Me				
-3	xuR-kqwinaH	6	xuRkqwino	xuR-kqwin{puM}{1;bahu}/kqwin{puM}{2;bahu}/kqwin{puM}{5;eka}/kqwin{puM}{6;eka}/kqwin{puM}{8;bahu}	xuRkqwin{puM}{1;bahu}	viSeRaNam,4	xURiwa_karma_karanevAle	miscreants	<xuR-kqwinaH>Bs6			
-4	mUDAH	7	mUDAH	mUDa{puM}{1;bahu}/mUDa{puM}{8;bahu}/mUDA{swrI}{1;bahu}/mUDA{swrI}{2;bahu}/mUDA{swrI}{8;bahu}	mUDa{puM}{1;bahu}	karwA,5	mUDa़loga	foolish				
-5	prapaxyanwe	11	prapaxyanwe	pra_pax1{karwari;lat;pra;bahu;AwmanepaxI;paxaz;xivAxiH}/pra_pax1{karmaNi;lat;pra;bahu;AwmanepaxI;paxaz;xivAxiH}	pra_pax1{karwari;lat;pra;bahu;AwmanepaxI;pra_paxaz;xivAxiH}	aBihiwa_karwA,4;sakarmakaH	Bajawe	surrender				
-6	nara-aXamAH	8	narAXamAH	nara-aXamA{swrI}{1;bahu}/aXamA{swrI}{2;bahu}/aXamA{swrI}{8;bahu}	nara-aXama{puM}{1;bahu}	viSeRaNam,4	manuRyoM_meM_nIca	lowest_among_mankind	<nara-aXamAH>T7			
-7	mAyayA	1	mAyayApahqwajFAnA	mAyA{swrI}{3;eka}	mAyA{swrI}{3;eka}	hewuH,8	mAyA_ke_xvArA	by_the_illusory_energy				
-8	apahqwa-jFAnAH	2	0	apahqwa-jFAna{puM}{1;bahu}/jFAna{puM}{8;bahu}	apahqwa-jFAna{puM}{1;bahu}	viSeRaNam,4	jinakA_jFAna_harA_jA_cukA_hE	whose_knowledge_is_stolen_by_illusion	<apahqwa-jFAnAH>Bs6			
-9	Asuram	3	AsuraM	Asura{puM}{2;eka}/Asura{napuM}{1;eka}/Asura{napuM}{2;eka}	Asura{puM}{2;eka}	viSeRaNam,10	Asura	demonic				
-10	BAvam	4	BAvamASriwAH	BAva{puM}{2;eka}	BAva{puM}{2;eka}	karma,11	svaBAva_ko	nature				
-11	ASriwAH	5	0	ASriwa{puM}{1;bahu}/ASriwa{puM}{8;bahu}/ASriwA{swrI}{1;bahu}/ASriwA{swrI}{2;bahu}/ASriwA{swrI}{8;bahu}/ASriwA{swrI}{1;bahu}/ASriwA{swrI}{2;bahu}/ASriwA{swrI}{8;bahu}	Af_Sri1{kqw_prawyayaH:kwa;Af_SriF;BvAxiH;puM}{1;bahu}	viSeRaNam,4	XAraNa_kiye_hue	accepting				
+1	न	10	न	न{अव्य}	न{अव्य}	प्रतिषेधः,5	नहीं	नोट्				
+2	माम्	9	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,5	मुझको	उन्टो_ंए				
+3	दुष्-कृतिनः	6	दुष्कृतिनो	दुष्-कृतिन्{पुं}{1;बहु}/कृतिन्{पुं}{2;बहु}/कृतिन्{पुं}{5;एक}/कृतिन्{पुं}{6;एक}/कृतिन्{पुं}{8;बहु}	दुष्कृतिन्{पुं}{1;बहु}	विशेषणम्,4	दूषित_कर्म_करनेवाले	मिस्च्रेअन्ट्स्	<दुष्-कृतिनः>भ्स्6			
+4	मूढाः	7	मूढाः	मूढ{पुं}{1;बहु}/मूढ{पुं}{8;बहु}/मूढा{स्त्री}{1;बहु}/मूढा{स्त्री}{2;बहु}/मूढा{स्त्री}{8;बहु}	मूढ{पुं}{1;बहु}	कर्ता,5	मूढॆअञलोग	ङोओलिस्ह्				
+5	प्रपद्यन्ते	11	प्रपद्यन्ते	प्र_पद्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;पदँ;दिवादिः}/प्र_पद्1{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;पदँ;दिवादिः}	प्र_पद्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;प्र_पदँ;दिवादिः}	अभिहित_कर्ता,4;सकर्मकः	भजते	सुर्रेन्डेर्				
+6	नर-अधमाः	8	नराधमाः	नर-अधमा{स्त्री}{1;बहु}/अधमा{स्त्री}{2;बहु}/अधमा{स्त्री}{8;बहु}	नर-अधम{पुं}{1;बहु}	विशेषणम्,4	मनुष्यों_में_नीच	लोतेस्ट्_अमोन्ग्_मन्किन्ड्	<नर-अधमाः>ठ्7			
+7	मायया	1	माययापहृतज्ञाना	माया{स्त्री}{3;एक}	माया{स्त्री}{3;एक}	हेतुः,8	माया_के_द्वारा	ब्य्_ट्हे_इल्लुसोर्य्_एनेर्ग्य्				
+8	अपहृत-ज्ञानाः	2	0	अपहृत-ज्ञान{पुं}{1;बहु}/ज्ञान{पुं}{8;बहु}	अपहृत-ज्ञान{पुं}{1;बहु}	विशेषणम्,4	जिनका_ज्ञान_हरा_जा_चुका_है	त्होसे_क्नोत्लेड्गे_इस्_स्टोलेन्_ब्य्_इल्लुसिओन्	<अपहृत-ज्ञानाः>भ्स्6			
+9	आसुरम्	3	आसुरं	आसुर{पुं}{2;एक}/आसुर{नपुं}{1;एक}/आसुर{नपुं}{2;एक}	आसुर{पुं}{2;एक}	विशेषणम्,10	आसुर	डेमोनिच्				
+10	भावम्	4	भावमाश्रिताः	भाव{पुं}{2;एक}	भाव{पुं}{2;एक}	कर्म,11	स्वभाव_को	नटुरे				
+11	आश्रिताः	5	0	आश्रित{पुं}{1;बहु}/आश्रित{पुं}{8;बहु}/आश्रिता{स्त्री}{1;बहु}/आश्रिता{स्त्री}{2;बहु}/आश्रिता{स्त्री}{8;बहु}/आश्रिता{स्त्री}{1;बहु}/आश्रिता{स्त्री}{2;बहु}/आश्रिता{स्त्री}{8;बहु}	आङ्_श्रि1{कृत्_प्रत्ययः:क्त;आङ्_श्रिञ्;भ्वादिः;पुं}{1;बहु}	विशेषणम्,4	धारण_किये_हुए	अच्चेप्टिन्ग्				

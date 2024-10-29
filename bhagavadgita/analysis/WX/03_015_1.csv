@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	karma	3	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	samucciwaH,4	karmasamuxAya_ko	prescribed_action				
+2	brahma-uxBavam	2	brahmoxBavaM	brahman-uxBava{puM}{2;eka}	brahman-uxBava{puM}{2;eka}	viSeRaNam,1	vexa_se_uwpanna	has_its_origin_in_the_Vedas	<brahma-uxBavam>Bs6			
+3	vixXi	7	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,1;sakarmaka	jAna	know				
+3.1	(wvam)	1	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,3	(wU)	you				
+4	brahma	5	brahmAkRarasamuxBavam	brahma{napuM}{8;eka}/brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{2;eka}	karma,3		the_Vedas				
+5	akRara-samuxBavam	4	0	akRara-samuxBava{puM}{2;eka}	akRara-samuxBava{puM}{2;eka}	viSeRaNam,4	avinASI_paramAwmA_se_uwpanna_huA	proceed_from_the_Indestructible_(God)	<akRara-samuxBavam>Bs6			
+5.1	(ca)	6	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,4	(BI)	and				
+6	wasmAw	8	wasmAwsarvagawaM	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,11.1	isase	hence				
+7	sarva-gawam	9	0	sarva-gawa{puM}{2;eka}/gawa{napuM}{1;eka}/gawa{napuM}{2;eka}	sarva-gawa{napuM}{1;eka}	viSeRaNam,8	sarvavyApI	the_all-pervading	<sarva-gawam>K1			
+8	brahma	10	brahma	brahma{napuM}{8;eka}/brahman{napuM}{1;eka}/brahman{napuM}{2;eka}	brahman{napuM}{1;eka}	karwA,11.1	parama_akRara_paramAwmA	Infinite				
+9	niwyam	11	niwyaM	niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	niwya{napuM}{2;eka}	kriyAviSeRaNam,11.1	saxA_hI	always				
+10	yajFe	12	yajFe	yajFa{puM}{7;eka}	yajFa{puM}{7;eka}	aXikaraNam,11.1	yajFa_meM	in_sacrifice				
+11	prawiRTiwam	13	prawiRTiwam	prawiRTiwa{puM}{2;eka}/prawiRTiwa{napuM}{1;eka}/prawiRTiwa{napuM}{2;eka}	prawiRTiwa{puM}{2;eka}	karmasamAnAXikaraNam,11.1	prawiRTiwa	present				
+11.1	(Bavawi)	14	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwa_karwA,8;sakarmaka	(hE)	is_rooted				

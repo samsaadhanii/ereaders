@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	bAhya-sparSeRu	1	bAhyasparSeRvasakwAwmA	bAhya-sparSa{puM}{7;bahu}	bAhya-sparSa{puM}{7;bahu}	aXikaraNam,2	bAhara_ke_suKoM_meM	in_external_sense_pleasure	<bAhya-sparSeRu>K1			
-2	a-sakwa-AwmA	2		asakwa-Awman{puM}{1;eka}	asakwa-Awman{puM}{1;eka}	karwA,3	Asakwirahiwa_anwaHkaraNavAlA	one_who_is_not_so_attached	<<na-sakwa>Tn-AwmA>Bs6			
-3	vinxawi	8	vinxawyAwmani	vix3{karwari;lat;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	vix3{karwari;lat;pra;eka;parasmEpaxI;vixLz;wuxAxiH}	aBihiwa_karwA,2	prApwa_howA_hE	enjoys				
-4	Awmani	3	0	Awman{puM}{7;eka}	Awman{puM}{7;eka}	aXikaraNam,3	AwmA_meM	in_the_self				
-5	yaw	4	yawsuKam	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	sambanXaH,3	jo	that_which				
-6	suKam	5	0	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{1;eka}	karma,3	Ananxa	happiness				
-7	saH	9	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	viSeRaNam,8	vaha	that				
-8	brahma-yoga-yukwa-AwmA	10	brahmayogayukwAwmA	brahman-yoga-yukwa-Awman{puM}{1;eka}	brahman-yoga-yukwa-Awman{puM}{1;eka}	karwA,11	saccixAnanxaGana_parabrahma_paramAwmA_ke_XyAnarUpa_yoga_meM_aBinnaBAva_se_sWiwa_puruRa	self-connected_and_concentrated_in_Brahman	<<<brahma-yoga>T7-yukwa>T3-AwmA>Bs6			
-9	suKam	12	suKamakRayamaSnuwe	suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	suKa{napuM}{2;eka}	karma,11	Ananxa_kA	happiness				
-10	a-kRayam	11	0	kRi1{karwari;laf;u;eka;parasmEpaxI;kRi;BvAxiH}	akRaya{napuM}{2;eka}	viSeRaNam,9	akRaya	unlimited	<na-kRayam>Bsmn			
-11	aSnuwe	13	0	aS1{karwari;lat;pra;eka;AwmanepaxI;aSUz;svAxiH}	aS1{karwari;lat;pra;eka;AwmanepaxI;aSUz;svAxiH}	aBihiwa_karwA,11	anuBava_karawA_hE	enjoys				
+1	बाह्य-स्पर्शेषु	1	बाह्यस्पर्शेष्वसक्तात्मा	बाह्य-स्पर्श{पुं}{7;बहु}	बाह्य-स्पर्श{पुं}{7;बहु}	अधिकरणम्,2	बाहर_के_सुखों_में	इन्_एद्टेर्नल्_सेन्से_प्लेअसुरे	<बाह्य-स्पर्शेषु>ख्1			
+2	अ-सक्त-आत्मा	2		असक्त-आत्मन्{पुं}{1;एक}	असक्त-आत्मन्{पुं}{1;एक}	कर्ता,3	आसक्तिरहित_अन्तःकरणवाला	ओने_त्हो_इस्_नोट्_सो_अट्टच्हेड्	<<न-सक्त>ठ्न्-आत्मा>भ्स्6			
+3	विन्दति	8	विन्दत्यात्मनि	विद्3{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदॢँ;तुदादिः}	विद्3{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदॢँ;तुदादिः}	अभिहित_कर्ता,2	प्राप्त_होता_है	एन्जोय्स्				
+4	आत्मनि	3	0	आत्मन्{पुं}{7;एक}	आत्मन्{पुं}{7;एक}	अधिकरणम्,3	आत्मा_में	इन्_ट्हे_सेल्ङ्				
+5	यत्	4	यत्सुखम्	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	सम्बन्धः,3	जो	ट्हट्_त्हिच्ह्				
+6	सुखम्	5	0	सुखम्{अव्य}/सुख{पुं}{2;एक}/सुख{नपुं}{1;एक}/सुख{नपुं}{2;एक}	सुख{नपुं}{1;एक}	कर्म,3	आनन्द	हप्पिनेस्स्				
+7	सः	9	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	विशेषणम्,8	वह	ट्हट्				
+8	ब्रह्म-योग-युक्त-आत्मा	10	ब्रह्मयोगयुक्तात्मा	ब्रह्मन्-योग-युक्त-आत्मन्{पुं}{1;एक}	ब्रह्मन्-योग-युक्त-आत्मन्{पुं}{1;एक}	कर्ता,11	सच्चिदानन्दघन_परब्रह्म_परमात्मा_के_ध्यानरूप_योग_में_अभिन्नभाव_से_स्थित_पुरुष	सेल्ङ्-चोन्नेच्टेड्_अन्ड्_चोन्चेन्ट्रटेड्_इन्_भ्रह्मन्	<<<ब्रह्म-योग>ठ्7-युक्त>ठ्3-आत्मा>भ्स्6			
+9	सुखम्	12	सुखमक्षयमश्नुते	सुखम्{अव्य}/सुख{पुं}{2;एक}/सुख{नपुं}{1;एक}/सुख{नपुं}{2;एक}	सुख{नपुं}{2;एक}	कर्म,11	आनन्द_का	हप्पिनेस्स्				
+10	अ-क्षयम्	11	0	क्षि1{कर्तरि;लङ्;उ;एक;परस्मैपदी;क्षि;भ्वादिः}	अक्षय{नपुं}{2;एक}	विशेषणम्,9	अक्षय	उन्लिमिटेड्	<न-क्षयम्>भ्स्म्न्			
+11	अश्नुते	13	0	अश्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;अशूँ;स्वादिः}	अश्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;अशूँ;स्वादिः}	अभिहित_कर्ता,11	अनुभव_करता_है	एन्जोय्स्				

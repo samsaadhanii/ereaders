@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	vexa	14	vexa	vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}/vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,2	jAnawA	knows				
+2	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,1	mEM	I				
+3	samawIwAni	3	samawIwAni	samawIwa{napuM}{1;bahu}/samawIwa{napuM}{2;bahu}/samawIwa{napuM}{8;bahu}	samawIwa{napuM}{2;bahu}	sup_samucciwaH,9	pUrva_meM_vyawIwa_hue	past_recurrence				
+4	varwamAnAni	5	varwamAnAni	varwamAna{napuM}{1;bahu}/varwamAna{napuM}{2;bahu}/varwamAna{napuM}{8;bahu}	varwamAna{napuM}{2;bahu}	sup_samucciwaH,9	varwamAna_meM_sWiwa	present				
+5	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	waWA	also				
+6	arjuna	1	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,12	he_arjuna	O_Arjuna				
+7	BaviRyANi	7	BaviRyANi	BaviRya{napuM}{1;bahu}/BaviRya{napuM}{2;bahu}/BaviRya{napuM}{8;bahu}	BaviRya{napuM}{2;bahu}	sup_samucciwaH,9	Age_honevAle	future				
+8	ca	4	cArjuna	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	Ora	and				
+9	BUwAni	8	BUwAni	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{2;bahu}	karma,1	saba_BUwoM_ko	living_entities				
+10	mAm	11	mAM	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	me				
+11	wu	10	wu	wu{avya}	wu{avya}	sambanXaH,5	paraMwu	but				
+12	vexa	9	vexAhaM	vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}/vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,14	jAnawA_hUz	know				
+13	na	13	na	na{avya}	na{avya}	prawiReXaH,1	nahIM	not				
+14	kaScana	12	kaScana	kiFcana{puM}{1;eka}	kiFcana{puM}{1;eka}	viSeRaNam,13	koI_BI_(SraxXA_Bakwirahiwa_puruRa)	anyone				

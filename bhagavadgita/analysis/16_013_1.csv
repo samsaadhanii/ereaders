@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ixam	3	ixamaxya	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	karma,4	yaha	this				
-2	axya	2	0	axya{avya}	axya{avya}	aXikaraNam,4	Aja	today				
-3	mayA	1	mayA	asmax{3;eka}	asmax{3;eka}	karwA,4	mEMne	by_me				
-4	labXam	4	labXamimaM	labXa{puM}{2;eka}/labXa{napuM}{1;eka}/labXa{napuM}{2;eka}	laB1{kqw_prawyayaH:kwa;dulaBazR;BvAxiH;napuM}{1;eka}		prApwa_kara_liyA_hE	gained				
-5	imam	5	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,7	isa	this				
-6	prApsye*	7	0	pra_Ap1{karmaNi;lqt;u;eka;AwmanepaxI;ApLz;svAxiH}/pra_Ap1{karmaNi;lqf;u;eka;AwmanepaxI;ApLz;svAxiH}	pra_Ap1{karmaNi;lqt;u;eka;AwmanepaxI;pra_ApLz;svAxiH}		prApwa_kara_lUzgA	shall_be_gained				
-7	manaH-raWam	6	manoraWam	manoraWa{puM}{2;eka}	manoraWa{puM}{2;eka}	karma,6	manoraWa_ko	according_to_my_desires	<manaH-raWam>T6			
-8	ixam	8	ixamaswIxamapi	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	viSeRaNam,15	yaha	this				
-9	aswi	9	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,15;akarmakaH	hE	is				
-10	ixam	10	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{1;eka}	karwA,13	yaha	this				
-11	api	11	0	api{avya}	api{avya}	sambanXaH,14	BI	also				
-12	me	12	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,15	mere_pAsa	mine				
-13	BaviRyawi	15	BaviRyawi	as2{karwari;lqt;pra;eka;parasmEpaxI;asaz;axAxiH}/BU1{karwari;lqt;pra;eka;parasmEpaxI;BU;BvAxiH}/BaviRyaw{puM}{7;eka}/BaviRyaw{napuM}{7;eka}	BU1{karwari;lqt;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,10;akarmakaH	ho_jAyagA	will_increase_in_the_future				
-14	punaH	14	punarXanam	punaH{avya}	punaH{avya}	kriyAviSeRaNam,13	Pira	again				
-15	Xanam	13	0	Xana{napuM}{1;eka}/Xana{napuM}{2;eka}	Xana{napuM}{1;eka}	karwA,9	Xana	wealth				
+1	इदम्	3	इदमद्य	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	कर्म,4	यह	ट्हिस्				
+2	अद्य	2	0	अद्य{अव्य}	अद्य{अव्य}	अधिकरणम्,4	आज	टोडय्				
+3	मया	1	मया	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,4	मैंने	ब्य्_मे				
+4	लब्धम्	4	लब्धमिमं	लब्ध{पुं}{2;एक}/लब्ध{नपुं}{1;एक}/लब्ध{नपुं}{2;एक}	लभ्1{कृत्_प्रत्ययः:क्त;डुलभँष्;भ्वादिः;नपुं}{1;एक}		प्राप्त_कर_लिया_है	गइनेड्				
+5	इमम्	5	0	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	विशेषणम्,7	इस	ट्हिस्				
+6	प्राप्स्ये*	7	0	प्र_आप्1{कर्मणि;लृट्;उ;एक;आत्मनेपदी;आपॢँ;स्वादिः}/प्र_आप्1{कर्मणि;लृङ्;उ;एक;आत्मनेपदी;आपॢँ;स्वादिः}	प्र_आप्1{कर्मणि;लृट्;उ;एक;आत्मनेपदी;प्र_आपॢँ;स्वादिः}		प्राप्त_कर_लूँगा	स्हल्ल्_बे_गइनेड्				
+7	मनः-रथम्	6	मनोरथम्	मनोरथ{पुं}{2;एक}	मनोरथ{पुं}{2;एक}	कर्म,6	मनोरथ_को	अच्चोर्डिन्ग्_टो_म्य्_डेसिरेस्	<मनः-रथम्>ठ्6			
+8	इदम्	8	इदमस्तीदमपि	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	विशेषणम्,15	यह	ट्हिस्				
+9	अस्ति	9	0	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,15;अकर्मकः	है	इस्				
+10	इदम्	10	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{1;एक}	कर्ता,13	यह	ट्हिस्				
+11	अपि	11	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,14	भी	अल्सो				
+12	मे	12	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,15	मेरे_पास	मिने				
+13	भविष्यति	15	भविष्यति	अस्2{कर्तरि;लृट्;प्र;एक;परस्मैपदी;असँ;अदादिः}/भू1{कर्तरि;लृट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}/भविष्यत्{पुं}{7;एक}/भविष्यत्{नपुं}{7;एक}	भू1{कर्तरि;लृट्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,10;अकर्मकः	हो_जायगा	तिल्ल्_इन्च्रेअसे_इन्_ट्हे_ङुटुरे				
+14	पुनः	14	पुनर्धनम्	पुनः{अव्य}	पुनः{अव्य}	क्रियाविशेषणम्,13	फिर	अगइन्				
+15	धनम्	13	0	धन{नपुं}{1;एक}/धन{नपुं}{2;एक}	धन{नपुं}{1;एक}	कर्ता,9	धन	तेअल्ट्ह्				

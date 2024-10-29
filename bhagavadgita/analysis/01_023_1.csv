@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yowsyamAnAn	10	yowsyamAnAnavekReZhaM	yowsyamAnAn	yowsyamAna{puM}{2;bahu}	karma,2	yuxXa_karanevAloM_ko	those_who_will_be_fighting				
-1.1	(wAn)	9	()	(wax{puM}{2;bahu})	(wax{puM}{2;bahu})	viSeRaNam,1	(ina)					
-2	avekRe	12	0	ava_IkR1{karwari;lat;u;eka;AwmanepaxI;IkRaz;BvAxiH}	ava_IkR1{karwari;lat;u;eka;AwmanepaxI;ava_IkRaz;BvAxiH}	aBihiwa_karwA,3;sakarmakaH	xeKUzgA	shall_scan				
-3	aham	11	0	asmax{1;eka}	asmax{1;eka}	karwA,2	mEM	I				
-4	ye	1	ya	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	viSeRaNam,5;niwya_sambanXaH,1.1	jo	whoever				
-5	ewe	2	eweZwra	ewA{swrI}{1;xvi}/ewA{swrI}{2;xvi}/ewax{puM}{1;bahu}/ewax{swrI}{1;xvi}/ewax{swrI}{2;xvi}/ewax{napuM}{1;xvi}/ewax{napuM}{2;xvi}	ewax{puM}{1;bahu}	karwA,7	ye_(rAjAloga)	those				
-6	awra	7	0	awra{avya}	awra{avya}	xeSAXikaraNam,7	yahAz	here				
-7	samAgawAH	8	samAgawAH	samAgawa{puM}{1;bahu}/samAgawA{swrI}{1;bahu}/samAgawA{swrI}{2;bahu}	sam_Af_gam1{kqw_prawyayaH:kwa;sam_Af_gamLz;BvAxiH}{puM}{1;bahu}	aBihiwa_karwA,5;sakarmakaH	Aye_hEM	assembled				
-8	XArwarARtrasya	5	XArwarARtrasya	XArwarARtra{puM}{6;eka}	XArwarARtra{puM}{6;eka}	RaRTIsambanXaH,11	xuryoXana_kA	of_the_son_of_Dhritarashtra				
-9	xur-buxXeH	4	xurbuxXeryuxXe	xurbuxXi{swrI}{5;eka}/xurbuxXi{swrI}{6;eka}	xurbuxXi{swrI}{6;eka}	viSeRaNam,8	xurbuxXi	evil-minded	<xur-buxXeH>Bvp			
-10	yuxXe	3	0	yuxXa{puM}{7;eka}/yuxXa{napuM}{1;xvi}/yuxXa{napuM}{2;xvi}/yuxXa{napuM}{7;eka}/yuxXA{swrI}{1;xvi}/yuxXA{swrI}{2;xvi}	yuxXa{napuM}{7;eka}	aXikaraNam,7	yuxXa_meM	in_this_war				
-11	priya-cikIrRavaH	6	priyacikIrRavaH	priya-cikIrRu{puM}{1;bahu}	priya-cikIrRu{puM}{1;bahu}	viSeRaNam,5	hiwa_cAhanevAle	well_wishers	<priya-cikIrRavaH>T2			
+1	योत्स्यमानान्	10	योत्स्यमानानवेक्षेऽहं	योत्स्यमानान्	योत्स्यमान{पुं}{2;बहु}	कर्म,2	युद्ध_करनेवालों_को	ट्होसे_त्हो_तिल्ल्_बे_ङिग्ह्टिन्ग्				
+1.1	(तान्)	9	()	(तद्{पुं}{2;बहु})	(तद्{पुं}{2;बहु})	विशेषणम्,1	(इन)					
+2	अवेक्षे	12	0	अव_ईक्ष्1{कर्तरि;लट्;उ;एक;आत्मनेपदी;ईक्षँ;भ्वादिः}	अव_ईक्ष्1{कर्तरि;लट्;उ;एक;आत्मनेपदी;अव_ईक्षँ;भ्वादिः}	अभिहित_कर्ता,3;सकर्मकः	देखूँगा	स्हल्ल्_स्चन्				
+3	अहम्	11	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,2	मैं	ई				
+4	ये	1	य	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	विशेषणम्,5;नित्य_सम्बन्धः,1.1	जो	त्होएवेर्				
+5	एते	2	एतेऽत्र	एता{स्त्री}{1;द्वि}/एता{स्त्री}{2;द्वि}/एतद्{पुं}{1;बहु}/एतद्{स्त्री}{1;द्वि}/एतद्{स्त्री}{2;द्वि}/एतद्{नपुं}{1;द्वि}/एतद्{नपुं}{2;द्वि}	एतद्{पुं}{1;बहु}	कर्ता,7	ये_(राजालोग)	ट्होसे				
+6	अत्र	7	0	अत्र{अव्य}	अत्र{अव्य}	देशाधिकरणम्,7	यहाँ	हेरे				
+7	समागताः	8	समागताः	समागत{पुं}{1;बहु}/समागता{स्त्री}{1;बहु}/समागता{स्त्री}{2;बहु}	सम्_आङ्_गम्1{कृत्_प्रत्ययः:क्त;सम्_आङ्_गमॢँ;भ्वादिः}{पुं}{1;बहु}	अभिहित_कर्ता,5;सकर्मकः	आये_हैं	अस्सेम्ब्लेड्				
+8	धार्तराष्ट्रस्य	5	धार्तराष्ट्रस्य	धार्तराष्ट्र{पुं}{6;एक}	धार्तराष्ट्र{पुं}{6;एक}	षष्ठीसम्बन्धः,11	दुर्योधन_का	ओङ्_ट्हे_सोन्_ओङ्_ढ्ह्रिटरस्ह्ट्र				
+9	दुर्-बुद्धेः	4	दुर्बुद्धेर्युद्धे	दुर्बुद्धि{स्त्री}{5;एक}/दुर्बुद्धि{स्त्री}{6;एक}	दुर्बुद्धि{स्त्री}{6;एक}	विशेषणम्,8	दुर्बुद्धि	एविल्-मिन्डेड्	<दुर्-बुद्धेः>भ्व्प्			
+10	युद्धे	3	0	युद्ध{पुं}{7;एक}/युद्ध{नपुं}{1;द्वि}/युद्ध{नपुं}{2;द्वि}/युद्ध{नपुं}{7;एक}/युद्धा{स्त्री}{1;द्वि}/युद्धा{स्त्री}{2;द्वि}	युद्ध{नपुं}{7;एक}	अधिकरणम्,7	युद्ध_में	इन्_ट्हिस्_तर्				
+11	प्रिय-चिकीर्षवः	6	प्रियचिकीर्षवः	प्रिय-चिकीर्षु{पुं}{1;बहु}	प्रिय-चिकीर्षु{पुं}{1;बहु}	विशेषणम्,5	हित_चाहनेवाले	तेल्ल्_तिस्हेर्स्	<प्रिय-चिकीर्षवः>ठ्2			

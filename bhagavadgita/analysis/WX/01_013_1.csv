@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wawaH	1	wawaH	wawaH{avya}	wawaH{avya}	kAlAXikaraNam,9	isake	then				
+2	SafKAH	2	SafKASca	SafKa{puM}{1;bahu}	SafKa{puM}{1;bahu}	sup_samucciwaH,6	SaMKa	conchs				
+3	ca	3	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	also				
+4	BeryaH	4	BeryaSca	BerI{swrI}{1;bahu}	BerI{swrI}{1;bahu}	sup_samucciwaH,6	nagAre	large_drums				
+5	ca	5	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,4	waWA	and				
+6	paNava-Anaka-gomuKAH	6	paNavAnakagomuKAH	paNavAnaka-gomuKa{puM}{1;bahu}/gomuKA{swrI}{1;bahu}/gomuKA{swrI}{2;bahu}	paNavAnaka-gomuKa{puM}{1;bahu}	karma,9	Dola_mqxaMga_Ora_narasiMGe_Axi_bAje	trumpets_and_small_drums_and_horns	<paNava-Anaka-gomuKAH>Di			
+7	sahasA	7	sahasEvAByahanyanwa	sahasA{avya}	sahasA{avya}	kriyAviSeRaNam,9	eka_sAWa	suddenly				
+8	eva	8	0	eva{avya}	eva{avya}	sambanXaH,7	hI	certainly				
+9	aByahanyanwa	9	0	aBi_han1{karmaNi;laf;pra;bahu;AwmanepaxI;hanaz;axAxiH}	aBi_han1{karmaNi;laf;pra;bahu;AwmanepaxI;aBi_hanaz;axAxiH}	aBihiwa_karma,6;sakarmakaH	baja_uTe	blared_forth				
+10	saH	10	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,13	vaha	that				
+11	SabxaH	11	SabxaswumuloZBavaw	Sabxa{puM}{1;eka}	Sabxa{puM}{1;eka}	viXeya_viSeRaNam,13	Sabxa	combined_sound				
+12	wumulaH	12	0	wumula{puM}{1;eka}	wumula{puM}{1;eka}	viSeRaNam,11	bada़A_BayaMkara	tumultuous				
+13	aBavaw	13	0	BU1{karwari;laf;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;laf;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwa_karwA,11;akarmakaH	huA	became				

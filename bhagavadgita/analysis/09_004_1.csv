@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mayA	1	mayA	asmax{3;eka}	asmax{3;eka}	karwA,2	muJa	by_Me				
-2	wawam	6	wawamixaM	waw{puM}{2;eka}/wawa{puM}{2;eka}/wawa{napuM}{1;eka}/wawa{napuM}{2;eka}	wan1{kqw_prawyayaH:kwa;wanuz;wanAxi;napuM}{1;eka}	aBihiwakarma,5;sakarmakaH	paripUrNa	spread				
-3	ixam	3	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,5	yaha	these				
-4	sarvam	4	sarvaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{2;eka}	viSeRaNam,5	saba	all				
-5	jagaw	5	jagaxavyakwamUrwinA	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,2	jagaw_(jala_se_barPa_ke_saxqSa)	cosmic_manifestation				
-6	a-vyakwa-mUrwinA	2	0	a-vyakwa-mUrwi{puM}{3;eka}	avyakwa-mUrwi{puM}{3;eka}	viSeRaNam,1	nirAkAra_paramAwmA_se	unmanifested_form	<<na-vyakwa>Tn-mUrwinA>Bs6			
-7	maw-sWAni	8	mawsWAni	asmax-sWa{napuM}{1;bahu}/sWa{napuM}{2;bahu}/sWa{napuM}{8;bahu}/sWAnin{napuM}{1;eka}/sWAnin{napuM}{2;eka}	asmax-sWa{napuM}{1;bahu}	viXeya_viSeRaNam,8.1	mere_anwargawa_saMkalpa_ke_AXAra_sWiwa	unto_Me	<asmaw-sWAni>U			
-8	sarva-BUwAni	7	sarvaBUwAni	sarva-BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	sarva-BUwa{napuM}{1;bahu}	karwA,8.1	saba_BUwa	all_living_entities	<sarva-BUwAni>K1			
-8.1	(sanwi)	9	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,8;akarmakaH	(hEM)	are				
-9	na	12	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	not				
-10	ca	12	cAhaM	ca{avya}	ca{avya}	sambanXaH,13	Ora	also				
-11	aham	10	0	asmax{1;eka}	asmax{1;eka}	karwA,13	mEM	I				
-12	weRu	11	weRvavasWiwaH	wax{puM}{7;bahu}/wax{napuM}{7;bahu}	wax{puM}{7;bahu}	aXikaraNam,13	unameM	in_them				
-13	avasWiwaH	13	0	avasWiwa{puM}{1;eka}	ava_sWA1{kqw_prawyayaH:kwa;ava_RTA;BvAxiH;puM}{1;eka}	aBihiwakarwA,11;akarmakaH	sWiwa	situated				
+1	मया	1	मया	अस्मद्{3;एक}	अस्मद्{3;एक}	कर्ता,2	मुझ	ब्य्_ंए				
+2	ततम्	6	ततमिदं	तत्{पुं}{2;एक}/तत{पुं}{2;एक}/तत{नपुं}{1;एक}/तत{नपुं}{2;एक}	तन्1{कृत्_प्रत्ययः:क्त;तनुँ;तनादि;नपुं}{1;एक}	अभिहितकर्म,5;सकर्मकः	परिपूर्ण	स्प्रेअड्				
+3	इदम्	3	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,5	यह	ट्हेसे				
+4	सर्वम्	4	सर्वं	सर्व{पुं}{2;एक}/सर्व{नपुं}{1;एक}/सर्व{नपुं}{2;एक}	सर्व{नपुं}{2;एक}	विशेषणम्,5	सब	अल्ल्				
+5	जगत्	5	जगदव्यक्तमूर्तिना	जगत्{पुं}{1;एक}/जगत्{पुं}{8;एक}/जगत्{नपुं}{1;एक}/जगत्{नपुं}{2;एक}/जगत्{नपुं}{8;एक}	जगत्{नपुं}{2;एक}	कर्म,2	जगत्_(जल_से_बर्फ_के_सदृश)	चोस्मिच्_मनिङेस्टटिओन्				
+6	अ-व्यक्त-मूर्तिना	2	0	अ-व्यक्त-मूर्ति{पुं}{3;एक}	अव्यक्त-मूर्ति{पुं}{3;एक}	विशेषणम्,1	निराकार_परमात्मा_से	उन्मनिङेस्टेड्_ङोर्म्	<<न-व्यक्त>ठ्न्-मूर्तिना>भ्स्6			
+7	मत्-स्थानि	8	मत्स्थानि	अस्मद्-स्थ{नपुं}{1;बहु}/स्थ{नपुं}{2;बहु}/स्थ{नपुं}{8;बहु}/स्थानिन्{नपुं}{1;एक}/स्थानिन्{नपुं}{2;एक}	अस्मद्-स्थ{नपुं}{1;बहु}	विधेय_विशेषणम्,8.1	मेरे_अन्तर्गत_संकल्प_के_आधार_स्थित	उन्टो_ंए	<अस्मत्-स्थानि>ऊ			
+8	सर्व-भूतानि	7	सर्वभूतानि	सर्व-भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}/भूत{नपुं}{8;बहु}	सर्व-भूत{नपुं}{1;बहु}	कर्ता,8.1	सब_भूत	अल्ल्_लिविन्ग्_एन्टिटिएस्	<सर्व-भूतानि>ख्1			
+8.1	(सन्ति)	9	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/सत्{नपुं}{8;बहु}/सन्ती{स्त्री}{8;एक}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,8;अकर्मकः	(हैं)	अरे				
+9	न	12	न	न{अव्य}	न{अव्य}	प्रतिषेधः,13	नहीं	नोट्				
+10	च	12	चाहं	च{अव्य}	च{अव्य}	सम्बन्धः,13	और	अल्सो				
+11	अहम्	10	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,13	मैं	ई				
+12	तेषु	11	तेष्ववस्थितः	तद्{पुं}{7;बहु}/तद्{नपुं}{7;बहु}	तद्{पुं}{7;बहु}	अधिकरणम्,13	उनमें	इन्_ट्हेम्				
+13	अवस्थितः	13	0	अवस्थित{पुं}{1;एक}	अव_स्था1{कृत्_प्रत्ययः:क्त;अव_ष्ठा;भ्वादिः;पुं}{1;एक}	अभिहितकर्ता,11;अकर्मकः	स्थित	सिटुअटेड्				

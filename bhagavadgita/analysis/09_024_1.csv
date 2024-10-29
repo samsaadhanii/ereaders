@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aham	2	ahaM	asmax{1;eka}	asmax{1;eka}	karwA,8.1	mEM	I am				
-2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,1	kyoMki	because				
-3	sarva-yajFAnAm	4	sarvayajFAnAM	sarva-yajFa{puM}{6;bahu}	sarva-yajFa{puM}{6;bahu}	RaRTIsambanXaH,4	sampUrNa_yajFoM_kA	of_all_sacrifices	<sarva-yajFAnAm>K1			
-4	BokwA	5	BokwA	BokwA{swrI}{1;eka}/Buj1{BAve;lut;pra;eka;AwmanepaxI;Bujoz;wuxAxiH}/Buj2{karwari;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}/Buj2{karmaNi;lut;pra;eka;AwmanepaxI;Bujaz;ruXAxiH}	Buj2{kqw_prawyayaH:wqc;Bujaz;ruXAxiH;puM}{1;eka}	sup_samucciwaH,6	BokwA	enjoyer				
-5	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,4	Ora	and				
-6	praBuH	7	praBureva	praBu{puM}{1;eka}	praBu{puM}{1;eka}	viXeya_viSeRaNam,8.1	svAmI	Lord				
-7	eva	3	0	eva{avya}	eva{avya}	sambanXaH,1	hI	only				
-8	ca	8	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	BI	also				
-8.1	(asmi)	9	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,1;akarmakaH	(hUz)					
-9	na	14	na	na{avya}	na{avya}	prawiReXaH,12	nahIM	not				
-10	wu	10	wu	wu{avya}	wu{avya}	sambanXaH,12	paraMwu	but				
-11	mAm	13	mAmaBijAnanwi	asmax{2;eka}	asmax{2;eka}	karma,12	muJako_(parameSvara_ko)	me				
-12	aBijAnanwi	15	0	aBi_jFA2{karwari;lat;pra;bahu;parasmEpaxI;jFA;kryAxiH}	aBi_jFA2{karwari;lat;pra;bahu;parasmEpaxI;aBi_jFA;kryAxiH}	aBihiwa_karwA,13.1;sakarmakaH	jAnawe	know				
-13	wawwvena	12	wawwvenAwaScyavanwi	wawwva{napuM}{3;eka}/wawwva{napuM}{3;eka}	wawwva{napuM}{3;eka}	karaNam,12	wawwva_se	in_reality				
-13.1	(we)	11	(0)	(wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka})	(wax{puM}{1;bahu})	karwA,12	(ve) (ajFAnI)	they				
-14	awaH	16	0	awaH{avya}	awaH{avya}	hewuH,15	isalie	therefore				
-15	cyavanwi	18	0	cyavanwi	cyu1{karwari;lat;pra;bahu;parasmEpaxI;cyuf;BvAxiH}	aBihiwa_karwA,16;sakarmakaH	girawe_hEM	fall_down				
-16	we	17	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	karwA,15	ve	they				
+1	अहम्	2	अहं	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,8.1	मैं	ई अम्				
+2	हि	1	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,1	क्योंकि	बेचउसे				
+3	सर्व-यज्ञानाम्	4	सर्वयज्ञानां	सर्व-यज्ञ{पुं}{6;बहु}	सर्व-यज्ञ{पुं}{6;बहु}	षष्ठीसम्बन्धः,4	सम्पूर्ण_यज्ञों_का	ओङ्_अल्ल्_सच्रिङिचेस्	<सर्व-यज्ञानाम्>ख्1			
+4	भोक्ता	5	भोक्ता	भोक्ता{स्त्री}{1;एक}/भुज्1{भावे;लुट्;प्र;एक;आत्मनेपदी;भुजोँ;तुदादिः}/भुज्2{कर्तरि;लुट्;प्र;एक;आत्मनेपदी;भुजँ;रुधादिः}/भुज्2{कर्मणि;लुट्;प्र;एक;आत्मनेपदी;भुजँ;रुधादिः}	भुज्2{कृत्_प्रत्ययः:तृच्;भुजँ;रुधादिः;पुं}{1;एक}	सुप्_समुच्चितः,6	भोक्ता	एन्जोयेर्				
+5	च	6	च	च{अव्य}	च{अव्य}	सम्बन्धः,4	और	अन्ड्				
+6	प्रभुः	7	प्रभुरेव	प्रभु{पुं}{1;एक}	प्रभु{पुं}{1;एक}	विधेय_विशेषणम्,8.1	स्वामी	ऌओर्ड्				
+7	एव	3	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,1	ही	ओन्ल्य्				
+8	च	8	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	भी	अल्सो				
+8.1	(अस्मि)	9	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,1;अकर्मकः	(हूँ)					
+9	न	14	न	न{अव्य}	न{अव्य}	प्रतिषेधः,12	नहीं	नोट्				
+10	तु	10	तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,12	परंतु	बुट्				
+11	माम्	13	मामभिजानन्ति	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,12	मुझको_(परमेश्वर_को)	मे				
+12	अभिजानन्ति	15	0	अभि_ज्ञा2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;ज्ञा;क्र्यादिः}	अभि_ज्ञा2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;अभि_ज्ञा;क्र्यादिः}	अभिहित_कर्ता,13.1;सकर्मकः	जानते	क्नोत्				
+13	तत्त्वेन	12	तत्त्वेनातश्च्यवन्ति	तत्त्व{नपुं}{3;एक}/तत्त्व{नपुं}{3;एक}	तत्त्व{नपुं}{3;एक}	करणम्,12	तत्त्व_से	इन्_रेअलिट्य्				
+13.1	(ते)	11	(0)	(तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक})	(तद्{पुं}{1;बहु})	कर्ता,12	(वे) (अज्ञानी)	ट्हेय्				
+14	अतः	16	0	अतः{अव्य}	अतः{अव्य}	हेतुः,15	इसलिए	ट्हेरेङोरे				
+15	च्यवन्ति	18	0	च्यवन्ति	च्यु1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;च्युङ्;भ्वादिः}	अभिहित_कर्ता,16;सकर्मकः	गिरते_हैं	ङल्ल्_डोत्न्				
+16	ते	17	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	तद्{पुं}{1;बहु}	कर्ता,15	वे	ट्हेय्				

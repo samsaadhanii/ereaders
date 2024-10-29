@@ -1,23 +1,23 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	AScaryavaw	3	AScaryavawpaSyawi	AScaryavaw{napuM}{1;eka}/AScaryavaw{napuM}{2;eka}/AScaryavaw{napuM}{8;eka}	AScaryavaw{avya}	kriyAviSeRaNam,2	AScarya_kI_BAzwi	as_marvellous				
-2	paSyawi	4	0	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,3;sakarmakaH	xeKawA_hE	perceives				
-3	kaSciw	1	kaScixenamAScaryavaxvaxawi	kaSciw{avya}/kiFciw{puM}{1;eka}	kiFciw{puM}{1;eka}	karwA,2	koI_(mahApuruRa)	anyone				
-4	enam	2	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,2	ise	this_soul				
-5	AScaryavaw	8	0	AScaryavaw{napuM}{1;eka}/AScaryavaw{napuM}{2;eka}/AScaryavaw{napuM}{8;eka}	AScaryavaw{avya}	kriyAviSeRaNam,6	AScarya_kI_BAzwi	as_marvellous				
-6	vaxawi	9	0	vaxaw{puM}{7;eka}/vaxaw{napuM}{7;eka}/vax1{karwari;lat;pra;eka;parasmEpaxI;vaxaz;BvAxiH}	vax1{karwari;lat;pra;eka;parasmEpaxI;vaxaz;BvAxiH}	aBihiwakarwA,9;sakarmakaH	varNana_karawA_hE	speaks_thereof				
-7	waWA_eva	5	waWEva	waWA{avya}_eva/eva{avya}	waWA{avya}_eva{avya}	kriyAviSeRaNam,6	vEse_hI	likewise				
-8	ca	6	cAnyaH	ca{avya}	ca{avya}	sambanXaH,6	Ora	and				
-9	anyaH	7	0	anya{puM}{1;eka}	anya{puM}{1;eka}	karwA,6	xUsarA_koI	another				
-10	AScaryavaw	13	AScaryavaccEnamanyaH	AScaryavaw{napuM}{1;eka}/AScaryavaw{napuM}{2;eka}/AScaryavaw{napuM}{8;eka}	AScaryavaw{avya}	kriyAviSeRaNam,14	AScarya_kI_BAzwi	similarly_as_marvelleous				
-11	ca	11	0	ca{avya}	ca{avya}	sambanXaH,14	waWA	also				
-12	enam	12	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,6	ise	this_soul				
-13	anyaH	10	0	anya{puM}{1;eka}	anya{puM}{1;eka}	karwA,14	xUsarA_koI	another				
-14	SqNowi	14	SqNowi	Sru1{karwari;lat;pra;eka;parasmEpaxI;Sru;BvAxiH}	Sru1{karwari;lat;pra;eka;parasmEpaxI;Sru;BvAxiH}	aBihiwakarwA,14;sakarmakaH	sunawA_hE	hears				
-15	SruwvA	17	SruwvApyenaM	Sru1{kqw_prawyayaH:kwvA;Sru;BvAxiH}/Sru{kqw_prawyayaH:wvA;Sru;BvAxiH}	Sru1{kqw_prawyayaH:kwvA;Sru;BvAxiH}	pUrvakAlaH,18	sunakara	on_hearing_of_it				
-16	api	18	0	api{avya}	api{avya}	sambanXaH,15	BI	even				
-17	enam	16	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,14	ise	this_soul				
-18	vexa	22	vexa	vexa{puM}{8;eka}/vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}/vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;u;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,21;sakarmakaH	jAnawA	know				
-19	na	19	na	na{avya}	na{avya}	prawiReXaH,18	nahIM	not				
-19.1	eva	20		eva{avya}	eva{avya}	sambanXaH,19						
-20	ca	21	cEva	ca{avya}	ca{avya}	sambanXaH,18	Ora	and				
-21	kaSciw	15	kaSciw	kaSciw{avya}/kiFciw{puM}{1;eka}	kiFciw{puM}{1;eka}	karwA,18	koI-koI	there_are_some_who				
+1	आश्चर्यवत्	3	आश्चर्यवत्पश्यति	आश्चर्यवत्{नपुं}{1;एक}/आश्चर्यवत्{नपुं}{2;एक}/आश्चर्यवत्{नपुं}{8;एक}	आश्चर्यवत्{अव्य}	क्रियाविशेषणम्,2	आश्चर्य_की_भाँति	अस्_मर्वेल्लोउस्				
+2	पश्यति	4	0	पश्यत्{पुं}{7;एक}/पश्यत्{नपुं}{7;एक}/दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहितकर्ता,3;सकर्मकः	देखता_है	पेर्चेइवेस्				
+3	कश्चित्	1	कश्चिदेनमाश्चर्यवद्वदति	कश्चित्{अव्य}/किञ्चित्{पुं}{1;एक}	किञ्चित्{पुं}{1;एक}	कर्ता,2	कोई_(महापुरुष)	अन्योने				
+4	एनम्	2	0	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	कर्म,2	इसे	ट्हिस्_सोउल्				
+5	आश्चर्यवत्	8	0	आश्चर्यवत्{नपुं}{1;एक}/आश्चर्यवत्{नपुं}{2;एक}/आश्चर्यवत्{नपुं}{8;एक}	आश्चर्यवत्{अव्य}	क्रियाविशेषणम्,6	आश्चर्य_की_भाँति	अस्_मर्वेल्लोउस्				
+6	वदति	9	0	वदत्{पुं}{7;एक}/वदत्{नपुं}{7;एक}/वद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;वदँ;भ्वादिः}	वद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;वदँ;भ्वादिः}	अभिहितकर्ता,9;सकर्मकः	वर्णन_करता_है	स्पेअक्स्_ट्हेरेओङ्				
+7	तथा_एव	5	तथैव	तथा{अव्य}_एव/एव{अव्य}	तथा{अव्य}_एव{अव्य}	क्रियाविशेषणम्,6	वैसे_ही	लिकेतिसे				
+8	च	6	चान्यः	च{अव्य}	च{अव्य}	सम्बन्धः,6	और	अन्ड्				
+9	अन्यः	7	0	अन्य{पुं}{1;एक}	अन्य{पुं}{1;एक}	कर्ता,6	दूसरा_कोई	अनोट्हेर्				
+10	आश्चर्यवत्	13	आश्चर्यवच्चैनमन्यः	आश्चर्यवत्{नपुं}{1;एक}/आश्चर्यवत्{नपुं}{2;एक}/आश्चर्यवत्{नपुं}{8;एक}	आश्चर्यवत्{अव्य}	क्रियाविशेषणम्,14	आश्चर्य_की_भाँति	सिमिलर्ल्य्_अस्_मर्वेल्लेओउस्				
+11	च	11	0	च{अव्य}	च{अव्य}	सम्बन्धः,14	तथा	अल्सो				
+12	एनम्	12	0	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	कर्म,6	इसे	ट्हिस्_सोउल्				
+13	अन्यः	10	0	अन्य{पुं}{1;एक}	अन्य{पुं}{1;एक}	कर्ता,14	दूसरा_कोई	अनोट्हेर्				
+14	शृणोति	14	शृणोति	श्रु1{कर्तरि;लट्;प्र;एक;परस्मैपदी;श्रु;भ्वादिः}	श्रु1{कर्तरि;लट्;प्र;एक;परस्मैपदी;श्रु;भ्वादिः}	अभिहितकर्ता,14;सकर्मकः	सुनता_है	हेअर्स्				
+15	श्रुत्वा	17	श्रुत्वाप्येनं	श्रु1{कृत्_प्रत्ययः:क्त्वा;श्रु;भ्वादिः}/श्रु{कृत्_प्रत्ययः:त्वा;श्रु;भ्वादिः}	श्रु1{कृत्_प्रत्ययः:क्त्वा;श्रु;भ्वादिः}	पूर्वकालः,18	सुनकर	ओन्_हेअरिन्ग्_ओङ्_इट्				
+16	अपि	18	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,15	भी	एवेन्				
+17	एनम्	16	0	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	कर्म,14	इसे	ट्हिस्_सोउल्				
+18	वेद	22	वेद	वेद{पुं}{8;एक}/विद्1{कर्तरि;लट्;उ;एक;परस्मैपदी;विदँ;अदादिः}/विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;उ;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,21;सकर्मकः	जानता	क्नोत्				
+19	न	19	न	न{अव्य}	न{अव्य}	प्रतिषेधः,18	नहीं	नोट्				
+19.1	एव	20		एव{अव्य}	एव{अव्य}	सम्बन्धः,19						
+20	च	21	चैव	च{अव्य}	च{अव्य}	सम्बन्धः,18	और	अन्ड्				
+21	कश्चित्	15	कश्चित्	कश्चित्{अव्य}/किञ्चित्{पुं}{1;एक}	किञ्चित्{पुं}{1;एक}	कर्ता,18	कोई-कोई	ट्हेरे_अरे_सोमे_त्हो				

@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaxA	1	yaxA	yaxA{avya}	yaxA{avya}	kAlAXikaraNam,6;niwya_sambanXaH,8	jaba	when				
-2	sawwve	3	sawwve	sawwva{puM}{7;eka}/sawwva{napuM}{1;xvi}/sawwva{napuM}{2;xvi}/sawwva{napuM}{7;eka}/sawwva{napuM}{1;xvi}/sawwva{napuM}{2;xvi}/sawwva{napuM}{7;eka}	sawwva{napuM}{7;eka}	aXikaraNam,3	sawwvaguNa_kI	mode_of_goodness				
-3	pravqxXe	4	pravqxXe	pravqxXa{puM}{7;eka}/pravqxXi{swrI}{8;eka}	pra_vqX1{kqw_prawyayaH:kwa;pra_vqXuz;BvAxiH;puM}{7;eka}	BAvalakRaNasapwamI_pUrvakAlaH,7	vqxXi_meM	in_development				
-4	wu	8	wu	wu{avya}	wu{avya}	sambanXaH,8	wo	but				
-5	pralayam	5	pralayaM	pralaya{puM}{2;eka}	pralaya{puM}{2;eka}	karma,6	mqwyu_ko	dissolution				
-6	yAwi	6	yAwi	yAw{puM}{7;eka}/yAw{napuM}{7;eka}/yA1{karwari;lat;pra;eka;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;eka;parasmEpaxI;yA;axAxiH}	aBihiwakarwA,7;sakarmakaH	prApwa_howA_hE	goes				
-7	xeha-Bqw	2	xehaBqw	xehaBqw{puM}{1;eka}/xehaBqw{puM}{8;eka}	xeha-Bqw{puM}{1;eka}	karwA,6	yaha_manuRya	embodied	<xeha-Bqw>U			
-8	waxA	7	waxowwamavixAM	waxA{avya}	waxA{avya}	kAlAXikaraNam,12	waba	at_that_time				
-9	uwwama-vixAm	10	0	uwwama-vix{puM}{6;bahu}/vix{swrI}{6;bahu}/vix{napuM}{6;bahu}/vixA{swrI}{2;eka}	uwwama-vix{puM}{6;bahu}	viSeRaNam,10	uwwama_karma_karanevAloM_ke	of_the_great_sages	<uwwama-vixAM>U			
-10	lokAn	12	lokAnamalAnprawipaxyawe	loka{puM}{2;bahu}	loka{puM}{2;bahu}	karma,12	lokoM_ko	the_planets				
-11	a-malAn	11	0	amala{puM}{2;bahu}	amala{puM}{2;bahu}	viSeRaNam,10	nirmala_xivya_svargAxi	pure	<na-malAn>Tn			
-12	prawipaxyawe	13	0	prawi_pax1{karwari;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}/prawi_pax1{karmaNi;lat;pra;eka;AwmanepaxI;paxaz;xivAxiH}	prawi_pax1{karwari;lat;pra;eka;AwmanepaxI;prawi_paxaz;xivAxiH}	aBihiwakarwA,7;sakarmakaH	prApwa_howA_hE	attains				
-12.1	(xeha-Bqw)	9	(0)	(xehaBqw{puM}{1;eka}/xehaBqw{puM}{8;eka})	(xeha-Bqw{puM}{1;eka})	karwA,12	(yaha_manuRya)	embodied	<xeha-Bqw>U			
+1	यदा	1	यदा	यदा{अव्य}	यदा{अव्य}	कालाधिकरणम्,6;नित्य_सम्बन्धः,8	जब	त्हेन्				
+2	सत्त्वे	3	सत्त्वे	सत्त्व{पुं}{7;एक}/सत्त्व{नपुं}{1;द्वि}/सत्त्व{नपुं}{2;द्वि}/सत्त्व{नपुं}{7;एक}/सत्त्व{नपुं}{1;द्वि}/सत्त्व{नपुं}{2;द्वि}/सत्त्व{नपुं}{7;एक}	सत्त्व{नपुं}{7;एक}	अधिकरणम्,3	सत्त्वगुण_की	मोडे_ओङ्_गोओड्नेस्स्				
+3	प्रवृद्धे	4	प्रवृद्धे	प्रवृद्ध{पुं}{7;एक}/प्रवृद्धि{स्त्री}{8;एक}	प्र_वृध्1{कृत्_प्रत्ययः:क्त;प्र_वृधुँ;भ्वादिः;पुं}{7;एक}	भावलक्षणसप्तमी_पूर्वकालः,7	वृद्धि_में	इन्_डेवेलोप्मेन्ट्				
+4	तु	8	तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,8	तो	बुट्				
+5	प्रलयम्	5	प्रलयं	प्रलय{पुं}{2;एक}	प्रलय{पुं}{2;एक}	कर्म,6	मृत्यु_को	डिस्सोलुटिओन्				
+6	याति	6	याति	यात्{पुं}{7;एक}/यात्{नपुं}{7;एक}/या1{कर्तरि;लट्;प्र;एक;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;एक;परस्मैपदी;या;अदादिः}	अभिहितकर्ता,7;सकर्मकः	प्राप्त_होता_है	गोएस्				
+7	देह-भृत्	2	देहभृत्	देहभृत्{पुं}{1;एक}/देहभृत्{पुं}{8;एक}	देह-भृत्{पुं}{1;एक}	कर्ता,6	यह_मनुष्य	एम्बोडिएड्	<देह-भृत्>ऊ			
+8	तदा	7	तदोत्तमविदां	तदा{अव्य}	तदा{अव्य}	कालाधिकरणम्,12	तब	अट्_ट्हट्_टिमे				
+9	उत्तम-विदाम्	10	0	उत्तम-विद्{पुं}{6;बहु}/विद्{स्त्री}{6;बहु}/विद्{नपुं}{6;बहु}/विदा{स्त्री}{2;एक}	उत्तम-विद्{पुं}{6;बहु}	विशेषणम्,10	उत्तम_कर्म_करनेवालों_के	ओङ्_ट्हे_ग्रेअट्_सगेस्	<उत्तम-विदां>ऊ			
+10	लोकान्	12	लोकानमलान्प्रतिपद्यते	लोक{पुं}{2;बहु}	लोक{पुं}{2;बहु}	कर्म,12	लोकों_को	ट्हे_प्लनेट्स्				
+11	अ-मलान्	11	0	अमल{पुं}{2;बहु}	अमल{पुं}{2;बहु}	विशेषणम्,10	निर्मल_दिव्य_स्वर्गादि	पुरे	<न-मलान्>ठ्न्			
+12	प्रतिपद्यते	13	0	प्रति_पद्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;पदँ;दिवादिः}/प्रति_पद्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;पदँ;दिवादिः}	प्रति_पद्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;प्रति_पदँ;दिवादिः}	अभिहितकर्ता,7;सकर्मकः	प्राप्त_होता_है	अट्टइन्स्				
+12.1	(देह-भृत्)	9	(0)	(देहभृत्{पुं}{1;एक}/देहभृत्{पुं}{8;एक})	(देह-भृत्{पुं}{1;एक})	कर्ता,12	(यह_मनुष्य)	एम्बोडिएड्	<देह-भृत्>ऊ			

@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	imam	3	imaM	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,4	isa	this				
+2	vivasvawe	2	vivasvawe	vivasvaw{puM}{4;eka}	vivasvaw{puM}{4;eka}	sampraxAnam,4	sUrya_se	unto_the_sun-god				
+3	yogam	5	yogaM	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karmasamAnAXikaraNam,4	yoga_ko	the_science_of_one's_relationship_to_the_Supreme				
+4	prokwavAn	6	prokwavAnahamavyayam	prokwavaw{puM}{1;eka}	pra_vac1{kqw_prawyayaH:kwavawu;pra_vacaz;axAxiH;puM}{1;eka}	aBihiwa_karwA,5	kahA_WA	instructed				
+5	aham	1		asmax{1;eka}	asmax{1;eka}	karwA,4	mEMne	I				
+6	avyayam	4		avyaya{puM}{2;eka}/vye1{karwari;laf;u;eka;parasmEpaxI;vyeF;BvAxiH}/vyay1{karwari;laf;u;eka;parasmEpaxI;vyayaz;BvAxiH}	avyaya{puM}{2;eka}	viSeRaNam,3	avinASI	imperishable	<na-vyayam>Bsmn			
+7	vivasvAn	7	vivasvAnmanave	vivasvaw{puM}{1;eka}	vivasvaw{puM}{1;eka}	karwA,9	sUrya_ne	Vivasvan_(the_sun-god's_name)				
+7.1	(imam)	9	(imaM)	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,9	isa	this				
+8	manave	8		manu{puM}{4;eka}/manu{swrI}{4;eka}	manu{puM}{4;eka}	sampraxAnam,9	manu_se	unto_the_father_of_mankind_(of_the_name_Vaivasvata)				
+9	prAha	10	prAha	prAha{puM}{8;eka}	pra_brU1{karwari;lat;pra;eka;parasmEpaxI;pra_brUF;axAxiH}	aBihiwa_karwA,7	kahA	told				
+10	manuH	11	manurikRvAkaveZbravIw	manu{puM}{1;eka}/manu{swrI}{1;eka}	manu{puM}{1;eka}	karwA,12	manu_ne	the_father_of_mankind				
+10.1	(imam)	13	(imaM)	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,12	isa	this				
+11	ikRvAkave	12		ikRvAku{puM}{4;eka}	ikRvAku{puM}{4;eka}	sampraxAnam,12	rAjA_ikRvAku_se	unto_King_Iksvaku				
+12	abravIw	14		brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;axAxiH}	brU1{karwari;laf;pra;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,10	kahA	said				

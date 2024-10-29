@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	evam	4	evaM	evam{avya}	evam{avya}	kriyAviSeRaNam,2	isa_prakAra	thus				
-2	pravarwiwam	5	pravarwiwaM	pravarwiwa{puM}{2;eka}/pravarwiwa{napuM}{1;eka}/pravarwiwa{napuM}{2;eka}	pra_vqw1{kqw_prawyayaH:kwa;pra_vqwuz;BvAxiH;napuM}{2;eka}	viSeRaNam,3	pracaliwa	prescribed				
-3	cakram	6	cakraM	cakra{puM}{2;eka}/cakra{napuM}{1;eka}/cakra{napuM}{2;eka}	cakra{napuM}{2;eka}	karma,5	sqRticakra_ke	the_wheel_of_creation				
-4	na	7	nAnuvarwayawIha	na{avya}	na{avya}	prawiReXaH,5	nahIM	does_not				
-5	anuvarwayawi	8	0	anuvarwayawi	anu_vqw1{karwari;lat;pra;eka;parasmEpaxI;anu_vqwuz;BvAxiH}	aBihiwa_karwA,7;sakarmakaH	anukUla_barawawA	follow				
-6	iha	3	0	iha{avya}	iha{avya}	xeSAXikaraNam,5	yahAz_(isa_loka_meM)	in_this_(world)				
-7	yaH	2	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,5;niwya_sambanXaH,12	jo_(puruRa)	he_who				
-8	aGa-AyuH	10	aGAyurinxriyArAmo	aGa-Ayus{napuM;1;eka}/Ayus{napuM;2;eka}/Af_yA1{karwari;laf;pra;bahu;parasmEpaxI;yA;:axAxiH}/Ayus{napuM;8;eka}	aGa-Ayus{puM;1;eka}	viSeRaNam,12	pApa-jIvana	sinner	<aGa-AyuH>Bs6			
-9	inxriya-ArAmaH	11	0	inxriya-ArAma{puM;1;eka}/inxriya-ArAma{puM;1;eka(ram1;GaF;ramuz;:BvAxiH)}	inxriya-ArAma{puM;1;eka(inxriya-ram1;GaF;ramuz;:BvAxiH)}	viSeRaNam,12	inxriyoM_ke_xvArA_BogoM_meM_ramaNa_karanevAlA	leading_a_sinful_and_sensual_life	<inxriya-ArAmaH>Bs6			
-10	moGam	12	moGaM	moGa{puM;2;eka}/moGa{napuM;1;eka}/moGa{napuM;2;eka}	moGa{napuM;2;eka}	kriyAviSeRaNam,8	vyarWa	in_vain				
-11	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,13	he_pArWa	O_son_of_Prtha_(Arjuna)				
-12	saH	9	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,13	vaha	he				
-13	jIvawi	13	jIvawi	jIvaw{puM}{7;eka}/jIvaw{napuM}{7;eka}/jIv1{karwari;lat;pra;eka;parasmEpaxI;jIvaz;BvAxiH}	jIv1{karwari;lat;pra;eka;parasmEpaxI;jIvaz;BvAxiH}	aBihiwa_karwA,12;sakarmakaH	jIwA_hE	lives				
+1	एवम्	4	एवं	एवम्{अव्य}	एवम्{अव्य}	क्रियाविशेषणम्,2	इस_प्रकार	ट्हुस्				
+2	प्रवर्तितम्	5	प्रवर्तितं	प्रवर्तित{पुं}{2;एक}/प्रवर्तित{नपुं}{1;एक}/प्रवर्तित{नपुं}{2;एक}	प्र_वृत्1{कृत्_प्रत्ययः:क्त;प्र_वृतुँ;भ्वादिः;नपुं}{2;एक}	विशेषणम्,3	प्रचलित	प्रेस्च्रिबेड्				
+3	चक्रम्	6	चक्रं	चक्र{पुं}{2;एक}/चक्र{नपुं}{1;एक}/चक्र{नपुं}{2;एक}	चक्र{नपुं}{2;एक}	कर्म,5	सृष्टिचक्र_के	ट्हे_त्हेएल्_ओङ्_च्रेअटिओन्				
+4	न	7	नानुवर्तयतीह	न{अव्य}	न{अव्य}	प्रतिषेधः,5	नहीं	डोएस्_नोट्				
+5	अनुवर्तयति	8	0	अनुवर्तयति	अनु_वृत्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;अनु_वृतुँ;भ्वादिः}	अभिहित_कर्ता,7;सकर्मकः	अनुकूल_बरतता	ङोल्लोत्				
+6	इह	3	0	इह{अव्य}	इह{अव्य}	देशाधिकरणम्,5	यहाँ_(इस_लोक_में)	इन्_ट्हिस्_(तोर्ल्ड्)				
+7	यः	2	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,5;नित्य_सम्बन्धः,12	जो_(पुरुष)	हे_त्हो				
+8	अघ-आयुः	10	अघायुरिन्द्रियारामो	अघ-आयुस्{नपुं;1;एक}/आयुस्{नपुं;2;एक}/आङ्_या1{कर्तरि;लङ्;प्र;बहु;परस्मैपदी;या;:अदादिः}/आयुस्{नपुं;8;एक}	अघ-आयुस्{पुं;1;एक}	विशेषणम्,12	पाप-जीवन	सिन्नेर्	<अघ-आयुः>भ्स्6			
+9	इन्द्रिय-आरामः	11	0	इन्द्रिय-आराम{पुं;1;एक}/इन्द्रिय-आराम{पुं;1;एक(रम्1;घञ्;रमुँ;:भ्वादिः)}	इन्द्रिय-आराम{पुं;1;एक(इन्द्रिय-रम्1;घञ्;रमुँ;:भ्वादिः)}	विशेषणम्,12	इन्द्रियों_के_द्वारा_भोगों_में_रमण_करनेवाला	लेअडिन्ग्_अ_सिन्ङुल्_अन्ड्_सेन्सुअल्_लिङे	<इन्द्रिय-आरामः>भ्स्6			
+10	मोघम्	12	मोघं	मोघ{पुं;2;एक}/मोघ{नपुं;1;एक}/मोघ{नपुं;2;एक}	मोघ{नपुं;2;एक}	क्रियाविशेषणम्,8	व्यर्थ	इन्_वइन्				
+11	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,13	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह_(आर्जुन)				
+12	सः	9	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,13	वह	हे				
+13	जीवति	13	जीवति	जीवत्{पुं}{7;एक}/जीवत्{नपुं}{7;एक}/जीव्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;जीवँ;भ्वादिः}	जीव्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;जीवँ;भ्वादिः}	अभिहित_कर्ता,12;सकर्मकः	जीता_है	लिवेस्				

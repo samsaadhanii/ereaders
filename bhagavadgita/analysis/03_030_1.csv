@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mayi	4	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,4	muJameM	unto_Me				
-2	sarvANi	2	sarvANi	sarva{napuM}{1;bahu}/sarva{napuM}{2;bahu}/sarvANI{swrI}{8;eka}/sarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;BvAxiH}	sarva{napuM}{2;bahu}	viSeRaNam,3	sampUrNa	all_sorts_of				
-3	karmANi	3	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	karman{napuM}{2;bahu}	karma,4	karmoM_ko	activities				
-4	sannyasya	5	sannyasyAXyAwmacewasA	sam_ni_as3{karwari;lot;ma;eka;parasmEpaxI;asuz;xivAxiH}	sam_ni_as1{kqw_prawyayaH:lyap;sam_ni_asaz;BvAxiH}	pUrvakAlaH,9	arpaNa_karake	giving_up_completely				
-5	aXi-Awma-cewasA	1	0	aXyAwma-cewas{napuM}{3;eka}	aXyAwma-cewas{napuM}{3;eka}	karaNam,9	muJa_anwaryAmI_paramAwmA_meM_lage_hue_ciwwa_xvArA	with_full_knowledge_of_the_self	<<aXi-Awma>A1-cewasA>T7			
-6	nir-ASIH	7	nirASIrnirmamo	nir-{avya}-ASi{swrI}{2;bahu}/ASI{swrI}{2;bahu}/ASis{swrI}{1;eka}/ASis{swrI}{8;eka}	nir-ASis{swrI}{1;eka}	sup_samucciwaH,10	ASArahiwa	without_desire_for_profit	<nir-ASIH>Bvp			
-7	nir-mamaH	8	0	nir-{avya}-mamaH	nir-mama{puM}{1;eka}	sup_samucciwaH,10	mamawArahiwa	without_ownership	<nir-mamaH>Bvp			
-8	BUwvA	11	BUwvA	as2{kqw_prawyayaH:kwvA;asaz;axAxiH}	BU1{kqw_prawyayaH:kwvA;BU;BvAxiH}	pUrvakAlaH,9	hokara	so_being				
-9	yuxXyasva	12	yuxXyasva	yuxXyasva	yuX1{karwari;lot;ma;eka;AwmanepaxI;yuXaz;xivAxiH}	aBihiwakarwA,10.2;akarmakaH	yuxXa_kara	fight				
-10	vigawa-jvaraH	9	vigawajvaraH	vigawa-jvara{puM}{1;eka}	vigawa-jvara{puM}{1;eka}	viXeya_viSeRaNam,8	saMwAparahiwa	without_being_lethargic	<vigawa-jvaraH>Bs5			
-10.1	(ca)	10	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,10	(Ora)	and				
-10.2	(wvam)	6	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,9	(wU)	you				
+1	मयि	4	मयि	अस्मद्{7;एक}	अस्मद्{7;एक}	अधिकरणम्,4	मुझमें	उन्टो_ंए				
+2	सर्वाणि	2	सर्वाणि	सर्व{नपुं}{1;बहु}/सर्व{नपुं}{2;बहु}/सर्वाणी{स्त्री}{8;एक}/सर्व्1{कर्तरि;लोट्;उ;एक;परस्मैपदी;षर्वँ;भ्वादिः}	सर्व{नपुं}{2;बहु}	विशेषणम्,3	सम्पूर्ण	अल्ल्_सोर्ट्स्_ओङ्				
+3	कर्माणि	3	कर्माणि	कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}/कर्मन्{नपुं}{8;बहु}	कर्मन्{नपुं}{2;बहु}	कर्म,4	कर्मों_को	अच्टिविटिएस्				
+4	सन्न्यस्य	5	सन्न्यस्याध्यात्मचेतसा	सम्_नि_अस्3{कर्तरि;लोट्;म;एक;परस्मैपदी;असुँ;दिवादिः}	सम्_नि_अस्1{कृत्_प्रत्ययः:ल्यप्;सम्_नि_असँ;भ्वादिः}	पूर्वकालः,9	अर्पण_करके	गिविन्ग्_उप्_चोम्प्लेटेल्य्				
+5	अधि-आत्म-चेतसा	1	0	अध्यात्म-चेतस्{नपुं}{3;एक}	अध्यात्म-चेतस्{नपुं}{3;एक}	करणम्,9	मुझ_अन्तर्यामी_परमात्मा_में_लगे_हुए_चित्त_द्वारा	तिट्ह्_ङुल्ल्_क्नोत्लेड्गे_ओङ्_ट्हे_सेल्ङ्	<<अधि-आत्म>आ1-चेतसा>ठ्7			
+6	निर्-आशीः	7	निराशीर्निर्ममो	निर्-{अव्य}-आशि{स्त्री}{2;बहु}/आशी{स्त्री}{2;बहु}/आशिस्{स्त्री}{1;एक}/आशिस्{स्त्री}{8;एक}	निर्-आशिस्{स्त्री}{1;एक}	सुप्_समुच्चितः,10	आशारहित	तिट्होउट्_डेसिरे_ङोर्_प्रोङिट्	<निर्-आशीः>भ्व्प्			
+7	निर्-ममः	8	0	निर्-{अव्य}-ममः	निर्-मम{पुं}{1;एक}	सुप्_समुच्चितः,10	ममतारहित	तिट्होउट्_ओत्नेर्स्हिप्	<निर्-ममः>भ्व्प्			
+8	भूत्वा	11	भूत्वा	अस्2{कृत्_प्रत्ययः:क्त्वा;असँ;अदादिः}	भू1{कृत्_प्रत्ययः:क्त्वा;भू;भ्वादिः}	पूर्वकालः,9	होकर	सो_बेइन्ग्				
+9	युद्ध्यस्व	12	युद्ध्यस्व	युद्ध्यस्व	युध्1{कर्तरि;लोट्;म;एक;आत्मनेपदी;युधँ;दिवादिः}	अभिहितकर्ता,10.2;अकर्मकः	युद्ध_कर	ङिग्ह्ट्				
+10	विगत-ज्वरः	9	विगतज्वरः	विगत-ज्वर{पुं}{1;एक}	विगत-ज्वर{पुं}{1;एक}	विधेय_विशेषणम्,8	संतापरहित	तिट्होउट्_बेइन्ग्_लेट्हर्गिच्	<विगत-ज्वरः>भ्स्5			
+10.1	(च)	10	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,10	(और)	अन्ड्				
+10.2	(त्वम्)	6	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,9	(तू)	योउ				

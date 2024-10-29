@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	janma	4	janma	janma{napuM}{8;eka}/janman{napuM}{1;eka}/janman{napuM}{2;eka}	janman{napuM}{2;eka}	sup_samucciwaH,2	janma	birth				
-2	karma	5	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,8	karma	work				
-3	ca	1	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	also				
-4	me	2	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,1	mere	of_Mine				
-5	xivyam	3	xivyamevaM	xivya{puM}{2;eka}/xivya{napuM}{1;eka}/xivya{napuM}{2;eka}	xivya{napuM}{2;eka}	viSeRaNam,1	xivya	transcendental				
-6	evam	7		evam{avya}	evam{avya}	kriyAviSeRaNam,8	isa_prakAra	like_this				
-7	yaH	9	yo	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,8;niwya_sambanXaH,20	jo_(manuRya)	anyone_who				
-8	vewwi	6	vewwi	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lat;pra;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwa_karwA,7	jAna_lewA_hE	knows				
-9	wawwvawaH	8	wawwvawaH	wawwvawaH{avya}	wawwvawaH{avya}	kriyAviSeRaNam,8	wawwva_se	in_reality				
-10	wyakwvA	19	wyakwvA	wyaj1{kqw_prawyayaH:kwvA;wyajaz;BvAxiH}	wyaj1{avya:kwvA;wyajaz;BvAxiH}	pUrvakAlaH,15	wyAgakara	leaving_aside				
-11	xeham	20	xehaM	xeha{puM}{2;eka}/xeha{napuM}{1;eka}/xeha{napuM}{2;eka}	xeha{napuM}{2;eka}	karma,10	SarIra_ko	body				
-12	punaH	11	punarjanma	punaH{avya}	punaH{avya}	kriyAviSeRaNam,15	Pira	again				
-13	janma	10		janma{napuM}{8;eka}/janman{napuM}{1;eka}/janman{napuM}{2;eka}	janman{napuM}{2;eka}	karma,15	janma_ko	birth				
-14	na	12	nEwi	na{avya}	na{avya}	prawiReXaH,15	nahIM	never				
-15	ewi	13		i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	aBihiwa_karwA,20;sakarmaka	prApwa_howA_hE	does_attain				
-16	mAm	14	mAmewi	asmax{2;eka}	asmax{2;eka}	karma,17	muJe	unto_Me				
-17	ewi	15		i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	i1{karwari;lat;pra;eka;parasmEpaxI;iN;axAxiH}	aBihiwa_karwA,20;sakarmaka	prApwa_howA_hE	does_attain				
-19	arjuna	16		arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,15	he_arjuna	O_Arjuna				
-20	(saH)	17	()	(wax{puM}{1;eka})	(wax{puM}{1;eka})	karwA,15	(vaha)	he				
+1	जन्म	4	जन्म	जन्म{नपुं}{8;एक}/जन्मन्{नपुं}{1;एक}/जन्मन्{नपुं}{2;एक}	जन्मन्{नपुं}{2;एक}	सुप्_समुच्चितः,2	जन्म	बिर्ट्ह्				
+2	कर्म	5	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,8	कर्म	तोर्क्				
+3	च	1	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,2	और	अल्सो				
+4	मे	2	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,1	मेरे	ओङ्_ंइने				
+5	दिव्यम्	3	दिव्यमेवं	दिव्य{पुं}{2;एक}/दिव्य{नपुं}{1;एक}/दिव्य{नपुं}{2;एक}	दिव्य{नपुं}{2;एक}	विशेषणम्,1	दिव्य	ट्रन्स्चेन्डेन्टल्				
+6	एवम्	7		एवम्{अव्य}	एवम्{अव्य}	क्रियाविशेषणम्,8	इस_प्रकार	लिके_ट्हिस्				
+7	यः	9	यो	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,8;नित्य_सम्बन्धः,20	जो_(मनुष्य)	अन्योने_त्हो				
+8	वेत्ति	6	वेत्ति	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;विदँ;अदादिः}	अभिहित_कर्ता,7	जान_लेता_है	क्नोत्स्				
+9	तत्त्वतः	8	तत्त्वतः	तत्त्वतः{अव्य}	तत्त्वतः{अव्य}	क्रियाविशेषणम्,8	तत्त्व_से	इन्_रेअलिट्य्				
+10	त्यक्त्वा	19	त्यक्त्वा	त्यज्1{कृत्_प्रत्ययः:क्त्वा;त्यजँ;भ्वादिः}	त्यज्1{अव्य:क्त्वा;त्यजँ;भ्वादिः}	पूर्वकालः,15	त्यागकर	लेअविन्ग्_असिडे				
+11	देहम्	20	देहं	देह{पुं}{2;एक}/देह{नपुं}{1;एक}/देह{नपुं}{2;एक}	देह{नपुं}{2;एक}	कर्म,10	शरीर_को	बोड्य्				
+12	पुनः	11	पुनर्जन्म	पुनः{अव्य}	पुनः{अव्य}	क्रियाविशेषणम्,15	फिर	अगइन्				
+13	जन्म	10		जन्म{नपुं}{8;एक}/जन्मन्{नपुं}{1;एक}/जन्मन्{नपुं}{2;एक}	जन्मन्{नपुं}{2;एक}	कर्म,15	जन्म_को	बिर्ट्ह्				
+14	न	12	नैति	न{अव्य}	न{अव्य}	प्रतिषेधः,15	नहीं	नेवेर्				
+15	एति	13		इ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;इण्;अदादिः}	इ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;इण्;अदादिः}	अभिहित_कर्ता,20;सकर्मक	प्राप्त_होता_है	डोएस्_अट्टइन्				
+16	माम्	14	मामेति	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,17	मुझे	उन्टो_ंए				
+17	एति	15		इ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;इण्;अदादिः}	इ1{कर्तरि;लट्;प्र;एक;परस्मैपदी;इण्;अदादिः}	अभिहित_कर्ता,20;सकर्मक	प्राप्त_होता_है	डोएस्_अट्टइन्				
+19	अर्जुन	16		अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,15	हे_अर्जुन	औ_आर्जुन				
+20	(सः)	17	()	(तद्{पुं}{1;एक})	(तद्{पुं}{1;एक})	कर्ता,15	(वह)	हे				

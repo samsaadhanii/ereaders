@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aByAse	1	aByAseZpyasamarWoZsi	aByAsa{puM}{7;eka}/aBi_as3{karmaNi;lit;u;eka;AwmanepaxI;asuz;xivAxiH}/aBi_as3{karmaNi;lit;pra;eka;AwmanepaxI;asuz;xivAxiH}	aByAsa{puM}{7;eka}	aXikaraNam,4	aByAsa_meM	in_practice_of				
-2	api	2	0	api{avya}	api{avya}	sambanXaH,4	BI	even				
-3	a-samarWaH	4	0	asamarWa{puM}{1;eka}	asamarWa{puM}{1;eka}	viXeya_viSeRaNam,4	asamarWa	unable	<na-samarWaH>Tn			
-4	asi	5	0	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,4.1;akarmakaH	ho	are				
-4.1	(wvam)	3	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,4	(wuma)	you				
-5	maw-karma-paramaH	7	mawkarmaparamo	mawkarmaparamaH	asmaw-karma-parama{puM}{1;eka}	viXeya_viSeRaNam,6	mere_liye_karma_karane_ke_hI_parAyaNa	my_supreme_work	<<asmaw-karma>T6-paramaH>T7			
-6	Bava	8	Bava	Bava{puM}{8;eka}/BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lot;ma;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,6.1;akarmakaH	ho_jA	become				
-6.1	(wvam)	6	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,6	(wuma)	you				
-7	max-arWaM	9	maxarWamapi	maxarWa{puM}{2;eka}	asmax-arWa{napuM}{1;eka}	prayojanam,10	mere_nimiwa	for_My_sake	<asmaw-arWam>T4			
-8	api	12	0	api{avya}	api{avya}	sambanXaH,10	BI	even_though				
-9	karmANi	10	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	karman{napuM}{2;bahu}	karma,10	karmoM_ko	work				
-10	kurvan	11	kurvansixXimavApsyasi	kurvaw{puM}{1;eka}/kurvaw{puM}{8;eka}/kurvaw{puM}{1;eka}	kq3{kqw_prawyayaH:Sawq;dukqF;wanAxiH;puM}{1;eka}	varwamAnasamAnakAlaH,12	karawA_huA	performing				
-11	sixXim	14	0	sixXi{swrI}{2;eka}	sixXi{swrI}{2;eka}	karma,12	sixXi_ko	perfection				
-12	avApsyasi	15	0	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ApLz;svAxiH}	ava_Ap1{karwari;lqt;ma;eka;parasmEpaxI;ava_ApLz;svAxiH}	aBihiwakarwA,12.1;sakarmakaH	prApwa_hogA	achieve				
-12.1	(wvam)	13	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wuma)	you				
+1	अभ्यासे	1	अभ्यासेऽप्यसमर्थोऽसि	अभ्यास{पुं}{7;एक}/अभि_अस्3{कर्मणि;लिट्;उ;एक;आत्मनेपदी;असुँ;दिवादिः}/अभि_अस्3{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;असुँ;दिवादिः}	अभ्यास{पुं}{7;एक}	अधिकरणम्,4	अभ्यास_में	इन्_प्रच्टिचे_ओङ्				
+2	अपि	2	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,4	भी	एवेन्				
+3	अ-समर्थः	4	0	असमर्थ{पुं}{1;एक}	असमर्थ{पुं}{1;एक}	विधेय_विशेषणम्,4	असमर्थ	उनब्ले	<न-समर्थः>ठ्न्			
+4	असि	5	0	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,4.1;अकर्मकः	हो	अरे				
+4.1	(त्वम्)	3	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,4	(तुम)	योउ				
+5	मत्-कर्म-परमः	7	मत्कर्मपरमो	मत्कर्मपरमः	अस्मत्-कर्म-परम{पुं}{1;एक}	विधेय_विशेषणम्,6	मेरे_लिये_कर्म_करने_के_ही_परायण	म्य्_सुप्रेमे_तोर्क्	<<अस्मत्-कर्म>ठ्6-परमः>ठ्7			
+6	भव	8	भव	भव{पुं}{8;एक}/भू1{कर्तरि;लोट्;म;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लोट्;म;एक;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,6.1;अकर्मकः	हो_जा	बेचोमे				
+6.1	(त्वम्)	6	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,6	(तुम)	योउ				
+7	मद्-अर्थं	9	मदर्थमपि	मदर्थ{पुं}{2;एक}	अस्मद्-अर्थ{नपुं}{1;एक}	प्रयोजनम्,10	मेरे_निमित	ङोर्_ंय्_सके	<अस्मत्-अर्थम्>ठ्4			
+8	अपि	12	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,10	भी	एवेन्_ट्होउग्ह्				
+9	कर्माणि	10	कर्माणि	कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}/कर्मन्{नपुं}{8;बहु}	कर्मन्{नपुं}{2;बहु}	कर्म,10	कर्मों_को	तोर्क्				
+10	कुर्वन्	11	कुर्वन्सिद्धिमवाप्स्यसि	कुर्वत्{पुं}{1;एक}/कुर्वत्{पुं}{8;एक}/कुर्वत्{पुं}{1;एक}	कृ3{कृत्_प्रत्ययः:शतृ;डुकृञ्;तनादिः;पुं}{1;एक}	वर्तमानसमानकालः,12	करता_हुआ	पेर्ङोर्मिन्ग्				
+11	सिद्धिम्	14	0	सिद्धि{स्त्री}{2;एक}	सिद्धि{स्त्री}{2;एक}	कर्म,12	सिद्धि_को	पेर्ङेच्टिओन्				
+12	अवाप्स्यसि	15	0	अव_आप्1{कर्तरि;लृट्;म;एक;परस्मैपदी;आपॢँ;स्वादिः}	अव_आप्1{कर्तरि;लृट्;म;एक;परस्मैपदी;अव_आपॢँ;स्वादिः}	अभिहितकर्ता,12.1;सकर्मकः	प्राप्त_होगा	अच्हिएवे				
+12.1	(त्वम्)	13	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,12	(तुम)	योउ				

@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wAni	1	wAni	wax{sarvanAma;napuM;1;bahu}/wax{sarvanAma;napuM;2;bahu}	wax{sarvanAma;napuM;2;bahu}	viSeRaNam,9	una	those				
-2	sarvANi	2	sarvANi	sarva{sarvanAma;napuM;1;bahu}/sarva{sarvanAma;napuM;2;bahu}/Rarv1{karwari;lot;u;eka;parasmEpaxI;Rarvaz;:BvAxiH}/sarvANI{swrI;8;eka}	sarva{sarvanAma;napuM;2;bahu}	karma,3	sampUrNa_inxriyoM_ko	all_senses				
-3	saMyamya	3	saMyamya	yam2{avya;lyap;yamaz;:BvAxiH}/yam1{avya;lyap;yamuz;:BvAxiH}/yam3{avya;lyap;yamaz;:curAxiH}	sam_yam3{avya;lyap;yamaz;:curAxiH}	pUrvakAlaH,5	vaSa_meM_karake	having_controlled				
-4	yukwaH	4	yukwa	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	karwA,5	samAhiwa_ciwwa_huA	concentrating_his_mind				
-5	AsIwa	6	AsIwa	As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH}	As1{karwari;viXilif;pra;eka;AwmanepaxI;Asaz;axAxiH}	aBihiwa_karwA,4	rahe	should_sit				
-6	maw-paraH	5	mawparaH	mawpara{puM}{1;eka}	asmaw-para{puM}{1;eka}	viXeya_viSeRaNam,5	mere_parAyaNa_hokara	devoting_himself_heart_and_soul_to_Me	<asmaw-paraH>Bs6			
-7	vaSe	7	vaSe	vaSa{napuM;1;xvi}/vaSa{napuM;2;xvi}/vaSA{swrI;1;xvi}/vaSA{swrI;2;xvi}/vaSa{napuM;8;xvi}/vaSA{swrI;8;eka}/vaSA{swrI;8;xvi}/vaSi{puM;8;eka}/vaSa{puM;7;eka}/vaSa{napuM;7;eka}	vaSa{napuM;7;eka}	aXikaraNam,4	vaSa_meM	under_control				
-8	hi	12	hi	hi{avya}	hi{avya}	sambanXaH,12	kyoMki	for				
-9	yasya	5	yasyenxriyANi	yax{puM}{6;eka}/yax{napuM}{6;eka}/yas1{karwari;lot;ma;eka;parasmEpaxI;yasuz;xivAxiH}	yax{puM}{6;eka}	RaRTIsambanXaH,5	jisakI	one_whose				
-10	inxriyANi	3	0	inxriya{napuM;1;bahu}/inxriya{napuM;2;bahu}/inxriya{napuM;8;bahu}	inxriya{napuM;2;bahu}	karwA,10.1	inxriyAz	senses				
-10.1	(sanwi)	11	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,10	(howI_hEM)	are				
-11	wasya	9	wasya	wax{sarvanAma;napuM;6;eka}/wax{sarvanAma;puM;6;eka}	wax{sarvanAma;napuM;6;eka}	RaRTIsambanXaH,12	usakI	his				
-12	prajFA	10	prajFA	prajFA{swrI}{1;eka}	prajFA{swrI}{1;eka}	karwA,13	buxXi	mind				
-13	prawiRTiwA	11	prawiRTiwA	prawiRTi{wal;swrI;1;eka}/prawiRTiwA{swrI;1;eka(RWA1;kwa;RWA;:BvAxiH)}	prawiRTiwA{swrI;1;eka(RWA1;kwa;RWA;:BvAxiH)}	aBihiwa_karwA,12	sWira	stable				
+1	तानि	1	तानि	तद्{सर्वनाम;नपुं;1;बहु}/तद्{सर्वनाम;नपुं;2;बहु}	तद्{सर्वनाम;नपुं;2;बहु}	विशेषणम्,9	उन	ट्होसे				
+2	सर्वाणि	2	सर्वाणि	सर्व{सर्वनाम;नपुं;1;बहु}/सर्व{सर्वनाम;नपुं;2;बहु}/षर्व्1{कर्तरि;लोट्;उ;एक;परस्मैपदी;षर्वँ;:भ्वादिः}/सर्वाणी{स्त्री;8;एक}	सर्व{सर्वनाम;नपुं;2;बहु}	कर्म,3	सम्पूर्ण_इन्द्रियों_को	अल्ल्_सेन्सेस्				
+3	संयम्य	3	संयम्य	यम्2{अव्य;ल्यप्;यमँ;:भ्वादिः}/यम्1{अव्य;ल्यप्;यमुँ;:भ्वादिः}/यम्3{अव्य;ल्यप्;यमँ;:चुरादिः}	सम्_यम्3{अव्य;ल्यप्;यमँ;:चुरादिः}	पूर्वकालः,5	वश_में_करके	हविन्ग्_चोन्ट्रोल्लेड्				
+4	युक्तः	4	युक्त	युक्त{पुं}{1;एक}	युज्2{कृत्_प्रत्ययः:क्त;युजिँर्;रुधादिः;पुं}{1;एक}	कर्ता,5	समाहित_चित्त_हुआ	चोन्चेन्ट्रटिन्ग्_हिस्_मिन्ड्				
+5	आसीत	6	आसीत	आस्1{कर्तरि;विधिलिङ्;प्र;एक;आत्मनेपदी;आसँ;अदादिः}	आस्1{कर्तरि;विधिलिङ्;प्र;एक;आत्मनेपदी;आसँ;अदादिः}	अभिहित_कर्ता,4	रहे	स्होउल्ड्_सिट्				
+6	मत्-परः	5	मत्परः	मत्पर{पुं}{1;एक}	अस्मत्-पर{पुं}{1;एक}	विधेय_विशेषणम्,5	मेरे_परायण_होकर	डेवोटिन्ग्_हिम्सेल्ङ्_हेअर्ट्_अन्ड्_सोउल्_टो_ंए	<अस्मत्-परः>भ्स्6			
+7	वशे	7	वशे	वश{नपुं;1;द्वि}/वश{नपुं;2;द्वि}/वशा{स्त्री;1;द्वि}/वशा{स्त्री;2;द्वि}/वश{नपुं;8;द्वि}/वशा{स्त्री;8;एक}/वशा{स्त्री;8;द्वि}/वशि{पुं;8;एक}/वश{पुं;7;एक}/वश{नपुं;7;एक}	वश{नपुं;7;एक}	अधिकरणम्,4	वश_में	उन्डेर्_चोन्ट्रोल्				
+8	हि	12	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,12	क्योंकि	ङोर्				
+9	यस्य	5	यस्येन्द्रियाणि	यद्{पुं}{6;एक}/यद्{नपुं}{6;एक}/यस्1{कर्तरि;लोट्;म;एक;परस्मैपदी;यसुँ;दिवादिः}	यद्{पुं}{6;एक}	षष्ठीसम्बन्धः,5	जिसकी	ओने_त्होसे				
+10	इन्द्रियाणि	3	0	इन्द्रिय{नपुं;1;बहु}/इन्द्रिय{नपुं;2;बहु}/इन्द्रिय{नपुं;8;बहु}	इन्द्रिय{नपुं;2;बहु}	कर्ता,10.1	इन्द्रियाँ	सेन्सेस्				
+10.1	(सन्ति)	11	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,10	(होती_हैं)	अरे				
+11	तस्य	9	तस्य	तद्{सर्वनाम;नपुं;6;एक}/तद्{सर्वनाम;पुं;6;एक}	तद्{सर्वनाम;नपुं;6;एक}	षष्ठीसम्बन्धः,12	उसकी	हिस्				
+12	प्रज्ञा	10	प्रज्ञा	प्रज्ञा{स्त्री}{1;एक}	प्रज्ञा{स्त्री}{1;एक}	कर्ता,13	बुद्धि	मिन्ड्				
+13	प्रतिष्ठिता	11	प्रतिष्ठिता	प्रतिष्ठि{तल्;स्त्री;1;एक}/प्रतिष्ठिता{स्त्री;1;एक(ष्था1;क्त;ष्था;:भ्वादिः)}	प्रतिष्ठिता{स्त्री;1;एक(ष्था1;क्त;ष्था;:भ्वादिः)}	अभिहित_कर्ता,12	स्थिर	स्टब्ले				

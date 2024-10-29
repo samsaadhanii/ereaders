@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	niyawam	3	niyawaM	niyawa{puM}{2;eka}/niyawa{napuM}{1;eka}/niyawa{napuM}{2;eka}	niyawa{napuM}{2;eka}	viSeRaNam,4	SAswraviXi_se_niyawa_kiyA_huA	regulative				
-2	safga-rahiwam	4	safgarahiwamarAgaxveRawaH	safgarahiwa{puM}{2;eka}/safgarahiwa{napuM}{1;eka}/safgarahiwa{napuM}{2;eka}	safga-rahiwa{napuM}{2;eka}	viSeRaNam,4	karwApana_ke_aBimAna_se_rahiwa_ho	without_attachment	<safga-rahiwam>T3			
-3	a-rAga-xveRawaH	6	0	a-rAga-xveRawaH	arAga-xveRawaH{avya}	hewuH,4	binA_rAga-xveRa_ke	without_love_or_hatred	<na-<rAga-xveRawaH>Di>Tn			
-4	kqwam	7	kqwam	kqw{puM}{2;eka}/kqwa{puM}{2;eka}/kqwa{napuM}{1;eka}/kqwa{napuM}{2;eka}	kq3{kqw_prawyayaH:kwa;dukqF;wanAxiH;napuM}{1;eka}	aBihiwa_karma,6	kiyA_gayA_ho	done				
-5	a-Pala-prepsunA	5	aPalaprepsunA	aPalaprepsu{puM}{3;eka}/aPalaprepsu{napuM}{3;eka}	na-Pala-prepsu{puM}{3;eka}	karwA,4	Pala_na_cAhanevAle_puruRa_xvArA	without_fruitive_result	<a-<Pala-prepsunA>T2>Tn			
-6	karma	2	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{2;eka}	karma,4	karma	work				
-7	yaw	1	yawwawsAwwvikamucyawe	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	viSeRaNam,6;niwyasambanXaH8	jo	that_which				
-8	waw	8	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,10	vaha	that				
-9	sAwwvikam	9	0	sAwwvika{puM}{2;eka}	sAwwvika{napuM}{2;eka}	karmasamAnAXikaraNam,10	sAwwvika	in_the_mode_of_goodness				
-10	ucyawe	10	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karma,8	kahA_jAwA_hE	is_called				
+1	नियतम्	3	नियतं	नियत{पुं}{2;एक}/नियत{नपुं}{1;एक}/नियत{नपुं}{2;एक}	नियत{नपुं}{2;एक}	विशेषणम्,4	शास्त्रविधि_से_नियत_किया_हुआ	रेगुलटिवे				
+2	सङ्ग-रहितम्	4	सङ्गरहितमरागद्वेषतः	सङ्गरहित{पुं}{2;एक}/सङ्गरहित{नपुं}{1;एक}/सङ्गरहित{नपुं}{2;एक}	सङ्ग-रहित{नपुं}{2;एक}	विशेषणम्,4	कर्तापन_के_अभिमान_से_रहित_हो	तिट्होउट्_अट्टच्ह्मेन्ट्	<सङ्ग-रहितम्>ठ्3			
+3	अ-राग-द्वेषतः	6	0	अ-राग-द्वेषतः	अराग-द्वेषतः{अव्य}	हेतुः,4	बिना_राग-द्वेष_के	तिट्होउट्_लोवे_ओर्_हट्रेड्	<न-<राग-द्वेषतः>ढि>ठ्न्			
+4	कृतम्	7	कृतम्	कृत्{पुं}{2;एक}/कृत{पुं}{2;एक}/कृत{नपुं}{1;एक}/कृत{नपुं}{2;एक}	कृ3{कृत्_प्रत्ययः:क्त;डुकृञ्;तनादिः;नपुं}{1;एक}	अभिहित_कर्म,6	किया_गया_हो	डोने				
+5	अ-फल-प्रेप्सुना	5	अफलप्रेप्सुना	अफलप्रेप्सु{पुं}{3;एक}/अफलप्रेप्सु{नपुं}{3;एक}	न-फल-प्रेप्सु{पुं}{3;एक}	कर्ता,4	फल_न_चाहनेवाले_पुरुष_द्वारा	तिट्होउट्_ङ्रुइटिवे_रेसुल्ट्	<अ-<फल-प्रेप्सुना>ठ्2>ठ्न्			
+6	कर्म	2	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{2;एक}	कर्म,4	कर्म	तोर्क्				
+7	यत्	1	यत्तत्सात्त्विकमुच्यते	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	विशेषणम्,6;नित्यसम्बन्धः8	जो	ट्हट्_त्हिच्ह्				
+8	तत्	8	0	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	कर्म,10	वह	ट्हट्				
+9	सात्त्विकम्	9	0	सात्त्विक{पुं}{2;एक}	सात्त्विक{नपुं}{2;एक}	कर्मसमानाधिकरणम्,10	सात्त्विक	इन्_ट्हे_मोडे_ओङ्_गोओड्नेस्स्				
+10	उच्यते	10	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहित_कर्म,8	कहा_जाता_है	इस्_चल्लेड्				

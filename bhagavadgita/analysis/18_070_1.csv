@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	aXyeRyawe	6	aXyeRyawe	i2{karwari;lqt;pra;eka;AwmanepaxI;if;axAxiH}/i3{karmaNi;lqt;pra;eka;AwmanepaxI;ik;axAxiH}	aXi_i2{karwari;lqt;pra;eka;AwmanepaxI;aXi_if;axAxiH}	aBihiwakarwA,3;sakarmakaH	paDa़egA	will_study				
-2	ca	8	ca	ca{avya}	ca{avya}	sambanXaH,1	BI	also				
-3	yaH	1	ya	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,1;niwyasambanXaH	jo_(puruRa)	he				
-4	imam	2	imaM	ixam{puM}{2;eka}	ixam{puM}{2;eka}	viSeRaNam,6	isa	this				
-5	Xarmyam	3	XarmyaM	Xarmya{puM}{2;eka}/Xarmya{napuM}{1;eka}/Xarmya{napuM}{2;eka}	Xarmya{puM}{2;eka}	viSeRaNam,6	Xarmamaya	sacred				
-6	saMvAxam	5	saMvAxamAvayoH	saMvAxa{puM}{2;eka}	saMvAxa{puM}{2;eka}	karma,1	saMvAxarUpa_gIwASAswra_ko	conversation				
-7	AvayoH	4	0	asmax{6;xvi}/asmax{7;xvi}	asmax{6;xvi}	RaRTIsambanXaH,6	hama_xonoM_ke	of_ours				
-8	jFAna-yajFena	10	jFAnayajFena	jFAnayajFa{puM}{3;eka}	jFAna-yajFa{puM}{3;eka}	karaNam,12	jFAnayajFa_se	by_knowledge_sacrifice	<jFAna-yajFena>K6			
-9	wena	7	wenAhamiRtaH	wax{puM}{3;eka}/wax{napuM}{3;eka}/wan1{karwari;lit;ma;bahu;parasmEpaxI;wanuz;wanAxiH}	wax{puM}{3;eka}	hewuH,11	usake_xvArA	by_him				
-10	aham	9	0	asmax{1;eka}	asmax{1;eka}	karma,11	mEM	I				
-11	iRtaH	11	0	iRta{puM}{1;eka}	iR2{kqw_prawyayaH:kwa;iRuz;wuxAxiH;puM}{1;eka}	karwA,12	pUjiwa	worshiped				
-12	syAm	12	syAmiwi	as2{karwari;viXilif;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;u;eka;parasmEpaxI;asaz;axAxiH}	vAkyakarma,15	hoUzgA	shallvabe				
-13	iwi	13	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,12	EsA	thus				
-14	me	14	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,15	merA	My				
-15	mawiH	15	mawiH	mawi{swrI}{1;eka}	mawi{swrI}{1;eka}	karwA,15.1	mawa	opinion				
-15.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,15;akarmakaH	(hE)	is				
+1	अध्येष्यते	6	अध्येष्यते	इ2{कर्तरि;लृट्;प्र;एक;आत्मनेपदी;इङ्;अदादिः}/इ3{कर्मणि;लृट्;प्र;एक;आत्मनेपदी;इक्;अदादिः}	अधि_इ2{कर्तरि;लृट्;प्र;एक;आत्मनेपदी;अधि_इङ्;अदादिः}	अभिहितकर्ता,3;सकर्मकः	पढॆअञएगा	तिल्ल्_स्टुड्य्				
+2	च	8	च	च{अव्य}	च{अव्य}	सम्बन्धः,1	भी	अल्सो				
+3	यः	1	य	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,1;नित्यसम्बन्धः	जो_(पुरुष)	हे				
+4	इमम्	2	इमं	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	विशेषणम्,6	इस	ट्हिस्				
+5	धर्म्यम्	3	धर्म्यं	धर्म्य{पुं}{2;एक}/धर्म्य{नपुं}{1;एक}/धर्म्य{नपुं}{2;एक}	धर्म्य{पुं}{2;एक}	विशेषणम्,6	धर्ममय	सच्रेड्				
+6	संवादम्	5	संवादमावयोः	संवाद{पुं}{2;एक}	संवाद{पुं}{2;एक}	कर्म,1	संवादरूप_गीताशास्त्र_को	चोन्वेर्सटिओन्				
+7	आवयोः	4	0	अस्मद्{6;द्वि}/अस्मद्{7;द्वि}	अस्मद्{6;द्वि}	षष्ठीसम्बन्धः,6	हम_दोनों_के	ओङ्_ओउर्स्				
+8	ज्ञान-यज्ञेन	10	ज्ञानयज्ञेन	ज्ञानयज्ञ{पुं}{3;एक}	ज्ञान-यज्ञ{पुं}{3;एक}	करणम्,12	ज्ञानयज्ञ_से	ब्य्_क्नोत्लेड्गे_सच्रिङिचे	<ज्ञान-यज्ञेन>ख्6			
+9	तेन	7	तेनाहमिष्टः	तद्{पुं}{3;एक}/तद्{नपुं}{3;एक}/तन्1{कर्तरि;लिट्;म;बहु;परस्मैपदी;तनुँ;तनादिः}	तद्{पुं}{3;एक}	हेतुः,11	उसके_द्वारा	ब्य्_हिम्				
+10	अहम्	9	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्म,11	मैं	ई				
+11	इष्टः	11	0	इष्ट{पुं}{1;एक}	इष्2{कृत्_प्रत्ययः:क्त;इषुँ;तुदादिः;पुं}{1;एक}	कर्ता,12	पूजित	तोर्स्हिपेड्				
+12	स्याम्	12	स्यामिति	अस्2{कर्तरि;विधिलिङ्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;विधिलिङ्;उ;एक;परस्मैपदी;असँ;अदादिः}	वाक्यकर्म,15	होऊँगा	स्हल्ल्वबे				
+13	इति	13	0	इति{अव्य}	इति{अव्य}	वाक्यकर्म_द्योतकः,12	ऐसा	ट्हुस्				
+14	मे	14	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,15	मेरा	ंय्				
+15	मतिः	15	मतिः	मति{स्त्री}{1;एक}	मति{स्त्री}{1;एक}	कर्ता,15.1	मत	ओपिनिओन्				
+15.1	(अस्ति)	16	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,15;अकर्मकः	(है)	इस्				

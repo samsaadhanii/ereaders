@@ -1,35 +1,35 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	mAm	13	mAM	asmax{2;eka}	asmax{2;eka}	karma,4	merI	unto_Me				
-2	hi	1	hi	hi{avya}	hi{avya}	sambanXaH,7	kyoMki	because				
-3	pArWa	2	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,7	he_arjuna	O_son_of_Prtha				
-4	vyapASriwya	14	vyapASriwya	vyapASriwya	vi_apa_Af_Sri1{kqw_prawyayaH:lyap;vi_apa_Af_SriF;BvAxiH}	pUrvakAlaH,15	SaraNa_hokara	particularly_taking_shelter				
-5	ye	3	yeZpi	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,7;niwya_sambanXaH,13	jo_(koI)	anyone				
-6	api	4	0	api{avya}	api{avya}	sambanXaH,5	BI	also				
-7	syuH	10	syuH	as2{karwari;viXilif;pra;bahu;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;pra;bahu;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,5;akarmakaH	hoM	becomes				
-8	pApa-yonayaH	5	pApayonayaH	pApa-yoni{puM}{1;bahu}/yoni{puM}{8;bahu}	pApa-yoni{puM}{1;bahu}	sup_samucciwaH,12	pApayoni_cANdAlAxi	born_of_a_lower_family	<pApa-yonayaH>Bs6			
-9	swriyaH	6	swriyo	swrI{swrI}{1;bahu}/swrI{swrI}{2;bahu}/swrI{swrI}{8;bahu}	swrI{swrI}{1;bahu}	sup_samucciwaH,12	swrI	women				
-10	vESyAH	7	vESyAswaWA	vESya{puM}{1;bahu}/vESya{puM}{8;bahu}	vESya{puM}{1;bahu}	sup_samucciwaH,12	vESya	mercantile_people				
-11	waWA	8	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,12	waWA	also				
-12	SUxrAH	9	SUxrAsweZpi	SUxra{puM}{1;bahu}/SUxra{puM}{8;bahu}/SUxrA{swrI}{1;bahu}/SUxrA{swrI}{2;bahu}/SUxrA{swrI}{8;bahu}	SUxra{puM}{1;bahu}	viXeya_viSeRaNam,7	SUxra	lower-class_men				
-13	we	11	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	wax{puM}{1;bahu}	karwA,15	ve	they				
-14	api	12	0	api{avya}	api{avya}	sambanXaH,13	BI	even				
-15	yAnwi	17	yAnwi	yAw{napuM}{1;bahu}/yAw{napuM}{2;bahu}/yAw{napuM}{8;bahu}/yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	yA1{karwari;lat;pra;bahu;parasmEpaxI;yA;axAxiH}	aBihiwa_karwA,13;sakarmakaH	prApwa_howe_hEM	go				
-16	parAm	15	parAM	parA{swrI}{2;eka}/parA{swrI}{2;eka}	parA{swrI}{2;eka}	viSeRaNam,17	parama	supreme				
-17	gawim	16	gawim	gawi{swrI}{2;eka}	gawi{swrI}{2;eka}	karma,15	gawi_ko	destination				
-18	kim	24	kiM	kim{napuM}{1;eka}/kim{napuM}{2;eka}	kim{napuM}{1;eka}	sambanXaH,24.1	kyA	how_much				
-19	punaH	18	punaH	punaH{avya}	punaH{avya}	sambanXaH,21	Pira					
-20	brAhmaNAH	20	brAhmaNAH	brAhmaNa{puM}{1;bahu}/brAhmaNa{puM}{8;bahu}/brAhmaNA{swrI}{1;bahu}/brAhmaNA{swrI}{2;bahu}/brAhmaNA{swrI}{8;bahu}	brAhmaNa{puM}{1;bahu}	sup_samucciwaH,22	brAhmaNa	brahmanas				
-21	puNyAH	19	puNyA	puNyA{swrI}{1;bahu}/puNyA{swrI}{2;bahu}/puNyA{swrI}{8;bahu}/puN1{karwari;ASIrlif;ma;eka;parasmEpaxI;puNaz;wuxAxiH}	puNya{puM}{1;bahu}	viSeRaNam,20	puNyaSIla	righteous				
-22	BakwAH	23	BakwA	Bakwa{puM}{1;bahu}/Bakwa{puM}{8;bahu}/BakwA{swrI}{1;bahu}/BakwA{swrI}{2;bahu}/BakwA{swrI}{8;bahu}	Bakwa{puM}{1;bahu}	karwA,24.1	Bakwajana ke prawi (paramagawiko prApwa karanevAle BakwoMke  prawi)  	devotees				
-23	rAja-qRayaH	22	rAjarRayaswaWA	rAjA-qRi{puM}{1;bahu}/qRi{puM}{8;bahu}	rAjan-qRi{puM}{1;bahu}	aBexaH,22	rAjarRi_ svarUpa	saintly_kings	<rAja-qRayaH>K1			
-24	waWA	21	0	waWA{avya}	waWA{avya}	sambanXaH,23	waWA	also				
-24.1	(aswi)	25	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,22;akarmakaH	 ( hE) (bola sakawe hE)	is				
-24.2	(ca)	28	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,22	(Ora)	and				
-25	a-niwyam	27	aniwyamasuKaM	a-niwya{puM}{2;eka}/niwya{napuM}{1;eka}/niwya{napuM}{2;eka}	aniwya{puM}{2;eka}	viSeRaNam,27	kRaNaBaMgura	temporary	<na-niwyam>Tn			
-26	a-suKam	29	0	a-suKam{avya}/suKa{puM}{2;eka}/suKa{napuM}{1;eka}/suKa{napuM}{2;eka}	na-suKa{puM}{2;eka}	viSeRaNam,27	suKarahiwa	sorrowful	<na-suKam>Bsmn			
-27	lokam	30	lokamimaM	loka{puM}{2;eka}	loka{puM}{2;eka}	karma,29	manuRya-SarIra_ko	planet				
-28	imam	26	imam	ixam{puM}{2;eka}	ixam{puM}{2;eka}	sambanXaH,27	isa	this				
-29	prApya	31	prApya	prApya{puM}{8;eka}/prApya{napuM}{8;eka}/pra_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/pra_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}/prA_Ap1{kqw_prawyayaH:lyap;ApLz;svAxiH}/prA_Ap2{kqw_prawyayaH:lyap;ApLz;curAxiH}	pra_Ap1{kqw_prawyayaH:lyap;pra_ApLz;svAxiH}	pUrvakAlaH,30	prApwa_hokara	gaining				
-30	Bajasva	34	Bajasva	Baj1{karwari;lot;ma;eka;AwmanepaxI;Bajaz;BvAxiH}	Baj1{karwari;lot;ma;eka;AwmanepaxI;Bajaz;BvAxiH}	aBihiwa_karwA,31.1;sakarmakaH	 BakwipUrvaka Bajana karo	are_engaged_in_loving_service				
-31	mAm	33	mAm	asmax{2;eka}	asmax{2;eka}	karma,30	 merA	unto_Me				
-31.1	(wvam)	32	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,30	(wuma)	you				
+1	माम्	13	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,4	मेरी	उन्टो_ंए				
+2	हि	1	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,7	क्योंकि	बेचउसे				
+3	पार्थ	2	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,7	हे_अर्जुन	औ_सोन्_ओङ्_फ्र्ट्ह				
+4	व्यपाश्रित्य	14	व्यपाश्रित्य	व्यपाश्रित्य	वि_अप_आङ्_श्रि1{कृत्_प्रत्ययः:ल्यप्;वि_अप_आङ्_श्रिञ्;भ्वादिः}	पूर्वकालः,15	शरण_होकर	पर्टिचुलर्ल्य्_टकिन्ग्_स्हेल्टेर्				
+5	ये	3	येऽपि	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	कर्ता,7;नित्य_सम्बन्धः,13	जो_(कोई)	अन्योने				
+6	अपि	4	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,5	भी	अल्सो				
+7	स्युः	10	स्युः	अस्2{कर्तरि;विधिलिङ्;प्र;बहु;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;विधिलिङ्;प्र;बहु;परस्मैपदी;असँ;अदादिः}	अभिहित_कर्ता,5;अकर्मकः	हों	बेचोमेस्				
+8	पाप-योनयः	5	पापयोनयः	पाप-योनि{पुं}{1;बहु}/योनि{पुं}{8;बहु}	पाप-योनि{पुं}{1;बहु}	सुप्_समुच्चितः,12	पापयोनि_चाण्डालादि	बोर्न्_ओङ्_अ_लोतेर्_ङमिल्य्	<पाप-योनयः>भ्स्6			
+9	स्त्रियः	6	स्त्रियो	स्त्री{स्त्री}{1;बहु}/स्त्री{स्त्री}{2;बहु}/स्त्री{स्त्री}{8;बहु}	स्त्री{स्त्री}{1;बहु}	सुप्_समुच्चितः,12	स्त्री	तोमेन्				
+10	वैश्याः	7	वैश्यास्तथा	वैश्य{पुं}{1;बहु}/वैश्य{पुं}{8;बहु}	वैश्य{पुं}{1;बहु}	सुप्_समुच्चितः,12	वैश्य	मेर्चन्टिले_पेओप्ले				
+11	तथा	8	0	तथा{अव्य}	तथा{अव्य}	समुच्चय_द्योतकः,12	तथा	अल्सो				
+12	शूद्राः	9	शूद्रास्तेऽपि	शूद्र{पुं}{1;बहु}/शूद्र{पुं}{8;बहु}/शूद्रा{स्त्री}{1;बहु}/शूद्रा{स्त्री}{2;बहु}/शूद्रा{स्त्री}{8;बहु}	शूद्र{पुं}{1;बहु}	विधेय_विशेषणम्,7	शूद्र	लोतेर्-च्लस्स्_मेन्				
+13	ते	11	0	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	तद्{पुं}{1;बहु}	कर्ता,15	वे	ट्हेय्				
+14	अपि	12	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,13	भी	एवेन्				
+15	यान्ति	17	यान्ति	यात्{नपुं}{1;बहु}/यात्{नपुं}{2;बहु}/यात्{नपुं}{8;बहु}/या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;या;अदादिः}	अभिहित_कर्ता,13;सकर्मकः	प्राप्त_होते_हैं	गो				
+16	पराम्	15	परां	परा{स्त्री}{2;एक}/परा{स्त्री}{2;एक}	परा{स्त्री}{2;एक}	विशेषणम्,17	परम	सुप्रेमे				
+17	गतिम्	16	गतिम्	गति{स्त्री}{2;एक}	गति{स्त्री}{2;एक}	कर्म,15	गति_को	डेस्टिनटिओन्				
+18	किम्	24	किं	किम्{नपुं}{1;एक}/किम्{नपुं}{2;एक}	किम्{नपुं}{1;एक}	सम्बन्धः,24.1	क्या	होत्_मुच्ह्				
+19	पुनः	18	पुनः	पुनः{अव्य}	पुनः{अव्य}	सम्बन्धः,21	फिर					
+20	ब्राह्मणाः	20	ब्राह्मणाः	ब्राह्मण{पुं}{1;बहु}/ब्राह्मण{पुं}{8;बहु}/ब्राह्मणा{स्त्री}{1;बहु}/ब्राह्मणा{स्त्री}{2;बहु}/ब्राह्मणा{स्त्री}{8;बहु}	ब्राह्मण{पुं}{1;बहु}	सुप्_समुच्चितः,22	ब्राह्मण	ब्रह्मनस्				
+21	पुण्याः	19	पुण्या	पुण्या{स्त्री}{1;बहु}/पुण्या{स्त्री}{2;बहु}/पुण्या{स्त्री}{8;बहु}/पुण्1{कर्तरि;आशीर्लिङ्;म;एक;परस्मैपदी;पुणँ;तुदादिः}	पुण्य{पुं}{1;बहु}	विशेषणम्,20	पुण्यशील	रिग्ह्टेओउस्				
+22	भक्ताः	23	भक्ता	भक्त{पुं}{1;बहु}/भक्त{पुं}{8;बहु}/भक्ता{स्त्री}{1;बहु}/भक्ता{स्त्री}{2;बहु}/भक्ता{स्त्री}{8;बहु}	भक्त{पुं}{1;बहु}	कर्ता,24.1	भक्तजन के प्रति (परमगतिको प्राप्त करनेवाले भक्तोंके  प्रति)  	डेवोटेएस्				
+23	राज-ऋषयः	22	राजर्षयस्तथा	राजा-ऋषि{पुं}{1;बहु}/ऋषि{पुं}{8;बहु}	राजन्-ऋषि{पुं}{1;बहु}	अभेदः,22	राजर्षि_ स्वरूप	सइन्ट्ल्य्_किन्ग्स्	<राज-ऋषयः>ख्1			
+24	तथा	21	0	तथा{अव्य}	तथा{अव्य}	सम्बन्धः,23	तथा	अल्सो				
+24.1	(अस्ति)	25	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,22;अकर्मकः	 ( है) (बोल सकते है)	इस्				
+24.2	(च)	28	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,22	(और)	अन्ड्				
+25	अ-नित्यम्	27	अनित्यमसुखं	अ-नित्य{पुं}{2;एक}/नित्य{नपुं}{1;एक}/नित्य{नपुं}{2;एक}	अनित्य{पुं}{2;एक}	विशेषणम्,27	क्षणभंगुर	टेम्पोरर्य्	<न-नित्यम्>ठ्न्			
+26	अ-सुखम्	29	0	अ-सुखम्{अव्य}/सुख{पुं}{2;एक}/सुख{नपुं}{1;एक}/सुख{नपुं}{2;एक}	न-सुख{पुं}{2;एक}	विशेषणम्,27	सुखरहित	सोर्रोत्ङुल्	<न-सुखम्>भ्स्म्न्			
+27	लोकम्	30	लोकमिमं	लोक{पुं}{2;एक}	लोक{पुं}{2;एक}	कर्म,29	मनुष्य-शरीर_को	प्लनेट्				
+28	इमम्	26	इमम्	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	सम्बन्धः,27	इस	ट्हिस्				
+29	प्राप्य	31	प्राप्य	प्राप्य{पुं}{8;एक}/प्राप्य{नपुं}{8;एक}/प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्र_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}/प्रा_आप्1{कृत्_प्रत्ययः:ल्यप्;आपॢँ;स्वादिः}/प्रा_आप्2{कृत्_प्रत्ययः:ल्यप्;आपॢँ;चुरादिः}	प्र_आप्1{कृत्_प्रत्ययः:ल्यप्;प्र_आपॢँ;स्वादिः}	पूर्वकालः,30	प्राप्त_होकर	गइनिन्ग्				
+30	भजस्व	34	भजस्व	भज्1{कर्तरि;लोट्;म;एक;आत्मनेपदी;भजँ;भ्वादिः}	भज्1{कर्तरि;लोट्;म;एक;आत्मनेपदी;भजँ;भ्वादिः}	अभिहित_कर्ता,31.1;सकर्मकः	 भक्तिपूर्वक भजन करो	अरे_एन्गगेड्_इन्_लोविन्ग्_सेर्विचे				
+31	माम्	33	माम्	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,30	तमेरा	उन्टो_ंए				
+31.1	(त्वम्)	32	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,30	(तुम)	योउ				

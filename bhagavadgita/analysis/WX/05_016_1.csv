@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	jFAnena	6	jFAnena	jFAna{napuM}{3;eka}	jFAna{napuM}{3;eka}	karaNam,6	wawwvajFAna_xvArA	by_knowledge				
+2	wu	1	wu	wu{avya}	wu{avya}	sambanXaH,5	paraMwu	but				
+3	waw	3	waxajFAnaM	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	viSeRaNam,4	vaha	that				
+4	a-jFAnam	4	0	ajFAna{napuM}{1;eka}/ajFAna{napuM}{2;eka}	ajFAna{napuM}{1;eka}	prayojyakarwA,6	ajFAna	nescience	<na-jFAnam>Tn			
+5	yeRAm	2	yeRAM	yax{puM}{6;bahu}/yax{napuM}{6;bahu}	yax{puM}{6;bahu}	RaRTIsambanXaH,4	jinakA	whose				
+6	nASiwam	7	nASiwamAwmanaH	nASiwa{puM}{2;eka}/nASiwa{napuM}{1;eka}/nASiwa{napuM}{2;eka}	naS1_Nic{kqw_prawyayaH:kwa;NaSaz_Nic;xivAxiH;napuM}{2;eka}	aBihiwakarma,4;sakarmakaH	naRta_kara_xiyA_gayA_hE	is_destroyed				
+7	AwmanaH	5	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,1	paramAwmA_ke	of_the_living_entity				
+8	weRAm	8	weRAmAxiwyavaFjFAnaM	wax{puM}{6;bahu}/wax{napuM}{6;bahu}	wax{puM}{6;bahu}	RaRTIsambanXaH,10	unakA	their				
+9	Axiwyavaw	10	0	Axiwyavaw{napuM}{1;eka}/Axiwyavaw{napuM}{2;eka}	Axiwyavaw{avya}	kriyAviSeRaNam,11	sUrya_ke_saxqSa	like_the_rising_sun				
+10	jFAnam	9	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	karwA,11	jFAna	knowledge				
+11	prakASayawi	12	prakASayawi	prakASayawi	pra_kAS1_Nic{karwari;lat;pra;eka;parasmEpaxI;pra_kASqz_Nic;BvAxiH}	aBihiwakarwA,10;sakarmakaH	prakASiwa_kara_xewA_hE	discloses				
+12	waw-param	11	wawparam	wawpara{puM}{2;eka}/wawpara{napuM}{1;eka}/wawpara{napuM}{2;eka}	wawpara{puM}{2;eka}	karma,11	usa_saccixAnanxaGana_paramAwmA_ko	the_Supreme	<waw-param>Bs6			

@@ -1,15 +1,15 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	rasaH	4	rasoZhamapsu	rasa{puM}{1;eka}	rasa{puM}{1;eka}	viXeya_viSeRaNam,6	rasa	taste				
-2	aham	2	0	asmax{1;eka}	asmax{1;eka}	karwA,6	mEM	I				
-3	apsu	3	0	ap{swrI}{7;bahu}	ap{swrI}{7;bahu}	aXikaraNam,1	jala_meM	in_water				
-4	kOnweya	1	kOnweya	kOnweya{puM}{8;eka}	kOnweya{puM}{8;eka}	samboXyaH,6	he_arjuna	O_son_of_Kunti				
-5	praBA	6	praBAsmi	praBA{swrI}{1;eka}	praBA{swrI}{1;eka}	sup_samucciwaH,1	prakASa	the_light				
-6	asmi	14	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,2;akarmakaH	hUz	am				
-7	SaSi-sUryayoH	5	SaSisUryayoH	SaSin-sUrya{puM}{6;xvi}/sUrya{puM}{7;xvi}/sUryA{swrI}{6;xvi}/sUryA{swrI}{7;xvi}	SaSin-sUrya{puM}{7;xvi}	aXikaraNam,5	canxramA_Ora_sUrya_meM	in_the_sun_and_the_moon	<SaSi-sUryayoH>Di			
-8	praNavaH	8	praNavaH	praNava{puM}{1;eka}	praNava{puM}{1;eka}	sup_samucciwaH,1	oMkAra	the_letters_a-u-m				
-9	sarva-vexeRu	7	sarvavexeRu	sarva-vexa{puM}{7;bahu}	sarva-vexa{puM}{7;bahu}	aXikaraNam,8	sampUrNa_vexoM_meM	in_all_the_Vedas	<sarva-vexeRu>K1			
-10	SabxaH	10	SabxaH	Sabxa{puM}{1;eka}	Sabxa{puM}{1;eka}	sup_samucciwaH,1	Sabxa	sound_vibration				
-11	Ke	9	Ke	Ka{puM}{7;eka}/Ka{napuM}{1;xvi}/Ka{napuM}{2;xvi}/Ka{napuM}{7;eka}/Ka{napuM}{8;xvi}	Ka{napuM}{7;eka}	aXikaraNam,10	AkASa_meM	in_the_ether				
-12	pOruRam	13	pOruRaM	pOruRa{puM}{2;eka}/pOruRa{napuM}{1;eka}/pOruRa{napuM}{2;eka}	pOruRa{napuM}{1;eka}	sup_samucciwaH,1	puruRawva	ability				
-13	nqRu	11	nqRu	nq{puM}{7;bahu}	nq{puM}{7;bahu}	aXikaraNam,12	puruRoM_meM	in_man				
-13.1	(ca)	12	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,13	(Ora)	also				
+1	रसः	4	रसोऽहमप्सु	रस{पुं}{1;एक}	रस{पुं}{1;एक}	विधेय_विशेषणम्,6	रस	टस्टे				
+2	अहम्	2	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,6	मैं	ई				
+3	अप्सु	3	0	अप्{स्त्री}{7;बहु}	अप्{स्त्री}{7;बहु}	अधिकरणम्,1	जल_में	इन्_तटेर्				
+4	कौन्तेय	1	कौन्तेय	कौन्तेय{पुं}{8;एक}	कौन्तेय{पुं}{8;एक}	सम्बोध्यः,6	हे_अर्जुन	औ_सोन्_ओङ्_खुन्टि				
+5	प्रभा	6	प्रभास्मि	प्रभा{स्त्री}{1;एक}	प्रभा{स्त्री}{1;एक}	सुप्_समुच्चितः,1	प्रकाश	ट्हे_लिग्ह्ट्				
+6	अस्मि	14	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,2;अकर्मकः	हूँ	अम्				
+7	शशि-सूर्ययोः	5	शशिसूर्ययोः	शशिन्-सूर्य{पुं}{6;द्वि}/सूर्य{पुं}{7;द्वि}/सूर्या{स्त्री}{6;द्वि}/सूर्या{स्त्री}{7;द्वि}	शशिन्-सूर्य{पुं}{7;द्वि}	अधिकरणम्,5	चन्द्रमा_और_सूर्य_में	इन्_ट्हे_सुन्_अन्ड्_ट्हे_मोओन्	<शशि-सूर्ययोः>ढि			
+8	प्रणवः	8	प्रणवः	प्रणव{पुं}{1;एक}	प्रणव{पुं}{1;एक}	सुप्_समुच्चितः,1	ओंकार	ट्हे_लेट्टेर्स्_अ-उ-म्				
+9	सर्व-वेदेषु	7	सर्ववेदेषु	सर्व-वेद{पुं}{7;बहु}	सर्व-वेद{पुं}{7;बहु}	अधिकरणम्,8	सम्पूर्ण_वेदों_में	इन्_अल्ल्_ट्हे_Vएडस्	<सर्व-वेदेषु>ख्1			
+10	शब्दः	10	शब्दः	शब्द{पुं}{1;एक}	शब्द{पुं}{1;एक}	सुप्_समुच्चितः,1	शब्द	सोउन्ड्_विब्रटिओन्				
+11	खे	9	खे	ख{पुं}{7;एक}/ख{नपुं}{1;द्वि}/ख{नपुं}{2;द्वि}/ख{नपुं}{7;एक}/ख{नपुं}{8;द्वि}	ख{नपुं}{7;एक}	अधिकरणम्,10	आकाश_में	इन्_ट्हे_एट्हेर्				
+12	पौरुषम्	13	पौरुषं	पौरुष{पुं}{2;एक}/पौरुष{नपुं}{1;एक}/पौरुष{नपुं}{2;एक}	पौरुष{नपुं}{1;एक}	सुप्_समुच्चितः,1	पुरुषत्व	अबिलिट्य्				
+13	नृषु	11	नृषु	नृ{पुं}{7;बहु}	नृ{पुं}{7;बहु}	अधिकरणम्,12	पुरुषों_में	इन्_मन्				
+13.1	(च)	12	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,13	(और)	अल्सो				

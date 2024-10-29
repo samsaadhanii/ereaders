@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	hanwa	2	hanwa	hanwa{avya}	hanwa{avya}	sambanXaH,3	aba	yes				
-2	we	8	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{4;eka}	sampraxAnam,3	were_liye	unto_you				
-3	kaWayiRyAmi	10	kaWayiRyAmi	kaWa1{karwari;lqt;u;eka;AwmanepaxI;kaWa;curAxiH}/kaWa1_Nic{karwari;lqt;u;eka;parasmEpaxI;kaWa;curAxiH}	kaWa1{karwari;lqt;u;eka;parasmEpaxI;kaWa;curAxiH}	aBihiwa_karwA,8.1;sakarmakaH	kahUzgA	shall_speak				
-4	xivyAH	4	xivyA	xivya{puM}{1;bahu}/xivya{puM}{8;bahu}/xivyA{swrI}{1;bahu}/xivyA{swrI}{2;bahu}/xivyA{swrI}{8;bahu}	xivya{puM}{1;bahu}	viSeRaNam,6	xivya	divine				
-5	hi	11	hyAwmaviBUwayaH	hi{avya}	hi{avya}	sambanXaH,10	kyoMki	certainly				
-6	Awma-vi-BUwayaH	5	0	Awman-vi-BUwi{swrI}{1;bahu}/BUwi{swrI}{8;bahu}	Awman-viBUwi{puM}{1;bahu}	karwA,6.1	viBUwiyAz	personal_opulences	<Awma-<vi-BUwayaH>Bvp>T6			
-6.1	(sanwi)	6	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwa_karwA,6;akarmakaH	(hEM)	are				
-6.2	(mama)	3	(0)	(asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH})	(asmax{6;eka})	RaRTIsambanXaH,6	(merI)	my				
-7	prAXAnyawaH	9	prAXAnyawaH	prAXAnya{wasil}	prAXAnya{avya}	kriyAviSeRaNam,3	praXAnawA_se	principally				
-8	kuru-SreRTa	1	kuruSreRTa	kuru-SreRTa{puM}{8;eka}/SreRTa{napuM}{8;eka}	kuru-SreRTa{puM}{8;eka}	samboXyaH,3	he_kuruSreRTa	O_best_of_the_Kurus	<kuru-SreRTa>T7			
-8.1	(aham)	7	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,3	(mEM)	I				
-9	na	15	nAswyanwo	na{avya}	na{avya}	prawiReXaH,10	nahIM	not				
-10	aswi	16	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,11;akarmakaH	hE	is				
-11	anwaH	14	0	anwaH{avya}/anwa{puM}{1;eka}	anwa{puM}{1;eka}	karwA,10	anwa	limit				
-12	viswarasya	13	viswarasya	viswara{puM}{6;eka}/viswara{napuM}{6;eka}	viswara{puM}{6;eka}	RaRTIsambanXaH,11	viswAra_kA	to_the_extent				
-13	me	12	me	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,12	mere	my				
+1	हन्त	2	हन्त	हन्त{अव्य}	हन्त{अव्य}	सम्बन्धः,3	अब	येस्				
+2	ते	8	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{4;एक}	सम्प्रदानम्,3	तेरे_लिये	उन्टो_योउ				
+3	कथयिष्यामि	10	कथयिष्यामि	कथ1{कर्तरि;लृट्;उ;एक;आत्मनेपदी;कथ;चुरादिः}/कथ1_णिच्{कर्तरि;लृट्;उ;एक;परस्मैपदी;कथ;चुरादिः}	कथ1{कर्तरि;लृट्;उ;एक;परस्मैपदी;कथ;चुरादिः}	अभिहित_कर्ता,8.1;सकर्मकः	कहूँगा	स्हल्ल्_स्पेअक्				
+4	दिव्याः	4	दिव्या	दिव्य{पुं}{1;बहु}/दिव्य{पुं}{8;बहु}/दिव्या{स्त्री}{1;बहु}/दिव्या{स्त्री}{2;बहु}/दिव्या{स्त्री}{8;बहु}	दिव्य{पुं}{1;बहु}	विशेषणम्,6	दिव्य	डिविने				
+5	हि	11	ह्यात्मविभूतयः	हि{अव्य}	हि{अव्य}	सम्बन्धः,10	क्योंकि	चेर्टइन्ल्य्				
+6	आत्म-वि-भूतयः	5	0	आत्मन्-वि-भूति{स्त्री}{1;बहु}/भूति{स्त्री}{8;बहु}	आत्मन्-विभूति{पुं}{1;बहु}	कर्ता,6.1	विभूतियाँ	पेर्सोनल्_ओपुलेन्चेस्	<आत्म-<वि-भूतयः>भ्व्प्>ठ्6			
+6.1	(सन्ति)	6	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/सत्{नपुं}{8;बहु}/सन्ती{स्त्री}{8;एक}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहित_कर्ता,6;अकर्मकः	(हैं)	अरे				
+6.2	(मम)	3	(0)	(अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः})	(अस्मद्{6;एक})	षष्ठीसम्बन्धः,6	(मेरी)	म्य्				
+7	प्राधान्यतः	9	प्राधान्यतः	प्राधान्य{तसिल्}	प्राधान्य{अव्य}	क्रियाविशेषणम्,3	प्रधानता_से	प्रिन्चिपल्ल्य्				
+8	कुरु-श्रेष्ठ	1	कुरुश्रेष्ठ	कुरु-श्रेष्ठ{पुं}{8;एक}/श्रेष्ठ{नपुं}{8;एक}	कुरु-श्रेष्ठ{पुं}{8;एक}	सम्बोध्यः,3	हे_कुरुश्रेष्ठ	औ_बेस्ट्_ओङ्_ट्हे_खुरुस्	<कुरु-श्रेष्ठ>ठ्7			
+8.1	(अहम्)	7	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,3	(मैं)	ई				
+9	न	15	नास्त्यन्तो	न{अव्य}	न{अव्य}	प्रतिषेधः,10	नहीं	नोट्				
+10	अस्ति	16	0	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहित_कर्ता,11;अकर्मकः	है	इस्				
+11	अन्तः	14	0	अन्तः{अव्य}/अन्त{पुं}{1;एक}	अन्त{पुं}{1;एक}	कर्ता,10	अन्त	लिमिट्				
+12	विस्तरस्य	13	विस्तरस्य	विस्तर{पुं}{6;एक}/विस्तर{नपुं}{6;एक}	विस्तर{पुं}{6;एक}	षष्ठीसम्बन्धः,11	विस्तार_का	टो_ट्हे_एद्टेन्ट्				
+13	मे	12	मे	अस्मद्{6;एक}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,12	मेरे	म्य्				

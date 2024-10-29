@@ -1,0 +1,23 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	ye	2	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,6;niwya_sambanXaH,17	jo_(puruRa)	those				
+2	wu	1	wvakRaramanirxeSyamavyakwaM	wu{avya}	wu{avya}	sambanXaH,6	paraMwu	but				
+3	a-kRaram	13	0	akRara{napuM}{1;eka}/akRara{napuM}{2;eka}/kRar1{karwari;laf;u;eka;parasmEpaxI;kRaraz;BvAxiH}	akRara{napuM}{2;eka}	karma,6	avinASI_saccixAnanxaGana_brahma_ko	which_is_beyond_the_perception_of_the_senses	<na-kRaram>Tn			
+4	a-nirxeSyam	7	0	anirxeSya{puM}{2;eka}/anirxeSya{napuM}{1;eka}/anirxeSya{napuM}{2;eka}	anirxeSya{napuM}{2;eka}	viSeRaNam,3	akaWanIya_svarUpa	indefinite	<na-nirxeSyam>Tn			
+5	a-vyakwam	12	0	avyakwa{puM}{2;eka}	avyakwa{puM}{2;eka}	viSeRaNam,3	nirAkAra	unmanifested	<na-vyakwaM>Bsmn			
+6	paryupAsawe	14	paryupAsawe	paryupAsawe	pari_upa_As1{karwari;lat;pra;bahu;AwmanepaxI;pari_upa_Asaz;axAxiH}	aBihiwakarwA,1;sakarmakaH	niranwara_ekIBAva_se_XyAna_karawe_hue_Bajawe_hEM	completely_engages				
+7	sarvawra-gam	6	sarvawragamacinwyaM	sarvawraga{puM}{2;eka}/sarvawraga{napuM}{1;eka}/sarvawraga{napuM}{2;eka}	sarvawra-ga{napuM}{2;eka}	viSeRaNam,3	sarvavyApI	all-pervading	<sarvawra-gam>U			
+8	a-cinwyam	5	0	acinwya{puM}{2;eka}/acinwya{napuM}{1;eka}/acinwya{napuM}{2;eka}	acinwya{napuM}{2;eka}	viSeRaNam,3	mana-buxXi_se_pare	inconceivable	<na-cinwyam>Tn			
+9	ca	8	ca	ca{avya}	ca{avya}	sambanXaH,6	Ora	also				
+10	kUta-sWam	9	kUtasWamacalaM	kUtasWa{puM}{2;eka}/kUtasWa{napuM}{1;eka}/kUtasWa{napuM}{2;eka}	kUtasWa{napuM}{2;eka}	viSeRaNam,3	saxA_ekarasa_rahanevAle	in_the_center	<kUta-sWam>U			
+11	a-calam	11	0	acala{puM}{2;eka}/cal1{karwari;laf;u;eka;parasmEpaxI;calaz;BvAxiH}/cal2{karwari;laf;u;eka;parasmEpaxI;calaz;wuxAxiH}	acala{napuM}{2;eka}	viSeRaNam,3	acala	immovable	<na-calam>Tn			
+12	Xruvam	10	Xruvam	Xruva{puM}{2;eka}/Xruva{napuM}{1;eka}/Xruva{napuM}{2;eka}	Xruva{napuM}{2;eka}	viSeRaNam,3	niwya	fixed				
+13	saMniyamya	4	sanniyamyenxriyagrAmaM	sam_ni_yam1{lyap;yamoz;BvAxiH}	sam_ni_yam1{kqw_prawyayaH:lyap;sam_ni_yamoz;BvAxiH}	pUrvakAlaH,6	BalI_prakAra_se_vaSa_meM_karake	controlling				
+14	inxriya-grAmam	3	0	inxriyagrAma{puM}{2;eka}	inxriya-grAma{puM}{2;eka}	karma,13	inxriyoM_ke_samuxAya_ko	all_the_senses	<inxriya-grAmaM>T6			
+15	sarvawra	18	sarvawra	sarvawra{avya}	sarvawra{avya}	aXikaraNam,18	sabameM	everywhere				
+16	sama-buxXayaH	19	samabuxXayaH	samabuxXi{puM}{1;bahu}	sama-buxXi{swrI}{1;bahu}	viSeRaNam,17	samAnaBAvavAle_yogI	equally_disposed	<sama-buxXayaH>Bs6			
+17	we	15	we	wax{puM}{1;bahu}	wax{puM}{1;bahu}	karwA,18	ve	they				
+18	prApnuvanwi	22	prApnuvanwi	pra_Ap1{karwari;lat;pra;bahu;parasmEpaxI;ApLz;svAxiH}	pra_Ap1{karwari;lat;pra;bahu;parasmEpaxI;pra_ApLz;svAxiH}	aBihiwakarwA,17;sakarmakaH	prApwa_howe_hEM	achieve				
+19	mAm	20	mAmeva	asmax{2;eka}	asmax{2;eka}	karma,18	muJako	unto_Me				
+20	eva	21	0	eva{avya}	eva{avya}	sambanXaH,18	hI	certainly				
+21	sarva-BUwa-hiwe	16	sarvaBUwahiwe	sarvaBUwahiwa{puM}{7;eka}/sarvaBUwahiwa{napuM}{1;xvi}/sarvaBUwahiwa{napuM}{2;xvi}/sarvaBUwahiwa{napuM}{7;eka}/sarvaBUwahiwA{swrI}{1;xvi}/sarvaBUwahiwA{swrI}{2;xvi}	sarva-BUwa-hiwa{puM}{7;eka}	aXikaraNam,22	sampUrNa_BUwoM_ke_hiwa_meM	all_living_entities'_welfare	<<sarva-BUwa>K1-hiwe>T6			
+22	rawAH	17	rawAH	rawa{puM}{1;bahu}/rawA{swrI}{1;bahu}/rawA{swrI}{2;bahu}/rawA{swrI}{1;bahu}/rawA{swrI}{2;bahu}	rawa{puM}{1;bahu}	viSeRaNam,17	rawa	engaged				

@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yajFe	2	yajFe	yajFa{puM}{7;eka}	yajFa{puM}{7;eka}	sup_samucciwaH,3	yajFa	in_sacrifice				
-2	wapasi	3	wapasi	wapas{napuM}{7;eka}/wap1{karwari;lat;ma;eka;parasmEpaxI;wapaz;BvAxiH}/wap3{karwari;lat;ma;eka;parasmEpaxI;wapaz;curAxiH}	wapas{napuM}{7;eka}	sup_samucciwaH,3	wapa	in_penance				
-3	xAne	5	xAne	xAna{napuM}{1;xvi}/xAna{napuM}{2;xvi}/xAna{napuM}{7;eka}	xAna{napuM}{7;eka}	aXikaraNam,5.2	xAna_meM	in_charity				
-4	ca	1	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	waWA	also				
-5	sWiwiH	7	sWiwiH	sWiwi{swrI}{1;eka}	sWiwi{swrI}{1;eka}	karwA,5.2	sWiwi	situated				
-5.1	(yA)	6	(0)	(yax{swrI}{1;eka})	(yax{swrI}{1;eka})	viSeRaNam,5	(jo)	that				
-5.2	(aswi)	8	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,5;akarmakaH	(hE)	is				
-6	saw	11	saxiwi	saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	saw{napuM}{1;eka}	karmasamAnAXikaraNam,9	'saw'	the_Supreme				
-7	iwi	12	0	iwi{avya}	iwi{avya}	sambanXaH,6	isa_prakAra	thus				
-8	ca	4	cocyawe	ca{avya}	ca{avya}	sambanXaH,9	Ora	also				
-9	ucyawe	13	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,9.1;sakarmakaH	kahI_jAwI_hE	pronounced				
-9.1	(sA)	9	(0)	(wax{swrI}{1;eka})	(wax{swrI}{1;eka})	karma,9	(vaha)	that				
-10	karma	16	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karma,17	karma	work				
-11	ca	14	cEva	ca{avya}	ca{avya}	sambanXaH,17	Ora	and				
-12	eva	17	0	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
-13	waw-arWIyam	15	waxarWIyaM	wax-arWIyam	wax-arWIya{napuM}{1;eka}	viSeRaNam,10	usa_paramAwmA_ke_liye_kiyA_huA	meant_for_that	<waw-arWIyaM>T4			
-14	saw	18	saxiwyevABiXIyawe	saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	saw{napuM}{1;eka}	karmasamAnAXikaraNam,17	saw	Supreme				
-15	iwi	19	0	iwi{avya}	iwi{avya}	sambanXaH,14	Ese	thus				
-16	eva	10	0	eva{avya}	eva{avya}	sambanXaH,17	BI	certainly				
-17	aBiXIyawe	20	0	aBiXIyawe	aBi_XA1{karmaNi;lat;pra;eka;AwmanepaxI;aBi_duXAF;juhowyAxiH}	aBihiwakarma,10;sakarmakaH	kahA_jAwA_hE	is_practiced				
+1	यज्ञे	2	यज्ञे	यज्ञ{पुं}{7;एक}	यज्ञ{पुं}{7;एक}	सुप्_समुच्चितः,3	यज्ञ	इन्_सच्रिङिचे				
+2	तपसि	3	तपसि	तपस्{नपुं}{7;एक}/तप्1{कर्तरि;लट्;म;एक;परस्मैपदी;तपँ;भ्वादिः}/तप्3{कर्तरि;लट्;म;एक;परस्मैपदी;तपँ;चुरादिः}	तपस्{नपुं}{7;एक}	सुप्_समुच्चितः,3	तप	इन्_पेनन्चे				
+3	दाने	5	दाने	दान{नपुं}{1;द्वि}/दान{नपुं}{2;द्वि}/दान{नपुं}{7;एक}	दान{नपुं}{7;एक}	अधिकरणम्,5.2	दान_में	इन्_च्हरिट्य्				
+4	च	1	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,3	तथा	अल्सो				
+5	स्थितिः	7	स्थितिः	स्थिति{स्त्री}{1;एक}	स्थिति{स्त्री}{1;एक}	कर्ता,5.2	स्थिति	सिटुअटेड्				
+5.1	(या)	6	(0)	(यद्{स्त्री}{1;एक})	(यद्{स्त्री}{1;एक})	विशेषणम्,5	(जो)	ट्हट्				
+5.2	(अस्ति)	8	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,5;अकर्मकः	(है)	इस्				
+6	सत्	11	सदिति	सत्{पुं}{1;एक}/सत्{पुं}{8;एक}/सत्{स्त्री}{1;एक}/सत्{स्त्री}{8;एक}/सत्{नपुं}{1;एक}/सत्{नपुं}{2;एक}/सत्{नपुं}{8;एक}	सत्{नपुं}{1;एक}	कर्मसमानाधिकरणम्,9	'सत्'	ट्हे_शुप्रेमे				
+7	इति	12	0	इति{अव्य}	इति{अव्य}	सम्बन्धः,6	इस_प्रकार	ट्हुस्				
+8	च	4	चोच्यते	च{अव्य}	च{अव्य}	सम्बन्धः,9	और	अल्सो				
+9	उच्यते	13	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहितकर्म,9.1;सकर्मकः	कही_जाती_है	प्रोनोउन्चेड्				
+9.1	(सा)	9	(0)	(तद्{स्त्री}{1;एक})	(तद्{स्त्री}{1;एक})	कर्म,9	(वह)	ट्हट्				
+10	कर्म	16	कर्म	कर्मन्{नपुं}{1;एक}/कर्मन्{नपुं}{2;एक}	कर्मन्{नपुं}{1;एक}	कर्म,17	कर्म	तोर्क्				
+11	च	14	चैव	च{अव्य}	च{अव्य}	सम्बन्धः,17	और	अन्ड्				
+12	एव	17	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,10	ही	चेर्टइन्ल्य्				
+13	तत्-अर्थीयम्	15	तदर्थीयं	तद्-अर्थीयम्	तद्-अर्थीय{नपुं}{1;एक}	विशेषणम्,10	उस_परमात्मा_के_लिये_किया_हुआ	मेअन्ट्_ङोर्_ट्हट्	<तत्-अर्थीयं>ठ्4			
+14	सत्	18	सदित्येवाभिधीयते	सत्{पुं}{1;एक}/सत्{पुं}{8;एक}/सत्{स्त्री}{1;एक}/सत्{स्त्री}{8;एक}/सत्{नपुं}{1;एक}/सत्{नपुं}{2;एक}/सत्{नपुं}{8;एक}	सत्{नपुं}{1;एक}	कर्मसमानाधिकरणम्,17	सत्	शुप्रेमे				
+15	इति	19	0	इति{अव्य}	इति{अव्य}	सम्बन्धः,14	ऐसे	ट्हुस्				
+16	एव	10	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,17	भी	चेर्टइन्ल्य्				
+17	अभिधीयते	20	0	अभिधीयते	अभि_धा1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;अभि_डुधाञ्;जुहोत्यादिः}	अभिहितकर्म,10;सकर्मकः	कहा_जाता_है	इस्_प्रच्टिचेड्				

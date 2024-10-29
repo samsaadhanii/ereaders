@@ -1,0 +1,13 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	SreyAn	6	SreyAnxravyamayAxyajFAFjFAnayajFaH	Sreya{puM}{2;bahu}/Sreyas{puM}{1;eka}	Sreyas{puM}{1;eka}	viXeya_viSeRaNam,5.1	awyanwa_SreRTa	greater				
+2	xravyamayAw	3		xravyamaya{puM}{5;eka}/xravyamaya{napuM}{5;eka}	xravyamaya{puM}{5;eka}	viSeRaNam,4	xravyamaya	than_the_sacrifice_of_material_possessions				
+3	yajFAw	4		yajFa{puM}{5;eka}	yajFa{puM}{5;eka}	viBakwam,1	yajFa_kI_apekRA	knowledge				
+4	jFAna-yajFaH	5		jFAnayajFa{puM}{1;eka}	jFAna-yajFa{puM}{1;eka}	karwA,5.1	jFAnayajFa	sacrifice_in_knowledge	<jFAna-yajFaH>K6			
+5	paranwapa	1	paranwapa	paranwapa{puM}{8;eka}/paranwapa{napuM}{8;eka}	paranwapa{puM}{8;eka}	samboXyaH,5.1	he_paraMwapa	O_chastiser_of_the_enemy				
+5.1	(aswi)	7	()	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hE)	is				
+6	sarvam	9	sarvaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{1;eka}	viSeRaNam,7	sampUrNa	all				
+7	karma	10	karmAKilaM	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karwA,11	karma	activities				
+8	a-Kilam	8		aKila{napuM}{1;eka}/aKila{napuM}{2;eka}	aKila{napuM}{1;eka}	viSeRaNam,7	yAvanmAwra	in_totality	<na-Kilam>Tn			
+9	pArWa	2	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,11	pArWa	O_son_of_Prtha				
+10	jFAne	11	jFAne	jFAna{napuM}{1;xvi}/jFAna{napuM}{2;xvi}/jFAna{napuM}{7;eka}/jFAna{napuM}{8;xvi}	jFAna{napuM}{7;eka}	aXikaraNam,11	jFAna_meM	in_knowledge				
+11	parisamApyawe	12	parisamApyawe	parisamApyawe	pari_sam_Ap1{karwari;lat;pra;eka;AwmanepaxI;pari_sam_ApLz;svAxiH}	aBihiwakarwA,7;akarmakaH	samApwa_ho_jAwe_hEM	ends_in				

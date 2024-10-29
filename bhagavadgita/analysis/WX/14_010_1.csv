@@ -1,0 +1,21 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	rajaH	2	rajaswamaScABiBUya	rajas{puM}{8;eka}/rajas{napuM}{1;eka}/rajas{napuM}{2;eka}/rajas{napuM}{8;eka}	rajas{napuM}{2;eka}	sup_samucciwaH,2	rajoguNa	mode_of_passion				
+2	wamaH	4	0	wama{puM}{1;eka}/wamas{napuM}{1;eka}/wamas{napuM}{2;eka}/wamas{napuM}{8;eka}	wamas{napuM}{2;eka}	karma,4	wamoguNa_ko	mode_of_ignorance				
+3	ca	3	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,2	Ora	also				
+4	aBiBUya	5	0	aBi_BU1{kqw_prawyayaH:lyap;BU;BvAxiH}/aBi_BU2{kqw_prawyayaH:lyap;BU;curAxiH}	aBi_BU1{kqw_prawyayaH:lyap;aBi_BU;BvAxiH}	pUrvakAlaH,6	xabAkara	also_surpassing				
+5	sawwvam	6	sawwvaM	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{1;eka}	karwA,6	sawwvaguNa	mode_of_goodness				
+6	Bavawi	21	Bavawi	Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,5;akarmakaH	howA_hE	becomes				
+7	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,6	he_arjuna	O_son_of_Bharata				
+8	rajaH	18	rajaswaWA	rajas{puM}{8;eka}/rajas{napuM}{1;eka}/rajas{napuM}{2;eka}/rajas{napuM}{8;eka}	rajas{napuM}{2;eka}	karwA,12.1	rajoguNa_ko	mode_of_passion				
+9	sawwvam	16	sawwvaM	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{2;eka}	sup_samucciwaH,10	sawwvaguNa	mode_of_goodness				
+10	wamaH	20	wamaH	wama{puM}{1;eka}/wamas{napuM}{1;eka}/wamas{napuM}{2;eka}/wamas{napuM}{8;eka}	wamas{napuM}{1;eka}	karma,11.1	wamoguNa	mode_of_ignorance				
+11	ca	9	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora	also				
+11.1	(aBiBUya)	11	(0)	(aBi_BU1{kqw_prawyayaH:lyap;BU;BvAxiH}/aBi_BU2{kqw_prawyayaH:lyap;BU;curAxiH})	(aBi_BU1{kqw_prawyayaH:lyap;aBi_BU;BvAxiH})	pUrvakAlaH,12.1	(xabAkara)	also_surpassing				
+12	eva	15	0	eva{avya}	eva{avya}	sambanXaH,16	hI	like_that				
+12.1	(Bavawi)	7	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,8;akarmakaH	(howA_hE)	becomes				
+13	wamaH	10	wamaScEva	wama{puM}{1;eka}/wamas{napuM}{1;eka}/wamas{napuM}{2;eka}/wamas{napuM}{8;eka}	wamas{napuM}{2;eka}	karwA,16.2	wamoguNa_ko	mode_of_ignorance				
+14	sawwvam	8	sawwvaM	sawwva{puM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}/sawwva{napuM}{1;eka}/sawwva{napuM}{2;eka}	sawwva{napuM}{2;eka}	sup_samucciwaH,15	sawwvaguNa	mode_of_goodness				
+15	rajaH	12	rajaH	rajas{puM}{8;eka}/rajas{napuM}{1;eka}/rajas{napuM}{2;eka}/rajas{napuM}{8;eka}	rajas{napuM}{1;eka}	karma,16.1	rajoguNa	mode_of_passion				
+16	waWA	14	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,15	vEse	as_in_this				
+16.1	(aBiBUya)	19	(0)	(aBi_BU1{kqw_prawyayaH:lyap;BU;BvAxiH}/aBi_BU2{kqw_prawyayaH:lyap;BU;curAxiH})	(aBi_BU1{kqw_prawyayaH:lyap;aBi_BU;BvAxiH})	pUrvakAlaH,16.2	(xabAkara)	also_surpassing				
+16.2	(Bavawi)	13	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,13;akarmakaH	(howA_hE)	becomes				

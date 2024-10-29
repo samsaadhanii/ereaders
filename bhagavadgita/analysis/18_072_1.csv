@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kacciw	2	kaccixewacCruwaM	kacciw{avya}	kacciw{avya}	sambanXaH,3	kyA	whether				
-2	ewaw	3	0	ewax{napuM}{1;eka}/ewax{napuM}{2;eka}	ewax{napuM}{2;eka}	karma,3	isa_gIwASAswra_ko	this				
-3	Sruwam	7	0	Sruwa{puM}{2;eka}/Sruwa{napuM}{1;eka}/Sruwa{napuM}{2;eka}	Sru1{kqw_prawyayaH:kwa;Sru;BvAxiH;napuM}{1;eka}	aBihiwakarma,2;sakarmakaH	SravaNa_kiyA	heard				
-4	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,3	he_pArWa	O_son_of_Prtha				
-5	wvayA	4	wvayEkAgreNa	yuRmax{3;eka}	yuRmax{3;eka}	karwA,3	wUne	by_you				
-6	ekAgreNa	5	0	ekAgra{puM}{3;eka}/ekAgra{napuM}{3;eka}	ekAgra{puM}{3;eka}	viSeRaNam,7	ekAgra	with_full_attention				
-7	cewasA	6	cewasA	cewas{napuM}{3;eka}	cewas{napuM}{3;eka}	kriyAviSeRaNam,3	ciwwa_se	by_the_mind				
-8	kacciw	9	kaccixajFAnasammohaH	kacciw{avya}	kacciw{avya}	sambanXaH,10	kyA	whether				
-9	a-jFAna-sammohaH	11	0	ajFAna-sammoha{puM}{1;eka}	ajFAna-sammoha{puM}{1;eka}	karwA,10	ajFAnajaniwa_moha	ignorant_illusion	<<na-jFAna>Tn-sammohaH>T5			
-10	praNaRtaH	12	pranaRtaswe	pranaRta{puM}{1;eka}	pra_naS1{kqw_prawyayaH:kwa;pra_NaSaz;xivAxiH;puM}{1;eka}	aBihiwakarwA,9;akarmakaH	naRta_ho_gayA	dispelled				
-11	we	10	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,9	werA	of_you				
-12	XanaFjaya	8	XanaFjaya	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,10	he_XanaMjaya	O_conqueror_of_wealth_(Arjuna)				
+1	कच्चित्	2	कच्चिदेतच्छ्रुतं	कच्चित्{अव्य}	कच्चित्{अव्य}	सम्बन्धः,3	क्या	त्हेट्हेर्				
+2	एतत्	3	0	एतद्{नपुं}{1;एक}/एतद्{नपुं}{2;एक}	एतद्{नपुं}{2;एक}	कर्म,3	इस_गीताशास्त्र_को	ट्हिस्				
+3	श्रुतम्	7	0	श्रुत{पुं}{2;एक}/श्रुत{नपुं}{1;एक}/श्रुत{नपुं}{2;एक}	श्रु1{कृत्_प्रत्ययः:क्त;श्रु;भ्वादिः;नपुं}{1;एक}	अभिहितकर्म,2;सकर्मकः	श्रवण_किया	हेअर्ड्				
+4	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,3	हे_पार्थ	औ_सोन्_ओङ्_फ्र्ट्ह				
+5	त्वया	4	त्वयैकाग्रेण	युष्मद्{3;एक}	युष्मद्{3;एक}	कर्ता,3	तूने	ब्य्_योउ				
+6	एकाग्रेण	5	0	एकाग्र{पुं}{3;एक}/एकाग्र{नपुं}{3;एक}	एकाग्र{पुं}{3;एक}	विशेषणम्,7	एकाग्र	तिट्ह्_ङुल्ल्_अट्टेन्टिओन्				
+7	चेतसा	6	चेतसा	चेतस्{नपुं}{3;एक}	चेतस्{नपुं}{3;एक}	क्रियाविशेषणम्,3	चित्त_से	ब्य्_ट्हे_मिन्ड्				
+8	कच्चित्	9	कच्चिदज्ञानसम्मोहः	कच्चित्{अव्य}	कच्चित्{अव्य}	सम्बन्धः,10	क्या	त्हेट्हेर्				
+9	अ-ज्ञान-सम्मोहः	11	0	अज्ञान-सम्मोह{पुं}{1;एक}	अज्ञान-सम्मोह{पुं}{1;एक}	कर्ता,10	अज्ञानजनित_मोह	इग्नोरन्ट्_इल्लुसिओन्	<<न-ज्ञान>ठ्न्-सम्मोहः>ठ्5			
+10	प्रणष्टः	12	प्रनष्टस्ते	प्रनष्ट{पुं}{1;एक}	प्र_नश्1{कृत्_प्रत्ययः:क्त;प्र_णशँ;दिवादिः;पुं}{1;एक}	अभिहितकर्ता,9;अकर्मकः	नष्ट_हो_गया	डिस्पेल्लेड्				
+11	ते	10	0	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,9	तेरा	ओङ्_योउ				
+12	धनञ्जय	8	धनञ्जय	धनञ्जय{पुं}{8;एक}	धनञ्जय{पुं}{8;एक}	सम्बोध्यः,10	हे_धनंजय	औ_चोनृउएरोर्_ओङ्_तेअल्ट्ह्_(आर्जुन)				

@@ -1,0 +1,11 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	BokwAram	4	BokwAraM	Bokwq{puM}{2;eka}	Bokwq{puM}{2;eka}	sup_samucciwaH,4	BoganevAlA	beneficiary				
+2	yajFa-wapasAm	2	yajFawapasAM	yajFa-wapas{puM}{6;bahu}/wapas{napuM}{6;bahu}	yajFa-wapas{napuM}{6;bahu}	RaRTIsambanXaH,1	saba_yajFa_Ora_wapoM_kA	of_sacrifices,_penances_and_austerities	<yajFa-wapasAM>Di			
+3	sarva-loka-mahaw-ISvaram	3	sarvalokamaheSvaram	sarva-loka-maheSvara{puM}{2;eka}	sarva-loka-mahaw-ISvara{puM}{2;eka}	viSeRaNam,1	sampUrNa_lokoM_ke_ISvaroM_kA_BI_ISvara	the_Supreme_Lord_of_all_planets_and_the_demigods_thereof	<<sarva-loka>K1-<mahaw-ISvaram>K1>T6			
+4	suhqxam	6	suhqxaM	suhqx{puM}{2;eka}/suhqx{swrI}{2;eka}/suhqxa{puM}{2;eka}	suhqx{puM}{2;eka}	karmasamAnAXikaraNam,6	suhqx_arWAw_svArWarahiwa_xayAlu_Ora_premI	benefactor				
+5	sarva-BUwAnAm	5	sarvaBUwAnAM	sarva-BUwa{puM}{6;bahu}/BUwa{napuM}{6;bahu}/BUwA{swrI}{6;bahu}	sarva-BUwa{puM}{6;bahu}	RaRTIsambanXaH,4	sampUrNa_BUwaprANiyoM_kA	of_all_the_living_entities	<sarva-BUwAnAm>K1			
+6.1	(ca)	7	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,4	(waWA)	also				
+6	jFAwvA	8	jFAwvA	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,9	wawwva_se_jAnakara	thus_knowing				
+7	mAm	1	mAM	asmax{2;eka}	asmax{2;eka}	karma,6	muJako	Me_(Lord_Krsna)				
+8	SAnwim	9	SAnwimqcCawi	SAnwi{swrI}{2;eka}	SAnwi{swrI}{2;eka}	karma,9	SAnwi_ko	relief_from_material_pangs				
+9	qcCawi	10	0	qcCaw{puM}{7;eka}/qcCaw{napuM}{7;eka}/q1{karwari;lat;pra;eka;parasmEpaxI;q;BvAxiH}/qC1{karwari;lat;pra;eka;parasmEpaxI;qCaz;wuxAxiH}	q1{kqw_prawyayaH:Sawq;q;BvAxiH;puM}{7;eka}		prApwa_howA_hE	achieves				

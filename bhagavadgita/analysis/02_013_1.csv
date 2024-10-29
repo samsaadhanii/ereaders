@@ -1,17 +1,17 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xehinaH	2	xehinoZsminyaWA	xehin{puM}{1;bahu}/xehin{puM}{2;bahu}/xehin{puM}{5;eka}/xehin{puM}{6;eka}/xehin{puM}{8;bahu}/xehin{napuM}{5;eka}/xehin{napuM}{6;eka}	xehin{puM}{6;eka}	RaRTIsambanXaH,4	jIvAwmA_kI	to_the_soul				
-2	asmin	3	0	ixam{puM}{7;eka}/ixam{napuM}{7;eka}	ixam{napuM}{7;eka}	viSeRaNam,4	isa	in_this				
-3	yaWA	1	0	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,7.2;niwya_sambanXaH,8	jEse	just_as				
-4	xehe	4	xehe	xeha{puM}{7;eka}/xeha{napuM}{1;xvi}/xeha{napuM}{2;xvi}/xeha{napuM}{7;eka}/xeha{napuM}{8;xvi}/xah1{karmaNi;lit;u;eka;AwmanepaxI;xahaz;BvAxiH}/xah1{karmaNi;lit;pra;eka;AwmanepaxI;xahaz;BvAxiH}	xeha{puM}{7;eka}	aXikaraNam,7.2	xeha_meM	in_this_body				
-5	kOmAram	5	kOmAraM	kOmAra{puM}{2;eka}	kOmAra{napuM}{2;eka}	sup_samucciwaH,7	bacapana	childhood				
-6	yOvanam	6	yOvanaM	yOvana{napuM}{1;eka}/yOvana{napuM}{2;eka}	yOvana{napuM}{2;eka}	sup_samucciwaH,7	yuvAvasWA	youth				
-7	jarA	8	jarA	jarA{swrI}{1;eka}	jarA{swrI}{1;eka}	karwA,7.2	vqxXAvasWA	old_age				
-7.1	(ca)	7	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,7	(Ora)	and				
-7.2	(Bavawi)	12	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,7	(howI_hE)	becomes				
-8	waWA	10	waWA	waWA{avya}	waWA{avya}	kriyAviSeRaNam,9.1	vEse_hI	even_so				
-9	xeha-anwara-prApwiH	11	xehAnwaraprApwirXIraswawra	xehAnwara-prApwi{swrI}{1;eka}	xehAnwara-prApwi{swrI}{1;eka}	karwA,9.1	anya_SarIra_kI_prApwi	attains_another_body	<<xeha-anwara>T6-prApwiH>T6			
-9.1	(Bavawi)	9	(0)	(Bavaw{puM}{7;eka}/BavawI{swrI}{8;eka}/BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,9;akarmakaH	(howI_hE)	is				
-10	XIraH	14	0	XIra{puM}{1;eka}	XIra{puM}{1;eka}	karwA,13	XIra_puruRa	the_wise_man				
-11	wawra	13	0	wawra{avya}	wawra{avya}	aXikaraNam,13	usameM_(viRaya_meM)	thereupon				
-12	na	15	na	na{avya}	na{avya}	prawiReXaH,13	nahIM	does_not				
-13	muhyawi	16	muhyawi	muhyaw{puM}{7;eka}/muhyaw{napuM}{7;eka}/muh1{karwari;lat;pra;eka;parasmEpaxI;muh;xivAxiH}	muh1{karwari;lat;pra;eka;parasmEpaxI;muhaz;xivAxiH}	aBihiwakarwA,10;akarmakaH	mohiwa_howA_hE	get_deluded				
+1	देहिनः	2	देहिनोऽस्मिन्यथा	देहिन्{पुं}{1;बहु}/देहिन्{पुं}{2;बहु}/देहिन्{पुं}{5;एक}/देहिन्{पुं}{6;एक}/देहिन्{पुं}{8;बहु}/देहिन्{नपुं}{5;एक}/देहिन्{नपुं}{6;एक}	देहिन्{पुं}{6;एक}	षष्ठीसम्बन्धः,4	जीवात्मा_की	टो_ट्हे_सोउल्				
+2	अस्मिन्	3	0	इदम्{पुं}{7;एक}/इदम्{नपुं}{7;एक}	इदम्{नपुं}{7;एक}	विशेषणम्,4	इस	इन्_ट्हिस्				
+3	यथा	1	0	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,7.2;नित्य_सम्बन्धः,8	जैसे	जुस्ट्_अस्				
+4	देहे	4	देहे	देह{पुं}{7;एक}/देह{नपुं}{1;द्वि}/देह{नपुं}{2;द्वि}/देह{नपुं}{7;एक}/देह{नपुं}{8;द्वि}/दह्1{कर्मणि;लिट्;उ;एक;आत्मनेपदी;दहँ;भ्वादिः}/दह्1{कर्मणि;लिट्;प्र;एक;आत्मनेपदी;दहँ;भ्वादिः}	देह{पुं}{7;एक}	अधिकरणम्,7.2	देह_में	इन्_ट्हिस्_बोड्य्				
+5	कौमारम्	5	कौमारं	कौमार{पुं}{2;एक}	कौमार{नपुं}{2;एक}	सुप्_समुच्चितः,7	बचपन	च्हिल्ड्होओड्				
+6	यौवनम्	6	यौवनं	यौवन{नपुं}{1;एक}/यौवन{नपुं}{2;एक}	यौवन{नपुं}{2;एक}	सुप्_समुच्चितः,7	युवावस्था	योउट्ह्				
+7	जरा	8	जरा	जरा{स्त्री}{1;एक}	जरा{स्त्री}{1;एक}	कर्ता,7.2	वृद्धावस्था	ओल्ड्_अगे				
+7.1	(च)	7	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,7	(और)	अन्ड्				
+7.2	(भवति)	12	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,7	(होती_है)	बेचोमेस्				
+8	तथा	10	तथा	तथा{अव्य}	तथा{अव्य}	क्रियाविशेषणम्,9.1	वैसे_ही	एवेन्_सो				
+9	देह-अन्तर-प्राप्तिः	11	देहान्तरप्राप्तिर्धीरस्तत्र	देहान्तर-प्राप्ति{स्त्री}{1;एक}	देहान्तर-प्राप्ति{स्त्री}{1;एक}	कर्ता,9.1	अन्य_शरीर_की_प्राप्ति	अट्टइन्स्_अनोट्हेर्_बोड्य्	<<देह-अन्तर>ठ्6-प्राप्तिः>ठ्6			
+9.1	(भवति)	9	(0)	(भवत्{पुं}{7;एक}/भवती{स्त्री}{8;एक}/भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	(भू1{कर्तरि;लट्;प्र;एक;परस्मैपदी;भू;भ्वादिः})	अभिहितकर्ता,9;अकर्मकः	(होती_है)	इस्				
+10	धीरः	14	0	धीर{पुं}{1;एक}	धीर{पुं}{1;एक}	कर्ता,13	धीर_पुरुष	ट्हे_तिसे_मन्				
+11	तत्र	13	0	तत्र{अव्य}	तत्र{अव्य}	अधिकरणम्,13	उसमें_(विषय_में)	ट्हेरेउपोन्				
+12	न	15	न	न{अव्य}	न{अव्य}	प्रतिषेधः,13	नहीं	डोएस्_नोट्				
+13	मुह्यति	16	मुह्यति	मुह्यत्{पुं}{7;एक}/मुह्यत्{नपुं}{7;एक}/मुह्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;मुह्;दिवादिः}	मुह्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;मुहँ;दिवादिः}	अभिहितकर्ता,10;अकर्मकः	मोहित_होता_है	गेट्_डेलुडेड्				

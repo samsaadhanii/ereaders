@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-vyakwaH	2	avyakwoZyamacinwyoZyamavikAryoZyamucyawe	avyakwa{puM}{1;eka}	a-vyakwa{puM}{1;eka}	karmasamAnAXikaraNam,2.1	avyakwa	unmanifest	<na-vyakwaH>Tn			
-2	ayam	1	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karma,2.1	yaha	this_soul				
-2.1	(ucyawe)	3	(0)	(ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH})	(vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH})	aBihiwakarma,2	(kahA_jAwA_hE)	spoken_of_as				
-3	a-cinwyaH	5	0	acinwya{puM}{1;eka}	a-cinwya{puM}{1;eka}	karmasamAnAXikaraNam,4.1	acinwya	incomprehensible	<na-cinwyaH>Tn			
-4	ayam	4	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karma,4.1	yaha_(AwmA)	this_soul				
-4.1	(ucyawe)	6	(0)	(ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH})	(vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH})	aBihiwakarma,4;sakarmakaH	(kahA_jAwA_hE)	spoken_of_as				
-5	a-vikAryaH	8	0	a-vikArI{swrI}{1;bahu}/vikArya{puM}{1;eka}	a-vikArya{puM}{1;eka}	karmasamAnAXikaraNam,7	vikArarahiwa	immutable	<na-vikAryaH>Tn			
-6	ayam	7	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karma,7	yaha	this_soul				
-7	ucyawe	9	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,6;sakarmakaH	kahA_jAwA_hE	spoken_of_as				
-8	wasmAw	10	wasmAxevaM	wasmAw{avya}/wax{puM}{5;eka}/wax{napuM}{5;eka}	wax{puM}{5;eka}	hewuH,10	isaliye	therefore				
-9	evam	12	0	evam{avya}	evam{avya}	kriyAviSeRaNam,10	EsA	as_such				
-10	vixiwvA	13	vixiwvEnaM	vix1{kqw_prawyayaH:kwvA;vixaz;axAxiH}	vix1{kqw_prawyayaH:kwvA;vixaz;axAxiH}	pUrvakAlaH,14	jAnakara	knowing_it				
-11	enam	11	0	ixam{puM}{2;eka}	ixam{puM}{2;eka}	karma,10	isako	this_soul				
-12	na	16	nAnuSociwumarhasi	na{avya}	na{avya}	prawiReXaH,14	nahIM	not				
-13	anuSociwum	15	0	anuSociwum	anu_Suc1{kqw_prawyayaH:wumun;anu_Sucaz;BvAxiH}	sahAyakakriyA,14	Soke_karane_ke	grieve				
-14	arhasi	17	0	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}/arh2{karwari;lat;ma;eka;parasmEpaxI;arhaz;curAxiH}	arh1{karwari;lat;ma;eka;parasmEpaxI;arhaz;BvAxiH}	aBihiwakarwA,14.1;akarmakaH	yogya_ho	should				
-14.1	(wvam)	14	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,14	(wuma)	you				
+1	अ-व्यक्तः	2	अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते	अव्यक्त{पुं}{1;एक}	अ-व्यक्त{पुं}{1;एक}	कर्मसमानाधिकरणम्,2.1	अव्यक्त	उन्मनिङेस्ट्	<न-व्यक्तः>ठ्न्			
+2	अयम्	1	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	कर्म,2.1	यह	ट्हिस्_सोउल्				
+2.1	(उच्यते)	3	(0)	(उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः})	(वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः})	अभिहितकर्म,2	(कहा_जाता_है)	स्पोकेन्_ओङ्_अस्				
+3	अ-चिन्त्यः	5	0	अचिन्त्य{पुं}{1;एक}	अ-चिन्त्य{पुं}{1;एक}	कर्मसमानाधिकरणम्,4.1	अचिन्त्य	इन्चोम्प्रेहेन्सिब्ले	<न-चिन्त्यः>ठ्न्			
+4	अयम्	4	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	कर्म,4.1	यह_(आत्मा)	ट्हिस्_सोउल्				
+4.1	(उच्यते)	6	(0)	(उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः})	(वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः})	अभिहितकर्म,4;सकर्मकः	(कहा_जाता_है)	स्पोकेन्_ओङ्_अस्				
+5	अ-विकार्यः	8	0	अ-विकारी{स्त्री}{1;बहु}/विकार्य{पुं}{1;एक}	अ-विकार्य{पुं}{1;एक}	कर्मसमानाधिकरणम्,7	विकाररहित	इम्मुटब्ले	<न-विकार्यः>ठ्न्			
+6	अयम्	7	0	अय{पुं}{2;एक}/इदम्{पुं}{1;एक}	इदम्{पुं}{1;एक}	कर्म,7	यह	ट्हिस्_सोउल्				
+7	उच्यते	9	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहितकर्म,6;सकर्मकः	कहा_जाता_है	स्पोकेन्_ओङ्_अस्				
+8	तस्मात्	10	तस्मादेवं	तस्मात्{अव्य}/तद्{पुं}{5;एक}/तद्{नपुं}{5;एक}	तद्{पुं}{5;एक}	हेतुः,10	इसलिये	ट्हेरेङोरे				
+9	एवम्	12	0	एवम्{अव्य}	एवम्{अव्य}	क्रियाविशेषणम्,10	ऐसा	अस्_सुच्ह्				
+10	विदित्वा	13	विदित्वैनं	विद्1{कृत्_प्रत्ययः:क्त्वा;विदँ;अदादिः}	विद्1{कृत्_प्रत्ययः:क्त्वा;विदँ;अदादिः}	पूर्वकालः,14	जानकर	क्नोतिन्ग्_इट्				
+11	एनम्	11	0	इदम्{पुं}{2;एक}	इदम्{पुं}{2;एक}	कर्म,10	इसको	ट्हिस्_सोउल्				
+12	न	16	नानुशोचितुमर्हसि	न{अव्य}	न{अव्य}	प्रतिषेधः,14	नहीं	नोट्				
+13	अनुशोचितुम्	15	0	अनुशोचितुम्	अनु_शुच्1{कृत्_प्रत्ययः:तुमुन्;अनु_शुचँ;भ्वादिः}	सहायकक्रिया,14	शोके_करने_के	ग्रिएवे				
+14	अर्हसि	17	0	अर्ह्1{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;भ्वादिः}/अर्ह्2{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;चुरादिः}	अर्ह्1{कर्तरि;लट्;म;एक;परस्मैपदी;अर्हँ;भ्वादिः}	अभिहितकर्ता,14.1;अकर्मकः	योग्य_हो	स्होउल्ड्				
+14.1	(त्वम्)	14	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,14	(तुम)	योउ				

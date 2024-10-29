@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	an-iRtam	4	aniRtamiRtaM	aniRta{puM}{2;eka}/aniRta{napuM}{1;eka}/aniRta{napuM}{2;eka}	na-iR2{kqw_prawyayaH:kwa;iRuz;wuxAxiH;napuM}{1;eka}	Gataka,5	burA	leading_to_hell	<na-iRtam>Tn			
+2	iRtam	3	0	iRta{puM}{2;eka}/iRta{napuM}{1;eka}/iRta{napuM}{2;eka}	iR2{kqw_prawyayaH:kwa;iRuz;wuxAxiH;napuM}{1;eka}	Gataka,5	acCA	leading_to_heaven				
+3	miSram	6	miSraM	miSra{puM}{2;eka}/miSra{napuM}{1;eka}/miSra{napuM}{2;eka}	miSra{puM}{1;eka}	Gataka,5	milA_huA	mixture				
+4	ca	5	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,3	Ora	or				
+4.1	(iwi)	7	(0)	(iwi{avya})	(iwi{avya})	Gataka_xyowakaH,5	(Ese)	thus				
+5	wri-viXam	8	wriviXaM	wriviXa{puM}{2;eka}/wriviXa{napuM}{1;eka}/wriviXa{napuM}{2;eka}	wriviXa{napuM}{1;eka}	viXeya_viSeRaNam,8	wIna_prakAra_kA	three_kinds	<wri-viXaM>Bs6			
+6	karmaNaH	2	karmaNaH	karman{napuM}{5;eka}/karman{napuM}{6;eka}	karman{napuM}{6;eka}	RaRTIsambanXaH,7	karmoM_kA	work				
+7	Palam	9	Palam	Pala{napuM}{1;eka}/Pala{napuM}{2;eka}	Pala{napuM}{1;eka}	karwA,8	Pala	result				
+8	Bavawi	11	BavawyawyAginAM	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}/Bavaw{puM}{7;eka}	BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,7;akarmakaH	howA_hE	becomes				
+9	a-wyAginAm	1	0	a-wyAgin{puM}{6;bahu}	na-wyAgin{puM}{6;bahu}	RaRTIsambanXaH,6	karmaPala_kA_wyAga_na_karanevAle_manuRyoM_ke	of_the_renouncer	<na-wyAginAM>Tn			
+10	prewya	10	prewya	pra_i1{kqw_prawyayaH:lyap;pra_iN;axAxiH}	pra_i1{kqw_prawyayaH:lyap;pra_iN;axAxiH}	kriyAviSeRaNam,8	marane_ke_paScAw	after_death				
+11	na	16	na	na{avya}	na{avya}	prawiReXaH,14.2	nahIM	not				
+12	wu	12	wu	wu{avya}	wu{avya}	sambanXaH,14.2	kiMwu	but				
+13	sannyAsinAm	13	sannyAsinAM	sannyAsin{puM}{6;bahu}	sannyAsin{puM}{6;bahu}	RaRTIsambanXaH,14.1	karmaPala_kA_wyAga_kara_xenevAle_manuRyoM_ke	of_the_renounced_order				
+14	kvaciw	15	kvaciw	kvaciw{avya}	kvaciw{avya}	kriyAviSeRaNam,14.2	kisI_kAla_meM_BI	at_any_time				
+14.1	(Palam)	14	(0)	(Pala{napuM}{1;eka}/Pala{napuM}{2;eka})	(Pala{napuM}{1;eka})	karwA,14.2	(Pala)	result				
+14.2	(Bavawi)	17	(0)	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH}/Bavaw{puM}{7;eka})	(BU1{karwari;lat;pra;eka;parasmEpaxI;BU;BvAxiH})	aBihiwakarwA,14.1;akarmakaH	(howA)	becomes				

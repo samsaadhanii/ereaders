@@ -1,36 +1,36 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-Bayam	2	aBayaM	aBaya{puM}{2;eka}/aBaya{napuM}{1;eka}/aBaya{napuM}{2;eka}	aBaya{napuM}{1;eka}	sup_samucciwaH,29	Baya_kA_sarvaWA_aBAva	fearlessness	<na-BayaM>Tn			
-2	sawwva-saMSuxXiH	3	sawwvasaMSuxXirjFAnayogavyavasWiwiH	sawwvasaMSuxXi{swrI}{1;eka}	sawwva-saMSuxXi{swrI}{1;eka}	sup_samucciwaH,29	anwaHkaraNa_kI_pUrNa_nirmalawA	purification_of_one's_existence	<sawva-saMSuxXiH>T6			
-3	jFAna-yoga-vyavasWiwiH	4	0	jFAnayogavyavasWiwi{swrI}{1;eka}	jFAna-yoga-vyavasWiwi{swrI}{1;eka}	sup_samucciwaH,29	wawwvajFAna_ke_liye_XyAnayoga_meM_niranwara_xqDa़_sWiwi	the_situation_of_linking_up_of_knowledge	<<jFAna-yoga>Di-vyavasWiwiH>T7			
-4	xAnam	5	xAnaM	xAna{napuM}{1;eka}/xAna{napuM}{2;eka}	xAna{napuM}{1;eka}	sup_samucciwaH,29	sAwwvikaxAna	charity				
-5	xamaH	6	xamaSca	xama{puM}{1;eka}	xama{puM}{1;eka}	sup_samucciwaH,29	inxriyoM_kA_xamana	controlling_the_mind				
-6	ca	30	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,29	Ora	and				
-7	yajFaH	7	yajFaSca	yajFa{puM}{1;eka}	yajFa{puM}{1;eka}	sup_samucciwaH,29	BagavAn_xevawA_Ora_gurujanoM_kI_pUjA_waWA_agnihowrAxi_uwwama_karmoM_kA_AcaraNa	performance_of_sacrifice				
-8	ca	8	0	ca{avya}	ca{avya}	sambanXaH,30	Ora	and				
-9	sva-aXyAyaH	9	svAXyAyaswapa	svAXyAya{puM}{1;eka}	svAXyAya{puM}{1;eka}	sup_samucciwaH,29	vexa-SAswroM_kA_paTana_pATana_(waWA)_BagavAn_ke_nAma_Ora_guNoM_kA_kIrwana	study_of_Vedic_literature	<sva-aXyAyaH>T6			
-10	wapaH	10	0	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}/wapas{napuM}{8;eka}	wapas{napuM}{1;eka}	sup_samucciwaH,29	svaXarmapAlana_ke_liye_kaRta_sahanA	austerity				
-11	Arjavam	11	Arjavam	Arjava{napuM}{1;eka}/Arjava{napuM}{2;eka}	Arjava{napuM}{1;eka}	sup_samucciwaH,29	SarIra_waWA_inxriyoM_ke_sahiwa_anwaHkaraNa_kI_saralawA	simplicity				
-12	a-hiMsA	12	ahiMsA	ahiMsA{swrI}{1;eka}	ahiMsA{swrI}{1;eka}	sup_samucciwaH,29	mana_vANI_Ora_SarIra_se_kisI_prakAra_BI_kisIko_kaRta_na_xenA	nonviolence	<na-hiMsA>Tn			
-13	sawyam	13	sawyamakroXaswyAgaH	sawyam{avya}/sawya{puM}{2;eka}/sawya{napuM}{1;eka}/sawya{napuM}{2;eka}	sawya{napuM}{1;eka}	sup_samucciwaH,29	yaWArWa_Ora_priya_BARaNa	truthfulness				
-14	a-kroXaH	14	0	akroXa{puM}{1;eka}	akroXa{puM}{1;eka}	sup_samucciwaH,29	apanA_apakAra_karanevAle_para_BI_kroXa_kA_na_honA	freedom_from_anger	<na-kroXaH>Tn			
-15	wyAgaH	15	0	wyAga{puM}{1;eka}	wyAga{puM}{1;eka}	sup_samucciwaH,29	karmoM_meM_karwApana_ke_aBimAna_kA_wyAga	renunciation				
-16	SAnwiH	16	SAnwirapESunam	SAnwi{swrI}{1;eka}	SAnwi{swrI}{1;eka}	sup_samucciwaH,29	anwaHkaraNa_kI_uparawi_arWAw_ciwwa_kI_caMcalawA_kA_aBAva	tranquillity				
-17	a-pESunam	17	0	apESuna{napuM}{1;eka}/apESuna{napuM}{2;eka}	apESuna{napuM}{1;eka}	sup_samucciwaH,29	kisIkI_BI_ninxAxi_na_karanA	aversion_to_fault-finding	<na-pESunam>Tn			
-18	xayA	19	xayA	xayA{swrI}{1;eka}	xayA{swrI}{1;eka}	sup_samucciwaH,29	hewurahiwa_xayA	mercy				
-19	BUweRu	18	BUweRvalolupwvaM	BUwa{puM}{7;bahu}/BUwa{napuM}{7;bahu}	BUwa{puM}{7;bahu}	aXikaraNam,18	saba_BUwaprANiyoM_meM	towards_all_living_entities				
-20	a-lolupwvam	20	0	alolupwva{napuM}{1;eka}/alolupwva{napuM}{2;eka}	alolupwva{napuM}{1;eka}	sup_samucciwaH,29	inxriyoM_kA_viRayoM_ke_sAWa_saMyoga_hone_para_BI_unameM_Asakwi_kA_na_honA	freedom_from_greed	<na-lolupwvam>Tn			
-21	mArxavam	21	mArxavaM	mArxava{napuM}{1;eka}/mArxava{napuM}{2;eka}	mArxava{napuM}{1;eka}	sup_samucciwaH,29	komalawA	gentleness				
-22	hrIH	22	hrIracApalam	hrI{swrI}{1;eka}/hrI{swrI}{8;eka}	hrI{swrI}{1;eka}	sup_samucciwaH,29	loka_Ora_SAswra_se_viruxXa_AcaraNa_meM_lajjA	modesty				
-23	a-cApalam	23	0	acApalam	na-cApala{napuM}{1;eka}	sup_samucciwaH,29	vyarWa_ceRtAoM_kA_aBAva	determination	<na-cApalam>Tn			
-24	wejaH	24	wejaH	wejas{napuM}{1;eka}/wejas{napuM}{2;eka}/wejas{napuM}{8;eka}	wejas{napuM}{1;eka}	sup_samucciwaH,29	weja	vigor				
-25	kRamA	25	kRamA	kRamA{avya}/kRamA{swrI}{1;eka}	kRamA{swrI}{1;eka}	sup_samucciwaH,29	kRamA	forgiveness				
-26	XqwiH	26	XqwiH	Xqwi{swrI}{1;eka}	Xqwi{swrI}{1;eka}	sup_samucciwaH,29	XErya	fortitude				
-27	SOcam	27	SOcamaxroho	SOca{napuM}{1;eka}/SOca{napuM}{2;eka}	SOca{napuM}{1;eka}	sup_samucciwaH,29	bAhara_kI_SuxXi	cleanliness				
-28	a-xrohaH	28	0	axroha{puM}{1;eka}	na-xroha{puM}{1;eka}	sup_samucciwaH,29	SawruBAva_kA_na_honA	freedom_from_envy	<na-xrohaH>Tn			
-29	na-awi-mAniwA	29	nAwimAniwA	nAwimAniwA{swrI}{1;eka}	na-awi-mAniwA{swrI}{1;eka}	karwA,30	apanemeM_pUjyawA_ke_aBimAna_kA_aBAva	no_expectation_of_honor				
-30	Bavanwi	35	Bavanwi	BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}/BavanwI{swrI}{8;eka}	BU1{karwari;lat;pra;bahu;parasmEpaxI;BU;BvAxiH}	aBihiwakarwA,29	hEM	become				
-31	sampaxam	32	sampaxaM	sampax{swrI}{2;eka}	sampax{swrI}{2;eka}	karma,33	sampaxA_ko	qualities				
-32	xEvIm	31	xEvImaBijAwasya	xEvI{swrI}{2;eka}	xEvI{swrI}{2;eka}	viSeRaNam,31	xEvI	transcendental				
-33	aBijAwasya	33	0	aBijAwa{puM}{6;eka}/aBijAwa{napuM}{6;eka}	aBi_jan3{kqw_prawyayaH:kwa;aBi_janIz;xivAxiH;puM}{6;eka}	RaRTIsambanXaH,34.1	lekara_uwpanna_hue_puruRa_ke_(lakRaNa)	of_one_who_is_born_of				
-34	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,30	he_arjuna	O_son_of_Bharata				
-34.1	(lakRaNAni)	34	()	lakRaNa{napuM}{1;bahu}/{napuM}{2;bahu}	lakRaNa{napuM}{1;bahu}	viXeya_viSeRaNam,30	komalawA	gentleness				
+1	अ-भयम्	2	अभयं	अभय{पुं}{2;एक}/अभय{नपुं}{1;एक}/अभय{नपुं}{2;एक}	अभय{नपुं}{1;एक}	सुप्_समुच्चितः,29	भय_का_सर्वथा_अभाव	ङेअर्लेस्स्नेस्स्	<न-भयं>ठ्न्			
+2	सत्त्व-संशुद्धिः	3	सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः	सत्त्वसंशुद्धि{स्त्री}{1;एक}	सत्त्व-संशुद्धि{स्त्री}{1;एक}	सुप्_समुच्चितः,29	अन्तःकरण_की_पूर्ण_निर्मलता	पुरिङिचटिओन्_ओङ्_ओने'स्_एदिस्टेन्चे	<सत्व-संशुद्धिः>ठ्6			
+3	ज्ञान-योग-व्यवस्थितिः	4	0	ज्ञानयोगव्यवस्थिति{स्त्री}{1;एक}	ज्ञान-योग-व्यवस्थिति{स्त्री}{1;एक}	सुप्_समुच्चितः,29	तत्त्वज्ञान_के_लिये_ध्यानयोग_में_निरन्तर_दृढॆअञ_स्थिति	ट्हे_सिटुअटिओन्_ओङ्_लिन्किन्ग्_उप्_ओङ्_क्नोत्लेड्गे	<<ज्ञान-योग>ढि-व्यवस्थितिः>ठ्7			
+4	दानम्	5	दानं	दान{नपुं}{1;एक}/दान{नपुं}{2;एक}	दान{नपुं}{1;एक}	सुप्_समुच्चितः,29	सात्त्विकदान	च्हरिट्य्				
+5	दमः	6	दमश्च	दम{पुं}{1;एक}	दम{पुं}{1;एक}	सुप्_समुच्चितः,29	इन्द्रियों_का_दमन	चोन्ट्रोल्लिन्ग्_ट्हे_मिन्ड्				
+6	च	30	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,29	और	अन्ड्				
+7	यज्ञः	7	यज्ञश्च	यज्ञ{पुं}{1;एक}	यज्ञ{पुं}{1;एक}	सुप्_समुच्चितः,29	भगवान्_देवता_और_गुरुजनों_की_पूजा_तथा_अग्निहोत्रादि_उत्तम_कर्मों_का_आचरण	पेर्ङोर्मन्चे_ओङ्_सच्रिङिचे				
+8	च	8	0	च{अव्य}	च{अव्य}	सम्बन्धः,30	और	अन्ड्				
+9	स्व-अध्यायः	9	स्वाध्यायस्तप	स्वाध्याय{पुं}{1;एक}	स्वाध्याय{पुं}{1;एक}	सुप्_समुच्चितः,29	वेद-शास्त्रों_का_पठन_पाठन_(तथा)_भगवान्_के_नाम_और_गुणों_का_कीर्तन	स्टुड्य्_ओङ्_Vएडिच्_लिटेरटुरे	<स्व-अध्यायः>ठ्6			
+10	तपः	10	0	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}/तपस्{नपुं}{8;एक}	तपस्{नपुं}{1;एक}	सुप्_समुच्चितः,29	स्वधर्मपालन_के_लिये_कष्ट_सहना	अउस्टेरिट्य्				
+11	आर्जवम्	11	आर्जवम्	आर्जव{नपुं}{1;एक}/आर्जव{नपुं}{2;एक}	आर्जव{नपुं}{1;एक}	सुप्_समुच्चितः,29	शरीर_तथा_इन्द्रियों_के_सहित_अन्तःकरण_की_सरलता	सिम्प्लिचिट्य्				
+12	अ-हिंसा	12	अहिंसा	अहिंसा{स्त्री}{1;एक}	अहिंसा{स्त्री}{1;एक}	सुप्_समुच्चितः,29	मन_वाणी_और_शरीर_से_किसी_प्रकार_भी_किसीको_कष्ट_न_देना	नोन्विओलेन्चे	<न-हिंसा>ठ्न्			
+13	सत्यम्	13	सत्यमक्रोधस्त्यागः	सत्यम्{अव्य}/सत्य{पुं}{2;एक}/सत्य{नपुं}{1;एक}/सत्य{नपुं}{2;एक}	सत्य{नपुं}{1;एक}	सुप्_समुच्चितः,29	यथार्थ_और_प्रिय_भाषण	ट्रुट्ह्ङुल्नेस्स्				
+14	अ-क्रोधः	14	0	अक्रोध{पुं}{1;एक}	अक्रोध{पुं}{1;एक}	सुप्_समुच्चितः,29	अपना_अपकार_करनेवाले_पर_भी_क्रोध_का_न_होना	ङ्रेएडोम्_ङ्रोम्_अन्गेर्	<न-क्रोधः>ठ्न्			
+15	त्यागः	15	0	त्याग{पुं}{1;एक}	त्याग{पुं}{1;एक}	सुप्_समुच्चितः,29	कर्मों_में_कर्तापन_के_अभिमान_का_त्याग	रेनुन्चिअटिओन्				
+16	शान्तिः	16	शान्तिरपैशुनम्	शान्ति{स्त्री}{1;एक}	शान्ति{स्त्री}{1;एक}	सुप्_समुच्चितः,29	अन्तःकरण_की_उपरति_अर्थात्_चित्त_की_चंचलता_का_अभाव	ट्रनृउइल्लिट्य्				
+17	अ-पैशुनम्	17	0	अपैशुन{नपुं}{1;एक}/अपैशुन{नपुं}{2;एक}	अपैशुन{नपुं}{1;एक}	सुप्_समुच्चितः,29	किसीकी_भी_निन्दादि_न_करना	अवेर्सिओन्_टो_ङउल्ट्-ङिन्डिन्ग्	<न-पैशुनम्>ठ्न्			
+18	दया	19	दया	दया{स्त्री}{1;एक}	दया{स्त्री}{1;एक}	सुप्_समुच्चितः,29	हेतुरहित_दया	मेर्च्य्				
+19	भूतेषु	18	भूतेष्वलोलुप्त्वं	भूत{पुं}{7;बहु}/भूत{नपुं}{7;बहु}	भूत{पुं}{7;बहु}	अधिकरणम्,18	सब_भूतप्राणियों_में	टोतर्ड्स्_अल्ल्_लिविन्ग्_एन्टिटिएस्				
+20	अ-लोलुप्त्वम्	20	0	अलोलुप्त्व{नपुं}{1;एक}/अलोलुप्त्व{नपुं}{2;एक}	अलोलुप्त्व{नपुं}{1;एक}	सुप्_समुच्चितः,29	इन्द्रियों_का_विषयों_के_साथ_संयोग_होने_पर_भी_उनमें_आसक्ति_का_न_होना	ङ्रेएडोम्_ङ्रोम्_ग्रेएड्	<न-लोलुप्त्वम्>ठ्न्			
+21	मार्दवम्	21	मार्दवं	मार्दव{नपुं}{1;एक}/मार्दव{नपुं}{2;एक}	मार्दव{नपुं}{1;एक}	सुप्_समुच्चितः,29	कोमलता	गेन्ट्लेनेस्स्				
+22	ह्रीः	22	ह्रीरचापलम्	ह्री{स्त्री}{1;एक}/ह्री{स्त्री}{8;एक}	ह्री{स्त्री}{1;एक}	सुप्_समुच्चितः,29	लोक_और_शास्त्र_से_विरुद्ध_आचरण_में_लज्जा	मोडेस्ट्य्				
+23	अ-चापलम्	23	0	अचापलम्	न-चापल{नपुं}{1;एक}	सुप्_समुच्चितः,29	व्यर्थ_चेष्टाओं_का_अभाव	डेटेर्मिनटिओन्	<न-चापलम्>ठ्न्			
+24	तेजः	24	तेजः	तेजस्{नपुं}{1;एक}/तेजस्{नपुं}{2;एक}/तेजस्{नपुं}{8;एक}	तेजस्{नपुं}{1;एक}	सुप्_समुच्चितः,29	तेज	विगोर्				
+25	क्षमा	25	क्षमा	क्षमा{अव्य}/क्षमा{स्त्री}{1;एक}	क्षमा{स्त्री}{1;एक}	सुप्_समुच्चितः,29	क्षमा	ङोर्गिवेनेस्स्				
+26	धृतिः	26	धृतिः	धृति{स्त्री}{1;एक}	धृति{स्त्री}{1;एक}	सुप्_समुच्चितः,29	धैर्य	ङोर्टिटुडे				
+27	शौचम्	27	शौचमद्रोहो	शौच{नपुं}{1;एक}/शौच{नपुं}{2;एक}	शौच{नपुं}{1;एक}	सुप्_समुच्चितः,29	बाहर_की_शुद्धि	च्लेअन्लिनेस्स्				
+28	अ-द्रोहः	28	0	अद्रोह{पुं}{1;एक}	न-द्रोह{पुं}{1;एक}	सुप्_समुच्चितः,29	शत्रुभाव_का_न_होना	ङ्रेएडोम्_ङ्रोम्_एन्व्य्	<न-द्रोहः>ठ्न्			
+29	न-अति-मानिता	29	नातिमानिता	नातिमानिता{स्त्री}{1;एक}	न-अति-मानिता{स्त्री}{1;एक}	कर्ता,30	अपनेमें_पूज्यता_के_अभिमान_का_अभाव	नो_एद्पेच्टटिओन्_ओङ्_होनोर्				
+30	भवन्ति	35	भवन्ति	भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}/भवन्ती{स्त्री}{8;एक}	भू1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;भू;भ्वादिः}	अभिहितकर्ता,29	हैं	बेचोमे				
+31	सम्पदम्	32	सम्पदं	सम्पद्{स्त्री}{2;एक}	सम्पद्{स्त्री}{2;एक}	कर्म,33	सम्पदा_को	ऋउअलिटिएस्				
+32	दैवीम्	31	दैवीमभिजातस्य	दैवी{स्त्री}{2;एक}	दैवी{स्त्री}{2;एक}	विशेषणम्,31	दैवी	ट्रन्स्चेन्डेन्टल्				
+33	अभिजातस्य	33	0	अभिजात{पुं}{6;एक}/अभिजात{नपुं}{6;एक}	अभि_जन्3{कृत्_प्रत्ययः:क्त;अभि_जनीँ;दिवादिः;पुं}{6;एक}	षष्ठीसम्बन्धः,34.1	लेकर_उत्पन्न_हुए_पुरुष_के_(लक्षण)	ओङ्_ओने_त्हो_इस्_बोर्न्_ओङ्				
+34	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,30	हे_अर्जुन	औ_सोन्_ओङ्_भ्हरट				
+34.1	(लक्षणानि)	34	()	लक्षण{नपुं}{1;बहु}/{नपुं}{2;बहु}	लक्षण{नपुं}{1;बहु}	विधेय_विशेषणम्,30	कोमलता	गेन्ट्लेनेस्स्				

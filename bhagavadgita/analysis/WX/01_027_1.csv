@@ -1,0 +1,22 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	wawra	6	wawrApaSyawsWiwAnpArWaH	wawra{avya}	wawra{avya}	aXikaraNam,3	una	there				
+2	apaSyaw	4	0	xqS1{karwari;laf;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;laf;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwa_karwA,4;sakarmakaH	xeKA	saw				
+3	sWiwAn	1	0	sWiwa{puM}{2;bahu}	sWA1{kqw_prawyayaH:kwa;RTA;BvAxiH;puM}{2;bahu}	viSeRaNam,16	sWiwa	stationed				
+4	pArWaH	20	0	pArWa{puM}{1;eka}	pArWa{puM}{1;eka}	karwA,2	pqWApuwra_arjuna_ne	Arjuna				
+5	piwQn	18	piwQnaWa	piwq{puM}{2;bahu}	piwq{puM}{2;bahu}	sup_samucciwaH,16	wAU-cAcoM_ko	uncles_grand-uncles				
+6	aWa	19	0	aWa{avya}	aWa{avya}	sambanXaH,5	isake_bAxa	now				
+7	piwAmahAn	3	piwAmahAn	piwAmaha{puM}{2;bahu}	piwAmaha{puM}{2;bahu}	sup_samucciwaH,16	xAxoM-paraxAxoM_ko	great_grand-uncles_grandfathers				
+8	AcAryAn	5	AcAryAnmAwulAnBrAwQnpuwrAnpOwrAnsaKIMswaWA	AcArya{puM}{2;bahu}	AcArya{puM}{2;bahu}	sup_samucciwaH,16	guruoM_ko	teachers				
+9	mAwulAn	7	0	mAwula{puM}{2;bahu}	mAwula{puM}{2;bahu}	sup_samucciwaH,16	mAmAoM_ko	maternal_uncles				
+10	BrAwQn	8	0	BrAwq{puM}{2;bahu}	BrAwq{puM}{2;bahu}	sup_samucciwaH,16	BAiyoM_ko	brothers_and_cousins				
+11	puwrAn	9	0	puwra{puM}{2;bahu}	puwra{puM}{2;bahu}	sup_samucciwaH,16	puwroM_ko	sons_and_nephews				
+12	pOwrAn	10	0	pOwra{puM}{2;bahu}	pOwra{puM}{2;bahu}	sup_samucciwaH,16	pOwroM_ko	grandsons				
+13	saKIn	11	0	saKi{puM}{2;bahu}	saKi{puM}{2;bahu}	sup_samucciwaH,16	miwroM_ko	friends				
+14	waWA	12	0	waWA{avya}	waWA{avya}	sambanXaH,13	waWA	too				
+15	SvaSurAn	14	SvaSurAnsuhqxaScEva	SvaSura{puM}{2;bahu}	SvaSura{puM}{2;bahu}	sup_samucciwaH,16	sasuroM_ko	fathers-in-law				
+16	suhqxaH	13	0	suhqx{puM}{1;bahu}/suhqx{puM}{2;bahu}/suhqx{puM}{5;eka}/suhqx{puM}{6;eka}/suhqx{swrI}{1;bahu}/suhqx{swrI}{2;bahu}/suhqx{swrI}{5;eka}/suhqx{swrI}{6;eka}/suhqxa{puM}{1;eka}	suhqx{puM}{2;bahu}	karma,2	suhqxoM_ko	well-wishers				
+17	ca	15	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,16	Ora	even_so				
+18	eva	17	0	eva{avya}	eva{avya}	sambanXaH,17	hI	certainly				
+19	senayoH	16	senayoruBayorapi	senA{swrI}{6;xvi}/senA{swrI}{7;xvi}	senA{swrI}{6;xvi}	aXikaraNam,3	senAoM_meM	of_the_armies				
+20	uBayoH	21	0	uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}	uBa{puM}{6;xvi}	viSeRaNam,19	xonoM	of_both_parties				
+21	api	2	0	api{avya}	api{avya}	sambanXaH,16	BI	as_well				

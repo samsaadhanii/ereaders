@@ -1,23 +1,23 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kArpaNya-xoRa-upahawa-svaBAvaH	1	kArpaNyaxoRopahawasvaBAvaH	kArpaNya-xoRan-upahawa-svaBAva{puM}{1;eka}	kArpaNya-xoRa-upahawa-svaBAva{puM}{1;eka}	viSeRaNam,4.1	kAyarawArUpa_xoRa_se_upahawa_svaBAvavAlA	having_smitten_by_the_vice_of_faint-heartedness	<<<kArpaNya-xoRaH>K6-upahawa>T3-svaBAvaH>Bs6			
-2	pqcCAmi	5	pqcCAmi	praC1{karwari;lat;u;eka;parasmEpaxI;praCaz;wuxAxiH}	praC1{karwari;lat;u;eka;parasmEpaxI;praCaz;wuxAxiH}	aBihiwakarwA,4.1	pUCawA_hUz	beseech				
-3	wvAm	4	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,2	Apase	unto_You				
-4	Xarma-sammUDa-cewAH	2	XarmasammUDacewAH	Xarman-sammUDa-cewA{swrI}{1;bahu}/cewA{swrI}{2;bahu}/cewA{swrI}{8;bahu}	Xarman-sammUDa-cewas{puM}{1;bahu}	viSeRaNam,4.1	Xarma_ke_viRaya_meM_mohiwaciwwa	mind_puzzled_with_regard_to_duty	<<Xarma-sammUDa>T7-cewAH>Bs6			
-4.1	(aham)	3	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,2	(mEM)	I				
-5	yaw	6	yacCreyaH	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karwA,7	jo	that_which				
-6	SreyaH	8	0	Sreya{puM}{1;eka}/Sreyas{napuM}{1;eka}/Sreyas{napuM}{2;eka}	Sreyas{napuM}{1;eka}	viXeya_viSeRaNam,7	kalyANakAraka	good				
-7	syAw	9	syAnniSciwaM	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;viXilif;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,6	ho	may_be				
-8	niSciwam	7	0	niSciwa{puM}{2;eka}/niSciwa{napuM}{1;eka}/niSciwa{napuM}{2;eka}	niSciwa{napuM}{1;eka}	viSeRaNam,6	niSciwa	decidedly				
-9	brUhi	12	brUhi	brU1{karwari;lot;ma;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lot;ma;eka;parasmEpaxI;brUF;axAxiH}	aBihiwakarwA,9.1	kahiye	tell				
-10	waw	10	wanme	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,9	vaha	that				
-11	me	11	0	asmax{6;eka}	asmax{6;eka}	karma,9	mere_liye	unto_me				
-11.1	(wvam)	9.1	()	yuRmax{1;eka}	yuRmax{1;eka}	karwA,9	Apake	in_You				
-12	SiRyaH	15	SiRyasweZhaM	SiRya{puM}{1;eka}	SiRya{puM}{1;eka}	viXeya_viSeRaNam,14.1	SiRya	disciple				
-13	we	14	0	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,12	ApakA	your				
-14	aham	13	0	asmax{1;eka}	asmax{1;eka}	karwA,14.1	mEM	I				
-14.1	(asmi)	15.1	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,14.1	(hUz)	am				
-15	SAXi	20	SAXi	SAs1{karwari;lot;ma;eka;parasmEpaxI;SAsuz;axAxiH}	SAs1{karwari;lot;ma;eka;parasmEpaxI;SAsuz;axAxiH}	aBihiwakarwA,18.1	SikRA_xIjiye	instruct				
-16	mAm	19	mAM	asmax{2;eka}	asmax{2;eka}	karma,15	muJako	me				
-17	wvAm	17	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	karma,18	Apake	in_You				
-18	prapannam	18	prapannam	prapanna{puM}{2;eka}/prapanna{napuM}{1;eka}/prapanna{napuM}{2;eka}	pra_pax1{kqw_prawyayaH:kwa;pra_paxaz;xivAxiH;napuM}{1;eka}	viSeRaNam,16	SaraNa_hae	taken_refuge				
-18.1	(wvam)	19.1	()	yuRmax{1;eka}	yuRmax{1;eka}	karwA,15	Apake	in_You				
+1	कार्पण्य-दोष-उपहत-स्वभावः	1	कार्पण्यदोषोपहतस्वभावः	कार्पण्य-दोषन्-उपहत-स्वभाव{पुं}{1;एक}	कार्पण्य-दोष-उपहत-स्वभाव{पुं}{1;एक}	विशेषणम्,4.1	कायरतारूप_दोष_से_उपहत_स्वभाववाला	हविन्ग्_स्मिट्टेन्_ब्य्_ट्हे_विचे_ओङ्_ङइन्ट्-हेअर्टेड्नेस्स्	<<<कार्पण्य-दोषः>ख्6-उपहत>ठ्3-स्वभावः>भ्स्6			
+2	पृच्छामि	5	पृच्छामि	प्रछ्1{कर्तरि;लट्;उ;एक;परस्मैपदी;प्रछँ;तुदादिः}	प्रछ्1{कर्तरि;लट्;उ;एक;परस्मैपदी;प्रछँ;तुदादिः}	अभिहितकर्ता,4.1	पूछता_हूँ	बेसेएच्ह्				
+3	त्वाम्	4	त्वां	युष्मद्{2;एक}	युष्मद्{2;एक}	कर्म,2	आपसे	उन्टो_Yओउ				
+4	धर्म-सम्मूढ-चेताः	2	धर्मसम्मूढचेताः	धर्मन्-सम्मूढ-चेता{स्त्री}{1;बहु}/चेता{स्त्री}{2;बहु}/चेता{स्त्री}{8;बहु}	धर्मन्-सम्मूढ-चेतस्{पुं}{1;बहु}	विशेषणम्,4.1	धर्म_के_विषय_में_मोहितचित्त	मिन्ड्_पुँँलेड्_तिट्ह्_रेगर्ड्_टो_डुट्य्	<<धर्म-सम्मूढ>ठ्7-चेताः>भ्स्6			
+4.1	(अहम्)	3	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,2	(मैं)	ई				
+5	यत्	6	यच्छ्रेयः	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्ता,7	जो	ट्हट्_त्हिच्ह्				
+6	श्रेयः	8	0	श्रेय{पुं}{1;एक}/श्रेयस्{नपुं}{1;एक}/श्रेयस्{नपुं}{2;एक}	श्रेयस्{नपुं}{1;एक}	विधेय_विशेषणम्,7	कल्याणकारक	गोओड्				
+7	स्यात्	9	स्यान्निश्चितं	अस्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;विधिलिङ्;प्र;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,6	हो	मय्_बे				
+8	निश्चितम्	7	0	निश्चित{पुं}{2;एक}/निश्चित{नपुं}{1;एक}/निश्चित{नपुं}{2;एक}	निश्चित{नपुं}{1;एक}	विशेषणम्,6	निश्चित	डेचिडेड्ल्य्				
+9	ब्रूहि	12	ब्रूहि	ब्रू1{कर्तरि;लोट्;म;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	ब्रू1{कर्तरि;लोट्;म;एक;परस्मैपदी;ब्रूञ्;अदादिः}	अभिहितकर्ता,9.1	कहिये	टेल्ल्				
+10	तत्	10	तन्मे	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{2;एक}	कर्म,9	वह	ट्हट्				
+11	मे	11	0	अस्मद्{6;एक}	अस्मद्{6;एक}	कर्म,9	मेरे_लिये	उन्टो_मे				
+11.1	(त्वम्)	9.1	()	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,9	आपके	इन्_Yओउ				
+12	शिष्यः	15	शिष्यस्तेऽहं	शिष्य{पुं}{1;एक}	शिष्य{पुं}{1;एक}	विधेय_विशेषणम्,14.1	शिष्य	डिस्चिप्ले				
+13	ते	14	0	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,12	आपका	योउर्				
+14	अहम्	13	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,14.1	मैं	ई				
+14.1	(अस्मि)	15.1	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,14.1	(हूँ)	अम्				
+15	शाधि	20	शाधि	शास्1{कर्तरि;लोट्;म;एक;परस्मैपदी;शासुँ;अदादिः}	शास्1{कर्तरि;लोट्;म;एक;परस्मैपदी;शासुँ;अदादिः}	अभिहितकर्ता,18.1	शिक्षा_दीजिये	इन्स्ट्रुच्ट्				
+16	माम्	19	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,15	मुझको	मे				
+17	त्वाम्	17	त्वां	युष्मद्{2;एक}	युष्मद्{2;एक}	कर्म,18	आपके	इन्_Yओउ				
+18	प्रपन्नम्	18	प्रपन्नम्	प्रपन्न{पुं}{2;एक}/प्रपन्न{नपुं}{1;एक}/प्रपन्न{नपुं}{2;एक}	प्र_पद्1{कृत्_प्रत्ययः:क्त;प्र_पदँ;दिवादिः;नपुं}{1;एक}	विशेषणम्,16	शरण_हए	टकेन्_रेङुगे				
+18.1	(त्वम्)	19.1	()	युष्मद्{1;एक}	युष्मद्{1;एक}	कर्ता,15	आपके	इन्_Yओउ				

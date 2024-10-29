@@ -1,0 +1,17 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	viswareNa	7	viswareNAwmano	viswara{puM}{3;eka}/viswara{napuM}{3;eka}	viswara{avya}	kriyAviSeRaNam,8	viswArapUrvaka	in_description				
+2	AwmanaH	2	0	Awman{puM}{2;bahu}/Awman{puM}{5;eka}/Awman{puM}{6;eka}	Awman{puM}{6;eka}	RaRTIsambanXaH,3	apanI	of_Yourself				
+3	yogam	3	yogaM	yoga{puM}{2;eka}	yoga{puM}{2;eka}	karma,8	yogaSakwi_ko	mystic_power				
+4	vi-BUwim	5	viBUwiM	vi-BUwi{swrI}{2;eka}	viBUwi{swrI}{2;eka}	sup_samucciwaH,8	viBUwi_ko	opulences	<vi-BUwiM>Bvp			
+5	ca	4	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	also				
+6	janArxana	1	janArxana	janArxana{puM}{8;eka}	janArxana{puM}{8;eka}	samboXyaH,8	he_janArxana	O_killer_of_the_atheists				
+7	BUyaH	6	BUyaH	BUyaH{avya}/BUyas{napuM}{1;eka}/BUyas{napuM}{2;eka}/BUyas{napuM}{8;eka}	BUyaH{avya}	kriyAviSeRaNam,8	Pira	again				
+8	kaWaya	9	kaWaya	kaWa1{karwari;lot;ma;eka;parasmEpaxI;kaWa;curAxiH}/kaWa1_Nic{karwari;lot;ma;eka;parasmEpaxI;kaWa;curAxiH}	kaWa1{karwari;lot;ma;eka;parasmEpaxI;kaWa;curAxiH}	aBihiwa_karwA,8.1;sakarmakaH	kahiye	describe				
+8.1	(wvam)	8	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,8	Ap					
+9	wqpwiH	14	wqpwirhi	wqpwi{swrI}{1;eka}	wqpwi{swrI}{1;eka}	karwA,13	wqpwi	satisfaction				
+10	hi	10	0	hi{avya}	hi{avya}	sambanXaH,9	kyoMki	certainly				
+11	SqNvawaH	12	SqNvawo	SqNvawaH	Sru1{kqw_prawyayaH:Sawq;Sru;BvAxiH;puM}{6;eka}	varwamAnasamAnakAlaH,13	sunawe_hue	hearing				
+12	na	15	nAswi	na{avya}	na{avya}	prawiReXaH,13	nahIM	not				
+13	aswi	16	0	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH}	aBihiwa_karwA,9;akarmakaH	howI_hE	is				
+14	me	13	meZmqwam	asmax{6;eka}	asmax{6;eka}	RaRTIsambanXaH,9	merI	my				
+15	amqwam	11	0	a-mqwa{puM}{2;eka}/mqwa{napuM}{1;eka}/mqwa{napuM}{2;eka}	amqwa{napuM}{2;eka}	karma,11	amqwamaya_vacanoM_ko	nectar				

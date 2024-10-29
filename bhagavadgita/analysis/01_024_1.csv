@@ -1,23 +1,23 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	evam	3	evamukwo	evam{avya}	evam{avya}	kriyAviSeRaNam,2	isa_prakAra	thus				
-2	ukwaH	4	0	ukwa{puM}{1;eka}	vac1{kqw_prawyayaH:kwa;vacaz;axAxiH;puM}{1;eka}	viSeRaNam,3	kahe_hue	addressed				
-3	hqRIkeSaH	5	hqRIkeSo	hqRIkeSa{puM}{1;eka}	hqRIkeSa{puM}{1;eka}	karwA,15	SrIkqRNacanxra_ne	Lord_Krsna				
-4	gudAkeSena	2	gudAkeSena	gudAkeSa{puM}{3;eka}	gudAkeSa{puM}{3;eka}	karwA,2	arjuna_xvArA	by_Arjuna				
-5	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,15	he_XqwarARtra	O_descendant_of_Bharata				
-6	senayoH	7	senayoruBayormaXye	senA{swrI}{6;xvi}/senA{swrI}{7;xvi}	senA{swrI}{6;xvi}	RaRTIsambanXaH,8	senAoM_ke	of_armies				
-7	uBayoH	6	0	uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBa{puM}{6;xvi}/uBa{puM}{7;xvi}/uBa{napuM}{6;xvi}/uBa{napuM}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}/uBA{swrI}{6;xvi}/uBA{swrI}{7;xvi}	uBa{puM}{6;xvi}	viSeRaNam,6	xonoM	of_both				
-8	maXye	8	0	maXya{puM}{7;eka}/maXya{napuM}{1;xvi}/maXya{napuM}{2;xvi}/maXya{napuM}{7;eka}/maXya{napuM}{8;xvi}/maXyA{swrI}{1;xvi}/maXyA{swrI}{2;xvi}/maXyA{swrI}{8;eka}/maXyA{swrI}{8;xvi}	maXya{puM}{7;eka}	aXikaraNam,9	bIca_meM	in_the_midst_of				
-9	sWApayiwvA	14	sWApayiwvA	sWApayiwvA	sWA1_Nic{kqw_prawyayaH:kwvA;RTA_Nic;BvAxiH}	pUrvakAlaH,15	Kada़A_karake	by_placing				
-10	raWa-uwwamam	13	raWowwamam	raWa-uwwama{puM}{2;eka}/uwwama{napuM}{1;eka}/uwwama{napuM}{2;eka}	raWa-uwwama{puM}{2;eka}	karma,9	uwwama_raWa_ko	the_finest_chariot	<raWa-uwwamam>T7			
-11	BIRma-xroNa-pramuKawaH	12	BIRmaxroNapramuKawaH	BIRma-xroNa-pramuKawa{puM}{1;eka}	BIRma-xroNa-pramuKawa{puM}{1;eka}	aXikaraNam,9	BIRma_Ora_xroNAcArya_ke_sAmane	in_front_of_Bhisma_and_Drona	<<BIRma-xroNa>Di-pramuKawaH>T6			
-12	sarveRAm	10	sarveRAM	sarva{puM}{6;bahu}/sarva{napuM}{6;bahu}	sarva{puM}{6;bahu}	viSeRaNam,14	sampUrNa	all				
-13	ca	9	ca	ca{avya}	ca{avya}	sambanXaH,15	waWA	also				
-14	mahIkRiwAm	11	mahIkRiwAm	mahIkRiw{puM}{6;bahu}	mahIkRiw{puM}{6;bahu}	upapaxasambanXaH,11	rAjAoM_ke_sAmane	chiefs_of_the_world				
-15	uvAca	21	uvAca	vac1{karwari;lit;u;eka;parasmEpaxI;vacaz;axAxiH}/vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;axAxiH}/brU1{karwari;lit;u;eka;parasmEpaxI;brUF;axAxiH}/brU1{karwari;lit;pra;eka;parasmEpaxI;brUF;axAxiH}	vac1{karwari;lit;pra;eka;parasmEpaxI;vacaz;axAxiH}	aBihiwa_karwA,3;sakarmakaH	kahA	said				
-16	pArWa	15	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,17	he_pArWa	O_Partha_(son_of_Prtha)				
-17	paSya	19	paSyEwAnsamavewAnkurUniwi	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lot;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	vAkyakarma,15	xeKa	behold				
-18	ewAn	16	0	ewax{puM}{2;bahu}	ewax{puM}{2;bahu}	viSeRaNam,20	ina	these				
-19	samavewAn	17	0	samavewa{puM}{2;bahu}	samavewa{puM}{2;bahu}	viSeRaNam,20	jute_hue	assembled				
-20	kurUn	18	0	kuru{puM}{2;bahu}	kuru{puM}{2;bahu}	karma,17	kOravoM_ko	all_the_members_of_the_Kuru_dynasty				
-21	iwi	20	0	iwi{avya}	iwi{avya}	vAkyakarma_xyowakaH,17	isa_prakAra	thus				
-21.1	(wvam)	23	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,17	(wuma)	you				
+1	एवम्	3	एवमुक्तो	एवम्{अव्य}	एवम्{अव्य}	क्रियाविशेषणम्,2	इस_प्रकार	ट्हुस्				
+2	उक्तः	4	0	उक्त{पुं}{1;एक}	वच्1{कृत्_प्रत्ययः:क्त;वचँ;अदादिः;पुं}{1;एक}	विशेषणम्,3	कहे_हुए	अड्ड्रेस्सेड्				
+3	हृषीकेशः	5	हृषीकेशो	हृषीकेश{पुं}{1;एक}	हृषीकेश{पुं}{1;एक}	कर्ता,15	श्रीकृष्णचन्द्र_ने	ऌओर्ड्_ख्र्स्न				
+4	गुडाकेशेन	2	गुडाकेशेन	गुडाकेश{पुं}{3;एक}	गुडाकेश{पुं}{3;एक}	कर्ता,2	अर्जुन_द्वारा	ब्य्_आर्जुन				
+5	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,15	हे_धृतराष्ट्र	औ_डेस्चेन्डन्ट्_ओङ्_भ्हरट				
+6	सेनयोः	7	सेनयोरुभयोर्मध्ये	सेना{स्त्री}{6;द्वि}/सेना{स्त्री}{7;द्वि}	सेना{स्त्री}{6;द्वि}	षष्ठीसम्बन्धः,8	सेनाओं_के	ओङ्_अर्मिएस्				
+7	उभयोः	6	0	उभ{पुं}{6;द्वि}/उभ{पुं}{7;द्वि}/उभ{नपुं}{6;द्वि}/उभ{नपुं}{7;द्वि}/उभ{पुं}{6;द्वि}/उभ{पुं}{7;द्वि}/उभ{नपुं}{6;द्वि}/उभ{नपुं}{7;द्वि}/उभा{स्त्री}{6;द्वि}/उभा{स्त्री}{7;द्वि}/उभा{स्त्री}{6;द्वि}/उभा{स्त्री}{7;द्वि}	उभ{पुं}{6;द्वि}	विशेषणम्,6	दोनों	ओङ्_बोट्ह्				
+8	मध्ये	8	0	मध्य{पुं}{7;एक}/मध्य{नपुं}{1;द्वि}/मध्य{नपुं}{2;द्वि}/मध्य{नपुं}{7;एक}/मध्य{नपुं}{8;द्वि}/मध्या{स्त्री}{1;द्वि}/मध्या{स्त्री}{2;द्वि}/मध्या{स्त्री}{8;एक}/मध्या{स्त्री}{8;द्वि}	मध्य{पुं}{7;एक}	अधिकरणम्,9	बीच_में	इन्_ट्हे_मिड्स्ट्_ओङ्				
+9	स्थापयित्वा	14	स्थापयित्वा	स्थापयित्वा	स्था1_णिच्{कृत्_प्रत्ययः:क्त्वा;ष्ठा_णिच्;भ्वादिः}	पूर्वकालः,15	खडॆअञआ_करके	ब्य्_प्लचिन्ग्				
+10	रथ-उत्तमम्	13	रथोत्तमम्	रथ-उत्तम{पुं}{2;एक}/उत्तम{नपुं}{1;एक}/उत्तम{नपुं}{2;एक}	रथ-उत्तम{पुं}{2;एक}	कर्म,9	उत्तम_रथ_को	ट्हे_ङिनेस्ट्_च्हरिओट्	<रथ-उत्तमम्>ठ्7			
+11	भीष्म-द्रोण-प्रमुखतः	12	भीष्मद्रोणप्रमुखतः	भीष्म-द्रोण-प्रमुखत{पुं}{1;एक}	भीष्म-द्रोण-प्रमुखत{पुं}{1;एक}	अधिकरणम्,9	भीष्म_और_द्रोणाचार्य_के_सामने	इन्_ङ्रोन्ट्_ओङ्_भ्हिस्म_अन्ड्_ढ्रोन	<<भीष्म-द्रोण>ढि-प्रमुखतः>ठ्6			
+12	सर्वेषाम्	10	सर्वेषां	सर्व{पुं}{6;बहु}/सर्व{नपुं}{6;बहु}	सर्व{पुं}{6;बहु}	विशेषणम्,14	सम्पूर्ण	अल्ल्				
+13	च	9	च	च{अव्य}	च{अव्य}	सम्बन्धः,15	तथा	अल्सो				
+14	महीक्षिताम्	11	महीक्षिताम्	महीक्षित्{पुं}{6;बहु}	महीक्षित्{पुं}{6;बहु}	उपपदसम्बन्धः,11	राजाओं_के_सामने	च्हिएङ्स्_ओङ्_ट्हे_तोर्ल्ड्				
+15	उवाच	21	उवाच	वच्1{कर्तरि;लिट्;उ;एक;परस्मैपदी;वचँ;अदादिः}/वच्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;वचँ;अदादिः}/ब्रू1{कर्तरि;लिट्;उ;एक;परस्मैपदी;ब्रूञ्;अदादिः}/ब्रू1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;ब्रूञ्;अदादिः}	वच्1{कर्तरि;लिट्;प्र;एक;परस्मैपदी;वचँ;अदादिः}	अभिहित_कर्ता,3;सकर्मकः	कहा	सइड्				
+16	पार्थ	15	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,17	हे_पार्थ	औ_फर्ट्ह_(सोन्_ओङ्_फ्र्ट्ह)				
+17	पश्य	19	पश्यैतान्समवेतान्कुरूनिति	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लोट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	वाक्यकर्म,15	देख	बेहोल्ड्				
+18	एतान्	16	0	एतद्{पुं}{2;बहु}	एतद्{पुं}{2;बहु}	विशेषणम्,20	इन	ट्हेसे				
+19	समवेतान्	17	0	समवेत{पुं}{2;बहु}	समवेत{पुं}{2;बहु}	विशेषणम्,20	जुटे_हुए	अस्सेम्ब्लेड्				
+20	कुरून्	18	0	कुरु{पुं}{2;बहु}	कुरु{पुं}{2;बहु}	कर्म,17	कौरवों_को	अल्ल्_ट्हे_मेम्बेर्स्_ओङ्_ट्हे_खुरु_ड्य्नस्ट्य्				
+21	इति	20	0	इति{अव्य}	इति{अव्य}	वाक्यकर्म_द्योतकः,17	इस_प्रकार	ट्हुस्				
+21.1	(त्वम्)	23	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,17	(तुम)	योउ				

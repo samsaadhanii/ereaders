@@ -1,0 +1,16 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	mahaw-qRINAm	2	maharRINAM	mahaw-qRi{puM}{6;bahu}	mahaw-qRi{puM}{6;bahu}	nirXAraNam,2	maharRiyoM_meM	among_the_great_sages	<mahaw-qRINAM>K1			
+2	BqguH	3	BqgurahaM	Bqgu{puM}{1;eka}	Bqgu{puM}{1;eka}	sup_samucciwaH,7	Bqgu	Bhrgu				
+3	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,5	mEM	I				
+4	girAm	4	girAmasmyekamakRaram	gir{swrI}{6;bahu}/girA{swrI}{2;eka}	gir{swrI}{6;bahu}	nirXAraNam,7	SabxoM_meM	of_vibrations				
+5	asmi	7	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,3;akarmakaH	hUz	am				
+6	ekam	5	0	eka{puM}{2;eka}/eka{napuM}{1;eka}/eka{napuM}{2;eka}	eka{napuM}{1;eka}	viSeRaNam,7	eka	one				
+7	a-kRaram	6	0	a-kRara{napuM}{1;eka}/kRara{napuM}{2;eka}	akRara{napuM}{1;eka}	viXeya_viSeRaNam,5	akRara_arWAw_oMkAra	syllable	<na-kRaram>Tn			
+7.1	(ca)		()	ca{avya}	ca{avya}	samuccaya_xyowakaH,7	Ora					
+8	yajFAnAm	10	yajFAnAM	yajFa{puM}{6;bahu}	yajFa{puM}{6;bahu}	nirXAraNam,9	saba_prakAra_ke_yajFoM_meM	of_sacrifices				
+9	japa-yajFaH	11	japayajFoZsmi	japa-yajFa{puM}{1;eka}	japa-yajFa{puM}{1;eka}	sup_samucciwaH,12	japayajFa	chanting	<japa-yajFaH>K6			
+10	asmi	14	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,12.2;akarmakaH	hUz	am				
+11	sWAvarANAm	12	sWAvarANAM	sWAvara{puM}{6;bahu}/sWAvara{napuM}{6;bahu}/sWAvarA{swrI}{6;bahu}	sWAvara{puM}{6;bahu}	nirXAraNam,12	sWira_rahanevAloM_meM	of_immovable_things				
+12	hima-AlayaH	13	himAlayaH	hima-Ali{puM}{1;bahu}/Ali{puM}{8;bahu}/Alaya{puM}{1;eka}	himAlaya{puM}{1;eka}	viXeya_viSeRaNam,10	himAlaya_pahAda़	the_Himalayan_mountains	<hima-AlayaH>T6			
+12.1	(ca)	9	()	ca{avya}	ca{avya}	samuccaya_xyowakaH,12	Ora					
+12.2	(aham)	8	()	asmax{1;eka}	asmax{1;eka}	karwA,10	mEM					

@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ayaneRu	2	ayaneRu	ayana{napuM}{7;bahu}	ayana{napuM}{7;bahu}	aXikaraNam,5	morcoM_para	on_all_fronts				
-2	ca	3	ca	ca{avya}	ca{avya}	sambanXaH,5	isaliye	also	karWA			
-3	sarveRu	1	sarveRu	sarva{puM}{7;bahu}/sarva{napuM}{7;bahu}	sarva{napuM}{7;bahu}	viSeRaNam,1	saba	everywhere				
-4	yaWA-BAgam	4	yaWABAgamavasWiwAH	yaWA-BAga{puM}{2;eka}/BAga{napuM}{1;eka}/BAga{napuM}{2;eka}	yaWA-BAga{puM}{2;eka}	kriyAviSeRaNam,5	apanI-apanI_jagaha	in_respective_positions	<yaWA-BAgam>A1			
-5	avasWiwAH	5	0	avasWiwa{puM}{1;bahu}/avasWiwA{swrI}{1;bahu}/avasWiwA{swrI}{2;bahu}	ava_sWA1{kqw_prawyayaH:kwa;ava_RTA;BvAxiH;puM}{1;bahu}	viSeRaNam,9	sWiwa_rahawe_hue	stationed				
-6	BIRmam	10	BIRmamevABirakRanwu	BIRma{puM}{2;eka}/BIRma{napuM}{1;eka}/BIRma{napuM}{2;eka}	BIRma{puM}{2;eka}	karma,8	BIRmapiwAmaha_kI	unto_Bhisma				
-7	eva	11	0	eva{avya}	eva{avya}	sambanXaH,6	hI	in_particular				
-8	aBirakRanwu	12	0	aBi_rakR1{karwari;lot;pra;bahu;parasmEpaxI;rakRaz;BvAxiH}	aBi_rakR1{karwari;lot;pra;bahu;parasmEpaxI;aBi_rakRaz;BvAxiH}	aBihiwa_karwA,9;sakarmakaH	saba_orase_rakRA_kareM	guard_on_all_sides				
-9	BavanwaH	6	BavanwaH	Bavaw{puM}{1;bahu}/Bavanwa{puM}{1;eka}	Bavaw{puM}{1;bahu}	karwA,8	Apaloga	all_of_you				
-10	sarve	7	sarva	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	viSeRaNam,9	saBI	respectively				
-11	eva	8	eva	eva{avya}	eva{avya}	sambanXaH,10	hI	certainly				
-12	hi	9	hi	hi{avya}	hi{avya}	sambanXaH,8	niHsanxeha	and_exactly				
+1	अयनेषु	2	अयनेषु	अयन{नपुं}{7;बहु}	अयन{नपुं}{7;बहु}	अधिकरणम्,5	मोर्चों_पर	ओन्_अल्ल्_ङ्रोन्ट्स्				
+2	च	3	च	च{अव्य}	च{अव्य}	सम्बन्धः,5	इसलिये	अल्सो	कर्था			
+3	सर्वेषु	1	सर्वेषु	सर्व{पुं}{7;बहु}/सर्व{नपुं}{7;बहु}	सर्व{नपुं}{7;बहु}	विशेषणम्,1	सब	एवेर्य्त्हेरे				
+4	यथा-भागम्	4	यथाभागमवस्थिताः	यथा-भाग{पुं}{2;एक}/भाग{नपुं}{1;एक}/भाग{नपुं}{2;एक}	यथा-भाग{पुं}{2;एक}	क्रियाविशेषणम्,5	अपनी-अपनी_जगह	इन्_रेस्पेच्टिवे_पोसिटिओन्स्	<यथा-भागम्>आ1			
+5	अवस्थिताः	5	0	अवस्थित{पुं}{1;बहु}/अवस्थिता{स्त्री}{1;बहु}/अवस्थिता{स्त्री}{2;बहु}	अव_स्था1{कृत्_प्रत्ययः:क्त;अव_ष्ठा;भ्वादिः;पुं}{1;बहु}	विशेषणम्,9	स्थित_रहते_हुए	स्टटिओनेड्				
+6	भीष्मम्	10	भीष्ममेवाभिरक्षन्तु	भीष्म{पुं}{2;एक}/भीष्म{नपुं}{1;एक}/भीष्म{नपुं}{2;एक}	भीष्म{पुं}{2;एक}	कर्म,8	भीष्मपितामह_की	उन्टो_भ्हिस्म				
+7	एव	11	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,6	ही	इन्_पर्टिचुलर्				
+8	अभिरक्षन्तु	12	0	अभि_रक्ष्1{कर्तरि;लोट्;प्र;बहु;परस्मैपदी;रक्षँ;भ्वादिः}	अभि_रक्ष्1{कर्तरि;लोट्;प्र;बहु;परस्मैपदी;अभि_रक्षँ;भ्वादिः}	अभिहित_कर्ता,9;सकर्मकः	सब_ओरसे_रक्षा_करें	गुअर्ड्_ओन्_अल्ल्_सिडेस्				
+9	भवन्तः	6	भवन्तः	भवत्{पुं}{1;बहु}/भवन्त{पुं}{1;एक}	भवत्{पुं}{1;बहु}	कर्ता,8	आपलोग	अल्ल्_ओङ्_योउ				
+10	सर्वे	7	सर्व	सर्व{पुं}{1;बहु}/सर्व{नपुं}{1;द्वि}/सर्व{नपुं}{2;द्वि}/सर्वा{स्त्री}{1;द्वि}/सर्वा{स्त्री}{2;द्वि}	सर्व{पुं}{1;बहु}	विशेषणम्,9	सभी	रेस्पेच्टिवेल्य्				
+11	एव	8	एव	एव{अव्य}	एव{अव्य}	सम्बन्धः,10	ही	चेर्टइन्ल्य्				
+12	हि	9	हि	हि{अव्य}	हि{अव्य}	सम्बन्धः,8	निःसन्देह	अन्ड्_एदच्ट्ल्य्				

@@ -1,12 +1,12 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wawra	8	wawrEkasWaM	wawra{avya}	wawra{avya}	viSeRaNam,9	usa	there				
-2	eka-sWam	10	0	ekasWa{puM}{2;eka}/ekasWa{napuM}{1;eka}/ekasWa{napuM}{2;eka}	eka-sWa{napuM}{2;eka}	karmasamAnAXikaraNam,7	eka_jagaha_sWiwa	one_place	<eka-sWaM>U			
-3	jagaw	6	jagawkqwsnaM	jagaw{puM}{1;eka}/jagaw{puM}{8;eka}/jagaw{napuM}{1;eka}/jagaw{napuM}{2;eka}/jagaw{napuM}{8;eka}	jagaw{napuM}{2;eka}	karma,7	jagaw_ko	universe				
-4	kqwsnam	5	0	kqwsna{napuM}{1;eka}/kqwsna{napuM}{2;eka}	kqwsna{napuM}{2;eka}	viSeRaNam,3	sampUrNa	completely				
-5	pra-viBakwam	4	praviBakwamanekaXA	praviBakwa{puM}{2;eka}/praviBakwa{napuM}{1;eka}/praviBakwa{napuM}{2;eka}	pra_vi_Baj1{kqw_prawyayaH:kwa;pra_vi_Bajaz;BvAxiH;napuM}{2;eka}	viSeRaNam,3	viBakwa_arWAw_pqWak-pqWak	divided_in	<pra-viBakwam>Tp			
-6	an-ekaXA	3	0	anekaXA	anekaXA{avya}	kriyAviSeRaNam,5	aneka_prakAra_se	many_kinds	<na-ekaXA>Tn			
-7	apaSyaw	11	apaSyaxxevaxevasya	xqS1{karwari;laf;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;laf;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,10;sakarmakaH	xeKA	could_see				
-8	xeva-xevasya	7	0	xeva-xeva{puM}{6;eka}	xeva-xeva{puM}{6;eka}	RaRTIsambanXaH,9	xevoM_ke_xeva_SrIkqRNaBagavAn_ke	of_the_Supreme_Personality_of_Godhead	<xeva-xevasya>T6			
-9	SarIre	9	SarIre	SarIra{napuM}{1;xvi}/SarIra{napuM}{2;xvi}/SarIra{napuM}{7;eka}/SarIra{napuM}{8;xvi}	SarIra{napuM}{7;eka}	aXikaraNam,7	SarIra_meM	in_the_universal_form				
-10	pANdavaH	1	pANdavaswaxA	pANdu{puM}{1;bahu}/pANdu{puM}{8;bahu}/pANdu{swrI}{1;bahu}/pANdu{swrI}{8;bahu}/pANdava{puM}{1;eka}	pANdava{puM}{1;eka}	karwA,7	pANdupuwra_arjuna_ne	Arjuna				
-11	waxA	2	0	waxA{avya}	waxA{avya}	aXikaraNam,7	usa_samaya	at_that_time				
+1	तत्र	8	तत्रैकस्थं	तत्र{अव्य}	तत्र{अव्य}	विशेषणम्,9	उस	ट्हेरे				
+2	एक-स्थम्	10	0	एकस्थ{पुं}{2;एक}/एकस्थ{नपुं}{1;एक}/एकस्थ{नपुं}{2;एक}	एक-स्थ{नपुं}{2;एक}	कर्मसमानाधिकरणम्,7	एक_जगह_स्थित	ओने_प्लचे	<एक-स्थं>ऊ			
+3	जगत्	6	जगत्कृत्स्नं	जगत्{पुं}{1;एक}/जगत्{पुं}{8;एक}/जगत्{नपुं}{1;एक}/जगत्{नपुं}{2;एक}/जगत्{नपुं}{8;एक}	जगत्{नपुं}{2;एक}	कर्म,7	जगत्_को	उनिवेर्से				
+4	कृत्स्नम्	5	0	कृत्स्न{नपुं}{1;एक}/कृत्स्न{नपुं}{2;एक}	कृत्स्न{नपुं}{2;एक}	विशेषणम्,3	सम्पूर्ण	चोम्प्लेटेल्य्				
+5	प्र-विभक्तम्	4	प्रविभक्तमनेकधा	प्रविभक्त{पुं}{2;एक}/प्रविभक्त{नपुं}{1;एक}/प्रविभक्त{नपुं}{2;एक}	प्र_वि_भज्1{कृत्_प्रत्ययः:क्त;प्र_वि_भजँ;भ्वादिः;नपुं}{2;एक}	विशेषणम्,3	विभक्त_अर्थात्_पृथक्-पृथक्	डिविडेड्_इन्	<प्र-विभक्तम्>ठ्प्			
+6	अन्-एकधा	3	0	अनेकधा	अनेकधा{अव्य}	क्रियाविशेषणम्,5	अनेक_प्रकार_से	मन्य्_किन्ड्स्	<न-एकधा>ठ्न्			
+7	अपश्यत्	11	अपश्यद्देवदेवस्य	दृश्1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लङ्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहितकर्ता,10;सकर्मकः	देखा	चोउल्ड्_सेए				
+8	देव-देवस्य	7	0	देव-देव{पुं}{6;एक}	देव-देव{पुं}{6;एक}	षष्ठीसम्बन्धः,9	देवों_के_देव_श्रीकृष्णभगवान्_के	ओङ्_ट्हे_शुप्रेमे_फेर्सोनलिट्य्_ओङ्_घोड्हेअड्	<देव-देवस्य>ठ्6			
+9	शरीरे	9	शरीरे	शरीर{नपुं}{1;द्वि}/शरीर{नपुं}{2;द्वि}/शरीर{नपुं}{7;एक}/शरीर{नपुं}{8;द्वि}	शरीर{नपुं}{7;एक}	अधिकरणम्,7	शरीर_में	इन्_ट्हे_उनिवेर्सल्_ङोर्म्				
+10	पाण्डवः	1	पाण्डवस्तदा	पाण्डु{पुं}{1;बहु}/पाण्डु{पुं}{8;बहु}/पाण्डु{स्त्री}{1;बहु}/पाण्डु{स्त्री}{8;बहु}/पाण्डव{पुं}{1;एक}	पाण्डव{पुं}{1;एक}	कर्ता,7	पाण्डुपुत्र_अर्जुन_ने	आर्जुन				
+11	तदा	2	0	तदा{अव्य}	तदा{अव्य}	अधिकरणम्,7	उस_समय	अट्_ट्हट्_टिमे				

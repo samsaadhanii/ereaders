@@ -1,21 +1,21 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	a-SraxXayA	2	aSraxXayA	a-SraxXA{swrI}{3;eka}	na-SraxXA{swrI}{3;eka}	kriyAviSeRaNam,6	binA_SraxXA_ke_kiyA_huA	without_faith	<na-SraxXayA>Tn			
-2	huwam	3	huwaM	huwa{puM}{2;eka}/huwa{napuM}{1;eka}/huwa{napuM}{2;eka}	hu1{kqw_prawyayaH:kwa;hu;juhowyAxiH;napuM}{1;eka}	samucciwaH,6	havana	offered_in_sacrifice				
-3	xawwam	4	xawwaM	xawwa{puM}{2;eka}/xawwa{napuM}{1;eka}/xawwa{napuM}{2;eka}/xA3{karwari;lot;ma;xvi;parasmEpaxI;duxAF;juhowyAxiH}	xA3{kqw_prawyayaH:kwa;duxAF;juhowyAxiH;napuM}{1;eka}	samucciwaH,6	xiyA_huA_xAna	given				
-4	wapaH	6	wapaswapwaM	wapa{puM}{1;eka}/wapas{napuM}{1;eka}/wapas{napuM}{2;eka}	wapas{napuM}{1;eka}	karma,5	wapa	penance				
-5	wapwam	5	0	wapwa{puM}{2;eka}/wapwa{napuM}{1;eka}/wapwa{napuM}{2;eka}	wap1{kqw_prawyayaH:kwa;wapaz;BvAxiH;napuM}{1;eka}	samucciwaH,6	wapA_huA	executed				
-6	kqwam	10	kqwaM	kqw{puM}{2;eka}/kqwa{puM}{2;eka}/kqwa{napuM}{1;eka}/kqwa{napuM}{2;eka}	kq3{kqw_prawyayaH:kwa;dukqF;wanAxiH;napuM}{1;eka}	karma,11	kiyA_huA	performed				
-7	ca	7	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	also				
-8	yaw	9	yaw	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	karma,6;niwya_sambanXaH,11.1	jo	that				
-9	a-saw	12	asaxiwyucyawe	a-saw{puM}{1;eka}/saw{swrI}{1;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}	asaw{napuM}{1;eka}	karmasamAnAXikaraNam,11	'asaw'	FALSE	<na-saw>Tn			
-10	iwi	13	0	iwi{avya}	iwi{avya}	karmasamAnAXikaraNa_xyowakaH,9	isa_prakAra	thus				
-11	ucyawe	14	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwakarma,11.1	kahA_jAwA_hE	is_said_to_be				
-11.1	(waw)	11	(0)	(wax{napuM}{1;eka}/wax{napuM}{2;eka})	(wax{napuM}{1;eka})	karma,11	(vaha_samaswa)	that				
-12	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,11	he_arjuna	O_son_of_Prtha				
-13	na	20	na	na{avya}	na{avya}	prawiReXaH,16	na	never				
-14	ca	19	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,18	Ora	also				
-15	waw	15	wawprewya	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,18.1	vaha	that				
-16	prewya	21	0	pra_i1{kqw_prawyayaH:lyap;pra_iN;axAxiH}	pra_i1{kqw_prawyayaH:lyap;pra_iN;axAxiH}	sup_samucciwaH,18	marane_ke_bAxa	after_death				
-17	*no	16	no	no{avya}	no{avya}	prawiReXaH,18.1	na	nor				
-18	iha	17	iha	iha{avya}	iha{avya}	aXikaraNam,18.1	yahAz	in_this_life				
-18.1	(aswi)	22	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,15;akarmakaH	(hE)	is				
+1	अ-श्रद्धया	2	अश्रद्धया	अ-श्रद्धा{स्त्री}{3;एक}	न-श्रद्धा{स्त्री}{3;एक}	क्रियाविशेषणम्,6	बिना_श्रद्धा_के_किया_हुआ	तिट्होउट्_ङइट्ह्	<न-श्रद्धया>ठ्न्			
+2	हुतम्	3	हुतं	हुत{पुं}{2;एक}/हुत{नपुं}{1;एक}/हुत{नपुं}{2;एक}	हु1{कृत्_प्रत्ययः:क्त;हु;जुहोत्यादिः;नपुं}{1;एक}	समुच्चितः,6	हवन	ओङ्ङेरेड्_इन्_सच्रिङिचे				
+3	दत्तम्	4	दत्तं	दत्त{पुं}{2;एक}/दत्त{नपुं}{1;एक}/दत्त{नपुं}{2;एक}/दा3{कर्तरि;लोट्;म;द्वि;परस्मैपदी;डुदाञ्;जुहोत्यादिः}	दा3{कृत्_प्रत्ययः:क्त;डुदाञ्;जुहोत्यादिः;नपुं}{1;एक}	समुच्चितः,6	दिया_हुआ_दान	गिवेन्				
+4	तपः	6	तपस्तप्तं	तप{पुं}{1;एक}/तपस्{नपुं}{1;एक}/तपस्{नपुं}{2;एक}	तपस्{नपुं}{1;एक}	कर्म,5	तप	पेनन्चे				
+5	तप्तम्	5	0	तप्त{पुं}{2;एक}/तप्त{नपुं}{1;एक}/तप्त{नपुं}{2;एक}	तप्1{कृत्_प्रत्ययः:क्त;तपँ;भ्वादिः;नपुं}{1;एक}	समुच्चितः,6	तपा_हुआ	एदेचुटेड्				
+6	कृतम्	10	कृतं	कृत्{पुं}{2;एक}/कृत{पुं}{2;एक}/कृत{नपुं}{1;एक}/कृत{नपुं}{2;एक}	कृ3{कृत्_प्रत्ययः:क्त;डुकृञ्;तनादिः;नपुं}{1;एक}	कर्म,11	किया_हुआ	पेर्ङोर्मेड्				
+7	च	7	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	और	अल्सो				
+8	यत्	9	यत्	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	कर्म,6;नित्य_सम्बन्धः,11.1	जो	ट्हट्				
+9	अ-सत्	12	असदित्युच्यते	अ-सत्{पुं}{1;एक}/सत्{स्त्री}{1;एक}/सत्{नपुं}{1;एक}/सत्{नपुं}{2;एक}	असत्{नपुं}{1;एक}	कर्मसमानाधिकरणम्,11	'असत्'	ञाऌशै	<न-सत्>ठ्न्			
+10	इति	13	0	इति{अव्य}	इति{अव्य}	कर्मसमानाधिकरण_द्योतकः,9	इस_प्रकार	ट्हुस्				
+11	उच्यते	14	0	उच्यत्{पुं}{4;एक}/उच्यत्{नपुं}{4;एक}/उच्1{भावे;लट्;प्र;एक;आत्मनेपदी;उचँ;दिवादिः}/वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}/ब्रू1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	वच्1{कर्मणि;लट्;प्र;एक;आत्मनेपदी;वचँ;अदादिः}	अभिहितकर्म,11.1	कहा_जाता_है	इस्_सइड्_टो_बे				
+11.1	(तत्)	11	(0)	(तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक})	(तद्{नपुं}{1;एक})	कर्म,11	(वह_समस्त)	ट्हट्				
+12	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,11	हे_अर्जुन	औ_सोन्_ओङ्_फ्र्ट्ह				
+13	न	20	न	न{अव्य}	न{अव्य}	प्रतिषेधः,16	न	नेवेर्				
+14	च	19	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,18	और	अल्सो				
+15	तत्	15	तत्प्रेत्य	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्ता,18.1	वह	ट्हट्				
+16	प्रेत्य	21	0	प्र_इ1{कृत्_प्रत्ययः:ल्यप्;प्र_इण्;अदादिः}	प्र_इ1{कृत्_प्रत्ययः:ल्यप्;प्र_इण्;अदादिः}	सुप्_समुच्चितः,18	मरने_के_बाद	अङ्टेर्_डेअट्ह्				
+17	*नो	16	नो	नो{अव्य}	नो{अव्य}	प्रतिषेधः,18.1	न	नोर्				
+18	इह	17	इह	इह{अव्य}	इह{अव्य}	अधिकरणम्,18.1	यहाँ	इन्_ट्हिस्_लिङे				
+18.1	(अस्ति)	22	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,15;अकर्मकः	(है)	इस्				

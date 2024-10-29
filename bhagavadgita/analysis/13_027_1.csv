@@ -1,13 +1,13 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	samam	8	samaM	samam{avya}/sama{puM}{2;eka}/sama{napuM}{1;eka}/sama{napuM}{2;eka}/sama{puM}{2;eka}	samam{avya}	kriyAviSeRaNam,4	samaBAva_se	equally				
-2	sarveRu	3	sarveRu	sarva{puM}{7;bahu}/sarva{napuM}{7;bahu}	sarva{puM}{7;bahu}	viSeRaNam,3	saba	in_all				
-3	BUweRu	4	BUweRu	BUwa{puM}{7;bahu}/BUwa{napuM}{7;bahu}	BUwa{puM}{7;bahu}	aXikaraNam,9	carAcara_BUwoM_meM	living_entities				
-4	wiRTanwam	9	wiRTanwaM	wiRTaw{puM}{2;eka}	sWA1{kqw_prawyayaH:Sawq;RTA;BvAxiH;puM}{2;eka}	viSeRaNam,5	sWiwa	residing				
-5	parama-ISvaram	5	parameSvaram	parama-ISvara{puM}{2;eka}	parameSvara{puM}{2;eka}	karma,9	parameSvara_ko	the_Supersoul	<parama-ISvaram>K1			
-6	vinaSyawsu	2	vinaSyawsvavinaSyanwaM	vinaSyawsu	vi_naS1{kqw_prawyayaH:Sawq;vi_NaSaz;xivAxiH;puM}{7;bahu}	sup_samucciwaH,7	naRta_howe_hue	in_the_destructible				
-7	a-vinaSyanwam	6	0	a-vinaSyanwam	na-vi_naS1{kqw_prawyayaH:Sawq;vi_NaSaz;xivAxiH;puM}{2;eka}	BAvalakRaNasapwamI_pUrvakAlaH,9	nASarahiwa	not_destroyed	<na-vinaSyanwaM>Tn			
-7.1	(ca)	7	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,7	(Ora)	and				
-8	yaH	1	yaH	yax{puM}{1;eka}	yax{puM}{1;eka}	karwA,9;niwya_sambanXaH,10	jo_(puruRa)	anyone				
-9	paSyawi	10	paSyawi	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,8;sakarmakaH	xeKawA_hE	sees				
-10	saH	11	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,11	vaha	he				
-11	paSyawi	12	paSyawi	paSyaw{puM}{7;eka}/paSyaw{napuM}{7;eka}/xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lat;pra;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,10;sakarmakaH	xeKawA_hE	actually_sees				
+1	समम्	8	समं	समम्{अव्य}/सम{पुं}{2;एक}/सम{नपुं}{1;एक}/सम{नपुं}{2;एक}/सम{पुं}{2;एक}	समम्{अव्य}	क्रियाविशेषणम्,4	समभाव_से	एऋउअल्ल्य्				
+2	सर्वेषु	3	सर्वेषु	सर्व{पुं}{7;बहु}/सर्व{नपुं}{7;बहु}	सर्व{पुं}{7;बहु}	विशेषणम्,3	सब	इन्_अल्ल्				
+3	भूतेषु	4	भूतेषु	भूत{पुं}{7;बहु}/भूत{नपुं}{7;बहु}	भूत{पुं}{7;बहु}	अधिकरणम्,9	चराचर_भूतों_में	लिविन्ग्_एन्टिटिएस्				
+4	तिष्ठन्तम्	9	तिष्ठन्तं	तिष्ठत्{पुं}{2;एक}	स्था1{कृत्_प्रत्ययः:शतृ;ष्ठा;भ्वादिः;पुं}{2;एक}	विशेषणम्,5	स्थित	रेसिडिन्ग्				
+5	परम-ईश्वरम्	5	परमेश्वरम्	परम-ईश्वर{पुं}{2;एक}	परमेश्वर{पुं}{2;एक}	कर्म,9	परमेश्वर_को	ट्हे_शुपेर्सोउल्	<परम-ईश्वरम्>ख्1			
+6	विनश्यत्सु	2	विनश्यत्स्वविनश्यन्तं	विनश्यत्सु	वि_नश्1{कृत्_प्रत्ययः:शतृ;वि_णशँ;दिवादिः;पुं}{7;बहु}	सुप्_समुच्चितः,7	नष्ट_होते_हुए	इन्_ट्हे_डेस्ट्रुच्टिब्ले				
+7	अ-विनश्यन्तम्	6	0	अ-विनश्यन्तम्	न-वि_नश्1{कृत्_प्रत्ययः:शतृ;वि_णशँ;दिवादिः;पुं}{2;एक}	भावलक्षणसप्तमी_पूर्वकालः,9	नाशरहित	नोट्_डेस्ट्रोयेड्	<न-विनश्यन्तं>ठ्न्			
+7.1	(च)	7	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,7	(और)	अन्ड्				
+8	यः	1	यः	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	कर्ता,9;नित्य_सम्बन्धः,10	जो_(पुरुष)	अन्योने				
+9	पश्यति	10	पश्यति	पश्यत्{पुं}{7;एक}/पश्यत्{नपुं}{7;एक}/दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहितकर्ता,8;सकर्मकः	देखता_है	सेएस्				
+10	सः	11	स	तद्{पुं}{1;एक}	तद्{पुं}{1;एक}	कर्ता,11	वह	हे				
+11	पश्यति	12	पश्यति	पश्यत्{पुं}{7;एक}/पश्यत्{नपुं}{7;एक}/दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लट्;प्र;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहितकर्ता,10;सकर्मकः	देखता_है	अच्टुअल्ल्य्_सेएस्				

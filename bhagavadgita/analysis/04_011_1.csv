@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	ye	2	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,4	jo_(Bakwa)	all_of_them				
-2	yaWA	4	yaWA	yaWA{avya}	yaWA{avya}	kriyAviSeRaNam,4;niwya_sambanXaH,6	jisa_prakAra	as				
-3	mAm	3	mAM	asmax{2;eka}	asmax{2;eka}	karma,4	muJe	unto_Me				
-4	prapaxyanwe	5	prapaxyanwe	pra_pax1{karwari;lat;pra;bahu;AwmanepaxI;paxaz;xivAxiH}/pra_pax1{karmaNi;lat;pra;bahu;AwmanepaxI;paxaz;xivAxiH}	pra_pax1{karwari;lat;pra;bahu;AwmanepaxI;pra_paxaz;xivAxiH}	aBihiwakarwA,3;sakarmakaH	Bajawe_hEM	surrender				
-5	wAn	7	wAMswaWEva	wax{puM}{2;bahu}	wax{puM}{2;bahu}	karma,8	unako	unto_them				
-6	waWA	8		waWA{avya}	waWA{avya}	kriyAviSeRaNam,8	vEse	so				
-7	eva	9		eva{avya}	eva{avya}	sambanXaH,6	hI	certainly				
-8	BajAmi	10	BajAmyaham	Baj1{karwari;lat;u;eka;parasmEpaxI;Bajaz;BvAxiH}	Baj1{karwari;lat;u;eka;parasmEpaxI;Bajaz;BvAxiH}	aBihiwakarwA,5;sakarmakaH	BajawA_hUz	do_reward				
-9	aham	6		asmax{1;eka}	asmax{1;eka}	karwA,8	mEM	I				
-10	mama	13	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,11	mere	my				
-11	varwma	14	varwmAnuvarwanwe	varwman{napuM}{1;eka}/varwman{napuM}{2;eka}/varwman{napuM}{8;eka}	varwman{napuM}{2;eka}	karma,12	mArga_kA	path				
-12	anuvarwanwe	15		anu_vqw1{karwari;lat;pra;bahu;AwmanepaxI;vqwuz;BvAxiH}	anu_vqw1{karwari;lat;pra;bahu;AwmanepaxI;anu_vqwuz;BvAxiH}	aBihiwakarwA,13;sakarmakaH	anusaraNa_karawe_hEM	do_follow				
-13	manuRyAH	11	manuRyAH	manuRya{puM}{1;bahu}/manuRya{puM}{8;bahu}	manuRya{puM}{1;bahu}	karwA,12	saBI_manuRya	all_men				
-14	pArWa	1	pArWa	pArWa{puM}{8;eka}	pArWa{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_of_Prtha				
-15	sarvaSaH	12	sarvaSaH	sarvaSaH{avya}	sarvaSaH{avya}	kriyAviSeRaNam,12	saba_prakAra_se	in_all_respects				
+1	ये	2	ये	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	कर्ता,4	जो_(भक्त)	अल्ल्_ओङ्_ट्हेम्				
+2	यथा	4	यथा	यथा{अव्य}	यथा{अव्य}	क्रियाविशेषणम्,4;नित्य_सम्बन्धः,6	जिस_प्रकार	अस्				
+3	माम्	3	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,4	मुझे	उन्टो_ंए				
+4	प्रपद्यन्ते	5	प्रपद्यन्ते	प्र_पद्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;पदँ;दिवादिः}/प्र_पद्1{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;पदँ;दिवादिः}	प्र_पद्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;प्र_पदँ;दिवादिः}	अभिहितकर्ता,3;सकर्मकः	भजते_हैं	सुर्रेन्डेर्				
+5	तान्	7	तांस्तथैव	तद्{पुं}{2;बहु}	तद्{पुं}{2;बहु}	कर्म,8	उनको	उन्टो_ट्हेम्				
+6	तथा	8		तथा{अव्य}	तथा{अव्य}	क्रियाविशेषणम्,8	वैसे	सो				
+7	एव	9		एव{अव्य}	एव{अव्य}	सम्बन्धः,6	ही	चेर्टइन्ल्य्				
+8	भजामि	10	भजाम्यहम्	भज्1{कर्तरि;लट्;उ;एक;परस्मैपदी;भजँ;भ्वादिः}	भज्1{कर्तरि;लट्;उ;एक;परस्मैपदी;भजँ;भ्वादिः}	अभिहितकर्ता,5;सकर्मकः	भजता_हूँ	डो_रेतर्ड्				
+9	अहम्	6		अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,8	मैं	ई				
+10	मम	13	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,11	मेरे	म्य्				
+11	वर्त्म	14	वर्त्मानुवर्तन्ते	वर्त्मन्{नपुं}{1;एक}/वर्त्मन्{नपुं}{2;एक}/वर्त्मन्{नपुं}{8;एक}	वर्त्मन्{नपुं}{2;एक}	कर्म,12	मार्ग_का	पट्ह्				
+12	अनुवर्तन्ते	15		अनु_वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;वृतुँ;भ्वादिः}	अनु_वृत्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;अनु_वृतुँ;भ्वादिः}	अभिहितकर्ता,13;सकर्मकः	अनुसरण_करते_हैं	डो_ङोल्लोत्				
+13	मनुष्याः	11	मनुष्याः	मनुष्य{पुं}{1;बहु}/मनुष्य{पुं}{8;बहु}	मनुष्य{पुं}{1;बहु}	कर्ता,12	सभी_मनुष्य	अल्ल्_मेन्				
+14	पार्थ	1	पार्थ	पार्थ{पुं}{8;एक}	पार्थ{पुं}{8;एक}	सम्बोध्यः,4	हे_अर्जुन	औ_सोन्_ओङ्_फ्र्ट्ह				
+15	सर्वशः	12	सर्वशः	सर्वशः{अव्य}	सर्वशः{अव्य}	क्रियाविशेषणम्,12	सब_प्रकार_से	इन्_अल्ल्_रेस्पेच्ट्स्				

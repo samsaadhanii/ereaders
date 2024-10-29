@@ -1,9 +1,9 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yoga-sannyaswa-karmANam	3	yogasannyaswakarmANaM	yoga-sannyaswa-karman{puM}{2;eka}	yoga-sannyaswa-karman{puM}{2;eka}	viSeRaNam,7.1	jisane_karmayoga_kI_viXi_se_samaswa_karmoM_kA_paramAwmA_meM_arpaNa_kara_xiyA_hE	renounced_all_the_karmas_through_karma-yoga	<<yoga-sannyaswa>T3-karmANam>Bs3			
-2	jFAna-saFCinna-saMSayam	4	jFAnasaFCinnasaMSayam	jFAna-saFCinna-saMSaya{puM}{2;eka}	jFAna-saFCinna-saMSaya{puM}{2;eka}	viSeRaNam,7.1	jisane_viveka_xvArA_samaswa_saMSayoM_kA_nASa_kara_xiyA_hE	cut_doubts_by_the_advancement_of_knowledge	<<jFAna-saFCinna>T3-saMSayam>Bs6			
-3	Awmavanwam	5	AwmavanwaM	Awmavaw{puM}{2;eka}	Awmavaw{puM}{2;eka}	viSeRaNam,7.1	vaSa_meM_kiye_hue_anwaHkaraNavAle	situated_in_the_self				
-4	na	7	na	na{avya}	na{avya}	prawiReXaH,6	nahIM	never				
-5	karmANi	2	karmANi	karman{napuM}{1;bahu}/karman{napuM}{2;bahu}/karman{napuM}{8;bahu}	karman{napuM}{1;bahu}	karwA,6	karma	work				
-6	nibaXnanwi	8	nibaXnanwi	ni_banX1{karwari;lat;pra;bahu;parasmEpaxI;banXaz;kryAxiH}	ni_banX1{karwari;lat;pra;bahu;parasmEpaxI;ni_banXaz;kryAxiH}	aBihiwakarwA,5;sakarmakaH	bAzXawe	do_bind_up				
-7	XanaFjaya	1	XanaFjaya	XanaFjaya{puM}{8;eka}	XanaFjaya{puM}{8;eka}	samboXyaH,6	he_XanaMjaya	O_conqueror_of_riches				
-7.1	(puruRam)	6	()	(puruRa{puM}{2;eka})	(puruRa{puM}{2;eka})	karma,6	(puruRa_ko)	person				
+1	योग-सन्न्यस्त-कर्माणम्	3	योगसन्न्यस्तकर्माणं	योग-सन्न्यस्त-कर्मन्{पुं}{2;एक}	योग-सन्न्यस्त-कर्मन्{पुं}{2;एक}	विशेषणम्,7.1	जिसने_कर्मयोग_की_विधि_से_समस्त_कर्मों_का_परमात्मा_में_अर्पण_कर_दिया_है	रेनोउन्चेड्_अल्ल्_ट्हे_कर्मस्_ट्ह्रोउग्ह्_कर्म-योग	<<योग-सन्न्यस्त>ठ्3-कर्माणम्>भ्स्3			
+2	ज्ञान-सञ्छिन्न-संशयम्	4	ज्ञानसञ्छिन्नसंशयम्	ज्ञान-सञ्छिन्न-संशय{पुं}{2;एक}	ज्ञान-सञ्छिन्न-संशय{पुं}{2;एक}	विशेषणम्,7.1	जिसने_विवेक_द्वारा_समस्त_संशयों_का_नाश_कर_दिया_है	चुट्_डोउब्ट्स्_ब्य्_ट्हे_अड्वन्चेमेन्ट्_ओङ्_क्नोत्लेड्गे	<<ज्ञान-सञ्छिन्न>ठ्3-संशयम्>भ्स्6			
+3	आत्मवन्तम्	5	आत्मवन्तं	आत्मवत्{पुं}{2;एक}	आत्मवत्{पुं}{2;एक}	विशेषणम्,7.1	वश_में_किये_हुए_अन्तःकरणवाले	सिटुअटेड्_इन्_ट्हे_सेल्ङ्				
+4	न	7	न	न{अव्य}	न{अव्य}	प्रतिषेधः,6	नहीं	नेवेर्				
+5	कर्माणि	2	कर्माणि	कर्मन्{नपुं}{1;बहु}/कर्मन्{नपुं}{2;बहु}/कर्मन्{नपुं}{8;बहु}	कर्मन्{नपुं}{1;बहु}	कर्ता,6	कर्म	तोर्क्				
+6	निबध्नन्ति	8	निबध्नन्ति	नि_बन्ध्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;बन्धँ;क्र्यादिः}	नि_बन्ध्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;नि_बन्धँ;क्र्यादिः}	अभिहितकर्ता,5;सकर्मकः	बाँधते	डो_बिन्ड्_उप्				
+7	धनञ्जय	1	धनञ्जय	धनञ्जय{पुं}{8;एक}	धनञ्जय{पुं}{8;एक}	सम्बोध्यः,6	हे_धनंजय	औ_चोनृउएरोर्_ओङ्_रिच्हेस्				
+7.1	(पुरुषम्)	6	()	(पुरुष{पुं}{2;एक})	(पुरुष{पुं}{2;एक})	कर्म,6	(पुरुष_को)	पेर्सोन्				

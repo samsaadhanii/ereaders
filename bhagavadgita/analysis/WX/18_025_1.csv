@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	anu-banXam	3	anubanXaM	anubanXa{puM}{2;eka}	anubanXa{puM}{2;eka}	sup_samucciwaH,6	pariNAma	future_bondage	<anu-banXaM>A1			
+2	kRayam	4	kRayaM	kRaya{puM}{2;eka}/kRaya{napuM}{1;eka}/kRaya{napuM}{2;eka}	kRaya{puM}{2;eka}	sup_samucciwaH,6	hAni	destruction				
+3	hiMsAm	5	hiMsAmanavekRya	hiMsA{swrI}{2;eka}	hiMsA{swrI}{2;eka}	sup_samucciwaH,6	hiMsA	violence				
+4	an-avekRya	8	0	an-{avya}-avekRya{napuM}/avekRya{puM}/avekRyA{swrI}/avekRyA{swrI}	na-ava_IkR1{kqw_prawyayaH:lyap;ava_IkRaz;BvAxiH}	pUrvakAlaH,8	na_vicArakara	without_consideration_of_consequences	<an-avekRya>Tn			
+5	ca	6	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	also				
+6	pOruRam	7	pOruRam	pOruRa{puM}{2;eka}/pOruRa{napuM}{1;eka}/pOruRa{napuM}{2;eka}	pOruRa{napuM}{2;eka}	karma,4	sAmarWya_ko	distressing_to_others				
+7	mohAw	9	mohAxAraByawe	moha{puM}{5;eka}	moha{puM}{5;eka}	hewuH,8	kevala_ajFAna_se	by_illusion				
+8	AraByawe	10	0	AraByawe	Af_raB1{karmaNi;lat;pra;eka;AwmanepaxI;Af_raBaz;BvAxiH}	aBihiwa_karma,9	AramBa_kiyA_jAwA_hE	begun				
+9	karma	2	karma	karman{napuM}{1;eka}/karman{napuM}{2;eka}	karman{napuM}{1;eka}	karma,8	karma	work				
+10	yaw	1	yawwawwAmasamucyawe	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,9;niwya_sambanXaH,11	jo	which				
+11	waw	11	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{2;eka}	karma,13	vaha_karma	that				
+12	wAmasam	12	0	wAmasa{puM}{2;eka}/wAmasa{napuM}{1;eka}/wAmasa{napuM}{2;eka}	wAmasa{napuM}{2;eka}	karmasamAnAXikaraNam,13	wAmasa	in_the_mode_of_ignorance				
+13	ucyawe	13	0	ucyaw{puM}{4;eka}/ucyaw{napuM}{4;eka}/uc1{BAve;lat;pra;eka;AwmanepaxI;ucaz;xivAxiH}/vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}/brU1{karmaNi;lat;pra;eka;AwmanepaxI;brUF;axAxiH}	vac1{karmaNi;lat;pra;eka;AwmanepaxI;vacaz;axAxiH}	aBihiwa_karma,11	kahA_jAwA_hE	is_said_to_be				

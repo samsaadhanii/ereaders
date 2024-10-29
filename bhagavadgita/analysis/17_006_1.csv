@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	karSayanwaH	7	karSayanwaH	karSayanwaH	kqR1_Nic{kqw_prawyayaH:Sawq;kqRaz_Nic;BvAxiH;puM}{1;bahu}	varwamAnasamAnakAlaH,8.1	kqSa_karanevAle_hE	tormenting				
-2	SarIra-sWam	1	SarIrasWaM	SarIra-sWa{puM}{2;eka}/sWa{napuM}{1;eka}/sWa{napuM}{2;eka}	SarIra-sWa{puM}{2;eka}	viSeRaNam,3	SarIrarUpa_se_sWiwa	situated_within_the_body	<SarIra-sWaM>U			
-3	BUwa-grAmam	2	BUwa-grAmamacewasaH	BUwa-grAma{puM}{2;eka}	BUwa-grAma{puM}{2;eka}	sup_samucciwaH,5	BUwa-samuxAya_ko	combination_of_material_elements	<BUwa-grAmam>T6			
-4	a-cewasaH	9	0	a-cewas{napuM}{5;eka}/cewas{napuM}{6;eka}	na-cewas{puM}{1;bahu}	karwA,8.1	ajFAniyoM_ko	by_such_a_misled_mentality	<na-cewasaH>Bsmn			
-5	mAm	5	mAM	asmax{2;eka}	asmax{2;eka}	karma,1	muJa_paramAwmA_ko	to_Me				
-6	ca	3	cEvAnwaHSarIrasWaM	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	also				
-7	eva	6	0	eva{avya}	eva{avya}	sambanXaH,5	BI	certainly				
-8	anwaH-SarIra-sWam	4	0	anwaH-SarIra-sWa{puM}{2;eka}/sWa{napuM}{1;eka}/sWa{napuM}{2;eka}	anwaH-SarIra-sWa{puM}{2;eka}	viSeRaNam,5	anwaHkaraNa_meM_sWiwa	situated_within_the_body	<anwaH-<SarIra-sWaM>U>K1			
-8.1	(sanwi)	12	(0)	as1{karwari;lat;pra;bahu;parasmEpaxI;as;axAxiH}	as1{karwari;lat;pra;bahu;parasmEpaxI;as;axAxiH}	aBihiwakarwA,4;akarmakaH	jAna	understand				
-9	wAn	8	wAnvixXyAsuraniScayAn	wax{puM}{2;bahu}	wax{puM}{2;bahu}	karma,11;niwya_sambanXaH,4	una	them				
-10	vixXi	12	0	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	aBihiwakarwA,11.1;sakarmakaH	jAna	understand				
-11	Asura-niScayAn	10	0	Asura-niScaya{puM}{2;bahu}	Asura-niScaya{puM}{2;bahu}	karmasamAnAXikaraNam,10	Asura-svaBAvavAle	certainly_demons	<asura-niScayAn>Bs6			
-11.1	(wvam)	11	(0)	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,10	(wU)	you				
+1	कर्शयन्तः	7	कर्शयन्तः	कर्शयन्तः	कृष्1_णिच्{कृत्_प्रत्ययः:शतृ;कृषँ_णिच्;भ्वादिः;पुं}{1;बहु}	वर्तमानसमानकालः,8.1	कृश_करनेवाले_है	टोर्मेन्टिन्ग्				
+2	शरीर-स्थम्	1	शरीरस्थं	शरीर-स्थ{पुं}{2;एक}/स्थ{नपुं}{1;एक}/स्थ{नपुं}{2;एक}	शरीर-स्थ{पुं}{2;एक}	विशेषणम्,3	शरीररूप_से_स्थित	सिटुअटेड्_तिट्हिन्_ट्हे_बोड्य्	<शरीर-स्थं>ऊ			
+3	भूत-ग्रामम्	2	भूत-ग्राममचेतसः	भूत-ग्राम{पुं}{2;एक}	भूत-ग्राम{पुं}{2;एक}	सुप्_समुच्चितः,5	भूत-समुदाय_को	चोम्बिनटिओन्_ओङ्_मटेरिअल्_एलेमेन्ट्स्	<भूत-ग्रामम्>ठ्6			
+4	अ-चेतसः	9	0	अ-चेतस्{नपुं}{5;एक}/चेतस्{नपुं}{6;एक}	न-चेतस्{पुं}{1;बहु}	कर्ता,8.1	अज्ञानियों_को	ब्य्_सुच्ह्_अ_मिस्लेड्_मेन्टलिट्य्	<न-चेतसः>भ्स्म्न्			
+5	माम्	5	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,1	मुझ_परमात्मा_को	टो_ंए				
+6	च	3	चैवान्तःशरीरस्थं	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और	अल्सो				
+7	एव	6	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,5	भी	चेर्टइन्ल्य्				
+8	अन्तः-शरीर-स्थम्	4	0	अन्तः-शरीर-स्थ{पुं}{2;एक}/स्थ{नपुं}{1;एक}/स्थ{नपुं}{2;एक}	अन्तः-शरीर-स्थ{पुं}{2;एक}	विशेषणम्,5	अन्तःकरण_में_स्थित	सिटुअटेड्_तिट्हिन्_ट्हे_बोड्य्	<अन्तः-<शरीर-स्थं>ऊ>ख्1			
+8.1	(सन्ति)	12	(0)	अस्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;अस्;अदादिः}	अस्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;अस्;अदादिः}	अभिहितकर्ता,4;अकर्मकः	जान	उन्डेर्स्टन्ड्				
+9	तान्	8	तान्विद्ध्यासुरनिश्चयान्	तद्{पुं}{2;बहु}	तद्{पुं}{2;बहु}	कर्म,11;नित्य_सम्बन्धः,4	उन	ट्हेम्				
+10	विद्धि	12	0	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	अभिहितकर्ता,11.1;सकर्मकः	जान	उन्डेर्स्टन्ड्				
+11	आसुर-निश्चयान्	10	0	आसुर-निश्चय{पुं}{2;बहु}	आसुर-निश्चय{पुं}{2;बहु}	कर्मसमानाधिकरणम्,10	आसुर-स्वभाववाले	चेर्टइन्ल्य्_डेमोन्स्	<असुर-निश्चयान्>भ्स्6			
+11.1	(त्वम्)	11	(0)	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,10	(तू)	योउ				

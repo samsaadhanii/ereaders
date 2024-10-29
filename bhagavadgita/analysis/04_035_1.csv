@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	yaw	1	yaFjFAwvA	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{2;eka}	karma,2	jisako	which				
-2	jFAwvA	2		jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,7	jAnakara	knowing				
-3	na	7	na	na{avya}	na{avya}	prawiReXaH,7	nahIM	never				
-4	punaH	3	punarmohamevaM	punaH{avya}	punaH{avya}	kriyAviSeRaNam,7	Pira	again				
-5	moham	6		moha{puM}{2;eka}	moha{puM}{2;eka}	karma,7	moha_ko	illusion				
-6	evam	5		evam{avya}	evam{avya}	viSeRaNam,5	isa_prakAra	like_this				
-7	yAsyasi	8	yAsyasi	yA1{karwari;lqt;ma;eka;parasmEpaxI;yA;axAxiH}	yA1{karwari;lqt;ma;eka;parasmEpaxI;yA;axAxiH}	aBihiwakarwA,7.1;sakarmakaH	prApwa_hoMge	shall_go				
-7.1	(wvam)	4	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,7	(wuma)	you				
-8	pANdava	9	pANdava	pANdava{puM}{8;eka}/pANdava{napuM}{8;eka}	pANdava{puM}{8;eka}	samboXyaH,12	he_arjuna	O_son_of_Pandu				
-9	yena	10	yena	yena{avya}/yax{puM}{3;eka}/yax{napuM}{3;eka}	yax{napuM}{3;eka}	karaNam,12	jisa_jFAna_ke_xvArA	by_which				
-10	BUwAni	12	BUwAnyaSeReNa	BUwa{napuM}{1;bahu}/BUwa{napuM}{2;bahu}/BUwa{napuM}{8;bahu}	BUwa{napuM}{2;bahu}	karma,12	sampUrNa_BUwoM_ko	all_living_entities				
-11	a-SeReNa	13		a-SeRa{puM}{3;eka}/SeRa{napuM}{3;eka}	aSeRa{puM}{3;eka}	kriyAviSeRaNam,12	niHSeRa_BAva_se	totally	<na-SeReNa>Tn			
-12	xrakRyasi	17	xrakRyasyAwmanyaWo	xqS1{karwari;lqt;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	xqS1{karwari;lqt;ma;eka;parasmEpaxI;xqSizr;BvAxiH}	aBihiwakarwA,15.1;sakarmakaH	xeKegA	will_see				
-13	Awmani	14		Awman{puM}{7;eka}	Awman{puM}{7;eka}	sup_samucciwaH,15	apanemeM	in_the_Supreme_Soul				
-14	aWo(ca)	16		aWo{avya}	aWo{avya}	samuccaya_xyowakaH,15	pICe	or_in_other_words				
-15	mayi	15	mayi	asmax{7;eka}	asmax{7;eka}	aXikaraNam,12	muJa_saccixAnanxaGana_paramAwmA_meM	in_Me				
-15.1	(wvam)	11	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,12	(wuma)	you				
+1	यत्	1	यञ्ज्ञात्वा	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{2;एक}	कर्म,2	जिसको	त्हिच्ह्				
+2	ज्ञात्वा	2		ज्ञा1{कृत्_प्रत्ययः:क्त्वा;ज्ञा;भ्वादिः}/ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	पूर्वकालः,7	जानकर	क्नोतिन्ग्				
+3	न	7	न	न{अव्य}	न{अव्य}	प्रतिषेधः,7	नहीं	नेवेर्				
+4	पुनः	3	पुनर्मोहमेवं	पुनः{अव्य}	पुनः{अव्य}	क्रियाविशेषणम्,7	फिर	अगइन्				
+5	मोहम्	6		मोह{पुं}{2;एक}	मोह{पुं}{2;एक}	कर्म,7	मोह_को	इल्लुसिओन्				
+6	एवम्	5		एवम्{अव्य}	एवम्{अव्य}	विशेषणम्,5	इस_प्रकार	लिके_ट्हिस्				
+7	यास्यसि	8	यास्यसि	या1{कर्तरि;लृट्;म;एक;परस्मैपदी;या;अदादिः}	या1{कर्तरि;लृट्;म;एक;परस्मैपदी;या;अदादिः}	अभिहितकर्ता,7.1;सकर्मकः	प्राप्त_होंगे	स्हल्ल्_गो				
+7.1	(त्वम्)	4	()	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,7	(तुम)	योउ				
+8	पाण्डव	9	पाण्डव	पाण्डव{पुं}{8;एक}/पाण्डव{नपुं}{8;एक}	पाण्डव{पुं}{8;एक}	सम्बोध्यः,12	हे_अर्जुन	औ_सोन्_ओङ्_फन्डु				
+9	येन	10	येन	येन{अव्य}/यद्{पुं}{3;एक}/यद्{नपुं}{3;एक}	यद्{नपुं}{3;एक}	करणम्,12	जिस_ज्ञान_के_द्वारा	ब्य्_त्हिच्ह्				
+10	भूतानि	12	भूतान्यशेषेण	भूत{नपुं}{1;बहु}/भूत{नपुं}{2;बहु}/भूत{नपुं}{8;बहु}	भूत{नपुं}{2;बहु}	कर्म,12	सम्पूर्ण_भूतों_को	अल्ल्_लिविन्ग्_एन्टिटिएस्				
+11	अ-शेषेण	13		अ-शेष{पुं}{3;एक}/शेष{नपुं}{3;एक}	अशेष{पुं}{3;एक}	क्रियाविशेषणम्,12	निःशेष_भाव_से	टोटल्ल्य्	<न-शेषेण>ठ्न्			
+12	द्रक्ष्यसि	17	द्रक्ष्यस्यात्मन्यथो	दृश्1{कर्तरि;लृट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	दृश्1{कर्तरि;लृट्;म;एक;परस्मैपदी;दृशिँर्;भ्वादिः}	अभिहितकर्ता,15.1;सकर्मकः	देखेगा	तिल्ल्_सेए				
+13	आत्मनि	14		आत्मन्{पुं}{7;एक}	आत्मन्{पुं}{7;एक}	सुप्_समुच्चितः,15	अपनेमें	इन्_ट्हे_शुप्रेमे_शोउल्				
+14	अथो(च)	16		अथो{अव्य}	अथो{अव्य}	समुच्चय_द्योतकः,15	पीछे	ओर्_इन्_ओट्हेर्_तोर्ड्स्				
+15	मयि	15	मयि	अस्मद्{7;एक}	अस्मद्{7;एक}	अधिकरणम्,12	मुझ_सच्चिदानन्दघन_परमात्मा_में	इन्_ंए				
+15.1	(त्वम्)	11	()	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,12	(तुम)	योउ				

@@ -1,16 +1,16 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	xqRtvA	7	xqRtvexaM	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	xqS1{kqw_prawyayaH:kwvA;xqSizr;BvAxiH}	pUrvakAlaH,9	xeKakara	seeing				
-2	ixam	3	0	ixam{napuM}{1;eka}/ixam{napuM}{2;eka}	ixam{napuM}{2;eka}	viSeRaNam,4	isa	this				
-3	mAnuRam	5	mAnuRaM	mAnuRa{puM}{2;eka}	mAnuRa{puM}{2;eka}	viSeRaNam,4	manuRya	human				
-4	rUpam	6	rUpaM	rUpa{napuM}{1;eka}/rUpa{napuM}{2;eka}	rUpa{napuM}{2;eka}	karma,1	rUpa_ko	form				
-5	wava	2	wava	yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,4	Apake	Your				
-6	sOmyam	4	sOmyaM	sOmya{puM}{2;eka}/sOmya{napuM}{1;eka}/sOmya{napuM}{2;eka}	sOmya{napuM}{2;eka}	viSeRaNam,4	awiSAnwa	very_beautiful				
-7	janArxana	1	janArxana	janArxana{puM}{8;eka}	janArxana{puM}{8;eka}	samboXyaH,9	he_janArxana	O_chastiser_of_the_enemies				
-8	ixAnIm	8	ixAnImasmi	ixAnIm{avya}	ixAnIm{avya}	aXikaraNam,10	aba	just_now				
-9	asmi	15	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,13.2;akarmakaH	hUz	am				
-10	saMvqwwaH	11	saMvqwwaH	saMvqwwa{puM}{1;eka}	sam_vqw1{kqw_prawyayaH:kwa;sam_vqwuz;BvAxiH;puM}{1;eka}	sup_samucciwaH,13	ho_gayA	settled				
-11	sa-cewAH	10	sacewAH	sa-cewA{swrI}{1;bahu}/cewA{swrI}{2;bahu}/cewA{swrI}{8;bahu}	sa-cewas{puM}{1;eka}	sup_samucciwaH,13	sWira-ciwwa	in_my_consciousness	<sa-cewAH>BvS			
-12	prakqwim	12	prakqwiM	prakqwi{swrI}{2;eka}	prakqwi{swrI}{2;eka}	karma,13	apanI_svABAvika_sWiwi_ko	my_own_state				
-13	gawaH	13	gawaH	gaw{napuM}{5;eka}/gaw{napuM}{6;eka}/gawa{puM}{1;eka}	gam1{kqw_prawyayaH:kwa;gamLz;BvAxiH;puM}{1;eka}	viXeya_viSeRaNam,9	prApwa_ho_gayA	obtained				
-13.2	(ca)	14	(0)	(ca{avya})	(ca{avya})	samuccaya_xyowakaH,13	(Ora)	and				
-13.2	(aham)	9	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,9	(mEM)	I				
+1	दृष्ट्वा	7	दृष्ट्वेदं	दृश्1{कृत्_प्रत्ययः:क्त्वा;दृशिँर्;भ्वादिः}	दृश्1{कृत्_प्रत्ययः:क्त्वा;दृशिँर्;भ्वादिः}	पूर्वकालः,9	देखकर	सेएइन्ग्				
+2	इदम्	3	0	इदम्{नपुं}{1;एक}/इदम्{नपुं}{2;एक}	इदम्{नपुं}{2;एक}	विशेषणम्,4	इस	ट्हिस्				
+3	मानुषम्	5	मानुषं	मानुष{पुं}{2;एक}	मानुष{पुं}{2;एक}	विशेषणम्,4	मनुष्य	हुमन्				
+4	रूपम्	6	रूपं	रूप{नपुं}{1;एक}/रूप{नपुं}{2;एक}	रूप{नपुं}{2;एक}	कर्म,1	रूप_को	ङोर्म्				
+5	तव	2	तव	युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,4	आपके	Yओउर्				
+6	सौम्यम्	4	सौम्यं	सौम्य{पुं}{2;एक}/सौम्य{नपुं}{1;एक}/सौम्य{नपुं}{2;एक}	सौम्य{नपुं}{2;एक}	विशेषणम्,4	अतिशान्त	वेर्य्_बेअउटिङुल्				
+7	जनार्दन	1	जनार्दन	जनार्दन{पुं}{8;एक}	जनार्दन{पुं}{8;एक}	सम्बोध्यः,9	हे_जनार्दन	औ_च्हस्टिसेर्_ओङ्_ट्हे_एनेमिएस्				
+8	इदानीम्	8	इदानीमस्मि	इदानीम्{अव्य}	इदानीम्{अव्य}	अधिकरणम्,10	अब	जुस्ट्_नोत्				
+9	अस्मि	15	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,13.2;अकर्मकः	हूँ	अम्				
+10	संवृत्तः	11	संवृत्तः	संवृत्त{पुं}{1;एक}	सम्_वृत्1{कृत्_प्रत्ययः:क्त;सम्_वृतुँ;भ्वादिः;पुं}{1;एक}	सुप्_समुच्चितः,13	हो_गया	सेट्ट्लेड्				
+11	स-चेताः	10	सचेताः	स-चेता{स्त्री}{1;बहु}/चेता{स्त्री}{2;बहु}/चेता{स्त्री}{8;बहु}	स-चेतस्{पुं}{1;एक}	सुप्_समुच्चितः,13	स्थिर-चित्त	इन्_म्य्_चोन्स्चिओउस्नेस्स्	<स-चेताः>भ्व्श्			
+12	प्रकृतिम्	12	प्रकृतिं	प्रकृति{स्त्री}{2;एक}	प्रकृति{स्त्री}{2;एक}	कर्म,13	अपनी_स्वाभाविक_स्थिति_को	म्य्_ओत्न्_स्टटे				
+13	गतः	13	गतः	गत्{नपुं}{5;एक}/गत्{नपुं}{6;एक}/गत{पुं}{1;एक}	गम्1{कृत्_प्रत्ययः:क्त;गमॢँ;भ्वादिः;पुं}{1;एक}	विधेय_विशेषणम्,9	प्राप्त_हो_गया	ओब्टइनेड्				
+13.2	(च)	14	(0)	(च{अव्य})	(च{अव्य})	समुच्चय_द्योतकः,13	(और)	अन्ड्				
+13.2	(अहम्)	9	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,9	(मैं)	ई				

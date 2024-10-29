@@ -1,0 +1,15 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	Srowram	2	SrowraM	Srowra{napuM}{1;eka}/Srowra{napuM}{2;eka}	Srowra{napuM}{2;eka}	sup_samucciwaH,10	kRowra	ears				
+2	cakRuH	3	cakRuH	cakRu{puM}{1;eka}/cakRus{napuM}{1;eka}/cakRus{napuM}{2;eka}/kRE1{karwari;lit;pra;bahu;parasmEpaxI;kRE;BvAxiH}	cakRus{napuM}{2;eka}	sup_samucciwaH,10	cakRu	eyes				
+3	sparSanam	5	sparSanaM	sparSana{napuM}{1;eka}/sparSana{napuM}{2;eka}	sparSana{napuM}{2;eka}	sup_samucciwaH,10	wvacA_ko	touch				
+4	ca	4	ca	ca{avya}	ca{avya}	sambanXaH,9	Ora	also				
+5	rasanam	7	rasanaM	rasana{napuM}{1;eka}/rasana{napuM}{2;eka}	rasana{napuM}{2;eka}	sup_samucciwaH,10	rasanA	tongue				
+6	GrANam	8	GrANameva	GrANa{puM}{2;eka}/GrANa{napuM}{1;eka}/GrANa{napuM}{2;eka}	GrANa{puM}{2;eka}	sup_samucciwaH,10	GrANa	smelling_power				
+7	eva	12	0	eva{avya}	eva{avya}	sambanXaH,9	hI	also				
+8	ca	6	ca	ca{avya}	ca{avya}	sambanXaH,9	waWA	also				
+9	aXiRTAya	11	aXiRTAya	aXi_sWA1_Nic{kqw_prawyayaH:lyap;aXi_RTA;BvAxiH}	aXi_sWA1{kqw_prawyayaH:lyap;aXi_RTA;BvAxiH}	pUrvakAlaH,14	ASraya_karake_(arWAw_ina_sabake_sahAre_se)	being_situated				
+10	manaH	10	manaScAyaM	manas{napuM}{1;eka}/manas{napuM}{2;eka}	manas{napuM}{2;eka}	karma,9	mana_ko	mind				
+11	ca	9	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,10	Ora	and				
+12	ayam	1	0	aya{puM}{2;eka}/ixam{puM}{1;eka}	ixam{puM}{1;eka}	karwA,14	yaha_(jIvAwmA)	this				
+13	viRayAn	13	viRayAnupasevawe	viRaya{puM}{2;bahu}	viRaya{puM}{2;bahu}	karma,14	viRayoM_kA	sense_objects				
+14	upasevawe	14	0	upa_sev1{karwari;lat;pra;eka;AwmanepaxI;Revqz;BvAxiH}	upa_sev1{karwari;lat;pra;eka;AwmanepaxI;upa_Revqz;BvAxiH}		sevana_karawA_hE	enjoys				

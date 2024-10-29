@@ -1,14 +1,14 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	api	7	api	api/api{avya}	api{avya}	sambanXaH,4	BI	even				
-2	cew	6	cexasi	cew{avya}	cew{avya}	sambanXaH,3	yaxi	if				
-3	asi	5		as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;ma;eka;parasmEpaxI;asaz;axAxiH}	aBihiwakarwA,6.1	ho	are				
-4	pApeByaH	3	pApeByaH	pApa{puM}{4;bahu}/pApa{puM}{5;bahu}/pApa{napuM}{4;bahu}/pApa{napuM}{5;bahu}	pApa{napuM}{5;bahu}	apAxAnam,3	pApiyoM_se	of_sinners				
-5	sarveByaH	2	sarveByaH	sarva{puM}{4;bahu}/sarva{puM}{5;bahu}/sarva{napuM}{4;bahu}/sarva{napuM}{5;bahu}	sarva{puM}{5;bahu}	viSeRaNam,4	saba	of_all				
-6	pApa-kqwwamaH	4	pApakqwwamaH	pApakqwwama{puM}{1;eka}	pApa-kqwwama{puM}{1;eka}	viXeya_viSeRaNam,3	aXika_pApa_karanevAle	the_greatest_sinner	<pApa-kqwwamaH>U			
-6.1	(wvam)	1	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,3	(wuma)	you				
-7	sarvam	11	sarvaM	sarva{puM}{2;eka}/sarva{napuM}{1;eka}/sarva{napuM}{2;eka}	sarva{napuM}{2;eka}	viSeRaNam,10	sampUrNa	all_such_sinful_actions				
-8	jFAna-plavena	9	jFAnaplavenEva	jFAna-plava{napuM}{3;eka}	jFAnaplavana{puM}{3;eka}	karaNam,11	jFAnarUpa_nOkA_xvArA	by_the_boat_of_transcendental_knowledge	<jFAna-plavena>K6			
-9	eva	10		eva{avya}	eva{avya}	sambanXaH,8	niHsanxeha	certainly				
-10	vqjinam	12	vqjinaM	vqjina{puM}{2;eka}/vqjina{napuM}{1;eka}/vqjina{napuM}{2;eka}	vqjina{napuM}{2;eka}	karma,11	pApa-samuxra_se	the_ocean_of_miseries				
-11	sanwariRyasi	13	sanwariRyasi	sam_wQ1{karwari;lqt;ma;eka;parasmEpaxI;wQ;BvAxiH}	sam_wQ1{karwari;lqt;ma;eka;parasmEpaxI;sam_wQ;BvAxiH}	aBihiwakarwA,11.1	BalIBAzwi_wara_jAoge	will_cross_completely				
-11.1	(wvam)	8	()	(yuRmax{1;eka})	(yuRmax{1;eka})	karwA,11	(wuma)	you				
+1	अपि	7	अपि	अपि/अपि{अव्य}	अपि{अव्य}	सम्बन्धः,4	भी	एवेन्				
+2	चेत्	6	चेदसि	चेत्{अव्य}	चेत्{अव्य}	सम्बन्धः,3	यदि	इङ्				
+3	असि	5		अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;म;एक;परस्मैपदी;असँ;अदादिः}	अभिहितकर्ता,6.1	हो	अरे				
+4	पापेभ्यः	3	पापेभ्यः	पाप{पुं}{4;बहु}/पाप{पुं}{5;बहु}/पाप{नपुं}{4;बहु}/पाप{नपुं}{5;बहु}	पाप{नपुं}{5;बहु}	अपादानम्,3	पापियों_से	ओङ्_सिन्नेर्स्				
+5	सर्वेभ्यः	2	सर्वेभ्यः	सर्व{पुं}{4;बहु}/सर्व{पुं}{5;बहु}/सर्व{नपुं}{4;बहु}/सर्व{नपुं}{5;बहु}	सर्व{पुं}{5;बहु}	विशेषणम्,4	सब	ओङ्_अल्ल्				
+6	पाप-कृत्तमः	4	पापकृत्तमः	पापकृत्तम{पुं}{1;एक}	पाप-कृत्तम{पुं}{1;एक}	विधेय_विशेषणम्,3	अधिक_पाप_करनेवाले	ट्हे_ग्रेअटेस्ट्_सिन्नेर्	<पाप-कृत्तमः>ऊ			
+6.1	(त्वम्)	1	()	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,3	(तुम)	योउ				
+7	सर्वम्	11	सर्वं	सर्व{पुं}{2;एक}/सर्व{नपुं}{1;एक}/सर्व{नपुं}{2;एक}	सर्व{नपुं}{2;एक}	विशेषणम्,10	सम्पूर्ण	अल्ल्_सुच्ह्_सिन्ङुल्_अच्टिओन्स्				
+8	ज्ञान-प्लवेन	9	ज्ञानप्लवेनैव	ज्ञान-प्लव{नपुं}{3;एक}	ज्ञानप्लवन{पुं}{3;एक}	करणम्,11	ज्ञानरूप_नौका_द्वारा	ब्य्_ट्हे_बोअट्_ओङ्_ट्रन्स्चेन्डेन्टल्_क्नोत्लेड्गे	<ज्ञान-प्लवेन>ख्6			
+9	एव	10		एव{अव्य}	एव{अव्य}	सम्बन्धः,8	निःसन्देह	चेर्टइन्ल्य्				
+10	वृजिनम्	12	वृजिनं	वृजिन{पुं}{2;एक}/वृजिन{नपुं}{1;एक}/वृजिन{नपुं}{2;एक}	वृजिन{नपुं}{2;एक}	कर्म,11	पाप-समुद्र_से	ट्हे_ओचेअन्_ओङ्_मिसेरिएस्				
+11	सन्तरिष्यसि	13	सन्तरिष्यसि	सम्_तॄ1{कर्तरि;लृट्;म;एक;परस्मैपदी;तॄ;भ्वादिः}	सम्_तॄ1{कर्तरि;लृट्;म;एक;परस्मैपदी;सम्_तॄ;भ्वादिः}	अभिहितकर्ता,11.1	भलीभाँति_तर_जाओगे	तिल्ल्_च्रोस्स्_चोम्प्लेटेल्य्				
+11.1	(त्वम्)	8	()	(युष्मद्{1;एक})	(युष्मद्{1;एक})	कर्ता,11	(तुम)	योउ				

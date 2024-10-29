@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	kRewra-jFam	3	kRewrajFaM	kRewra-jFa{puM}{2;eka}	kRewra-jFa{puM}{2;eka}	karmasamAnAXikaraNam,4	kRewrajFa_arWAw_jIvAwmA	the_knower	<kRewra-jFaM>U			
-2	api	6	cApi	api{avya}	api{avya}	sambanXaH,1	Ora_BI	certainly_also				
-3	mAm	4	mAM	asmax{2;eka}	asmax{2;eka}	karma,4	muJe	me				
-4	vixXi	5	vixXi	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}	vix1{karwari;lot;ma;eka;parasmEpaxI;vixaz;axAxiH}		jAna	know				
-5	sarva-kRewreRu	2	sarvakRewreRu	sarva-kRewra{napuM}{7;bahu}	sarva-kRewra{napuM}{7;bahu}	aXikaraNam,4	saba_kRewroM_meM	in_all_bodily_fields	<sarva-kRewreRu>K1			
-6	BArawa	1	BArawa	BArawa{napuM}{8;eka}/BArawa{puM}{8;eka}	BArawa{puM}{8;eka}	samboXyaH,4	he_arjuna	O_son_of_Bharata				
-7	kRewra-kRewra-jFayoH	8	kRewrakRewrajFayorjFAnaM	kRewra-kRewrajFayoH	kRewra-kRewrajFa{puM}{6;eka}	RaRTIsambanXaH,8	kRewra-kRewrajFa_kA	field_of_activities_(the_body)_and_the_knower_of_the_field	<kRewra-<kRewra-jFayoH>U>Di			
-8	jFAnam	9	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{2;eka}	karwA,9.1	jFAna	knowledge				
-9	yaw	7	yawwajjFAnaM	yaw{avya}/yax{napuM}{1;eka}/yax{napuM}{2;eka}/yaw{avya}	yax{napuM}{1;eka}	viSeRaNam,8;niwya_sambanXaH,10	jo	that_which_is_taught				
-9.1	(aswi)	10	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,8;akarmakaH	(hE)	is				
-10	waw	11	0	wax{napuM}{1;eka}/wax{napuM}{2;eka}	wax{napuM}{1;eka}	karwA,11.1	vaha	that				
-11	jFAnam	12	0	jFAna{napuM}{1;eka}/jFAna{napuM}{2;eka}	jFAna{napuM}{1;eka}	viXeya_viSeRaNam,11.1	jFAna_hE	knowledge				
-11.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10;akarmakaH	(hE)	is				
-11.2	(iwi)	13	(0)	(iwi{avya})	(iwi{avya})		(EsA)	thus				
-12	mawam	15	mawaM	mawa{puM}{2;eka}/mawa{napuM}{1;eka}/mawa{napuM}{2;eka}	mawa{napuM}{1;eka}	karwA,13.1	mawa	opinion				
-13	mama	14	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,12	merA	my				
-13.1	(aswi)	16	(0)	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,12;akarmakaH	(hE)	is				
+1	क्षेत्र-ज्ञम्	3	क्षेत्रज्ञं	क्षेत्र-ज्ञ{पुं}{2;एक}	क्षेत्र-ज्ञ{पुं}{2;एक}	कर्मसमानाधिकरणम्,4	क्षेत्रज्ञ_अर्थात्_जीवात्मा	ट्हे_क्नोतेर्	<क्षेत्र-ज्ञं>ऊ			
+2	अपि	6	चापि	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,1	और_भी	चेर्टइन्ल्य्_अल्सो				
+3	माम्	4	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,4	मुझे	मे				
+4	विद्धि	5	विद्धि	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}	विद्1{कर्तरि;लोट्;म;एक;परस्मैपदी;विदँ;अदादिः}		जान	क्नोत्				
+5	सर्व-क्षेत्रेषु	2	सर्वक्षेत्रेषु	सर्व-क्षेत्र{नपुं}{7;बहु}	सर्व-क्षेत्र{नपुं}{7;बहु}	अधिकरणम्,4	सब_क्षेत्रों_में	इन्_अल्ल्_बोडिल्य्_ङिएल्ड्स्	<सर्व-क्षेत्रेषु>ख्1			
+6	भारत	1	भारत	भारत{नपुं}{8;एक}/भारत{पुं}{8;एक}	भारत{पुं}{8;एक}	सम्बोध्यः,4	हे_अर्जुन	औ_सोन्_ओङ्_भ्हरट				
+7	क्षेत्र-क्षेत्र-ज्ञयोः	8	क्षेत्रक्षेत्रज्ञयोर्ज्ञानं	क्षेत्र-क्षेत्रज्ञयोः	क्षेत्र-क्षेत्रज्ञ{पुं}{6;एक}	षष्ठीसम्बन्धः,8	क्षेत्र-क्षेत्रज्ञ_का	ङिएल्ड्_ओङ्_अच्टिविटिएस्_(ट्हे_बोड्य्)_अन्ड्_ट्हे_क्नोतेर्_ओङ्_ट्हे_ङिएल्ड्	<क्षेत्र-<क्षेत्र-ज्ञयोः>ऊ>ढि			
+8	ज्ञानम्	9	0	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{2;एक}	कर्ता,9.1	ज्ञान	क्नोत्लेड्गे				
+9	यत्	7	यत्तज्ज्ञानं	यत्{अव्य}/यद्{नपुं}{1;एक}/यद्{नपुं}{2;एक}/यत्{अव्य}	यद्{नपुं}{1;एक}	विशेषणम्,8;नित्य_सम्बन्धः,10	जो	ट्हट्_त्हिच्ह्_इस्_टउग्ह्ट्				
+9.1	(अस्ति)	10	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,8;अकर्मकः	(है)	इस्				
+10	तत्	11	0	तद्{नपुं}{1;एक}/तद्{नपुं}{2;एक}	तद्{नपुं}{1;एक}	कर्ता,11.1	वह	ट्हट्				
+11	ज्ञानम्	12	0	ज्ञान{नपुं}{1;एक}/ज्ञान{नपुं}{2;एक}	ज्ञान{नपुं}{1;एक}	विधेय_विशेषणम्,11.1	ज्ञान_है	क्नोत्लेड्गे				
+11.1	(अस्ति)	16	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,10;अकर्मकः	(है)	इस्				
+11.2	(इति)	13	(0)	(इति{अव्य})	(इति{अव्य})		(ऐसा)	ट्हुस्				
+12	मतम्	15	मतं	मत{पुं}{2;एक}/मत{नपुं}{1;एक}/मत{नपुं}{2;एक}	मत{नपुं}{1;एक}	कर्ता,13.1	मत	ओपिनिओन्				
+13	मम	14	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,12	मेरा	म्य्				
+13.1	(अस्ति)	16	(0)	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,12;अकर्मकः	(है)	इस्				

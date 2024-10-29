@@ -1,18 +1,18 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	BakwyA	1	BakwyA	Bakwi{swrI}{3;eka}	Bakwi{swrI}{3;eka}	karaNam,3	parABakwi_ke_xvArA	by_pure_devotional_service				
-2	mAm	3	mAmaBijAnAwi	asmax{2;eka}	asmax{2;eka}	karma,3	muJako_(paramAwmA_ko)	me				
-3	aBijAnAwi	11	0	aBi_jFA2{karwari;lat;pra;eka;parasmEpaxI;jFA;kryAxiH}	aBi_jFA2{karwari;lat;pra;eka;parasmEpaxI;aBi_jFA;kryAxiH}		jAna_lewA_hE	can_know				
-4	yAvAn	5	yAvAnyaScAsmi	yAva{puM}{2;bahu}/yAvaw{puM}{1;eka}/yAvaw{puM}{1;eka}	yAvaw{puM}{1;eka}	sup_samucciwaH,5	jiwanA	as_much_as				
-5	yaH	6	0	yax{puM}{1;eka}	yax{puM}{1;eka}	viXeya_viSeRaNam,7	jo	as				
-6	ca	7	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	and				
-7	asmi	8	0	asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH}	vAkyakarma,3	hUz	am				
-8	wawwvawaH	10	wawwvawaH	wawwvawaH{avya}	wawwvawaH{avya}	kriyAviSeRaNam,3	wawwva_se	in_truth				
-8.1	(aham)	4	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,7	(mEM)	I				
-8.2	(iwi)	9	(0)	(iwi{avya})	(iwi{avya})	vAkyakarma_xyowakaH,7	(yaha)	thus				
-8.3	(saH)	2	(0)	(wax{puM}{1;eka})	(wax{puM}{1;eka})		(vaha)	he				
-9	wawaH	12	wawo	wawaH{avya}	wawaH{avya}	hewuH,12	usa	thereafter				
-10	mAm	13	mAM	asmax{2;eka}	asmax{2;eka}	karma,12	muJako	me				
-11	wawwvawaH	14	wawwvawo	wawwvawaH{avya}	wawwvawaH{avya}	kriyAviSeRaNam,12	wawwva_se	by_truth				
-12	jFAwvA	15	jFAwvA	jFA1{kqw_prawyayaH:kwvA;jFA;BvAxiH}/jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	jFA2{kqw_prawyayaH:kwvA;jFA;kryAxiH}	pUrvakAlaH,13	jAnakara	knowing				
-13	viSawe	17	viSawe	viSaw{puM}{4;eka}/viSaw{napuM}{4;eka}/viSawA{swrI}{1;xvi}/viSawA{swrI}{2;xvi}	viS1{karwari;lat;pra;eka;AwmanepaxI;viSaz;wuxAxiH}		muJameM_praviRta_ho_jAwA_hE	enters				
-14	waxananwaram	16	waxananwaram	waxananwaram{avya}/waxananwara{puM}{2;eka}/waxananwara{napuM}{1;eka}/waxananwara{napuM}{2;eka}	waxananwaram{avya}	aXikaraNam,13	wawkAla_hI	thereafter				
+1	भक्त्या	1	भक्त्या	भक्ति{स्त्री}{3;एक}	भक्ति{स्त्री}{3;एक}	करणम्,3	पराभक्ति_के_द्वारा	ब्य्_पुरे_डेवोटिओनल्_सेर्विचे				
+2	माम्	3	मामभिजानाति	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,3	मुझको_(परमात्मा_को)	मे				
+3	अभिजानाति	11	0	अभि_ज्ञा2{कर्तरि;लट्;प्र;एक;परस्मैपदी;ज्ञा;क्र्यादिः}	अभि_ज्ञा2{कर्तरि;लट्;प्र;एक;परस्मैपदी;अभि_ज्ञा;क्र्यादिः}		जान_लेता_है	चन्_क्नोत्				
+4	यावान्	5	यावान्यश्चास्मि	याव{पुं}{2;बहु}/यावत्{पुं}{1;एक}/यावत्{पुं}{1;एक}	यावत्{पुं}{1;एक}	सुप्_समुच्चितः,5	जितना	अस्_मुच्ह्_अस्				
+5	यः	6	0	यद्{पुं}{1;एक}	यद्{पुं}{1;एक}	विधेय_विशेषणम्,7	जो	अस्				
+6	च	7	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और	अन्ड्				
+7	अस्मि	8	0	अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः}	वाक्यकर्म,3	हूँ	अम्				
+8	तत्त्वतः	10	तत्त्वतः	तत्त्वतः{अव्य}	तत्त्वतः{अव्य}	क्रियाविशेषणम्,3	तत्त्व_से	इन्_ट्रुट्ह्				
+8.1	(अहम्)	4	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,7	(मैं)	ई				
+8.2	(इति)	9	(0)	(इति{अव्य})	(इति{अव्य})	वाक्यकर्म_द्योतकः,7	(यह)	ट्हुस्				
+8.3	(सः)	2	(0)	(तद्{पुं}{1;एक})	(तद्{पुं}{1;एक})		(वह)	हे				
+9	ततः	12	ततो	ततः{अव्य}	ततः{अव्य}	हेतुः,12	उस	ट्हेरेअङ्टेर्				
+10	माम्	13	मां	अस्मद्{2;एक}	अस्मद्{2;एक}	कर्म,12	मुझको	मे				
+11	तत्त्वतः	14	तत्त्वतो	तत्त्वतः{अव्य}	तत्त्वतः{अव्य}	क्रियाविशेषणम्,12	तत्त्व_से	ब्य्_ट्रुट्ह्				
+12	ज्ञात्वा	15	ज्ञात्वा	ज्ञा1{कृत्_प्रत्ययः:क्त्वा;ज्ञा;भ्वादिः}/ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	ज्ञा2{कृत्_प्रत्ययः:क्त्वा;ज्ञा;क्र्यादिः}	पूर्वकालः,13	जानकर	क्नोतिन्ग्				
+13	विशते	17	विशते	विशत्{पुं}{4;एक}/विशत्{नपुं}{4;एक}/विशता{स्त्री}{1;द्वि}/विशता{स्त्री}{2;द्वि}	विश्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;विशँ;तुदादिः}		मुझमें_प्रविष्ट_हो_जाता_है	एन्टेर्स्				
+14	तदनन्तरम्	16	तदनन्तरम्	तदनन्तरम्{अव्य}/तदनन्तर{पुं}{2;एक}/तदनन्तर{नपुं}{1;एक}/तदनन्तर{नपुं}{2;एक}	तदनन्तरम्{अव्य}	अधिकरणम्,13	तत्काल_ही	ट्हेरेअङ्टेर्				

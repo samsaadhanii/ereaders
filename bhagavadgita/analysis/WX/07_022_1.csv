@@ -1,0 +1,18 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1	saH	4	sa	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,7	vaha_(puruRa)	he				
+2	wayA	1	wayA	wax{swrI}{3;eka}	wax{swrI}{3;eka}	viSeRaNam,3	usa	with_that				
+3	SraxXayA	2	SraxXayA	SraxXA{swrI}{3;eka}	SraxXA{swrI}{3;eka}	karaNam,4	SraxXA_se	with_faith				
+4	yukwaH	3	yukwaswasyArAXanamIhawe	yukwa{puM}{1;eka}	yuj2{kqw_prawyayaH:kwa;yujizr;ruXAxiH;puM}{1;eka}	viSeRaNam,1	yukwa	endowed				
+5	wasya	5	0	wax{puM}{6;eka}/wax{napuM}{6;eka}	wax{puM}{6;eka}	RaRTIsambanXaH,6	usakA_(xevawA_kA)	his				
+6	ArAXanam	6	0	ArAXana{napuM}{1;eka}/ArAXana{napuM}{2;eka}	ArAXana{napuM}{2;eka}	karma,7	pUjana	worship				
+7	Ihawe	7	0	IhawA{swrI}{1;xvi}/IhawA{swrI}{2;xvi}/Ih1{karwari;lat;pra;eka;AwmanepaxI;Ihaz;BvAxiH}	Ih1{karwari;lat;pra;eka;AwmanepaxI;Ihaz;BvAxiH}	aBihiwa_karwA,1	karawA_hE	seeks				
+8	laBawe	17	laBawe	laB1{karwari;lat;pra;eka;AwmanepaxI;dulaBazR;BvAxiH}	laB1{karwari;lat;pra;eka;AwmanepaxI;dulaBazR;BvAxiH}	aBihiwa_karwA,15.1	prApwa_karawA_hE	obtains				
+9	ca	9	ca	ca{avya}	ca{avya}	sambanXaH,8	Ora	and				
+10	wawaH	8	wawaH	wawaH{avya}	wawaH{avya}	apAxAnam,8	usase_(xevawA_se)	from_which				
+11	kAmAn	14	kAmAnmayEva	kAma{puM}{2;bahu}	kAma{puM}{2;bahu}	karma,8	icCiwa_BogoM_ko	desires				
+12	mayA	10	0	asmax{3;eka}	asmax{3;eka}	karwA,14	mere_xvArA	by_me				
+13	eva	11	0	eva{avya}	eva{avya}	sambanXaH,12	hI	alone				
+14	vihiwAn	12	vihiwAnhi	vihiwa{puM}{2;bahu}	vi_XA1{kqw_prawyayaH:kwa;vi_duXAF;juhowyAxiH;puM}{2;bahu}	viSeRaNam,11	viXAna_kiye_hue	regulated				
+15	hi	16	0	hi{avya}	hi{avya}	sambanXaH,8	niHsanxeha	for				
+16	wAn	13	wAn	wax{puM}{2;bahu}	wax{puM}{2;bahu}	viSeRaNam,11	una	those				
+15.1	(saH)	15	(sa)	wax{puM}{1;eka}	wax{puM}{1;eka}	karwA,8	vaha_(puruRa)	he				

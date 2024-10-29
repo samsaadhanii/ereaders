@@ -1,20 +1,20 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	asmAkam	2	asmAkaM	asmax{6;bahu}	asmax{6;bahu}	RaRTIsambanXaH,3	hamAre	our				
-2	wu	3	wu	wu{avya}	wu{avya}	sambanXaH,1	BI	also				
-3	viSiRtAH	5	viSiRtA	viSiRta{puM}{1;bahu}/viSiRta{puM}{8;bahu}/viSiRtA{swrI}{1;bahu}/viSiRtA{swrI}{2;bahu}/viSiRtA{swrI}{8;bahu}/viSiRtA{swrI}{1;bahu}/viSiRtA{swrI}{2;bahu}/viSiRtA{swrI}{8;bahu}	viSiRta{puM}{1;bahu}	viXeya_viSeRaNam,4.1	praXAna	especially_powerful				
-4	ye	4	ye	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,4.1;niwya_sambanXaH,5	jo	those				
-4.1	(sanwi)	6	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,4;akarmakaH	(hEM)	are				
-5	wAn	7	wAnniboXa	wax{puM}{2;bahu}	wax{puM}{2;bahu}	karma,6	unako	them				
-6	niboXa	9	0	ni_buX1{karwari;lot;ma;eka;parasmEpaxI;buXaz;BvAxiH}/ni_buX2{karwari;lot;ma;eka;parasmEpaxI;buXizr;BvAxiH}	ni_buX2{karwari;lot;ma;eka;parasmEpaxI;ni_buXizr;BvAxiH}	aBihiwa_karwA,6.1;sakarmakaH	samaJa_lIjiye	know				
-6.1	(wvam)	8	(0)	(yuRmax{ sarvanAma}{1; eka})	(yuRmax{ sarvanAma}{1; eka})	karwA,6	Apa 	you				
-7	xvija-uwwama	1	xvijowwama	xvija-uwwama{puM}{8;eka}/uwwama{napuM}{8;eka}	xvija-uwwama{puM}{8;eka}	samboXyaH,6	he_brAhmaNaSreRTa	the_best_of_the_brahmanas	<xvija-uwwama>T7			
-8	nAyakAH	13	nAyakA	nAyaka{puM}{1;bahu}/nAyaka{puM}{8;bahu}	nAyaka{puM}{1;bahu}	viXeya_viSeRaNam,10.1	senApawi	principal_warriors				
-9	mama	10	mama	asmax{6;eka}/mA1{karwari;lit;ma;bahu;parasmEpaxI;mA;axAxiH}	asmax{6;eka}	RaRTIsambanXaH,10	merI	my				
-10	sEnyasya	11	sEnyasya	sEnya{puM}{6;eka}	sEnya{puM}{6;eka}	RaRTIsambanXaH,8	senA_ke	army				
-10.1	(sanwi)	14	(0)	(saw{napuM}{1;bahu}/saw{napuM}{2;bahu}/saw{napuM}{8;bahu}/sanwI{swrI}{8;eka}/as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;pra;bahu;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,10.2;akarmakaH	(hEM)	are				
-10.2	(ye)	12	(0)	yax{puM}{1;bahu}/yax{swrI}{1;xvi}/yax{swrI}{2;xvi}/yax{napuM}{1;xvi}/yax{napuM}{2;xvi}	yax{puM}{1;bahu}	karwA,10.1;niwya_sambanXaH,12	jo	those				
-11	saFjFA-arWam	18	saFjFArWaM	saFjFA-arWa{puM}{2;eka}/arWa{napuM}{1;eka}/arWa{napuM}{2;eka}	saFjFA-arWa{puM}{2;eka}	prayojanam,13	jAnakArI_ke_liye	for_information	<saFjFA-arWam>T4			
-12	wAn	15	wAnbravImi	wax{puM}{2;bahu}	wax{puM}{2;bahu}	karma,13	unake bAreme 	them				
-13	bravImi	19	0	brU1{karwari;lat;u;eka;AwmanepaxI;brUF;axAxiH}	brU1{karwari;lat;u;eka;parasmEpaxI;brUF;axAxiH}	aBihiwa_karwA,14.1;sakarmakaH	bawalAwA_hUz	mention				
-14	we	17	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,11	ApakI	your				
-14.1	(aham)	16	(0)	(asmax{1;eka})	(asmax{1;eka})	karwA,13	(mEM)	I				
+1	अस्माकम्	2	अस्माकं	अस्मद्{6;बहु}	अस्मद्{6;बहु}	षष्ठीसम्बन्धः,3	हमारे	ओउर्				
+2	तु	3	तु	तु{अव्य}	तु{अव्य}	सम्बन्धः,1	भी	अल्सो				
+3	विशिष्टाः	5	विशिष्टा	विशिष्ट{पुं}{1;बहु}/विशिष्ट{पुं}{8;बहु}/विशिष्टा{स्त्री}{1;बहु}/विशिष्टा{स्त्री}{2;बहु}/विशिष्टा{स्त्री}{8;बहु}/विशिष्टा{स्त्री}{1;बहु}/विशिष्टा{स्त्री}{2;बहु}/विशिष्टा{स्त्री}{8;बहु}	विशिष्ट{पुं}{1;बहु}	विधेय_विशेषणम्,4.1	प्रधान	एस्पेचिअल्ल्य्_पोतेर्ङुल्				
+4	ये	4	ये	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	कर्ता,4.1;नित्य_सम्बन्धः,5	जो	ट्होसे				
+4.1	(सन्ति)	6	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/सत्{नपुं}{8;बहु}/सन्ती{स्त्री}{8;एक}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,4;अकर्मकः	(हैं)	अरे				
+5	तान्	7	तान्निबोध	तद्{पुं}{2;बहु}	तद्{पुं}{2;बहु}	कर्म,6	उनको	ट्हेम्				
+6	निबोध	9	0	नि_बुध्1{कर्तरि;लोट्;म;एक;परस्मैपदी;बुधँ;भ्वादिः}/नि_बुध्2{कर्तरि;लोट्;म;एक;परस्मैपदी;बुधिँर्;भ्वादिः}	नि_बुध्2{कर्तरि;लोट्;म;एक;परस्मैपदी;नि_बुधिँर्;भ्वादिः}	अभिहित_कर्ता,6.1;सकर्मकः	समझ_लीजिये	क्नोत्				
+6.1	(त्वम्)	8	(0)	(युष्मद्{ सर्वनाम}{1; एक})	(युष्मद्{ सर्वनाम}{1; एक})	कर्ता,6	आप 	योउ				
+7	द्विज-उत्तम	1	द्विजोत्तम	द्विज-उत्तम{पुं}{8;एक}/उत्तम{नपुं}{8;एक}	द्विज-उत्तम{पुं}{8;एक}	सम्बोध्यः,6	हे_ब्राह्मणश्रेष्ठ	ट्हे_बेस्ट्_ओङ्_ट्हे_ब्रह्मनस्	<द्विज-उत्तम>ठ्7			
+8	नायकाः	13	नायका	नायक{पुं}{1;बहु}/नायक{पुं}{8;बहु}	नायक{पुं}{1;बहु}	विधेय_विशेषणम्,10.1	सेनापति	प्रिन्चिपल्_तर्रिओर्स्				
+9	मम	10	मम	अस्मद्{6;एक}/मा1{कर्तरि;लिट्;म;बहु;परस्मैपदी;मा;अदादिः}	अस्मद्{6;एक}	षष्ठीसम्बन्धः,10	मेरी	म्य्				
+10	सैन्यस्य	11	सैन्यस्य	सैन्य{पुं}{6;एक}	सैन्य{पुं}{6;एक}	षष्ठीसम्बन्धः,8	सेना_के	अर्म्य्				
+10.1	(सन्ति)	14	(0)	(सत्{नपुं}{1;बहु}/सत्{नपुं}{2;बहु}/सत्{नपुं}{8;बहु}/सन्ती{स्त्री}{8;एक}/अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;प्र;बहु;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,10.2;अकर्मकः	(हैं)	अरे				
+10.2	(ये)	12	(0)	यद्{पुं}{1;बहु}/यद्{स्त्री}{1;द्वि}/यद्{स्त्री}{2;द्वि}/यद्{नपुं}{1;द्वि}/यद्{नपुं}{2;द्वि}	यद्{पुं}{1;बहु}	कर्ता,10.1;नित्य_सम्बन्धः,12	जो	ट्होसे				
+11	सञ्ज्ञा-अर्थम्	18	सञ्ज्ञार्थं	सञ्ज्ञा-अर्थ{पुं}{2;एक}/अर्थ{नपुं}{1;एक}/अर्थ{नपुं}{2;एक}	सञ्ज्ञा-अर्थ{पुं}{2;एक}	प्रयोजनम्,13	जानकारी_के_लिये	ङोर्_इन्ङोर्मटिओन्	<सञ्ज्ञा-अर्थम्>ठ्4			
+12	तान्	15	तान्ब्रवीमि	तद्{पुं}{2;बहु}	तद्{पुं}{2;बहु}	कर्म,13	उनके बारेमे 	ट्हेम्				
+13	ब्रवीमि	19	0	ब्रू1{कर्तरि;लट्;उ;एक;आत्मनेपदी;ब्रूञ्;अदादिः}	ब्रू1{कर्तरि;लट्;उ;एक;परस्मैपदी;ब्रूञ्;अदादिः}	अभिहित_कर्ता,14.1;सकर्मकः	बतलाता_हूँ	मेन्टिओन्				
+14	ते	17	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,11	आपकी	योउर्				
+14.1	(अहम्)	16	(0)	(अस्मद्{1;एक})	(अस्मद्{1;एक})	कर्ता,13	(मैं)	ई				

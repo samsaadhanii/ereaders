@@ -1,31 +1,31 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	amI	1	amI	axas{puM}{1;bahu}	axas{puM}{1;bahu}	viSeRaNam,5	ve	all_those				
-2	ca	10	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,6	Ora	also				
-3	wvAm	8	wvAM	yuRmax{2;eka}	yuRmax{2;eka}	aBexaH,19	ApameM	you				
-4	XqwarARtrasya	4	XqwarARtrasya	XqwarARtra{puM}{6;eka}	XqwarARtra{puM}{6;eka}	RaRTIsambanXaH,5	XqwarARtra_ke	of_Dhrtarastra				
-5	puwrAH	5	puwrAH	puwra{puM}{1;bahu}/puwra{puM}{8;bahu}	puwra{puM}{1;bahu}	aBexaH,6	puwra	sons				
-6	sarve	2	sarve	sarva{puM}{1;bahu}/sarva{napuM}{1;xvi}/sarva{napuM}{2;xvi}/sarvA{swrI}{1;xvi}/sarvA{swrI}{2;xvi}	sarva{puM}{1;bahu}	karwA,22	saBI	all				
-7	saha	7	sahEvAvanipAlasafGEH	saha{avya}/saha{puM}{8;eka}	saha{avya}	sahArWa_xyowakaH,9	sahiwa	with				
-8	eva	3	0	eva{avya}	eva{avya}	sambanXaH,7	hI	certainly				
-9	avani-pAla-safGEH	6	0	avani-pAla-safGa{puM}{3;bahu}	avani-pAla-safGa{puM}{3;bahu}	sahArWaH,22	rAjAoM_ke_samuxAya	the_groups_of_warrior_kings	<<avani-pAla>T6-safGEH>T6			
-10	BIRmaH	11	BIRmo	BIRma{puM}{1;eka}	BIRma{puM}{1;eka}	sup_samucciwaH,6	BIRmapiwAmaha	Bhismadeva				
-11	xroNaH	12	xroNaH	xroNa{puM}{1;eka}	xroNa{puM}{1;eka}	sup_samucciwaH,10	xroNAcArya	Dronacarya				
-12	sUwa-puwraH	15	sUwapuwraswaWAsO	sUwa-puwra{puM}{1;eka}	sUwa-puwra{puM}{1;eka}	sup_samucciwaH,10	karNa	Karna	<sUwa-puwraH>T6			
-13	waWA	13	0	waWA{avya}	waWA{avya}	samuccaya_xyowakaH,9	waWA	also				
-14	asO	14	0	asu{puM}{7;eka}/asi{puM}{7;eka}/asi{swrI}{7;eka}/axas{puM}{1;eka}/axas{swrI}{1;eka}	axas{puM}{1;eka}	viSeRaNam,16	vaha	that				
-15	saha	19	sahAsmaxIyErapi	saha{avya}/saha{puM}{8;eka}	saha{avya}	sahArWa_xyowakaH,18	sahiwa	with				
-16	asmaxIyEH	16	0	asmaxIya{napuM}{3;bahu}	asmaxIya{napuM}{3;bahu}	aBexaH,18	hamAre_pakRa_ke	our				
-17	api	17	0	api{avya}	api{avya}	sambanXaH,2	BI	also				
-18	yoXa-muKyEH	18	yoXamuKyEH	yoXa-muKya{puM}{3;bahu}/muKya{napuM}{3;bahu}	yoXa-muKya{puM}{3;bahu}	sup_samucciwaH,9	praXAna_yoxXAoM_ke	chief_among_the_warriors	<yoXa-muKyEH>T6			
-19	vakwrANi	23	vakwrANi	vakwra{napuM}{1;bahu}/vakwra{napuM}{2;bahu}/vakwra{napuM}{8;bahu}	vakwra{napuM}{2;bahu}	karma,22	muKoM_meM	mouths				
-20	we	20	we	wax{puM}{1;bahu}/wax{swrI}{1;xvi}/wax{swrI}{2;xvi}/wax{napuM}{1;xvi}/wax{napuM}{2;xvi}/yuRmax{4;eka}/yuRmax{6;eka}	yuRmax{6;eka}	RaRTIsambanXaH,19	Apake	Your				
-21	wvaramANAH	24	wvaramANA	wvaramANAH	wvar1{kqw_prawyayaH:kwa;FiwvarAz;BvAxiH;puM}{1;bahu}	viXeya_viSeRaNam,22	bada़e_vega_se_xOda़we_hue	fearful				
-22	viSanwi	25	viSanwi	viSaw{napuM}{1;bahu}/viSaw{napuM}{2;bahu}/viSaw{napuM}{8;bahu}	viS1{karwari;lat;pra;bahu;parasmEpaxI;viSaz;wuxAxiH}	aBihiwa_karwA,6	praveSa_kara_rahe_hEM	entering				
-23	xaMRtrA-karAlAni	21	xaMRtrAkarAlAni	xaMRtrA-karAla{napuM}{1;bahu}/karAla{napuM}{2;bahu}/karAla{napuM}{8;bahu}	xaMRtrA-karAla{napuM}{2;bahu}	viSeRaNam,19	xADa़oM_ke_kAraNa_vikarAla	terrible_teeth	<xaMRtrA-karAlAni>T3			
-24	BayAnakAni	22	BayAnakAni	BayAnaka{napuM}{1;bahu}/BayAnaka{napuM}{2;bahu}/BayAnaka{napuM}{8;bahu}	BayAnaka{napuM}{2;bahu}	viSeRaNam,19	BayAnaka	very_fearful				
-25	keciw	26	kecixvilagnA	keciw{avya}/kiFciw{puM}{1;bahu}/kiFciw{swrI}{1;xvi}/kiFciw{swrI}{2;xvi}/kiFciw{napuM}{1;xvi}/kiFciw{napuM}{2;xvi}	kiFciw{puM}{1;bahu}	viSeRaNam,26	kaI_eka	some_of_them				
-26	vi-lagnAH	31	0	vi-lagna{puM}{1;bahu}/lagna{puM}{8;bahu}/lagnA{swrI}{1;bahu}/lagnA{swrI}{2;bahu}/lagnA{swrI}{8;bahu}	vi_laj2{kqw_prawyayaH:kwa;vi_ozlajIz;wuxAxiH;puM}{1;bahu}	karma,28	lage_hue	being_attacked	<vi-lagnAH>Tp			
-27	xaSana-anwareRu	30	xaSana-anwareRu	xaSana-anwara{sarvanAma;puM;7;bahu}/anwara{sarvanAma;napuM;7;bahu}/anwara{puM;7;bahu}/anwara{napuM;7;bahu}	xaSana-anwara{napuM;7;bahu}	aXikaraNam,29	xAzwoM_ke_bIca_meM	between_the_teeth	<xaSana-anwareRu>T6			
-28	sanxqSyanwe	32	sanxqSyanwe	sam_xqS1{karmaNi;lat;pra;bahu;AwmanepaxI;xqSizr;BvAxiH}	sam_xqS1{karwari;lat;pra;bahu;AwmanepaxI;sam_xqSizr;BvAxiH}	aBihiwa_karwA,29	xIKa_rahe_hEM	being_seen				
-29	cUrNiwEH	27	cUrNiwEruwwamAfgEH	cUrNiwa{puM}{3;bahu}/cUrNiwa{napuM}{3;bahu}	cUrNiwa{puM}{3;bahu}	karwA,28	cUrNa_hue	smashed				
-30	uwwama-afgEH	28	0	uwwama-afga{puM}{3;bahu}/afga{napuM}{3;bahu}	uwwama-afga{puM}{3;bahu}	karwA,29	siroM	by_the_head	<uwwama-afgEH>Bs6			
+1	अमी	1	अमी	अदस्{पुं}{1;बहु}	अदस्{पुं}{1;बहु}	विशेषणम्,5	वे	अल्ल्_ट्होसे				
+2	च	10	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,6	और	अल्सो				
+3	त्वाम्	8	त्वां	युष्मद्{2;एक}	युष्मद्{2;एक}	अभेदः,19	आपमें	योउ				
+4	धृतराष्ट्रस्य	4	धृतराष्ट्रस्य	धृतराष्ट्र{पुं}{6;एक}	धृतराष्ट्र{पुं}{6;एक}	षष्ठीसम्बन्धः,5	धृतराष्ट्र_के	ओङ्_ढ्ह्र्टरस्ट्र				
+5	पुत्राः	5	पुत्राः	पुत्र{पुं}{1;बहु}/पुत्र{पुं}{8;बहु}	पुत्र{पुं}{1;बहु}	अभेदः,6	पुत्र	सोन्स्				
+6	सर्वे	2	सर्वे	सर्व{पुं}{1;बहु}/सर्व{नपुं}{1;द्वि}/सर्व{नपुं}{2;द्वि}/सर्वा{स्त्री}{1;द्वि}/सर्वा{स्त्री}{2;द्वि}	सर्व{पुं}{1;बहु}	कर्ता,22	सभी	अल्ल्				
+7	सह	7	सहैवावनिपालसङ्घैः	सह{अव्य}/सह{पुं}{8;एक}	सह{अव्य}	सहार्थ_द्योतकः,9	सहित	तिट्ह्				
+8	एव	3	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,7	ही	चेर्टइन्ल्य्				
+9	अवनि-पाल-सङ्घैः	6	0	अवनि-पाल-सङ्घ{पुं}{3;बहु}	अवनि-पाल-सङ्घ{पुं}{3;बहु}	सहार्थः,22	राजाओं_के_समुदाय	ट्हे_ग्रोउप्स्_ओङ्_तर्रिओर्_किन्ग्स्	<<अवनि-पाल>ठ्6-सङ्घैः>ठ्6			
+10	भीष्मः	11	भीष्मो	भीष्म{पुं}{1;एक}	भीष्म{पुं}{1;एक}	सुप्_समुच्चितः,6	भीष्मपितामह	भ्हिस्मडेव				
+11	द्रोणः	12	द्रोणः	द्रोण{पुं}{1;एक}	द्रोण{पुं}{1;एक}	सुप्_समुच्चितः,10	द्रोणाचार्य	ढ्रोनचर्य				
+12	सूत-पुत्रः	15	सूतपुत्रस्तथासौ	सूत-पुत्र{पुं}{1;एक}	सूत-पुत्र{पुं}{1;एक}	सुप्_समुच्चितः,10	कर्ण	खर्न	<सूत-पुत्रः>ठ्6			
+13	तथा	13	0	तथा{अव्य}	तथा{अव्य}	समुच्चय_द्योतकः,9	तथा	अल्सो				
+14	असौ	14	0	असु{पुं}{7;एक}/असि{पुं}{7;एक}/असि{स्त्री}{7;एक}/अदस्{पुं}{1;एक}/अदस्{स्त्री}{1;एक}	अदस्{पुं}{1;एक}	विशेषणम्,16	वह	ट्हट्				
+15	सह	19	सहास्मदीयैरपि	सह{अव्य}/सह{पुं}{8;एक}	सह{अव्य}	सहार्थ_द्योतकः,18	सहित	तिट्ह्				
+16	अस्मदीयैः	16	0	अस्मदीय{नपुं}{3;बहु}	अस्मदीय{नपुं}{3;बहु}	अभेदः,18	हमारे_पक्ष_के	ओउर्				
+17	अपि	17	0	अपि{अव्य}	अपि{अव्य}	सम्बन्धः,2	भी	अल्सो				
+18	योध-मुख्यैः	18	योधमुख्यैः	योध-मुख्य{पुं}{3;बहु}/मुख्य{नपुं}{3;बहु}	योध-मुख्य{पुं}{3;बहु}	सुप्_समुच्चितः,9	प्रधान_योद्धाओं_के	च्हिएङ्_अमोन्ग्_ट्हे_तर्रिओर्स्	<योध-मुख्यैः>ठ्6			
+19	वक्त्राणि	23	वक्त्राणि	वक्त्र{नपुं}{1;बहु}/वक्त्र{नपुं}{2;बहु}/वक्त्र{नपुं}{8;बहु}	वक्त्र{नपुं}{2;बहु}	कर्म,22	मुखों_में	मोउट्ह्स्				
+20	ते	20	ते	तद्{पुं}{1;बहु}/तद्{स्त्री}{1;द्वि}/तद्{स्त्री}{2;द्वि}/तद्{नपुं}{1;द्वि}/तद्{नपुं}{2;द्वि}/युष्मद्{4;एक}/युष्मद्{6;एक}	युष्मद्{6;एक}	षष्ठीसम्बन्धः,19	आपके	Yओउर्				
+21	त्वरमाणाः	24	त्वरमाणा	त्वरमाणाः	त्वर्1{कृत्_प्रत्ययः:क्त;ञित्वराँ;भ्वादिः;पुं}{1;बहु}	विधेय_विशेषणम्,22	बडॆअञए_वेग_से_दौडॆअञते_हुए	ङेअर्ङुल्				
+22	विशन्ति	25	विशन्ति	विशत्{नपुं}{1;बहु}/विशत्{नपुं}{2;बहु}/विशत्{नपुं}{8;बहु}	विश्1{कर्तरि;लट्;प्र;बहु;परस्मैपदी;विशँ;तुदादिः}	अभिहित_कर्ता,6	प्रवेश_कर_रहे_हैं	एन्टेरिन्ग्				
+23	दंष्ट्रा-करालानि	21	दंष्ट्राकरालानि	दंष्ट्रा-कराल{नपुं}{1;बहु}/कराल{नपुं}{2;बहु}/कराल{नपुं}{8;बहु}	दंष्ट्रा-कराल{नपुं}{2;बहु}	विशेषणम्,19	दाढॆअञओं_के_कारण_विकराल	टेर्रिब्ले_टेएट्ह्	<दंष्ट्रा-करालानि>ठ्3			
+24	भयानकानि	22	भयानकानि	भयानक{नपुं}{1;बहु}/भयानक{नपुं}{2;बहु}/भयानक{नपुं}{8;बहु}	भयानक{नपुं}{2;बहु}	विशेषणम्,19	भयानक	वेर्य्_ङेअर्ङुल्				
+25	केचित्	26	केचिद्विलग्ना	केचित्{अव्य}/किञ्चित्{पुं}{1;बहु}/किञ्चित्{स्त्री}{1;द्वि}/किञ्चित्{स्त्री}{2;द्वि}/किञ्चित्{नपुं}{1;द्वि}/किञ्चित्{नपुं}{2;द्वि}	किञ्चित्{पुं}{1;बहु}	विशेषणम्,26	कई_एक	सोमे_ओङ्_ट्हेम्				
+26	वि-लग्नाः	31	0	वि-लग्न{पुं}{1;बहु}/लग्न{पुं}{8;बहु}/लग्ना{स्त्री}{1;बहु}/लग्ना{स्त्री}{2;बहु}/लग्ना{स्त्री}{8;बहु}	वि_लज्2{कृत्_प्रत्ययः:क्त;वि_ओँलजीँ;तुदादिः;पुं}{1;बहु}	कर्म,28	लगे_हुए	बेइन्ग्_अट्टच्केड्	<वि-लग्नाः>ठ्प्			
+27	दशन-अन्तरेषु	30	दशन-अन्तरेषु	दशन-अन्तर{सर्वनाम;पुं;7;बहु}/अन्तर{सर्वनाम;नपुं;7;बहु}/अन्तर{पुं;7;बहु}/अन्तर{नपुं;7;बहु}	दशन-अन्तर{नपुं;7;बहु}	अधिकरणम्,29	दाँतों_के_बीच_में	बेट्तेएन्_ट्हे_टेएट्ह्	<दशन-अन्तरेषु>ठ्6			
+28	सन्दृश्यन्ते	32	सन्दृश्यन्ते	सम्_दृश्1{कर्मणि;लट्;प्र;बहु;आत्मनेपदी;दृशिँर्;भ्वादिः}	सम्_दृश्1{कर्तरि;लट्;प्र;बहु;आत्मनेपदी;सम्_दृशिँर्;भ्वादिः}	अभिहित_कर्ता,29	दीख_रहे_हैं	बेइन्ग्_सेएन्				
+29	चूर्णितैः	27	चूर्णितैरुत्तमाङ्गैः	चूर्णित{पुं}{3;बहु}/चूर्णित{नपुं}{3;बहु}	चूर्णित{पुं}{3;बहु}	कर्ता,28	चूर्ण_हुए	स्मस्हेड्				
+30	उत्तम-अङ्गैः	28	0	उत्तम-अङ्ग{पुं}{3;बहु}/अङ्ग{नपुं}{3;बहु}	उत्तम-अङ्ग{पुं}{3;बहु}	कर्ता,29	सिरों	ब्य्_ट्हे_हेअड्	<उत्तम-अङ्गैः>भ्स्6			

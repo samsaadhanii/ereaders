@@ -1,19 +1,19 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	wapAmi	2	wapAmyahamahaM	wap1{karwari;lat;u;eka;parasmEpaxI;wapaz;BvAxiH}/wap3{karwari;lat;u;eka;parasmEpaxI;wapaz;curAxiH}	wap1{karwari;lat;u;eka;parasmEpaxI;wapaz;BvAxiH}	aBihiwakarwA,2;akarmakaH	sUryarUpa_se_wapawA_hUz	give_heat				
-2	aham	1	0	asmax{1;eka}	asmax{1;eka}	karwA,1	mEM	I				
-3	aham	3	0	asmax{1;eka}	asmax{1;eka}	karwA,5	mEM	I				
-4	varRam	4	varRaM	varRa{puM}{2;eka}	varRa{puM}{2;eka}	karma,7	varRA_kA	rain				
-5	nigqhNAmi	5	nigqhNAmyuwsqjAmi	ni_grah1{karwari;lat;u;eka;uBayapaxI;grahaz;kryAxiH}	ni_grah1{karwari;lat;u;eka;parasmEpaxI;ni_grahaz;kryAxiH}	aBihiwakarwA,3;sakarmakaH	AkarRaNa_karawA_hUz	withhold				
-6	uwsqjAmi	6	0	uwsqjAmi	uw_sqj2{karwari;lat;u;eka;parasmEpaxI;uw_sqjaz;wuxAxiH}	samucciwaH,5	barasAwA_hUz	send_forth				
-7	ca	7	ca	ca{avya}	ca{avya}	samuccaya_xyowakaH,5	Ora	and				
-8	amqwam	10	amqwaM	a-mqwa{puM}{2;eka}/mqwa{napuM}{1;eka}/mqwa{napuM}{2;eka}	amqwa{napuM}{1;eka}	sup_samucciwaH,14	amqwa	immortality				
-9	ca	11	cEva	ca{avya}	ca{avya}	samuccaya_xyowakaH,8	Ora	and				
-10	eva	12	0	eva{avya}	eva{avya}	sambanXaH,8	hI	certainly				
-11	mqwyuH	13	mqwyuSca	mqwyu{puM}{1;eka}	mqwyu{puM}{1;eka}	sup_samucciwaH,14	mqwyu	death				
-12	ca	14	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,11	Ora	and				
-13	saw	15	saxasaccAhamarjuna	saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	saw{napuM}{1;eka}	sup_samucciwaH,14	saw	being				
-14	a-saw	16	0	a-saw{puM}{1;eka}/saw{puM}{8;eka}/saw{swrI}{1;eka}/saw{swrI}{8;eka}/saw{napuM}{1;eka}/saw{napuM}{2;eka}/saw{napuM}{8;eka}	asaw{napuM}{1;eka}	viXeya_viSeRaNam,17.1	asaw	nonbeing	<na-saw>Tn			
-15	ca	17	0	ca{avya}	ca{avya}	samuccaya_xyowakaH,14	BI	and				
-16	aham	9	0	asmax{1;eka}	asmax{1;eka}	karwA,17.1	mEM	I				
-17	arjuna	8	0	arjuna{puM}{8;eka}	arjuna{puM}{8;eka}	samboXyaH,17.1	he_arjuna	O_Arjuna				
-17.1	(asmi)	18	(0)	(asmi{avya}/as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	(as2{karwari;lat;u;eka;parasmEpaxI;asaz;axAxiH})	aBihiwakarwA,16;akarmakaH	(hUz)	am				
+1	तपामि	2	तपाम्यहमहं	तप्1{कर्तरि;लट्;उ;एक;परस्मैपदी;तपँ;भ्वादिः}/तप्3{कर्तरि;लट्;उ;एक;परस्मैपदी;तपँ;चुरादिः}	तप्1{कर्तरि;लट्;उ;एक;परस्मैपदी;तपँ;भ्वादिः}	अभिहितकर्ता,2;अकर्मकः	सूर्यरूप_से_तपता_हूँ	गिवे_हेअट्				
+2	अहम्	1	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,1	मैं	ई				
+3	अहम्	3	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,5	मैं	ई				
+4	वर्षम्	4	वर्षं	वर्ष{पुं}{2;एक}	वर्ष{पुं}{2;एक}	कर्म,7	वर्षा_का	रइन्				
+5	निगृह्णामि	5	निगृह्णाम्युत्सृजामि	नि_ग्रह्1{कर्तरि;लट्;उ;एक;उभयपदी;ग्रहँ;क्र्यादिः}	नि_ग्रह्1{कर्तरि;लट्;उ;एक;परस्मैपदी;नि_ग्रहँ;क्र्यादिः}	अभिहितकर्ता,3;सकर्मकः	आकर्षण_करता_हूँ	तिट्ह्होल्ड्				
+6	उत्सृजामि	6	0	उत्सृजामि	उत्_सृज्2{कर्तरि;लट्;उ;एक;परस्मैपदी;उत्_सृजँ;तुदादिः}	समुच्चितः,5	बरसाता_हूँ	सेन्ड्_ङोर्ट्ह्				
+7	च	7	च	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,5	और	अन्ड्				
+8	अमृतम्	10	अमृतं	अ-मृत{पुं}{2;एक}/मृत{नपुं}{1;एक}/मृत{नपुं}{2;एक}	अमृत{नपुं}{1;एक}	सुप्_समुच्चितः,14	अमृत	इम्मोर्टलिट्य्				
+9	च	11	चैव	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,8	और	अन्ड्				
+10	एव	12	0	एव{अव्य}	एव{अव्य}	सम्बन्धः,8	ही	चेर्टइन्ल्य्				
+11	मृत्युः	13	मृत्युश्च	मृत्यु{पुं}{1;एक}	मृत्यु{पुं}{1;एक}	सुप्_समुच्चितः,14	मृत्यु	डेअट्ह्				
+12	च	14	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,11	और	अन्ड्				
+13	सत्	15	सदसच्चाहमर्जुन	सत्{पुं}{1;एक}/सत्{पुं}{8;एक}/सत्{स्त्री}{1;एक}/सत्{स्त्री}{8;एक}/सत्{नपुं}{1;एक}/सत्{नपुं}{2;एक}/सत्{नपुं}{8;एक}	सत्{नपुं}{1;एक}	सुप्_समुच्चितः,14	सत्	बेइन्ग्				
+14	अ-सत्	16	0	अ-सत्{पुं}{1;एक}/सत्{पुं}{8;एक}/सत्{स्त्री}{1;एक}/सत्{स्त्री}{8;एक}/सत्{नपुं}{1;एक}/सत्{नपुं}{2;एक}/सत्{नपुं}{8;एक}	असत्{नपुं}{1;एक}	विधेय_विशेषणम्,17.1	असत्	नोन्बेइन्ग्	<न-सत्>ठ्न्			
+15	च	17	0	च{अव्य}	च{अव्य}	समुच्चय_द्योतकः,14	भी	अन्ड्				
+16	अहम्	9	0	अस्मद्{1;एक}	अस्मद्{1;एक}	कर्ता,17.1	मैं	ई				
+17	अर्जुन	8	0	अर्जुन{पुं}{8;एक}	अर्जुन{पुं}{8;एक}	सम्बोध्यः,17.1	हे_अर्जुन	औ_आर्जुन				
+17.1	(अस्मि)	18	(0)	(अस्मि{अव्य}/अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	(अस्2{कर्तरि;लट्;उ;एक;परस्मैपदी;असँ;अदादिः})	अभिहितकर्ता,16;अकर्मकः	(हूँ)	अम्				

@@ -1,11 +1,11 @@
 index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
-1	guNAn	5	guNAnewAnawIwya	guNa{puM}{2;bahu}	guNa{puM}{2;bahu}	karma,3	guNoM_ko	qualities				
-2	ewAn	3	0	ewax{puM}{2;bahu}	ewax{puM}{2;bahu}	viSeRaNam,1	ina	all_these				
-3	awIwya	6	0	awIwya	awi_i1{kqw_prawyayaH:lyap;awi_i;axAxiH}	pUrvakAlaH,10	ullaMGana_karake	transcending				
-4	wrIn	4	wrInxehI	wri{puM}{2;bahu}/wri{puM}{2;bahu}	wri{puM}{2;bahu}	viSeRaNam,1	wInoM	three				
-5	xehI	1	0	xehin{puM}{1;eka}	xehin{puM}{1;eka}	karwA,10	puruRa	embodied				
-6	xeha-samuxBavAn	2	xehasamuxBavAn	xeha-samuxBava{puM}{2;bahu}	xeha-samuxBava{puM}{2;bahu}	viSeRaNam,1	SarIra_kI_uwpawwi_ke_kAraNarUpa	produced_of_body	<xeha-samuxBavAn>T6			
-7	janma-mqwyu-jarA-xuHKEH	7	janmamqwyujarAxuHKErvimukwoZmqwamaSnuwe	janman-mqwyu-jarA-xuHKa{napuM}{3;bahu}	janman-mqwyu-jarA-xuHKa{napuM}{3;bahu}	hewuH,10	janma_mqwyu_vqxXAvasWA_Ora_xuHKoM_se	birth_death_old_age_and_distresses	<janma-mqwyu-jarA-xuHKEH>Di			
-8	vi-mukwaH	8	0	vimukwa{puM}{1;eka}	vi_muc1{kqw_prawyayaH:kwa;vi_mucLz;wuxAxiH;puM}{1;eka}	viSeRaNam,5	mukwa_huA	being_freed_from	<vi-mukwaH>Bvp			
-9	amqwam	9	0	amqwa{puM}{2;eka}/amqwa{napuM}{1;eka}/amqwa{napuM}{2;eka}	amqwa{napuM}{2;eka}	karma,10	paramAnanxa_ko	nectar				
-10	aSnuwe	10	0	aS1{karwari;lat;pra;eka;AwmanepaxI;aSUz;svAxiH}	aS1{karwari;lat;pra;eka;AwmanepaxI;aSUz;svAxiH}	aBihiwakarwA,5;sakarmakaH	prApwa_howA_hE	enjoys				
+1	गुणान्	5	गुणानेतानतीत्य	गुण{पुं}{2;बहु}	गुण{पुं}{2;बहु}	कर्म,3	गुणों_को	ऋउअलिटिएस्				
+2	एतान्	3	0	एतद्{पुं}{2;बहु}	एतद्{पुं}{2;बहु}	विशेषणम्,1	इन	अल्ल्_ट्हेसे				
+3	अतीत्य	6	0	अतीत्य	अति_इ1{कृत्_प्रत्ययः:ल्यप्;अति_इ;अदादिः}	पूर्वकालः,10	उल्लंघन_करके	ट्रन्स्चेन्डिन्ग्				
+4	त्रीन्	4	त्रीन्देही	त्रि{पुं}{2;बहु}/त्रि{पुं}{2;बहु}	त्रि{पुं}{2;बहु}	विशेषणम्,1	तीनों	ट्ह्रेए				
+5	देही	1	0	देहिन्{पुं}{1;एक}	देहिन्{पुं}{1;एक}	कर्ता,10	पुरुष	एम्बोडिएड्				
+6	देह-समुद्भवान्	2	देहसमुद्भवान्	देह-समुद्भव{पुं}{2;बहु}	देह-समुद्भव{पुं}{2;बहु}	विशेषणम्,1	शरीर_की_उत्पत्ति_के_कारणरूप	प्रोडुचेड्_ओङ्_बोड्य्	<देह-समुद्भवान्>ठ्6			
+7	जन्म-मृत्यु-जरा-दुःखैः	7	जन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते	जन्मन्-मृत्यु-जरा-दुःख{नपुं}{3;बहु}	जन्मन्-मृत्यु-जरा-दुःख{नपुं}{3;बहु}	हेतुः,10	जन्म_मृत्यु_वृद्धावस्था_और_दुःखों_से	बिर्ट्ह्_डेअट्ह्_ओल्ड्_अगे_अन्ड्_डिस्ट्रेस्सेस्	<जन्म-मृत्यु-जरा-दुःखैः>ढि			
+8	वि-मुक्तः	8	0	विमुक्त{पुं}{1;एक}	वि_मुच्1{कृत्_प्रत्ययः:क्त;वि_मुचॢँ;तुदादिः;पुं}{1;एक}	विशेषणम्,5	मुक्त_हुआ	बेइन्ग्_ङ्रेएड्_ङ्रोम्	<वि-मुक्तः>भ्व्प्			
+9	अमृतम्	9	0	अमृत{पुं}{2;एक}/अमृत{नपुं}{1;एक}/अमृत{नपुं}{2;एक}	अमृत{नपुं}{2;एक}	कर्म,10	परमानन्द_को	नेच्टर्				
+10	अश्नुते	10	0	अश्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;अशूँ;स्वादिः}	अश्1{कर्तरि;लट्;प्र;एक;आत्मनेपदी;अशूँ;स्वादिः}	अभिहितकर्ता,5;सकर्मकः	प्राप्त_होता_है	एन्जोय्स्				
