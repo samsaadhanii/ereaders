@@ -92,6 +92,8 @@ def check_constraints(data, valid_strings_file):
         ):
             if color_code == "KP" and possible_relations == "-" and "अभिहित" in kaaraka_list:
                 continue
+            if kaaraka_sambandha in ["-", ""]:
+                continue
             print(f'Error in Index: {indx} - kaaraka_sambandha not found in possible_relations')
         
         if not any(valid_str in kaaraka_sambandha and valid_str in possible_relations for valid_str in valid_strings):
