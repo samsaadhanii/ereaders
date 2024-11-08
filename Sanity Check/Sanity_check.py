@@ -20,9 +20,9 @@ def check_kaaraka_sambandha(kaaraka_sambandha, morph_in_context, index, data):
         target_item = next((d for d in data if str(d.get('index', '')) == target_index), None)
         if target_item:
             target_morph_in_context = target_item.get('morph_in_context', '')
-            if '1' in morph_in_context and not 'कर्तरि' in target_morph_in_context:
+            if '1' in morph_in_context and not ('कर्तरि' or 'क्तवतु') in target_morph_in_context:
                 print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्तरि.')
-            elif '3' in morph_in_context and not 'कर्मणि' in target_morph_in_context:
+            elif '3' in morph_in_context and not ('कर्मणि' or 'क्त' or 'तव्यत्' or 'अनीयर्') in target_morph_in_context:
                 print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्मणि.')
             elif '6' in morph_in_context and not any(word in target_morph_in_context for word in ['ल्युट्', 'घञ्']):
                 print(f'Error: Index {index} has कर्ता, but index {target_index} does not have ल्युट् or घञ्')
@@ -37,13 +37,22 @@ def check_constraints(data, valid_strings_file):
         kaaraka_sambandha = item.get('kaaraka_sambandha', '')
         possible_relations = item.get('possible_relations', '')
         indx = item.get('index', '')
+        word = item.get('word', '')
 
-        # Constraint checks
+        if word in ["-","","."]:
+            continue
+
+        if "अभिहित" in kaaraka_sambandha:
+            continue
+
         if not 'अभिहित_कर्ता' in kaaraka_sambandha:
             check_kaaraka_sambandha(kaaraka_sambandha, morph_in_context, indx, data)
 
         if kaaraka_sambandha in ["-", ""]:
-            print(f'Error in Index: {indx} Hanging node detected')
+            # Check if 'index' appears in any other 'kaaraka_sambandha' across all data
+            is_hanging_node = not any(indx in other_item.get('kaaraka_sambandha', '') for other_item in data if other_item != item)
+            if is_hanging_node:
+                print(f'Error in Index: {indx} Hanging node detected')
 
         if '/' in morph_in_context:
             print(f'Error in Index: {indx} - morph_in_context contains a "/"')
@@ -67,8 +76,20 @@ def check_constraints(data, valid_strings_file):
         kaaraka_list = kaaraka_sambandha.split(delimiter)
         possible_list = possible_relations.split(delimiter)
 
-        # Check if all items in kaaraka_list are in possible_list
-        if not all(item in possible_list for item in kaaraka_list):
+        # Check if each item in kaaraka_list has a corresponding item in possible_list with valid prefix, suffix, or number variations
+        if not all(
+            any(
+                # Ensure item has both parts before accessing by index
+                len(parts := item.split(',')) == 2 and
+                possible.endswith(parts[1]) and (
+                    possible.startswith(parts[0]) or 
+                    possible.startswith(f"सुप्_{parts[0]}") or
+                    re.match(rf"^{parts[0]}\d*,{parts[1]}$", possible)  # Matches हेतुः3, प्रयोजनम्1, etc.
+                )
+                for possible in possible_list
+            )
+            for item in kaaraka_list
+        ):
             if color_code == "KP" and possible_relations == "-" and "अभिहित" in kaaraka_list:
                 continue
             print(f'Error in Index: {indx} - kaaraka_sambandha not found in possible_relations')
@@ -78,7 +99,7 @@ def check_constraints(data, valid_strings_file):
                 continue
             print(f'Error in Index: {indx} - No valid string found in kaaraka_sambandha or in possible_relations')
 
-        if 'हेतुः' in kaaraka_sambandha and not ('3' in morph_in_context or '5' in morph_in_context):
+        if 'हेतुः' in kaaraka_sambandha and not ('3' in morph_in_context or '5' in morph_in_context or 'तसिल्' in morph_in_context):
             print(f'Error in Index: {indx} - check kaaraka_sambandha and morph_in_context')
 
         if 'करण,' in kaaraka_sambandha and not '3' in morph_in_context:
@@ -134,7 +155,7 @@ def check_constraints(data, valid_strings_file):
             print(f'Color Code: {color_code}')
 
 # Example usage
-data = load_tsv('05_001_1.tsv')
-check_constraints(data, 'valid_strings.txt')
+data = load_tsv('Sanity Check/02_05_2-06_1.tsv')
+check_constraints(data, 'Sanity Check/valid_strings.txt')
 
 # slef lopp 3 digit error
