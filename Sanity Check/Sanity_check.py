@@ -20,10 +20,10 @@ def check_kaaraka_sambandha(kaaraka_sambandha, morph_in_context, index, data):
         target_item = next((d for d in data if str(d.get('index', '')) == target_index), None)
         if target_item:
             target_morph_in_context = target_item.get('morph_in_context', '')
-            if '1' in morph_in_context and not ('कर्तरि' or 'क्तवतु') in target_morph_in_context:
-                print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्तरि.')
-            elif '3' in morph_in_context and not ('कर्मणि' or 'क्त' or 'तव्यत्' or 'अनीयर्') in target_morph_in_context:
-                print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्मणि.')
+            if '1' in morph_in_context and not ('क्तवतु') in target_morph_in_context and not ('कर्तरि') in target_morph_in_context:
+               print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्तरि or क्तवतु.')
+            elif '3' in morph_in_context and not ('कर्मणि') in target_morph_in_context and not ('क्त') in target_morph_in_context and not ('तव्यत्') in target_morph_in_context and not ('अनीयर्') in target_morph_in_context: 
+                print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्मणि or क्त or तव्यत् or अनीयर्.')
             elif '6' in morph_in_context and not any(word in target_morph_in_context for word in ['ल्युट्', 'घञ्']):
                 print(f'Error: Index {index} has कर्ता, but index {target_index} does not have ल्युट् or घञ्')
 
@@ -157,7 +157,7 @@ def check_constraints(data, valid_strings_file):
             print(f'Color Code: {color_code}')
 
 # Example usage
-data = load_tsv('Sanity Check/02_05_2-06_1.tsv')
-check_constraints(data, 'Sanity Check/valid_strings.txt')
+data = load_tsv('04_016_1.tsv')
+check_constraints(data, 'valid_strings.txt')
 
 # slef lopp 3 digit error
