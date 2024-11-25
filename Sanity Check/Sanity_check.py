@@ -21,7 +21,7 @@ def check_kaaraka_sambandha(kaaraka_sambandha, morph_in_context, index, data):
         if target_item:
             target_morph_in_context = target_item.get('morph_in_context', '')
             if '1' in morph_in_context and not ('क्तवतु') in target_morph_in_context and not ('कर्तरि') in target_morph_in_context:
-               print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्तरि or क्तवतु.')
+                print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्तरि or क्तवतु.')
             elif '3' in morph_in_context and not ('कर्मणि') in target_morph_in_context and not ('क्त') in target_morph_in_context and not ('तव्यत्') in target_morph_in_context and not ('अनीयर्') in target_morph_in_context: 
                 print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्मणि or क्त or तव्यत् or अनीयर्.')
             elif '6' in morph_in_context and not any(word in target_morph_in_context for word in ['ल्युट्', 'घञ्']):
