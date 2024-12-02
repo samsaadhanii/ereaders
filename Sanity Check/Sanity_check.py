@@ -39,8 +39,22 @@ def check_constraints(data, valid_strings_file):
         indx = item.get('index', '')
         word = item.get('word', '')
 
+        # Check for extra spaces in any field
+        for field, value in item.items():
+            if isinstance(value, str) and (re.search(r'\s{2,}', value) or value != value.strip()):
+                print(f"Error in Index: {indx} - Extra spaces detected in field '{field}'.")
+
         if word in ["-","","."]:
             continue
+
+        # New condition: Check if index has a format X.Y or X.Y.Z and the word ends with "-"
+        if re.match(r'^\d+\.\d+(\.\d+)?$', indx) and word.endswith('-'):
+            # Extract the prefix (X) from the index
+            prefix = indx.split('.')[0]
+            
+            # Now, check if kaaraka_sambandha contains X.any_number (with any number after the dot)
+            if not any(f"{prefix}." in kaaraka_sambandha for kaaraka in kaaraka_sambandha.split(';')):
+                print(f'Error in Index: {indx} - kaaraka_sambandha should contain {prefix}.any_number')
 
         if "अभिहित" in kaaraka_sambandha:
             continue
@@ -157,7 +171,7 @@ def check_constraints(data, valid_strings_file):
             print(f'Color Code: {color_code}')
 
 # Example usage
-data = load_tsv('04_016_1.tsv')
+data = load_tsv('054_2-55.tsv')
 check_constraints(data, 'valid_strings.txt')
 
 # slef lopp 3 digit error
