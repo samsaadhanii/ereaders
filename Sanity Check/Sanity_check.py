@@ -21,7 +21,7 @@ def check_kaaraka_sambandha(kaaraka_sambandha, morph_in_context, index, data):
         if target_item:
             target_morph_in_context = target_item.get('morph_in_context', '')
             if '1' in morph_in_context and not ('क्तवतु') in target_morph_in_context and not ('कर्तरि') in target_morph_in_context:
-               print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्तरि or क्तवतु.')
+                print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्तरि or क्तवतु.')
             elif '3' in morph_in_context and not ('कर्मणि') in target_morph_in_context and not ('क्त') in target_morph_in_context and not ('तव्यत्') in target_morph_in_context and not ('अनीयर्') in target_morph_in_context: 
                 print(f'Error: Index {index} has कर्ता, but index {target_index} does not have कर्मणि or क्त or तव्यत् or अनीयर्.')
             elif '6' in morph_in_context and not any(word in target_morph_in_context for word in ['ल्युट्', 'घञ्']):
@@ -39,8 +39,22 @@ def check_constraints(data, valid_strings_file):
         indx = item.get('index', '')
         word = item.get('word', '')
 
+        # Check for extra spaces in any field
+        for field, value in item.items():
+            if isinstance(value, str) and (re.search(r'\s{2,}', value) or value != value.strip()):
+                print(f"Error in Index: {indx} - Extra spaces detected in field '{field}'.")
+
         if word in ["-","","."]:
             continue
+
+        # New condition: Check if index has a format X.Y or X.Y.Z and the word ends with "-"
+        if re.match(r'^\d+\.\d+(\.\d+)?$', indx) and word.endswith('-'):
+            # Extract the prefix (X) from the index
+            prefix = indx.split('.')[0]
+            
+            # Now, check if kaaraka_sambandha contains X.any_number (with any number after the dot)
+            if not any(f"{prefix}." in kaaraka_sambandha for kaaraka in kaaraka_sambandha.split(';')):
+                print(f'Error in Index: {indx} - kaaraka_sambandha should contain {prefix}.any_number')
 
         if "अभिहित" in kaaraka_sambandha:
             continue
@@ -157,7 +171,7 @@ def check_constraints(data, valid_strings_file):
             print(f'Color Code: {color_code}')
 
 # Example usage
-data = load_tsv('04_016_1.tsv')
+data = load_tsv('054_2-55.tsv')
 check_constraints(data, 'valid_strings.txt')
 
 # slef lopp 3 digit error
