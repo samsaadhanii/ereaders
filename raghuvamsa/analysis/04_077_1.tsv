@@ -1,0 +1,14 @@
+index	word	poem	sandhied_word	morph_analysis	morph_in_context	kaaraka_sambandha	possible_relations	color_code	hindi_meaning	English_meaning	samAsa	prayoga	sarvanAma	Name-classification
+1.1	तत्र	1.1	तत्र	तत्र{अव्य}	तत्र{अव्य}	देशाधिकरणम्,3.1	देशाधिकरणम्,3.1	NA	वहाँ	-	-	-	-	On Mount Himalayas
+2.1	जन्यम्	7.1	जन्यं	जन्य{पुं;2;एक}/जन्य{नपुं;1;एक}/जन्य{नपुं;2;एक}	जन्य{नपुं;2;एक}	कर्म,7.1	कर्म,7.1	N2	जन्म	-	-	-	-	-
+3.1	रघोः	2.1	रघोर्घोरं	रघु{पुं;5;एक}/रघु{पुं;6;एक}	रघु{पुं;6;एक}	षष्ठीसम्बन्धः,5.1	षष्ठीसम्बन्धः,5.1	N6	रघु_के	-	-	-	-	-
+4.1	घोरं	6.1	-	घोर{पुं;2;एक}/घोर{नपुं;1;एक}/घोर{नपुं;2;एक}	घोर{नपुं;2;एक}	विशेषणम्,2.1	विशेषणम्,2.1	N2	घोर	-	-	-	-	-
+5.1	पर्वतीयैः	3.1	पर्वतीयैर्गणैरभूत्	पर्वतीय{पुं;3;बहु}	पर्वत{पुं;3;बहु}	विशेषणम्,6.1	विशेषणम्,6.1	N3	पर्वतों_से	-	-	-	-	-
+6.1	गणैः	4.1	-	गण{पुं;3;बहु}	गण{पुं;3;बहु}	सहार्थः,2.1	सहार्थः,2.1	N3	गणों_से	-	-	-	-	Seven mountain tribes mentioned in Mahabharata as Sabhaparva
+7.1	अभूत्	8.1	-	भू1{कर्तरि;लुङ्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	भू1{कर्तरि;लुङ्;प्र;एक;परस्मैपदी;भू;भ्वादिः}	अभिहित_कर्ता,2.1	अभिहित_कर्ता,2.1	KP	हुआ	-	-	-	-	-
+8.1	नाराच-	5.1	नाराचक्षेपणीयाश्मनिष्पेषोत्पतितानलम्	नाराच	नाराच	कर्मधारयः,8.2	कर्मधारयः,8.2	CP	नाराच-अनल	fire flashed forth between the conflicting iron arrows and stone thrown from catapults. 	-	-	-	-
+8.2	क्षेपणीय-	5.2	-	क्षेपणीय	क्षेपणीय	कर्मधारयः,8.3	कर्मधारयः,8.3	CP	नाराच-अनल	fire flashed forth between the conflicting iron arrows and stone thrown from catapults. 	-	-	-	-
+8.3	अश्म-	5.3	-	अश्म	अश्म	कर्मधारयः,8.4	कर्मधारयः,8.4	CP	नाराच-अनल	fire flashed forth between the conflicting iron arrows and stone thrown from catapults. 	-	-	-	-
+8.4	निष्पेष-	5.4	-	निष्पेष	निष्पेष	षष्ठी-तत्पुरुषः,8.5	षष्ठी-तत्पुरुषः,8.5	CP	नाराच-अनल	fire flashed forth between the conflicting iron arrows and stone thrown from catapults. 	-	-	-	-
+8.5	उत्पतित-	5.5	-	उत्पतित	उत्पतित	बहुव्रीहिः,8.6	बहुव्रीहिः,8.6	CP	नाराच-अनल	fire flashed forth between the conflicting iron arrows and stone thrown from catapults. 	-	-	-	-
+8.6	अनलम्	5.6	-	अनल{पुं;2;एक}	अनल{पुं;2;एक}	विशेषणम्,4.1	विशेषणम्,4.1	N2				-	-	
