@@ -1,15 +1,48 @@
 import re
 import csv
 
+# Color mapping: N1-N8, NA, KP, CP -> hex codes
+COLORS = {
+    "N1": "#00BFFF",    # Blue
+    "N2": "#93DB70",    # Green
+    "N3": "#40E0D0",    # Turquoise
+    "N4": "#B0E2FF",    # Light Blue
+    "N5": "#B4FFB4",    # Light Green
+    "N6": "#87CEEB",    # Sky Blue
+    "N7": "#C6E2EB",    # Light Cyan
+    "N8": "#6FFFC3",    # Light Green
+    "NA": "#FF99FF",    # Pink
+    "KP": "#FF1975",    # Red
+    "CP": "#FFFF00",    # Yellow
+}
+
+# Hex to number mapping for N1-N8 (for morph validation)
+HEX_TO_NUMBER = {
+    "#00BFFF": "1", "#93DB70": "2", "#40E0D0": "3", "#B0E2FF": "4",
+    "#B4FFB4": "5", "#87CEEB": "6", "#C6E2EB": "7", "#6FFFC3": "8",
+}
+
+def normalize_bgcolor(bgcolor):
+    """Convert N1/N2/... to hex, or return as-is if already hex."""
+    return COLORS.get(bgcolor, bgcolor)
+
 def load_valid_strings(filename):
     """Load valid strings from a text file."""
     with open(filename, 'r', encoding='utf-8') as file:
         return [line.strip() for line in file if line.strip()]
 
-def load_tsv(filename):
-    """Load TSV file and convert it into a list of dictionaries."""
+def load_data(filename):
+    """Load TSV or CSV file and convert it into a list of dictionaries.
+    Auto-detects delimiter (tab for TSV, comma for CSV)."""
     with open(filename, 'r', encoding='utf-8') as file:
-        reader = csv.DictReader(file, delimiter='\t')
+        sample = file.read(8192)
+        file.seek(0)
+        try:
+            dialect = csv.Sniffer().sniff(sample, delimiters='\t,')
+        except csv.Error:
+            # Fallback: use extension
+            dialect = csv.excel_tab() if filename.lower().endswith('.tsv') else csv.excel()
+        reader = csv.DictReader(file, dialect=dialect)
         return [row for row in reader]
 
 def check_kaaraka_sambandha(kaaraka_sambandha, morph_in_context, anvaya_no, data):
@@ -33,7 +66,7 @@ def check_constraints(data, valid_strings_file):
 
     for i, item in enumerate(data):
         morph_in_context = item.get('morph_in_context', '')
-        bgcolor = item.get('bgcolor', '')
+        bgcolor = normalize_bgcolor(item.get('bgcolor', ''))
         kaaraka_sambandha = item.get('kaaraka_sambandha', '')
         possible_relations = item.get('possible_relations', '')
         anvaya_no = item.get('anvaya_no', '')
@@ -78,10 +111,10 @@ def check_constraints(data, valid_strings_file):
         if any(re.search(patterns, str(item)) for item in kaaraka_sambandha):
             print(f'Error in Anvaya_no: {anvaya_no} Self Loop Detected')
 
-        if '{अव्य}' in morph_in_context and bgcolor != 'NA':
+        if '{अव्य}' in morph_in_context and bgcolor != COLORS['NA']:
             print(f'Error in Anvaya_no: {anvaya_no} check Morph Analysis and Color Code')
 
-        if 'कर्तरि;' in morph_in_context and bgcolor != 'KP':
+        if 'कर्तरि;' in morph_in_context and bgcolor != COLORS['KP']:
             print(f'Error in Anvaya_no: {anvaya_no} check Morph Analysis and Color Code')
 
         delimiter = '#' if '#' in possible_relations else ';'
@@ -104,7 +137,7 @@ def check_constraints(data, valid_strings_file):
             )
             for item in kaaraka_list
         ):
-            if bgcolor == "KP" and possible_relations == "-" and "अभिहित" in kaaraka_list:
+            if bgcolor == COLORS['KP'] and possible_relations == "-" and "अभिहित" in kaaraka_list:
                 continue
             if kaaraka_sambandha in ["-", ""]:
                 continue
@@ -165,13 +198,28 @@ def check_constraints(data, valid_strings_file):
                     print(f'Error in Anvaya_no: {anvaya_no} - check kaaraka_sambandha and morph_in_context')
 
         integers_in_morph = pattern.findall(morph_in_context)
-        if integers_in_morph and not any(number in bgcolor for number in integers_in_morph):
+        bgcolor_has_morph = (any(number in bgcolor for number in integers_in_morph) or
+                             (bgcolor in HEX_TO_NUMBER and HEX_TO_NUMBER[bgcolor] in integers_in_morph))
+        if integers_in_morph and not bgcolor_has_morph:
             print(f'Error in Anvaya_no: {anvaya_no} check the following details:')
             print(f'Morph Analysis: {morph_in_context}')
             print(f'bgcolor: {bgcolor}')
 
-# Example usage
-data = load_tsv('data_1000.tsv')
-check_constraints(data, 'valid_strings.txt')
+# Example usage - auto-finds .tsv and .csv files in the script's folder
+if __name__ == '__main__':
+    import os
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    data_files = sorted(
+        f for f in os.listdir(script_dir)
+        if f.endswith(('.tsv', '.csv'))
+    )
+    valid_strings_file = os.path.join(script_dir, 'valid_strings.txt')
+    if not data_files:
+        print('No .tsv or .csv files found in this folder.')
+    for data_file in data_files:
+        filepath = os.path.join(script_dir, data_file)
+        print(f'\n--- Checking {data_file} ---\n')
+        data = load_data(filepath)
+        check_constraints(data, valid_strings_file)
 
 # slef lopp 3 digit error
