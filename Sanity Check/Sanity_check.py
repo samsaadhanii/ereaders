@@ -49,12 +49,14 @@ def load_data(filename):
             rows.append(row)
         return rows
 
-def check_kaaraka_sambandha(kaaraka_sambandha, morph_in_context, line_number, data):
+def check_kaaraka_sambandha(kaaraka_sambandha, morph_in_context, line_number, data, sentno, slokano):
     # Check for the first occurrence of कर्ता in kaaraka_sambandha
     match = re.search(r'कर्ता,(\d+\.\d+(\.\d+)?)', kaaraka_sambandha)
     if not 'अभिहित_कर्ता' in kaaraka_sambandha and match:
         target_index = match.group(1)  # This will capture indexes like 9.1 or 9.1.1
-        target_item = next((d for d in data if str(d.get('anvaya_no', '')) == target_index), None)
+        # Only look for target within same sentno and slokano
+        target_item = next((d for d in data if str(d.get('anvaya_no', '')) == target_index
+                           and d.get('sentno') == sentno and d.get('slokano') == slokano), None)
         if target_item:
             target_morph_in_context = target_item.get('morph_in_context', '')
             target_line = target_item.get('_line_number', target_index)
@@ -99,11 +101,15 @@ def check_constraints(data, valid_strings_file):
             continue
 
         if not 'अभिहित_कर्ता' in kaaraka_sambandha:
-            check_kaaraka_sambandha(kaaraka_sambandha, morph_in_context, line_number, data)
+            check_kaaraka_sambandha(kaaraka_sambandha, morph_in_context, line_number, data,
+                                    item.get('sentno', ''), item.get('slokano', ''))
 
         if kaaraka_sambandha in ["-", ""]:
-            # Check if 'anvaya_no' appears in any other 'kaaraka_sambandha' across all data
-            is_hanging_node = not any(anvaya_no in other_item.get('kaaraka_sambandha', '') for other_item in data if other_item != item)
+            # Check if 'anvaya_no' appears in any other 'kaaraka_sambandha' within same sentno/slokano
+            is_hanging_node = not any(anvaya_no in other_item.get('kaaraka_sambandha', '')
+                                     for other_item in data if other_item != item
+                                     and other_item.get('sentno') == item.get('sentno')
+                                     and other_item.get('slokano') == item.get('slokano'))
             if is_hanging_node:
                 print(f'Error in line {line_number} Hanging node detected')
 
@@ -186,7 +192,9 @@ def check_constraints(data, valid_strings_file):
             if match:
                 target_index = match.group(1)
                 if '1' in morph_in_context:
-                    target_item = next((d for d in data if str(d.get('anvaya_no', '')) == target_index), None)
+                    target_item = next((d for d in data if str(d.get('anvaya_no', '')) == target_index
+                                       and d.get('sentno') == item.get('sentno')
+                                       and d.get('slokano') == item.get('slokano')), None)
                     if target_item and 'णिच्' not in target_item.get('morph_in_context', ''):
                         target_line = target_item.get('_line_number', target_index)
                         print(f'Error: Line {line_number} has प्रयोजककर्ता, but line {target_line} does not have णिच्')
@@ -198,7 +206,9 @@ def check_constraints(data, valid_strings_file):
             if match:
                 target_index = match.group(1)
                 if '3' in morph_in_context:
-                    target_item = next((d for d in data if str(d.get('anvaya_no', '')) == target_index), None)
+                    target_item = next((d for d in data if str(d.get('anvaya_no', '')) == target_index
+                                       and d.get('sentno') == item.get('sentno')
+                                       and d.get('slokano') == item.get('slokano')), None)
                     if target_item and 'णिच्' not in target_item.get('morph_in_context', ''):
                         target_line = target_item.get('_line_number', target_index)
                         print(f'Error: Line {line_number} has प्रयोज्यकर्ता, but line {target_line} does not have णिच्')
